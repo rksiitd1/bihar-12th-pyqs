@@ -1,0 +1,566 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Entomophily pollination is carried out by whom?",
+        "prashna": "इंटोमोफिली नामक परागण किसके द्वारा होता है?",
+        "options": {
+            "A": "Bird",
+            "B": "Bat",
+            "C": "Wind",
+            "D": "Insect"
+        },
+        "vikalpa": {
+            "A": "चिड़िया",
+            "B": "चमगादड़",
+            "C": "हवा",
+            "D": "कीड़ा"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Copper-T prevents:",
+        "prashna": "कॉपर-टी रोकता है:",
+        "options": {
+            "A": "Fertilization",
+            "B": "Ovulation",
+            "C": "Implantation of embryo on the uterine walls",
+            "D": "Blockage in the reproductive duct"
+        },
+        "vikalpa": {
+            "A": "निषेचन को",
+            "B": "ओवूलेशन को",
+            "C": "यूटेरस की दीवारों पर इम्ब्रियो के बनने को",
+            "D": "रिप्रोडक्टीव डक्ट में रुकावट को"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "An exception to Mendel's law is:",
+        "prashna": "मेंडल के नियम का एक अपवाद है:",
+        "options": {
+            "A": "Dominance",
+            "B": "Purity of gametes",
+            "C": "Linkage",
+            "D": "Independent assortment"
+        },
+        "vikalpa": {
+            "A": "प्रभाविता",
+            "B": "युग्मक की शुद्धता",
+            "C": "सहलग्नता",
+            "D": "स्वतंत्र अपव्यूहन"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following is a sexually transmitted disease?",
+        "prashna": "निम्न में से कौन यौन संचारित रोग हैं ?",
+        "options": {
+            "A": "Typhoid",
+            "B": "Cholera",
+            "C": "Malaria",
+            "D": "Syphilis"
+        },
+        "vikalpa": {
+            "A": "टायफायड",
+            "B": "हैजा",
+            "C": "मलेरिया",
+            "D": "सिफिलिस"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The pyrimidines found in RNA are:",
+        "prashna": "RNA के पाइरिमिडिन में पाया जाता है:",
+        "options": {
+            "A": "Cytosine and Thymine",
+            "B": "Adenine and Guanine",
+            "C": "Cytosine and Uracil",
+            "D": "Thymine and Uracil"
+        },
+        "vikalpa": {
+            "A": "साइटोसिन एवं थायमीन",
+            "B": "एडेनीन एवं गुआनीन",
+            "C": "साइटोसिन एवं यूरेसिल",
+            "D": "थायमीन एवं यूरेसिल"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Triple antigen vaccine is not used for:",
+        "prashna": "ट्रीपल एंटीजेन टीका का उपयोग नहीं होता है:",
+        "options": {
+            "A": "Diphtheria",
+            "B": "Pertussis",
+            "C": "Typhoid",
+            "D": "Tetanus"
+        },
+        "vikalpa": {
+            "A": "डिप्थेरिया के लिए",
+            "B": "पर्युसिस के लिए",
+            "C": "टायफायड के लिए",
+            "D": "टेटनस के लिए"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "PCR method is necessary for:",
+        "prashna": "PCR विधि आवश्यक है:",
+        "options": {
+            "A": "DNA synthesis",
+            "B": "Protein synthesis",
+            "C": "Amino acid synthesis",
+            "D": "DNA amplification"
+        },
+        "vikalpa": {
+            "A": "DNA संश्लेषण में",
+            "B": "प्रोटीन संश्लेषण में",
+            "C": "एमिनो अम्ल संश्लेषण में",
+            "D": "DNA संवर्धन में"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following is not a greenhouse gas?",
+        "prashna": "निम्न में कौन-सी ग्रीन हाउस गैस नहीं है ?",
+        "options": {
+            "A": "Methane",
+            "B": "Chlorofluorocarbon",
+            "C": "$CO_2$",
+            "D": "Nitrogen"
+        },
+        "vikalpa": {
+            "A": "मिथेन",
+            "B": "क्लोरोफ्लोरोकार्बन",
+            "C": "$CO_2$",
+            "D": "नाइट्रोजन"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which of the following cells does HIV attack?",
+        "prashna": "HIV निम्न में किस कोशिका पर आक्रमण करता है?",
+        "options": {
+            "A": "$\\beta$ cell",
+            "B": "T cell",
+            "C": "Epithelial cell",
+            "D": "T helper cell"
+        },
+        "vikalpa": {
+            "A": "$\\beta$ कोशिका",
+            "B": "T कोशिका",
+            "C": "इपीथिलियल कोशिका",
+            "D": "T हेल्पर कोशिका"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Kanha National Park is famous for:",
+        "prashna": "कान्हा राष्ट्रीय उद्यान प्रसिद्ध है:",
+        "options": {
+            "A": "Birds",
+            "B": "Rhinoceros",
+            "C": "Tigers",
+            "D": "Alligators"
+        },
+        "vikalpa": {
+            "A": "चिड़िया के लिए",
+            "B": "गेंडा के लिए",
+            "C": "बाघों के लिए",
+            "D": "घड़ियाल के लिए"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement I: Vasectomy is a method of population control. \nStatement II: It is a surgical method of population control.",
+        "prashna": "कथन I : पुरुष नसबंदी जनसंख्या रोकने की एक विधि है। \nकथन II : यह जनसंख्या रोकने की एक सर्जिकल विधि है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is false.",
+            "D": "Statement-I is false, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement I: Green plants are called producers. \nStatement II: Green plants convert light energy into chemical energy.",
+        "prashna": "कथन- I: हरे पौधे उत्पादक कहलाते है। \nकथन- II : हरे पौधे प्रकाश ऊर्जा को रासायनिक ऊर्जा में बदलते हैं।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is false.",
+            "D": "Statement-I is false, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement I: Entomophily is a method of cross-pollination. \nStatement II: It occurs through wind.",
+        "prashna": "कथन- I: कीटपरागण परपरागण का एक तरीका है। \nकथन II : यह हवा के द्वारा होता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is false.",
+            "D": "Statement-I is false, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement I: Bt is a type of biotoxin which is produced from Bacillus thuringiensis. \nStatement II: Bacillus thuringiensis produces carbohydrates which help in killing specific insects.",
+        "prashna": "कथन-I: बीटी एक प्रकार का जीव विष है, जो बैसीलस थ्युरिनजिएसीस से निर्मित होता है। \nकथन-II: बैसिलस थ्युरिनजिएसीस, कार्बोहाइड्रेट का निर्माण करती है, जो विशिष्ट कीटों को मारने में सहायक है",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is false.",
+            "D": "Statement-I is false, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement I: Penicillin was first discovered by Louis Pasteur. \nStatement II: Penicillin is obtained from a fungus.",
+        "prashna": "कथन- I: पेनिसिलिन की खोज लुई पाश्चुर ने प्रथम किया था। \nकथन- II : पेनिसिलिन एक फफूंद से प्राप्त होता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is false.",
+            "D": "Statement-I is false, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which of the following is not a disease caused by a virus?",
+        "prashna": "निम्न में से कौन वायरस से होने वाली बीमारी नहीं है?",
+        "options": {
+            "A": "Mumps",
+            "B": "Influenza",
+            "C": "Diphtheria",
+            "D": "Measles"
+        },
+        "vikalpa": {
+            "A": "मम्प्स",
+            "B": "इंफ्लुएंजा",
+            "C": "डिप्थेरिया",
+            "D": "मिजिलस"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following is not included in animal husbandry?",
+        "prashna": "निम्नलिखित में कौन पशुपालन में सम्मिलित नहीं है ?",
+        "options": {
+            "A": "Apiculture",
+            "B": "Poultry farming",
+            "C": "Pisciculture",
+            "D": "Organic farming"
+        },
+        "vikalpa": {
+            "A": "मधुमक्खी पालन",
+            "B": "कुक्कुट पालन",
+            "C": "मत्स्यकी",
+            "D": "कार्बनिक खेती"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Who among the following is not related to Microbiology?",
+        "prashna": "निम्नलिखित में किसका सम्बंध माइक्रोबाइलोजी से नहीं हैं ?",
+        "options": {
+            "A": "Louis Pasteur",
+            "B": "J. D. Watson",
+            "C": "Stephen Hales",
+            "D": "Robert Koch"
+        },
+        "vikalpa": {
+            "A": "लुई पाश्चुर",
+            "B": "जे. डी. वाटसन",
+            "C": "स्टेफेन हेल्स",
+            "D": "राबर्ट काँच"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Nitrogen fixation",
+        "prashna": "नाइट्रोजन स्थिरीकरण",
+        "options": {
+            "A": "Environment Day",
+            "B": "Alexander Fleming",
+            "C": "Pancreas",
+            "D": "Rhizobium"
+        },
+        "vikalpa": {
+            "A": "पर्यावरण दिवस",
+            "B": "एलेक्जेंडर फ्लेमिंग",
+            "C": "पेंक्रीयास",
+            "D": "रायजोबियम"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Insulin",
+        "prashna": "इंसुलिन",
+        "options": {
+            "A": "Environment Day",
+            "B": "Alexander Fleming",
+            "C": "Pancreas",
+            "D": "Rhizobium"
+        },
+        "vikalpa": {
+            "A": "पर्यावरण दिवस",
+            "B": "एलेक्जेंडर फ्लेमिंग",
+            "C": "पेंक्रीयास",
+            "D": "रायजोबियम"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "5th June",
+        "prashna": "5 जून",
+        "options": {
+            "A": "Environment Day",
+            "B": "Alexander Fleming",
+            "C": "Pancreas",
+            "D": "Rhizobium"
+        },
+        "vikalpa": {
+            "A": "पर्यावरण दिवस",
+            "B": "एलेक्जेंडर फ्लेमिंग",
+            "C": "पेंक्रीयास",
+            "D": "रायजोबियम"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Antibiotic",
+        "prashna": "एंटीबायोटिक",
+        "options": {
+            "A": "Environment Day",
+            "B": "Alexander Fleming",
+            "C": "Pancreas",
+            "D": "Rhizobium"
+        },
+        "vikalpa": {
+            "A": "पर्यावरण दिवस",
+            "B": "एलेक्जेंडर फ्लेमिंग",
+            "C": "पेंक्रीयास",
+            "D": "रायजोबियम"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Substances that elicit an immune response are called:",
+        "prashna": "ऐसे पदार्थ जिनके प्रति प्रतिरक्षा अनुक्रिया होती है उसे कहते हैं:",
+        "options": {
+            "A": "Allergen",
+            "B": "Vaccine",
+            "C": "Antibody",
+            "D": "Antigen"
+        },
+        "vikalpa": {
+            "A": "एलर्जन",
+            "B": "टीका",
+            "C": "एण्टीबॉडी",
+            "D": "एन्टीजन"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "The antibodies produced in an allergy are:",
+        "prashna": "एलर्जी में बनने वाली प्रतिरक्षियों हैं।",
+        "options": {
+            "A": "Of $IgA$ type",
+            "B": "Of $IgE$ type",
+            "C": "Of $IgM$ type",
+            "D": "Of $IgG$ type"
+        },
+        "vikalpa": {
+            "A": "$IgA$ प्रकार के",
+            "B": "$IgE$ प्रकार के",
+            "C": "$IgM$ प्रकार के",
+            "D": "$IgG$ प्रकार के"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "The chemicals released due to allergy are:",
+        "prashna": "एलर्जी के कारण निकलने वाले रसायन हैं:",
+        "options": {
+            "A": "Histamine",
+            "B": "Serotonin",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "हिस्टामिन",
+            "B": "सिरोटोनिन",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से नहीं"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is the function of Corpus Luteum?",
+        "prashna": "कार्पस ल्युटियम का क्या कार्य है ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Mention two symptoms of AIDS.",
+        "prashna": "AIDS के दो लक्षण बताइए।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write the four stages associated with crossing over.",
+        "prashna": "क्रॉसिंग ओवर से जुड़े चार चरणों को लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Differentiate between Transcription and Translation.",
+        "prashna": "ट्रांसक्रीप्शन और ट्रांसलेशन में अन्तर बताइए।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What do you know about the Bhopal gas tragedy?",
+        "prashna": "भोपाल गैस त्रासदी के बारे में आप क्या जानते हैं?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What do you understand by organic farming?",
+        "prashna": "कार्बनिक खेती से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Give a brief description of the process of formation of an $XXY$ individual in humans.",
+        "prashna": "मनुष्यों में $XXY$ व्यक्ति के बनने की प्रक्रिया का संक्षिप्त विवरण दें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is Amniocentesis?",
+        "prashna": "एमनियोसिन्टेसिस क्या है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What do you understand by the term 'pathogen'?",
+        "prashna": "पैथोजेन शब्द से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write the names of some antibiotics that are obtained from bacteria.",
+        "prashna": "कुछ एंटीबायोटिक के नाम लिखें जो बैक्टीरिया से प्राप्त होते है।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What are the effects of nicotine?",
+        "prashna": "निकोटिन के क्या प्रभाव है?"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Describe all the components of an ecosystem.",
+        "prashna": "किसी पारिस्थितिक तंत्र के सभी अवयवों का वर्णन करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Describe the carbon cycle in an ecosystem.",
+        "prashna": "किसी पारिस्थितिक तंत्र में कार्बन चक्र का वर्णन करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "What is Genetic Engineering? How can it be useful for human welfare?",
+        "prashna": "जेनेटिक इन्जीनियरिंग क्या है? यह मनुष्य कल्याण के लिए कैसे उपयोगी हो सकता है?"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Write an essay on Darwinism.",
+        "prashna": "डार्विनवाद पर एक निबन्ध लिखिए।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Write a short note on the healthy reproduction process.",
+        "prashna": "स्वस्थ्य प्रजनन क्रिया पर एक संक्षिप्त लेख लिखें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Discuss the dihybrid cross described by Mendel.",
+        "prashna": "मंडल द्वारा बताये गए डीइहाइब्रिड क्रॉस की विवेचना करें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "Discuss the principle and technique of DNA fingerprinting.",
+        "prashna": "DNA फिंगरप्रिंटिंग के सिद्धांत और तकनीक की विवेचना करें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Prove with two examples that DNA is a genetic material.",
+        "prashna": "दो उदाहरणों से सिद्ध कीजिए कि DNA एक जेनेटिक पदार्थ है।"
+    }
+]

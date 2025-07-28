@@ -1,0 +1,628 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "When an offspring is produced by a single parent, what is it called?",
+        "prashna": "जब संतति की उत्पत्ति एकल जनक द्वारा होती है तब यह क्या कहलाता है ?",
+        "options": {
+            "A": "Sexual reproduction",
+            "B": "Asexual reproduction",
+            "C": "Both (A) and (B)",
+            "D": "Internal fertilization"
+        },
+        "vikalpa": {
+            "A": "लैंगिक जनन",
+            "B": "अलैंगिक जनन",
+            "C": "(A) और (B) दोनों",
+            "D": "आंतरिक निषेचन"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "In which organism does reproduction by budding occur?",
+        "prashna": "मुकुलन द्वारा जनन किसमें होता है?",
+        "options": {
+            "A": "Yeast",
+            "B": "Paramecium",
+            "C": "Penicillium",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "यीस्ट",
+            "B": "परामिशियम",
+            "C": "पेनिसिलियम",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "What is the number of chromosomes in human gametes?",
+        "prashna": "मानव युग्मकों में गुणसूत्रों की कितनी संख्या होती है?",
+        "options": {
+            "A": "21",
+            "B": "23",
+            "C": "44",
+            "D": "46"
+        },
+        "vikalpa": {
+            "A": "21",
+            "B": "23",
+            "C": "44",
+            "D": "46"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which one is oviparous?",
+        "prashna": "अंड प्रजक है।",
+        "options": {
+            "A": "Hen",
+            "B": "Snake",
+            "C": "Crocodile",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "मुर्गी",
+            "B": "साँप",
+            "C": "मगरमच्छ",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which is diploid?",
+        "prashna": "द्विगुणित है",
+        "options": {
+            "A": "Ovum",
+            "B": "Pollen",
+            "C": "Both (A) and (B)",
+            "D": "Zygote"
+        },
+        "vikalpa": {
+            "A": "अंड",
+            "B": "पराग",
+            "C": "(A) और (B) दोनों",
+            "D": "युग्मनज"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "In which fruit is the aril eaten?",
+        "prashna": "किस फल में बीजचोल खाला जाता है?",
+        "options": {
+            "A": "Nutmeg",
+            "B": "Litchi",
+            "C": "Custard apple",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "जायफल",
+            "B": "लीची",
+            "C": "शरीफा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The source of Eco RI enzyme is:",
+        "prashna": "Eco RI एंजाइम का स्रोत है।",
+        "options": {
+            "A": "Bam HI",
+            "B": "E. coli",
+            "C": "Both (A) and (B)",
+            "D": "Hind III"
+        },
+        "vikalpa": {
+            "A": "Bam HI",
+            "B": "E. coli",
+            "C": "(A) और (B) दोनों",
+            "D": "Hind III"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which is an indicator of $SO_2$ pollution?",
+        "prashna": "$SO_2$ प्रदूषण का सूचक है",
+        "options": {
+            "A": "Algae",
+            "B": "Lichen",
+            "C": "Fungus",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "शैवाल",
+            "B": "लाईकेन",
+            "C": "कवक",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "T-lymphocyte is produced from:",
+        "prashna": "T-लिम्फोसाइट उत्पन्न होता है",
+        "options": {
+            "A": "From bone marrow",
+            "B": "From stomach",
+            "C": "From thymus",
+            "D": "From liver"
+        },
+        "vikalpa": {
+            "A": "अस्थिमज्जा से",
+            "B": "पेट से",
+            "C": "थाईमस से",
+            "D": "यकृत से"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Who produces honey?",
+        "prashna": "शहद का निर्माण कौन करती है?",
+        "options": {
+            "A": "Male honeybee",
+            "B": "Queen honeybee",
+            "C": "Worker honeybee",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "नर मधुमक्खी",
+            "B": "रानी मधुमक्खी",
+            "C": "कार्यकर्ता मधुमक्खी",
+            "D": "(A) और (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In what is semen cryopreserved?",
+        "prashna": "वीर्य को किसमें हिमीकृत किया जाता है ?",
+        "options": {
+            "A": "In liquid nitrogen",
+            "B": "In refrigerator",
+            "C": "In ice",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "तरल नाइट्रोजन में",
+            "B": "रेफ्रिजरेटर में",
+            "C": "बर्फ में",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which of the following diseases occurs in chickens?",
+        "prashna": "निम्नांकित में कौन-सी बीमारी मुर्गियों में होती है?",
+        "options": {
+            "A": "Smut",
+            "B": "Cholera",
+            "C": "Both (A) and (B)",
+            "D": "Ranikhet"
+        },
+        "vikalpa": {
+            "A": "स्मट",
+            "B": "हैजा",
+            "C": "(A) और (B) दोनों",
+            "D": "रानीखेत"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "What is the fusogen for protoplast culture?",
+        "prashna": "प्रोटोप्लास्ट कल्वर का फ्यूजोजेन क्या है?",
+        "options": {
+            "A": "Liquid nitrogen",
+            "B": "PEG",
+            "C": "Lactic acid",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "तरल नाइट्रोजन",
+            "B": "PEG",
+            "C": "लैक्टिक अम्ल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Oncology is the study of?",
+        "prashna": "ऑन्कोलॉजी किसका अध्ययन है?",
+        "options": {
+            "A": "Cancer",
+            "B": "Oncogenes",
+            "C": "Both (A) and (B)",
+            "D": "Virus"
+        },
+        "vikalpa": {
+            "A": "कैंसर",
+            "B": "ऑन्कोजीन्स",
+            "C": "(A) और (B) दोनों",
+            "D": "विषाणु"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The dough for Idli and Dosa is made by the use of which microorganism?",
+        "prashna": "इडली एवं डोसा का आटा किस सूक्ष्मजीव के प्रयोग से बनाया जाता है ?",
+        "options": {
+            "A": "Bacteria",
+            "B": "Lactobacillus",
+            "C": "Virus",
+            "D": "Yeast"
+        },
+        "vikalpa": {
+            "A": "जीवाणु",
+            "B": "लैक्टोबैसीलस",
+            "C": "विषाणु",
+            "D": "यीस्ट"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "In which is Ti-plasmid found?",
+        "prashna": "Ti- प्लाज्मिड किसमें पाया जाता है ?",
+        "options": {
+            "A": "In Agrobacterium tumefaciens",
+            "B": "In E. coli",
+            "C": "In B. coli",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "एग्रोबैक्टिरियम ट्युमिफेसियन्स में",
+            "B": "ई. कोलाई में",
+            "C": "बी. कोलाई में",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "From what is agarose obtained?",
+        "prashna": "एगारोज किससे प्राप्त किया जाता है?",
+        "options": {
+            "A": "Seaweed",
+            "B": "Maize",
+            "C": "Cycas",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "समुद्री घास",
+            "B": "मक्का",
+            "C": "साईकस",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which is a sexually transmitted disease?",
+        "prashna": "यौन संचारित रोग है",
+        "options": {
+            "A": "Measles",
+            "B": "T.B.",
+            "C": "Gonorrhoea",
+            "D": "Typhoid"
+        },
+        "vikalpa": {
+            "A": "खसरा",
+            "B": "टी.बी.",
+            "C": "गोनोरिया",
+            "D": "टायफाएड"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "How many codons are there in the genetic code?",
+        "prashna": "आनुवंशिक कूट में कितने कूट होते हैं?",
+        "options": {
+            "A": "4",
+            "B": "16",
+            "C": "32",
+            "D": "64"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "16",
+            "C": "32",
+            "D": "64"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "In colour blindness, the patient cannot distinguish between",
+        "prashna": "वर्णांधता में रोगी नहीं पहचान पाता है",
+        "options": {
+            "A": "Red and yellow colour",
+            "B": "Red and green colour",
+            "C": "Blue and green colour",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "लाल तथा पीला रंग",
+            "B": "लाल तथा हरा रंग",
+            "C": "नीला तथा हरा रंग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "The Operon model was proposed by",
+        "prashna": "ओपेरॉन मॉडल प्रस्तावित किया था",
+        "options": {
+            "A": "Watson and Crick",
+            "B": "Nirenberg",
+            "C": "Jacob and Monod",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वाटसन तथा क्रीक ने",
+            "B": "निरेनबर्ग ने",
+            "C": "जेकॉब तथा मोनाड ने",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Echidna is a",
+        "prashna": "एकिडना है",
+        "options": {
+            "A": "Connecting link",
+            "B": "Vestigial organ",
+            "C": "Extinct link",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "योजक कड़ी",
+            "B": "अवशेषी अंग",
+            "C": "विलुप्त कड़ी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which of the following is an insectivorous plant?",
+        "prashna": "निम्न में से कौन कीटभक्षी पौधा है ?",
+        "options": {
+            "A": "Drosera",
+            "B": "Nepenthes",
+            "C": "Both (A) and (B)",
+            "D": "Hydrilla"
+        },
+        "vikalpa": {
+            "A": "ड्रॉसेरा",
+            "B": "नेपेन्थीस",
+            "C": "(A) और (B) दोनों",
+            "D": "हाइड्रिला"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Spermatogenesis is controlled by?",
+        "prashna": "शुक्राणुजनन का नियंत्रण किसके द्वारा होता है?",
+        "options": {
+            "A": "Estrogen",
+            "B": "L.H.",
+            "C": "Androgen",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एस्ट्रोजेन",
+            "B": "L.H.",
+            "C": "एंड्रोजेन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "In human blood group AB",
+        "prashna": "मानव रुधिर AB वर्ग में",
+        "options": {
+            "A": "Antibodies are present",
+            "B": "Antibodies are absent",
+            "C": "Antibody 'a' is present",
+            "D": "Antibody 'b' is present"
+        },
+        "vikalpa": {
+            "A": "एंटीबडी उपस्थित होते हैं।",
+            "B": "एंटीबडी अनुपस्थित रहते है",
+            "C": "एंटीबडी a उपस्थित होते हैं।",
+            "D": "एंटीबडी b उपस्थित होते हैं"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "What is found in Golden Rice?",
+        "prashna": "गोल्डेन राइस में पाया जाता है।",
+        "options": {
+            "A": "Vitamin A",
+            "B": "Vitamin $B_{12}$",
+            "C": "Vitamin C",
+            "D": "Vitamin D"
+        },
+        "vikalpa": {
+            "A": "विटामिन A",
+            "B": "विटामिन $B_{12}$",
+            "C": "विटामिन C",
+            "D": "विटामिन D"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Mendel had proposed",
+        "prashna": "मेण्डल ने प्रस्तावित किया था",
+        "options": {
+            "A": "Law of linkage",
+            "B": "10% law of energy",
+            "C": "Law of inheritance",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सहलग्नता के नियम",
+            "B": "10% ऊर्जा के नियम",
+            "C": "आनुवंशिकता के नियम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which is helpful in making soil fertile?",
+        "prashna": "मिट्टी को उपजाऊ बनाने में सहायक",
+        "options": {
+            "A": "Insecticide",
+            "B": "Organic manure",
+            "C": "Yeast",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "कीटनाशक",
+            "B": "जैविक खाद",
+            "C": "यीस्ट",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Write a short note on asexual reproduction in organisms.",
+        "prashna": "जीवों में अलैंगिक जनन के बारे में संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Differentiate between oestrous cycle and menstrual cycle.",
+        "prashna": "मदचक्र तथा ऋतुस्राव चक्र के बारे में स्पष्ट करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write the laws proposed by Mendel on the basis of monohybrid cross.",
+        "prashna": "एकसंकर क्रॉस के आधार पर मेण्डल के प्रतिपादित नियमों को लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Differentiate between DNA and RNA.",
+        "prashna": "डी०एन०ए० तथा आर०एन०ए० में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Write in brief about chemical evolution.",
+        "prashna": "रासायनिक विकास के बारे में संक्षेप में लिखें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "How do diseases spread? Write in brief.",
+        "prashna": "रोग का प्रसार कैसे होता है? संक्षेप में लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Give a brief account of poultry farm management.",
+        "prashna": "कुक्कुट फार्म प्रबंधन का संक्षिप्त विवरण दें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is a plasmid? Briefly write about the structure and utility of a plasmid.",
+        "prashna": "प्लाज्मिड क्या है? प्लाज्मिड की संरचना तथा उपयोगिता संक्षेप में लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What are the benefits of transgenic animals?",
+        "prashna": "ट्रांसजेनिक जन्तुओं से क्या-क्या लाभ हैं?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What are the forms of a total population? Write in brief.",
+        "prashna": "कुल आबादी का रूप क्या-क्या है? संक्षेप में लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Write about hydrophytes, xerophytes, and mesophytes with examples.",
+        "prashna": "जलोद्भिद, मरूद्भिद तथा समोद्भिद के बारे में सोदाहरण लिखें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Describe with a diagram the process of gastrulation and formation of germ layers.",
+        "prashna": "गैस्ट्रलेशन तथा जनन परतों के निर्माण के बारे में सचित्र वर्णन करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Show the structure of a human sperm with a labelled diagram and briefly write about all its components.",
+        "prashna": "मानव शुक्राणु की संरचना नामांकित चित्र द्वारा दर्शाइए तथा इसके सभी घटकों के बारे में संक्षेप में लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "What are linkage and linkage groups? Write about the effect and importance of linkage.",
+        "prashna": "सहलग्नता तथा सहलग्नता वर्ग क्या हैं? सहलग्नता का प्रभाव एवं इसकी महत्ता के बारे में लिखें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "What do you understand by an ecosystem? Describe the structure and components of an ecosystem.",
+        "prashna": "पारिस्थितिक तंत्र से आप क्या समझते हैं? पारिस्थितिक तंत्र की संरचना तथा इसके घटकों के बारे में वर्णन करें।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "What do you understand by micropropagation? Write about the methods of micropropagation with the help of diagrams.",
+        "prashna": "सूक्ष्म प्रजनन से आप क्या समझते हैं ? सूक्ष्म प्रजनन की विधियों को चित्रों की सहायता से लिखें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "What are the measures to increase the quantity of milk production and improve its quality in a dairy farm?",
+        "prashna": "डेयरी फार्म में दुग्ध उत्पादन की मात्रा बढ़ाने तथा उसकी गुणवत्ता सुधारने के क्या-क्या उपाय हैं?"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "What do you understand by conservation? Describe the methods of conservation of biological resources.",
+        "prashna": "संरक्षण से आप क्या समझते हैं? जैविक स्रोतों का संरक्षण के तरीकों का वर्णन करें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Write short notes on the following:",
+        "prashna": "निम्नांकित पर संक्षिप्त टिप्पणी लिखें-",
+        "sub_questions": {
+            "A": "Restriction enzyme",
+            "B": "Causes, symptoms and control of Cholera"
+        },
+        "anuprashna": {
+            "A": "प्रतिबंधन एंजाइम",
+            "B": "हैजा के कारण, लक्षण तथा नियंत्रण"
+        }
+    }
+]

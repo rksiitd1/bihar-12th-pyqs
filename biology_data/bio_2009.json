@@ -1,0 +1,560 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which of these combines with the male gamete to form the endosperm?",
+        "prashna": "इनमें से कौन नर युग्मक से संयोजन कर भ्रूणपोष बनाता है?",
+        "options": {
+            "A": "Unfertilized egg",
+            "B": "Synergid cell",
+            "C": "Antipodals",
+            "D": "Secondary nucleus"
+        },
+        "vikalpa": {
+            "A": "अनिषेचित अंड",
+            "B": "सहायक कोशिका",
+            "C": "एंटीपोडल्स",
+            "D": "द्वितीयक केन्द्रक"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "What is found in the middle piece of a mammalian sperm?",
+        "prashna": "स्तनधारी के शुक्राणु के मध्य भाग में क्या पाया जाता है?",
+        "options": {
+            "A": "Nucleus",
+            "B": "Vacuole",
+            "C": "Mitochondria",
+            "D": "Centriole"
+        },
+        "vikalpa": {
+            "A": "केन्द्रक",
+            "B": "रसधानी",
+            "C": "माइटोकॉन्ड्रिया",
+            "D": "सेंट्रीओल"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "One gene pair suppresses the effect of another non-allelic gene pair. This phenomenon is called:",
+        "prashna": "एक जीव जोड़ा दूसरे तीन जोड़े के प्रभाव को दबा देता है। इस घटना को कहते हैं",
+        "options": {
+            "A": "Epistasis",
+            "B": "Dominance",
+            "C": "Mutation",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एपिस्टेसिस",
+            "B": "प्रभाविता",
+            "C": "उत्परिवर्तन",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "In a DNA molecule, Cytosine is 18%. The percentage of Adenine is:",
+        "prashna": "डी०एन०ए० अणु में साइटोसीन 18% है। एडिनिन का प्रतिशत है",
+        "options": {
+            "A": "64",
+            "B": "36",
+            "C": "82",
+            "D": "32"
+        },
+        "vikalpa": {
+            "A": "64",
+            "B": "36",
+            "C": "82",
+            "D": "32"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The increase in skin cancer and mutation rate is due to?",
+        "prashna": "बढ़ता त्वचा कैंसर एवं उत्परिवर्तन दर की अधिकता किसके कारण है?",
+        "options": {
+            "A": "Acid rain",
+            "B": "Depletion of ozone layer",
+            "C": "$CO$ pollution",
+            "D": "$CO_2$ pollution"
+        },
+        "vikalpa": {
+            "A": "अम्ल वर्षा",
+            "B": "ओजोन परत में कमी",
+            "C": "$CO$ प्रदूषण",
+            "D": "$CO_2$ प्रदूषण"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Widal test is used for the confirmation of?",
+        "prashna": "विडाल परीक्षण किसकी पुष्टि के लिए किया जाता है?",
+        "options": {
+            "A": "Malaria",
+            "B": "Typhoid",
+            "C": "AIDS",
+            "D": "Cancer"
+        },
+        "vikalpa": {
+            "A": "मलेरिया",
+            "B": "टाइफॉइड",
+            "C": "एड्स",
+            "D": "कैंसर"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The sequence of three bases on transfer RNA that binds to the messenger RNA codon is called:",
+        "prashna": "ट्रांसफर आर एन ए में पाये जानेवाले तीन क्षारकों का क्रम जो संदेशवाहक आर एन ए कोडॉन से बंधता है, कहलाता है",
+        "options": {
+            "A": "Triplet",
+            "B": "Non-sense codon",
+            "C": "Anticodon",
+            "D": "Termination codon"
+        },
+        "vikalpa": {
+            "A": "त्रिक्",
+            "B": "नॉन-सेन्स कोडॉन",
+            "C": "ऐन्टीकोडॉन",
+            "D": "समापन कोडॉन"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "What will be the number of linkage groups in a cell where $2n = 14$?",
+        "prashna": "सहलग्नता समूह की संख्या उस कोशिका के लिए क्या होगी जिसमें $2n = 14$ है?",
+        "options": {
+            "A": "5",
+            "B": "10",
+            "C": "7",
+            "D": "14"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "10",
+            "C": "7",
+            "D": "14"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Wuchereria bancrofti causes filariasis in humans. It belongs to which group?",
+        "prashna": "तुचेरेरिया बैंक्रॉफ्टी आदमी में फाइलेरिया रोग पैदा करता है। यह किस समूह का है ?",
+        "options": {
+            "A": "Protozoa",
+            "B": "Bacteria",
+            "C": "Virus",
+            "D": "Helminth"
+        },
+        "vikalpa": {
+            "A": "प्रोटोजोआ",
+            "B": "जीवाणु",
+            "C": "विषाणु",
+            "D": "हेलमिन्थ"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which organ of the body is most affected by excessive consumption of alcohol?",
+        "prashna": "अत्यधिक अल्कोहल लेने से शरीर का कौन-सा अंग सबसे ज्यादा प्रभावित होता है ?",
+        "options": {
+            "A": "Lungs",
+            "B": "Liver",
+            "C": "Stomach",
+            "D": "Spleen"
+        },
+        "vikalpa": {
+            "A": "फेफड़ा",
+            "B": "यकृत",
+            "C": "आमाशय",
+            "D": "स्लीन"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: Phloem is the main conducting tissue. Statement-II: Phloem conducts water.",
+        "prashna": "कथन- । : फ्लोएम मुख्य संवहन ऊतक है। कथन- II : फ्लोएम जल का संवहन करता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन ॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: In an ecosystem, each food level is called a trophic level. Statement-II: In commensalism, one organism is benefited and the other is not harmed.",
+        "prashna": "कथन-1 पारिस्थितिकी तंत्र में प्रत्येक भोजन का स्तर पोषण स्तर कहलाता है। कथन-II: सहभोजिता में एक प्राणी को फायदा मिलता है एवं किसी की हानि नहीं होती।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन ॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: Gene exchange occurs in meiotic division. Statement-II: Chiasma is formed during meiotic division.",
+        "prashna": "कथन-1: अर्द्धसूत्री विभाजन में जीन विनिमय होता है। कथन- II: अर्धसूत्री विभाजन काज्मा का निर्माण होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन ॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: Removal of one ovary does not affect reproduction. Statement-II: The other ovary enlarges and takes over the function of the missing ovary.",
+        "prashna": "कथन-। एक अंडाशय निकाल देने पर प्रजनन प्रभावित नहीं होता। कथन- II : दूसरा अंडाशय बड़ा होकर लुप्त अंडाशय का काम करने लगता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन ॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: Linkage is an exception to Mendel's laws. Statement-II: Linkage causes variation in offspring.",
+        "prashna": "कथन-I: सहलग्नता मेंडल के नियमों का अपवाद है। कथन- II: सहलग्नता संतानों में विभिन्नता पैदा करता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन ॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Gibberellins are:",
+        "prashna": "जिबरेलिन हैं",
+        "options": {
+            "A": "Hormone",
+            "B": "Stem growth retardant",
+            "C": "Growth enzyme",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "हॉर्मोन",
+            "B": "तना में वृद्धि मन्दक",
+            "C": "वृद्धि एंजाइम",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "For grafting in the treatment of some cases of blindness, which part of the donor's eye is used?",
+        "prashna": "अंधापन के कुछ मामलों के इलाज में ग्रफ्टिंग हेतु दाता के आँख की कौन-सी हिस्सा प्रयोग में ली जाती है ?",
+        "options": {
+            "A": "Lens",
+            "B": "Retina",
+            "C": "Cornea",
+            "D": "Choroid"
+        },
+        "vikalpa": {
+            "A": "लेंस",
+            "B": "रेटिना",
+            "C": "कॉर्निया",
+            "D": "कोरॉएड"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "The difference of RNA from DNA is:",
+        "prashna": "डी०एन०ए० से आर०एन०ए० की भिन्नता है।",
+        "options": {
+            "A": "In having phosphate",
+            "B": "In having ribose",
+            "C": "In having deoxyribose",
+            "D": "In having Nitosin"
+        },
+        "vikalpa": {
+            "A": "फॉस्फेट रहने में",
+            "B": "राइबोज रहने में",
+            "C": "डिऑक्सिराइबोज रहने में",
+            "D": "नाइटोसिन रहने में"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Poultry",
+        "prashna": "पॉल्ट्री",
+        "options": {
+            "A": "Fish farming",
+            "B": "Poultry farming",
+            "C": "Beekeeping",
+            "D": "Silkworm rearing"
+        },
+        "vikalpa": {
+            "A": "मत्स्य पालन",
+            "B": "कुक्कुट पालन",
+            "C": "मधुमक्खी पालन",
+            "D": "रेशम कीड़ों का पालन"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Apiculture",
+        "prashna": "एपिकल्चर",
+        "options": {
+            "A": "Fish farming",
+            "B": "Poultry farming",
+            "C": "Beekeeping",
+            "D": "Silkworm rearing"
+        },
+        "vikalpa": {
+            "A": "मत्स्य पालन",
+            "B": "कुक्कुट पालन",
+            "C": "मधुमक्खी पालन",
+            "D": "रेशम कीड़ों का पालन"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Sericulture",
+        "prashna": "सेरिकल्चर",
+        "options": {
+            "A": "Fish farming",
+            "B": "Poultry farming",
+            "C": "Beekeeping",
+            "D": "Silkworm rearing"
+        },
+        "vikalpa": {
+            "A": "मत्स्य पालन",
+            "B": "कुक्कुट पालन",
+            "C": "मधुमक्खी पालन",
+            "D": "रेशम कीड़ों का पालन"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Pisciculture",
+        "prashna": "पीसीकल्चर",
+        "options": {
+            "A": "Fish farming",
+            "B": "Poultry farming",
+            "C": "Beekeeping",
+            "D": "Silkworm rearing"
+        },
+        "vikalpa": {
+            "A": "मत्स्य पालन",
+            "B": "कुक्कुट पालन",
+            "C": "मधुमक्खी पालन",
+            "D": "रेशम कीड़ों का पालन"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "What causes the common cold?",
+        "prashna": "साधारण ठंड लग जाना किससे होता है?",
+        "options": {
+            "A": "Retro virus",
+            "B": "Phage virus",
+            "C": "Rhino virus",
+            "D": "Sendai virus"
+        },
+        "vikalpa": {
+            "A": "रेट्रो विषाणु",
+            "B": "फाज विषाणु",
+            "C": "राइनो विषाणु",
+            "D": "सेन्डइ विषाणु"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "What are viruses made of?",
+        "prashna": "विषाणु किनसे बना होता है?",
+        "options": {
+            "A": "Protein",
+            "B": "Protein and Nucleic acid",
+            "C": "Lipid and Protein",
+            "D": "DNA and RNA"
+        },
+        "vikalpa": {
+            "A": "प्रोटीन",
+            "B": "प्रोटीन तथा न्यूक्लिक अम्ल",
+            "C": "लिपिड तथा प्रोटीन",
+            "D": "डी.एन.ए. एवं आर.एन.ए."
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "The study of viruses is done in which branch?",
+        "prashna": "विषाणुओं का अध्ययन किस शाखा में किया जाता है?",
+        "options": {
+            "A": "Phycology",
+            "B": "Virology",
+            "C": "Biology",
+            "D": "Embryology"
+        },
+        "vikalpa": {
+            "A": "फाइकोलोजी",
+            "B": "वाइरोलौजी",
+            "C": "बायोलोजी",
+            "D": "भ्रूण विज्ञान"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Mention the adaptations of wind-pollinated flowers.",
+        "prashna": "वायुपरागित पुष्पों के अनुकूलन बताइए।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Why did Mendel select pea plants for his experiments?",
+        "prashna": "मेंडल ने अपने प्रयोग के लिए मटर का चयन क्यों किया ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Give two main functions each of testis and ovary.",
+        "prashna": "वृषण और अंडाशय प्रत्येक के दो मुख्य कार्य दें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Why is haemophilia called Bleeder's disease?",
+        "prashna": "हीमोफिलिया को ब्लीडर्स रोग क्यों कहते हैं?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What are restriction endonucleases?",
+        "prashna": "रेस्ट्रीक्शन एन्डोन्यूक्लिएज क्या हैं?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Write two uses of DNA fingerprinting.",
+        "prashna": "डी.एन.ए. फिंगर अभिलेख के दो उपयोग लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Define tissue culture.",
+        "prashna": "ऊतक संवर्धन की परिभाषा दें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Mention two uses of biotechnology in the field of medicine (drugs).",
+        "prashna": "औषधि (दवा) के क्षेत्र में जैवप्रौ‌द्योगिकी का दो उपयोग बताइए।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Define congenital diseases.",
+        "prashna": "जन्मजात रोग की परिभाषा दें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "State two reasons for the extinction of some wild animals.",
+        "prashna": "कुछ वन्य जीवों के विलुप्तता के दो कारण बताइए।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Define gene engineering.",
+        "prashna": "जीन अभियांत्रिकी की परिभाषा दें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "What is the menstrual cycle? Describe its different phases along with hormonal regulation.",
+        "prashna": "मासिक चक्र क्या है ? इसके विभिन्न अवस्थाओं का वर्णन हॉर्मोनल नियमीकरण के साथ दें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Explain the chromosomal theory of inheritance.",
+        "prashna": "आनुवंशिकता का गुणसूत्रीय सिद्धांत को स्पष्ट करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "What are sacred groves? Where are they found?",
+        "prashna": "पवित्र उपवन या निकुंज क्या हैं? ये कहाँ पाये जाते हैं?"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Describe the causes, symptoms, and prevention of AIDS.",
+        "prashna": "एड्स के कारण, लक्षण एवं रोकथाम का वर्णन करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Write a note on vaccination and immunization.",
+        "prashna": "टीकाकरण एवं प्रतिरक्षीकरण पर टिप्पणी दें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "Throw light on the industrial applications of biotechnology.",
+        "prashna": "जैवप्रौद्योगिकी के औद्योगिक उपयोग पर प्रकाश डालें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Write on the role of biotechnology in agriculture.",
+        "prashna": "कृषि में जैवप्रौद्योगिकी की भूमिका पर लिखें।"
+    }
+]

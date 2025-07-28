@@ -1,0 +1,628 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The central cell of the embryo sac is",
+        "prashna": "भ्रूणकोष की सेन्ट्रल कोशिका है",
+        "options": {
+            "A": "Primary nucleus",
+            "B": "Secondary nucleus",
+            "C": "Synergid cell",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "प्रारंभिक केन्द्रक",
+            "B": "द्वितीयक केन्द्रक",
+            "C": "सहायक कोशिका",
+            "D": "(A) और (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Aril is eaten in",
+        "prashna": "बीजचोल खाया जाता है",
+        "options": {
+            "A": "Custard apple",
+            "B": "Apple",
+            "C": "Orange",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "शरीफा का",
+            "B": "सेब का",
+            "C": "नारंगी का",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which is a hermaphrodite animal?",
+        "prashna": "उभयलिंगी प्राणी है",
+        "options": {
+            "A": "Hen",
+            "B": "Snake",
+            "C": "Both (A) and (B)",
+            "D": "Earthworm"
+        },
+        "vikalpa": {
+            "A": "मुर्गी",
+            "B": "साँप",
+            "C": "(A) और (B) दोनों",
+            "D": "केचुआ"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following is a diploid structure?",
+        "prashna": "निम्न में से कौन द्विगुणित संरचना है ?",
+        "options": {
+            "A": "Ovum",
+            "B": "Sperm",
+            "C": "Zygote",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अण्डाणु",
+            "B": "शुक्राणु",
+            "C": "युग्मनज",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "In human blood group O",
+        "prashna": "मानव रुधिर O वर्ग में",
+        "options": {
+            "A": "Antigens are absent.",
+            "B": "Antibodies are absent.",
+            "C": "Antigens are present.",
+            "D": "Antibody A is present."
+        },
+        "vikalpa": {
+            "A": "एंटीजेन अनुपस्थित होते हैं।",
+            "B": "एंटीबडी अनुपस्थित होते हैं।",
+            "C": "एटीजेन उपस्थित रहते हैं.",
+            "D": "ऐंटीबडी A उपस्थित रहते हैं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Chlorella is a type of?",
+        "prashna": "क्लोरेला निम्न में से क्या है ?",
+        "options": {
+            "A": "Bacteria",
+            "B": "Algae",
+            "C": "Protozoa",
+            "D": "Single cell protein"
+        },
+        "vikalpa": {
+            "A": "जीवाणु",
+            "B": "शैवाल",
+            "C": "प्रोटोजोआ",
+            "D": "एकल कोशिका प्रोटीन"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Cry-gene protects which crop from bollworm?",
+        "prashna": "क्राई-जीन बॉलकृमि से किस फसल को बचाता है?",
+        "options": {
+            "A": "Cotton",
+            "B": "Mango",
+            "C": "Tea",
+            "D": "Wheat"
+        },
+        "vikalpa": {
+            "A": "कपास",
+            "B": "आम",
+            "C": "चाय",
+            "D": "गेहूँ"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The factors for acid rain are.",
+        "prashna": "अम्लीय वर्षा के कारक हैं।",
+        "options": {
+            "A": "$CO$ and $CO_2$",
+            "B": "$NO_2$ and $SO_2$",
+            "C": "$CO_2$ and $NO_2$",
+            "D": "$N_2$ and $NO_3$"
+        },
+        "vikalpa": {
+            "A": "$CO$ तथा $CO_2$",
+            "B": "$NO_2$ तथा $SO_2$",
+            "C": "$CO_2$ तथा $NO_2$",
+            "D": "$N_2$ तथा $NO_3$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Lichen is an indicator of",
+        "prashna": "लाइकेन सूचक है",
+        "options": {
+            "A": "$CO_2$ pollution",
+            "B": "$SO_2$ pollution",
+            "C": "$CO$ pollution",
+            "D": "Water pollution"
+        },
+        "vikalpa": {
+            "A": "$CO_2$ प्रदूषण का",
+            "B": "$SO_2$ प्रदूषण का",
+            "C": "$CO$ प्रदूषण का",
+            "D": "जल प्रदूषण का"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Humans can generally tolerate sound intensity of",
+        "prashna": "मानव साधारणतया ध्वनि तीव्रता सहन कर सकता है",
+        "options": {
+            "A": "20-30 decibels",
+            "B": "80-90 decibels",
+            "C": "120-130 decibels",
+            "D": "140-150 decibels"
+        },
+        "vikalpa": {
+            "A": "20-30 डेसीबेल",
+            "B": "80-90 डेसीबेल",
+            "C": "120-130 डेसीबेल",
+            "D": "140-150 डेसीबेल"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In which of the following does water pollination occur?",
+        "prashna": "निम्न में से किसमें जल परागण होता है ?",
+        "options": {
+            "A": "Water hyacinth",
+            "B": "Lotus",
+            "C": "Hydrilla",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "जलकुम्भी",
+            "B": "कमल",
+            "C": "हाइड्रिला",
+            "D": "(B) और (C) दोनों"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Due to Trisomy ($(2n + 1)$), children become mentally retarded, what is it called?",
+        "prashna": "ट्राइसोमी ($(2n + 1)$) के कारण बच्चे मंद बुद्धि के हो जाते हैं, उसे क्या कहते हैं?",
+        "options": {
+            "A": "Philadelphia",
+            "B": "Down's syndrome",
+            "C": "Albinism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फीलाडेल्फिया",
+            "B": "डाउन्स सिंड्रोम",
+            "C": "एल्बीनिज्म",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Which of the following is DNA fingerprinting?",
+        "prashna": "डी एन ए फिंगरप्रीन्टिंग निम्न में से क्या है?",
+        "options": {
+            "A": "DNA typing",
+            "B": "DNA profiling",
+            "C": "Both (A) and (B)",
+            "D": "Base pairing"
+        },
+        "vikalpa": {
+            "A": "डी एन ए टाइपिंग",
+            "B": "डी एन ए प्रोफाइलिंग",
+            "C": "(A) और (B) दोनो",
+            "D": "बेस पेयरिंग"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following are purines in a DNA molecule?",
+        "prashna": "निम्न में से किस डी एन ए अणु में प्यूरिन है?",
+        "options": {
+            "A": "A and C",
+            "B": "C and T",
+            "C": "A and G",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "A तथा C",
+            "B": "C तथा T",
+            "C": "A तथा G को",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "In AIDS disease, which cell does HIV destroy?",
+        "prashna": "एड्स बीमारी में HIV किस कोशिका नष्ट करता है?",
+        "options": {
+            "A": "B-cell",
+            "B": "C-cell",
+            "C": "$T_4$-lymphocyte",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "B-कोशिका",
+            "B": "C-कोशिका",
+            "C": "$T_4$-लिंफोसाइट",
+            "D": "(A) और (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Gir National Park is famous for.",
+        "prashna": "गिर राष्ट्रीय उद्यान विख्यात है.",
+        "options": {
+            "A": "Deer",
+            "B": "Lion",
+            "C": "Cheetah",
+            "D": "Birds"
+        },
+        "vikalpa": {
+            "A": "हिरण के लिए",
+            "B": "सिंह के लिए",
+            "C": "चीता के लिए",
+            "D": "पक्षी के लिए"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which bond exists between the nitrogenous bases of a nucleic acid?",
+        "prashna": "न्यूक्लिक अम्ल के नाइट्रोजीनस बेस के बीच कौन-सा बंधन रहता है ?",
+        "options": {
+            "A": "Peptide bond",
+            "B": "Ester bond",
+            "C": "Both (A) and (B)",
+            "D": "Hydrogen bond"
+        },
+        "vikalpa": {
+            "A": "पेप्टाइड बंधन",
+            "B": "इस्टर बंधन",
+            "C": "(A) और (B) दोनों",
+            "D": "हाइड्रोजन बंधन"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "What is the cause of cancer?",
+        "prashna": "कैंसर किस कारण से होता है?",
+        "options": {
+            "A": "By bacteria",
+            "B": "By oncogenes",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जीवाणु द्वारा",
+            "B": "ऑन्कोजीन्स के द्वारा",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Kalyan Sona is a variety of what?",
+        "prashna": "कल्याण सोना किसका किस्म है?",
+        "options": {
+            "A": "An improved variety of wheat",
+            "B": "Gold",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "गेहूँ की प्रोन्नत किस्म",
+            "B": "सोना",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which of the following are single cell proteins?",
+        "prashna": "निम्न में से कौन एकल कोशिका प्रोटीन हैं ?",
+        "options": {
+            "A": "Spirulina",
+            "B": "Chlorella",
+            "C": "Scenedesmus",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "स्पाइरुलीना",
+            "B": "क्लोरेला",
+            "C": "सिनेडेस्मस",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "From what is artificial seed made?",
+        "prashna": "किससे कृत्रिम वीज का निर्माण किया जाता है ?",
+        "options": {
+            "A": "Somatic embryo",
+            "B": "Polyembryo",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "कायिक भ्रूण",
+            "B": "बहूभ्रूण",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "How many pairs of nitrogenous bases are there in one full turn of B-DNA?",
+        "prashna": "B-डी एन ए के एक पूर्ण घुभाव में नाइट्रोजीनस बेस के कितने पेयर्स होते हैं ?",
+        "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which of the following is a viral disease?",
+        "prashna": "निम्न में से कौन विषाणु जनित रोग है?",
+        "options": {
+            "A": "Flu",
+            "B": "Polio",
+            "C": "AIDS",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "फ्लू",
+            "B": "पोलियो",
+            "C": "एड्स",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Dodo is",
+        "prashna": "डोडो है",
+        "options": {
+            "A": "Extinct animal",
+            "B": "Endangered animal",
+            "C": "Threatened animal",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "विलुप्त प्राणी",
+            "B": "संकटग्रस्त प्राणी",
+            "C": "आपत्तिग्रस्त प्राणी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "What is found in bacteria?",
+        "prashna": "जीवाणु में पाया जाता है",
+        "options": {
+            "A": "Plasmid DNA",
+            "B": "RNA",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्लाज्मिड DNA",
+            "B": "RNA",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "What is the phenotypic ratio of a dihybrid cross?",
+        "prashna": "द्विसंकर क्रॉस का फीनोटिपिक अनुपात क्या है ?",
+        "options": {
+            "A": "1:2:1",
+            "B": "3:1",
+            "C": "9:3:3:1",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1:2:1",
+            "B": "3:1",
+            "C": "9:3:3:1",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "What is carried out in micropropagation?",
+        "prashna": "सूक्ष्म प्रजनन में कराया जाता है",
+        "options": {
+            "A": "Asexual reproduction",
+            "B": "Plants with similar genetic properties",
+            "C": "Sexual reproduction",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "अलैंगिक प्रजनन",
+            "B": "समान आनुवंशिक गुणों वाले पौधों",
+            "C": "लैंगिक प्रजनन",
+            "D": "(A) और (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which bacterium is used in making curd from milk?",
+        "prashna": "दूध से दही बनाने में किस जीवाणु का उपयोग होता है ?",
+        "options": {
+            "A": "Clostridium",
+            "B": "Lactobacillus",
+            "C": "Both (A) and (B)",
+            "D": "Streptococcus"
+        },
+        "vikalpa": {
+            "A": "क्लोस्ट्रीडियम",
+            "B": "लैक्टोबैसीलस",
+            "C": "(A) और (B) दोनों",
+            "D": "स्ट्रेप्टोकोक्क्स"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Differentiate between Nucleoside and Nucleotide.",
+        "prashna": "न्यूक्लियोसाइड तथा न्यूक्लियोटाइड में अन्तर स्पष्ट करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What is organic evolution? Write.",
+        "prashna": "कमिक विकास क्या है? लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write about the cause, symptoms, and control of Rabies disease.",
+        "prashna": "रेविज बीमारी के कारण, लक्षण तथा नियंत्रण के बारे में लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Write four improved varieties of wheat and their characteristics.",
+        "prashna": "गेहूँ के चार प्रोन्नत किस्में तथा उनके गुण लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Write about multiple allelism with an example.",
+        "prashna": "बहुविकल्पता के बारे में सोदाहरण लिखें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Write in brief about nitrogen fixation from the atmosphere.",
+        "prashna": "वायुमंडल से नाइट्रोजन स्थिरीकरण के बारे में संक्षेप में लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Write about the five classes of antibodies with their names.",
+        "prashna": "एंटीबॉडी के पाँच वर्गों के बारे में नाम सहित लिखें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Give a brief description of infertility.",
+        "prashna": "बंध्यता पर संक्षिप्त विरण दें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write about spermatogenesis and oogenesis.",
+        "prashna": "शुक्राणुजनन तथा अंडजनन के बारे में लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write short notes on the following-",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखें-",
+        "sub_questions": {
+            "A": "Red Data Book",
+            "B": "Protected areas in India"
+        },
+        "anuprashna": {
+            "A": "रेड डाटा बुक",
+            "B": "भारत में सुरक्षित क्षेत्र"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What do you understand by the Southern Blotting technique?",
+        "prashna": "सादर्न ब्लॉटिंग तकनीक से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "What do you understand by Genetic Code? Write its types and properties in detail.",
+        "prashna": "जेनेटिक कोड से आप क्या समझते हैं? इसके प्रकार तथा गुणों को सविस्तार लिखें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "How are microorganisms used as biocontrol agents for plant diseases and pests?",
+        "prashna": "सूक्ष्मजीवों का उपयोग पादप रोगों तथा पीड़कों के जैव-नियंत्रण कारक के रूप में कैसे किया जाता है?"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Describe all three ecological pyramids with examples.",
+        "prashna": "तीनों पारिस्थितिक पिरामिडों के बारे में सोदाहरण वर्णन करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Draw a labeled diagram showing the follicles in a transverse section of the human female ovary.",
+        "prashna": "मानव मादा के अंडाशय का अनुप्रस्थ काट में पुटकों को दर्शाते हुए नामांकित चित्र बनाएँ।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "What do you understand by crossing over? Describe the mechanism of crossing over with a diagram.",
+        "prashna": "विनिमय से आप क्या समझते हैं? विनिमय की क्रियाविधि का वर्णन चित्र सहित करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Write about the cause, symptoms, control, and prevention of malarial fever.",
+        "prashna": "मलेरिया ज्वर के कारण, लक्षण, नियंत्रण तथा इसके रोकथाम के बारे में लिखें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "Write in detail the classification of solid wastes and the management of their disposal.",
+        "prashna": "ठोस अपशिष्टों का वर्गीकरण तथा इसके निपटारे का प्रबंधन सविस्तार लिखें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Microorganisms are essential for human welfare. How?",
+        "prashna": "सूक्ष्मजीव मानव कल्याण के लिए आवश्यक हैं। कैसे ?"
+    }
+]
