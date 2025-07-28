@@ -1,0 +1,660 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "What is the coordination number of sodium in sodium oxide ($Na_2O$)?",
+        "prashna": "सोडियम ऑक्साइड ($Na_2O$) में सोडियम की कोआर्डिनेशन संख्या कितनी है?",
+        "options": {
+            "A": "6",
+            "B": "4",
+            "C": "8",
+            "D": "2"
+        },
+        "vikalpa": {
+            "A": "6",
+            "B": "4",
+            "C": "8",
+            "D": "2"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "5% cane sugar (molecular weight = 342) is isotonic with a 1% solution of X. What is the molecular weight of X?",
+        "prashna": "5% केन सुगर (अणु-भार = 342) 1% घोल X के साथ आइसोटॉनिक है। X का अणुभार कितना है?",
+        "options": {
+            "A": "34.2",
+            "B": "171.2",
+            "C": "68.4",
+            "D": "136.8"
+        },
+        "vikalpa": {
+            "A": "34.2",
+            "B": "171.2",
+            "C": "68.4",
+            "D": "136.8"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which of the following is a lyophilic colloid?",
+        "prashna": "निम्न में कौन-सी लायोफिलिक कोलॉयड है?",
+        "options": {
+            "A": "Milk",
+            "B": "Gum",
+            "C": "Fog",
+            "D": "Blood"
+        },
+        "vikalpa": {
+            "A": "दूध",
+            "B": "गोंद",
+            "C": "कुहासा",
+            "D": "रक्त"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following metals is found in abundance in the earth's crust?",
+        "prashna": "निम्न में कौन-सी धातु प्रचुर मात्रा में भूपर्पटी में पायी जाती है?",
+        "options": {
+            "A": "Mg",
+            "B": "Na",
+            "C": "Al",
+            "D": "Fe"
+        },
+        "vikalpa": {
+            "A": "Mg",
+            "B": "Na",
+            "C": "Al",
+            "D": "Fe"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which of the following is the most powerful oxidizing agent?",
+        "prashna": "निम्न में कौन-सा सबसे शक्तिशाली ऑक्सीकारक पदार्थ है?",
+        "options": {
+            "A": "$F_2$",
+            "B": "$Cl_2$",
+            "C": "$I_2$",
+            "D": "$Br_2$"
+        },
+        "vikalpa": {
+            "A": "$F_2$",
+            "B": "$Cl_2$",
+            "C": "$I_2$",
+            "D": "$Br_2$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following has the maximum ionization potential?",
+        "prashna": "निम्न में किसका आयनिक विभव का मान अधिकतम है?",
+        "options": {
+            "A": "Al",
+            "B": "P",
+            "C": "Si",
+            "D": "Mg"
+        },
+        "vikalpa": {
+            "A": "Al",
+            "B": "P",
+            "C": "Si",
+            "D": "Mg"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which of the following has a tetrahedral shape?",
+        "prashna": "निम्न में किसकी आकृति चतुष्फलक होती है?",
+        "options": {
+            "A": "$[Ni(CN)_4]^{2-}$",
+            "B": "$[Pd(CN)_4]^{2-}$",
+            "C": "$[PdCl_4]^{2-}$",
+            "D": "$[NiCl_4]^{2-}$"
+        },
+        "vikalpa": {
+            "A": "$[Ni(CN)_4]^{2-}$",
+            "B": "$[Pd(CN)_4]^{2-}$",
+            "C": "$[PdCl_4]^{2-}$",
+            "D": "$[NiCl_4]^{2-}$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Compounds with the general formula $C_nH_{2n+2}$ are:",
+        "prashna": "सामान्य सूत्र $C_nH_{2n+2}$ वाले यौगिक हैं:",
+        "options": {
+            "A": "Alkene",
+            "B": "Alkyne",
+            "C": "Alkane",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ऐल्कीन",
+            "B": "ऐल्काइन",
+            "C": "ऐल्केन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which of the following is not a first-row transition element?",
+        "prashna": "निम्न में कौन-सा प्रथम पंक्ति का संक्रमण तत्त्व नहीं है?",
+        "options": {
+            "A": "Fe",
+            "B": "Cr",
+            "C": "Mg",
+            "D": "Ni"
+        },
+        "vikalpa": {
+            "A": "Fe",
+            "B": "Cr",
+            "C": "Mg",
+            "D": "Ni"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The oxidation state of Nickel in $[Ni(CO)_4]$ is:",
+        "prashna": "निकेल का $[Ni(CO)_4]$ में ऑक्सीकरण अवस्था होती है।",
+        "options": {
+            "A": "4",
+            "B": "0",
+            "C": "2",
+            "D": "3"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "0",
+            "C": "2",
+            "D": "3"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: If a strong acid is added to a solution of potassium chromate, the color of the solution changes from yellow to orange.\nStatement-II: The color of the solution changes due to the change in the oxidation state of potassium chromate.",
+        "prashna": "कथन- I: पोटैशियम क्रोमेट के घोल में यदि शक्तिशाली अम्ल डाला जाता है, तो घोल का रंग पीला से नारंगी हो जाता है।\nकथन- II : पोटैशियम क्रोमेट के ऑक्सीकरण अवस्था में परिवर्तन के कारण घोल का रंग बदल जाता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: $Zn^{2+}$ is diamagnetic.\nStatement-II: $Zn^{2+}$ is formed as a result of the loss of electrons from the 4s-orbital.",
+        "prashna": "कथन-I: $Zn^{2+}$ प्रतिचुम्बकीय है।\nकथन-II: 4s-ऑर्बिटल के इलेक्ट्रॉन खोने के फलस्वरूप $Zn^{2+}$ होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: When $Br_2$ is added to 1-butene, two optical isomers are obtained.\nStatement-II: The compound thus obtained contains an asymmetric carbon atom.",
+        "prashna": "कथन-I: 1-ब्यूटीन के साथ जब $Br_2$ मिलाया जाता है तब दो ऑप्टिकल समावयवी (optical isomers) प्राप्त होता है।\nकथन- II : इस प्रकार से प्राप्त यौगिक एक असममित कार्बन होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: When 1-butene is reacted with HBr in the presence of peroxide, 1-bromobutane is formed.\nStatement-II: A primary radical is formed in this reaction.",
+        "prashna": "कथन-I: 1-ब्यूटीन की अभिक्रिया पराक्साइड की उपस्थिति में जब HBr से करायी जाती है, तो 1- ब्रोमोब्यूटेन बनता है।\nकथन II: इस क्रिया में प्राइमरी रेडिकल बनता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: The absorption of heat by an ideal gas in a vacuum is zero during isothermal expansion.\nStatement-II: The volume occupied by the molecules of an ideal gas is zero.",
+        "prashna": "कथन-I: आदर्श गैस द्वारा ऊष्मा का अवशोषण निर्वात में शून्य होता है जब ऊष्मा की समतापीय वृद्धि होती है।\nकथन- II : आदर्श गैस द्वारा ग्रहण की गई अणुओं का आयतन शून्य होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "The main factors affecting corrosion are:",
+        "prashna": "संक्षारण (Corrosion) को प्रभावित करने वाले मुख्य कारण हैं:",
+        "options": {
+            "A": "Position of the metal in the electrochemical series",
+            "B": "Presence of $CO_2$ in water",
+            "C": "Impurities present in the metal",
+            "D": "Presence of protective coating"
+        },
+        "vikalpa": {
+            "A": "धातु का विद्युत रासायनिक श्रेणी में स्थान",
+            "B": "$CO_2$ की जल में उपस्थिति",
+            "C": "धातु में उपस्थित अशुद्धियाँ",
+            "D": "प्रोटेक्टिव कोटिंग की उपस्थिति"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following on reduction with $LiAlH_4$ gives ethyl alcohol ($C_2H_5OH$)?",
+        "prashna": "निम्न में कौन-कौन $LiAlH_4$ द्वारा अवकृत होकर इथाइल ऐल्कोहल ($C_2H_5OH$) देता है?",
+        "options": {
+            "A": "$(CH_3CO)_2O$",
+            "B": "$CH_3COCl$",
+            "C": "$CH_3CONH_2$",
+            "D": "$CH_3COOC_2H_5$"
+        },
+        "vikalpa": {
+            "A": "$(CH_3CO)_2O$",
+            "B": "$CH_3COCl$",
+            "C": "$CH_3CONH_2$",
+            "D": "$CH_3COOC_2H_5$"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which of the following species has a bond order of $2 \\frac{1}{2}$?",
+        "prashna": "निम्न में से किस स्पीशीज का आबंध क्रम $2 \\frac{1}{2}$ होता है?",
+        "options": {
+            "A": "$N_2^+$",
+            "B": "$O_2^+$",
+            "C": "$O_2^{2-}$",
+            "D": "$N_2^{2-}$"
+        },
+        "vikalpa": {
+            "A": "$N_2^+$",
+            "B": "$O_2^+$",
+            "C": "$O_2^{2-}$",
+            "D": "$N_2^{2-}$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Lewis base",
+        "prashna": "लुईस बेस (Lewis base)",
+        "options": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Blue vitriol",
+        "prashna": "नीला कशीश (Blue vitriol)",
+        "options": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Quicklime",
+        "prashna": "कली चूना (Quicklime)",
+        "options": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Carbylamine",
+        "prashna": "कार्बिल ऐमीन (Carbylamine)",
+        "options": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$C_6H_5NC$",
+            "C": "$NH_3$",
+            "D": "$CuSO_4 \\cdot 5H_2O$"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "The most common oxidation state in the first-row transition elements is:",
+        "prashna": "प्रथम पंक्ति के संक्रमण तत्त्वों में सबसे सामान्य ऑक्सीकरण अवस्था होती है:",
+        "options": {
+            "A": "(+II)",
+            "B": "(+III)",
+            "C": "(+IV)",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "(+II)",
+            "B": "(+III)",
+            "C": "(+IV)",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "The transition element that shows the maximum oxidation state is:",
+        "prashna": "अधिकतम ऑक्सीकरण अवस्था दर्शानेवाला संक्रमण तत्त्व है:",
+        "options": {
+            "A": "Mn",
+            "B": "Pt",
+            "C": "Fe",
+            "D": "Ni"
+        },
+        "vikalpa": {
+            "A": "Mn",
+            "B": "Pt",
+            "C": "Fe",
+            "D": "Ni"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Due to the variable oxidation number of transition elements:",
+        "prashna": "संक्रमण तत्त्वों की परिवर्तनशील ऑक्सीकरण संख्या के कारण:",
+        "options": {
+            "A": "They all exist in more than one oxidation state",
+            "B": "They all form complex compounds",
+            "C": "Their valence electrons are in two different sub-shells.",
+            "D": "In these, all sub-shell electrons are paired."
+        },
+        "vikalpa": {
+            "A": "ये सभी एक से अधिक ऑक्सीकरण अवस्था में होते हैं",
+            "B": "ये सभी जटिल यौगिकों का निर्माण करते हैं",
+            "C": "इनकी संयोजी इलेक्ट्रॉन दो भिन्न सब-सेलों में होती है।",
+            "D": "इनमें सारे सब-सेल युग्म (paired) होते हैं।"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Calculate the osmotic pressure of a 5% solution of urea at 273 K temperature.",
+        "prashna": "5% यूरिया के घोल के 273 K तापमान पर परासरण दाब की गणना करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Write the IUPAC names of the given compounds.",
+        "prashna": "दिए गए यौगिकों के IUPAC नाम लिखें।",
+        "sub_questions": {
+            "A": "$[Cu(NH_3)_4]Cl_2$",
+            "B": "$K_4[Fe(CN)_6]$"
+        },
+        "anuprashna": {
+            "A": "$[Cu(NH_3)_4]Cl_2$",
+            "B": "$K_4[Fe(CN)_6]$"
+        }
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "How will you carry out the following conversions?",
+        "prashna": "निम्न परिवर्तन आप कैसे करेंगे?",
+        "sub_questions": {
+            "A": "Ethyl alcohol to ethylene",
+            "B": "Acetylene to benzene"
+        },
+        "anuprashna": {
+            "A": "इथाइल ऐल्कोहल से इथिलीन",
+            "B": "ऐसीटिलीन से बेंजीन"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Explain the following:",
+        "prashna": "निम्न की व्याख्या करें:",
+        "sub_questions": {
+            "A": "Hydrogen iodide (HI) is a stronger acid than hydrogen fluoride (HF).",
+            "B": "The electron affinity of fluorine is less than that of chlorine."
+        },
+        "anuprashna": {
+            "A": "हाइड्रोजन आयोडाइड (HI) हाइड्रोजन फ्लोराइड (HF) से शक्तिशाली अम्ल है।",
+            "B": "फ्लोरीन की इलेक्ट्रॉन बंधुता क्लोरीन से कम होती है।"
+        }
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Differentiate between absorption and adsorption.",
+        "prashna": "अवशोषण एवं अधिशोषण में विभेद करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Give reasons for the following:",
+        "prashna": "निम्न का कारण बताइए:",
+        "sub_questions": {
+            "A": "Formic acid is stronger than acetic acid.",
+            "B": "The basicity of aniline is less than that of methylamine."
+        },
+        "anuprashna": {
+            "A": "फार्मिक अम्ल ऐसीटिक अम्ल से शक्तिशाली है।",
+            "B": "ऐनीलीन की क्षारीयता मिथाईल ऐमीन से कम होती है।"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Define the following:",
+        "prashna": "निम्नलिखित की परिभाषा दें:",
+        "sub_questions": {
+            "A": "Roasting",
+            "B": "Smelting"
+        },
+        "anuprashna": {
+            "A": "भर्जन (Roasting)",
+            "B": "प्रगलन (Smelting)"
+        }
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write two methods for the preparation of colloids.",
+        "prashna": "कोलाइड बनाने की दो विधियों को लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Define colligative properties of a dilute solution and list their different types.",
+        "prashna": "तनु घोल के अणुसंख्य गुणधर्म को लिखें। विभिन्न प्रकार के अणुसंख्य गुणधर्मों को लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "The value of the rate constant for a first-order reaction is $60 sec^{-1}$. How much time will it take for 75% completion of this reaction?",
+        "prashna": "प्रथम कोटि की अभिक्रिया के वेग स्थिरांक का मान $60 sec^{-1}$ है। इसी अभिक्रिया के 75% पूरा होने में कितना समय लगेगा?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Prove that the half-life period of a first-order reaction does not depend on the initial concentration.",
+        "prashna": "प्रमाणित करें कि प्रथम कोटि अभिक्रिया का अर्धजीवन काल आरंभिक सांद्रण पर निर्भर नहीं करता है।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Define the order and molecularity of a reaction. Derive the general expression for the specific rate constant of a first-order reaction.",
+        "prashna": "अभिक्रिया को कोटि तथा आणविकता की परिभाषा दें। प्रथम कोटि की अभिक्रिया के विशिष्ट वेग-स्थिरांक के लिए सामान्य व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "Differentiate between DNA and RNA.",
+            "B": "What are nucleic acids?"
+        },
+        "anuprashna": {
+            "A": "DNA एवं RNA में अंतर बताइए।",
+            "B": "न्यूक्लिक अम्ल क्या हैं?"
+        }
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "Write the principle of the method for the production of sulfuric acid by the contact process.",
+            "B": "How will you test for the sulfate ion?"
+        },
+        "anuprashna": {
+            "A": "संपर्क विधि द्वारा सल्फ्यूरिक अम्ल के उत्पादन की विधि का सिद्धांत लिखें।",
+            "B": "सल्फेट आयन की जाँच आप कैसे करेंगे?"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "What are carbohydrates? How are they classified?",
+        "prashna": "कार्बोहाइड्रेट क्या है? इनका वर्गीकरण कैसे किया जाता है?"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Explain the following:",
+        "prashna": "निम्न की व्याख्या करें:",
+        "sub_questions": {
+            "A": "Kolbe's reaction",
+            "B": "Wurtz reaction",
+            "C": "Carbylamine reaction"
+        },
+        "anuprashna": {
+            "A": "कोल्बे अभिक्रिया",
+            "B": "बुर्ज अभिक्रिया",
+            "C": "कार्बाइल ऐमीन अभिक्रिया"
+        }
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Give one example of each of the following:",
+        "prashna": "निम्नलिखित प्रत्येक का एक-एक उदाहरण दें:",
+        "sub_questions": {
+            "A": "Synthetic rubber",
+            "B": "Naturally occurring amino acid",
+            "C": "Condensation polymer",
+            "D": "Addition polymer",
+            "E": "Artificial sweetener"
+        },
+        "anuprashna": {
+            "A": "संश्लिष्ट रबर",
+            "B": "प्राकृतिक रूप में पाये जाने वाले ऐमीनो एसिड",
+            "C": "संघनन पॉलिमर",
+            "D": "अतिरिक्त पॉलिमर",
+            "E": "कृत्रिम मधुरक"
+        }
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "How is aluminium extracted from bauxite ore? Mention the principle involved in it. How does aluminium react with concentrated sulfuric acid?",
+        "prashna": "एल्युमिनियम का निष्कर्षण वॉक्साइड अयस्क से कैसे किया जाता है? इसमें निहित सिद्धांत का उल्लेख करें। एल्युमिनियम सान्द्र सल्फ्यूरिक अम्ल के साथ कैसे अभिक्रिया करता है?"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Explain the following:",
+        "prashna": "निम्नलिखित की व्याख्या करें:",
+        "sub_questions": {
+            "A": "$PCl_5$ is known whereas $NCl_5$ is not known.",
+            "B": "Fluorine exhibits only one oxidation state whereas other halogens exhibit multiple oxidation states.",
+            "C": "$H_2O$ is a liquid whereas $H_2S$ is a gas.",
+            "D": "Inert gases are monoatomic.",
+            "E": "The bleaching action of chlorine on flowers is permanent whereas that of sulfur dioxide is temporary."
+        },
+        "anuprashna": {
+            "A": "$PCl_5$ ज्ञात है जबकि $NCl_5$ ज्ञात नहीं है।",
+            "B": "फ्लोरीन सिर्फ एक ऑक्सीकरण अवस्था प्रकट करता है जबकि शेष हैलोजस ऑक्सीकरण अवस्था प्रकट करते हैं।",
+            "C": "$H_2O$ तरल है जबकि $H_2S$ गैस है।",
+            "D": "अक्रिय गैसें एक परमाणविक होती है।",
+            "E": "फूलों पर क्लोरीन द्वारा विरंजक गुण स्थायी होती है जबकि सल्फर डाइऑक्साइड द्वारा अस्थायी होता है।"
+        }
+    }
+]
