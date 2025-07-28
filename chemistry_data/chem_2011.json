@@ -1,0 +1,686 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "In 234.2 gram sugar syrup, 34.2 gram of sugar is present. What will be the molal concentration of the solution?",
+        "prashna": "234.2 ग्राम चीनी के घोल में 34.2 ग्राम चीनी है। घोल का मोलल सान्द्रण क्या होगा",
+        "options": {
+            "A": "0.1",
+            "B": "0.5",
+            "C": "5.5",
+            "D": "55"
+        },
+        "vikalpa": {
+            "A": "0.1",
+            "B": "0.5",
+            "C": "5.5",
+            "D": "55"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "In the following reaction, what is X? 1,3-Dinitrobenzene reacts with X to form 3-Nitroaniline.",
+        "prashna": "निम्नलिखित अभिक्रिया में, X क्या है? 1,3-डाइनाइट्रोबेंजीन, X के साथ अभिक्रिया करके 3-नाइट्रोएनिलिन बनाता है।",
+        "options": {
+            "A": "$LiAlH_4$",
+            "B": "$Sn / HCl$",
+            "C": "$Na_2S / (NH_4)_2S$",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "$LiAlH_4$",
+            "B": "$Sn / HCl$",
+            "C": "$Na_2S / (NH_4)_2S$",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "What is the hybridization of Fe in $K_4[Fe(CN)_6]$?",
+        "prashna": "$K_4[Fe(CN)_6]$ में Fe का प्रसंकरण क्या है?",
+        "options": {
+            "A": "$dsp^2$",
+            "B": "$sp^3$",
+            "C": "$d^2sp^3$",
+            "D": "$sp^3d^2$"
+        },
+        "vikalpa": {
+            "A": "$dsp^2$",
+            "B": "$sp^3$",
+            "C": "$d^2sp^3$",
+            "D": "$sp^3d^2$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The order of the reaction in water under sunlight is:",
+        "prashna": "जल मे [सूर्य प्रकाश] अभिक्रिया की कोटि है",
+        "options": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which is capable of forming a zwitterion?",
+        "prashna": "ज्वीटर आयन बनाने में कौन समर्थ है ?",
+        "options": {
+            "A": "$CH_3NO_2$",
+            "B": "$CH_3COOH$",
+            "C": "$CH_3CH_2NH_2$",
+            "D": "$H_2NCH_2COOH$"
+        },
+        "vikalpa": {
+            "A": "$CH_3NO_2$",
+            "B": "$CH_3COOH$",
+            "C": "$CH_3CH_2NH_2$",
+            "D": "$H_2NCH_2COOH$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "How many possible isomers are there for the complex compound $[CO(C_2O_4)_2(NH_3)_2]$?",
+        "prashna": "जटिल यौगिक $[CO(C_2O_4)_2(NH_3)_2]$ के कितने संभव समावयव है?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The standard electrode potentials for the half-cell reactions are: $Zn \\rightarrow Zn^{2+} + 2e^- \\quad E^\\circ = + 0.76 V$; $Fe \\rightarrow Fe^{2+} + 2e^- \\quad E^\\circ = + 0.41 V$. The e.m.f. of the cell reaction is:",
+        "prashna": "अर्धसेल अभिक्रिया के लिए स्टैण्डर्ड (मानक) एलेक्ट्रॉड विभव हैं $Zn \\rightarrow Zn^{2+} + 2e^- \\quad E^\\circ = + 0.76 V$; $Fe \\rightarrow Fe^{2+} + 2e^- \\quad E^\\circ = + 0.41 V$. सेल अभिक्रिया का विद्युत वाहक बल है।",
+        "options": {
+            "A": "-0.35 V",
+            "B": "+ 0.35 V",
+            "C": "- 1.17 V",
+            "D": "+ 1.17 V"
+        },
+        "vikalpa": {
+            "A": "-0.35 V",
+            "B": "+ 0.35 V",
+            "C": "- 1.17 V",
+            "D": "+ 1.17 V"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following alcohols gives 2-butene on dehydration with conc. $H_2SO_4$?",
+        "prashna": "सान्द्र $H_2SO_4$ से निर्जलीकरण पर निम्न अल्कोहल में कौन 2-ब्यूटीन देता है?",
+        "options": {
+            "A": "2-methylprop-2-ol",
+            "B": "2-methyl-1-propanol",
+            "C": "Butan-2-ol",
+            "D": "Butan-1-ol"
+        },
+        "vikalpa": {
+            "A": "2-मेथिल प्रोपीन-2-ऑल",
+            "B": "2-मेथिल 1-प्रोपेनॉल",
+            "C": "ब्यूटेन-2-ऑल",
+            "D": "ब्यूटेन-1-ऑल"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which of the following is a secondary cell?",
+        "prashna": "निम्नलिखित में कौन द्वितीयक सेल है?",
+        "options": {
+            "A": "Leclanche cell",
+            "B": "Lead storage battery",
+            "C": "Concentration cell",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "लेकलांसे सेल",
+            "B": "लेड स्टोरेज बैटरी",
+            "C": "सांद्रण सेल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following is a biodegradable polymer?",
+        "prashna": "निम्न में कौन बायोडिग्रेडेबल बहुलक है?",
+        "options": {
+            "A": "Cellulose",
+            "B": "Polythene",
+            "C": "PVC",
+            "D": "Nylon-66"
+        },
+        "vikalpa": {
+            "A": "सेल्युलोज",
+            "B": "पॉलीथीन",
+            "C": "पीवीसी",
+            "D": "नायलॉन-66"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: Chloroform is stored in dark brown bottles. \n Statement-II: This is done to prevent its oxidation by air.",
+        "prashna": "कथन-I: क्लोरोफार्म को प्रकाशहीन भूरा बोतल में रखा जाता है। \n कथन-II: यह वायु के आक्सीकरण को बचाने के लिए किया जाता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: The specific conductance of an electrolyte solution decreases on dilution. \n Statement-II: Ions move faster in a dilute solution.",
+        "prashna": "कथन-I: किसी विद्युत अपघटय की विशिष्ट चालकता विलयन की तनुता के फलस्वरूप घटती है। \n कथन-II: तनु विलयन में आयन तेजी से गतिशील होती है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: The coordination number of $Cs^+$ in $CsCl$ crystal is 8. \n Statement-II: In $CsCl$ crystal, $Cl^-$ ion has bcc type close packing.",
+        "prashna": "कथन-I: $CsCl$ क्रिस्टल में $Cs^+$ का समन्वयन संख्या 8 है। \n कथन-II: $CsCl$ क्रिस्टल में $Cl^-$ आयन bcc प्रकार के सीमित पैकिंग रखता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: Isobutanol does not give iodoform test. \n Statement-II: It does not have $\\alpha$-hydrogen.",
+        "prashna": "कथन-I : आइसोब्यूटेनॉल आयोडोफार्म परीक्षण नहीं देता है। \n कथन II: इसमें $\\alpha$-हाइड्रोजन नहीं रहता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: $[CO(NH_3)_3Cl_3]$ forms a white precipitate with $AgNO_3$ solution. \n Statement-II: Chlorine is not present in the ionic sphere.",
+        "prashna": "कथन-I: $[CO(NH_3)_3Cl_3]$, $AgNO_3$ घोल के साथ सफेद अवक्षेप बनाता है। \n कथन II : क्लोरीन आयनीय समूह में उपस्थित नहीं है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which of the following is not affected by temperature?",
+        "prashna": "निम्नलिखित में कौन तापमान के द्वारा प्रभावित नहीं होता है ?",
+        "options": {
+            "A": "Molarity",
+            "B": "Mole fraction",
+            "C": "Molality",
+            "D": "Normality"
+        },
+        "vikalpa": {
+            "A": "मोलरता",
+            "B": "मोल प्रभाज",
+            "C": "मोललता",
+            "D": "नॉर्मलता"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following participates in aldol condensation?",
+        "prashna": "निम्न में कौन अल्डोल संघनन में भाग लेता है?",
+        "options": {
+            "A": "$HCHO$",
+            "B": "$CH_3CHO$",
+            "C": "$C_6H_5CHO$",
+            "D": "$CH_3COCH_3$"
+        },
+        "vikalpa": {
+            "A": "$HCHO$",
+            "B": "$CH_3CHO$",
+            "C": "$C_6H_5CHO$",
+            "D": "$CH_3COCH_3$"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which are found in dolomite mineral?",
+        "prashna": "डोलोमाइट खनिज में पाये जाते हैं।",
+        "options": {
+            "A": "Al",
+            "B": "Mg",
+            "C": "K",
+            "D": "Ca"
+        },
+        "vikalpa": {
+            "A": "Al",
+            "B": "Mg",
+            "C": "K",
+            "D": "Ca"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Match the following: B.H.C.",
+        "prashna": "निम्नलिखित का मिलान करें: बी.एच.सी. (BHC)",
+        "options": {
+            "A": "Hypnotic",
+            "B": "Semiconductor",
+            "C": "Insecticide",
+            "D": "Colloid"
+        },
+        "vikalpa": {
+            "A": "सस्मोहक (Hypnotic)",
+            "B": "अर्धचालक (Semiconductor)",
+            "C": "कीटनाशी (Insecticide)",
+            "D": "कोलॉइड (Colloid)"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Match the following: Gelatin",
+        "prashna": "निम्नलिखित का मिलान करें: जिलेटीन (Gelatin)",
+        "options": {
+            "A": "Hypnotic",
+            "B": "Semiconductor",
+            "C": "Insecticide",
+            "D": "Colloid"
+        },
+        "vikalpa": {
+            "A": "सस्मोहक (Hypnotic)",
+            "B": "अर्धचालक (Semiconductor)",
+            "C": "कीटनाशी (Insecticide)",
+            "D": "कोलॉइड (Colloid)"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Match the following: Chloretone",
+        "prashna": "निम्नलिखित का मिलान करें: क्लोरटोन (Chloretone)",
+        "options": {
+            "A": "Hypnotic",
+            "B": "Semiconductor",
+            "C": "Insecticide",
+            "D": "Colloid"
+        },
+        "vikalpa": {
+            "A": "सस्मोहक (Hypnotic)",
+            "B": "अर्धचालक (Semiconductor)",
+            "C": "कीटनाशी (Insecticide)",
+            "D": "कोलॉइड (Colloid)"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Match the following: Silicon",
+        "prashna": "निम्नलिखित का मिलान करें: सिलिकन (Silicon)",
+        "options": {
+            "A": "Hypnotic",
+            "B": "Semiconductor",
+            "C": "Insecticide",
+            "D": "Colloid"
+        },
+        "vikalpa": {
+            "A": "सस्मोहक (Hypnotic)",
+            "B": "अर्धचालक (Semiconductor)",
+            "C": "कीटनाशी (Insecticide)",
+            "D": "कोलॉइड (Colloid)"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "An orange colored solid (A) on heating gave a green residue (B), a colorless gas (C) and water vapor. Gas (C) when passed over hot Mg gave a white solid (D), which on reaction with water gave a gas (E). Gas (E) gives white fumes with HCl. The orange solid (A) is:",
+        "prashna": "एक नारंगी रंग का ठोस (A) गर्म करने पर हरा अवशेष (B), रंगहीन गैस (C) तथा जलवाष्प दिया। गैस (C) को गर्म Mg से होकर प्रवाह करने पर उजला ठोस (D) दिया जिसे जल के साथ अभिक्रिया करने पर (E) गैस प्राप्त हुआ। गैस (E) HCl के साथ उजला धुआँ देता है। नारंगी ठोस (A) है:",
+        "options": {
+            "A": "Sodium dichromate",
+            "B": "Potassium dichromate",
+            "C": "Potassium chromate",
+            "D": "Ammonium dichromate"
+        },
+        "vikalpa": {
+            "A": "सोडियम डायक्रोमेट",
+            "B": "पोटाशियम डायक्रोमेट",
+            "C": "पोटाशियम क्रोमेट",
+            "D": "अमोनियम डायक्रोमेट"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "An orange colored solid (A) on heating gave a green residue (B), a colorless gas (C) and water vapor. Gas (C) when passed over hot Mg gave a white solid (D), which on reaction with water gave a gas (E). Gas (E) gives white fumes with HCl. The formula of the green residue (B) is:",
+        "prashna": "एक नारंगी रंग का ठोस (A) गर्म करने पर हरा अवशेष (B), रंगहीन गैस (C) तथा जलवाष्प दिया। गैस (C) को गर्म Mg से होकर प्रवाह करने पर उजला ठोस (D) दिया जिसे जल के साथ अभिक्रिया करने पर (E) गैस प्राप्त हुआ। गैस (E) HCl के साथ उजला धुआँ देता है। हरा अवक्षेप (B) का सूत्र है:",
+        "options": {
+            "A": "$Cr_2O_3$",
+            "B": "$CrO_2$",
+            "C": "$CrO_3$",
+            "D": "$CrO_5$"
+        },
+        "vikalpa": {
+            "A": "$Cr_2O_3$",
+            "B": "$CrO_2$",
+            "C": "$CrO_3$",
+            "D": "$CrO_5$"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "An orange colored solid (A) on heating gave a green residue (B), a colorless gas (C) and water vapor. Gas (C) when passed over hot Mg gave a white solid (D), which on reaction with water gave a gas (E). Gas (E) gives white fumes with HCl. The white solid (D) is:",
+        "prashna": "एक नारंगी रंग का ठोस (A) गर्म करने पर हरा अवशेष (B), रंगहीन गैस (C) तथा जलवाष्प दिया। गैस (C) को गर्म Mg से होकर प्रवाह करने पर उजला ठोस (D) दिया जिसे जल के साथ अभिक्रिया करने पर (E) गैस प्राप्त हुआ। गैस (E) HCl के साथ उजला धुआँ देता है। उजला ठोस (D) है:",
+        "options": {
+            "A": "$NH_4Cl$",
+            "B": "$Mg_3N_2$",
+            "C": "$NH_4OH$",
+            "D": "$(NH_4)_2CO_3$"
+        },
+        "vikalpa": {
+            "A": "$NH_4Cl$",
+            "B": "$Mg_3N_2$",
+            "C": "$NH_4OH$",
+            "D": "$(NH_4)_2CO_3$"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is the difference between 'Schottky defect' and 'Frenkel defect'?",
+        "prashna": "'सॉटकी त्रुटि' तथा 'फ्रैंकेल त्रुटि' के बीच क्या अंतर है?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "When 10 gram of a non-volatile solute is dissolved in 100 gram of benzene, its boiling point is raised by 1°. Calculate the molecular mass of the solute. (For benzene, $K_b = 2.53 K m^{-1}$)",
+        "prashna": "जब 10 ग्राम मात्रा का एक अवाष्पशील घुल्य को 100 ग्राम बेंजीन में घुलाया जाता है तब इसके क्वथनांक में 1° की बढ़ोतरी हो जाती है। घुल्य के अणु मात्रा की गणना करें। (बेंजीन का $K_b = 2.53 K m^{-1}$)"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Define the following-",
+        "prashna": "निम्नलिखित की परिभाषा दें-",
+        "sub_questions": {
+            "a": "Order of reaction",
+            "b": "Threshold energy"
+        },
+        "anuprashna": {
+            "a": "अभिक्रिया की कोटि",
+            "b": "थ्रेसहोल्ड ऊर्जा"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "Write Faraday's first law of electrolysis.",
+            "b": "Define electrochemical equivalent."
+        },
+        "anuprashna": {
+            "a": "फैराडे के विद्युत अपघटन का प्रथम नियम को लिखें।",
+            "b": "विद्युत रासायनिक तुल्यांक की परिभाषा दें।"
+        }
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What happens when-",
+        "prashna": "क्या होता है जब-",
+        "sub_questions": {
+            "a": "Ethanol is oxidised by acidic $KMnO_4$ solution?",
+            "b": "Ethanol is reacted with $PCl_5$?"
+        },
+        "anuprashna": {
+            "a": "इथेनॉल का आक्सीकरण अम्लीय $KMnO_4$ घोल के द्वारा किया जाता है?",
+            "b": "इथेनॉल की अभिक्रिया $PCl_5$ से कराई जाती है?"
+        }
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "How will you convert these?",
+        "prashna": "इन्हें कैसे परिवर्तित करेंगे ?",
+        "sub_questions": {
+            "a": "Aniline to 2, 4, 6-tribromoaniline",
+            "b": "Acetamide to ethylamine"
+        },
+        "anuprashna": {
+            "a": "एनिलिन से 2, 4, 6 ट्राइब्रोमोएनिलिन में",
+            "b": "एसीटामाइड से इथाइलएमीन में"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "What is inert pair effect?",
+            "b": "Why does $BCl_3$ behave as a Lewis acid?"
+        },
+        "anuprashna": {
+            "a": "उदासीन जोड़ी प्रभाव क्या है?",
+            "b": "$BCl_3$ लेविस अम्ल की तरह क्यों व्यवहार करता है?"
+        }
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Explain the following:",
+        "prashna": "निम्नलिखित की व्याख्या करें:",
+        "sub_questions": {
+            "a": "At room temperature, $H_2S$ is a gas while $H_2O$ is a liquid.",
+            "b": "The valency of Carbon and Silicon is four, while Ge, Sn and Pb also show a valency of two."
+        },
+        "anuprashna": {
+            "a": "कमरे का तापक्रम पर $H_2S$ एक गैस है जबकि $H_2O$ एक द्रव है।",
+            "b": "कार्बन तथा सिलिकन की संयोजकता चार होती है जबकि Ge, Sn तथा Pb की संयोजकता दो भी होती है।"
+        }
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Differentiate between roasting and calcination.",
+        "prashna": "भर्जन तथा निस्तापन में भेद स्पष्ट करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write the IUPAC names of the following complex compounds-",
+        "prashna": "निम्नलिखित संकुल यौगिकों का IUPAC नाम लिखें-",
+        "sub_questions": {
+            "a": "$[Pt(NH_3)_2Cl_2]Cl_2$",
+            "b": "$[Cr(NH_3)_4Cl_2]^+$"
+        },
+        "anuprashna": {
+            "a": "$[Pt(NH_3)_2Cl_2]Cl_2$",
+            "b": "$[Cr(NH_3)_4Cl_2]^+$"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "Why are salts of $Cd^{2+}$ white?",
+            "b": "Why does $H_3PO_3$ act as a reducing agent whereas $H_3PO_4$ does not?"
+        },
+        "anuprashna": {
+            "a": "$Cd^{2+}$ के लवण सफेद क्यों होते है?",
+            "b": "$H_3PO_3$ क्यों एक अवकारक अभिकर्मक के रूप में कार्य करता है जबकि $H_3PO_4$ ऐसा नहीं करता है?"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "What is the difference between ferromagnetism and paramagnetism?",
+            "b": "Calculate the standard cell potential for the cell shown below: $Zn(s) | ZnSO_4(aq) || CuSO_4(aq) | Cu(s)$, if the standard reduction electrode potentials for $Cu^{2+}|Cu$ and $Zn^{2+}|Zn$ are +0.34 V and -0.76 V respectively."
+        },
+        "anuprashna": {
+            "a": "फेरोचुम्बकीय तथा पाराचुम्बकीय में क्या अंतर है?",
+            "b": "नीचे दिखाए गए सेल के लिए $Zn(s) | ZnSO_4(aq) || CuSO_4(aq) | Cu(s)$ मानक सेल विभव की गणना करें यदि मानक अवकारक इलेक्ट्रोड विभव $Cu^{2+}|Cu$ तथा $Zn^{2+}|Zn$ के लिए क्रमश: +0.34 V तथा -0.76 V दिया हुआ है।"
+        }
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "What do you understand by elevation in boiling point?",
+            "b": "State Raoult's law. How is it useful in determining the molecular weight of a non-electrolyte solute?"
+        },
+        "anuprashna": {
+            "a": "क्वथनांक का उन्नयन से आप क्या समझते हैं?",
+            "b": "राउल्ट नियम का उल्लेख करें। यह विद्युत अनअपघट्य घुल्य का अनुभार ज्ञात करने किस प्रकार उपयोगी है?"
+        }
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "State the principle of manufacturing nitric acid from ammonia.",
+            "b": "Write the reaction of copper metal with 50% dilute $HNO_3$."
+        },
+        "anuprashna": {
+            "a": "अमोनिया से नाइट्रिक अम्ल उत्पादन के सिद्धांत का उल्लेख करें।",
+            "b": "ताम्र धातु के साथ 50% तनु $HNO_3$ की अभिक्रिया लिखें"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "What happens when -",
+        "prashna": "क्या होता है जबकि -",
+        "sub_questions": {
+            "a": "Ammonia reacts with excess of chlorine?",
+            "b": "Acidified $K_2Cr_2O_7$ reacts with $H_2S$?",
+            "c": "Copper sulphate is reacted with a solution of $KI$?"
+        },
+        "anuprashna": {
+            "a": "अमोनिया, क्लोरीन की अधिकता के साथ अभिक्रिया करता है?",
+            "b": "अम्लीकृत $K_2Cr_2O_7$ से $H_2S$ अभिक्रिया करता है?",
+            "c": "ताम्र सल्फेट की अभिक्रिया $KI$ के घोल से कराई जाती है?"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "Describe the following chemicals with suitable examples. (i) Antipyretics (ii) Antiseptic",
+            "b": "Name the vitamin whose deficiency causes night blindness.",
+            "c": "What are the initial chemicals used to make Bakelite and PVC?"
+        },
+        "anuprashna": {
+            "a": "निम्नलिखित रसायनों का उचित उदाहरण देते हुए वर्णन करें। (i) ज्वरनाशी (एंटीपायरेटिक्स) (ii) एंटीसेप्टिक",
+            "b": "उस विटामिन का नाम लिखें जिसकी कमी से रतौंधी (नाइट ब्लाइंडनेस) होता है।",
+            "c": "बेकेलाइट तथा PVC बनाने के लिए कौन-से प्रारंभिक रसायन प्रयुक्त होते हैं?"
+        }
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "Define the following with one example each. (i) Analgesic (ii) Antibiotics",
+            "b": "How many ATP molecules are produced per molecule of glucose, when glucose undergoes glycolysis?",
+            "c": "What is synthetic rubber? Give one example."
+        },
+        "anuprashna": {
+            "a": "निम्नलिखित को एक-एक उदाहरण देकर परिभाषित करें। (i) पीड़ाहारी (एनाल्जेसिक) (ii) प्रतिजैविक (एंटीबायोटिक्स)",
+            "b": "प्रति अणु ग्लुकोज से कितने अणु ATP उत्पन्न होते हैं. जब ग्लुकोज का ग्लाइकोलाइसीस कराते हैं?",
+            "c": "संश्लिष्ट रबर क्या है? इनका एक उदाहरण दें।"
+        }
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "Clarify the difference between methanoic acid and ethanoic acid.",
+            "b": "How will you show the following conversions? (i) Aniline to phenol (ii) Phenol to acetophenone (iii) Ethanol to n-butane."
+        },
+        "anuprashna": {
+            "a": "मिथेनोइक अम्ल तथा इथेनोइक अम्ल के बीच आप अंतर के स्पष्ट करेंगे।",
+            "b": "निम्नलिखित परिवर्तन आप कैसे दिखायेंगे। (i) एनिलिन का फिनॉल में (ii) फिनॉल का एसीटोफेनॉन में (iii) इथेनॉल का n-ब्यूटेन में।"
+        }
+    }
+]
