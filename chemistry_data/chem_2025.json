@@ -1,0 +1,1474 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The number of main crystal system is",
+        "prashna": "मूल क्रिस्टल तंत्रों की संख्या होती है-",
+        "options": {
+            "A": "4",
+            "B": "7",
+            "C": "14",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "7",
+            "C": "14",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "The co-ordination number of an atom in body centred cubic geometry is",
+        "prashna": "घनाकार संरचना में पिंड-केन्द्रित परमाणु की समन्वय संख्या होती है-",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "9"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "9"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "The number of Bravais lattices in a cubic crystal is",
+        "prashna": "घनाकार क्रिस्टल में ब्रेवेस जालकों की संख्या होती है-",
+        "options": {
+            "A": "3",
+            "B": "1",
+            "C": "4",
+            "D": "14"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "1",
+            "C": "4",
+            "D": "14"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The number of tetrahedral voids in a face centred cubic unit cell having identical atom is",
+        "prashna": "सदृश परमाणुवाले एक फलक-केन्द्रित घनाकार इकाई सेल में चतुष्फलक रिक्तयों की संख्या होती है-",
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "6",
+            "D": "12"
+        },
+        "vikalpa": {
+            "A": "8",
+            "B": "4",
+            "C": "6",
+            "D": "12"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which of the following has maximum depression in Freezing point?",
+        "prashna": "निम्नलिखित में से किसका हिमांक अवनमन अधिकतम होगा?",
+        "options": {
+            "A": "$K_2SO_4$",
+            "B": "NaCl",
+            "C": "Urea",
+            "D": "Glucose"
+        },
+        "vikalpa": {
+            "A": "$K_2SO_4$",
+            "B": "NaCl",
+            "C": "यूरिया",
+            "D": "ग्लूकोज"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following is an example of colligative properties of a solution?",
+        "prashna": "निम्नलिखित में कौन विलयन के अणुसंख्य गुणधर्म का उदाहरण है?",
+        "options": {
+            "A": "Density",
+            "B": "Mass",
+            "C": "Elevation in boiling point",
+            "D": "Temperature"
+        },
+        "vikalpa": {
+            "A": "घनत्व",
+            "B": "द्रव्यमान",
+            "C": "क्वथनांक उन्नयन",
+            "D": "ताप"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "If 18g of glucose ($C_6H_{12}O_6$) is present in 1000g of a solvent, then the molality of solution is",
+        "prashna": "अगर 18g ग्लूकोज ($C_6H_{12}O_6$) किसी विलायक के 1000g में उपस्थित है, तो विलयन की मोललता है-",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "0.1",
+            "D": "0.5"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "0.1",
+            "D": "0.5"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "One Faraday is equal to",
+        "prashna": "एक फैराडे बराबर होता है",
+        "options": {
+            "A": "9,650 coulomb",
+            "B": "10,000 coulomb",
+            "C": "49,640 coulomb",
+            "D": "96,500 coulomb"
+        },
+        "vikalpa": {
+            "A": "9,650 कूलम्ब",
+            "B": "10,000 कूलम्ब",
+            "C": "49,640 कूलम्ब",
+            "D": "96,500 कूलम्ब"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The number of ions produced by 1 molecule of $K_4[Fe(CN)_6]$ in aqueous solution is",
+        "prashna": "जलीय घोल में एक अणु $K_4[Fe(CN)_6]$ के द्वारा कितने आयन प्राप्त होते हैं",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "11",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "5",
+            "C": "11",
+            "D": "10"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "If equivalent conductance of 0.1 N $CH_3COOH$ at $25^\\circ c$ is 80 and at infinite dilution is 400 $ohm^{-1} cm^2 equivalent^{-1}$, then its degree of dissociation is",
+        "prashna": "0.1 N $CH_3COOH$ घोल का तुल्यांकी चालकत्व $25^\\circ c$ पर 80 एवं अनन्त तनुता पर 400 $ohm^{-1} cm^2 equivalent^{-1}$ है, तो $CH_3COOH$ का विखंडन का अंश है",
+        "options": {
+            "A": "1",
+            "B": "0.2",
+            "C": "0.1",
+            "D": "0.5"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "0.2",
+            "C": "0.1",
+            "D": "0.5"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In order of standard reduction potentials of Cu, Zn, Ag and Fe is",
+        "prashna": "Cu, Zn, Ag और Fe के मानक अवकरण विभवों का क्रम है–",
+        "options": {
+            "A": "Cu, Ag, Fe, Zn",
+            "B": "Ag, Cu, Fe, Zn",
+            "C": "Fe, Ag, Cu, Zn",
+            "D": "Zn, Cu, Ag, Fe"
+        },
+        "vikalpa": {
+            "A": "Cu, Ag, Fe, Zn",
+            "B": "Ag, Cu, Fe, Zn",
+            "C": "Fe, Ag, Cu, Zn",
+            "D": "Zn, Cu, Ag, Fe"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which of the following is a secondary cell?",
+        "prashna": "निम्नलिखित में कौन द्वितीयक सेल है?",
+        "options": {
+            "A": "Leclanche cell",
+            "B": "Lead storage battery",
+            "C": "Concentration cell",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "लेकलांच सेल",
+            "B": "लेड स्टोरेज बैटरी",
+            "C": "सांद्रण सेल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The standard reduction potential values of elements A, B and C are +0.68 V, -2.50 V and -0.50 V respectively. The order of their reducing power is",
+        "prashna": "A, B और C तत्वों का मानक अपचयन विभव का मान क्रमशः +0.68V, -2.50 और -0.50 V है, तो उनकी अपचयन शक्ति का क्रम है-",
+        "options": {
+            "A": "A > B > C",
+            "B": "A > C > B",
+            "C": "C > B > A",
+            "D": "B > C > A"
+        },
+        "vikalpa": {
+            "A": "A > B > C",
+            "B": "A > C > B",
+            "C": "C > B > A",
+            "D": "B > C > A"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "The unit of rate of reaction and rate constant is same for the reaction of which order?",
+        "prashna": "किस कोटि की अभिक्रिया के लिए अभिक्रिया के वेग एवं वेग-स्थिरांक की इकाई समान होती है?",
+        "options": {
+            "A": "Zero",
+            "B": "First",
+            "C": "Second",
+            "D": "Third"
+        },
+        "vikalpa": {
+            "A": "शून्य",
+            "B": "प्रथम",
+            "C": "द्वितीय",
+            "D": "तृतीय"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The unit of rate constant of a first order reaction is?",
+        "prashna": "प्रथम कोटि की अभिक्रिया के वेग-स्थिरांक की इकाई होती है?",
+        "options": {
+            "A": "$mol \\cdot L^{-1}$",
+            "B": "$time^{-1}$",
+            "C": "$L \\cdot mol \\cdot s^{-1}$",
+            "D": "$mol^{-1} L s^{-1}$"
+        },
+        "vikalpa": {
+            "A": "मोल ली. $^{-1}$",
+            "B": "समय$^{-1}$",
+            "C": "ली. मोल से.$^{-1}$",
+            "D": "मोल ली.$^{-1}$ से.$^{-1}$"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "For the reaction, $A \\rightarrow B$, the rate of reaction should be represented by which of the following?",
+        "prashna": "अभिक्रिया $A \\rightarrow B$, के लिए अभिक्रिया के वेग का निरूपण निम्नलिखित में से किसके द्वारा होगा?",
+        "options": {
+            "A": "$\\frac{d[A]}{dt}$",
+            "B": "$-\\frac{d[B]}{dt}$",
+            "C": "$-\\frac{d[A]}{dt}$",
+            "D": "$\\frac{d[AB]}{dt}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{d[A]}{dt}$",
+            "B": "$\\frac{d[B]}{dt}$",
+            "C": "$-\\frac{d[A]}{dt}$",
+            "D": "$\\frac{d[AB]}{dt}$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following factors affect the rate of a chemical reaction?",
+        "prashna": "निम्नलिखित में कौन सा कारक अभिक्रिया के दर को प्रभावित करता है?",
+        "options": {
+            "A": "Temperature",
+            "B": "Pressure",
+            "C": "Concentration",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "ताप",
+            "B": "दाब",
+            "C": "सांद्रण",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Enzyme is a",
+        "prashna": "इंजाइम है एक-",
+        "options": {
+            "A": "Carbohydrate",
+            "B": "Lipid",
+            "C": "Protein",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "कार्बोहाइड्रेट",
+            "B": "लिपिड",
+            "C": "प्रोटीन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following exhibit Tyndall effect?",
+        "prashna": "निम्नलिखित में कौन टिंडल प्रभाव प्रदर्शित करता है?",
+        "options": {
+            "A": "Solution",
+            "B": "Precipitate",
+            "C": "Sol",
+            "D": "Vapour"
+        },
+        "vikalpa": {
+            "A": "विलयन",
+            "B": "अवक्षेप",
+            "C": "सोल",
+            "D": "वाष्प"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Milk is an example of which of the following?",
+        "prashna": "दूध निम्नलिखित में से किसका उदाहरण है?",
+        "options": {
+            "A": "Emulsion",
+            "B": "Suspension",
+            "C": "Sol",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पायस",
+            "B": "निलम्बन",
+            "C": "सोल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "What is the approximate heat energy is evolved in physical adsorption?",
+        "prashna": "भौतिक अधिशोषण में लगभग कितनी ऊर्जा उत्सर्जित होती है?",
+        "options": {
+            "A": "$20 - 40 kJmol^{-1}$",
+            "B": "$40 - 60 kJmol^{-1}$",
+            "C": "$60 - 80 kJmol^{-1}$",
+            "D": "$40 - 400 kJmol^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$20 - 40 kJmol^{-1}$",
+            "B": "$40 - 60 kJmol^{-1}$",
+            "C": "$60 - 80 kJmol^{-1}$",
+            "D": "$40 - 400 kJmol^{-1}$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Phosphorus pentoxide is a good",
+        "prashna": "फॉस्फोरस पेंटोक्साइड है एक अच्छा",
+        "options": {
+            "A": "Adsorbent",
+            "B": "Absorbent",
+            "C": "Bleaching agent",
+            "D": "Reducing agent"
+        },
+        "vikalpa": {
+            "A": "अधिशोषक",
+            "B": "अवशोषक",
+            "C": "रंगनाशक",
+            "D": "अवकारक"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Limestone is used during the extraction of iron from haematite are as",
+        "prashna": "हेमेटाइट से लोहा प्राप्त करने में चूना पत्थर का उपयोग किस रुप में किया जाता है?",
+        "options": {
+            "A": "Flux",
+            "B": "Slag",
+            "C": "Reducing agent",
+            "D": "Oxidising agent"
+        },
+        "vikalpa": {
+            "A": "द्रवक",
+            "B": "धातुमल",
+            "C": "अवकारक",
+            "D": "ऑक्सीकारक"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Which of the following metals is obtained by cyanide process?",
+        "prashna": "निम्नलिखित में कौन धातु सायनाइड विधि द्वारा प्राप्त किया जाता है?",
+        "options": {
+            "A": "Chromium",
+            "B": "Copper",
+            "C": "Silver",
+            "D": "Aluminium"
+        },
+        "vikalpa": {
+            "A": "क्रोमियम",
+            "B": "कॉपर",
+            "C": "सिल्वर",
+            "D": "ऐल्युमीनियम"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Galena is an ore of which of the following metals?",
+        "prashna": "गैलेना निम्नलिखित में किस धातु का अयस्क है?",
+        "options": {
+            "A": "Sn",
+            "B": "Pb",
+            "C": "Si",
+            "D": "Ag"
+        },
+        "vikalpa": {
+            "A": "Sn",
+            "B": "Pb",
+            "C": "Si",
+            "D": "Ag"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Sulphide ores are concentrated by",
+        "prashna": "सल्फाइड अयस्कों का सांद्रण किया जाता है-",
+        "options": {
+            "A": "Froth floatation process",
+            "B": "Electrolysis",
+            "C": "By Roasting",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फेन-उत्प्लावन विधि द्वारा",
+            "B": "विद्युत विच्छेदन विधि द्वारा",
+            "C": "भर्जन द्वारा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Chlorine reacts with excess of ammonia to form",
+        "prashna": "क्लोरीन अमोनिया की अधिकता में अभिक्रिया करके बनाता है।",
+        "options": {
+            "A": "$NH_4Cl$",
+            "B": "$N_2 + HCl$",
+            "C": "$N_2 + NH_4Cl$",
+            "D": "$N_2 + HCl$"
+        },
+        "vikalpa": {
+            "A": "$NH_4Cl$",
+            "B": "$N_2 + HCl$",
+            "C": "$N_2 + NH_4Cl$",
+            "D": "$N_2 + HCl$"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which of the following has $p\\pi – d\\pi$ bond?",
+        "prashna": "निम्न में से किसमें $p\\pi-d\\pi$ बंधन है?",
+        "options": {
+            "A": "$NO_3^-$",
+            "B": "$CO_3^{2-}$",
+            "C": "$BO_3^{3-}$",
+            "D": "$SO_3^{2-}$"
+        },
+        "vikalpa": {
+            "A": "$NO_3^-$",
+            "B": "$CO_3^{2-}$",
+            "C": "$BO_3^{3-}$",
+            "D": "$SO_3^{2-}$"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Elements of group 16 are called-",
+        "prashna": "वर्ग 16 के तत्व का कहा जाता है",
+        "options": {
+            "A": "Halogens",
+            "B": "Chalcogens",
+            "C": "Transition elements",
+            "D": "Noble gases"
+        },
+        "vikalpa": {
+            "A": "हैलोजेन्स",
+            "B": "चल्कोजन",
+            "C": "संक्रमण तत्व",
+            "D": "उत्कृष्ट गैसें"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "The elements showing highest oxidation state among first transition series is",
+        "prashna": "प्रथम संक्रमण श्रेणी में उच्चतम ऑक्सीकरण अवस्था प्रदर्शित करने वाले तत्व है–",
+        "options": {
+            "A": "Ni",
+            "B": "Cr",
+            "C": "Fe",
+            "D": "Mn"
+        },
+        "vikalpa": {
+            "A": "Ni",
+            "B": "Cr",
+            "C": "Fe",
+            "D": "Mn"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "In which of the following elements $4f$ energy level is gradually filled?",
+        "prashna": "निम्नलिखित में से किस तत्व में $4f$ ऊर्जा स्तर क्रमिक रूप से भरता है?",
+        "options": {
+            "A": "Lanthanides",
+            "B": "Actinides",
+            "C": "Transition metal",
+            "D": "Alkali metals"
+        },
+        "vikalpa": {
+            "A": "लैन्थेनाइड",
+            "B": "एक्टिनाइडस",
+            "C": "संक्रमण धातु",
+            "D": "क्षार धातु"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "The Co-ordinator number of Cr in $K_3[Cr(C_2O_4)_3]$ is",
+        "prashna": "$K_3[Cr(C_2O_4)_3]$ में Cr की समन्वय संख्या है-",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Which of the following in paramagnet?",
+        "prashna": "निम्नलिखित में कौन अनुचुंबकीय है?",
+        "options": {
+            "A": "$Ni(CO)_4$",
+            "B": "$[Ni(CN)_4]^{2-}$",
+            "C": "$[NiCl_4]^{2-}$",
+            "D": "$[CO(NH_3)_6]^{3+}$"
+        },
+        "vikalpa": {
+            "A": "$Ni(CO)_4$",
+            "B": "$[Ni(CN)_4]^{2-}$",
+            "C": "$[NiCl_4]^{2-}$",
+            "D": "$[CO(NH_3)_6]^{3+}$"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following acts both as oxidising as well as reducing agents?",
+        "prashna": "निम्नलिखित में कौन ऑक्सीकारक एवं अवकारक दोनों की तरह व्यवहार करता है",
+        "options": {
+            "A": "$H_2S$",
+            "B": "$H_2SO_4$",
+            "C": "$SO_2$",
+            "D": "$SO_3$"
+        },
+        "vikalpa": {
+            "A": "$H_2S$",
+            "B": "$H_2SO_4$",
+            "C": "$SO_2$",
+            "D": "$SO_3$"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Which of the following is coloured?",
+        "prashna": "निम्नलिखित में कौन रंगीन होता है?",
+        "options": {
+            "A": "$NH_3$",
+            "B": "$NO_2$",
+            "C": "$N_2O$",
+            "D": "NO"
+        },
+        "vikalpa": {
+            "A": "$NH_3$",
+            "B": "$NO_2$",
+            "C": "$N_2O$",
+            "D": "NO"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Which of the following ions is colourless?",
+        "prashna": "निम्नलिखित में से कौन आयन रंगहीन है?",
+        "options": {
+            "A": "$Cu^+$",
+            "B": "$Co^{2+}$",
+            "C": "$Ni^{2+}$",
+            "D": "$Fe^{3+}$"
+        },
+        "vikalpa": {
+            "A": "$Cu^+$",
+            "B": "$Co^{2+}$",
+            "C": "$Ni^{2+}$",
+            "D": "$Fe^{3+}$"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which of the following is not a transition element?",
+        "prashna": "निम्नलिखित में कौन संक्रमण तत्व नहीं है?",
+        "options": {
+            "A": "Fe",
+            "B": "Sn",
+            "C": "Cu",
+            "D": "Hg"
+        },
+        "vikalpa": {
+            "A": "Fe",
+            "B": "Sn",
+            "C": "Cu",
+            "D": "Hg"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "The outer electronic configuration of group 18 elements is",
+        "prashna": "वर्ग 18 के तत्वों का बाह्य इलेक्ट्रॉनिक विन्यास है",
+        "options": {
+            "A": "$ns^2np^5$",
+            "B": "$ns^2np^6$",
+            "C": "$ns^2np^4$",
+            "D": "$ns^2np^3$"
+        },
+        "vikalpa": {
+            "A": "$ns^2np^5$",
+            "B": "$ns^2np^6$",
+            "C": "$ns^2np^4$",
+            "D": "$ns^2np^3$"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Which of following gases has lowest boiling point?",
+        "prashna": "निम्नलिखित में कौन सबसे कम क्वथनांक वाली गैस है?",
+        "options": {
+            "A": "Hydrogen",
+            "B": "Helium",
+            "C": "Nitrogen",
+            "D": "Argon"
+        },
+        "vikalpa": {
+            "A": "हाइड्रोजन",
+            "B": "हीलियम",
+            "C": "नाइड्रोजन",
+            "D": "आर्गन"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the metals is purified by Hoope's process?",
+        "prashna": "हूप की विधि के द्वारा निम्नलिखित में किस धातु का शोधन होता है?",
+        "options": {
+            "A": "Cu",
+            "B": "Al",
+            "C": "Fe",
+            "D": "Zn"
+        },
+        "vikalpa": {
+            "A": "Cu",
+            "B": "Al",
+            "C": "Fe",
+            "D": "Zn"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which of the following is the most electronegative?",
+        "prashna": "निम्नलिखित में कौन सबसे ज्यादा विद्युत ऋणात्मक है?",
+        "options": {
+            "A": "$F_2$",
+            "B": "$Cl_2$",
+            "C": "$Br_2$",
+            "D": "$I_2$"
+        },
+        "vikalpa": {
+            "A": "$F_2$",
+            "B": "$Cl_2$",
+            "C": "$Br_2$",
+            "D": "$I_2$"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which of the following does not exist?",
+        "prashna": "निम्नलिखित में से किसका अस्तित्व में नहीं है?",
+        "options": {
+            "A": "$XeOF_4$",
+            "B": "$NeF_2$",
+            "C": "$XeF_2$",
+            "D": "$XeO_3$"
+        },
+        "vikalpa": {
+            "A": "$XeOF_4$",
+            "B": "$NeF_2$",
+            "C": "$XeF_2$",
+            "D": "$XeO_3$"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which of the following doesn't form hydrogen bond?",
+        "prashna": "निम्नलिखित में कौन हाइड्रोजन-बंधन नहीं बनाता है?",
+        "options": {
+            "A": "$NH_3$",
+            "B": "$H_2O$",
+            "C": "$HCl$",
+            "D": "HF"
+        },
+        "vikalpa": {
+            "A": "$NH_3$",
+            "B": "$H_2O$",
+            "C": "$HCl$",
+            "D": "HF"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "The number of ions in the aqueous solution of complex $[Co(NH_3)_5Cl]Cl_2$",
+        "prashna": "जटिल यौगिक $[Co(NH_3)_5Cl]Cl_2$ के जलीय विलयन में आयनों की संख्या होगी?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Which of the following given iodoform test?",
+        "prashna": "निम्नलिखित में कौन आयडोफॉर्म परीक्षण देता है?",
+        "options": {
+            "A": "$C_2H_5OH$",
+            "B": "$CH_3OH$",
+            "C": "HCHO",
+            "D": "$C_2H_4$"
+        },
+        "vikalpa": {
+            "A": "$C_2H_5OH$",
+            "B": "$CH_3OH$",
+            "C": "HCHO",
+            "D": "$C_2H_4$"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "The conversion of alkyl halide into alcohol by the reaction of aqueous KOH is called",
+        "prashna": "ऐल्किल हैलाइड का जलीय KOH द्वारा ऐल्कोहल में परिणत होना कहलाता है-",
+        "options": {
+            "A": "Addition reaction",
+            "B": "Substitution reaction",
+            "C": "Dehydrohalogenation reaction",
+            "D": "Elimination reaction"
+        },
+        "vikalpa": {
+            "A": "योगशील अभिक्रिया",
+            "B": "प्रतिस्थापन अभिक्रिया",
+            "C": "डिहाइड्रोहैलोजनीकरण अभिक्रिया",
+            "D": "विलोपन अभिक्रिया"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "The IUPAC name of secondary Butyl chloride is",
+        "prashna": "सेकेंडरी ब्यूटिल क्लोराइड का IUPAC नाम है",
+        "options": {
+            "A": "3 - chlorobutane",
+            "B": "2 - chlorobutane",
+            "C": "1 – chloro 2 – methyl propane",
+            "D": "2 - chloro 2 – methyl propane"
+        },
+        "vikalpa": {
+            "A": "3-क्लोरोब्यूटेन",
+            "B": "2-क्लोरोब्यूटेन",
+            "C": "1- क्लोरो 2- मेथिल प्रोपेन",
+            "D": "2- क्लोरो 2- मेथिल प्रोपेन"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Which of the following is vinyl halide?",
+        "prashna": "निम्नलिखित में कौन सा विनाइल हैलाइड है?",
+        "options": {
+            "A": "$CH_2=CH-CHBrCH_3$",
+            "B": "$CH_3-C(Br)=CH_2$",
+            "C": "$CH_2=CH-CH_2-CH_2-Cl$",
+            "D": "$CH \\equiv C-Br_3$"
+        },
+        "vikalpa": {
+            "A": "$CH_2=CH-CHBrCH_3$",
+            "B": "$CH_3-C(Br)=CH_2$",
+            "C": "$CH_2=CH-CH_2-CH_2-Cl$",
+            "D": "$CH \\equiv C-Br_3$"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Which of the following is used as anaesthetic",
+        "prashna": "निम्नलिखित में किसका उपयोग निश्चेतक के रूप में होता है-",
+        "options": {
+            "A": "Chloroform",
+            "B": "Iodoform",
+            "C": "Acetylene",
+            "D": "Methane"
+        },
+        "vikalpa": {
+            "A": "क्लोरोफॉर्म",
+            "B": "आयोडोफॉर्म",
+            "C": "ऐसीटिलीन",
+            "D": "मेथेन"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "$C_2H_5OH$ and $CH_3OCH_3$ are",
+        "prashna": "$C_2H_5OH$ एवं $CH_3OCH_3$ है",
+        "options": {
+            "A": "Position isomers",
+            "B": "Functional isomers",
+            "C": "Chain isomer",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "स्थान समावयवी",
+            "B": "क्रियाशील समावयवी",
+            "C": "श्रृंखला समावयवी",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Primary alcohol on oxidation given",
+        "prashna": "प्राथमिक ऐल्कोहॉल को ऑक्सीकरण से प्राप्त होता है",
+        "options": {
+            "A": "Ketone",
+            "B": "Ester",
+            "C": "Carboxylic acid",
+            "D": "Ether"
+        },
+        "vikalpa": {
+            "A": "कीटोन",
+            "B": "ईस्टर",
+            "C": "कार्बोक्सिलिक अम्ल",
+            "D": "ईथर"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "The IUPAC name of Diethyl ether is",
+        "prashna": "डाईएथिल ईथर का IUPAC नाम है",
+        "options": {
+            "A": "Methoxy methane",
+            "B": "Ethoxy ethane",
+            "C": "Methoxy propane",
+            "D": "Ethoxy methane"
+        },
+        "vikalpa": {
+            "A": "मिथॉक्सी मिथेन",
+            "B": "इथॉक्सी इथेन",
+            "C": "मिथॉक्सी प्रोपेन",
+            "D": "इथॉक्सी मिथेन"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "The IUPAC name of acetone is",
+        "prashna": "IUPAC प्रणाली में ऐसीटोन का नाम है",
+        "options": {
+            "A": "Methanal",
+            "B": "Ethanal",
+            "C": "Propanone",
+            "D": "Ethanone"
+        },
+        "vikalpa": {
+            "A": "मेथेनल",
+            "B": "एथेनल",
+            "C": "प्रोपेनोन",
+            "D": "एथानोन"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Which of the following is obtained on heating formaldehyde with $NaOH$ solution.",
+        "prashna": "फॉर्मेल्डिहाइड को $NaOH$ विलयन के साथ गर्म करने पर निम्नलिखित में कौन प्राप्त होता है?",
+        "options": {
+            "A": "Formic acid",
+            "B": "Acetone",
+            "C": "Methyl alcohol",
+            "D": "Methyl alcohol and Sodium formate"
+        },
+        "vikalpa": {
+            "A": "फार्मिक अम्ल",
+            "B": "ऐसीटोन",
+            "C": "मेथिल ऐल्कोहॉल",
+            "D": "मेथिल ऐल्कोहॉल और सोडियम फॉर्मेट"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "The reaction, $CH_3COCH_3 + HCN \\rightarrow CH_3-C(OH)(CN)-CH_3$ is an example of which of the following?",
+        "prashna": "अभिक्रिया $CH_3COCH_3 + HCN \\rightarrow CH_3-C(OH)(CN)-CH_3$ निम्नलिखित में किसका उदाहरण है?",
+        "options": {
+            "A": "Electrophilic substitution",
+            "B": "Nucleophilic substitution",
+            "C": "Nucleophilic addition",
+            "D": "Electrophilic addition"
+        },
+        "vikalpa": {
+            "A": "इलेक्ट्रॉस्नेही प्रतिस्थापन",
+            "B": "नाभिकस्नेही प्रतिस्थापन",
+            "C": "नाभिकस्नेही योग",
+            "D": "इलेक्ट्रॉस्नेही योग"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "The functional group of carboxylic acids is",
+        "prashna": "कार्बोक्सिलिक अम्लों का क्रियाशील मूलक है-",
+        "options": {
+            "A": "-CHO",
+            "B": "-C(=O)-",
+            "C": "-COOH",
+            "D": "-COOR"
+        },
+        "vikalpa": {
+            "A": "-CHO",
+            "B": "-C(=O)-",
+            "C": "-COOH",
+            "D": "-COOR"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Which of the following is obtained on hydrolysis of $CH_3CN$ ?",
+        "prashna": "$CH_3CN$ के जल अपघटन से निम्नलिखित में कौन प्राप्त होता है?",
+        "options": {
+            "A": "$C_2H_6$",
+            "B": "$CH_3CH_2COOH$",
+            "C": "$CH_3COOH$",
+            "D": "HCOOH"
+        },
+        "vikalpa": {
+            "A": "$C_2H_6$",
+            "B": "$CH_3CH_2COOH$",
+            "C": "$CH_3COOH$",
+            "D": "HCOOH"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Which of the following can be represented by molecular formula $C_3H_9N$ ?",
+        "prashna": "अणुसूत्र $C_3H_9N$ के द्वारा निम्नलिखित में किसे व्यक्त किया जाता है?",
+        "options": {
+            "A": "Primary amine",
+            "B": "Secondary amine",
+            "C": "Tertiary amine",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "प्राइमरी ऐमीन",
+            "B": "सेकेण्डरी ऐमीन",
+            "C": "टर्शियरी ऐमीन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Which of the following is formed when aniline reacts with fuming sulphuric acid?",
+        "prashna": "ऐनीलीन की अभिक्रिया सधूम सल्फ्यूरिक अम्ल के साथ कराने पर निम्नलिखित में कौन बनता है?",
+        "options": {
+            "A": "Sulphonic acid",
+            "B": "Sulphanilic acid",
+            "C": "Benzene sulphonic acid",
+            "D": "Benzoic acid"
+        },
+        "vikalpa": {
+            "A": "सल्फोनिक अम्ल",
+            "B": "सल्फैनिलिक अम्ल",
+            "C": "बेंजीन सल्फोनिक अम्ल",
+            "D": "बेंजोइक अम्ल"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "The reaction in which primary amine reacts with chloroform and ethanolic $KOH$ is called",
+        "prashna": "प्राइमरी ऐमीन की क्लोरोफॉर्म तथा ऐथेनॉलिक $KOH$ के साथ अभिक्रिया कहलाती है।",
+        "options": {
+            "A": "Carbyl amine reaction",
+            "B": "Kolbe's reaction",
+            "C": "Reimer and Tiemann reaction",
+            "D": "Hoffmann reaction"
+        },
+        "vikalpa": {
+            "A": "कार्बिल ऐमीन अभिक्रिया",
+            "B": "कोल्बे अभिक्रिया",
+            "C": "रीमर तथा टीमैन अभिक्रिया",
+            "D": "हॉफमैन अभिक्रिया"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "The hydrolysis of sucrose is called",
+        "prashna": "सुक्रोज का जल अपघटन कहलाता है",
+        "options": {
+            "A": "Saponification",
+            "B": "Hydration",
+            "C": "Esterification",
+            "D": "Inversion"
+        },
+        "vikalpa": {
+            "A": "साबुनीकरण",
+            "B": "जलयोजन",
+            "C": "एस्टरीकरण",
+            "D": "इनवर्शन"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Functional groups present in amino acids are",
+        "prashna": "ऐमीनो अम्ल में पाया जाने वाला क्रियाशील समूह है-",
+        "options": {
+            "A": "COOH gp",
+            "B": "$-NH_2$ gp",
+            "C": "$-CH_3$ gp",
+            "D": "Both A and B"
+        },
+        "vikalpa": {
+            "A": "-COOH समूह",
+            "B": "$-NH_2$ समूह",
+            "C": "$-CH_3$ समूह",
+            "D": "(A) तथा (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Night blindness is due to the deficiency of",
+        "prashna": "रतौंधी किसकी कमी से होता है-",
+        "options": {
+            "A": "Vitamin $B_{12}$",
+            "B": "Vitamin A",
+            "C": "Vitamin C",
+            "D": "Vitamin E"
+        },
+        "vikalpa": {
+            "A": "विटामिन $B_{12}$",
+            "B": "विटामिन A",
+            "C": "विटामिन C",
+            "D": "विटामिन E"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Which of the following is commonly not produced by our body?",
+        "prashna": "निम्नलिखित में कौन साधारणतया शरीर द्वारा नहीं बनाये जाते ?",
+        "options": {
+            "A": "Enzyme",
+            "B": "Vitamin",
+            "C": "Protein",
+            "D": "Hormone"
+        },
+        "vikalpa": {
+            "A": "एंजाइम",
+            "B": "विटामिन",
+            "C": "प्रोटीन",
+            "D": "हार्मोन"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Which of the following is not a macromolecule?",
+        "prashna": "निम्नलिखित में से कौन वृहत अणु नहीं है?",
+        "options": {
+            "A": "DNA",
+            "B": "Starch",
+            "C": "Palmitate",
+            "D": "Insulin"
+        },
+        "vikalpa": {
+            "A": "डीएनए",
+            "B": "स्टार्च",
+            "C": "पॉल्मिटेट",
+            "D": "इन्सुलिन"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "The first industrially synthesis rubber is",
+        "prashna": "पहला औद्योगिक संश्लेषित रबर है–",
+        "options": {
+            "A": "Methyl rubber",
+            "B": "Buna-N-rubber",
+            "C": "Buna-S-rubber",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मेथिल रबर",
+            "B": "ब्यूना-N-रबर",
+            "C": "ब्यूना-S-रबर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Orlon is a polymer of which of the following?",
+        "prashna": "ऑलॉन निम्नलिखित में से किसके बहुलक है?",
+        "options": {
+            "A": "Tetrafluoro ethene",
+            "B": "Acrylonitrile",
+            "C": "Ethanoic acid",
+            "D": "Benzene"
+        },
+        "vikalpa": {
+            "A": "टेट्राफ्लोरो एथीन का",
+            "B": "ऐक्रिलोनाइट्राइल का",
+            "C": "एथैनोइक अम्ल का",
+            "D": "बेंजीन का"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "Purine base which is present in RNA",
+        "prashna": "आरएनए में मौजूद प्यूरीन बेस है",
+        "options": {
+            "A": "Guanine",
+            "B": "Thymine",
+            "C": "Cytosine",
+            "D": "Uracil"
+        },
+        "vikalpa": {
+            "A": "गुएनिन",
+            "B": "थाइमिन",
+            "C": "साइटोसिन",
+            "D": "यूरासिल"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Which of the following is the correct order in nucleic acid?",
+        "prashna": "न्यूक्लिक अम्लों में निम्नलिखित में कौन-सा सही क्रम है?",
+        "options": {
+            "A": "Base-phosphate-sugar",
+            "B": "Phosphate-base-sugar",
+            "C": "Sugar-base-phosphate",
+            "D": "Base-sugar-phosphate"
+        },
+        "vikalpa": {
+            "A": "भस्म-फॉस्फेट-शर्करा",
+            "B": "फॉस्फेट-भस्म-शर्करा",
+            "C": "शर्करा-भस्म-फॉस्फेट",
+            "D": "भस्म–शर्करा–फॉस्फेट"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which of the following carbohydrates is an essential component of plant cell?",
+        "prashna": "निम्नलिखित में से कौन-सा कार्बोहाइड्रेट वनस्पति कोशिका का आवश्यक घटक है?",
+        "options": {
+            "A": "Starch",
+            "B": "Cellulose",
+            "C": "Sucrose",
+            "D": "Vitamin"
+        },
+        "vikalpa": {
+            "A": "स्टार्च",
+            "B": "सेल्यूलोज",
+            "C": "सुक्रोज",
+            "D": "विटामिन"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Differentiate between molarity and molality.",
+        "prashna": "विलयन की मोलरता एवं मोललता में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Define molar conductance and write its unit.",
+        "prashna": "मोलर चालकत्व की परिभाषित करें और उसकी इकाई लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is Brownian movement?",
+        "prashna": "ब्राउनियन गति क्या है?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Differentiate between calcination and roasting.",
+        "prashna": "निस्तापन एवं भर्जन में अंतर बतायें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Transition metals exhibit good catalyst property. Explain.",
+        "prashna": "संक्रमण धातुएँ अच्छे उत्प्रेरक का गुण प्रदर्शित करती हैं। व्याख्या करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Write IUPAC names of following complex compound.",
+        "prashna": "निम्नलिखित जटिल यौगिकों का IUPAC नाम लिखें।",
+        "sub_questions": {
+            "A": "$[Cr(H_2O)_6]Cl_3$",
+            "B": "$K[Ag(CN)_2]$"
+        },
+        "anuprashna": {
+            "A": "$[Cr(H_2O)_6]Cl_3$",
+            "B": "$K[Ag(CN)_2]$"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Graphite is good conductor of electric current where as diamond is not. Explain.",
+        "prashna": "ग्रेफाइट विद्युत का सुचालक होता है जबकि हीरा नहीं। व्याख्या करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is body centred cubic unit cell?",
+        "prashna": "पिण्ड केंद्रित घनाकार इकाई सेल क्या है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What is Fehling solution? What is its use?",
+        "prashna": "फेहलिंग विलियन क्या होता है? इसका क्या उपयोग है?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write IUPAC names of the following.",
+        "prashna": "निम्नलिखित के IUPAC नाम लिखें।",
+        "sub_questions": {
+            "A": "$CH_3-CH(OH)-COOH$",
+            "B": "$CH_3-CH_2-C(=O)-O-CH_3$"
+        },
+        "anuprashna": {
+            "A": "$CH_3-CH(OH)-COOH$",
+            "B": "$CH_3-CH_2-C(=O)-O-CH_3$"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Give one example of each",
+        "prashna": "निम्नलिखित में प्रत्येक का एक उदाहरण दें।",
+        "sub_questions": {
+            "A": "Friedel-craft alkylation",
+            "B": "Friedel-craft acylation"
+        },
+        "anuprashna": {
+            "A": "फ्रिडेल-क्राफ्ट ऐल्किलीकरण",
+            "B": "फ्रिडेल-क्राफ्ट ऐसिलीकरण"
+        }
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "How are monohydric alcohols classified?",
+        "prashna": "मोनोहाइड्रिक ऐल्कोहॉल का वर्गीकरण किस प्रकार किया जाता है।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Write a short note on Bakelite.",
+        "prashna": "बेकेलाइट पर संक्षिप्त टिप्पणी लिखे।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "What are detergents? Give example.",
+        "prashna": "अपमार्जक क्या हैं? उदाहरण दें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What is Liebermann's nitroso reaction?",
+        "prashna": "लिबरमॉन की नाइट्रोसो अभिक्रिया क्या है?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What are essential and non-essential amino acids?",
+        "prashna": "आवश्यक तथा अनावश्यक ऐमिनो अम्ल क्या है ?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What is pseudo first order reaction? Give an example.",
+        "prashna": "छद्म प्रथम कोटि की अभिक्रिया क्या है? उदाहरण दें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What are Surfactants? Give example.",
+        "prashna": "पृष्ठसक्रिय कारक क्या हैं? उदाहरण दें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Arrange $H_2O, H_2S, H_2Se$ and $H_2Te$ in the increasing order of their boiling points.",
+        "prashna": "$H_2O, H_2S, H_2Se$ और $H_2Te$ को उनके क्वथनांक के बढ़ते क्रम में सजायें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What are Noble gases? In which group of periodic table, they have been placed?",
+        "prashna": "उत्कृष्ट गैसें क्या हैं? उन्हें आवर्त सारणी के किस वर्ग में रखा गया है?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "This question has sub-questions.",
+        "prashna": "इस प्रश्न के उप-प्रश्न हैं।",
+        "sub_questions": {
+            "A": "What is Raoult's law?",
+            "B": "Obtain an expression for the determination of molecular mass of a solute from relative lowering of Vapour pressure."
+        },
+        "anuprashna": {
+            "A": "राउल्ट का नियम क्या है?",
+            "B": "वाष्प दाब के आपेक्षिक अवनमन से किसी विलेय के आण्विक द्रव्यमान के निर्धारण के लिए व्यंजक प्राप्त करें।"
+        }
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "This question has sub-questions.",
+        "prashna": "इस प्रश्न के उप-प्रश्न हैं।",
+        "sub_questions": {
+            "A": "Differentiate between order of reaction and molecularity of a reaction.",
+            "B": "Differentiate between Lyophilic and Lyophobic sols."
+        },
+        "anuprashna": {
+            "A": "अभिक्रिया की अणुकता एवं अभिक्रिया की कोटि में अंतर बतायें।",
+            "B": "लयोफिलिक एवं लायोफोबिक सॉल में विभेद करें।"
+        }
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Write in brief the process of extraction of Al from Bauxite ore.",
+        "prashna": "बॉक्साइट अयस्क से एल्युमीनियम के निष्कर्षण की विधि को संक्षेप में लिखें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "What are the main sources of Iodine? How is it extracted from sea weeds?",
+        "prashna": "आयोडीन के मुख्य स्रोत क्या हैं? इसे समुद्री घास से कैसे प्राप्त किया जाता है"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Write short notes on the following:",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखें:",
+        "sub_questions": {
+            "A": "Rosenmund reduction",
+            "B": "Perkin's reaction"
+        },
+        "anuprashna": {
+            "A": "रोजेनमुंड अवकरण",
+            "B": "पर्किन अभिक्रिया"
+        }
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "How are following conversions brought about?",
+        "prashna": "निम्नलिखित परिवर्त्तन कैसे किये जाते हैं?",
+        "sub_questions": {
+            "A": "Acetylene to Iodoform",
+            "B": "Acetic acid to Acetone"
+        },
+        "anuprashna": {
+            "A": "एसीटिलीन से आयोडोफॉर्म",
+            "B": "एसीटिक अम्ल से ऐसीटोन"
+        }
+    }
+]
