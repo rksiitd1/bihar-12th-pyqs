@@ -5,6 +5,7 @@ import argparse
 import pathlib
 import textwrap
 import re
+import time
 
 # --- Configuration ---
 
@@ -83,6 +84,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     """
     Main function to process a question paper PDF and generate a structured JSON file.
     """
+    start_time = time.time()
     print(f"Starting processing for: {input_pdf_path}")
     input_path = pathlib.Path(input_pdf_path)
 
@@ -133,6 +135,11 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     print(f"Deleting file {uploaded_file.name} from the API...")
     genai.delete_file(uploaded_file.name)
     print("File deleted.")
+    
+    # Calculate and display execution time
+    end_time = time.time()
+    execution_time = end_time - start_time
+    print(f"\n⏱️  Total execution time: {execution_time:.2f} seconds ({execution_time/60:.2f} minutes)")
 
 
 # --- Interactive Interface ---
