@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which of the following is the symbol for mating?",
+        "prashna": "निम्नलिखित में से कौन प्रतीक मैथुन के लिए है?",
+        "options": {
+            "A": "◯",
+            "B": "☐",
+            "C": "♢",
+            "D": "☐-◯"
+        },
+        "vikalpa": {
+            "A": "◯",
+            "B": "☐",
+            "C": "♢",
+            "D": "☐-◯"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which of the following is not a chromosol disorder?",
+        "prashna": "निम्नलिखित में से कौन सा क्रोमोसोमीय विकार नहीं है?",
+        "options": {
+            "A": "Down's syndrome",
+            "B": "Klinefelter's syndrome",
+            "C": "Turner's syndrome",
+            "D": "Phenyl ketonuria"
+        },
+        "vikalpa": {
+            "A": "डाउन सिंड्रोम",
+            "B": "क्लाइनफेल्टर सिंड्रोम",
+            "C": "टर्नर सिंड्रोम",
+            "D": "फीनाइल कीटोनूरिया"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "In which of the following females heterogamety is found?",
+        "prashna": "निम्नलिखित में से किस जन्तु में मादा विषमयुग्मकता पायी जाती है?",
+        "options": {
+            "A": "Humans",
+            "B": "Birds",
+            "C": "Honey bees",
+            "D": "Cat"
+        },
+        "vikalpa": {
+            "A": "मनुष्य",
+            "B": "पक्षी",
+            "C": "मधुमक्खियाँ",
+            "D": "बिल्ली"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The trait which is expressed in heterozygous plants is known as .........",
+        "prashna": "विषमयुग्मजी पौधों में जो लक्षण व्यक्त होता है उसे ............ कहते हैं।",
+        "options": {
+            "A": "Dominant",
+            "B": "Recessive",
+            "C": "Codominant",
+            "D": "Partially dominant"
+        },
+        "vikalpa": {
+            "A": "प्रभावी",
+            "B": "अप्रभावी",
+            "C": "सह प्रभावी",
+            "D": "अपूर्णप्रभावी"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "How many types of genotypes are there for ABO blood groups?",
+        "prashna": "ABO रूधिर वर्गों के लिए कितने प्रकार के जीनोटाइप हैं?",
+        "options": {
+            "A": "3",
+            "B": "2",
+            "C": "6",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "2",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following scientists prepared recombination map?",
+        "prashna": "निम्नलिखित में से किस वैज्ञानिक ने रीकोम्बीनेशन मैप बनाया?",
+        "options": {
+            "A": "Mendel",
+            "B": "Sturtevant",
+            "C": "Sutton and Boveri",
+            "D": "Morgan"
+        },
+        "vikalpa": {
+            "A": "मेंडल",
+            "B": "स्टर्टीवेंट",
+            "C": "सटन और बोवेरी",
+            "D": "मोर्गन"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which laws of inheritance were propounded on basis of monohybrid?\n1. Law of Dominance\n2. Law of Segregation\n3. Law of independent assortment.",
+        "prashna": "एकसंकर संकरण प्रयोगों के आधार पर वंशागति के कौन- कौन से नियम प्रतिपादित किए गये?\n1. प्रभाविता नियम\n2. निसंयोजन नियम\n3. स्वतंत्र अपव्यूहन का नियम।",
+        "options": {
+            "A": "Only 1",
+            "B": "Only 2",
+            "C": "1 and 2",
+            "D": "1, 2 and 3"
+        },
+        "vikalpa": {
+            "A": "सिर्फ 1",
+            "B": "सिर्फ 2",
+            "C": "1 एवं 2",
+            "D": "1, 2 एवं 3"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which pentose sugar is present in RNA?",
+        "prashna": "आर एन ए में कौन पेन्टोज शर्करा उपस्थित होती है?",
+        "options": {
+            "A": "Ribose",
+            "B": "Deoxyribose",
+            "C": "Xylose",
+            "D": "Ribulose"
+        },
+        "vikalpa": {
+            "A": "रिबोज",
+            "B": "डिऑक्सीरिबोज",
+            "C": "जइलोज",
+            "D": "रिबुलोज"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Due to which of the following reasons there is approximately equal distance maintained between two polynucleotide strands of DNA?",
+        "prashna": "निम्नलिखित में से किस कारणवश डी.एन.ए. कुडली के दोनों पॉलीन्यूक्लियोटाइड रज्जुकों के बीच लगभग समान दूरी बना रखता है?",
+        "options": {
+            "A": "Backbone of each polynucleotide chain is constituted by phosphate sugar.",
+            "B": "Both polynucleotide strands have antiparallel polarity.",
+            "C": "The bases in the two strands are paired through hydrogen bonds forming base pairs.",
+            "D": "In DNA purine comes opposite to pyrimidine."
+        },
+        "vikalpa": {
+            "A": "प्रत्येक पॉलीन्यूक्लियोटाइड श्रृंखला का आधार फॉस्फेट-शर्करा बना होता है।",
+            "B": "दोनों पॉलीन्यूक्लियोटाइड रज्जुकों में एंटीपैरलल पोलरिटी होती है।",
+            "C": "दोनों रज्जुकों में बेस हाइड्रोजन बॉन्ड के माध्यम से जोड़े जाते हैं जो बेस पेयर बनाते हैं।",
+            "D": "DNA में प्यूरीन, पाइरीमिडीन के विपरीत आता है।"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the followings is not the reason for stability of DNA?",
+        "prashna": "निम्नलिखित में से कौन सा क्छ। की स्थिरता का कारण नहीं है?",
+        "options": {
+            "A": "Both strands of DNA are complementary to each other.",
+            "B": "Repair is possible in DNA.",
+            "C": "In DNA every nucleotide residue has $2'$-hydroxyl group in the pentose sugar.",
+            "D": "Thymine is present in place of uracil in DNA."
+        },
+        "vikalpa": {
+            "A": "डी.एन.ए. के दोनों रज्जुकों एक दूसरे के पूरक हैं।",
+            "B": "डी.एन.ए. में मरम्मत संभव है।",
+            "C": "डी.एन.ए. में प्रत्येक न्यूक्लियोटाइड अवशेष में पेंटोस शर्करा में 2-हाइड्रॉक्सिल समूह होता है।",
+            "D": "डी.एन.ए. में यूरासिल के स्थान पर थाइमिन होता है।"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "The process of evolution of different species in a given geographical area starting from a point and radiating to other geographical areas is known as.....",
+        "prashna": "एक विशेष भौगोलिक क्षेत्र में विभिन्न प्रजातियों के विकास कर प्रक्रम एक बिंदु से शुरू अन्य भू-भौगोलिक क्षेत्रों तक प्रसारित होने को ...............कहते हैं।",
+        "options": {
+            "A": "Speciation",
+            "B": "Natural selection",
+            "C": "Adaptive radiation",
+            "D": "Gene flow"
+        },
+        "vikalpa": {
+            "A": "स्पेसीयेसन",
+            "B": "प्राकृतिक चयन",
+            "C": "अनुकूली विकिरण",
+            "D": "जीन प्रवाह"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which of the following statements is false about the origin of life?",
+        "prashna": "निम्नलिखित में से कौन कथन जीवन की उत्पत्ति के बारे में असत्य है?",
+        "options": {
+            "A": "According to Oparin and Haldane the first form of life would have come from pre-existing non-living organic molecules",
+            "B": "Free oxygen was not present in atmosphere at the time of origin of life.",
+            "C": "If is supposed that earth was formed about 4.5 billion years back.",
+            "D": "In his experiment, Miller used oxygen, methane, hydrogen, ammonia and electric discharge at $800^{\\circ}C$ temperature in a closed flask."
+        },
+        "vikalpa": {
+            "A": "ओपेरिन और हाल्दाने के अनुसार जीवन का पहला स्वरूप पूर्व विद्यमान जीवन रहित कार्बनिक अणुओं से आया हुआ हो सकत है।",
+            "B": "जीवन की उत्पत्ति के समय वायुमंडल में मुक्त ऑक्सीजन नहीं था।",
+            "C": "पृथ्वी की संरचना 4.5 मिलियन वर्ष पूर्व माना जाता है।",
+            "D": "मिलर ने अपने प्रयोग में बंद फ्लास्क में ऑक्सीजन, मेथेन, हाइड्रोजन अमोनिया तथा $800^{\\circ}C$ तापक्रम पर विद्युत डिस्चार्ज का प्रयोग किया ।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The DNA finger printing technique was initially developed by who among the following?",
+        "prashna": "निम्नलिखित में से किसके द्वारा डी एन ए अगुलिछापी तकनीक का प्रारंभिक विकास किया गया ?",
+        "options": {
+            "A": "Alec Jeffreys",
+            "B": "Lalji Singh",
+            "C": "Watson and Crick",
+            "D": "Crick"
+        },
+        "vikalpa": {
+            "A": "एलेक जेफरीज",
+            "B": "लालजी सिंह",
+            "C": "वॉटसन एवं क्रिक",
+            "D": "क्रिक"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "At which of the following sites the repressor protein binds to lac operon?",
+        "prashna": "निम्नलिखित में से किस स्थल पर दमनकारी प्रोटीन लैकआपेरन से बँधता है?",
+        "options": {
+            "A": "i-gene",
+            "B": "Operator region",
+            "C": "Promoter",
+            "D": "y-gene"
+        },
+        "vikalpa": {
+            "A": "i-जीन",
+            "B": "प्रचालक स्थल",
+            "C": "उन्नायक",
+            "D": "y-जीन"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Who among the following confirmed penicillin as a powerful and effective antibiotic?",
+        "prashna": "निम्नलिखित में से किसने पेनिसिलिन की पुष्टि एक शक्तिशाली तथा प्रभावशाली एंटीबायोटिक के रूप में किया?",
+        "options": {
+            "A": "Ernest chain and Howard Florey",
+            "B": "Alexander Fleming",
+            "C": "Waksman",
+            "D": "Babes"
+        },
+        "vikalpa": {
+            "A": "अर्नेस्ट चैन और हॉवर्ड फ्लोरे",
+            "B": "अलेक्जेंडर फ्लेमिंग",
+            "C": "वक्समैन",
+            "D": "बेबस"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which of the following produces citric acid?",
+        "prashna": "निम्नलिखित में से कौन साइट्रिक अम्ल उत्पादन करता है?",
+        "options": {
+            "A": "Acetobacter aceti",
+            "B": "Aspergillus niger",
+            "C": "Lactobacillus",
+            "D": "Saccharomyces cerevisiae"
+        },
+        "vikalpa": {
+            "A": "एसिटोबैक्टर एसीटी",
+            "B": "एस्परिजिलस नाइजर",
+            "C": "लैक्टोबैसिलस",
+            "D": "सैकरोमाइसिस सेरेविसी"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following statements is incorrect about streptokinase?",
+        "prashna": "निम्नलिखित में से कौन कथन स्ट्रेप्टोकाइनेज के बारे में गलत है?",
+        "options": {
+            "A": "It is used as clot buster.",
+            "B": "It functions as immunosuppressant.",
+            "C": "It is produced by streptococcus.",
+            "D": "It is an enzyme."
+        },
+        "vikalpa": {
+            "A": "इसका उपयोग थक्का स्फोट के लिए किया जाता है।",
+            "B": "यह प्रतिरक्षा निरोधक के रूप में कार्य करता है",
+            "C": "यह स्ट्रेप्टोकोकस द्वारा उत्पन्न होता है।",
+            "D": "यह एक एंजाइम है।"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which of the following statements is incorrect about Trichoderma?",
+        "prashna": "निम्नलिखित में से कौन कथन ट्राइकोडर्मा के बारे में गलत है?",
+        "options": {
+            "A": "It is a free living fungus.",
+            "B": "It is a free living bacterium.",
+            "C": "It is effective biocontrol agent of several plant pathogen.",
+            "D": "Usually it is found in the root ecosystem."
+        },
+        "vikalpa": {
+            "A": "यह मुक्तिजीवित कवक है।",
+            "B": "यह मुक्तिजीवित जीवाणु है।",
+            "C": "बहुत पादप रोगजनक का प्रभावशाली जैन नियंत्रण कारक है।",
+            "D": "जड़ / मूल परिस्थिति तंत्र में सामान्यतः पाया जाता है ।"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following fungi terms mycorrhiza?",
+        "prashna": "निम्नलिखित में से कौन कवक को माइकोराइजा बनाता है?",
+        "options": {
+            "A": "Glomus",
+            "B": "Trichoderma",
+            "C": "Yeast",
+            "D": "Penicillium"
+        },
+        "vikalpa": {
+            "A": "ग्लोमस",
+            "B": "ट्राइकोडर्मा",
+            "C": "यीस्ट",
+            "D": "पेनीसिलीयम"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Who discovered blood circulation?",
+        "prashna": "रक्त परिसंचरण की खोज किसने की?",
+        "options": {
+            "A": "Hippocrates",
+            "B": "William Harvey",
+            "C": "Landsteiner",
+            "D": "Einthoven"
+        },
+        "vikalpa": {
+            "A": "हिप्पोक्रेटीज",
+            "B": "विलियम हार्वे",
+            "C": "लैंडस्टीनर",
+            "D": "इंथोवेन"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Which of the following statements is false about heroin?",
+        "prashna": "निम्नलिखित में से कौन सा कथन हेरोइन के बारे में असत्य है?",
+        "options": {
+            "A": "It is a depressant.",
+            "B": "It is taken by snorting or injection.",
+            "C": "It is obtained by acetylation of morphine.",
+            "D": "It is also called coke."
+        },
+        "vikalpa": {
+            "A": "यह अवसादक है।",
+            "B": "यह नाक द्वारा सांस लेकर या टीके द्वारा लिया जाता है ।",
+            "C": "इसे मॉर्फिन के एसीटिलीकरण द्वारा प्राप्त किया जाता है।",
+            "D": "इसे कोक भी कहा जाता है।"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "The spreading of cells from malignant tumors through blood to distance sites is called .....",
+        "prashna": "मैलिग्नेंट ट्यूमर से निकलह हुयी कोशिकाओं का रक्त के द्वारा दूर-दराज स्थलों पर पहुँचना ..............कहलाता है।",
+        "options": {
+            "A": "Metastasis",
+            "B": "Contact inhibition",
+            "C": "Transformation into neoplastic cells",
+            "D": "Uncontrolled cell division"
+        },
+        "vikalpa": {
+            "A": "मेटास्टैसिस",
+            "B": "कांटेक्ट इनहीविसन",
+            "C": "नवद्रव्ययी कोशिकाओं में रूपांतरण",
+            "D": "अनियंत्रित कोशिका विभाजन"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which of the following statements is incorrect about AIDS?",
+        "prashna": "निम्नलिखित में से कौन कथन एड्स के बारे में असत्य है?",
+        "options": {
+            "A": "It is a viral disease.",
+            "B": "It is caused by the Human Immuno Deficiency virus.",
+            "C": "There is always a time lag between the infection and appearance of AIDS system.",
+            "D": "In AIDS there is progressive decrease in the number of B-Lymphocytes in an infected person."
+        },
+        "vikalpa": {
+            "A": "यह एक विषाणु रोग है ।",
+            "B": "यह ह्यूमन इम्यूनो डेफिसीयंशी वायरस के कारण होता है।",
+            "C": "एचआईवी से संक्रामक एवं एड्स के लक्षण प्रकट होने के बीच हमेशा समयांतराल होता है ।",
+            "D": "एड्स में संक्रमित व्यक्ति में बी-लसीकाणुओं की संख्या में उत्तरोत्तर कमी होती है।"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "In which of the following organs lymphocytes interact with antigens?",
+        "prashna": "निम्नलिखित में से किस अंग में लसीकाणुओं का प्रतिजन के साथ पारस्परिक क्रिया होती है?",
+        "options": {
+            "A": "Bone marrow",
+            "B": "Thymus gland",
+            "C": "Primary Lymphoid organ",
+            "D": "Secondary Lymphoid organ"
+        },
+        "vikalpa": {
+            "A": "अस्थि मज्जा",
+            "B": "थाइमस",
+            "C": "प्राथमिक लसीकाम अंग",
+            "D": "द्वितीयक लसीकाम अंग"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Which of the following is an auto immune disease?",
+        "prashna": "निम्नलिखित में से कौन सा एक स्वप्रतिरक्षा रोग है?",
+        "options": {
+            "A": "Rheumatoid arthritis",
+            "B": "Typhoid",
+            "C": "AIDS",
+            "D": "Cancer"
+        },
+        "vikalpa": {
+            "A": "रुमेटीइड आर्थराइटिस",
+            "B": "टाइफाइड",
+            "C": "एड्स",
+            "D": "कैंसर"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which type of antibodies are abundant in the colostrum secreted by the mother during the early days of lactation?",
+        "prashna": "दुग्धस्त्रवण के प्रारंभिक दिनों के दौरान माँ द्वारा स्रावित कोलोस्ट्रम में किस प्रकार के प्रतिरक्षियों की प्रचुरता होती है",
+        "options": {
+            "A": "Ig A",
+            "B": "Ig M",
+            "C": "Ig G",
+            "D": "Ig E"
+        },
+        "vikalpa": {
+            "A": "Ig A",
+            "B": "Ig M",
+            "C": "Ig G",
+            "D": "IgE"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which of the following pairs is incorrect?",
+        "prashna": "निम्नलिखित में से कौन युग्म गलत है?",
+        "options": {
+            "A": "Amebic dysentery – Entamoeba histolytica",
+            "B": "Ascariasis – Ascaris",
+            "C": "Filaria - Wuchereria bancrofti",
+            "D": "Rhino virus – Pneumonia"
+        },
+        "vikalpa": {
+            "A": "अमीबिक पेचिश – एंटामोइबा हिस्टोलिटिका",
+            "B": "एस्कैएसिस – एस्केरिस",
+            "C": "फाइलेरिया – वुचेरेरिया बैनक्रॉफ्टाई",
+            "D": "राइनोवायरस – न्यूमोनिया"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which of the following statements is incorrect about typhoid?",
+        "prashna": "निम्नलिखित में टाइफाइड के बारे में कौन कथन असत्य है?",
+        "options": {
+            "A": "It is a caused by virus.",
+            "B": "The typhoid fever is confirmed by Widal test.",
+            "C": "Name of Mary Mallon is associated with it.",
+            "D": "Its infection starts in small intestine."
+        },
+        "vikalpa": {
+            "A": "यह वीषाणु द्वारा होता है।",
+            "B": "यह ज्वार की पुष्टि की वीडाल परीक्षण से होती है ।",
+            "C": "मैरी मैलान का नाम इसके जुड़ा है।",
+            "D": "इसके संक्रमण की शुरूआत छोटी आंत से होता है"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "The proteins that cotton bollworms are encoded by which genes?",
+        "prashna": "कपास के मुकुल कृमि को नियंत्रित करने वाले प्रोटीन किन जीन्स द्वारा कूटबद्ध होते है?",
+        "options": {
+            "A": "Gene cry I Ac",
+            "B": "Gene cry I Ab",
+            "C": "Gene cry II Ab",
+            "D": "Gene cry I Ac and cry II ab"
+        },
+        "vikalpa": {
+            "A": "जीन क्राई I एसी",
+            "B": "जीन क्राई 1 एबी",
+            "C": "जीन क्राई II एबी",
+            "D": "जीन क्राइ 1 एसी तथा क्राई II एबी"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Which of the following is absent in mature insulin?",
+        "prashna": "निम्नलिखित में से कौन परिपक्व इंसुलिन में नहीं होता है?",
+        "options": {
+            "A": "Polypeptide chain – A",
+            "B": "Polypeptide chain – B",
+            "C": "Polypeptide chain – C",
+            "D": "Disulphide bond"
+        },
+        "vikalpa": {
+            "A": "पॉलीपेप्टाइड श्रृंखला – A",
+            "B": "पॉलीपेप्टाइड श्रृंखला B",
+            "C": "पॉलीपेप्टाइड श्रृंखला – C",
+            "D": "डायसल्फाइड बंध"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Which of the following is based on the principle of antigen-antibody interaction?",
+        "prashna": "निम्नलिखित में से कौन सा प्रतिजन प्रतिजन पास्परिके क्रिया के सिद्धांत पर आधारित है?",
+        "options": {
+            "A": "PCR",
+            "B": "ELISA",
+            "C": "Ultrasonography",
+            "D": "Molecular diagnosis"
+        },
+        "vikalpa": {
+            "A": "पी सी आर",
+            "B": "एलिसा",
+            "C": "अल्ट्रासोनोग्राफी",
+            "D": "आणविक निदान"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Which of the following techniques is used to prevent the infection of Meloidogyne incognitia in tobacco?",
+        "prashna": "तंबाकू में मिल्वाडेगाइन इनकोगनीशिया के संक्रमण को रोकने हेतु निम्नलिखित में से किस तकनीक का प्रयोग होता है?",
+        "options": {
+            "A": "Use of insecticidal protein",
+            "B": "RNA interference",
+            "C": "Genetic transformation",
+            "D": "Gene therapy"
+        },
+        "vikalpa": {
+            "A": "कीटनाशक प्रोटीन का उपयोग",
+            "B": "आ. एन. ए. अंतरक्षेप",
+            "C": "आनुवंशिक रूपांतरण",
+            "D": "जीन चिकत्सा"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Golden rice is rich in which vitamin?",
+        "prashna": "गोल्डन राइस में कौन विटामिन में समृद्ध है?",
+        "options": {
+            "A": "Vitamin – C",
+            "B": "Vitamin – D",
+            "C": "Vitamin – K",
+            "D": "Vitamin – A"
+        },
+        "vikalpa": {
+            "A": "विटामिन-सी",
+            "B": "विटामिन – डी",
+            "C": "विटामिन – के",
+            "D": "विटामिन ए"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "When very few bacteria or viruses are present in an infected person, which technique can be used to identify them?",
+        "prashna": "जब बहुत कम संख्या में जीवाणु या विषाणु किसी संक्रमित व्यक्ति में हो तब उनकी पहचान किस तकनीक से कर सकते हैं?",
+        "options": {
+            "A": "CT (Computed tomography) scan.",
+            "B": "ELISA technique",
+            "C": "Amplification of nucleic acid of bacteria or virus by PCR",
+            "D": "MRI"
+        },
+        "vikalpa": {
+            "A": "सी.टी. (कंप्यूटेड टोमोग्राफी) स्कैन",
+            "B": "एलिसा तकनीक",
+            "C": "पी.सी.आर. द्वारा जीवाणु या विषाणु के न्यूक्लिक अम्ल का प्रवर्धन द्वारा",
+            "D": "एम.आर.आई."
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Plasmid of which bacterium was used for the construction of the first recombinant DNA?",
+        "prashna": "प्रथम पुनर्यागज डी.एन.ए. के निर्माण किस जीवाणु के प्लाजमिड का उपयोग किया था?",
+        "options": {
+            "A": "Escherichia coli",
+            "B": "Haemophilus",
+            "C": "Agrobacterium tumefaciens",
+            "D": "Salmonella typhimurium"
+        },
+        "vikalpa": {
+            "A": "एस्चेरिचिया कोली",
+            "B": "हीमोफिलस",
+            "C": "एग्रोबैक्टीरियम ट्यूमेफैसिएन्स",
+            "D": "साल्मोनेला टाइफीम्यूरियम"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Which enzyme links the gene to the vector?",
+        "prashna": "कौन को संवाहक के साथ जोड़ने का कार्य किस एंजाइम द्वारा होता है?",
+        "options": {
+            "A": "DNA polymerase",
+            "B": "Taq polymerase",
+            "C": "Restriction polymerase",
+            "D": "DNA ligase"
+        },
+        "vikalpa": {
+            "A": "डी.एन.ए. पॉलीमरेज",
+            "B": "टैक पॉलीमरेज",
+            "C": "प्रतिबंध पॉलीमरेज",
+            "D": "डी.एन.ए. लाइगेज"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which of the following is the first restriction endonuclease?",
+        "prashna": "निम्नलिखित में से कौन सा प्रथम प्रतिबंधक एंडोन्यूक्लियेज है?",
+        "options": {
+            "A": "Eco RI",
+            "B": "Hind II",
+            "C": "Sal I",
+            "D": "Bam HI"
+        },
+        "vikalpa": {
+            "A": "इको. आर. 1",
+            "B": "हिंड RI",
+            "C": "सैल 1",
+            "D": "बैम एच 1"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "In get electrophoresis, DNA fragment move towards which of the following electrodes?",
+        "prashna": "जेल एलेक्ट्रोफोरेसिस में, डी.एन.ए. खंड इनमें से किस एलेक्ट्रोड की तरफ जाते हैं?",
+        "options": {
+            "A": "Cathode",
+            "B": "Anode",
+            "C": "Towards any electrodes",
+            "D": "Not towards any electrodes"
+        },
+        "vikalpa": {
+            "A": "कैथोड",
+            "B": "एनोड",
+            "C": "किसी भी एलेक्ट्रोड की ओर",
+            "D": "किसी भी एलेक्ट्रोड की ओर नहीं"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Which of the following features is not required in a cloning vector?",
+        "prashna": "क्लोनिंग संवाहक में निम्नलिखित में से कौन विशेषता की आवश्यकता नहीं है?",
+        "options": {
+            "A": "Origin of replication",
+            "B": "Selectable marker",
+            "C": "Cloning sites",
+            "D": "Always presence of more than one selectable marker"
+        },
+        "vikalpa": {
+            "A": "प्रतिकृतियन की उत्पत्ति",
+            "B": "चयन योग्य चिह्नक",
+            "C": "क्लोनिंग स्थल",
+            "D": "हमेशा एक से ज्यादा चयन पहचान स्थल की उपस्थिति"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following is utilised for the transfer of desirable gene into animal cells?",
+        "prashna": "निम्नलिखित में से किसका प्रयोग जन्तु कोशिकाओं में वांछित जीन को ले जाने में किया जाता है?",
+        "options": {
+            "A": "Agrobacterium tumefaciens",
+            "B": "Retro virus",
+            "C": "Gene gun",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "एग्रोबैक्टीरियम ट्यूमिफेसियंस",
+            "B": "रेट्रो वायरस",
+            "C": "जीन गन",
+            "D": "उपर्युक्त में से सभी"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which enzyme is used to process a bacterial cell to obtain its DNA?",
+        "prashna": "जीवाणु कोशिका से डी.एन.ए. प्राप्त करने के लिए किस एंजाइम का उपयोग किया जाता है?",
+        "options": {
+            "A": "Cellulase",
+            "B": "Pectinase",
+            "C": "Lysozyme",
+            "D": "Chitinase"
+        },
+        "vikalpa": {
+            "A": "सेलूलेज",
+            "B": "पेक्टिनेज",
+            "C": "लाइसोजाइम",
+            "D": "काईटीनेज"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which statement is incorrect about restriction endonuclease?",
+        "prashna": "प्रतिबंध एंडोन्यूक्लियेज के बारे में कौन कथन असत्य है?",
+        "options": {
+            "A": "Restriction endonucleases are a type of enzymes.",
+            "B": "Restriction endonucleases cleave DNA at specific sites",
+            "C": "Restriction endonuclease recognizes specific palindromic sequences in DNA",
+            "D": "Restriction endonuclease is used for amplification of DNA."
+        },
+        "vikalpa": {
+            "A": "प्रतिबंध एंडोन्यूक्लियेज एक प्रकार के एंजाइम हैं।",
+            "B": "प्रतिबंध एंडोन्यूक्लियेज डी. एन. ए. को विशिष्ट स्थलों पर करते हैं।",
+            "C": "प्रतिबंध एंडोन्यूक्लियेज विशिष्ट पैलिन्ड्रोमिक अनुक्रमों को पहचानता है।",
+            "D": "प्रतिबंधन एंडोन्यूक्लिऐस डी.एन.ए. के प्रवर्धन के लिए उपयोग होता है।"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which term is used to describe asexual reproduction that mimics sexual reproduction?",
+        "prashna": "उस अलैंगी प्रजनन को क्या कहते हैं जो लैंगिक प्रजनन में अनुहारक है",
+        "options": {
+            "A": "Parthenocarpy",
+            "B": "Apomixis",
+            "C": "Dormancy",
+            "D": "Polyembryony"
+        },
+        "vikalpa": {
+            "A": "अनिषेचनजनित",
+            "B": "असंगजनन",
+            "C": "प्रसुप्ति",
+            "D": "बहुभुणता"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Thalamus does not play role in the development of which of the following fruits?",
+        "prashna": "निम्नलिखित में से किस फल के विकास में पुष्पासन की भूमिका नहीं है?",
+        "options": {
+            "A": "Apple",
+            "B": "Strawberry",
+            "C": "Cashew",
+            "D": "Tomato"
+        },
+        "vikalpa": {
+            "A": "सेव",
+            "B": "रसभरी",
+            "C": "अखरोट",
+            "D": "टमाटर"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "In which of the following seeds the developing embryo does not completely consume the endosperm?",
+        "prashna": "निम्नलिखित में से किस बीज में भ्रुणपोष पूरी तरह से विकासशील भ्रूण द्वारा नहीं उपयोग किया जाता है?",
+        "options": {
+            "A": "Pea",
+            "B": "Groundnut",
+            "C": "Beana",
+            "D": "Coconut"
+        },
+        "vikalpa": {
+            "A": "मटर",
+            "B": "मूँगफली",
+            "C": "सेम",
+            "D": "नारियल"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Which of following pairs is incorrect?",
+        "prashna": "निम्नलिखित में से कौन सा जोड़ा गलत है?",
+        "options": {
+            "A": "Zygote - Embryo",
+            "B": "Scutellum – Cotyledon of grass family",
+            "C": "Yucca - species of a moth",
+            "D": "Embryo sac – 2 or 3 – celled"
+        },
+        "vikalpa": {
+            "A": "युग्मनज – भ्रूण",
+            "B": "स्कुटलम – घास परिवार का बीजपत्र",
+            "C": "युका – शलम की एक प्रजाति",
+            "D": "भ्रूण कोष – 2 या 3 कोशिकाय"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "In which Oof the following aquatic plants pollination does not occur through water?",
+        "prashna": "निम्नलिखित में से किस जलीय पौधे में परागण जल द्वारा नहीं होता है?",
+        "options": {
+            "A": "Hydrilla",
+            "B": "Zostera",
+            "C": "Water Hyacinth",
+            "D": "Vallisneria"
+        },
+        "vikalpa": {
+            "A": "हाइड्रिला",
+            "B": "जोस्टेरा",
+            "C": "वाटर हाइसिंथ",
+            "D": "वैलिसनैरिया"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "What is the transfer of the pollen grains from one flower to the stigma of another follower of the same plant called?",
+        "prashna": "एक पादप के एक पुष्प के परागकणों का दूसरे पुष्प के वर्तिकाग्रों तक का स्थानांतरण क्या कहलाता है?",
+        "options": {
+            "A": "Geitonogamy",
+            "B": "Xenogamy",
+            "C": "Autogamy",
+            "D": "Fertilisation"
+        },
+        "vikalpa": {
+            "A": "सजातपुष्पराग",
+            "B": "जेनोगैमी",
+            "C": "स्वयुग्मन",
+            "D": "निषेचन"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Which of the following statements is the about humans testes.",
+        "prashna": "निम्नलिखित में से कौन सा कथन मनुष्य के वृषणों के बारे में असत्य है।",
+        "options": {
+            "A": "They are situated outside the abdominal cavity.",
+            "B": "They are present in scrotum.",
+            "C": "Being in the scrotum helps in keeping the temperature of the testis high.",
+            "D": "Each testis has about 250 testicular lobules."
+        },
+        "vikalpa": {
+            "A": "ये उदर गुहा के बाहर होते हैं।",
+            "B": "ये स्क्रोटम में होते हैं।",
+            "C": "स्क्रोटम में होने से वजह से वृषणों का तापमान ज्यादा रखने में मदद मिलती है।",
+            "D": "प्रत्येक वृषण में लगभग 250 वृषण पालिकाए होती हैं।"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "Which of following pairs is incorrect?",
+        "prashna": "निम्नलिखित में से कौन सा युग्म गलत है?",
+        "options": {
+            "A": "Male germ cells – Spermatogonia",
+            "B": "Interstitial cell – Androgens",
+            "C": "Fertilisation – Ampullary region of fallopian tube",
+            "D": "Formation of heart – By the end of second trimester"
+        },
+        "vikalpa": {
+            "A": "नर जनन कोशिकाएँ-स्पर्मेटोगोनिया",
+            "B": "अंतराली कोशिकाएँ-एंड्रोजन",
+            "C": "निषेचन – अंडवाहिनी नली का तुनिका क्षेत्र",
+            "D": "हृदय का निर्माण – सगर्भता के दूसरी तिमाही के अंत में"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Which of following sequences is correct?",
+        "prashna": "निम्नलिखित में से कौन सा क्रम सही है?",
+        "options": {
+            "A": "Spermatogonia → primary spermatocytes → secondary spermatocytes → spermatids → spermatozoa",
+            "B": "Primary spermatocytes → secondary spermatocytes → spermatogonia → spermatids → spermatozoa",
+            "C": "Spermatids → primary spermatocytes → secondary spermatocytes → spermatogonia → spermatozoa",
+            "D": "Spermatids → spermatogonia → primary spermatocytes → secondary spermatocytes → spermatozoa"
+        },
+        "vikalpa": {
+            "A": "शुक्राणुजन → प्राथमिक शुक्र कोशिकाएँ → द्वितीयक शुक्र कोशिकाएँ→ शुक्राणुपूर्व → शुक्राणु",
+            "B": "प्राथमिक शुक्र कोशिकाएँ → द्वितीयक शुक्र कोशिकाएँ → शुक्राणुजन → शुक्राणुपूर्ण→ शुक्राणु",
+            "C": "शुक्राणुपूर्व → प्राथमिक शुक्र कोशिकाएँ → द्वितीयक शुक्र कोशिकाएँ → शुक्राणुजन→ शुक्राणु",
+            "D": "शुक्राणुपूर्व → शुक्राणुजन → प्राथमिक शुक्र कोशिकाएँ → द्वितीयक शुक्रा कोशिकाएँ → शुक्राणु"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "What is the first menstrual cycle called?",
+        "prashna": "प्रथम रजोधर्म चक्र क्या कहलाता है?",
+        "options": {
+            "A": "Menstrual cycle",
+            "B": "Menarche",
+            "C": "Menopause",
+            "D": "Estrous cycle"
+        },
+        "vikalpa": {
+            "A": "आर्तव चक्र",
+            "B": "रजोदर्शन",
+            "C": "रजोनिवृत्ति",
+            "D": "एस्ट्रस चक्र"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Which of the following is used to detect the presence of various genetic disorders in the embryo?",
+        "prashna": "निम्नलिखित में से किसका प्रयोग भ्रूण में होने वाले विभिन्न आनुवंशिक विकार की उपस्थिति का पता लगाने में किया जाता है?",
+        "options": {
+            "A": "C.T. Scan",
+            "B": "MRI",
+            "C": "PCR",
+            "D": "Amniocentesis"
+        },
+        "vikalpa": {
+            "A": "स.टी. स्कैन",
+            "B": "एम.आर.आई.",
+            "C": "पी.सी.आर.",
+            "D": "एमनियोसेंटेसिस"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Which of the following is not a reason for increasing population of a country?",
+        "prashna": "निम्नलिखित में से कौन देश की आबादी बढ़ने का कारण नहीं है?",
+        "options": {
+            "A": "A rapid decline in death rate",
+            "B": "Decline in maternal mortality and infant mortality rate",
+            "C": "Increase in number of people in reproductive age.",
+            "D": "Assisted reproductive technologies (ART)"
+        },
+        "vikalpa": {
+            "A": "मृत्युदर में तेज गिरावट",
+            "B": "मातृ मृत्युदर और शिशु मृत्युदर में कमी",
+            "C": "जनन आयु के लोगों की संख्या में वृद्धि।",
+            "D": "सहायक जनन प्रौद्योगिकियाँ (ए.आर.टी.)"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Which of the following is infections is sexually transmitted?",
+        "prashna": "निम्नलिखित में से कौन सा संक्रमण यौन संचारित है?",
+        "options": {
+            "A": "Trichophyton",
+            "B": "Pneumonia",
+            "C": "Gonorrhea",
+            "D": "Typhoid"
+        },
+        "vikalpa": {
+            "A": "ट्राइकोफाइटन",
+            "B": "निमोनिया",
+            "C": "गोनोरिया",
+            "D": "टाइफाइड"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Which of the following reproduces only once in its lifespan?",
+        "prashna": "निम्नलिखित में से कौन अपने जीवनकाल में केवल एक बार प्रजनन करता है?",
+        "options": {
+            "A": "Bamboo",
+            "B": "Birds",
+            "C": "Guava",
+            "D": "Monkeys"
+        },
+        "vikalpa": {
+            "A": "बांस",
+            "B": "पक्षी",
+            "C": "अमरूद",
+            "D": "बंदर"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Which of the following was used to control opuntia in Australia?",
+        "prashna": "निम्नलिखित में से किसे ऑस्ट्रेलिया में नागफनी को नियंत्रित करने के लिए प्रयोग किया गया?",
+        "options": {
+            "A": "A type of moth",
+            "B": "Gambusia",
+            "C": "Trichoderma",
+            "D": "Baculovirus"
+        },
+        "vikalpa": {
+            "A": "एक प्रकार का शलभ",
+            "B": "गंबूसिया",
+            "C": "ट्राइकोडर्मा",
+            "D": "बैक्यूलोवायरस"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Which of the following is not a role predation?",
+        "prashna": "निम्नलिखित में से कौन परभक्षण की भूमिका नहीं है?",
+        "options": {
+            "A": "acts as 'conduits' for energy transfer",
+            "B": "keeps prey population under control",
+            "C": "helps in maintaining species diversity",
+            "D": "increases the intensity of competition among competing prey species"
+        },
+        "vikalpa": {
+            "A": "ऊर्जा स्थानांतरण के लिए संनाल का कार्य",
+            "B": "शिकार समष्टि को नियंत्रण करना",
+            "C": "जातियों की विविधता बनाए रखने में मदद करता है",
+            "D": "स्पर्धी शिकार जातियों के बीच प्रतिस्पर्धा का बढ़ाना"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "What is the process called in which of the fitness of one species decreases in the presence of another species?",
+        "prashna": "उस प्रक्रम को क्या कहते हैं जिसमें एक जाति की योग्यता दूसरी जाति की उपस्थिति में घट जाती है?",
+        "options": {
+            "A": "Competition",
+            "B": "Predation",
+            "C": "Parasitism",
+            "D": "Mutualism"
+        },
+        "vikalpa": {
+            "A": "स्पर्धा",
+            "B": "परभक्षण",
+            "C": "परजीविता",
+            "D": "सहोपकारिता"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "The interaction between population of clown fish and sea anemone is an example of which of the following?",
+        "prashna": "क्लाउन मछली एवं समुद्री एनीमोन के समष्टियों की पारस्परिक क्रिया इनमेंसे किसका उदाहरण है?",
+        "options": {
+            "A": "Predation",
+            "B": "Mutualism",
+            "C": "Commensalism",
+            "D": "Parasitism"
+        },
+        "vikalpa": {
+            "A": "परभक्षण",
+            "B": "सहोपकारिता",
+            "C": "सहभोजिता",
+            "D": "परजीविता"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "The total number of animal and plant species according to IUCN (2024) is",
+        "prashna": "आइ.यू.सी.एन. (2004) के अनुसार जन्तुओं एवं पादपों की जातियों की संख्या ....",
+        "options": {
+            "A": "Slightly more than 1.5 million",
+            "B": "Slightly more than 2.7 million",
+            "C": "More than 7 million",
+            "D": "20 – 25 million"
+        },
+        "vikalpa": {
+            "A": "1.5 मिलियन से कुछ अधिक",
+            "B": "2.7 मिलियन से कुछ अधिक",
+            "C": "7 मिलियन से अधिक",
+            "D": "20 – 25 मिलियन"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Where was the world summit on sustainable development in 2002 held?",
+        "prashna": "2002 में सतत् विकास पर विश्व शिखर सम्मेलन कहाँ हुआ था?",
+        "options": {
+            "A": "Rio de Janeiro",
+            "B": "Johannesburg",
+            "C": "New York",
+            "D": "Paris"
+        },
+        "vikalpa": {
+            "A": "रियो डि जेनेरो",
+            "B": "जोहान्सबर्ग",
+            "C": "न्यूयॉर्क",
+            "D": "पेरिस"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Which of the following is a narrowly useful argument for conserving biodiversity?",
+        "prashna": "निम्नलिखित में से कौन सा जैव विविधता के संरक्षण के लिए एक संकीर्णरूप से उपयोगी तर्क है?",
+        "options": {
+            "A": "countless direct economic benefit from nature",
+            "B": "major role in ecosystem",
+            "C": "pollination",
+            "D": "aesthetic pleasures"
+        },
+        "vikalpa": {
+            "A": "प्रकृति से प्रत्यक्षरूप् से अनगिनत आर्थिक लाभ",
+            "B": "पारितंत्र में सेवाओं में मुख्य भूमिका",
+            "C": "परागण",
+            "D": "सौंदर्यात्मक लाभ"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Which of the following species became extinct due to over exploitation?",
+        "prashna": "निम्नलिखित में से कौन जाति अतिदोहन के कारण विलुप्त हुई?",
+        "options": {
+            "A": "Golden toad",
+            "B": "Cichlid fishes",
+            "C": "Steller's sea cow",
+            "D": "Abingdon"
+        },
+        "vikalpa": {
+            "A": "गोल्डन टोड",
+            "B": "सिचलिड मछलियाँ",
+            "C": "स्टेलर समुद्री गाय",
+            "D": "एबिंग्डन"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "What is global species diversity of India?",
+        "prashna": "भारत की वैश्विक जातीय विविधता कितनी है?",
+        "options": {
+            "A": "2.4%",
+            "B": "8.1%",
+            "C": "22%",
+            "D": "16%"
+        },
+        "vikalpa": {
+            "A": "2.4%",
+            "B": "8.1%",
+            "C": "22%",
+            "D": "16%"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "What is the rate of production of organic matter during photosynthesis?",
+        "prashna": "प्रकाश संश्लेषण के दौरान कार्बनिक तत्व की उत्पादन दर को क्या कहते हैं?",
+        "options": {
+            "A": "Productivity",
+            "B": "Gross primary productivity",
+            "C": "Net primary productivity",
+            "D": "Secondary productivity"
+        },
+        "vikalpa": {
+            "A": "उत्पादकता",
+            "B": "सकल प्राथमिक उत्पादकता",
+            "C": "नेट प्राथमिक उत्पादकता",
+            "D": "द्वितीयक उत्पादकता"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Which of the following process is not involved in decomposition?",
+        "prashna": "निम्नलिखित में से कौन सी प्रक्रिया अपघटन में शामिल नहीं है?",
+        "options": {
+            "A": "Fragmentation",
+            "B": "Leaching",
+            "C": "Anabolism",
+            "D": "Humification"
+        },
+        "vikalpa": {
+            "A": "खण्डन",
+            "B": "निक्षालन",
+            "C": "उपचय",
+            "D": "ह्यूमिफिकेशन"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "What percentage of photosynthetically active radiation do plants capture?",
+        "prashna": "पौधे प्रकाश संश्लेषणात्मक विकिरण का कितना प्रतिशत ग्रहण करते हैं?",
+        "options": {
+            "A": "50%",
+            "B": "2-10%",
+            "C": "10%",
+            "D": "more than 50%"
+        },
+        "vikalpa": {
+            "A": "50%",
+            "B": "$2-10\\%$",
+            "C": "10%",
+            "D": "50% से अधिक"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "The detritus food chain begins with which of the following?",
+        "prashna": "अपरद खाद्य श्रृंखला निम्नलिखित में से किससे होती है?",
+        "options": {
+            "A": "with capture of photosynthetically active radiation",
+            "B": "with dead organic matter",
+            "C": "after feeding by secondary carnivores",
+            "D": "after feeding by herbivores"
+        },
+        "vikalpa": {
+            "A": "पौधे द्वारा प्रकाश संश्लेषणात्मक सक्रिय विकिरण के प्रग्रहण से",
+            "B": "मृत कार्बनिक पदार्थ",
+            "C": "द्वितीयक माँस भक्षी द्वारा आहारपूर्ति के बाद",
+            "D": "शाकाहारी जीवों द्वारा आहारपूर्ति के बाद"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which of the following statements is false about ‘Saheli'?",
+        "prashna": "निम्नलिखित में से कौन सा कथन 'सहेली' के बारे में असत्य है?",
+        "options": {
+            "A": "Contraceptive pill for females",
+            "B": "Nun steroidal",
+            "C": "‘Once a weak' pill",
+            "D": "pills taken continuously for 21 days"
+        },
+        "vikalpa": {
+            "A": "महिलाओं के लिए गर्भ निरोधक गोली",
+            "B": "गौर स्टेरॉयडल गोली",
+            "C": "हप्ते में एक बार ले जाने वाली गोली",
+            "D": "21 दिनों तक लगातार ली जाने वाली गोलियाँ"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What are sacred groves, where are they found and what is there significance?",
+        "prashna": "पवित्र उपवन क्या हैं, ये कहाँ पाए जाते हैं और इनका महत्व क्या है?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Explain the pyramid of energy.",
+        "prashna": "ऊर्जा के पिरामिड की व्याख्या करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is the mutualism? Explain with examples.",
+        "prashna": "सहोपकारिता क्या है? उदाहरण के साथ व्याख्या करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is the competitive exclusion principle?",
+        "prashna": "स्पर्धी अपवर्जन नियम क्या है?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "How is nomenclature of restriction endonucleases done?",
+        "prashna": "प्रतिबंधन एंडोन्यूक्लिज का नाम करण कैसे होता है?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is downstream processing?",
+        "prashna": "अनुप्रवाह संसाधन क्या है?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What are somaclones?",
+        "prashna": "सोमाक्लोन क्या हैं?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Explain biopiracy with example.",
+        "prashna": "उदाहरण के साथ बायोपाइरेसी की व्याख्या करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What are flocks?",
+        "prashna": "ऊर्णक क्या हैं?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What is biofertilizer and what are its sources?",
+        "prashna": "जैव उर्वरक क्या है और इसके स्रोत कौन हैं?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What are cannabinoids?",
+        "prashna": "कैनाबिनॉइड्स क्या हैं?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Define active immunity.",
+        "prashna": "सक्रिय प्रतिरक्षा क्या है।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What is founder effect?",
+        "prashna": "संस्थापक प्रवाह क्या है।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "What are homologous organs? Give examples",
+        "prashna": "समजातीय अंग क्या हैं? उदाहरण दें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What are 'Expressed sequence Tags'?",
+        "prashna": "'एक्सप्रेस्ड सीक्वेंश टैग्स' क्या हैं?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Explain haemophilia.",
+        "prashna": "हीमोफीलिया की व्याख्या करें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What are Sertoli cells? write down their roles.",
+        "prashna": "सर्टोली कोशिकाएँ क्या हैं? इनकी भूमिका लिखें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What are roles of placenta?",
+        "prashna": "अपरा की भूमिकाएँ क्या हैं?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What is double fertilisation? in which plant group does it occur?",
+        "prashna": "दोहरा निषेचन क्या है? यह किस पादप समूह में होता है?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What is polyembryony? Give example.",
+        "prashna": "बहुभ्रूणता क्या है? उदाहरण दें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "What is megasporogenesis? describe the development of megaspore.",
+        "prashna": "मेगास्पोरोजेनेसिस क्या है? मेगास्पोर के विकास का वर्णन करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Write short notes on the following :",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणियाँ लिखें"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Describe DNA replication. Describe roles of enzymes.",
+        "prashna": "डी.एन.ए. प्रतिकृति का वर्णन करें। एंजाइमों की भूमिका का वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Write short notes on the following :",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणियाँ लिखें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Describe immune system of body.",
+        "prashna": "शरीर की प्रतिरक्षा प्रणाली का वर्णन करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Define in situ conservation. What has been done for in situ conservation?",
+        "prashna": "इन-सीटू संरक्षण को परिभाषित करें। इन-सीटू संरक्षण के लिए क्या किया गया है?"
+    }
+]
