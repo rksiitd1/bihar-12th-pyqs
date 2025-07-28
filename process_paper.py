@@ -51,15 +51,21 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
         - `question`: The full English text of the question.
         - `prashna`: The full Hindi text of the question.
 
-    3.  **Fields for "objective" Type Questions**:
+    3.  **If a question, option, or sub-question is present only in one language (either English or Hindi), you MUST translate it to the other language and fill both fields.**
+        - Use accurate, context-aware translation. Preserve scientific/technical terms and LaTeX formatting.
+        - For example, if only the Hindi version is present, translate it to English for the `question` field, and vice versa.
+
+    4.  **Fields for "objective" Type Questions**:
         - `options`: An object containing the English options, with keys "A", "B", "C", "D".
         - `vikalpa`: An object containing the Hindi options, with keys "A", "B", "C", "D".
+        - If options are present in only one language, translate them to the other language as above.
 
-    4.  **Fields for "long_answer" Type with Sub-Questions**:
+    5.  **Fields for "long_answer" Type with Sub-Questions**:
         - `sub_questions`: An object containing the English sub-questions, with keys like "A", "B".
         - `anuprashna`: An object containing the Hindi sub-questions, with keys like "A", "B".
+        - If sub-questions are present in only one language, translate them to the other language as above.
 
-    5.  **LaTeX Formatting (CRITICAL)**:
+    6.  **LaTeX Formatting (CRITICAL)**:
         - You MUST convert all mathematical, chemical, and scientific notations into proper LaTeX format.
         - **Examples**:
           - `F₁` should be `$F_1$`.
@@ -67,7 +73,7 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
           - `β-galactosidase` should be `$\\beta$-galactosidase`.
           - `2 x 2¹/₂ = 5` should be `$2 \\times 2^{1/2} = 5$`.
 
-    6.  **Accuracy**: Ensure the text for questions, options, and sub-questions is extracted exactly as it appears in the document, for both languages. Do not add any text that is not present in the source PDF.
+    7.  **Accuracy**: Ensure the text for questions, options, and sub-questions is extracted exactly as it appears in the document, for both languages. Do not add any text that is not present in the source PDF, except for accurate translations as described above.
 
     The PDF file is provided. Begin processing now and generate only the JSON array as your output.
     """)
