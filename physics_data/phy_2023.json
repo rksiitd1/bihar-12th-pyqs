@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "When current in a coil changes from 5A to 2A in 0.1s then average voltage of 50V is produced. The self-inductance of the coil is",
+        "prashna": "जब किसी कुण्डली में धारा 0.1s में 5A से 2 A में परिवर्तित होती है तो 50V का औसत वोल्टेज उत्पन्न होता है। कुण्डली का स्वप्रेरकत्व है",
+        "options": {
+            "A": "1.67 henry",
+            "B": "6 henry",
+            "C": "3 henry",
+            "D": "0.67 henry"
+        },
+        "vikalpa": {
+            "A": "1.67 हेनरी",
+            "B": "6 हेनरी",
+            "C": "3 हेनरी",
+            "D": "0.67 हेनरी"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "The concept of secondary wavelets was given by",
+        "prashna": "द्वितीयक तरंगिकाओं की अवधारणा किसके द्वारा दी गई थी ?",
+        "options": {
+            "A": "Fresnel",
+            "B": "Maxwell",
+            "C": "Huygens",
+            "D": "Newton"
+        },
+        "vikalpa": {
+            "A": "फ्रेनेल",
+            "B": "मैक्सवेल",
+            "C": "हाइगेंस",
+            "D": "न्यूटन"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "In photoelectric effect, the photoelectric current is independent of",
+        "prashna": "फोटोइलेक्ट्रिक प्रभाव में प्रकाश विद्युत धारा स्वतंत्र है",
+        "options": {
+            "A": "intensity of incident light",
+            "B": "potential difference applied between two electrodes",
+            "C": "the nature of emitter material",
+            "D": "frequency of incident light"
+        },
+        "vikalpa": {
+            "A": "आपतित प्रकाश की तीव्रता से",
+            "B": "दो इलेक्ट्रोडों के बीच लगाये गये विभवान्तर से",
+            "C": "उत्सर्जक पदार्थ की प्रकृति से",
+            "D": "आपतित प्रकाश की आवृत्ति से"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "In visible spectrum, which colour has larger wavelength ?",
+        "prashna": "दृश्य स्पेक्ट्रम के रंगों में किसका अधिक तरंगदैर्ध्य होता है ?",
+        "options": {
+            "A": "Red",
+            "B": "Yellow",
+            "C": "Blue",
+            "D": "Violet"
+        },
+        "vikalpa": {
+            "A": "लाल का",
+            "B": "पीला का",
+            "C": "नीला का",
+            "D": "बैंगनी का"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The nucleus of any atom is made up of",
+        "prashna": "किसी परमाणु का नाभिक बना होता है",
+        "options": {
+            "A": "proton",
+            "B": "proton and electron",
+            "C": "$\\alpha$-particle",
+            "D": "proton and neutron"
+        },
+        "vikalpa": {
+            "A": "प्रोटॉन से",
+            "B": "प्रोटॉन एवं इलेक्ट्रॉन से",
+            "C": "अल्फा कण से",
+            "D": "प्रोटॉन और न्यूट्रॉन से"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The phase-difference between current and voltage in only capacitive alternating current circuit is",
+        "prashna": "केवल धारिता युक्त प्रत्यावर्ती धारा परिपथ में धारा एवं वोल्टता के बीच कलान्तर होता है",
+        "options": {
+            "A": "$0^{\\circ}$",
+            "B": "$90^{\\circ}$",
+            "C": "$180^{\\circ}$",
+            "D": "$45^{\\circ}$"
+        },
+        "vikalpa": {
+            "A": "$0^{\\circ}$",
+            "B": "$90^{\\circ}$",
+            "C": "$180^{\\circ}$",
+            "D": "$45^{\\circ}$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which one of the following electromagnetic radiations has minimum wavelength ?",
+        "prashna": "निम्नलिखित में से किस वैद्युत चुम्बकीय विकिरण का तरंगदैर्ध्य न्यूनतम है ?",
+        "options": {
+            "A": "Ultraviolet",
+            "B": "X-rays",
+            "C": "Microwaves",
+            "D": "$\\gamma$-rays"
+        },
+        "vikalpa": {
+            "A": "पराबैंगनी",
+            "B": "एक्स-किरणें",
+            "C": "सूक्ष्म तरंगें",
+            "D": "गामा किरणें"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The binary equivalent of 25 is",
+        "prashna": "25 का द्विआधारी समतुल्य है",
+        "options": {
+            "A": "$(1100)_2$",
+            "B": "$(1001)_2$",
+            "C": "$(11001)_2$",
+            "D": "$(11101)_2$"
+        },
+        "vikalpa": {
+            "A": "$(1100)_2$",
+            "B": "$(1001)_2$",
+            "C": "$(11001)_2$",
+            "D": "$(11101)_2$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The width of diffraction fringes is .......... to the width of interference fringes.",
+        "prashna": "विवर्तन- फ्रिंजों की चौड़ाई व्यतिकरण- फ्रिंजों",
+        "options": {
+            "A": "equal",
+            "B": "unequal",
+            "C": "similar",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "के समान होती है",
+            "B": "के समान नहीं होती है",
+            "C": "जैसी होती है",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Light year is equal to",
+        "prashna": "प्रकाश वर्ष का मान बराबर होता है।",
+        "options": {
+            "A": "$9.46 \\times 10^{15}$ m",
+            "B": "$9.46 \\times 10^{12}$ m",
+            "C": "$9.46 \\times 10^{8}$ m",
+            "D": "$9.46 \\times 10^{10}$ m"
+        },
+        "vikalpa": {
+            "A": "$9.46 \\times 10^{15}$ m",
+            "B": "$9.46 \\times 10^{12}$ m",
+            "C": "$9.46 \\times 10^{8}$ m",
+            "D": "$9.46 \\times 10^{10}$ m"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "If any ammeter is shunted, then the total resistance of the circuit",
+        "prashna": "जब किसी ऐमीटर को शंट किया जाता है, तब परिपथ का कुल प्रतिरोध",
+        "options": {
+            "A": "increases",
+            "B": "decreases",
+            "C": "remains same",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "बढ़ता है",
+            "B": "घटता है",
+            "C": "स्थिर रहता है",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "The temperature coefficient of a semi-conductor is",
+        "prashna": "किसी अर्धचालक का तापमान गुणांक का मान होता है",
+        "options": {
+            "A": "positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "Infinity"
+        },
+        "vikalpa": {
+            "A": "धनात्मक",
+            "B": "ऋणात्मक",
+            "C": "शून्य",
+            "D": "अनन्त"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "If T is time period and V is maximum speed of a charged particle in cyclotron, then",
+        "prashna": "यदि साइक्लोट्रॉन में आवेशित कण का आवर्त्तकाल T तथा महत्तम चाल V हो तो",
+        "options": {
+            "A": "$T \\propto V$",
+            "B": "$T \\propto V^2$",
+            "C": "$T \\propto 1/V$",
+            "D": "$T \\propto 1/V^2$"
+        },
+        "vikalpa": {
+            "A": "$T \\propto V$",
+            "B": "$T \\propto V^2$",
+            "C": "$T \\propto 1/V$",
+            "D": "$T \\propto 1/V^2$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Van de Graaff generator is an electrostatic machine which produces",
+        "prashna": "वान डी ग्राफ जनित्र एक ऐसी विद्युत स्थैतिक युक्ति है, जिससे उत्पन्न होता है",
+        "options": {
+            "A": "Only high current",
+            "B": "Only high voltage",
+            "C": "High current and high voltage",
+            "D": "Low current and low voltage"
+        },
+        "vikalpa": {
+            "A": "केवल उच्च धारा",
+            "B": "केवल उच्च वोल्टेज",
+            "C": "उच्च धारा एवं उच्च वोल्टेज",
+            "D": "निम्न धारा एवं निम्न वोल्टेज"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "S.I. unit of permittivity is",
+        "prashna": "परावैद्युतांक का S.I. मात्रक होता है",
+        "options": {
+            "A": "$N^{-1} C^{-1} m^2$",
+            "B": "$NC^2 m^2$",
+            "C": "$NC^{-2} m^2$",
+            "D": "$C^2 N^{-1} m^{-2}$"
+        },
+        "vikalpa": {
+            "A": "$N^{-1} C^{-1} m^2$",
+            "B": "$NC^2 m^2$",
+            "C": "$NC^{-2} m^2$",
+            "D": "$C^2 N^{-1} m^{-2}$"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "The net charge on a charged capacitor is",
+        "prashna": "आवेशित संधारित्र पर कुल आवेश होता है।",
+        "options": {
+            "A": "zero",
+            "B": "$1 \\mu C$",
+            "C": "1 C",
+            "D": "infinite"
+        },
+        "vikalpa": {
+            "A": "शून्य",
+            "B": "$1 \\mu C$",
+            "C": "1 C",
+            "D": "अनंत"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The motion of electron inside the conductor is",
+        "prashna": "चालक के अंदर इलेक्ट्रॉन की गति होती है।",
+        "options": {
+            "A": "Uniform",
+            "B": "Accelerated",
+            "C": "Drifting",
+            "D": "Decelerated"
+        },
+        "vikalpa": {
+            "A": "समरूप",
+            "B": "त्वरित",
+            "C": "आपसरित",
+            "D": "अवमंदित"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "The total electric flux coming out from stationary unit positive charge in air is",
+        "prashna": "वायु में स्थित स्थिर इकाई धन आवेश से निकलनेवाली सम्पूर्ण विद्युत फ्लक्स का मान होता है",
+        "options": {
+            "A": "$\\epsilon_0$",
+            "B": "$(\\epsilon_0)^{-1}$",
+            "C": "$4\\pi\\epsilon_0$",
+            "D": "$(4\\pi\\epsilon_0)^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$\\epsilon_0$",
+            "B": "$(\\epsilon_0)^{-1}$",
+            "C": "$4\\pi\\epsilon_0$",
+            "D": "$(4\\pi\\epsilon_0)^{-1}$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "The force, acting on per unit charge is called",
+        "prashna": "प्रति इकाई आवेश पर लगनेवाले बल को कहते हैं",
+        "options": {
+            "A": "Electric current",
+            "B": "Electric potential",
+            "C": "Electric field",
+            "D": "Electric space"
+        },
+        "vikalpa": {
+            "A": "विद्युत प्रवाह",
+            "B": "विद्युत विभव",
+            "C": "विद्युत क्षेत्र",
+            "D": "विद्युत स्पेस"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Quantisation of charge indicates that",
+        "prashna": "आवेश का परिमाणीकरण दर्शाता है कि",
+        "options": {
+            "A": "Charge, which is a fraction of charge on an electron, is not possible",
+            "B": "A charge cannot be destroyed",
+            "C": "Charge exists on particles",
+            "D": "There exists a minimum permissible charge on a particle"
+        },
+        "vikalpa": {
+            "A": "आवेश, जो एक इलेक्ट्रॉन पर आवेश का एक अंश है, संभव नहीं है",
+            "B": "एक आवेश को नष्ट नहीं किया जा सकता है",
+            "C": "कणों पर आवेश होता है।",
+            "D": "एक कण पर न्यूनतम अनुमेय आवेश होता है"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Electric field lines provide information about",
+        "prashna": "विद्युत क्षेत्र रेखाओं से जानकारी प्राप्त होती है।",
+        "options": {
+            "A": "field strength",
+            "B": "direction",
+            "C": "nature of charge",
+            "D": "all of these"
+        },
+        "vikalpa": {
+            "A": "क्षेत्र की शक्ति",
+            "B": "दिशा",
+            "C": "आवेश की प्रकृति",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Nickel is",
+        "prashna": "निकेल है",
+        "options": {
+            "A": "Paramagnetic",
+            "B": "Diamagnetic",
+            "C": "Ferromagnetic",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अनुचुम्बकीय",
+            "B": "प्रतिचुम्बकीय",
+            "C": "लौह चुम्बकीय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "The angle between magnetic meridian and geographical meridian is called",
+        "prashna": "चुम्बकीय याम्योत्तर एवं भौगोलिक याम्योत्तर के बीच का कोण कहलाता है",
+        "options": {
+            "A": "angle of dip",
+            "B": "declination",
+            "C": "horizontal component of magnetic field",
+            "D": "apparent angle of dip"
+        },
+        "vikalpa": {
+            "A": "नमन कोण",
+            "B": "दिकपात",
+            "C": "चुम्बकीय क्षेत्र का क्षैतिज घटक",
+            "D": "आभासी नमन कोण"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "The radius of curvature of each surface of a biconvex lens is 20 cm and the refractive index of the material of the lens is 1.5. The focal length of the lens is",
+        "prashna": "एक उभयोत्तल लेंस के प्रत्येक तल की वक्रता त्रिज्या 20 cm तथा लेंस के पदार्थ का अपवर्तनांक 1.5 है। लेंस की फोकस दूरी है",
+        "options": {
+            "A": "20 m",
+            "B": "1/20 m",
+            "C": "20 cm",
+            "D": "1/20 cm"
+        },
+        "vikalpa": {
+            "A": "20 m",
+            "B": "1/20 m",
+            "C": "20 cm",
+            "D": "1/20 cm"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "For same wavelength of electron and photon, which physical quantity will be same?",
+        "prashna": "एक ही तरंगदैर्ध्य के इलेक्ट्रॉन तथा फोटॉन की कौन-सी भौतिक राशि समान होगी ?",
+        "options": {
+            "A": "Velocity",
+            "B": "Energy",
+            "C": "Momentum",
+            "D": "Angular momentum"
+        },
+        "vikalpa": {
+            "A": "वेग",
+            "B": "ऊर्जा",
+            "C": "संवेग",
+            "D": "कोणीय संवेग"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "The function of moderator in nuclear reactor is to",
+        "prashna": "नाभिकीय रियेक्टर में मंदक का कार्य है।",
+        "options": {
+            "A": "Slow the speed of neutrons",
+            "B": "Fast the speed of neutrons",
+            "C": "Slow the speed of electrons",
+            "D": "Fast the speed of electrons"
+        },
+        "vikalpa": {
+            "A": "न्यूट्रॉनों की गति मन्द करना",
+            "B": "न्यूट्रॉनों की गति तीव्र करना",
+            "C": "इलेक्ट्रॉनों की गति कम करना",
+            "D": "इलेक्ट्रॉनों की गति तीव्र करना"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "The impurity element used for p-type semiconductor is",
+        "prashna": "p-प्रकार के अर्धचालकों के लिए अशुद्ध तत्व के रूप में प्रयोग किया जाता है",
+        "options": {
+            "A": "Boron",
+            "B": "Bismuth",
+            "C": "Arsenic",
+            "D": "Phosphorus"
+        },
+        "vikalpa": {
+            "A": "बोरॉन",
+            "B": "बिस्मथ",
+            "C": "आर्सेनिक",
+            "D": "फॉस्फोरस"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Diode is used as",
+        "prashna": "डायोड का उपयोग किया जाता है।",
+        "options": {
+            "A": "Amplifier",
+            "B": "Oscillator",
+            "C": "Modulator",
+            "D": "Rectifier"
+        },
+        "vikalpa": {
+            "A": "प्रवर्धक की तरह",
+            "B": "दोलक की तरह",
+            "C": "मॉडुलेटर की तरह",
+            "D": "दिष्टकारी की तरह"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Three capacitors of capacitance 6 μF are available. The minimum and maximum capacitances obtained are",
+        "prashna": "$6 \\mu F$ धारिता के तीन संधारित्र उपलब्ध हैं। उनके द्वारा प्राप्त न्यूनतम एवं अधिकतम धारिता होती है",
+        "options": {
+            "A": "3 μF, 12 μF",
+            "B": "2 μF, 12 μF",
+            "C": "2 μF, 18μF",
+            "D": "6 μF, 18 μF"
+        },
+        "vikalpa": {
+            "A": "$3 \\mu F, 12 \\mu F$",
+            "B": "$2 \\mu F, 12 \\mu F$",
+            "C": "$2 \\mu F, 18\\mu F$",
+            "D": "$6 \\mu F, 18 \\mu F$"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "The root mean square (r.m.s) value of alternating current equation $I = 60 \\sin 100 \\pi t$ is",
+        "prashna": "एक प्रत्यावर्ती धारा का समीकरण $I = 60 \\sin 100 \\pi t$ में धारा के मूल माध्य वर्ग का मान होगा.",
+        "options": {
+            "A": "$60\\sqrt{2}$",
+            "B": "30",
+            "C": "100",
+            "D": "Zero"
+        },
+        "vikalpa": {
+            "A": "$60\\sqrt{2}$",
+            "B": "30",
+            "C": "100",
+            "D": "शून्य"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "The impedance of L-R circuit is",
+        "prashna": "L-R परिपथ की प्रतिबाधा होती है",
+        "options": {
+            "A": "$R^2 + \\omega^2L^2$",
+            "B": "$R + \\omega L$",
+            "C": "$\\sqrt{R} + \\omega L$",
+            "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+        },
+        "vikalpa": {
+            "A": "$R^2 + \\omega^2L^2$",
+            "B": "$R + \\omega L$",
+            "C": "$\\sqrt{R} + \\omega L$",
+            "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "The radius of a circular current loop is made double and the current is made half. The magnetic moment of the loop will become",
+        "prashna": "एक वृत्तीय धारावाही लूप की त्रिज्या दुगुनी तथा धारा आधी कर दी जाती है। इसका चुम्बकीय आघूर्ण हो जाएगा",
+        "options": {
+            "A": "Halved",
+            "B": "Doubled",
+            "C": "Four times large",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आधा",
+            "B": "दुगुना",
+            "C": "चौगुना",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "The self-inductance of a choke coil is 5 henry. The current through it is increasing at a rate of $2 AS^{-1}$. The self-induced emf in the choke coil will be",
+        "prashna": "एक चोक- कुण्डली का स्वप्रेरकत्व 5 हेनरी है। इससे बहती धारा $2 AS^{-1}$ की दर से बढ़ रही हैं। चोक- कुण्डली का प्रेरित विद्युत वाहक बल होगा",
+        "options": {
+            "A": "2.5 V",
+            "B": "5 V",
+            "C": "- 10 V",
+            "D": "10 V"
+        },
+        "vikalpa": {
+            "A": "2.5 V",
+            "B": "5 V",
+            "C": "- 10 V",
+            "D": "10 V"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Magnetic moment of the earth is",
+        "prashna": "पृथ्वी का चुम्बकीय आघूर्ण है",
+        "options": {
+            "A": "$8.0 \\text{ JT}^{-1}$",
+            "B": "$11.5 \\text{ JT}^{-1}$",
+            "C": "$\\pi \\text{JT}^{-1}$",
+            "D": "$8.0 \\times 10^{22} \\text{ JT}^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$8.0 \\text{ JT}^{-1}$",
+            "B": "$11.5 \\text{ JT}^{-1}$",
+            "C": "$\\pi \\text{JT}^{-1}$",
+            "D": "$8.0 \\times 10^{22} \\text{ JT}^{-1}$"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "The phase difference between electric wave and magnetic wave in the electromagnetic wave is",
+        "prashna": "विद्युत चुम्बकीय तरंग में विद्युतीय तरंग तथा चुम्बकीय तरंग के बीच कलान्तर होता है",
+        "options": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{3}$",
+            "D": "Zero"
+        },
+        "vikalpa": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{3}$",
+            "D": "शून्य"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "When the distance between source of light and screen is increased, then fringe width",
+        "prashna": "जब प्रकाश स्रोत और पर्दे के बीच की दूरी बढ़ा दिया जाए तो फ्रिंज की चौड़ाई",
+        "options": {
+            "A": "increases",
+            "B": "decreases",
+            "C": "remains same",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "बढ़ती है",
+            "B": "घटती है",
+            "C": "अपरिवर्तित रहती है",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "The unit of radioactivity is",
+        "prashna": "रेडियो सक्रियता का मात्रक है।",
+        "options": {
+            "A": "MeV",
+            "B": "curie",
+            "C": "a.m.u.",
+            "D": "joule"
+        },
+        "vikalpa": {
+            "A": "MeV",
+            "B": "क्यूरी",
+            "C": "a.m.u.",
+            "D": "जूल"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "Which of the following has the highest penetrating power?",
+        "prashna": "निम्नलिखित में से किसकी वेधन-क्षमता सबसे ज्यादा होती है ?",
+        "options": {
+            "A": "$\\alpha$-rays",
+            "B": "$\\beta$-rays",
+            "C": "$\\gamma$-rays",
+            "D": "Cathode rays"
+        },
+        "vikalpa": {
+            "A": "$\\alpha$-किरण",
+            "B": "$\\beta$-किरणें",
+            "C": "$\\gamma$-किरणें",
+            "D": "कैथोड किरणें"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Which range of frequency is used in TV transmission?",
+        "prashna": "TV प्रसारण के लिए किस आवृत्ति परास का उपयोग होता है ?",
+        "options": {
+            "A": "30 Hz - 300 Hz",
+            "B": "30 kHz - 300 kHz",
+            "C": "30 MHz - 300 MHz",
+            "D": "30 GHz - 300 GHz"
+        },
+        "vikalpa": {
+            "A": "30 Hz - 300 Hz",
+            "B": "30 kHz - 300 kHz",
+            "C": "30 MHz - 300 MHz",
+            "D": "30 GHz - 300 GHz"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "The dispersive power of a prism depends on",
+        "prashna": "किसी भी प्रिज्म की वर्ण विक्षेपण क्षमता निर्भर करती है",
+        "options": {
+            "A": "Angle of incidence",
+            "B": "Nature of material of prism",
+            "C": "Refracting angle of prism",
+            "D": "Angle of prism"
+        },
+        "vikalpa": {
+            "A": "आपतन कोण पर",
+            "B": "प्रिज्म के पदार्थ की प्रकृति पर",
+            "C": "प्रिज्म के अपवर्तन कोण पर",
+            "D": "प्रिज्म कोण पर"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "LASER action needs",
+        "prashna": "लेजर क्रिया के लिए आवश्यक है।",
+        "options": {
+            "A": "High temperature",
+            "B": "Semiconductor",
+            "C": "High pressure",
+            "D": "Number inversion"
+        },
+        "vikalpa": {
+            "A": "उच्च ताप",
+            "B": "अर्धचालक",
+            "C": "उच्च दाब",
+            "D": "संख्या परिवर्तन"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Light is a transverse wave because it shows",
+        "prashna": "प्रकाश अनुप्रस्थ तरंग है क्योंकि यह प्रदर्शित करता है",
+        "options": {
+            "A": "Reflection",
+            "B": "Polarization",
+            "C": "Interference",
+            "D": "Diffraction"
+        },
+        "vikalpa": {
+            "A": "परावर्तन",
+            "B": "ध्रुवण",
+            "C": "व्यतिकरण",
+            "D": "विवर्तन"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "The half-life of a radioactive isotope $(^{210}\\text{Bi})$ is 5 days. The fraction of the nuclei undecayed at the end of 20 days will be",
+        "prashna": "एक रेडियो समस्थानिक $(^{210}\\text{Bi})$ की अर्ध आयु 5 दिन है। 20 दिनों के बाद लिए गये नाभिकों का अविघटित अंश होगा",
+        "options": {
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{5}$",
+            "D": "$\\frac{1}{16}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{5}$",
+            "D": "$\\frac{1}{16}$"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "The ratio of electric force and gravitational force acting between two charges is in the order of",
+        "prashna": "दो आवेशों के बीच विद्युतीय बल एवं गुरुत्वीय बलों के अनुपात निम्न में से किस रूप (क्रम) में होता है?",
+        "options": {
+            "A": "$10^{42}$",
+            "B": "$10^{39}$",
+            "C": "$10^{36}$",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "$10^{42}$",
+            "B": "$10^{39}$",
+            "C": "$10^{36}$",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "A charge 'q' placed at the centre on the line joining two charges 'Q' will be in equilibrium if 'q' will be equal to",
+        "prashna": "दो आवेश 'Q' को मिलानेवाली रेखा के बीच में एक आवेश 'q' रखा जाए तो आवेशों के इस व्यवस्था में संतुलन के लिए 'q' का मान होगा",
+        "options": {
+            "A": "$-\\frac{Q}{2}$",
+            "B": "$-\\frac{Q}{4}$",
+            "C": "-4 Q",
+            "D": "$+\\frac{Q}{4}$"
+        },
+        "vikalpa": {
+            "A": "$-\\frac{Q}{2}$",
+            "B": "$-\\frac{Q}{4}$",
+            "C": "-4 Q",
+            "D": "$+\\frac{Q}{4}$"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "What is the angle between the electric dipole moment $\\vec{P}$ and the electric field strength $\\vec{E}$ when the dipole is in a stable equilibrium?",
+        "prashna": "विद्युतीय द्विध्रुव आघूर्ण $\\vec{P}$ एवं विद्युत क्षेत्र की तीव्रता $\\vec{E}$ के बीच कोण का मान कितना होगा कि द्विध्रुव स्थिर साम्यावस्था स्थिति में रहे ?",
+        "options": {
+            "A": "$\\frac{\\pi}{4}$",
+            "B": "$\\pi$",
+            "C": "$\\frac{\\pi}{2}$",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{4}$",
+            "B": "$\\pi$",
+            "C": "$\\frac{\\pi}{2}$",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Which of the following physical quantities is a vector?",
+        "prashna": "निम्नलिखित में से कौन भौतिक राशि सदिश है?",
+        "options": {
+            "A": "Electric flux",
+            "B": "Electric potential",
+            "C": "Electric potential energy",
+            "D": "Electric intensity"
+        },
+        "vikalpa": {
+            "A": "विद्युत फ्लक्स",
+            "B": "विद्युत विभव",
+            "C": "विद्युत स्थैतिज ऊर्जा",
+            "D": "विद्युत तीव्रता"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "The value of maximum amplitude produced due to interference of two waves given by $Y_1 = 4\\sin\\omega t$ and $Y_2 = 3\\cos\\omega t$ is",
+        "prashna": "दो तरंगों $Y_1 = 4\\sin\\omega t$ एवं $Y_2 = 3\\cos\\omega t$ से उत्पन्न व्यतिकरण के आयाम का महत्तम मान होता है।",
+        "options": {
+            "A": "7",
+            "B": "5",
+            "C": "1",
+            "D": "25"
+        },
+        "vikalpa": {
+            "A": "7",
+            "B": "5",
+            "C": "1",
+            "D": "25"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "The formula for magnetic energy density for a solenoid is",
+        "prashna": "परिनालिका में चुम्बकीय ऊर्जा घनत्व का सूत्र है",
+        "options": {
+            "A": "$\\frac{B^2}{2\\mu_0}$",
+            "B": "$\\frac{B}{2\\mu_0}$",
+            "C": "$\\frac{2\\mu_0}{B^2}$",
+            "D": "$\\frac{B}{4\\pi\\mu_0}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{B^2}{2\\mu_0}$",
+            "B": "$\\frac{B}{2\\mu_0}$",
+            "C": "$\\frac{2\\mu_0}{B^2}$",
+            "D": "$\\frac{B}{4\\pi\\mu_0}$"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "A convex lens of focal length 40 cm and a concave lens of focal length 20 cm are in contact. The power of their combination in dioptre is",
+        "prashna": "40 सेमी फोकस दूरी का उत्तल लेंस एवं 20 सेमी फोकस दूरी का अवतल लेंस संपर्क में है। इनके संयोजन की क्षमता डायोप्टर में है",
+        "options": {
+            "A": "2.5",
+            "B": "-2.5",
+            "C": "7.5",
+            "D": "-7.5"
+        },
+        "vikalpa": {
+            "A": "2.5",
+            "B": "-2.5",
+            "C": "7.5",
+            "D": "-7.5"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "The reason for the phenomenon of interference is",
+        "prashna": "व्यतिकरण की घटना का कारण है।",
+        "options": {
+            "A": "Phase difference",
+            "B": "Change in amplitude",
+            "C": "Velocity change",
+            "D": "Intensity change"
+        },
+        "vikalpa": {
+            "A": "कलान्तर",
+            "B": "आयाम परिवर्तन",
+            "C": "वेग परिवर्तन",
+            "D": "तीव्रता परिवर्तन"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Which is used to produce polarised light?",
+        "prashna": "ध्रुवित प्रकाश उत्पन्न करने के लिए किसको प्रयुक्त किया जाता है ?",
+        "options": {
+            "A": "Prism of flint glass",
+            "B": "NaCl prism",
+            "C": "Nicol prism",
+            "D": "Biprism"
+        },
+        "vikalpa": {
+            "A": "फ्लिण्ट काँच का प्रिज्म",
+            "B": "NaCl का प्रिज्म",
+            "C": "निकॉल प्रिज्म",
+            "D": "बाईप्रिज्म"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "→| is the symbol of",
+        "prashna": "→| किसका प्रतीक है?",
+        "options": {
+            "A": "diode",
+            "B": "n-type",
+            "C": "p-type",
+            "D": "transistor"
+        },
+        "vikalpa": {
+            "A": "डायोड",
+            "B": "n-टाइप",
+            "C": "p-टाइप",
+            "D": "ट्रांजिस्टर"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Unit of amplification factor of transistor is",
+        "prashna": "ट्रांजिस्टर के प्रवर्धन गुणांक की इकाई होती है।",
+        "options": {
+            "A": "volt",
+            "B": "ampere",
+            "C": "ohm",
+            "D": "no unit"
+        },
+        "vikalpa": {
+            "A": "वोल्ट",
+            "B": "ऐम्पियर",
+            "C": "ओम",
+            "D": "कोई इकाई नहीं"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Which one of the following logic gates is universal logic gate?",
+        "prashna": "निम्न में से कौन-सा तर्क द्वार सार्वजनिक तर्क द्वार है ?",
+        "options": {
+            "A": "OR",
+            "B": "AND",
+            "C": "NOT",
+            "D": "NAND"
+        },
+        "vikalpa": {
+            "A": "OR",
+            "B": "AND",
+            "C": "NOT",
+            "D": "NAND"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Waves of UHF frequency are generally transmitted as",
+        "prashna": "UHF आवृत्ति की तरंगें प्रायः कैसे संचारित होती हैं ?",
+        "options": {
+            "A": "ground waves",
+            "B": "sky waves",
+            "C": "surface waves",
+            "D": "space waves"
+        },
+        "vikalpa": {
+            "A": "भू-तरंगें",
+            "B": "आकाश तरंगें",
+            "C": "सतह तरंगें",
+            "D": "अन्तरिक्ष तरंगें"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "The law, governing the force acting between two electric charges known as",
+        "prashna": "दो विद्युत आवेशों के बीच लगनेवाले बल को नियंत्रित करनेवाले नियम को कहा जाता है",
+        "options": {
+            "A": "Ampere's law",
+            "B": "Ohm's law",
+            "C": "Faraday's law",
+            "D": "Coulomb's law"
+        },
+        "vikalpa": {
+            "A": "अम्पीयर का नियम",
+            "B": "ओम का नियम",
+            "C": "फैराडे का नियम",
+            "D": "कूलॉम का नियम"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "The value of electric potential at a distance r from a point charge is",
+        "prashna": "बिन्दु आवेश के कारण r दूरी पर विद्युत विभव का मान",
+        "options": {
+            "A": "proportional to r",
+            "B": "inversely proportional to r",
+            "C": "proportional to $r^2$",
+            "D": "inversely proportional to $r^2$"
+        },
+        "vikalpa": {
+            "A": "r के अनुक्रमानुपाती होता है",
+            "B": "r के व्युत्क्रमानुपाती होता है",
+            "C": "$r^2$ के अनुक्रमानुपाती होता है",
+            "D": "$r^2$ के व्युत्क्रमानुपाती होता है"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "The relation between the drift velocity ($V_d$) and applied electric field (E) of a conductor is",
+        "prashna": "किसी चालक के संवहन वेग ($V_d$) तथा आरोपित विद्युत क्षेत्र (E) के बीच संबंध है",
+        "options": {
+            "A": "$V_d \\propto E$",
+            "B": "$V_d \\propto \\sqrt{E}$",
+            "C": "$V_d \\propto E^2$",
+            "D": "$V_d \\propto \\sqrt{E^3}$"
+        },
+        "vikalpa": {
+            "A": "$V_d \\propto E$",
+            "B": "$V_d \\propto \\sqrt{E}$",
+            "C": "$V_d \\propto E^2$",
+            "D": "$V_d \\propto \\sqrt{E^3}$"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "64 identical drops each of capacity 5 μF combine to form a big drop. What will be the capacity of the big drop?",
+        "prashna": "64 समरूप बूँदें जिनमें प्रत्येक की धारिता $5 \\mu F$ है, मिलकर एक बड़ा बूँद बनाते हैं। बड़े बूँद की धारिता क्या होगी?",
+        "options": {
+            "A": "$25 \\mu F$",
+            "B": "$4 \\mu F$",
+            "C": "$164 \\mu F$",
+            "D": "$20 \\mu F$"
+        },
+        "vikalpa": {
+            "A": "$25 \\mu F$",
+            "B": "$4 \\mu F$",
+            "C": "$164 \\mu F$",
+            "D": "$20 \\mu F$"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "What is mainly measured by potentiometer?",
+        "prashna": "विभवमापी से मुख्यतः क्या मापा जाता है ?",
+        "options": {
+            "A": "Current",
+            "B": "Resistance",
+            "C": "Potential difference",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "धारा",
+            "B": "प्रतिरोध",
+            "C": "विभवान्तर",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "If the distance between the two charges is increased, then the electrostatic potential energy of the charges",
+        "prashna": "अगर दो आवेशों के बीच की दूरी बढ़ाई जाती है, तो उनकी वैद्युत स्थैतिज ऊर्जा",
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "may increase or decrease",
+            "D": "remains the same"
+        },
+        "vikalpa": {
+            "A": "घटती है",
+            "B": "बढ़ती है",
+            "C": "घट सकती है या बढ़ सकती है",
+            "D": "समान रहती है।"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Two resistors R and 2R are connected in series in an electric circuit. The thermal energy developed in R and 2R will be in ratio",
+        "prashna": "दो प्रतिरोध R एवं 2R को एक विद्युत परिपथ में श्रेणीक्रम में जोड़ा जाता है। R तथा 2R में उत्पन्न ऊष्मीय ऊर्जा का अनुपात होगा",
+        "options": {
+            "A": "1:2",
+            "B": "1:4",
+            "C": "2:1",
+            "D": "4:1"
+        },
+        "vikalpa": {
+            "A": "1:2",
+            "B": "1:4",
+            "C": "2:1",
+            "D": "4:1"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "A spherical mirror is immersed in water. Its focal length will",
+        "prashna": "एक गोलीय दर्पण को पानी में डूबा दिया जाता है, इसकी फोकस दूरी",
+        "options": {
+            "A": "decrease",
+            "B": "increase",
+            "C": "remain same",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "घट जायेगी",
+            "B": "बढ़ जायेगी",
+            "C": "समान रहेगी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "The coefficient of reflection for total internal reflection will be",
+        "prashna": "पूर्ण आन्तरिक परावर्तन की स्थिति में परावर्तन गुणांक का मान होगा",
+        "options": {
+            "A": "0.5",
+            "B": "1",
+            "C": "0",
+            "D": "$\\infty$"
+        },
+        "vikalpa": {
+            "A": "0.5",
+            "B": "1",
+            "C": "0",
+            "D": "$\\infty$"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "The final image formed by a terrestrial telescope is",
+        "prashna": "पार्थिव दूरदर्शी द्वारा बना अंतिम प्रतिबिम्ब होता है।",
+        "options": {
+            "A": "virtual and inverted compared to the object",
+            "B": "virtual and erect compared to the object",
+            "C": "real and erect compared to the object",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "काल्पनिक एवं वस्तु की अपेक्षा उल्टा",
+            "B": "काल्पनिक एवं वस्तु की अपेक्षा सीधा",
+            "C": "वास्तविक एवं वस्तु की अपेक्षा सीधा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "For resonance condition in any L-C-R circuit, the phase-difference between applied voltage and current is",
+        "prashna": "किसी L-C-R परिपथ में अनुनाद की स्थिति में आरोपित वोल्टेज तथा धारा के बीच कलान्तर होता है",
+        "options": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{4}$",
+            "D": "zero"
+        },
+        "vikalpa": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{4}$",
+            "D": "शून्य"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "In step-up transformer, the value of current in secondary coil compared to primary coil is",
+        "prashna": "एक उच्चायी ट्रान्सफार्मर की द्वितीयक कुण्डली में धारा का मान प्राथमिक कुण्डली की तुलना में होता है",
+        "options": {
+            "A": "equal",
+            "B": "less",
+            "C": "more",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "बराबर",
+            "B": "कम",
+            "C": "अधिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "X-rays are",
+        "prashna": "X-किरणें हैं",
+        "options": {
+            "A": "moving electron",
+            "B": "moving positive ion",
+            "C": "moving negative ion",
+            "D": "electromagnetic waves"
+        },
+        "vikalpa": {
+            "A": "गतिमान इलेक्ट्रॉन",
+            "B": "गतिमान धनात्मक आयन",
+            "C": "गतिमान ऋणात्मक आयन",
+            "D": "विद्युत चुम्बकीय तरंगे"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "The critical angle for total internal reflection of a ray from any medium to vacuum is $30^{\\circ}$. Then velocity of light in the medium will be",
+        "prashna": "यदि किसी माध्यम से निर्वात में संपूर्ण आन्तरिक परावर्तन के लिए क्रान्तिक कोण $30^{\\circ}$ हो, तो माध्यम में प्रकाश का वेग है।",
+        "options": {
+            "A": "$3 \\times 10^8$ m/s",
+            "B": "$1.5 \\times 10^5$ m/s",
+            "C": "$6 \\times 10^8$ m/s",
+            "D": "$4.5 \\times 10^8$ m/s"
+        },
+        "vikalpa": {
+            "A": "$13 \\times 10^8$ मी/से",
+            "B": "$1.5 \\times 10^5$ मी/से",
+            "C": "$6 \\times 10^8$ मी/से",
+            "D": "$4.5 \\times 10^8$ मी/से"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Describe the two shortcomings of Bohr model of atom.",
+        "prashna": "परमाणु के बोर मॉडल की दो कमियों का उल्लेख करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "In a vertically upwards magnetic field $\\vec{B}$, a positively charged particle is projected horizontally eastwards. What will be the direction of force on the particle ?",
+        "prashna": "उदग्र ऊपर की ओर चुम्बकीय क्षेत्र $\\vec{B}$ में एक धनावेशित कण को क्षैतिज पूर्व की ओर फेंकने पर लगे बल की दिशा क्या होगी ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Lenz's law follows the law of conservation of energy. Explain.",
+        "prashna": "लेंज का नियम ऊर्जा संरक्षण सिद्धांत का पालन करता है, समझायें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is photo-cell ? Write down its two applications.",
+        "prashna": "फोटो सेल क्या है ? इसके दो उपयोगों को लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "The decay constant of a radioactive substance is $5.2 \\times 10^3$ per year. What is its half-life?",
+        "prashna": "एक रेडियोऐक्टिव पदार्थ का क्षय नियतांक $5.2 \\times 10^3$ प्रति वर्ष है। उसकी अर्ध-आयु क्या होगी?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is Curie law?",
+        "prashna": "क्यूरी नियम क्या है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What are '$\\alpha$' and '$\\beta$' parameters of transistor? What is their relation?",
+        "prashna": "ट्रांजिस्टर का '$\\alpha$' एवं '$\\beta$' पैरामीटर क्या है ? इनमें क्या संबंध है ?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Differentiate between primary and secondary rainbows.",
+        "prashna": "प्राथमिक और द्वितीयक इंद्रधनुष में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Under what condition will the magnifying power of a microscope be maximum?",
+        "prashna": "सूक्ष्मदर्शी की आवर्धन क्षमता किस स्थिति में अधिक होगी ?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What is carbon dating?",
+        "prashna": "कार्बन डेटिंग क्या है ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "A convex lens of refractive index 1.5 is kept in a liquid medium having same refractive index. What is the focal length of the lens in this medium?",
+        "prashna": "1.5 अपवर्तनांक वाले उत्तल लेंस को उतने ही अपवर्तनांक वाले तरल में रखा जाता है। इस माध्यम में लेंस की फोकस दूरी निकालें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Write down truth table and Boolean expression for NOR and NAND gates.",
+        "prashna": "NOR एवं NAND गेट की सत्यता सारणी तथा बुलियन व्यंजक लिखें।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Define magnetic moment. Write its S.I. unit and dimension.",
+        "prashna": "चुम्बकीय आघूर्ण को परिभाषित करें। इसकी S.I. इकाई एवं विमा लिखें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "A sphere of radius 5 cm has a charge of $31.41 \\mu C$. Calculate the surface density of charge.",
+        "prashna": "5 सेमी त्रिज्या के गोले पर $31.41 \\mu C$ आवेश है। आवेश के पृष्ठ घनत्व की गणना करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Write down two necessary conditions for interference of light.",
+        "prashna": "प्रकाश के व्यतिकरण की आवश्यक दो शर्तें लिखें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What will be the path followed by charged particle moving along magnetic field.",
+        "prashna": "चुम्बकीय क्षेत्र के अनुदिश गतिशील आवेशित कण का मार्ग कैसा होगा ?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Define modulation. Write its types.",
+        "prashna": "माडुलन को परिभाषित करें। इसके प्रकारों को लिखें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "The horizontal component of earth's magnetic field at any place is $\\sqrt{3}$ times its vertical component. What will be the value of angle of dip at that place?",
+        "prashna": "किसी स्थान पर पृथ्वी के चुम्बकीय क्षेत्र का क्षैतिज घटक इसके ऊर्ध्वाधर घटक का $\\sqrt{3}$ गुना है। इस स्थान पर नति कोण का मान क्या होगा ?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What is current density ? Discuss.",
+        "prashna": "धारा घनत्व क्या है ? विवेचना करें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "On what two factors does the capacity of a condenser depend?",
+        "prashna": "संधारित्र की धारिता किन दो बातों पर निर्भर करती है ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "What do you understand by capacity of any conductor? Find an expression for the capacity of a cylindrical condenser.",
+        "prashna": "किसी चालक की धारिता से आप क्या समझते हैं ? बेलनाकार संधारित्र की धारिता का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "State and explain Kirchhoff's laws. Applying these laws, obtain the balanced condition of Wheatstone bridge.",
+        "prashna": "किरचॉफ के नियमों को लिखें तथा समझाएँ। इन नियमों का उपयोग कर व्हीटस्टोन ब्रिज के संतुलन की अवस्था प्राप्त करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "With neat diagram describe the construction and working of an astronomical telescope. Find its magnifying power.",
+        "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शी की रचना एवं क्रिया का वर्णन करें। इसके आवर्धन क्षमता की गणना करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Derive the condition for resonance in the L-C-R series alternating current circuit. Find the expression for resonant frequency.",
+        "prashna": "L-C-R प्रत्यावर्ती धारा श्रेणी परिपथ में अनुनाद के लिए शर्त निकालें। अनुनाद आवृत्ति के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Explain the working of P-N junction diode. Draw the circuit of full wave rectifier and explain its working.",
+        "prashna": "P-N जंक्शन डायोड की क्रिया समझाएँ पूर्ण तरंग दिष्टकारी का परिपथ खींचें एवं इसकी क्रिया समझाएँ।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "For a thin lens find the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$, where the meaning of symbols is general",
+        "prashna": "पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ प्राप्त करें, जहाँ संकेतों के अर्थ सामान्य हैं।"
+    }
+]
