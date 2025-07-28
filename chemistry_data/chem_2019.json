@@ -1,0 +1,792 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Formula of sucrose is -",
+        "prashna": "सूक्रोज का सूत्र है -",
+        "options": {
+            "A": "$C_{12}H_{22}O_{12}$",
+            "B": "$C_{12}H_{22}O_{11}$",
+            "C": "$C_{12}H_{22}O_{11}$",
+            "D": "$C_{12}H_{22}O_{10}$"
+        },
+        "vikalpa": {
+            "A": "$C_{12}H_{22}O_{12}$",
+            "B": "$C_{12}H_{22}O_{11}$",
+            "C": "$C_{12}H_{22}O_{11}$",
+            "D": "$C_{12}H_{22}O_{10}$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "pH of pure water is -",
+        "prashna": "शुद्ध जल का pH होता है -",
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "7"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "7"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "$CH_3CH_2NH_2$ is known as -",
+        "prashna": "$CH_3CH_2NH_2$ को कहा जाता है -",
+        "options": {
+            "A": "Ethyl amine",
+            "B": "Propyl amine",
+            "C": "Methyl amine",
+            "D": "Ammonia"
+        },
+        "vikalpa": {
+            "A": "इथाइल एमीन",
+            "B": "प्रोपाइल एमीन",
+            "C": "मिथाइल एमीन",
+            "D": "अमोनिया"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Carbohydrate which yields three to ten mono saccharide units on hydrolysis is called -",
+        "prashna": "कार्बोहाइड्रेट जो जलाशित होकर तीन से लेकर दस मोनो सैकराइड इकाई प्रदान करते हैं, उसे कहा जाता है -",
+        "options": {
+            "A": "Monosaccharide",
+            "B": "Disaccharide",
+            "C": "Oligosaccharide",
+            "D": "Polysaccharide"
+        },
+        "vikalpa": {
+            "A": "मोनो-सैकराइड",
+            "B": "डाई-सैकराइड",
+            "C": "ओलिगो-सैकराइड",
+            "D": "पॉली-सैकराइड"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The name of the compound is -",
+        "prashna": "OH यौगिक का नाम है -",
+        "options": {
+            "A": "Benzene hydroxide",
+            "B": "Phenol",
+            "C": "Phenyl",
+            "D": "Benzyl Alcohol"
+        },
+        "vikalpa": {
+            "A": "बेंजीन हाइड्रोक्साइड",
+            "B": "फिनॉल",
+            "C": "फिनाइल",
+            "D": "बेंजाइल एल्कोहॉल"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Dettol is used as -",
+        "prashna": "डेटॉल का उपयोग किया जाता है -",
+        "options": {
+            "A": "Disinfectant",
+            "B": "Antiseptic",
+            "C": "Antimalarial",
+            "D": "All"
+        },
+        "vikalpa": {
+            "A": "संक्रमणहारी",
+            "B": "प्रतिरोधी",
+            "C": "मलेरिया रोधी",
+            "D": "सभी"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which of the following gas cannot be collected over water?",
+        "prashna": "निम्नलिखित में से कौन सी गैस जल पर एकत्र नहीं की जा सकती है?",
+        "options": {
+            "A": "$O_2$",
+            "B": "$H_2S$",
+            "C": "$SO_2$",
+            "D": "$N_2$"
+        },
+        "vikalpa": {
+            "A": "$O_2$",
+            "B": "$H_2S$",
+            "C": "$SO_2$",
+            "D": "$N_2$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "$PCl_5$ is a -",
+        "prashna": "$PCl_5$ एक है -",
+        "options": {
+            "A": "Oxidising agent",
+            "B": "Reducing agent",
+            "C": "Oxidizing and reducing agent both",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "ऑक्सीकारक",
+            "B": "अवकारक",
+            "C": "ऑक्सीकारक एवं अवकारक दोनों",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The oxidation number of Fe in $K_4[Fe(CN)_6]$ is -",
+        "prashna": "$K_4[Fe(CN)_6]$ में Fe की ऑक्सीकरण संख्या है -",
+        "options": {
+            "A": "+2",
+            "B": "+3",
+            "C": "-2",
+            "D": "-3"
+        },
+        "vikalpa": {
+            "A": "+2",
+            "B": "+3",
+            "C": "-2",
+            "D": "-3"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The formula of Nitric acid is -",
+        "prashna": "नाइट्रिक अम्ल का सूत्र है -",
+        "options": {
+            "A": "$HNO_3$",
+            "B": "$H_2N_2O_2$",
+            "C": "$HNO_2$",
+            "D": "$HNO_4$"
+        },
+        "vikalpa": {
+            "A": "$HNO_3$",
+            "B": "$H_2N_2O_2$",
+            "C": "$HNO_2$",
+            "D": "$HNO_4$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "$H_2SO_4$ is a -",
+        "prashna": "$H_2SO_4$ है एक -",
+        "options": {
+            "A": "Dibasic acid",
+            "B": "Monobasic acid",
+            "C": "Mono acid base",
+            "D": "Di acid base"
+        },
+        "vikalpa": {
+            "A": "द्विभास्मिक अम्ल",
+            "B": "एकल भास्मिक अम्ल",
+            "C": "एकल अम्लीय भस्म",
+            "D": "द्वि अम्लीय भस्म"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Polythene is a polymer of -",
+        "prashna": "पॉलिथीन एक बहुलक है -",
+        "options": {
+            "A": "Ethane",
+            "B": "Ethene",
+            "C": "Propene",
+            "D": "Ethyne"
+        },
+        "vikalpa": {
+            "A": "इथेन का",
+            "B": "इथीन का",
+            "C": "प्रोपीन का",
+            "D": "इथाइन का"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Nitrogen & Oxygen are -",
+        "prashna": "नाइट्रोजन और ऑक्सीजन हैं -",
+        "options": {
+            "A": "Metals",
+            "B": "Non-metals",
+            "C": "Metalloids",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "धातु",
+            "B": "अधातु",
+            "C": "उपधातु",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Second period of periodic table contains elements",
+        "prashna": "आवर्त सारणी के द्वितीय आवर्त में तत्वों की संख्या है -",
+        "options": {
+            "A": "2",
+            "B": "8",
+            "C": "18",
+            "D": "32"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "8",
+            "C": "18",
+            "D": "32"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The functional group of alcohol is -",
+        "prashna": "एल्कोहॉल का क्रियाशील मूलक है -",
+        "options": {
+            "A": "-COOH",
+            "B": "-CHO",
+            "C": ">C=O",
+            "D": "-OH"
+        },
+        "vikalpa": {
+            "A": "-COOH",
+            "B": "-CHO",
+            "C": ">C=O",
+            "D": "-OH"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Buna-N and Buna-S are -",
+        "prashna": "ब्यूना-N तथा ब्यूना-S है -",
+        "options": {
+            "A": "Natural rubber",
+            "B": "Synthetic rubber",
+            "C": "Latex",
+            "D": "Polythene"
+        },
+        "vikalpa": {
+            "A": "प्राकृतिक रबर",
+            "B": "संश्लेषित रबर",
+            "C": "लेटेक्स",
+            "D": "पॉलिथीन"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Alcohol is formed when one of the hydrogen of Alkane is replaced by -",
+        "prashna": "एल्कोहॉल बनने में एल्केन के एक हाइड्रोजन को किस ग्रुप द्वारा प्रतिस्थापित किया जाता है?",
+        "options": {
+            "A": "Hydroxyl group",
+            "B": "Aldehyde group",
+            "C": "Carboxylic group",
+            "D": "Chloro group"
+        },
+        "vikalpa": {
+            "A": "हाइड्रॉक्सिल ग्रुप",
+            "B": "एल्डिहाइड ग्रुप",
+            "C": "कार्बोक्सिलिक ग्रुप",
+            "D": "क्लोरो ग्रुप"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "One Faraday electricity is equal to how much Coulombs?",
+        "prashna": "एक फैराडे विद्युत कितने कूलॉम के बराबर होता है?",
+        "options": {
+            "A": "96550",
+            "B": "96500",
+            "C": "96000",
+            "D": "95500"
+        },
+        "vikalpa": {
+            "A": "96550",
+            "B": "96500",
+            "C": "96000",
+            "D": "95500"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "The symbol of Helium is -",
+        "prashna": "हीलियम का सूत्र है -",
+        "options": {
+            "A": "He",
+            "B": "Hi",
+            "C": "Hm",
+            "D": "All"
+        },
+        "vikalpa": {
+            "A": "He",
+            "B": "Hi",
+            "C": "Hm",
+            "D": "सभी"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "White and yellow phosphorous are -",
+        "prashna": "उजला और पीला फॉस्फोरस है -",
+        "options": {
+            "A": "Allotropes",
+            "B": "Isomers",
+            "C": "Isobars",
+            "D": "Isotones"
+        },
+        "vikalpa": {
+            "A": "अपरूप",
+            "B": "समस्थानिक",
+            "C": "समभारिक",
+            "D": "समन्यूट्रॉनिक"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "The hybridisation of N in $NH_3$ is -",
+        "prashna": "$NH_3$ में N का संकरण है -",
+        "options": {
+            "A": "$sp^3$",
+            "B": "$sp^2$",
+            "C": "$sp$",
+            "D": "$d^2sp^3$"
+        },
+        "vikalpa": {
+            "A": "$sp^3$",
+            "B": "$sp^2$",
+            "C": "$sp$",
+            "D": "$d^2sp^3$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Number of ($\\sigma$) sigma bonds in $CH_4$ is -",
+        "prashna": "$CH_4$ में ($\\sigma$) सिग्मा बन्धों की संख्या है -",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which of the following gas is mono-atomic?",
+        "prashna": "निम्नलिखित में कौन सी गैस एकल परमाण्विक है?",
+        "options": {
+            "A": "Chlorine",
+            "B": "Helium",
+            "C": "Nitrogen",
+            "D": "Oxygen"
+        },
+        "vikalpa": {
+            "A": "क्लोरीन",
+            "B": "हीलियम",
+            "C": "नाइट्रोजन",
+            "D": "ऑक्सीजन"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Drug used to reduce fever is called -",
+        "prashna": "ज्वर को कम करने के लिये उपयोगी दवा को कहते हैं -",
+        "options": {
+            "A": "Antipyretic",
+            "B": "Analgesic",
+            "C": "Antacid",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "ज्वरनाशी",
+            "B": " पीड़ाहारी",
+            "C": "प्रत्ताम्ल",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "IUPAC name of $CH_3COOH$ is -",
+        "prashna": "$CH_3COOH$ का IUPAC नाम है -",
+        "options": {
+            "A": "Methanoic acid",
+            "B": "Ethanoic acid",
+            "C": "Propanoic acid",
+            "D": "Methanol"
+        },
+        "vikalpa": {
+            "A": "मिथेनोइक अम्ल",
+            "B": "इथेनोइक अम्ल",
+            "C": "प्रोपेनोइक अम्ल",
+            "D": "मिथेनॉल"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Copper metal is purified by which of the following method -",
+        "prashna": "कॉपर धातु का शोधन निम्नलिखित में से किस विधि द्वारा किया जाता है?",
+        "options": {
+            "A": "Electrolytic refining",
+            "B": "Zone refining",
+            "C": "Chromatography",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "वैद्युत अपघटनी शोधन",
+            "B": "मण्डल परिष्करण",
+            "C": "वर्णलेखिकी",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Nitric acid is prepared by -",
+        "prashna": "नाइट्रिक अम्ल तैयार किया जाता है -",
+        "options": {
+            "A": "Contact process",
+            "B": "Ostwald's method",
+            "C": "Photosynthesis",
+            "D": "Haber's process"
+        },
+        "vikalpa": {
+            "A": "सम्पर्क विधि",
+            "B": "ओस्टवाल्ड विधि",
+            "C": "प्रकाश संश्लेषण",
+            "D": "हैबर विधि"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Oleum is composed of $H_2SO_4$ and which constituent?",
+        "prashna": "ओलियम में $H_2SO_4$ के साथ और कौन सा अवयव उपस्थित है?",
+        "options": {
+            "A": "$SO_2$",
+            "B": "$SO_3$",
+            "C": "$H_2S$",
+            "D": "$HSO_4^-$"
+        },
+        "vikalpa": {
+            "A": "$SO_2$",
+            "B": "$SO_3$",
+            "C": "$H_2S$",
+            "D": "$HSO_4^-$"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Ammonia changes the moist red litmus paper into -",
+        "prashna": "अमोनिया, आर्द्र लाल लिटमस पत्र को किस रंग में बदल देता है?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Black",
+            "D": "White"
+        },
+        "vikalpa": {
+            "A": "नीला",
+            "B": "हरा",
+            "C": "काला",
+            "D": "उजला"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Chief ore of Iron is -",
+        "prashna": "लोहे का मुख्य अयस्क है -",
+        "options": {
+            "A": "Magnetite",
+            "B": "Siderite",
+            "C": "Haematite",
+            "D": "All"
+        },
+        "vikalpa": {
+            "A": "मैग्नेटाइट",
+            "B": "सिडेराइट",
+            "C": "हेमेटाइट",
+            "D": "सभी"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Over production of acid in stomach can be controlled by -",
+        "prashna": "पेट में अत्यधिक अम्ल को बनने से रोका जा सकता है -",
+        "options": {
+            "A": "Antacid",
+            "B": "Analgesic",
+            "C": "Antipyretic",
+            "D": "Antibiotic"
+        },
+        "vikalpa": {
+            "A": "प्रत्यम्ल",
+            "B": " पीड़ाहारी",
+            "C": "ज्वरनाशी",
+            "D": "प्रतिजैविक"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "A process of heating ore of a metal in excess of air below its melting point is called -",
+        "prashna": "एक विधि जिसमें किसी धात्विक अयस्क को हवा की अधिकता में उसके गलनांक के नीचे गर्म किया जाता है, उसे कहते हैं -",
+        "options": {
+            "A": "Roasting",
+            "B": "Smelting",
+            "C": "Calcination",
+            "D": "All"
+        },
+        "vikalpa": {
+            "A": "भर्जन",
+            "B": "प्रगलन",
+            "C": "निस्तापन",
+            "D": "सभी"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Group I elements of Periodic Table are known as -",
+        "prashna": "आवर्त सारणी के ग्रुप I के तत्वों को जाना जाता है -",
+        "options": {
+            "A": "Alkali metals",
+            "B": "Alkaline earth metals",
+            "C": "Inert gases",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "क्षारीय धातु",
+            "B": "क्षारीय भूमिज धातु",
+            "C": "अक्रिय गैस",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "$K_3[Fe(CN)_6]$ is a -",
+        "prashna": "$K_3[Fe(CN)_6]$ एक है -",
+        "options": {
+            "A": "Double salt",
+            "B": "Complex compound",
+            "C": "Acidic Salt",
+            "D": "Common salt"
+        },
+        "vikalpa": {
+            "A": "द्विक - लवण",
+            "B": "उपसहसंयोजक यौगिक",
+            "C": "अम्लीय लवण",
+            "D": "साधारण लवण"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Transition elements are also known as -",
+        "prashna": "संक्रमण तत्वों को और भी नाम से जाना जाता है -",
+        "options": {
+            "A": "s-block elements",
+            "B": "p-block elements",
+            "C": "d-block elements",
+            "D": "f-block elements"
+        },
+        "vikalpa": {
+            "A": "s - ब्लॉक तत्व",
+            "B": "p - ब्लॉक तत्व",
+            "C": "d - ब्लॉक तत्व",
+            "D": "f - ब्लॉक तत्व"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What do you mean by point defect in a crystal?",
+        "prashna": "क्रिस्टल बिन्दु त्रुटि से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What do you mean by Primary cell?",
+        "prashna": "प्राथमिक सैल से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write first law of Faraday's law of electrolysis.",
+        "prashna": "फैराडे के विद्युत अपघटन के प्रथम नियम को लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Explain order of reaction.",
+        "prashna": "अभिक्रिया के कोटि की व्याख्या करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Conc. $HNO_3$ is stored in Aluminium vessel, why?",
+        "prashna": "सान्द्र $HNO_3$ को एल्युमीनियम पात्र में संग्रह करते हैं, क्यों?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Sulphur forms $SF_6$ but not $SCl_6$, why?",
+        "prashna": "सल्फर $SF_6$ बनाता है, पर $SCl_6$ नहीं, क्यों?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Find the oxidation number of Cu in the complex ion: $[Cu(NH_3)_4]^{2+}$",
+        "prashna": "जटिल (संकुल) $[Cu(NH_3)_4]^{2+}$ में Cu की ऑक्सीकरण संख्या की गणना करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Name the element present in Hemoglobin.",
+        "prashna": "हीमोग्लोबिन में उपस्थित धातु का नाम बताएँ।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What do you mean by BOD and COD?",
+        "prashna": "BOD और COD से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write the monomer of Teflon?",
+        "prashna": "टेफलॉन के एकलक क्या है?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What are amino acids?",
+        "prashna": "अमीनो अम्ल क्या है?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Complete the reaction - $R-C(=O)-NH_2 \\xrightarrow{LiAlH_4/H_2O}$",
+        "prashna": "अभिक्रिया को पूर्ण करें - $R-C(=O)-NH_2 \\xrightarrow{LiAlH_4/H_2O}$"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Alkyl amine is stronger base than Ammonia, Why?",
+        "prashna": "एल्काइल अमीन अमोनिया से प्रबल क्षार है, क्यों?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Define Osmotic pressure.",
+        "prashna": "परासरणी दाब को परिभाषित करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What are Enzymes?",
+        "prashna": "एंजाइम क्या है?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Silver is a Good conductor of electricity. Why?",
+        "prashna": "चाँदी विद्युत का अच्छा सुचालक है, क्यों?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What are ideal and non-ideal solutions?",
+        "prashna": "आदर्श और अनादर्श घोल क्या है?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What are the advantages of using Cryolite in the electrolytic reduction of alumina?",
+        "prashna": "एल्यूमिना के विद्युत अपघटन अवकरण में क्रायोलाइट के उपयोग के क्या लाभ हैं?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Define osmotic pressure. Prove that osmatic pressure is a colligative property.",
+        "prashna": "परासरणी दाब की परिभाषा दें? सिद्ध करें की परासरणी दाब एक अणु संख्यक गुण धर्म है।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Find the expression for first order reaction.",
+        "prashna": "प्रथम कोटि अभिक्रिया के व्यंजक तैयार करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Write in brief how Aluminium is extracted from Bauxite?",
+        "prashna": "बॉक्साइट से एल्युमीनियम निष्कर्षण की विधि को संक्षिप्त में लिखें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "What happens when-",
+        "prashna": "क्या होता है जब -",
+        "sub_questions": {
+            "A": "Sodium acetate is heated with soda lime?",
+            "B": "Calcium carbide is allowed to react with water?"
+        },
+        "anuprashna": {
+            "A": "सोडियम एसीटेट को सोडा लाइम के साथ गर्म किया जाता है?",
+            "B": "कैल्शियम कार्बाइड को जल से अभिक्रिया कराया जाता है?"
+        }
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "What are the main sources of Iodine? How is it extracted from sea weeds?",
+        "prashna": "आयोडीन के मुख्य स्त्रोत क्या है? इसे समुद्री घास से कैसे प्राप्त किया जाता है?"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "What happens when",
+        "prashna": "क्या होता है जब -",
+        "sub_questions": {
+            "A": "Calcium formate is heated strongly?",
+            "B": "Methanol reacts with ammonia?"
+        },
+        "anuprashna": {
+            "A": "कैल्शियम फॉर्मेट को तेज गर्म करते हैं?",
+            "B": "मिथेनॉल, अमोनिया से अभिक्रिया करता है?"
+        }
+    }
+]
