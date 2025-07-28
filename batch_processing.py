@@ -5,13 +5,13 @@ import pathlib
 def main():
     # List of years to process, in descending order
     years = list(range(2025, 2008, -1))  # 2017 to 2009
-    input_folder = pathlib.Path("chemistry_papers")
-    output_folder = pathlib.Path("chemistry_data")
+    input_folder = pathlib.Path("physics_papers")
+    output_folder = pathlib.Path("physics_data")
     output_folder.mkdir(exist_ok=True)
 
     for year in years:
-        input_pdf = input_folder / f"chem_{year}.pdf"
-        output_json = output_folder / f"chem_{year}.json"
+        input_pdf = input_folder / f"phy_{year}.pdf"
+        output_json = output_folder / f"phy_{year}.json"
         print(f"\nProcessing {input_pdf} -> {output_json}")
         start = time.time()
         try:
