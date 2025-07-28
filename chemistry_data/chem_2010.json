@@ -1,0 +1,670 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Faraday's second law of electrolysis is related to",
+        "prashna": "फैराडे का विद्युत विच्छेदन का द्वितीय नियम संबंधित है",
+        "options": {
+            "A": "Atomic number of cation",
+            "B": "Equivalent weight of electrolyte",
+            "C": "Atomic number of anion",
+            "D": "Speed of cation"
+        },
+        "vikalpa": {
+            "A": "धनायन के परमाणु संख्या से",
+            "B": "विद्युत अपघट्य के समतुल्य भार से",
+            "C": "ऋणायन के परमाणु संख्या से",
+            "D": "धनायन के वेग से"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which of the following is not an element of the first transition series?",
+        "prashna": "निम्न में कौन एक प्रथम संक्रमण श्रेणी का तत्त्व नहीं है?",
+        "options": {
+            "A": "Iron",
+            "B": "Chromium",
+            "C": "Magnesium",
+            "D": "Nickel"
+        },
+        "vikalpa": {
+            "A": "लोहा",
+            "B": "क्रोमियम",
+            "C": "मैग्नेशियम",
+            "D": "निकेल"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "The formula of copper pyrites is",
+        "prashna": "कॉपर पाइराइट्स का सूत्र है",
+        "options": {
+            "A": "$CuFeS$",
+            "B": "$CuFeS_2$",
+            "C": "$Cu_2S$",
+            "D": "$Cu_2FeS_2$"
+        },
+        "vikalpa": {
+            "A": "$CuFeS$",
+            "B": "$CuFeS_2$",
+            "C": "$Cu_2S$",
+            "D": "$Cu_2FeS_2$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following is not a colligative property?",
+        "prashna": "निम्नलिखित में कौन-सा अणुसंख्य गुणधर्म नहीं है?",
+        "options": {
+            "A": "Depression of freezing point",
+            "B": "Optical activity",
+            "C": "Relative lowering of vapour pressure",
+            "D": "Elevation of boiling point"
+        },
+        "vikalpa": {
+            "A": "हिमांक का अवनमन",
+            "B": "प्रकाशीय क्रियाशीलता",
+            "C": "वाष्प दाब का आपेक्षिक",
+            "D": "क्वथनांक का उन्नयन"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The number of chiral carbons in glucose is",
+        "prashna": "ग्लूकोज में काइरल कार्बन की संख्या है",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "3",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "5",
+            "C": "3",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The antiseptic action of $CHI_3$ is due to",
+        "prashna": "$CHI_3$ में एन्टीसेप्टिक क्रिया का कारण है",
+        "options": {
+            "A": "Iodoform",
+            "B": "Liberation of free iodine",
+            "C": "Partial iodine and partial $CHI_3$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आइडोफार्म",
+            "B": "आयोडीन मुक्त होकर निकलना",
+            "C": "आंशिक आयोडीन और आंशिक $CHI_3$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Glycerol is a",
+        "prashna": "ग्लिसरॉल है एक",
+        "options": {
+            "A": "Primary alcohol",
+            "B": "Secondary alcohol",
+            "C": "Tertiary alcohol",
+            "D": "Trihydric alcohol"
+        },
+        "vikalpa": {
+            "A": "प्राइमरी अल्कोहल",
+            "B": "सेकेण्डरी अल्कोहल",
+            "C": "टर्शियरी अल्कोहल",
+            "D": "ट्राइहाइड्रिक अल्कोहल"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The number of $P-O-P$ bonds in cyclic metaphosphoric acid is",
+        "prashna": "चक्रीय मेटाफॉस्फेरिक अम्ल में $P-O-P$ बंध की संख्या है",
+        "options": {
+            "A": "Two",
+            "B": "Zero",
+            "C": "Three",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "शून्य",
+            "C": "तीन",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "In smelting, the reducing agent used for the reduction of metal oxide is",
+        "prashna": "स्मेल्टींग में धातु के ऑक्साइड के अपचयन में संयुक्त है",
+        "options": {
+            "A": "Al",
+            "B": "C",
+            "C": "Mg",
+            "D": "CO"
+        },
+        "vikalpa": {
+            "A": "Al",
+            "B": "C",
+            "C": "Mg",
+            "D": "CO"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following is not a condensation polymer?",
+        "prashna": "निम्नलिखित में से कौन संघनक बहुलक नहीं है",
+        "options": {
+            "A": "Glyptal",
+            "B": "Nylon-6, 6",
+            "C": "PTFE",
+            "D": "Dacron"
+        },
+        "vikalpa": {
+            "A": "ग्लिप्टल",
+            "B": "नायलॉन -6, 6",
+            "C": "PTFE",
+            "D": "डेक्रॉन"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: Inert gases are chemically inert. Statement-II: Inert gases have high ionization energy and zero electron affinity.",
+        "prashna": "कथन-I : अक्रिय गैसें रासायनिक रूप से अक्रिय हैं। कथन-II: अक्रिय गैसों की आयनिक ऊर्जा अधिक होती है तथा इलेक्ट्रॉन बंधुता शून्य होती है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: $KMnO_4$ is a colored compound. Statement-II: The color of $KMnO_4$ is due to charge transfer.",
+        "prashna": "कथन-I: $KMnO_4$ एक रंगीन यौगिक है। कथन-II: $KMnO_4$ का रंग आवेश स्थानान्तरण के कारण होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: The reaction continues with a decrease in free energy. Statement-II: A continuous reaction is exothermic.",
+        "prashna": "कथन-I: मुक्त ऊर्जा घटने से अभिक्रिया लगातार रहती है। कथन-II: लगातार होनेवाली अभिक्रिया ऊष्माक्षेपी होती है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: Benzoic acid is a weaker acid than formic acid. Statement-II: When a phenyl group is attached to a carboxylic group, it behaves as an electron donor.",
+        "prashna": "कथन-I: बेंजोइक अम्ल फॉर्मिक अम्ल से ज्यादा निर्बल अम्ल है। कथन-II : कार्बोक्सिलिक समूह से जब फिनाइल समूह जुड़ जाता है तब इलेक्ट्रॉन दाता की तरह व्यवहार करता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: All ores are minerals. Statement-II: All minerals are ores.",
+        "prashna": "कथन-I: सभी अयस्क खनिज है। कथन-II: सभी खनिज अयस्क है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Chloramphenicol is",
+        "prashna": "क्लोरमफेनिकॉल है",
+        "options": {
+            "A": "Antibiotic",
+            "B": "Analgesic",
+            "C": "Antipyretic",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एन्टिबायोटीक",
+            "B": "एनालजेसिक",
+            "C": "एन्टिपायरेटिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following is a carbohydrate?",
+        "prashna": "निम्नलिखित में कौन कार्बोहाइड्रेट है?",
+        "options": {
+            "A": "Thiamine",
+            "B": "Lactose",
+            "C": "Glycerol",
+            "D": "Insulin"
+        },
+        "vikalpa": {
+            "A": "थायमिन",
+            "B": "लैक्टोज",
+            "C": "ग्लिसरॉल",
+            "D": "इन्सुलीन"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "The oxygen atom in ether is,",
+        "prashna": "ईथर में ऑक्सीजन परमाणु है,",
+        "options": {
+            "A": "Very reactive",
+            "B": "Replaceable",
+            "C": "Comparatively inert",
+            "D": "Reactive"
+        },
+        "vikalpa": {
+            "A": "अतिक्रियाशील",
+            "B": "प्रतिस्थापनयोग्य",
+            "C": "तुलनात्मक रूप से अक्रिय",
+            "D": "क्रियाशील"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Semi-permeable membrane",
+        "prashna": "अर्धपारगम्य झिल्ली",
+        "options": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Freon",
+        "prashna": "फ्रियॉन",
+        "options": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Carbylamine",
+        "prashna": "कार्बिल एमीन",
+        "options": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Lunar caustic",
+        "prashna": "लूनर कास्टिक",
+        "options": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$C_6H_5NC$",
+            "B": "$AgNO_3$",
+            "C": "$Cu_2[Fe(CN)_6]$",
+            "D": "$CF_2Cl_2$"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "In DNA, thymine is attached to which base by two hydrogen bonds?",
+        "prashna": "DNA में थाइमीन दो हाइड्रोजन बंधन द्वारा किस भस्म से जुड़ा हुआ है?",
+        "options": {
+            "A": "Adenine",
+            "B": "Cytosine",
+            "C": "Thymine",
+            "D": "Guanine"
+        },
+        "vikalpa": {
+            "A": "एडेनीन",
+            "B": "साइटोसीन",
+            "C": "थाइमीन",
+            "D": "गुआनीन"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Adenosine is an example of which of the following?",
+        "prashna": "एडेनोसीन निम्नलिखित में से किसका उदाहरण है?",
+        "options": {
+            "A": "Nucleotide",
+            "B": "Pyrimidine base",
+            "C": "Nucleoside",
+            "D": "Purine base"
+        },
+        "vikalpa": {
+            "A": "न्यूक्लियोटाइड",
+            "B": "पाइरीमिडीन भस्म",
+            "C": "न्यूक्लियोसाइड",
+            "D": "प्यूरीमीन भस्म"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Which of the following is not a pyrimidine base?",
+        "prashna": "निम्न में से कौन पाइरीमिडीन भस्म नहीं है?",
+        "options": {
+            "A": "Uracil",
+            "B": "Cytosine",
+            "C": "Thymine",
+            "D": "Guanine"
+        },
+        "vikalpa": {
+            "A": "यूरासिल",
+            "B": "साइटोसीन",
+            "C": "थाइमीन",
+            "D": "गुआनीन"
+        }
+    },
+    {
+        "id": "short_1_1",
+        "type": "short_answer",
+        "question": "How will you differentiate between lyophobic colloid and lyophilic colloid?",
+        "prashna": "लायोफोबिक कोलॉइड और लायोफिलिक कोलॉइड में कैसे विभेद करेंगे?"
+    },
+    {
+        "id": "short_1_2",
+        "type": "short_answer",
+        "question": "Give one example of each of the following-",
+        "prashna": "निम्नलिखित में प्रत्येक के एक-एक उदाहरण दें-",
+        "sub_questions": {
+            "A": "Gel",
+            "B": "Aerosol"
+        },
+        "anuprashna": {
+            "A": "जेल",
+            "B": "एरोसोल"
+        }
+    },
+    {
+        "id": "short_2_1",
+        "type": "short_answer",
+        "question": "Find the osmotic pressure of 5% urea solution at 273 K.",
+        "prashna": "5% यूरिया के घोल का परासरण दाव 273 K पर ज्ञात करें।"
+    },
+    {
+        "id": "short_2_2",
+        "type": "short_answer",
+        "question": "What is reverse osmosis?",
+        "prashna": "उल्टा परासरण क्या है?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write the IUPAC name of the following-",
+        "prashna": "निम्नलिखित के IUPAC नाम लिखें-",
+        "sub_questions": {
+            "A": "$K_2[Ni(CN)_4]$",
+            "B": "$[CoCl_2(NH_3)_4]Cl$"
+        },
+        "anuprashna": {
+            "A": "$K_2[Ni(CN)_4]$",
+            "B": "$[CoCl_2(NH_3)_4]Cl$"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "How will you convert-",
+        "prashna": "कैसे परिवर्तित करेंगे-",
+        "sub_questions": {
+            "A": "Aniline to bromobenzene",
+            "B": "Ethanol to methanamine"
+        },
+        "anuprashna": {
+            "A": "एनीलीन से ब्रोमोबेंजीन",
+            "B": "इथेनाल से मिथेनामाइन"
+        }
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Give reasons for the following-",
+        "prashna": "निम्नलिखित के कारण बताइए-",
+        "sub_questions": {
+            "A": "Formic acid is stronger than acetic acid.",
+            "B": "Aniline is less basic than methylamine."
+        },
+        "anuprashna": {
+            "A": "फॉर्मिक अम्ल, एसीटिक अम्ल से अधिक सबल है।",
+            "B": "एनीलीन, मिथाइल ऐमीन से कम क्षारीय है।"
+        }
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "State about the following-",
+        "prashna": "निम्नलिखित के बारे में बताइए-",
+        "sub_questions": {
+            "A": "The boiling point of ether is much lower than that of alcohol.",
+            "B": "Phenol is more acidic than alcohol."
+        },
+        "anuprashna": {
+            "A": "ईथर का क्वथनांक अल्कोहल से काफी कम होता है।",
+            "B": "फिनॉल, अल्कोहल से अधिक अम्लीय है।"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Write the half-cell reaction and cell reaction of a Daniel cell. $Zn(s) | Zn^{+2}(aq) (1M) || Cu^{+2}(aq)(1 M) | Cu(s)$",
+        "prashna": "डेनियल सेल का अर्धसेल अभिक्रिया एवं सेल अभिक्रिया लिखें। $Zn(s) | Zn^{+2}(aq) (1M) || Cu^{+2}(aq)(1 M) | Cu(s)$"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "State about the following-",
+        "prashna": "निम्नलिखित के बारे में बताइए-",
+        "sub_questions": {
+            "A": "$HI$ is a stronger acid than $HF$.",
+            "B": "The value of electron-affinity of fluorine is less than that of chlorine."
+        },
+        "anuprashna": {
+            "A": "$HI, HF$ से सबल अम्ल है।",
+            "B": "फ्लोरीन की इलेक्ट्रॉन-बंधुता का मान क्लोरीन से कम है।"
+        }
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Define the following with examples.",
+        "prashna": "निम्नलिखित के उदाहरण के साथ परिभाषा दें।",
+        "sub_questions": {
+            "A": "Calcination",
+            "B": "Roasting"
+        },
+        "anuprashna": {
+            "A": "निस्तापन",
+            "B": "भर्जन"
+        }
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Complete the following equations-",
+        "prashna": "निम्नांकित समीकरणों को पूरा करें-",
+        "sub_questions": {
+            "A": "$CHCl_3 + alc. KOH + C_6H_5NH_2 \\rightarrow$",
+            "B": "$CH_3CH_2OH + I_2 + NaOH \\rightarrow$"
+        },
+        "anuprashna": {
+            "A": "$CHCl_3 + alc. KOH + C_6H_5NH_2 \\rightarrow$",
+            "B": "$CH_3CH_2OH + I_2 + NaOH \\rightarrow$"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Differentiate between absorption and adsorption.",
+        "prashna": "अवशोषण और अधिशोषण में अंतर बताइए।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "A first-order reaction takes 60 minutes for 75% completion. Find the half-life of this reaction.",
+            "B": "Give one example each of zero-order and first-order reactions."
+        },
+        "anuprashna": {
+            "A": "एक प्रथम क्रम की अभिक्रिया को 75% पूरा होने में 60 मिनट लगता है। इस अभिक्रिया का अर्धजीवन काल निकालें।",
+            "B": "शून्य क्रम और प्रथम क्रम अभिक्रियाओं का एक-एक उदाहरण दें।"
+        }
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Discuss the general properties of transition elements with special reference to the following-",
+        "prashna": "संक्रमण तत्त्वों के सामान्य गुणों की विवेचना निम्न के विशेष संदर्भ में करें-",
+        "sub_questions": {
+            "i": "Formation of coloured salts",
+            "ii": "Variable oxidation state"
+        },
+        "anuprashna": {
+            "i": "रंगीन लवण के निर्माण",
+            "ii": "परिवर्तनशील ऑक्सीकरण अवस्था।"
+        }
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Write the IUPAC name of the following-",
+        "prashna": "निम्नलिखित के IUPAC नाम लिखिए-",
+        "sub_questions": {
+            "i": "$CH_3CONH_2$",
+            "ii": "$(CH_3)_2CHCH_2COCl$",
+            "iii": "$CH_3-O-C_2H_5$",
+            "iv": "$CH_3CH_2CN$",
+            "v": "Cyclohexanecarboxylic acid"
+        },
+        "anuprashna": {
+            "i": "$CH_3CONH_2$",
+            "ii": "$(CH_3)_2CHCH_2COCl$",
+            "iii": "$CH_3-O-C_2H_5$",
+            "iv": "$CH_3CH_2CN$",
+            "v": "साइक्लोहेक्सेन कार्बोक्सिलिक अम्ल"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "What is polymerization? Define and explain addition polymerization and condensation polymerization with one example each.",
+        "prashna": "बहुलीकरण क्या है? योगात्मक बहुलीकरण एवं संघनन बहुलीकरण पद की परिभाषा एवं व्याख्या एक-एक उदाहरण के साथ करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "An element A (atomic mass = 100) has a bcc structure with an edge length of 400 pm. Find the density of A and the number of its unit cells in 10 grams of A.",
+        "prashna": "एक तत्त्व A (परमाणु द्रव्यमान = 100) bcc संरचना रखता है, जिसके इकाई सेल के किनारे की लम्बाई 400 pm है। A का घनत्व और 10 ग्राम A में उसके इकाई सेलों की संख्या ज्ञात करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": " ",
+        "prashna": " ",
+        "sub_questions": {
+            "A": "Complete the following equations: (i) $CH_3CH_2Cl \\xrightarrow{alc. KOH} [A] \\xrightarrow{alc. KMnO_4} [B]$ (ii) $(CH_3COO)_2Ca \\xrightarrow{heat} [A] \\xrightarrow{Zn/HCl, \\Delta} [B]$",
+            "B": "Give one example each of $2^\\circ$ and $3^\\circ$ amines with their IUPAC names.",
+            "C": "Arrange the following acids in increasing order of their acidic strength."
+        },
+        "anuprashna": {
+            "A": "निम्नलिखित समीकरणों को पूरा करें: (i) $CH_3CH_2Cl \\xrightarrow{alc. KOH} [A] \\xrightarrow{alc. KMnO_4} [B]$ (ii) $(CH_3COO)_2Ca \\xrightarrow{heat} [A] \\xrightarrow{Zn/HCl, \\Delta} [B]$",
+            "B": "$2^\\circ$ एवं $3^\\circ$ ऐमीनों के IUPAC नामों के साथ एक-एक उदाहरण दीजिए।",
+            "C": "निम्नलिखित अम्लों को उसके बढ़ते हुए अम्लीय शक्ति के क्रम में लिखें-"
+        }
+    }
+]
