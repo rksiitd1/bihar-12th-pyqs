@@ -12,6 +12,12 @@ def main():
     for year in years:
         input_pdf = input_folder / f"phy_{year}.pdf"
         output_json = output_folder / f"phy_{year}.json"
+        
+        # Check if output file already exists
+        if output_json.exists():
+            print(f"⏭️  Skipping {input_pdf.name} -> {output_json.name} (already processed)")
+            continue
+            
         print(f"\nProcessing {input_pdf} -> {output_json}")
         start = time.time()
         try:
