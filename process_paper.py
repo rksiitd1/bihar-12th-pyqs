@@ -47,6 +47,7 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
     1.  **JSON Structure**: The output must be a JSON array where each element is an object representing a single question.
     2.  **Required Fields for All Questions**:
         - `id`: A unique string identifier. For each question type, numbering must start from 1. For example: "obj_1", "obj_2", ... "short_1", "short_2", ... "long_1", "long_2", etc. The numbering for each type must always start at 1, regardless of their order in the paper.
+        - If two or more questions are given as alternatives (using "or"/"athva") under the same question number, represent them as `long_1_1`, `long_1_2`, etc. (or `short_5_1`, `short_5_2`, etc.) in the `id` field, where the main number is the question number and the sub-number distinguishes the alternatives.
         - `type`: The question type as a string ("objective", "short_answer", "long_answer").
         - `question`: The full English text of the question.
         - `prashna`: The full Hindi text of the question.
