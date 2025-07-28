@@ -95,7 +95,7 @@
         "question": "Sickle cell anaemia shows-",
         "prashna": "दात्र कोशिका अरक्तता प्रदर्शित करता है-",
         "options": {
-            "A": "Epistrasis",
+            "A": "Epistasis",
             "B": "Co-dominance",
             "C": "Pleiotropy",
             "D": "Incomplete dominance"
@@ -110,7 +110,7 @@
     {
         "id": "obj_7",
         "type": "objective",
-        "question": "Adaptive radiation is Australian marsupials are example of-",
+        "question": "Adaptive radiation in Australian marsupials are example of-",
         "prashna": "आस्ट्रेलिया के शिशुधानी प्राणियों के अनुकूली विकिरण इनमें से किसका उदाहरण है?",
         "options": {
             "A": "Divergent evolution",
@@ -128,7 +128,7 @@
     {
         "id": "obj_8",
         "type": "objective",
-        "question": "The trisomy of 21st chromosome causes-",
+        "question": "The trisomy of $21^{st}$ chromosome causes-",
         "prashna": "21 वें गुणसूत्र के ट्राइसोमी से कौन सी आनुवंशिक बीमारी होती है?",
         "options": {
             "A": "Klinefelter's syndrome",
@@ -165,7 +165,7 @@
         "id": "obj_10",
         "type": "objective",
         "question": "Appearance of antibiotic resistance bacteria is an example of-",
-        "prashna": "प्रतिजैविकी प्रतिरोधी जीवाणु का प्रादुर्भाव इनमें से किसका उदाहरण हैः",
+        "prashna": "प्रतिजैविकी प्रतिरोधी जीवाणु का प्रादुर्भाव इनमें से किसका उदाहरण है:",
         "options": {
             "A": "Adaptive radiation",
             "B": "Transduction",
@@ -182,7 +182,7 @@
     {
         "id": "obj_11",
         "type": "objective",
-        "question": "Which of the following is involved in transcription of tRNA, 5Sr RNA and Sn RNA of eukaryotes?",
+        "question": "Which of the following is involved in transcription of tRNA, 5S rRNA and snRNA of eukaryotes?",
         "prashna": "सुकेन्द्रकियों में टी-आर एन ए, 5एस-आर आर एन ए एवं एस एन आर एन ए के अनुलेखन में इनमें से कौन अन्तर्ग्रस्त है?",
         "options": {
             "A": "RNA Polymerase I",
@@ -191,7 +191,7 @@
             "D": "All of these"
         },
         "vikalpa": {
-            "A": "आर एन ए पालीमेराज 1",
+            "A": "आर एन ए पालीमेराज I",
             "B": "आर एन ए पालीमेराज II",
             "C": "आर एन ए पालीमेराज III",
             "D": "इनमें से सभी"
@@ -200,7 +200,7 @@
     {
         "id": "obj_12",
         "type": "objective",
-        "question": "A Child with blood group 'O' has 'B' blood group type father then the father has geno type of-",
+        "question": "A Child with blood group 'O' has 'B' blood group type father then the father has genotype of-",
         "prashna": "एक बालक का रूधिर वर्ग 'O' है तथा उसके पिता का रुधिर वर्ग 'B' है तो उसके पिता का जीन प्रारूप इनमें से कौन होगा?",
         "options": {
             "A": "$I^O I^O$",
@@ -300,8 +300,8 @@
         },
         "vikalpa": {
             "A": "हिन्द III",
-            "B": "इको आर 1",
-            "C": "बैम I",
+            "B": "इको आर I",
+            "C": "बाम I",
             "D": "ही III"
         }
     },
@@ -475,7 +475,7 @@
         "options": {
             "A": "A new kind of food allergen",
             "B": "Safe antibiotics",
-            "C": "Live microbial food supplement,",
+            "C": "Live microbial food supplement",
             "D": "Cancer inducing microbes"
         },
         "vikalpa": {
@@ -548,7 +548,7 @@
             "A": "$SO_2$, PAN and Smoke",
             "B": "Ozone, PAN and $NO_2$",
             "C": "Ozone, $SO_2$ and Hydrocarbon",
-            "D": "$SO_2, CO_2$ and Hydrocarbon"
+            "D": "$SO_2$, $CO_2$ and Hydrocarbon"
         },
         "vikalpa": {
             "A": "सल्फर डाइ आक्साइड, पैन एवं धुँआ",
@@ -563,7 +563,7 @@
         "question": "Snow blindness in human being is caused by-",
         "prashna": "मनुष्य में हिम अन्धता का मुख्य कारण इनमें से कौन से है?",
         "options": {
-            "A": "Absorption of UV. $\\beta$ radiation",
+            "A": "Absorption of UV-$\\beta$ radiation",
             "B": "Absorption of infra radiation",
             "C": "Absorption of cosmic radiation",
             "D": "Erosion of cornea by snow"
@@ -650,8 +650,20 @@
     {
         "id": "short_4",
         "type": "short_answer",
-        "question": "Define and give one example of each of the following.\n(i) False fruit\n(ii) True fruit\n(iii) Parthenogenic fruits\n(iv) Polyembryony",
-        "prashna": "निम्नांकित को परिभाषित करें तथा प्रत्येक का एक उदाहरण दें।\n(i) आभासी फल\n(ii) वास्तविक फल\n(iii) अनिषेचन जनित फल\n(iv) बहुभ्रूणता"
+        "question": "Define and give one example of each of the following.",
+        "prashna": "निम्नांकित को परिभाषित करें तथा प्रत्येक का एक उदाहरण दें।",
+        "sub_questions": {
+            "A": "(i) False fruit",
+            "B": "(ii) True fruit",
+            "C": "(iii) Parthenogenic fruits",
+            "D": "(iv) Polyembryony"
+        },
+        "anuprashna": {
+            "A": "(i) आभासी फल",
+            "B": "(ii) वास्तविक फल",
+            "C": "(iii) अनिषेचन जनित फल",
+            "D": "(iv) बहुभ्रूणता"
+        }
     },
     {
         "id": "short_5",
@@ -669,7 +681,7 @@
         "id": "short_7",
         "type": "short_answer",
         "question": "What do you mean by genetically modified organism? Describe two (2) benefits of these crops.",
-        "prashna": "आनुवंशिकतः रूपान्तरित जीव से आप क्या समझते हैं? ऐसे पौधों से होने वाले दो (2) लाभों को बतावें ।"
+        "prashna": "आनुवंशिकतः रूपान्तरित जीव से आप क्या समझते हैं? ऐसे पौधों से होने वाले दो (2) लाभों को बतावें।"
     },
     {
         "id": "short_8",
@@ -720,49 +732,49 @@
         "prashna": "ओजोन छिद्र से आपका क्या अभिप्राय है? ओजोन क्षय का मुख्य कारण क्या है?"
     },
     {
-        "id": "long_16_1",
+        "id": "long_1_1",
         "type": "long_answer",
         "question": "Discuss various methods of contraception for the regulation of population.",
         "prashna": "जनसंख्या नियंत्रण हेतु गर्भ निरोधन की विभिन्न विधियों की विवेचना करें।"
     },
     {
-        "id": "long_16_2",
+        "id": "long_1_2",
         "type": "long_answer",
         "question": "What do you mean by chromosomal disorder? Describe the cause and related abnormalities in the following genetic disorders-",
-        "prashna": "क्रोमोसोमीय (गुणसूत्रीय) विकार से आप क्या समझते हैं? निम्नांकित गुणसूत्रीय विकार के कारणों एवं संबंधित असमानता के लक्षणों को लिखेंः-",
+        "prashna": "क्रोमोसोमीय (गुणसूत्रीय) विकार से आप क्या समझते हैं? निम्नांकित गुणसूत्रीय विकार के कारणों एवं संबंधित असमानता के लक्षणों को लिखें:-",
         "sub_questions": {
-            "i": "Down's syndrome",
-            "ii": "Klinefelter's syndrome",
-            "iii": "Turner's syndrome"
+            "A": "(i) Down's syndrome",
+            "B": "(ii) Klinefelter's syndrome",
+            "C": "(iii) Turner's syndrome"
         },
         "anuprashna": {
-            "i": "डाडन सिंड्रोम",
-            "ii": "क्लाइन फेल्टर सिंड्रोम",
-            "iii": "टर्नर सिंड्रोम"
+            "A": "(i) डाउन सिंड्रोम",
+            "B": "(ii) क्लाइन फेल्टर सिंड्रोम",
+            "C": "(iii) टर्नर सिंड्रोम"
         }
     },
     {
-        "id": "long_17_1",
+        "id": "long_2_1",
         "type": "long_answer",
         "question": "What is adaptive radiation? Illustrate it giving suitable example.",
         "prashna": "अनुकूली विकिरण क्या है? उचित उदाहरण देकर समझायें।"
     },
     {
-        "id": "long_17_2",
+        "id": "long_2_2",
         "type": "long_answer",
         "question": "What is Biotechnology? Describe the application of Biotechnology in Medicines.",
         "prashna": "जैव प्रौद्योगिकी क्या है? चिकित्सा के क्षेत्र में इसकी उपयोगिता पर प्रकाश डालें।"
     },
     {
-        "id": "long_18_1",
+        "id": "long_3_1",
         "type": "long_answer",
-        "question": "What is Aquired Immuno Deficiency Syndrome? Give an account of its pathogen, transmission, etiology, diagnosis and remedy. Suggest measures for its prevention.",
-        "prashna": "उपार्जित प्रतिरक्षा न्यूनता संलक्षण (एड्स) क्या है? इसके रोगाणुकारक, प्रसारण रोगात्मक परीक्षण, रोगलक्षण एवं उपचार पर एक विवरणी प्रस्तुत करें। एड्स के रोकथाम हेतु उपाय लिखें। ($1+2+2=5$)"
+        "question": "What is Acquired Immuno Deficiency Syndrome? Give an account of its pathogen, transmission, etiology, diagnosis and remedy. Suggest measures for its prevention.",
+        "prashna": "उपार्जित प्रतिरक्षा न्यूनता संलक्षण (एड्स) क्या है? इसके रोगाणुकारक, प्रसारण रोगात्मक परीक्षण, रोगलक्षण एवं उपचार पर एक विवरणी प्रस्तुत करें। एड्स के रोकथाम हेतु उपाय लिखें।"
     },
     {
-        "id": "long_18_2",
+        "id": "long_3_2",
         "type": "long_answer",
         "question": "What do you mean by Biodiversity? What is the importance of species Biodiversity in Ecosystem. Describe main reasons for depletion of Biodiversity.",
-        "prashna": "जैव विविधता से आपका क्या अभिप्राय है? जातीय विविधता का परितंत्र में क्या महत्व है? जैव विविधता की क्षति के मुख्य कारणों पर प्रकाश डालें। ($1+1+3=5$)"
+        "prashna": "जैव विविधता से आपका क्या अभिप्राय है? जातीय विविधता का परितंत्र में क्या महत्व है? जैव विविधता की क्षति के मुख्य कारणों पर प्रकाश डालें।"
     }
 ]
