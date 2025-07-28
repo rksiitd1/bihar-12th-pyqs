@@ -1,0 +1,774 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The electric field at a point near an infinite thin sheet of charged conductor is:",
+        "prashna": "चालक पदार्थ से बने असीमित आवेशित पतली चादर की सतह के निकट स्थित किसी बिन्दु पर विद्युतीय क्षेत्र का मान होता है:",
+        "options": {
+            "A": "$\\epsilon_0 \\sigma$",
+            "B": "$\\frac{\\sigma}{\\epsilon_0}$",
+            "C": "$\\frac{\\sigma}{2\\epsilon_0}$",
+            "D": "$\\frac{1}{2} \\sigma \\epsilon_0$"
+        },
+        "vikalpa": {
+            "A": "$\\epsilon_0 \\sigma$",
+            "B": "$\\frac{\\sigma}{\\epsilon_0}$",
+            "C": "$\\frac{\\sigma}{2\\epsilon_0}$",
+            "D": "$\\frac{1}{2} \\sigma \\epsilon_0$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Two capacitors $C_1=2\\mu F$ and $C_2=4\\mu F$ are connected in series and a potential difference (p.d.) of 1200V is applied across it. The Potential difference across $2\\mu F$ will be:",
+        "prashna": "$C_1=2\\mu F$ तथा $C_2=4\\mu F$ के दो संधारित्रों को श्रेणीक्रम में जोड़ा जाता है और उनके सिरों के बीच 1200 वोल्ट (V) का विभवान्तर आरोपित किया जाता है। $2\\mu F$ वाले संधारित्र के सिरों के बीच का विभवान्तर होगा:",
+        "options": {
+            "A": "400V",
+            "B": "600V",
+            "C": "800V",
+            "D": "900V"
+        },
+        "vikalpa": {
+            "A": "400V",
+            "B": "600V",
+            "C": "800V",
+            "D": "900V"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "In the figure, if net force on Q is zero then value of $\\frac{Q}{q}$ is:",
+        "prashna": "दिए गये चित्र में, यदि आवेश Q पर कुल प्रभावी बल शून्य है, तो $\\frac{Q}{q}$ का मान है:",
+        "options": {
+            "A": "$\\sqrt{2}$",
+            "B": "$2\\sqrt{2}$",
+            "C": "$\\frac{1}{2\\sqrt{2}}$",
+            "D": "$\\frac{1}{\\sqrt{2}}$"
+        },
+        "vikalpa": {
+            "A": "$\\sqrt{2}$",
+            "B": "$2\\sqrt{2}$",
+            "C": "$\\frac{1}{2\\sqrt{2}}$",
+            "D": "$\\frac{1}{\\sqrt{2}}$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "When a body is charged, its mass-",
+        "prashna": "जब किसी वस्तु को आवेशित किया जाता है, तो उसका द्रव्यमान -",
+        "options": {
+            "A": "increases",
+            "B": "decreases",
+            "C": "remains same",
+            "D": "may increase or decrease"
+        },
+        "vikalpa": {
+            "A": "बढ़ता है",
+            "B": "घटता है",
+            "C": "अचर रहता है",
+            "D": "बढ़ या घट सकता है"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The electric potential due to a small electric dipole at a large distance r from the center of the dipole is proportional to:",
+        "prashna": "किसी सूक्ष्म विद्युत द्विध्रुव के मध्य बिन्दु से बहुत दूर 'r' दूरी पर विद्युत विभव समानुपाती होता है:",
+        "options": {
+            "A": "$r$",
+            "B": "$\\frac{1}{r}$",
+            "C": "$\\frac{1}{r^2}$",
+            "D": "$\\frac{1}{r^3}$"
+        },
+        "vikalpa": {
+            "A": "$r$",
+            "B": "$\\frac{1}{r}$",
+            "C": "$\\frac{1}{r^2}$",
+            "D": "$\\frac{1}{r^3}$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Minimum number of capacitors of $2\\mu F$ each required to obtain a capacitance of $5\\mu F$ will be:",
+        "prashna": "प्रभावी धारिता $5\\mu F$ को प्राप्त करने के लिए सिर्फ $2\\mu F$ के कम-से-कम कितने संधारित्र की आवश्यकता होगी?",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "5",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "3",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The specific resistance of a conductor increases with:",
+        "prashna": "किसी चालक का विशिष्ट प्रतिरोध बढ़ता है:",
+        "options": {
+            "A": "increase of temperature",
+            "B": "increase of cross-sectional area",
+            "C": "decrease in length",
+            "D": "decrease of cross-sectional area"
+        },
+        "vikalpa": {
+            "A": "तापमान बढ़ने से",
+            "B": "अनुप्रस्थ काट क्षेत्रफल बढ़ने से",
+            "C": "लम्बाई घटने से",
+            "D": "अनुप्रस्थ काट क्षेत्रफल घटने से"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The Drift velocity ($v_d$) and applied electric field (E) of a conductor are related as:",
+        "prashna": "किसी चालक के संवहन वेग ($v_d$) तथा आरोपित विद्युत क्षेत्र (E) के बीच सम्बन्ध है:",
+        "options": {
+            "A": "$v_d \\propto \\sqrt{E}$",
+            "B": "$v_d \\propto E$",
+            "C": "$v_d \\propto E^2$",
+            "D": "$v_d$ = Constant"
+        },
+        "vikalpa": {
+            "A": "$v_d \\propto \\sqrt{E}$",
+            "B": "$v_d \\propto E$",
+            "C": "$v_d \\propto E^2$",
+            "D": "$v_d$ = नियतांक"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "A charge 'q' moves in a region where electric field 'E' and magnetic field 'B' both exist, then force on it is:",
+        "prashna": "एक आवेश 'q', विद्युत क्षेत्र 'E' तथा चुम्बकीय क्षेत्र 'B' की संयुक्त उपस्थिति में गतिमान हो तो, उस पर लगने वाला बल होगा:",
+        "options": {
+            "A": "$q(\\vec{v} \\times \\vec{B})$",
+            "B": "$q\\vec{E}$",
+            "C": "$q\\{\\vec{E}+(\\vec{v} \\times \\vec{B})\\}$",
+            "D": "$q\\{\\vec{B}+(\\vec{v} \\times \\vec{E})\\}$"
+        },
+        "vikalpa": {
+            "A": "$q(\\vec{v} \\times \\vec{B})$",
+            "B": "$q\\vec{E}$",
+            "C": "$q\\{\\vec{E}+(\\vec{v} \\times \\vec{B})\\}$",
+            "D": "$q\\{\\vec{B}+(\\vec{v} \\times \\vec{E})\\}$"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "A bar magnet of magnetic moment M is cut into two parts of equal length. The magnetic moment of either part is:",
+        "prashna": "M चुम्बकीय आघूर्ण वाले छड़ चुम्बक को दो समान टुकड़ों में तोड़ा जाता है तो प्रत्येक नये टुकड़े का चुम्बकीय आघूर्ण है:",
+        "options": {
+            "A": "M",
+            "B": "M/2",
+            "C": "2M",
+            "D": "Zero"
+        },
+        "vikalpa": {
+            "A": "M",
+            "B": "M/2",
+            "C": "2M",
+            "D": "शून्य"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "The dimensional formula for $\\frac{1}{2} \\epsilon_0 E^2$ is identical to that of:",
+        "prashna": "$\\frac{1}{2} \\epsilon_0 E^2$ के विमीय सूत्र के समतुल्य विमा की राशि है:",
+        "options": {
+            "A": "$\\frac{B^2}{2\\mu_0}$",
+            "B": "$\\frac{1}{2}B^2\\mu_0$",
+            "C": "$\\frac{\\mu_0^2}{2B}$",
+            "D": "$\\frac{1}{2}B\\mu_0^2$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{B^2}{2\\mu_0}$",
+            "B": "$\\frac{1}{2}B^2\\mu_0$",
+            "C": "$\\frac{\\mu_0^2}{2B}$",
+            "D": "$\\frac{1}{2}B\\mu_0^2$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "A circular coil of radius R carries a current I. The magnetic field at its center is B. At what distance from the center, on the axis of the coil, the magnetic field will be B/8:",
+        "prashna": "एक वृत्ताकार लूप की त्रिज्या R है, जिसमें I धारा प्रवाहित हो रही है, तथा जिसके केन्द्र पर चुम्बकीय क्षेत्र B है। वृत्त के अक्ष पर उसके केन्द्र से कितनी दूरी पर चुम्बकीय क्षेत्र का मान B/8 होगा:",
+        "options": {
+            "A": "$\\sqrt{2}R$",
+            "B": "2R",
+            "C": "$\\sqrt{3}R$",
+            "D": "3R"
+        },
+        "vikalpa": {
+            "A": "$\\sqrt{2}R$",
+            "B": "2R",
+            "C": "$\\sqrt{3}R$",
+            "D": "3R"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Magnetic dipole moment is a vector quantity directed from:",
+        "prashna": "चुम्बकीय द्विध्रुव आघूर्ण एक सदिश राशि है, जो निर्दिष्ट होती है:",
+        "options": {
+            "A": "South to North Pole",
+            "B": "North to South Pole",
+            "C": "East to West direction",
+            "D": "West to East direction"
+        },
+        "vikalpa": {
+            "A": "दक्षिण से उत्तर ध्रुव",
+            "B": "उत्तर से दक्षिण ध्रुव",
+            "C": "पूरब से पश्चिम दिशा",
+            "D": "पश्चिम से पूरब दिशा"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "A wire of magnetic dipole moment M and L is bent into shape of a semicircle of radius r. What will be its new dipole moment?",
+        "prashna": "एक तार जिसका चुम्बकीय द्विध्रुव आघूर्ण M तथा लम्बाई L है, को त्रिज्या r के अर्धवृत्त के आकार में मोड़ा जाता है। नया द्विध्रुव आघूर्ण क्या होगा?",
+        "options": {
+            "A": "M",
+            "B": "$\\frac{M}{2\\pi}$",
+            "C": "$\\frac{M}{\\pi}$",
+            "D": "$\\frac{2M}{\\pi}$"
+        },
+        "vikalpa": {
+            "A": "M",
+            "B": "$\\frac{M}{2\\pi}$",
+            "C": "$\\frac{M}{\\pi}$",
+            "D": "$\\frac{2M}{\\pi}$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "In a closed circuit of resistance $10\\Omega$, the linked flux varies with time according to relation $\\phi = 6t^2 - 5t + 1$. At t = 0.25 second, the current (in Ampere) flowing through the circuit is:",
+        "prashna": "किसी बन्द परिपथ का प्रतिरोध 10 ओम है। इस परिपथ से t समय (सेकेण्ड) में, चुम्बकीय फ्लक्स (वेबर में) $\\phi = 6t^2 - 5t + 1$ से परिवर्तित होता है। t = 0.25 सेकेण्ड पर परिपथ में प्रवाहित धारा (एम्पियर में) होगी:",
+        "options": {
+            "A": "0.4",
+            "B": "0.2",
+            "C": "2.0",
+            "D": "4.0"
+        },
+        "vikalpa": {
+            "A": "0.4",
+            "B": "0.2",
+            "C": "2.0",
+            "D": "4.0"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "In A.C. circuit, the current and voltage are given by $i = 5 \\cos(\\omega t)$, and $V = 200 \\sin(\\omega t)$ respectively. Power loss in the circuit is:",
+        "prashna": "किसी प्रत्यावर्ती परिपथ में धारा $i = 5 \\cos(\\omega t)$ एम्पियर तथा विभव $V = 200 \\sin(\\omega t)$ वोल्ट है। परिपथ में शक्ति हानि है:",
+        "options": {
+            "A": "20W",
+            "B": "40W",
+            "C": "1000W",
+            "D": "zero"
+        },
+        "vikalpa": {
+            "A": "20W",
+            "B": "40W",
+            "C": "1000W",
+            "D": "शून्य"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The energy of an electromagnetic radiation is 13.2keV. This radiation is related to which region of spectrum?",
+        "prashna": "किसी विद्युत चुम्बकीय विकिरण की ऊर्जा 13.2keV है। यह विकिरण जिस क्षेत्र से संबंधित है, वह है:",
+        "options": {
+            "A": "Visible",
+            "B": "X-rays",
+            "C": "Ultra violet",
+            "D": "Infrared"
+        },
+        "vikalpa": {
+            "A": "दृश्य प्रकाश",
+            "B": "X - किरण",
+            "C": "पराबैगनी",
+            "D": "अवरक्त"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "The image formed by objective lens of a compound Microscope is -",
+        "prashna": "एक संयुक्त सूक्ष्मदर्शी के अभिदृश्यक लेंस से बना प्रतिबिम्ब -",
+        "options": {
+            "A": "Virtual and diminished",
+            "B": "Real and diminished",
+            "C": "Real and large",
+            "D": "Virtual and Large"
+        },
+        "vikalpa": {
+            "A": "काल्पनिक व छोटा",
+            "B": "वास्तविक व छोटा",
+            "C": "वास्तविक व बड़ा",
+            "D": "काल्पनिक व बड़ा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "A convex lens is dipped in a liquid, whose refractive index is equal to refractive index of material of lens. Then its focal length will -",
+        "prashna": "एक उत्तल लेंस को ऐसे द्रव में डुबाया जाता है, जिसका अपवर्तनांक लेंस के पदार्थ के अपवर्तनांक के बराबर हो, तो लेंस की फोकस दूरी -",
+        "options": {
+            "A": "become zero",
+            "B": "become infinite",
+            "C": "decrease",
+            "D": "increase"
+        },
+        "vikalpa": {
+            "A": "शून्य हो जाएगी",
+            "B": "अनन्त होगी",
+            "C": "घट जाएगी",
+            "D": "बढ़ जाएगी"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Critical angle for light moving from medium I to medium II is $\\theta$. The speed of light in medium I is v. Then speed in medium II is -",
+        "prashna": "माध्यम I से माध्यम II को जाने वाली प्रकाश पुंज के लिए क्रांतिक कोण $\\theta$ है। प्रकाश का वेग माध्यम I में v है, तो प्रकाश का वेग माध्यम II में होगा",
+        "options": {
+            "A": "$v(1-\\cos{\\theta})$",
+            "B": "$\\frac{v}{\\sin{\\theta}}$",
+            "C": "$\\frac{v}{\\cos{\\theta}}$",
+            "D": "$v(1-\\sin{\\theta})$"
+        },
+        "vikalpa": {
+            "A": "$v(1-\\cos{\\theta})$",
+            "B": "$\\frac{v}{\\sin{\\theta}}$",
+            "C": "$\\frac{v}{\\cos{\\theta}}$",
+            "D": "$v(1-\\sin{\\theta})$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "A magnifying glass is to be used at the fixed object distance of 1 inch. If it is to produce an erect image 5 times magnified, its focal length should be-",
+        "prashna": "एक सूक्ष्मदर्शी को 1 इंच की दूरी पर अवस्थित वस्तु के लिए उपयोग किया जाता है। यदि m = 5 (आवर्धन क्षमता 5 गुणा) करनी है, तो प्रयुक्त लेंस की फोकस दूरी होनी चाहिए-",
+        "options": {
+            "A": "0.2\"",
+            "B": "0.8\"",
+            "C": "1.25\"",
+            "D": "5\""
+        },
+        "vikalpa": {
+            "A": "0.2\"",
+            "B": "0.8\"",
+            "C": "1.25\"",
+            "D": "5\""
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "To remove hypermetropia lens used is -",
+        "prashna": "दूर दृष्टिदोष को दूर करने के लिए प्रयुक्त लेंस होता है -",
+        "options": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Cylindrical",
+            "D": "Plano-convex"
+        },
+        "vikalpa": {
+            "A": "उत्तल",
+            "B": "अवतल",
+            "C": "बेलनाकार",
+            "D": "समतल-उत्तल"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which of the following phenomena takes place when a monochromatic light is incident on a prism?",
+        "prashna": "किसी प्रिज्म पर एकवर्णी प्रकाश के आपतित होने पर निम्न में से कौन सी घटना होती है?",
+        "options": {
+            "A": "Dispersion",
+            "B": "Deviation",
+            "C": "Interference",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "वर्ण-विक्षेपण",
+            "B": "विचलन",
+            "C": "व्यतिकरण",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Optical fiber communication is based on which of the following phenomena -",
+        "prashna": "प्रकाश तंतु संचार निम्न में से किस घटना पर आधारित है?",
+        "options": {
+            "A": "Total Internal reflection",
+            "B": "Scattering",
+            "C": "Reflection",
+            "D": "Interference"
+        },
+        "vikalpa": {
+            "A": "पूर्ण आन्तरिक परावर्तन",
+            "B": "प्रकीर्णन",
+            "C": "परावर्तन",
+            "D": "व्यतिकरण"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "The value of maximum amplitude produced due to interference of two waves is given by - $y_1 = 4 \\sin(\\omega t)$ and $y_2= 3 \\cos(\\omega t)$",
+        "prashna": "दो उन तरंगों के व्यतिकरण से उत्पन्न अधिकतम परिणामी आयाम का मान होगा, जिसे प्रकट किया जाता है - $y_1 = 4 \\sin(\\omega t)$ और $y_2= 3 \\cos(\\omega t)$",
+        "options": {
+            "A": "7",
+            "B": "5",
+            "C": "1",
+            "D": "25"
+        },
+        "vikalpa": {
+            "A": "7",
+            "B": "5",
+            "C": "1",
+            "D": "25"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "The phase difference $\\phi$ is related to Path difference $\\Delta x$ by -",
+        "prashna": "तरंग का कलान्तर $\\phi$ का पथान्तर $\\Delta x$ से सम्बद्ध है -",
+        "options": {
+            "A": "$\\frac{\\lambda}{\\pi} \\phi$",
+            "B": "$\\frac{\\pi}{\\lambda} \\phi$",
+            "C": "$\\frac{\\lambda}{2\\pi} \\phi$",
+            "D": "$\\frac{2\\pi}{\\lambda} \\phi$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\lambda}{\\pi} \\phi$",
+            "B": "$\\frac{\\pi}{\\lambda} \\phi$",
+            "C": "$\\frac{\\lambda}{2\\pi} \\phi$",
+            "D": "$\\frac{2\\pi}{\\lambda} \\phi$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "The resolving power of human eye (in minute) is.",
+        "prashna": "मानव नेत्र की विभेदन क्षमता (मिनट में) होती है",
+        "options": {
+            "A": "$\\frac{1}{60}$",
+            "B": "1",
+            "C": "10",
+            "D": "$\\frac{1}{2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{60}$",
+            "B": "1",
+            "C": "10",
+            "D": "$\\frac{1}{2}$"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "A particle of mass m and charged q is accelerated through a potential V. The De-Broglie wavelength of the particle will be-",
+        "prashna": "किसी m द्रव्यमान तथा q आवेश के कण को V विभव द्वारा त्वरित किया जाता है। कण की दे-ब्रॉग्ली तरंगदैर्ध्य होगी -",
+        "options": {
+            "A": "$\\frac{Vh}{\\sqrt{2qm}}$",
+            "B": "$\\frac{q}{\\sqrt{2mV}}$",
+            "C": "$\\frac{h}{\\sqrt{2qmV}}$",
+            "D": "$\\frac{mh}{\\sqrt{2qV}}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{Vh}{\\sqrt{2qm}}$",
+            "B": "$\\frac{q}{\\sqrt{2mV}}$",
+            "C": "$\\frac{h}{\\sqrt{2qmV}}$",
+            "D": "$\\frac{mh}{\\sqrt{2qV}}$"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "The number of Photons of frequency $10^{14}$ Hz in radiation of 6.62J will be -",
+        "prashna": "$10^{14}$ Hz आवृत्ति की 6.62J विकिर्ण ऊर्जा में फोटॉन्स की संख्या होगी -",
+        "options": {
+            "A": "$10^{10}$",
+            "B": "$10^{15}$",
+            "C": "$10^{20}$",
+            "D": "$10^{25}$"
+        },
+        "vikalpa": {
+            "A": "$10^{10}$",
+            "B": "$10^{15}$",
+            "C": "$10^{20}$",
+            "D": "$10^{25}$"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "The minimum angular momentum of electron in Hydrogen atom will be -",
+        "prashna": "हाइड्रोजन परमाणु में इलेक्ट्रॉन का न्यूनतम कोणीय संवेग होगा -",
+        "options": {
+            "A": "$\\frac{h}{\\pi} Js$",
+            "B": "$\\frac{h}{2\\pi} Js$",
+            "C": "$h\\pi Js$",
+            "D": "$2\\pi h Js$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{h}{\\pi} Js$",
+            "B": "$\\frac{h}{2\\pi} Js$",
+            "C": "$h\\pi Js$",
+            "D": "$2\\pi h Js$"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "The atomic number and mass number for a specimen are Z and A respectively. The number of neutrons in the atom will be -",
+        "prashna": "किसी नमूना का परमाणु क्रमांक Z तथा द्रव्यमान संख्या A है। इसके परमाणु में न्यूट्रॉन्स की संख्या होगी-",
+        "options": {
+            "A": "A",
+            "B": "Z",
+            "C": "A+Z",
+            "D": "A-Z"
+        },
+        "vikalpa": {
+            "A": "A",
+            "B": "Z",
+            "C": "A+Z",
+            "D": "A-Z"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "The quantities, which remain conserved in a nuclear reaction-",
+        "prashna": "नाभिकीय अभिक्रिया में संरक्षित भौतिक राशियाँ हैं-",
+        "options": {
+            "A": "Total Charge",
+            "B": "Angular momentum",
+            "C": "Linear momentum",
+            "D": "All the above"
+        },
+        "vikalpa": {
+            "A": "कुल आवेश",
+            "B": "रेखीय संवेग",
+            "C": "कोणीय संवेग",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Meaning of \"FAX\" is -",
+        "prashna": "\"फैक्स\" (FAX) का अर्थ है -",
+        "options": {
+            "A": "Full Access Transmission",
+            "B": "Facsimile Telegraphy",
+            "C": "Factual Auto Access",
+            "D": "Feed Auto Exchange"
+        },
+        "vikalpa": {
+            "A": "फुल एक्सेस ट्रांसमिशन",
+            "B": "फैक्सीमाइल टेलीग्राफी",
+            "C": "फैक्चुअल ऑटो एक्सेस",
+            "D": "फीड ऑटो एक्सचेंज"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "A semiconductor is cooled from $T_1$K to $T_2$K, then its resistance will -",
+        "prashna": "एक अर्धचालक को $T_1$K से $T_2$K ताप पर ठंडा किया जाता है तो इसका प्रतिरोध -",
+        "options": {
+            "A": "increase",
+            "B": "decrease",
+            "C": "remain constant",
+            "D": "First decrease then increase"
+        },
+        "vikalpa": {
+            "A": "बढ़ेगा",
+            "B": "घटेगा",
+            "C": "नियत रहेगा",
+            "D": "पहले घटेगा फिर बढ़ेगा"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "If the current constant for a transistor are $\\alpha$ & $\\beta$ then -",
+        "prashna": "यदि ट्रांजिस्टर के धारा नियतांक $\\alpha$ तथा $\\beta$ हैं तो-",
+        "options": {
+            "A": "$\\alpha\\beta = 1$",
+            "B": "$\\beta > 1, \\alpha < 1$",
+            "C": "$\\alpha = \\beta$",
+            "D": "$\\beta < 1, \\alpha > 1$"
+        },
+        "vikalpa": {
+            "A": "$\\alpha\\beta = 1$",
+            "B": "$\\beta > 1, \\alpha < 1$",
+            "C": "$\\alpha = \\beta$",
+            "D": "$\\beta < 1, \\alpha > 1$"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "This question has two parts:",
+        "prashna": "इस प्रश्न के दो भाग हैं:",
+        "sub_questions": {
+            "A": "Write down unit and dimension of permittivity of free space.",
+            "B": "A Gaussian surface contains three charges ($-q$), ($+2q$) and ($-q$). Evaluate net electric flux through the surface."
+        },
+        "anuprashna": {
+            "A": "मुक्त आकाश की विद्युतशीलता का मात्रक तथा विमीय सूत्र लिखें।",
+            "B": "किसी गाउसीय पृष्ठ में ($-q$), ($+2q$) तथा ($-q$) आवेश हैं। पृष्ठ में से परिणामी विद्युत फ्लक्स की गणना करें।"
+        }
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "The side of an equilateral triangle is 20 cm. Two equal point chargers $(+)3nC$ are placed at its two corners. What will be the amount of work done in bringing a $(+)1nC$ test charge from infinity to third corner of the triangle.",
+        "prashna": "किसी समबाहु त्रिभुज की भुजा 20 से.मी. है। इसके दो कोणों पर $(+)3$ नैनो कूलॉम के समान बिन्दु आवेश रखे हैं। किसी $(+)1$ नैनो कूलॉम के परीक्षण आवेश को अनन्त दूरी से त्रिभुज के तीसरे कोने तक लाने में किया गया कार्य कितना होगा?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Atmosphere is not electrically neutral. Explain why?",
+        "prashna": "वायुमंडल वैद्युत उदासीन नहीं होता है समझाइए क्यों?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Evaluate the capacitance of a parallel plate capacitor, having parallel plates of area $6cm^2$ placed at a separation of 2mm. Consider air between plates as a dielectric medium. If the capacitor is connected to 200V power supply. What will be the charge on each plate?",
+        "prashna": "6 से.मी.² क्षेत्रफल के प्लेटों को 2 मि.मी. की दूरी पर रखने से बने समानान्तर प्लेट संधारित्र की धारिता की गणना करें। वायु को परावैद्युत माध्यम के रूप में प्रयुक्त माना जाये। यदि इस संधारित्र को 200V सप्लाई से जोड़ दिया जाये तो संधारित्र के प्रत्येक प्लेट पर कितना आवेश होगा?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Four $12\\Omega$ resistances are connected in parallel. Three such combinations are connected in series. What will be the total resistance?",
+        "prashna": "$12$ ओम के चार प्रतिरोधकों को समानान्तर क्रम में जोड़ा जाता है। इस प्रकार के तीन संयोजनों को श्रेणी क्रम में जोड़ा जाता है। कुल प्रतिरोध कितना होगा?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Using theory of drift velocity, express Ohm's law.",
+        "prashna": "संवहन वेग के सिद्धान्त का प्रयोग करते हुए ओम का नियम व्युत्पन्न करें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "An electron moving through a field remains undeflected. Is it possible that there is no magnetic field. Explain",
+        "prashna": "किसी क्षेत्र से गुजरता हुआ एक इलेक्ट्रॉन विक्षेपित नहीं होता है, क्या यह सम्भव हो सकता है कि वहाँ कोई चुम्बकीय क्षेत्र नहीं हो? समझाइए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "At a place Horizontal Component of Earth's magnetic field is $\\sqrt{3}$ times its Vertical Component value. What is the value of 'Angle of Dip' at that place?",
+        "prashna": "किसी स्थान पर पृथ्वी के चुम्बकीय क्षेत्र के क्षैतिज घटक का मान उदग्र घटक के मान का $\\sqrt{3}$ गुणा है। उस स्थान पर 'नमन कोण' का मान क्या होगा?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What are Eddy currents? Give its two uses.",
+        "prashna": "भँवर धाराएँ क्या हैं? इनके दो अनुप्रयोग दीजिए।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "When a magnet is moved towards a suspended wire loop as shown in figure then evaluate the direction of induced current in loop. State the law used by you for this evaluation.",
+        "prashna": "जब कोई चुम्बक चित्र में दर्शाए अनुसार किसी तार के लूप की ओर गति करता है, तो लूप में प्रेरित धारा की दिशा बताइये तथा आपके द्वारा उपयोग किये गए नियम को लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "A fish is at a depth of $\\sqrt{7}$ cm and it can see only through a circular section of water surface. What will be radii of this circular surface? The refractive index of water with respect to air is $4/3$. Sketch the diagram also.",
+        "prashna": "एक मछली पानी के अन्दर $\\sqrt{7}$ से.मी. गहराई पर तैर रही है। मछली पानी के बाहर केवल एक वृत्ताकार भाग से देख सकती है। इस वृत्ताकार भाग की त्रिज्या कितनी होगी? वायु के सापेक्ष पानी का अपवर्तनांक $4/3$ है। चित्र में दर्शाएँ।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Why Red Signals are used as danger sign? Explain.",
+        "prashna": "खतरे का संकेत लाल क्यों होता है? समझाएँ।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "A small pin is fixed on a table and it is viewed from a distance of 50 cm from above. A glass slab of thickness 15cm is placed just above the pin, parallel to surface of table, then image of this pin will be viewed at what height? Draw the sketch also. (Refractive index of Glass is $= 3/2$)",
+        "prashna": "एक छोटी पिन को मेज पर स्थापित किया जाता है। तथा इसको 50 से.मी. की दूरी से ऊपर से देखा जाता है। यदि पिन के ऊपर 15 से.मी. मोटाई का काँच का गुटका रख दिया जाये तो पिन का प्रतिबिम्ब अब कितना ऊपर दिखाई देगा? (जबकि गुटके को मेज के समानान्तर साधा गया हो) काँच का अपवर्तनांक = $3/2$ । चित्र में दर्शाएँ।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "A radio active nucleus 'A' undergoes a series of decays as per following scheme $A \\xrightarrow{\\alpha} A_1 \\xrightarrow{\\beta} A_2$. The atomic number and Mass number of Nuclei 'A' are 92 and 238 respectively then what are these numbers for $A_2$.",
+        "prashna": "एक रेडियोसक्रिय नाभिक निम्न ढंग से क्रमानुसार क्षय करता है: $A \\xrightarrow{\\alpha} A_1 \\xrightarrow{\\beta} A_2$. यदि नाभिक A के लिए परमाणु संख्या 92 व द्रव्यमान संख्या 238 हो तो नाभिक $A_2$ के लिए इन संख्याओं का मान क्या होगा।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Draw the circuit diagram to explain the working of a full wave p-n junction rectifier.",
+        "prashna": "किसी p-n सन्धि का पूर्ण-तरंग-दिष्टकारी के रूप में वर्णन हेतु परिपथ चित्र खींचें।"
+    },
+    {
+        "id": "long_16_1",
+        "type": "long_answer",
+        "question": "Define capacitance of a capacitor. Derive expression for stored energy between plates of parallel plate capacitor. Show that energy-density between plates of the capacitor can be expressed as $\\frac{1}{2} \\epsilon_0 E^2$, when E = Electric field between plates.",
+        "prashna": "किसी संधारित्र की धारिता को परिभाषित कीजिए। किसी समानान्तर प्लेट संधारित्र में संचित ऊर्जा के लिए व्यंजक स्थापित कीजिए। दिखाएँ कि संधारित्र में संचित ऊर्जा का घनत्व $\\frac{1}{2} \\epsilon_0 E^2$ होता है, जहाँ E= प्लेटों के बीच का विद्युत-क्षेत्र है।"
+    },
+    {
+        "id": "long_16_2",
+        "type": "long_answer",
+        "question": "In the given figure, find the equivalent capacitance between P and Q. The circuit is a Wheatstone bridge with arms $C_1, C_3, C_4, C_5$ and bridge capacitor $C_2$. If $C_1=C_3=C_4=C_5=4\\mu F$ and $C_2 = 10\\mu F$.",
+        "prashna": "दिये गये चित्र मे P तथा Q के बीच समतुल्य धारिता ज्ञात कीजिए। यदि $C_1=C_3=C_4=C_5=4\\mu F$ और $C_2 = 10\\mu F$।"
+    },
+    {
+        "id": "long_17_1",
+        "type": "long_answer",
+        "question": "Explain Huygen's principle of secondary wavelets and on the basis of this principle establish the law of Refraction 'OR' reflection.",
+        "prashna": "हाईगेंस के द्वितीयक तरंगिकाएँ सिद्धान्त की व्याख्या करे तथा इसकी मदद से अपवर्तन 'या' परावर्तन के नियमों को स्थापित करें।"
+    },
+    {
+        "id": "long_17_2",
+        "type": "long_answer",
+        "question": "This question has two parts:",
+        "prashna": "इस प्रश्न के दो भाग हैं:",
+        "sub_questions": {
+            "A": "Two thin convex lenses of focal length 15cm and 30cm are placed in contact. What will be power of the combination?",
+            "B": "A glass Prism ($\\mu_g = 1.66$) of Angle of Prism 72°, is placed in Water ($\\mu_w = 1.33$). Calculate the value of minimum deviation produced by Prism for parallel incident ray."
+        },
+        "anuprashna": {
+            "A": "15 से.मी. और 30 से.मी फोकस-दूरी के दो पतले उत्तल लेंसों को एक-दूसरे के सम्पर्क में रखा जाता है। संयोजित तन्त्र की शक्ति क्या होगी?",
+            "B": "काँच के एक प्रिज्म का कोण 72° तथा अपवर्तनांक 1.66 है। इसे 1.33 अपवर्तनांक के द्रव में डुबाया जाता है। प्रिज्म से गुजरने वाले समानान्तर पुंज के लिए न्यूनतम विचलन का मान ज्ञात करें।"
+        }
+    },
+    {
+        "id": "long_18_1",
+        "type": "long_answer",
+        "question": "What are Energy Bands? How are these formed? Distinguish between Conductors, Semiconductors and Insulators on the basis of Formation of these bands.",
+        "prashna": "ऊर्जा पट्टी क्या हैं? ये कैसे बनती हैं? चालक, अर्धचालक तथा अचालक को ऊर्जा पट्टियों की संरचना के आधार पर स्पष्ट कीजिए।"
+    },
+    {
+        "id": "long_18_2",
+        "type": "long_answer",
+        "question": "For a nuclear reaction $A+b \\rightarrow C+d$, the Q-value is defined as $Q = (m_A + m_b - m_C - m_d)c^2$. A radioactive nuclei $^{11}_6C$ decays in following way $^{11}_6C \\rightarrow ^{11}_5B + e^+ + \\nu$; $T_{1/2}=20.3$ minutes. The maximum energy emitted by positron is 0.960 MeV. Following values are given: $m(^{11}_6C) = 11.011434u$, $m(^{11}_5B) = 11.009305u$, $m_e = 0.000548u$. Evaluate Q-value of this reaction and compare it with maximum Energy Emitted by Positron.",
+        "prashna": "किसी नाभिकीय क्रिया $A+b \\rightarrow C+d$ का 'Q' मान निम्नवत् परिभाषित है $Q = (m_A + m_b - m_C - m_d)c^2$. रेडियोएक्टिव न्यूक्लाइड $^{11}_6C$ का क्षय निम्नवत् होता है $^{11}_6C \\rightarrow ^{11}_5B + e^+ + \\nu$; $T_{1/2}=20.3$ मिनट। पोजिट्रॉन द्वारा उत्सर्जित महत्तम ऊर्जा 0.960 MeV है। प्रदत्त मात्रा मान निम्नवत् हैं: $m(^{11}_6C) = 11.011434u$, $m(^{11}_5B) = 11.009305u$, $m_e = 0.000548u$. Q के मान की गणना करते हुए इसकी तुलना पोजिट्रॉन से उत्सर्जित महत्तम ऊर्जा से कीजिए।"
+    }
+]
