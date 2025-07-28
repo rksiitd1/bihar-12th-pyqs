@@ -56,7 +56,7 @@
     {
         "id": "obj_4",
         "type": "objective",
-        "question": "Which one is applicable for screening test of AIDS ?",
+        "question": "Which one is applicable for screening test of AIDS?",
         "prashna": "एड्स के लिए इनमें से कौन जाँच उपयुक्त है ?",
         "options": {
             "A": "PCR",
@@ -236,7 +236,7 @@
     {
         "id": "obj_14",
         "type": "objective",
-        "question": "Fossil bird Archaeopteryx evolved during which period ?",
+        "question": "Fossil bird Archaeopteryx evolved during which period?",
         "prashna": "आरकियोप्टेरिक्स किस काल में पाया जाने वाला जीवाश्म पक्षी था?",
         "options": {
             "A": "Jurassic period",
@@ -308,7 +308,7 @@
     {
         "id": "obj_18",
         "type": "objective",
-        "question": "In which female animal, oestrus cycle does not occur ?",
+        "question": "In which female animal, oestrus cycle does not occur?",
         "prashna": "किस मादा जंतु में मद चक्र नहीं होता है ?",
         "options": {
             "A": "Cow",
@@ -668,13 +668,13 @@
     {
         "id": "obj_38",
         "type": "objective",
-        "question": "Green house gases absorb which of the following ?",
+        "question": "Green house gases absorb which of the following?",
         "prashna": "ग्रीन हाउस (हरित घर) गैसें क्या सोखती है?",
         "options": {
             "A": "Infrared radiations",
             "B": "Ultraviolet radiations",
             "C": "Both A and B",
-            "D": "Y-ray radiation"
+            "D": "Gamma rays"
         },
         "vikalpa": {
             "A": "अवरक्त विकिरण",
@@ -750,7 +750,7 @@
         },
         "vikalpa": {
             "A": "अपरा में",
-            "B": "14वें दिन",
+            "B": "$14^{वें}$ दिन",
             "C": "अण्डाशय में",
             "D": "दोनों B तथा C"
         }
@@ -824,8 +824,20 @@
     {
         "id": "short_12",
         "type": "short_answer",
-        "question": "Write the short notes on any two of the followings :-\n A. National Park\n B. Sanctuary\n C. Biosphere reserve\n D. Sacred groove",
-        "prashna": "निम्नांकित किन्हीं दो पर उदाहरण सहित टिप्पणी लिखें।\n A. राष्ट्रीय पशु\n B. पशुविहार\n C. सुरक्षित जैवमंडल\n D. पवित्र उपवन"
+        "question": "Write the short notes on any two of the followings :-",
+        "prashna": "निम्नांकित किन्हीं दो पर उदाहरण सहित टिप्पणी लिखें।",
+        "sub_questions": {
+            "A": "National Park",
+            "B": "Sanctuary",
+            "C": "Biosphere reserve",
+            "D": "Sacred groove"
+        },
+        "anuprashna": {
+            "A": "राष्ट्रीय उद्यान",
+            "B": "पशुविहार",
+            "C": "सुरक्षित जैवमंडल",
+            "D": "पवित्र उपवन"
+        }
     },
     {
         "id": "short_13",
@@ -836,8 +848,16 @@
     {
         "id": "short_14",
         "type": "short_answer",
-        "question": "Write in brief on the followings with the help of suitable examples.\n A. Biofertilizer\n B. Antibiotics",
-        "prashna": "निम्नांकित पर उदाहरण सहित संक्षेप में लिखें :-\n A. जैविक खाद\n B. प्रतिजैविक"
+        "question": "Write in brief on the followings with the help of suitable examples.",
+        "prashna": "निम्नांकित पर उदाहरण सहित संक्षेप में लिखें :-",
+        "sub_questions": {
+            "A": "Biofertilizer",
+            "B": "Antibiotics"
+        },
+        "anuprashna": {
+            "A": "जैविक खाद",
+            "B": "प्रतिजैविक"
+        }
     },
     {
         "id": "short_15",
@@ -854,20 +874,44 @@
     {
         "id": "short_17",
         "type": "short_answer",
-        "question": "Write short notes on any two of the followings in brief :-\n A. Vital index\n B. Reproductive potential\n C. Population-Pathogen relationship\n D. Producer-Consumer realtionship",
-        "prashna": "निम्नांकित किन्हीं दो पर संक्षेप में लिखें :-\n A. वाइटल इन्डेक्स\n B. प्रजनन सामर्थ्य\n C. आबादी-रोगजनक संबंध\n D. उत्पादक-उपभोक्ता संबंध"
+        "question": "Write short notes on any two of the followings in brief :-",
+        "prashna": "निम्नांकित किन्हीं दो पर संक्षेप में लिखें :-",
+        "sub_questions": {
+            "A": "Vital index",
+            "B": "Reproductive potential",
+            "C": "Population-Pathogen relationship",
+            "D": "Producer-Consumer realtionship"
+        },
+        "anuprashna": {
+            "A": "वाइटल इन्डेक्स",
+            "B": "प्रजनन सामर्थ्य",
+            "C": "आबादी-रोगजनक संबंध",
+            "D": "उत्पादक-उपभोक्ता संबंध"
+        }
     },
     {
         "id": "short_18",
         "type": "short_answer",
-        "question": "Define any two of the followings :\n A. Trophic level\n B. Ecological Pyramid\n C. Tissue culture\n D. Embryo culture",
-        "prashna": "निम्नांकित किन्हीं दो को परिभाषित करें :-\n A. पोषी स्तर\n B. पारिस्थितिक पिरामिड\n C. उत्तक संवर्धन\n D. भ्रूण संवर्धन"
+        "question": "Define any two of the followings :",
+        "prashna": "निम्नांकित किन्हीं दो को परिभाषित करें :-",
+        "sub_questions": {
+            "A": "Trophic level",
+            "B": "Ecological Pyramid",
+            "C": "Tissue culture",
+            "D": "Embryo culture"
+        },
+        "anuprashna": {
+            "A": "पोषी स्तर",
+            "B": "पारिस्थितिक पिरामिड",
+            "C": "उत्तक संवर्धन",
+            "D": "भ्रूण संवर्धन"
+        }
     },
     {
-        "id": "long_19",
+        "id": "long_1",
         "type": "long_answer",
-        "question": "What do you understand by Chromosomal aberrations?\nExplain the followings -",
-        "prashna": "गुणसुत्रीय विपथन से क्या समझते हैं ?\nनिम्नांकित को समझायें",
+        "question": "What do you understand by Chromosomal aberrations? Explain the followings -",
+        "prashna": "गुणसुत्रीय विपथन से क्या समझते हैं ? निम्नांकित को समझायें",
         "sub_questions": {
             "A": "Deletion",
             "B": "Duplication",
@@ -880,7 +924,7 @@
         }
     },
     {
-        "id": "long_20",
+        "id": "long_2",
         "type": "long_answer",
         "question": "Answer the following questions :-",
         "prashna": "निम्नांकित प्रश्नों के उत्तर दें :-",
@@ -896,7 +940,7 @@
         }
     },
     {
-        "id": "long_21",
+        "id": "long_3",
         "type": "long_answer",
         "question": "Distinguish between the followings :-",
         "prashna": "निम्नलिखित में अंतर स्पष्ट करें।",
@@ -910,7 +954,7 @@
         }
     },
     {
-        "id": "long_22",
+        "id": "long_4",
         "type": "long_answer",
         "question": "Describe any two of the followings :-",
         "prashna": "निम्नांकित में किन्हीं दो का वर्णन करें :-",
@@ -926,7 +970,7 @@
         }
     },
     {
-        "id": "long_23",
+        "id": "long_5",
         "type": "long_answer",
         "question": "Show the following with the help of diagram only.",
         "prashna": "निम्नलिखित को केवल चित्र द्वारा दर्शाएँ :-",
@@ -940,7 +984,7 @@
         }
     },
     {
-        "id": "long_24",
+        "id": "long_6",
         "type": "long_answer",
         "question": "Describe any two of the followings :-",
         "prashna": "निम्नांकित में किन्हीं दो का वर्णन करें",
