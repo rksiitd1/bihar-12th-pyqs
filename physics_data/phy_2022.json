@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The expression for real average power in an alternating current circuit is",
+        "prashna": "प्रत्यावर्ती धारा परिपथ में यथार्थ माध्य शक्ति का व्यंजक होता है",
+        "options": {
+            "A": "$P_{av} = E_{rms} \\cos\\phi$",
+            "B": "$P_{av} = I_{rms} \\cos\\phi$",
+            "C": "$P_{av} = E_{rms} I_{rms} \\sin\\phi$",
+            "D": "$P_{av} = E_{rms} I_{rms} \\cos\\phi$"
+        },
+        "vikalpa": {
+            "A": "$P_{av} = E_{rms} \\cos\\phi$",
+            "B": "$P_{av} = I_{rms} \\cos\\phi$",
+            "C": "$P_{av} = E_{rms} I_{rms} \\sin\\phi$",
+            "D": "$P_{av} = E_{rms} I_{rms} \\cos\\phi$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Power factor is equal to",
+        "prashna": "शक्ति गुणांक के बराबर होता है",
+        "options": {
+            "A": "$R/Z$",
+            "B": "$Z/R$",
+            "C": "$R.Z$",
+            "D": "$\\omega.L$"
+        },
+        "vikalpa": {
+            "A": "$R/Z$",
+            "B": "$Z/R$",
+            "C": "$R.Z$",
+            "D": "$\\omega.L$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Phase difference in (L-R) circuit is",
+        "prashna": "(L R) परिपथ में कलांतर होता है",
+        "options": {
+            "A": "$\\sin^{-1}(\\frac{\\omega L}{R})$",
+            "B": "$\\cos^{-1}(\\frac{\\omega L}{R})$",
+            "C": "$\\tan^{-1}(\\frac{\\omega L}{R})$",
+            "D": "$\\tan^{-1}(\\frac{R}{\\omega L})$"
+        },
+        "vikalpa": {
+            "A": "$\\sin^{-1}(\\frac{\\omega L}{R})$",
+            "B": "$\\cos^{-1}(\\frac{\\omega L}{R})$",
+            "C": "$\\tan^{-1}(\\frac{\\omega L}{R})$",
+            "D": "$\\tan^{-1}(\\frac{R}{\\omega L})$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Transformation ratio in transformer is",
+        "prashna": "ट्रांसफॉर्मर में परिणमन अनुपात होता है",
+        "options": {
+            "A": "$V_s / V_p$",
+            "B": "$V_p / V_s$",
+            "C": "$1 / (V_s \\cdot V_p)$",
+            "D": "$1 / (I_s \\cdot I_p)$"
+        },
+        "vikalpa": {
+            "A": "$V_s / V_p$",
+            "B": "$V_p / V_s$",
+            "C": "$1 / (V_s \\cdot V_p)$",
+            "D": "$1 / (I_s \\cdot I_p)$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Dimensional formula of R.C. is",
+        "prashna": "R.C. का विमीय सूत्र होता है",
+        "options": {
+            "A": "$M^0L^0T^{-1}$",
+            "B": "$M^0L^0T^{-2}$",
+            "C": "$M^0L^0T^0$",
+            "D": "$M^0L^0T$"
+        },
+        "vikalpa": {
+            "A": "$M^0L^0T^{-1}$",
+            "B": "$M^0L^0T^{-2}$",
+            "C": "$M^0L^0T^0$",
+            "D": "$M^0L^0T$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "S.I. unit of pole strength is",
+        "prashna": "ध्रुव प्राबल्य का S.I. मात्रक होता है",
+        "options": {
+            "A": "$Am^{-1}$",
+            "B": "$Am^{-2}$",
+            "C": "Am",
+            "D": "Fm"
+        },
+        "vikalpa": {
+            "A": "$Am^{-1}$",
+            "B": "$Am^{-2}$",
+            "C": "Am",
+            "D": "Fm"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Work done in the deflection of a magnet in a uniform magnetic field is",
+        "prashna": "एकसमान चुम्बकीय क्षेत्र में चुम्बक के विक्षेपण में किया गया कार्य होता है",
+        "options": {
+            "A": "$W = MB(1 - \\sin\\theta)$",
+            "B": "$W = MB \\sin\\theta$",
+            "C": "$W = MB(1 - \\cos\\theta)$",
+            "D": "$W = MB \\cos\\theta$"
+        },
+        "vikalpa": {
+            "A": "$W = MB(1 - \\sin\\theta)$",
+            "B": "$W = MB \\sin\\theta$",
+            "C": "$W = MB(1 - \\cos\\theta)$",
+            "D": "$W = MB \\cos\\theta$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following relations is correct for mass and energy?",
+        "prashna": "निम्नलिखित में कौन संबंध द्रव्यमान और ऊर्जा के लिए सही है?",
+        "options": {
+            "A": "$m = E$",
+            "B": "$m^2 = E$",
+            "C": "$mc^2 = E$",
+            "D": "$m = \\frac{\\sqrt{E}}{2}$"
+        },
+        "vikalpa": {
+            "A": "$m = E$",
+            "B": "$m^2 = E$",
+            "C": "$mc^2 = E$",
+            "D": "$m = \\frac{\\sqrt{E}}{2}$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Binary number of decimal number $(8)_{10}$ is",
+        "prashna": "दशमिक संख्या $(8)_{10}$ की द्विआधारी संख्या होती है",
+        "options": {
+            "A": "$(1000)_2$",
+            "B": "$(1001)_2$",
+            "C": "$(111)_2$",
+            "D": "$(110)_2$"
+        },
+        "vikalpa": {
+            "A": "$(1000)_2$",
+            "B": "$(1001)_2$",
+            "C": "$(111)_2$",
+            "D": "$(110)_2$"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Symbol of NAND gate is",
+        "prashna": "NAND गेट का संकेत होता है",
+        "options": {
+            "A": "AND gate symbol",
+            "B": "OR gate symbol",
+            "C": "NOT gate symbol",
+            "D": "NAND gate symbol"
+        },
+        "vikalpa": {
+            "A": "AND गेट का प्रतीक",
+            "B": "OR गेट का प्रतीक",
+            "C": "NOT गेट का प्रतीक",
+            "D": "NAND गेट का प्रतीक"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "The relation between half-life time $T_{1/2}$ and decay constant is",
+        "prashna": "अर्द्ध-आयु काल $T_{1/2}$ एवं क्षय नियतांक में सम्बन्ध होता है",
+        "options": {
+            "A": "$T_{1/2} = 0.693/\\lambda$",
+            "B": "$T_{1/2} = \\lambda/0.693$",
+            "C": "$T_{1/2} = 0.693\\lambda$",
+            "D": "$T_{1/2} = 0.693\\lambda^2$"
+        },
+        "vikalpa": {
+            "A": "$T_{1/2} = 0.693/\\lambda$",
+            "B": "$T_{1/2} = \\lambda/0.693$",
+            "C": "$T_{1/2} = 0.693\\lambda$",
+            "D": "$T_{1/2} = 0.693\\lambda^2$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which of the following is correct for $\\alpha$-particle ?",
+        "prashna": "निम्नलिखित में कौन $\\alpha$-कण के लिए सही है ?",
+        "options": {
+            "A": "electron",
+            "B": "electromagnetic radiation",
+            "C": "helium nucleus",
+            "D": "hydrogen nucleus"
+        },
+        "vikalpa": {
+            "A": "इलेक्ट्रॉन",
+            "B": "विद्युत-चुम्बकीय विकिरण",
+            "C": "हीलियम नाभिक",
+            "D": "हाइड्रोजन नाभिक"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Which of the following equations is correct ?",
+        "prashna": "निम्नलिखित में कौन समीकरण सही है ?",
+        "options": {
+            "A": "$^{238}_{92}U \\rightarrow ^{234}_{90}U + ^4_2He$",
+            "B": "$^{238}_{92}U \\rightarrow ^{234}_{90}Th + ^4_2He$",
+            "C": "$^{238}_{92}U \\rightarrow ^{239}_{90}Th + ^4_2He$",
+            "D": "$^{238}_{92}U \\rightarrow ^{242}_{90}Th + ^4_2He$"
+        },
+        "vikalpa": {
+            "A": "$^{238}_{92}U \\rightarrow ^{234}_{90}U + ^4_2He$",
+            "B": "$^{238}_{92}U \\rightarrow ^{234}_{90}Th + ^4_2He$",
+            "C": "$^{238}_{92}U \\rightarrow ^{239}_{90}Th + ^4_2He$",
+            "D": "$^{238}_{92}U \\rightarrow ^{242}_{90}Th + ^4_2He$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following is the correct vector form of the equation of Biot-Savart law ?",
+        "prashna": "निम्नलिखित में कौन बायो-सावर्ट नियम के सदिश समीकरण का सही रूप है ?",
+        "options": {
+            "A": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\hat{r})}{r^2}$",
+            "B": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\hat{l})}{r^2}$",
+            "C": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\vec{r})}{r^3}$",
+            "D": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I \\hat{r}}{r^2}$"
+        },
+        "vikalpa": {
+            "A": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\hat{r})}{r^2}$",
+            "B": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l})}{r^2}$",
+            "C": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\vec{r})}{r^3}$",
+            "D": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I \\hat{r}}{r^2}$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Intensity of electric field at a point is",
+        "prashna": "किसी बिन्दु पर विद्युत-क्षेत्र की तीव्रता होती है",
+        "options": {
+            "A": "$E = Fq$",
+            "B": "$E = F/q$",
+            "C": "$E = \\frac{1}{2}Fq$",
+            "D": "$E = q/F$"
+        },
+        "vikalpa": {
+            "A": "$E = Fq$",
+            "B": "$E = F/q$",
+            "C": "$E = \\frac{1}{2}Fq$",
+            "D": "$E = q/F$"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Surface density of charge is",
+        "prashna": "आवेश का पृष्ठ-घनत्व होता है",
+        "options": {
+            "A": "$\\sigma = Q/A$",
+            "B": "$\\sigma = Q/l$",
+            "C": "$\\sigma = Q/V$",
+            "D": "$\\sigma = Q \\cdot A$"
+        },
+        "vikalpa": {
+            "A": "$\\sigma = Q/A$",
+            "B": "$\\sigma = Q/l$",
+            "C": "$\\sigma = Q/V$",
+            "D": "$\\sigma = Q \\cdot A$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Capacity of spherical condenser is",
+        "prashna": "गोलीय संधारित्र की धारिता होती है",
+        "options": {
+            "A": "$C = 4\\pi\\epsilon_0 \\left( \\frac{rR}{r-R} \\right)$",
+            "B": "$C = 4\\pi\\epsilon_0 \\left( \\frac{rR}{r+R} \\right)$",
+            "C": "$C = 4\\pi\\epsilon_0 \\left( \\frac{r^2R}{r-R} \\right)$",
+            "D": "$C = 4\\pi\\epsilon_0 \\left( \\frac{rR^2}{r-R} \\right)$"
+        },
+        "vikalpa": {
+            "A": "$C = 4\\pi\\epsilon_0 \\left( \\frac{rR}{r-R} \\right)$",
+            "B": "$C = 4\\pi\\epsilon_0 \\left( \\frac{rR}{r+R} \\right)$",
+            "C": "$C = 4\\pi\\epsilon_0 \\left( \\frac{r^2R}{r-R} \\right)$",
+            "D": "$C = 4\\pi\\epsilon_0 \\left( \\frac{rR^2}{r-R} \\right)$"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "$_1\\mu_2$ is equal to",
+        "prashna": "$_1\\mu_2$ के बराबर होता है",
+        "options": {
+            "A": "$\\mu_2 / \\mu_1$",
+            "B": "$\\mu_1 / \\mu_2$",
+            "C": "$\\mu_2 \\cdot \\mu_1$",
+            "D": "$1 / (\\mu_1 \\mu_2)$"
+        },
+        "vikalpa": {
+            "A": "$\\mu_2 / \\mu_1$",
+            "B": "$\\mu_1 / \\mu_2$",
+            "C": "$\\mu_2 \\cdot \\mu_1$",
+            "D": "$1 / (\\mu_1 \\mu_2)$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Image formed on retina is",
+        "prashna": "रेटिना पर बनने वाला प्रतिबिंब होता है",
+        "options": {
+            "A": "real and erect",
+            "B": "real and inverted",
+            "C": "virtual and erect",
+            "D": "virtual and inverted"
+        },
+        "vikalpa": {
+            "A": "वास्तविक एवं सीधा",
+            "B": "वास्तविक एवं उलटा",
+            "C": "काल्पनिक एवं सीधा",
+            "D": "काल्पनिक एवं उलटा"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "The magnification power of Astronomical Telescope is",
+        "prashna": "खगोलीय दूरबीन की आवर्द्धन क्षमता होती है",
+        "options": {
+            "A": "$f_o / f_e$",
+            "B": "$-f_o / f_e$",
+            "C": "$-f_e / f_o$",
+            "D": "$f_e / f_o$"
+        },
+        "vikalpa": {
+            "A": "$f_o / f_e$",
+            "B": "$-f_o / f_e$",
+            "C": "$-f_e / f_o$",
+            "D": "$f_e / f_o$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Which of the following is the cause of formation of rainbow?",
+        "prashna": "निम्नलिखित में कौन इंद्रधनुष के निर्माण का कारण होता है ?",
+        "options": {
+            "A": "Scattering",
+            "B": "Diffraction",
+            "C": "Dispersion",
+            "D": "Refraction"
+        },
+        "vikalpa": {
+            "A": "प्रकीर्णन",
+            "B": "विवर्तन",
+            "C": "वर्ण-विक्षेपण",
+            "D": "अपवर्तन"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Which of the following is not electromagnetic wave?",
+        "prashna": "निम्नलिखित में कौन विद्युत-चुम्बकीय तरंग नहीं है ?",
+        "options": {
+            "A": "Light waves",
+            "B": "X-rays",
+            "C": "Sound waves",
+            "D": "Infrared rays"
+        },
+        "vikalpa": {
+            "A": "प्रकाश तरंगें",
+            "B": "X-किरणें",
+            "C": "ध्वनि तरंगें",
+            "D": "अवरक्त किरणें"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Critical angle for transparent medium diamond is",
+        "prashna": "पारदर्शी माध्यम हीरा के लिए क्रांतिक कोण होता है",
+        "options": {
+            "A": "$48.75^\\circ$",
+            "B": "$41.14^\\circ$",
+            "C": "$37.31^\\circ$",
+            "D": "$24.41^\\circ$"
+        },
+        "vikalpa": {
+            "A": "$48.75^\\circ$",
+            "B": "$41.14^\\circ$",
+            "C": "$37.31^\\circ$",
+            "D": "$24.41^\\circ$"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Energy of photon is equal to",
+        "prashna": "फोटॉन की ऊर्जा बराबर होता है",
+        "options": {
+            "A": "$h\\nu$",
+            "B": "$h/\\nu$",
+            "C": "$\\sqrt{h\\nu}$",
+            "D": "$\\sqrt{h/\\nu}$"
+        },
+        "vikalpa": {
+            "A": "$h\\nu$",
+            "B": "$h/\\nu$",
+            "C": "$\\sqrt{h\\nu}$",
+            "D": "$\\sqrt{h/\\nu}$"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Intensity of a magnetising field (H) is equal to",
+        "prashna": "चुम्बकन क्षेत्र की तीव्रता (H) के बराबर होता है",
+        "options": {
+            "A": "$B_0 / \\mu_0$",
+            "B": "$\\mu_0 / B_0$",
+            "C": "$B_0\\mu_0$",
+            "D": "$\\sqrt{B_0\\mu_0}$"
+        },
+        "vikalpa": {
+            "A": "$B_0 / \\mu_0$",
+            "B": "$\\mu_0 / B_0$",
+            "C": "$B_0\\mu_0$",
+            "D": "$\\sqrt{B_0\\mu_0}$"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which of the following is correct for step-up transformer ?",
+        "prashna": "निम्नलिखित में कौन उच्चायी ट्रान्सफॉर्मर के लिए सही है ?",
+        "options": {
+            "A": "$V_s < V_p$",
+            "B": "$V_s > V_p$",
+            "C": "$V_s = V_p$",
+            "D": "$V_s << V_p$"
+        },
+        "vikalpa": {
+            "A": "$V_s < V_p$",
+            "B": "$V_s > V_p$",
+            "C": "$V_s = V_p$",
+            "D": "$V_s << V_p$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Inductive reactance for direct current is",
+        "prashna": "दिष्ट धारा के लिए प्रेरणिक प्रतिघात होता है",
+        "options": {
+            "A": "zero",
+            "B": "infinity",
+            "C": "$\\omega L$",
+            "D": "$1/(\\omega L)$"
+        },
+        "vikalpa": {
+            "A": "शून्य",
+            "B": "अनन्त",
+            "C": "$\\omega L$",
+            "D": "$1/(\\omega L)$"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Electromagnetic moment of current carrying coil is",
+        "prashna": "धारावाही कुंडली का विद्युत-चुम्बकीय आघूर्ण होता है",
+        "options": {
+            "A": "$NI\\vec{A}$",
+            "B": "$N\\vec{A}/I$",
+            "C": "$N / (I\\vec{A})$",
+            "D": "$I\\vec{A}/N$"
+        },
+        "vikalpa": {
+            "A": "$NI\\vec{A}$",
+            "B": "$N\\vec{A}/I$",
+            "C": "$N / (I\\vec{A})$",
+            "D": "$I\\vec{A}/N$"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "The S.I. unit of electric intensity is",
+        "prashna": "विद्युत तीव्रता का S.I. मात्रक है",
+        "options": {
+            "A": "NC",
+            "B": "N/C",
+            "C": "$N.C^2$",
+            "D": "$N/C^2$"
+        },
+        "vikalpa": {
+            "A": "NC",
+            "B": "N/C",
+            "C": "$N.C^2$",
+            "D": "$N/C^2$"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Which of the following is correct for current density ?",
+        "prashna": "निम्नलिखित में धारा-घनत्व के लिए कौन सही है ?",
+        "options": {
+            "A": "$J = I \\cdot A$",
+            "B": "$J = I/A$",
+            "C": "$J = A/I$",
+            "D": "$J = I^2A$"
+        },
+        "vikalpa": {
+            "A": "$J = I \\cdot A$",
+            "B": "$J = I/A$",
+            "C": "$J = A/I$",
+            "D": "$J = I^2A$"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Which of the following is correct for mobility ?",
+        "prashna": "निम्नलिखित में गतिशीलता के लिए कौन सही है ?",
+        "options": {
+            "A": "$\\mu = V_d / E$",
+            "B": "$\\mu = E / V_d$",
+            "C": "$\\mu = V_d \\cdot E$",
+            "D": "$\\mu = E^2 \\cdot V_d$"
+        },
+        "vikalpa": {
+            "A": "$\\mu = V_d / E$",
+            "B": "$\\mu = E / V_d$",
+            "C": "$\\mu = V_d \\cdot E$",
+            "D": "$\\mu = E^2 \\cdot V_d$"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Which of the following is correct ?",
+        "prashna": "निम्नलिखित में कौन सही है ?",
+        "options": {
+            "A": "1 watt = 1 $Js^{-1}$",
+            "B": "1 watt = 1 $Vs^{-1}$",
+            "C": "1 watt = 1 $sV^{-1}$",
+            "D": "1 watt = 1 $Fs^{-1}$"
+        },
+        "vikalpa": {
+            "A": "1 वाट = 1 $Js^{-1}$",
+            "B": "1 वाट = 1 $Vs^{-1}$",
+            "C": "1 वाट = 1 $sV^{-1}$",
+            "D": "1 वाट = 1 $Fs^{-1}$"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Colour code of carbon resistance for blue colour is",
+        "prashna": "नीला रंग के लिए कार्बन प्रतिरोध का कलर कोड होता है",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Ampere-hour is the unit of",
+        "prashna": "एम्पियर-घंटा मात्रक होता है",
+        "options": {
+            "A": "power",
+            "B": "charge",
+            "C": "energy",
+            "D": "potential difference"
+        },
+        "vikalpa": {
+            "A": "शक्ति का",
+            "B": "आवेश का",
+            "C": "ऊर्जा का",
+            "D": "विभवान्तर का"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Which of the following is correct for Lorentz force ?",
+        "prashna": "निम्नलिखित में लॉरेंट्ज बल के लिए कौन सही है ?",
+        "options": {
+            "A": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$",
+            "B": "$\\vec{F} = q(\\vec{E} + \\vec{V})$",
+            "C": "$\\vec{F} = (\\vec{E} + \\vec{v} \\times \\vec{B})$",
+            "D": "$\\vec{F} = q(\\vec{E} + \\vec{B} \\times \\vec{v})$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$",
+            "B": "$\\vec{F} = q(\\vec{E} + \\vec{V})$",
+            "C": "$\\vec{F} = (\\vec{E} + \\vec{v} \\times \\vec{B})$",
+            "D": "$\\vec{F} = q(\\vec{E} + \\vec{B} \\times \\vec{v})$"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "The focal length of a lens of capacity 4 dioptre is",
+        "prashna": "4 डायोप्टर क्षमता वाले लेंस की फोकस दूरी होती है",
+        "options": {
+            "A": "0.25 m",
+            "B": "0.25 cm",
+            "C": "0.35 m",
+            "D": "0.35 cm"
+        },
+        "vikalpa": {
+            "A": "0.25 m",
+            "B": "0.25 cm",
+            "C": "0.35 m",
+            "D": "0.35 cm"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which of the following is correct for dispersive power ?",
+        "prashna": "निम्नलिखित में कौन वर्ण-विक्षेपण क्षमता के लिए सही है ?",
+        "options": {
+            "A": "$\\omega = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$",
+            "B": "$\\omega = \\frac{\\mu_r - \\mu_v}{\\mu_y - 1}$",
+            "C": "$\\omega = \\frac{\\mu_y - 1}{\\mu_v - \\mu_r}$",
+            "D": "$\\omega = \\frac{\\mu_y - 1}{\\mu_r - \\mu_v}$"
+        },
+        "vikalpa": {
+            "A": "$\\omega = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$",
+            "B": "$\\omega = \\frac{\\mu_r - \\mu_v}{\\mu_y - 1}$",
+            "C": "$\\omega = \\frac{\\mu_y - 1}{\\mu_v - \\mu_r}$",
+            "D": "$\\omega = \\frac{\\mu_y - 1}{\\mu_r - \\mu_v}$"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "If the focal length of a glass lens ($\\mu = 3/2$) in air is $f_a$ and in water ($\\mu = 4/3$) is $f_w$ then",
+        "prashna": "यदि काँच के एक लेन्स ($\\mu=3/2$) की हवा में फोकस दूरी $f_a$ हो और पानी ($\\mu=4/3$) में $f_w$ हो तो",
+        "options": {
+            "A": "$f_w = f_a$",
+            "B": "$f_w = 2f_a$",
+            "C": "$f_w = 3f_a$",
+            "D": "$f_w = 4f_a$"
+        },
+        "vikalpa": {
+            "A": "$f_w = f_a$",
+            "B": "$f_w = 2f_a$",
+            "C": "$f_w = 3f_a$",
+            "D": "$f_w = 4f_a$"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Which of the following relations is correct for intensity of scattered light (I) and wavelength of light ($\\lambda$) ?",
+        "prashna": "निम्नलिखित में कौन संबंध प्रकीर्णित प्रकाश की तीव्रता (I) और प्रकाश के तरंगदैर्ध्य ($\\lambda$) के लिए सही है ?",
+        "options": {
+            "A": "$I \\propto 1/\\lambda$",
+            "B": "$I \\propto 1/\\lambda^2$",
+            "C": "$I \\propto 1/\\lambda^3$",
+            "D": "$I \\propto 1/\\lambda^4$"
+        },
+        "vikalpa": {
+            "A": "$I \\propto 1/\\lambda$",
+            "B": "$I \\propto 1/\\lambda^2$",
+            "C": "$I \\propto 1/\\lambda^3$",
+            "D": "$I \\propto 1/\\lambda^4$"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following is correct for charge on an electron ?",
+        "prashna": "निम्नलिखित में कौन इलेक्ट्रॉन पर आवेश के लिए सही है ?",
+        "options": {
+            "A": "$e = 1.602 \\times 10^{-16} C$",
+            "B": "$e = 1.602 \\times 10^{-17} C$",
+            "C": "$e = 1.602 \\times 10^{-18} C$",
+            "D": "$e = 1.602 \\times 10^{-19} C$"
+        },
+        "vikalpa": {
+            "A": "$e = 1.602 \\times 10^{-16} C$",
+            "B": "$e = 1.602 \\times 10^{-17} C$",
+            "C": "$e = 1.602 \\times 10^{-18} C$",
+            "D": "$e = 1.602 \\times 10^{-19} C$"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which of the following is the work-function of sodium ?",
+        "prashna": "निम्नलिखित में कौन सोडियम का कार्य-फलन होता है ?",
+        "options": {
+            "A": "$\\phi_0 = 2.55 \\text{ eV}$",
+            "B": "$\\phi_0 = 2.65 \\text{ eV}$",
+            "C": "$\\phi_0 = 2.75 \\text{ eV}$",
+            "D": "$\\phi_0 = 2.85 \\text{ eV}$"
+        },
+        "vikalpa": {
+            "A": "$\\phi_0 = 2.55 \\text{ eV}$",
+            "B": "$\\phi_0 = 2.65 \\text{ eV}$",
+            "C": "$\\phi_0 = 2.75 \\text{ eV}$",
+            "D": "$\\phi_0 = 2.85 \\text{ eV}$"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Number of neutrons in nucleus is",
+        "prashna": "नाभिक में न्यूट्रॉनों की संख्या होती है",
+        "options": {
+            "A": "A+Z",
+            "B": "A-Z",
+            "C": "$Z + A/2$",
+            "D": "Z"
+        },
+        "vikalpa": {
+            "A": "A+Z",
+            "B": "A-Z",
+            "C": "$Z + A/2$",
+            "D": "Z"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which of the following is correct for short magnet ?",
+        "prashna": "निम्नलिखित में छोटे चुम्बक के लिए कौन सही है ?",
+        "options": {
+            "A": "$(B)_{axial} = (B)_{equatorial}$",
+            "B": "$(B)_{axial} = 2(B)_{equatorial}$",
+            "C": "$(B)_{equatorial} = 2(B)_{axial}$",
+            "D": "$(B)_{axial} = 3(B)_{equatorial}$"
+        },
+        "vikalpa": {
+            "A": "$(B)_{अक्षीय} = (B)_{निरक्षीय}$",
+            "B": "$(B)_{अक्षीय} = 2(B)_{निरक्षीय}$",
+            "C": "$(B)_{निरक्षीय} = 2(B)_{अक्षीय}$",
+            "D": "$(B)_{अक्षीय} = 3(B)_{निरक्षीय}$"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Expression for the time-period of a magnet oscillating in a uniform magnetic field is",
+        "prashna": "एकसमान चुम्बकीय क्षेत्र में दोलनशील चुम्बक के आवर्तकाल का व्यंजक होता है",
+        "options": {
+            "A": "$T = 2\\pi\\sqrt{\\frac{I}{B_H}}$",
+            "B": "$T = 2\\pi\\sqrt{\\frac{I}{MB_H}}$",
+            "C": "$T = 2\\pi\\sqrt{\\frac{MB_H}{I}}$",
+            "D": "$T = 2\\pi\\sqrt{MB_H}$"
+        },
+        "vikalpa": {
+            "A": "$T = 2\\pi\\sqrt{\\frac{I}{B_H}}$",
+            "B": "$T = 2\\pi\\sqrt{\\frac{I}{MB_H}}$",
+            "C": "$T = 2\\pi\\sqrt{\\frac{MB_H}{I}}$",
+            "D": "$T = 2\\pi\\sqrt{MB_H}$"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Which of the following relations is correct for earth's magnetic field ($B_H$) and frequency of magnetic needle (n) ?",
+        "prashna": "निम्नलिखित में कौन सम्बन्ध पृथ्वी के चुम्बकीय क्षेत्र ($B_H$) और चुम्बकीय सूई की आवृत्ति (n) के लिए सही है ?",
+        "options": {
+            "A": "$n^2 \\propto B_H$",
+            "B": "$n \\propto B_H$",
+            "C": "$n \\propto B_H^2$",
+            "D": "$n^2 \\propto \\frac{1}{B_H}$"
+        },
+        "vikalpa": {
+            "A": "$n^2 \\propto B_H$",
+            "B": "$n \\propto B_H$",
+            "C": "$n \\propto B_H^2$",
+            "D": "$n^2 \\propto \\frac{1}{B_H}$"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Which of the following is correct for tangent law ?",
+        "prashna": "निम्नलिखित में कौन टैंजेंट नियम के लिए सही है ?",
+        "options": {
+            "A": "$B = B_H \\tan\\theta$",
+            "B": "$B = B_H^2 \\tan\\theta$",
+            "C": "$B = \\sqrt{B_H \\tan\\theta}$",
+            "D": "$B = B_H \\tan^2\\theta$"
+        },
+        "vikalpa": {
+            "A": "$B = B_H \\tan\\theta$",
+            "B": "$B = B_H^2 \\tan\\theta$",
+            "C": "$B = \\sqrt{B_H \\tan\\theta}$",
+            "D": "$B = B_H \\tan^2\\theta$"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Relative permeability is equal to",
+        "prashna": "आपेक्षिक चुम्बकशीलता बराबर होता है",
+        "options": {
+            "A": "$\\mu_r = \\mu / \\mu_0$",
+            "B": "$\\mu_r = \\mu_0 / \\mu$",
+            "C": "$\\mu_r = \\mu \\cdot \\mu_0$",
+            "D": "$\\sqrt{\\mu_0\\mu} = \\mu_r$"
+        },
+        "vikalpa": {
+            "A": "$\\mu_r = \\mu / \\mu_0$",
+            "B": "$\\mu_r = \\mu_0 / \\mu$",
+            "C": "$\\mu_r = \\mu \\cdot \\mu_0$",
+            "D": "$\\sqrt{\\mu_0\\mu} = \\mu_r$"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Which of the following relations is correct?",
+        "prashna": "निम्नलिखित में कौन सम्बन्ध सही है।",
+        "options": {
+            "A": "$B^2 = B_H^2 + B_V^2$",
+            "B": "$B^2 = B_H^2 - B_V^2$",
+            "C": "$B^2 = B_V^2 - B_H^2$",
+            "D": "$B = B_V / B_H$"
+        },
+        "vikalpa": {
+            "A": "$B^2 = B_H^2 + B_V^2$",
+            "B": "$B^2 = B_H^2 - B_V^2$",
+            "C": "$B^2 = B_V^2 - B_H^2$",
+            "D": "$B = B_V / B_H$"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Which of the following is correct for speed of electromagnetic wave in vacuum ?",
+        "prashna": "निम्नलिखित में कौन निर्वात में विद्युत चुम्बकीय तरंग की चाल के लिए सही है ?",
+        "options": {
+            "A": "$c = \\sqrt{\\mu_0 \\epsilon_0}$",
+            "B": "$c = \\frac{1}{\\sqrt{\\mu_0 \\epsilon_0}}$",
+            "C": "$c = \\sqrt{\\frac{\\mu_0}{\\epsilon_0}}$",
+            "D": "$c = \\sqrt{\\frac{\\epsilon_0}{\\mu_0}}$"
+        },
+        "vikalpa": {
+            "A": "$c = \\sqrt{\\mu_0 \\epsilon_0}$",
+            "B": "$c = \\frac{1}{\\sqrt{\\mu_0 \\epsilon_0}}$",
+            "C": "$c = \\sqrt{\\frac{\\mu_0}{\\epsilon_0}}$",
+            "D": "$c = \\sqrt{\\frac{\\epsilon_0}{\\mu_0}}$"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "The value of $\\vec{B}$ on the surface of the earth is",
+        "prashna": "पृथ्वी के पृष्ठ पर $\\vec{B}$ का मान होता है",
+        "options": {
+            "A": "$10^{-1}$ tesla",
+            "B": "$10^{-2}$ tesla",
+            "C": "$10^{-3}$ tesla",
+            "D": "$10^{-5}$ tesla"
+        },
+        "vikalpa": {
+            "A": "$10^{-1}$ टेसला",
+            "B": "$10^{-2}$ टेसला",
+            "C": "$10^{-3}$ टेसला",
+            "D": "$10^{-5}$ टेसला"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Electromagnetic moment of current carrying coil is",
+        "prashna": "धारावाही कुंडली का विद्युत-चुम्बकीय आघूर्ण होता है",
+        "options": {
+            "A": "$\\vec{m} = \\frac{N\\vec{A}}{I}$",
+            "B": "$\\vec{m} = \\frac{\\vec{A}}{NI}$",
+            "C": "$\\vec{m} = NI\\vec{A}$",
+            "D": "$\\vec{m} = \\frac{I\\vec{A}}{N}$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{m} = \\frac{N\\vec{A}}{I}$",
+            "B": "$\\vec{m} = \\frac{\\vec{A}}{NI}$",
+            "C": "$\\vec{m} = NI\\vec{A}$",
+            "D": "$\\vec{m} = \\frac{I\\vec{A}}{N}$"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Which of the following is correct for galvanometer constant ?",
+        "prashna": "निम्नलिखित में कौन गैलवेनोमीटर नियतांक के लिए सही है ?",
+        "options": {
+            "A": "$C / (NAB)$",
+            "B": "$C(B) / (NA)$",
+            "C": "$C(A/NB)$",
+            "D": "$C(N/AB)$"
+        },
+        "vikalpa": {
+            "A": "$C / (NAB)$",
+            "B": "$C(B) / (NA)$",
+            "C": "$C(A/NB)$",
+            "D": "$C(N/AB)$"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Resistance of ideal ammeter is",
+        "prashna": "आदर्श ऐमीटर का प्रतिरोध होता है",
+        "options": {
+            "A": "infinity",
+            "B": "zero",
+            "C": "100 ohm",
+            "D": "50 ohm"
+        },
+        "vikalpa": {
+            "A": "अनन्त",
+            "B": "शून्य",
+            "C": "100 ओम",
+            "D": "50 ओम"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "S.I. unit of magnetic flux is",
+        "prashna": "चुम्बकीय फ्लक्स का S.I. मात्रक होता है",
+        "options": {
+            "A": "weber",
+            "B": "watt",
+            "C": "tesla",
+            "D": "joule"
+        },
+        "vikalpa": {
+            "A": "वेबर",
+            "B": "वाट",
+            "C": "टेसला",
+            "D": "जूल"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Lenz's law is the result of which principle of conservation ?",
+        "prashna": "लेंज का नियम किसके संरक्षण के सिद्धान्त का परिणाम है ?",
+        "options": {
+            "A": "Current",
+            "B": "Momentum",
+            "C": "Energy",
+            "D": "Charge"
+        },
+        "vikalpa": {
+            "A": "धारा",
+            "B": "संवेग",
+            "C": "ऊर्जा",
+            "D": "आवेश"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Inductive reactance is",
+        "prashna": "प्रेरणिक प्रतिघात होता है",
+        "options": {
+            "A": "$X_L = 2\\pi fL$",
+            "B": "$X_L = 2\\pi f^2L$",
+            "C": "$X_L = 2\\pi fL^2$",
+            "D": "$X_L = 2\\pi f^2L^2$"
+        },
+        "vikalpa": {
+            "A": "$X_L = 2\\pi fL$",
+            "B": "$X_L = 2\\pi f^2L$",
+            "C": "$X_L = 2\\pi fL^2$",
+            "D": "$X_L = 2\\pi f^2L^2$"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Magnifying power of simple microscope is",
+        "prashna": "सरल सूक्ष्मदर्शी की आवर्द्धन क्षमता होती है",
+        "options": {
+            "A": "$M = 1 - D/f$",
+            "B": "$M = 1 + D/f$",
+            "C": "$M = 1 - f/D$",
+            "D": "$M = 1 + f/D$"
+        },
+        "vikalpa": {
+            "A": "$M = 1 - D/f$",
+            "B": "$M = 1 + D/f$",
+            "C": "$M = 1 - f/D$",
+            "D": "$M = 1 + f/D$"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Power of two lenses in contact is",
+        "prashna": "संपर्कित दो लेंसों की शक्ति होती है",
+        "options": {
+            "A": "$P = P_1 + P_2$",
+            "B": "$P = P_1 \\times P_2$",
+            "C": "$P = P_1 / P_2$",
+            "D": "$P = P_1(P_2 + P_1)$"
+        },
+        "vikalpa": {
+            "A": "$P = P_1 + P_2$",
+            "B": "$P = P_1 \\times P_2$",
+            "C": "$P = P_1 / P_2$",
+            "D": "$P = P_1(P_2 + P_1)$"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "If $_a\\mu_g = 3/2$ and $_a\\mu_w = 4/3$ then $_w\\mu_g$ is",
+        "prashna": "यदि $_a\\mu_g = 3/2$ और $_a\\mu_w = 4/3$ तब $_w\\mu_g$ होता है",
+        "options": {
+            "A": "2",
+            "B": "$1/2$",
+            "C": "$9/8$",
+            "D": "$8/9$"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "$1/2$",
+            "C": "$9/8$",
+            "D": "$8/9$"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Critical angle for glass is",
+        "prashna": "काँच के लिए क्रांतिक कोण होता है",
+        "options": {
+            "A": "$20^\\circ$",
+            "B": "$30^\\circ$",
+            "C": "$48^\\circ$",
+            "D": "$42^\\circ$ (nearly)"
+        },
+        "vikalpa": {
+            "A": "$20^\\circ$",
+            "B": "$30^\\circ$",
+            "C": "$48^\\circ$",
+            "D": "$42^\\circ$ (लगभग)"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Nature of electromagnetic waves is",
+        "prashna": "विद्युत-चुंबकीय तरंगों की प्रकृति होती है",
+        "options": {
+            "A": "transverse",
+            "B": "longitudinal",
+            "C": "both (A) and (B)",
+            "D": "electrical"
+        },
+        "vikalpa": {
+            "A": "अनुप्रस्थ",
+            "B": "अनुदैर्ध्य",
+            "C": "(A) और (B) दोनों",
+            "D": "विद्युतीय"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "The refractive index of material of the Prism is",
+        "prashna": "त्रिपार्श्व के पदार्थ का अपवर्तनांक होता है",
+        "options": {
+            "A": "$\\mu = \\frac{\\sin(A+\\delta_m)}{\\sin(A/2)}$",
+            "B": "$\\mu = \\frac{\\sin(A/2)}{\\sin(A+\\delta_m)}$",
+            "C": "$\\mu = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(A/2)}$",
+            "D": "$\\mu = \\frac{\\sin(A/2)}{\\sin(\\frac{A+\\delta_m}{2})}$"
+        },
+        "vikalpa": {
+            "A": "$\\mu = \\frac{\\sin(A+\\delta_m)}{\\sin(A/2)}$",
+            "B": "$\\mu = \\frac{\\sin(A/2)}{\\sin(A+\\delta_m)}$",
+            "C": "$\\mu = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(A/2)}$",
+            "D": "$\\mu = \\frac{\\sin(A/2)}{\\sin(\\frac{A+\\delta_m}{2})}$"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Optical path is equal to",
+        "prashna": "प्रकाशीय पथ के बराबर होता है",
+        "options": {
+            "A": "Refractive index × Length of path",
+            "B": "Refractive index / Length of path",
+            "C": "Length of path",
+            "D": "Length of path / Refractive index"
+        },
+        "vikalpa": {
+            "A": "अपवर्तनांक × पथ की लम्बाई",
+            "B": "अपवर्तनांक / पथ की लम्बाई",
+            "C": "पथ की लम्बाई",
+            "D": "पथ की लम्बाई / अपवर्तनांक"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "The permittivity of free space is",
+        "prashna": "निर्वात का परावैद्युतांक होता है",
+        "options": {
+            "A": "$8.85 \\times 10^{-12} \\text{ F/m}$",
+            "B": "$8.85 \\times 10^{-11} \\text{ F/m}$",
+            "C": "$8.85 \\times 10^{12} \\text{ F/m}$",
+            "D": "$8.85 \\times 10^{11} \\text{ F/m}$"
+        },
+        "vikalpa": {
+            "A": "$8.85 \\times 10^{-12} \\text{ F/m}$",
+            "B": "$8.85 \\times 10^{-11} \\text{ F/m}$",
+            "C": "$8.85 \\times 10^{12} \\text{ F/m}$",
+            "D": "$8.85 \\times 10^{11} \\text{ F/m}$"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "S.I. unit of electric dipole is",
+        "prashna": "वैद्युत-द्विध्रुव का S.I. मात्रक होता है",
+        "options": {
+            "A": "CN",
+            "B": "Cm",
+            "C": "C",
+            "D": "C/m"
+        },
+        "vikalpa": {
+            "A": "CN",
+            "B": "Cm",
+            "C": "C",
+            "D": "C/m"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "The vector form of Coulomb's law is",
+        "prashna": "कूलॉम नियम का सदिश रूप होता है",
+        "options": {
+            "A": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{|\\vec{r}|^3} \\vec{r}$",
+            "B": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{|\\vec{r}|^3}$",
+            "C": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{r^2} \\vec{r}$",
+            "D": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{|\\vec{r}|^2} \\vec{r}$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{|\\vec{r}|^3} \\vec{r}$",
+            "B": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{|\\vec{r}|^3}$",
+            "C": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{r^2} \\vec{r}$",
+            "D": "$\\vec{F} = \\frac{1}{4\\pi\\epsilon_0} \\frac{q_1q_2}{|\\vec{r}|^2} \\vec{r}$"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "The capacity of any conductor is",
+        "prashna": "किसी चालक की धारिता होती है",
+        "options": {
+            "A": "$C = q \\cdot v$",
+            "B": "$C = v/q$",
+            "C": "$C = \\frac{1}{2}q \\cdot v$",
+            "D": "$C = q/v$"
+        },
+        "vikalpa": {
+            "A": "$C = q \\cdot v$",
+            "B": "$C = v/q$",
+            "C": "$C = \\frac{1}{2}q \\cdot v$",
+            "D": "$C = q/v$"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "Energy of a charged conductor is",
+        "prashna": "आवेशित चालक की ऊर्जा होती है",
+        "options": {
+            "A": "$E = \\frac{1}{2}C \\cdot V$",
+            "B": "$E = \\frac{1}{2}CV^2$",
+            "C": "$E = \\frac{1}{2}C^2V$",
+            "D": "$E = C \\cdot V$"
+        },
+        "vikalpa": {
+            "A": "$E = \\frac{1}{2}C \\cdot V$",
+            "B": "$E = \\frac{1}{2}CV^2$",
+            "C": "$E = \\frac{1}{2}C^2V$",
+            "D": "$E = C \\cdot V$"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "If n capacitors of equal capacity $C_1$ are connected in parallel, the equivalent capacity will be",
+        "prashna": "यदि समान धारिता $C_1$ के n संधारित्र समान्तर क्रम में जोड़े जायें तो तुल्य धारिता होगी",
+        "options": {
+            "A": "$C = n/C_1$",
+            "B": "$C = C_1/n$",
+            "C": "$C = nC_1$",
+            "D": "$C = n^2C_1$"
+        },
+        "vikalpa": {
+            "A": "$C = n/C_1$",
+            "B": "$C = C_1/n$",
+            "C": "$C = nC_1$",
+            "D": "$C = n^2C_1$"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Dielectric strength for air is",
+        "prashna": "वायु के लिए परावैद्युत सामर्थ्य होता है",
+        "options": {
+            "A": "$3 \\times 10^6 \\text{ Vm}^{-1}$",
+            "B": "$4 \\times 10^6 \\text{ Vm}^{-1}$",
+            "C": "$5 \\times 10^6 \\text{ Vm}^{-1}$",
+            "D": "$10^6 \\text{ Vm}^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$3 \\times 10^6 \\text{ Vm}^{-1}$",
+            "B": "$4 \\times 10^6 \\text{ Vm}^{-1}$",
+            "C": "$5 \\times 10^6 \\text{ Vm}^{-1}$",
+            "D": "$10^6 \\text{ Vm}^{-1}$"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is electromagnetic wave ?",
+        "prashna": "विद्युत चुम्बकीय तरंग क्या है ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What is Lorentz force ?",
+        "prashna": "लॉरेंट्ज बल क्या है ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write down two uses of potentiometer.",
+        "prashna": "विभवमापी के दो उपयोगों को लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Explain parallel grouping of resistors.",
+        "prashna": "प्रतिरोधकों के समांतर क्रम के संयोजन को समझायें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What do you mean by refractive index of medium ?",
+        "prashna": "माध्यम के अपवर्तनांक से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Write the definition of wavefront.",
+        "prashna": "तरंगाग्र की परिभाषा लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What do you mean by end-on-position of a magnet ?",
+        "prashna": "चुम्बक की अक्षीय स्थिति से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write the definition of electric potential.",
+        "prashna": "विद्युतीय विभव की परिभाषा लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write two properties of alpha ($\\alpha$) rays.",
+        "prashna": "एल्फा ($\\alpha$) किरणों के दो गुणों को लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Explain binary number system.",
+        "prashna": "द्विआधारी अंक पद्धति को समझायें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Explain dispersion of light.",
+        "prashna": "प्रकाश के वर्ण विक्षेपण को समझायें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "What do you mean by diffraction of light ?",
+        "prashna": "प्रकाश के विवर्तन से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Explain capacitive reactance.",
+        "prashna": "धारितीय प्रतिघात को समझायें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Write colour code of carbon resistance for orange and yellow colours.",
+        "prashna": "नारंगी और पीला रंगों के लिए कार्बन प्रतिरोध का कलर कोड लिखें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Explain magnetic moment.",
+        "prashna": "चुम्बकीय आघूर्ण को समझायें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Write the definition of angle of dip.",
+        "prashna": "नमन कोण की परिभाषा लिखें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Write down the definition and S.I. unit of magnetic flux.",
+        "prashna": "चुम्बकीय फ्लक्स की परिभाषा एवं S.I. मात्रक लिखें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Write the truth table and Boolean expression of NOT and OR gate.",
+        "prashna": "NOT तथा OR गेट की सत्यता सारणी तथा बूलियन व्यंजक लिखें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What is the principle of conservation of charge ?",
+        "prashna": "आवेश संरक्षण का सिद्धान्त क्या है ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What do you mean by apparent dip ?",
+        "prashna": "आभासी नमन से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Find out the expression for equivalent focal length of two lenses in contact.",
+        "prashna": "संपर्क में रखे दो लेंसों की समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Establish expression for the width of the interference fringe.",
+        "prashna": "व्यतिकरण फ्रिंज की चौड़ाई का व्यंजक स्थापित करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Explain construction, working and uses of a transformer.",
+        "prashna": "ट्रांसफार्मर की बनावट, क्रिया और उपयोगों को समझायें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Establish expression for heat produced in a conductor due to flow of current. What do you mean by electric power and electric energy ?",
+        "prashna": "धारा के प्रवाह के कारण चालक में उत्पन्न ऊष्मा के लिए व्यंजक स्थापित करें। विद्युत-शक्ति और विद्युत-ऊर्जा से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Establish expression for magnetic field at equatorial position of a magnet.",
+        "prashna": "निरक्षीय स्थिति में किसी चुम्बक का चुम्बकीय क्षेत्र के लिए व्यंजक स्थापित करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Write down Gauss's theorem and prove it.",
+        "prashna": "गॉस के प्रमेय को लिखें और इसे प्रमाणित करें।"
+    }
+]
