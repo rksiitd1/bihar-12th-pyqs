@@ -60,9 +60,10 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
         - `vikalpa`: An object containing the Hindi options, with keys "A", "B", "C", "D".
         - If options are present in only one language, translate them to the other language as above.
 
-    5.  **Fields for "long_answer" Type with Sub-Questions**:
-        - `sub_questions`: An object containing the English sub-questions, with keys like "A", "B".
-        - `anuprashna`: An object containing the Hindi sub-questions, with keys like "A", "B".
+    5.  **Fields for Questions (both "short_answer" and "long_answer") with Sub-Questions**:
+        - If a question (of type "short_answer" or "long_answer") contains sub-questions, include:
+            - `sub_questions`: An object containing the English sub-questions, with keys like "A", "B".
+            - `anuprashna`: An object containing the Hindi sub-questions, with keys like "A", "B".
         - If sub-questions are present in only one language, translate them to the other language as above.
 
     6.  **LaTeX Formatting (CRITICAL)**:
