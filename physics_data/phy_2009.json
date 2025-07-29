@@ -1,0 +1,586 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Coulomb's force is",
+        "prashna": "कूलम्ब बल है",
+        "options": {
+            "A": "Central force",
+            "B": "Electric force",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "केन्द्रीय बल",
+            "B": "विद्युत बल",
+            "C": "दोनों (A) तथा (B)",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "If a uniform electric field exists along the X-axis, then the equi-potential surface will be",
+        "prashna": "यदि समरूप विद्युत क्षेत्र X- अक्ष की दिशा में विद्यमान है, तो सम-विभव होगा।",
+        "options": {
+            "A": "in the XY-plane",
+            "B": "in the YZ-plane",
+            "C": "in the YZ-plane",
+            "D": "anywhere"
+        },
+        "vikalpa": {
+            "A": "XY-तल की दिशा में",
+            "B": "YZ-तल की दिशा में",
+            "C": "YZ-तल की दिशा में",
+            "D": "कहीं भी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "To increase the sensitivity of a potentiometer",
+        "prashna": "किसी विभवमापी की संवेदनशीलता को बढ़ाने के लिए",
+        "options": {
+            "A": "its cross-sectional area should be increased",
+            "B": "its current should be decreased",
+            "C": "its current should be increased",
+            "D": "its length should be decreased"
+        },
+        "vikalpa": {
+            "A": "इसका अनुप्रस्थ क्षेत्रफल बढ़ाना चाहिए",
+            "B": "इसकी धारा को घटाना चाहिए",
+            "C": "इसकी धारा को बढ़ाना चाहिए",
+            "D": "इसकी लम्बाई को घटाना चाहिए"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The magnetic field at the center of a circular loop of area A is B. Then the magnetic moment of that loop will be",
+        "prashna": "क्षेत्रफल A के वृत्तीय पाश के केन्द्र पर चुम्बकीय क्षेत्र B है। तो उस पाश का चुम्बकीय आघूर्ण होगा",
+        "options": {
+            "A": "$\\frac{BA^2}{\\mu_0 \\pi}$",
+            "B": "$\\frac{BA^{3/2}}{\\mu_0}$",
+            "C": "$\\frac{BA^{3/2}}{\\mu_0 \\pi}$",
+            "D": "$\\frac{2BA^{3/2}}{\\mu_0 \\sqrt{\\pi}}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{BA^2}{\\mu_0 \\pi}$",
+            "B": "$\\frac{BA^{3/2}}{\\mu_0}$",
+            "C": "$\\frac{BA^{3/2}}{\\mu_0 \\pi}$",
+            "D": "$\\frac{2BA^{3/2}}{\\mu_0 \\sqrt{\\pi}}$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "If L is inductance, R is resistance and C is capacitance of a capacitor, then the dimensional formula of $L/R$ and RC are",
+        "prashna": "यदि L प्रेरकत्व, R प्रतिरोध तथा C संघारित्र की धारिता हो, तो $L/R$ एवं RC का विभव सूत्र है",
+        "options": {
+            "A": "$M^0LT^{-1}$, $ML^0T^{-1}$",
+            "B": "$M^0L^0T$, $MLT^0$",
+            "C": "$M^0L^0T$, 1",
+            "D": "$M^0L^0T$, $M^0L^0T$"
+        },
+        "vikalpa": {
+            "A": "$M^0LT^{-1}$, $ML^0T^{-1}$",
+            "B": "$M^0L^0T$, $MLT^0$",
+            "C": "$M^0L^0T$, 1",
+            "D": "$M^0L^0T$, $M^0L^0T$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "For a magnet in tan A and tan B positions, if the magnetic fields at a distance d are $B_1$ and $B_2$ respectively, then",
+        "prashna": "चुम्बक के tan A तथा tan B स्थिति में दूरी d पर चुम्बकीय क्षेत्र क्रमशः $B_1$ तथा $B_2$ हो, तो",
+        "options": {
+            "A": "$B_1 = \\frac{\\mu_0}{4\\pi} \\cdot \\frac{2Md}{(d^2-l^2)^2}, B_2 = \\frac{\\mu_0}{4\\pi} \\cdot \\frac{M}{(d^2+l^2)^{3/2}}$",
+            "B": "$B_1 + B_2; d >> l$",
+            "C": "$B_1 = 2B_2; d >> l$",
+            "D": "Both (A) and (C)"
+        },
+        "vikalpa": {
+            "A": "$B_1 = \\frac{\\mu}{4\\pi} \\cdot \\frac{2Md}{(d^2-l^2)^2}, B_2 = \\frac{\\mu_0}{4\\pi} \\cdot \\frac{M}{(d^2+l^2)^{3/2}}$",
+            "B": "$B_1 + B_2; d >> l$",
+            "C": "$B_1 = 2B_2; d >> l$",
+            "D": "दोनों (A) और (C)"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "In an electromagnetic wave, the phase difference between the electric and magnetic fields is",
+        "prashna": "विद्युत चुम्बकीय तरंग में विद्युतीय एवं चुम्बकीय क्षेत्रों के बीच कलान्तर होता है",
+        "options": {
+            "A": "0",
+            "B": "$\\pi/2$",
+            "C": "$\\pi$",
+            "D": "some"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "$\\pi/2$",
+            "C": "$\\pi$",
+            "D": "कुछ भी"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Sky wave communication is based on",
+        "prashna": "स्काई तरंग संचार आधारित है",
+        "options": {
+            "A": "reflection by the ionosphere",
+            "B": "absorption by the ionosphere",
+            "C": "transmission through the ionosphere",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आयनमण्डल द्वारा परावर्तन पर",
+            "B": "आयनमण्डल द्वारा अवशोषण पर",
+            "C": "आयनमण्डल में से संचरण पर",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Choose the correct pair for modulation.\n(a) Amplitude Modulation -> (i) Amplitude: Modulating signal\n(b) Frequency Modulation -> (ii) Initial phase: Modulating signal\n(c) Phase Modulation -> (iii) Frequency: Modulating signal\n(d) Pulse Modulation -> (iv) Pulse position: Modulating signal",
+        "prashna": "मॉडुलन का सही जोड़ा चुनें।\n(a) आयाम मॉडुलन -> (i) आयामः मॉडुलक संकेत\n(b) आवृत्ति मॉडुलन -> (ii) आरंभिक कला : मॉडुलक संकेत\n(c) कला मॉडुलन -> (iii) आवृत्ति : मॉडुलक संकेत\n(d) पल्स मॉडुलन -> (iv) पल्स स्थिति : मॉडुलक संकेत",
+        "options": {
+            "A": "a - i, b - ii, d - iii, c - iv",
+            "B": "a - i, b - ii, c - iii, d - iv",
+            "C": "d - i, c - ii, b - iii, a - iv",
+            "D": "b - i, a - ii, d - iii, c - iv"
+        },
+        "vikalpa": {
+            "A": "a - i, b - ii, d - iii, c - iv",
+            "B": "a - i, b - ii, c - iii, d - iv",
+            "C": "d - i, c - ii, b - iii, a - iv",
+            "D": "b - i, a - ii, d - iii, c - iv"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The basic gate is",
+        "prashna": "मूल गेट (बेसिक गेट) है",
+        "options": {
+            "A": "AND, OR",
+            "B": "NAND, NOR",
+            "C": "NAND,NOR",
+            "D": "AND, OR, NOT"
+        },
+        "vikalpa": {
+            "A": "AND, OR",
+            "B": "NAND, NOR",
+            "C": "NAND,NOR",
+            "D": "AND, OR, NOT"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: Electric lines of force do not intersect each other.\nStatement-II: The direction of the tangent drawn at any point on a line of force represents the direction of the field intensity at that point.",
+        "prashna": "कथन-I : विद्युतीय बल रेखाएँ एक-दूसरे को नहीं काटती हैं।\nकथन-II: बल-रेखा के किसी बिन्दु पर खींची गई स्पर्श-रेखा की दिशा, उस बिन्दु पर क्षेत्र की तीव्रता को दर्शाता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+            "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: The diode shown in the figure is a Zener diode.\nStatement-II: Zener diode works on the principle of reverse bias.",
+        "prashna": "कथन -I : चित्र में दिखाया गया डायोड एक जीनर डायोड है।\nकथन- II : जीनर डायोड पश्च अभिनति (रिवर्स बायस) के सिद्धांत पर काम करता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+            "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: Among galvanometer, ammeter and voltmeter, the voltmeter has the highest resistance, and the ammeter has the lowest.\nStatement-II: In any circuit, the ammeter is always connected in series and the voltmeter is connected in parallel.",
+        "prashna": "कथन- I: गैल्वेनोमीटर, ऐमीटर तथा वोल्टमीटर में सबसे अधिक प्रतिरोध वोल्टमीटर का होता है, तथा सबसे कम एमीटर का ।\nकथन- II: किसी परिपथ में एमीटर को सर्वदा श्रेणीक्रम में तथा वोल्टमीटर को समानान्तर क्रम में जोड़ा जाता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+            "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: In electromagnetic waves, the strength of the electric field (E) is much greater than the strength of the magnetic field (B).\nStatement-II: An electromagnetic wave is deflected in a perpendicular electric field, but remains undeflected in a perpendicular magnetic field.",
+        "prashna": "कथन- I विद्युत चुम्बकीय तरंगों में विद्युत क्षेत्र (E) का सामर्थ्य चुम्बकीय क्षेत्र (B) से काफी अधिक रहता है।\nकथन- II: विद्युत-चुम्बकीय तरंग लम्बवत् विद्युत क्षेत्र में विक्षेपित होती है, लेकिन लम्बवत् चुम्बकीय क्षेत्र अविक्षेपित रहती है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+            "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: A hole is made in a metal sheet by a 0.1 watt laser beam, whereas a 1000 watt torch light cannot make a hole.\nStatement-II: The frequency and velocity of laser light are much higher than the frequency and velocity of torch light.",
+        "prashna": "कथन-I : 0.1 वाट के लेजर किरण से धातु के पत्तर में छेद हो जाता है, जबकि 1000 वाट की टॉर्च लाइट से छेद नहीं हो पाता है।\nकथन-II: लेजर प्रकाश की आवृत्ति व वेग, टॉर्च के प्रकाश की आवृत्ति व वेग से बहुत अधिक होती है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+            "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+            "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "To convert mechanical energy into electrical energy, we have to use:",
+        "prashna": "यांत्रिकीय ऊर्जा को वैद्युतिक ऊर्जा में बदलने के लिए, हमें प्रयोग करना है।",
+        "options": {
+            "A": "DC dynamo",
+            "B": "AC dynamo",
+            "C": "Motor",
+            "D": "Transformer"
+        },
+        "vikalpa": {
+            "A": "दिष्ट धारा डायनेमो",
+            "B": "प्रत्यावर्ती धरा डायनेमो",
+            "C": "मोटर",
+            "D": "ट्रांसफॉर्मर"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The alternating current voltage across a resistor can be measured:",
+        "prashna": "एक प्रतिरोधक के आसपास प्रत्यावर्ती धारा वोल्टता मापी जा सकती है।",
+        "options": {
+            "A": "by using a potentiometer",
+            "B": "by using a hot wire voltmeter",
+            "C": "by using a moving coil galvanometer",
+            "D": "by using a moving magnet galvanometer"
+        },
+        "vikalpa": {
+            "A": "एक विभवमापी के प्रयोग द्वारा",
+            "B": "एक तप्त तार वोल्टमापी के प्रयोग द्वारा",
+            "C": "एक चल-कुंडली गैल्वेनोमापी के प्रयोग द्वारा",
+            "D": "एक चल-चुम्बक गेल्वेनोमापी द्वारा"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "As the mass number A increases, which of the following quantities related to the nucleus does not change?",
+        "prashna": "जैसे-जैसे द्रव्यमान संख्या A बढ़ती है, उसी के साथ-साथ निम्न में से नाभिक से संबंधित किस राशि का परिवर्तन नहीं होता है?",
+        "options": {
+            "A": "Mass",
+            "B": "Volume",
+            "C": "Density",
+            "D": "Binding energy"
+        },
+        "vikalpa": {
+            "A": "द्रव्यमान",
+            "B": "आयतन",
+            "C": "घनत्व",
+            "D": "बंधक उर्जा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "AND",
+        "prashna": "AND",
+        "options": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        },
+        "vikalpa": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "OR",
+        "prashna": "OR",
+        "options": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        },
+        "vikalpa": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "NAND",
+        "prashna": "NAND",
+        "options": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        },
+        "vikalpa": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "NOR",
+        "prashna": "NOR",
+        "options": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        },
+        "vikalpa": {
+            "A": "$A + B$",
+            "B": "$\\overline{A \\cdot B}$",
+            "C": "$\\overline{A+B}$",
+            "D": "$A.B$"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "In a normal defect-free eye, at what distance from the cornea should the retina be?",
+        "prashna": "सामान्य दोषमुक्त आँखों में कॉर्निया से कितनी दूरी पर रेटिना होना चाहिए?",
+        "options": {
+            "A": "1.0cm",
+            "B": "2.0cm",
+            "C": "4.0 cm",
+            "D": "0.5 cm"
+        },
+        "vikalpa": {
+            "A": "1.0cm (सेमी)",
+            "B": "2.0cm (सेमी)",
+            "C": "4.0 cm (सेमी)",
+            "D": "0.5 cm (सेमी)"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "To correct near-sightedness and far-sightedness, what nature of lens should be used respectively? (Assume $f_e = x$)",
+        "prashna": "निकट दृष्टि एवं दूर दृष्टि दोष को दूर करने के लिए क्रमशः किस प्रकृति का लेंस उपयोग किया जाना चाहिए? (मान लें कि $f_e = x$)",
+        "options": {
+            "A": "convex, convex",
+            "B": "concave, convex",
+            "C": "convex, concave",
+            "D": "concave, concave"
+        },
+        "vikalpa": {
+            "A": "उत्तल, उत्तल",
+            "B": "अवतल, उत्तल",
+            "C": "उत्तल, अवतल",
+            "D": "अवतल, अवतल"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "The focal length of a person's cornea is 1.8 cm, and to be free from visual impairment, he uses a corrective lens of $f = -16.5$ cm at a distance of $x = 15$ cm from the cornea of the eye. In this situation, the image distance from the cornea for rays coming from a distant object will be",
+        "prashna": "एक व्यक्ति के कॉर्निया की फोकस दूरी 1.8 सेमी है, तथा वह दृष्टिदोष से मुक्ति हेतु एक $f = -16.5$ सेमी के संशोधी लेंस को आँख के कॉर्निया से $x = 15$ सेमी की दूरी पर उपयोग करता है। ऐसी स्थिति में दूरस्थ वस्तु से आनेवाली किरणों को कॉर्निया से प्रतिविम्ब दूरी होगी",
+        "options": {
+            "A": "1.0cm",
+            "B": "1.5 cm",
+            "C": "2.5 cm",
+            "D": "2.0 cm"
+        },
+        "vikalpa": {
+            "A": "1.0cm (सेमी)",
+            "B": "1.5 cm (सेमी)",
+            "C": "2.5 cm (सेमी)",
+            "D": "2.0 cm (सेमी)"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is 'resistivity'? Write its SI unit. Show the variation of resistivity with the change in temperature for a typical semiconductor using a graph.",
+        "prashna": "'प्रतिरोधकता' क्या है? इसका SI मात्रक लिखें। किसी प्ररूपी अर्धचालक के लिए तापमान में परिवर्तन के साथ प्रतिरोधकता के बदलाव को ग्राफ द्वारा करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Write the principle of a potentiometer. Draw the circuit diagram used for the comparative study of the electromotive force of two primary cells.",
+        "prashna": "विभवमापी के सिद्धांत को लिखें। दो प्राथमिक सेलों के विद्युतवाहक बल के तुलनात्मक अध्ययन हेतु प्रयुक्त परिपथ आरेख खींचिए ।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Using Biot-Savart's law, derive an expression for the magnetic field at the center of a semi-circular loop of radius R carrying current I.",
+        "prashna": "बायो-सावर्त के नियम के प्रयोग द्वारा किसी R त्रिज्यावाले एवं I धारा वहन करनेवाले अर्धगोलीय पाश के केन्द्र पर चुम्बकीय क्षेत्र के लिए व्यंजक निकालिए।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is a Polaroid? Write its uses.",
+        "prashna": "पोलारॉयड क्या है? इसके उपयोगों को लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "The height of a transmitting antenna on top of a building is 64 meters and the height of the receiving antenna is 81 meters. For 'line-of-sight' acceptable transmission, find the maximum distance between the two antennas. (Radius of Earth 6400 km)",
+        "prashna": "किसी भवन के शीर्ष पर लगे सम्प्रेषण एंटीना की ऊँचाई 64 मीटर है तथा ग्राही एंटीना की ऊँचाई 81 मीटर है। 'दिष्ट प्रणाली' में स्वीकार्य संप्रेषण हेतु दोनों एंटीना के बीच की महत्तम दूरी बताइए। (पृथ्वी की त्रिज्या 6400 किलोमीटर)"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "A student mistakenly connects a voltmeter in series and an ammeter in parallel in a circuit. What will be the result?",
+        "prashna": "एक विद्यार्थी भूल से वोल्टमीटर को परिपथ में श्रेणीक्रम में तथा एमीटर को समान्तरक्रम में जोड़ देता है। इसका परिणाम क्या होगा?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Why is the internal resistance of a storage cell low?",
+        "prashna": "संचायक सेल का आंतरिक प्रतिरोध क्यों कम होता है?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Show relationships for the following:",
+        "prashna": "निम्नलिखित के लिए संबंध दिखाएं:",
+        "sub_questions": {
+            "a": "Show that the de Broglie wavelength for an electron with energy E is related by $\\lambda = \\frac{h}{\\sqrt{2mE}}$",
+            "b": "Why is the belt of a Van de Graaff generator made of an insulating material?"
+        },
+        "anuprashna": {
+            "a": "दिखाइए कि E ऊर्जा वाले इलेक्ट्रॉन को दि ब्रॉग्ली तरंगदैर्ध्य के लिए संबंध है। $\\lambda = \\frac{h}{\\sqrt{2mE}}$",
+            "b": "वान डी ग्राफ जेनरेटर का बेल्ट क्यों विद्युतरोधी पदार्थ का बना रहता है।"
+        }
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Draw graphs showing the variation of photoelectric current with the change in anode potential of a photocell for the following situations:",
+        "prashna": "किसी प्रकाश सेल एनोड विभव में परिवर्तन के साथ प्रकाश-विद्युत धारा पर होनेवाले परिवर्तन के ग्राफ निम्नलिखित परिस्थितियों के लिए प्रदर्शित करें।",
+        "sub_questions": {
+            "i": "For different frequencies at a constant intensity.",
+            "ii": "For different intensities at a constant frequency."
+        },
+        "anuprashna": {
+            "i": "एक नियत तीव्रता पर अलग-अलग आवृत्ति के लिए।",
+            "ii": "एक नियत आवृत्ति पर अलग-अलग तीव्रता के लिए।"
+        }
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "When two samples X and Y are placed in a uniform magnetic field, the distortion produced in the magnetic field is shown in the figure.",
+        "prashna": "जब दो प्रतिरूप X एवं Y को एक समरूप चुम्बकीय क्षेत्र में रखा जाता है, तो चुम्बकीय क्षेत्र में उत्पन्न विकृति को चित्र में दर्शाया गया है।",
+        "sub_questions": {
+            "i": "Identify the two samples X and Y.",
+            "ii": "Explain the reason for the distortion of the lines of force in X and Y."
+        },
+        "anuprashna": {
+            "i": "दो नमूने X तथा Y की पहचान करें।",
+            "ii": "X एवं Y में बल रेखा की विकृति के कारण को स्पष्ट करें।"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Explain the Rutherford's atomic model developed on the basis of the alpha-particle scattering experiment.",
+        "prashna": "रदरफोर्ड के अल्फा-कण प्रकीर्णन प्रयोग के आधार पर विकसित रदरफोर्ड की परमाणु संरचना को समझाइए!"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Find the electric potential and electric field due to an electric dipole using the differential relation between field and potential.",
+        "prashna": "किसी विद्युतीय द्विध्रुव के कारण क्षेत्र एवं विभव के बीच अवकल संबंध द्वारा विद्युत विभव एवं विद्युत क्षेत्र ज्ञात करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "State Gauss's law. With its help, derive an expression for the intensity of the electric field at a point due to an infinitely long, uniformly charged thin straight wire.",
+        "prashna": "गॉस के नियम को लिखें। इसकी सहायता से किसी अनन्त विस्तारिक समरूप आवेशित पतले आवेशित सीधे तार के कारण किसी बिन्दु पर विद्युत क्षेत्र की तीव्रता के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Describe a deflection magnetometer. How would you compare the magnetic moments of two given magnets with its help?",
+        "prashna": "विक्षेप चुम्बकत्वमापी का वर्णन करें। इसकी मदद से आप कैसे दो दिए गए चुम्बकों के चुम्बकीय आघूर्ण की तुलना करेंगे?"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "a": "Explain the principle and working of a moving coil galvanometer. Derive an expression for its current sensitivity.",
+            "b": "Compare a moving coil galvanometer and a moving magnet galvanometer."
+        },
+        "anuprashna": {
+            "a": "चल कुण्डली गैल्वेनोमीटर के सिद्धान्त एवं क्रियाविधि समझाइए । धारा सुग्राहिता के लिए व्यंजक प्राप्त करें।",
+            "b": "चल कुण्डली गैल्वेनोमीटर तथा चल चुम्बक गैल्वेनोमीटर की तुलना"
+        }
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "With the help of a ray diagram, explain the formation of an image by a compound microscope or an astronomical telescope. Derive an expression for the magnifying power of your instrument and state its uses.",
+        "prashna": "किरण-चित्र की मदद से एक संयुक्त सूक्ष्मदर्शी या खगोलीय दूरबीन द्वारा प्रतिबिम्ब रचना को समझाइए। आपके यंत्र की आवर्धन क्षमता के लिए व्यंजक निकालें तथा उसके उपयोगों को बताइए।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Explain the structure of a nuclear reactor in detail.",
+        "prashna": "किसी नाभिकीय रिएक्टर की संरचना की विस्तार से व्याख्या करें।"
+    }
+]
