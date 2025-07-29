@@ -1,0 +1,620 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "An electric dipole is made of two opposite charges of magnitude $+3.2 \\times 10^{-19} C$ and $-3.2 \\times 10^{-19} C$ and the distance between them is $2.4 \\times 10^{-10} m$. The electric dipole moment is:",
+        "prashna": "एक विद्युतीय द्विध्रुव दो विपरीत आवेशों से बना है जिनके परिमाण $+ 3.2 \\times 10^{-19} C$ एवं $- 3.2 \\times 10^{-19} C$ हैं और उनके बीच की दूरी $2.4 \\times 10^{-10} m$ है। विद्युतीय द्विध्रुव का आपूर्ण है:",
+        "options": {
+            "A": "$7.68 \\times 10^{-27} C-m$",
+            "B": "$7.68 \\times 10^{-29} C-m$",
+            "C": "$7.86 \\times 10^{-29} C-m$",
+            "D": "$7.86 \\times 10^{-27} C-m$"
+        },
+        "vikalpa": {
+            "A": "$7.68 \\times 10^{-27} C-m$",
+            "B": "$7.68 \\times 10^{-29} C-m$",
+            "C": "$7.86 \\times 10^{-29} C-m$",
+            "D": "$7.86 \\times 10^{-27} C-m$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "64 identical drops, each of capacitance $5\\mu F$, combine to form a big drop. What will be the capacitance of the big drop?",
+        "prashna": "64 समरूप बूँदें जिनमें प्रत्येक की धारिता $5\\mu F$ है मिलकर एक बड़ा बूँद बनाते हैं। बड़े बूँद की धारिता क्या होगी ?",
+        "options": {
+            "A": "$164\\mu F$",
+            "B": "$20\\mu F$",
+            "C": "$4\\mu F$",
+            "D": "$25\\mu F$"
+        },
+        "vikalpa": {
+            "A": "$164\\mu F$",
+            "B": "$20\\mu F$",
+            "C": "$4\\mu F$",
+            "D": "$25\\mu F$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Kilowatt-hour (kWh) is the unit of:",
+        "prashna": "किलोवाट घंटा (kWh) मात्रक है:",
+        "options": {
+            "A": "Energy",
+            "B": "Power",
+            "C": "Torque",
+            "D": "Force"
+        },
+        "vikalpa": {
+            "A": "ऊर्जा का",
+            "B": "शक्ति का",
+            "C": "बल आघूर्ण का",
+            "D": "बल का"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The algebraic sum of all currents at any point in an electrical circuit is:",
+        "prashna": "विद्युतीय परिपथ के किसी बिन्दु पर सभी धाराओं का बीजगणितीय योग:",
+        "options": {
+            "A": "Infinite",
+            "B": "Positive",
+            "C": "Zero",
+            "D": "Negative"
+        },
+        "vikalpa": {
+            "A": "अनंत होता है",
+            "B": "धनात्मक होता है",
+            "C": "शून्य होता है",
+            "D": "ऋणात्मक होता है"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The dimension of permeability is:",
+        "prashna": "चुम्बकशीलता की विमा है:",
+        "options": {
+            "A": "$MLT^2 I^{-2}$",
+            "B": "$MLT^{-2}I^{-2}$",
+            "C": "$MLT^2 I^2$",
+            "D": "$MLT^{-2}I$"
+        },
+        "vikalpa": {
+            "A": "$MLT^2 I^{-2}$",
+            "B": "$MLT^{-2}I^{-2}$",
+            "C": "$MLT^2 I^2$",
+            "D": "$MLT^{-2}I$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The impedance of an L-R circuit is:",
+        "prashna": "L-R परिपथ की प्रतिबाधा होती है:",
+        "options": {
+            "A": "$R^2 + \\omega^2L^2$",
+            "B": "$\\sqrt{R} + \\omega L$",
+            "C": "$R + \\omega L$",
+            "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+        },
+        "vikalpa": {
+            "A": "$R^2 + \\omega^2L^2$",
+            "B": "$\\sqrt{R} + \\omega L$",
+            "C": "$R + \\omega L$",
+            "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The direction of propagation of an electromagnetic wave is:",
+        "prashna": "विद्युतचुंबकीय तरंग के संचरण की दिशा होती है:",
+        "options": {
+            "A": "Parallel to $\\vec{B}$",
+            "B": "Parallel to $\\vec{E}$",
+            "C": "Parallel to $\\vec{B} \\times \\vec{E}$",
+            "D": "Parallel to $\\vec{E} \\times \\vec{B}$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{B}$ के समानान्तर",
+            "B": "$\\vec{E}$ के समानान्तर",
+            "C": "$\\vec{B} \\times \\vec{E}$ के समानान्तर",
+            "D": "$\\vec{E} \\times \\vec{B}$ के समानान्तर"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "When a ray of light enters a glass slab, its wavelength:",
+        "prashna": "जब प्रकाश की एक किरण ग्लास स्लैब में प्रवेश करती है, तो इसका तरंगदैर्ध्य:",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Remains unchanged",
+            "D": "Data is incomplete"
+        },
+        "vikalpa": {
+            "A": "बढ़ता है",
+            "B": "घटता है",
+            "C": "अपरिवर्तित रहता है",
+            "D": "आँकड़े पूर्ण नहीं है"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The value of amplitude modulation index is:",
+        "prashna": "आयाम माडुलन सूचकांक का मान होता है।",
+        "options": {
+            "A": "Always 0",
+            "B": "Between 1 and ∞",
+            "C": "Between 0 and 1",
+            "D": "Always ∞"
+        },
+        "vikalpa": {
+            "A": "हमेशा 0",
+            "B": "1 तथा ∞ के बीच",
+            "C": "0 तथा 1 के बीच",
+            "D": "हमेशा ∞"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The Boolean expression for a NOR gate is:",
+        "prashna": "NOR गेट के लिए बुलियन व्यंजक है:",
+        "options": {
+            "A": "$\\overline{A.B} = Y$",
+            "B": "$A.B = Y$",
+            "C": "$A.B. = Y$",
+            "D": "$\\overline{A+B} = Y$"
+        },
+        "vikalpa": {
+            "A": "$\\overline{A.B} = Y$",
+            "B": "$A.B = Y$",
+            "C": "$A.B. = Y$",
+            "D": "$\\overline{A+B} = Y$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "The intensity of the electric field at any point on the surface of a charged conductor is:",
+        "prashna": "एक आवेशित चालक की सतह के किसी बिन्दु पर विद्युतीय क्षेत्र की तीव्रता:",
+        "options": {
+            "A": "Is zero",
+            "B": "Is perpendicular to the surface",
+            "C": "Is tangential to the surface",
+            "D": "Is at $45^{\\circ}$ to the surface"
+        },
+        "vikalpa": {
+            "A": "शून्य होती है।",
+            "B": "सतह के लंबवत् होती है",
+            "C": "सतह के स्पर्शीय होती है।",
+            "D": "सतह पर $45^{\\circ}$ पर होती है"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "The permittivity of free space is:",
+        "prashna": "मुक्त आकाश का परावैद्युतांक होता है।",
+        "options": {
+            "A": "$9 \\times 10^9 mF^{-1}$",
+            "B": "$1.6 \\times 10^{19} C$",
+            "C": "$8.85 \\times 10^{-12} Fm^{-1}$",
+            "D": "$8.85 \\times 10^{-9} Fm^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$9 \\times 10^9 mF^{-1}$",
+            "B": "$1.6 \\times 10^{19} C$",
+            "C": "$8.85 \\times 10^{-12} Fm^{-1}$",
+            "D": "$8.85 \\times 10^{-9} Fm^{-1}$"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The power of an electric circuit is:",
+        "prashna": "विद्युत परिपथ की शक्ति होती है:",
+        "options": {
+            "A": "$V.R$",
+            "B": "$V^2.R$",
+            "C": "$V^2/R$",
+            "D": "$V^2.R.I$"
+        },
+        "vikalpa": {
+            "A": "$V.R$",
+            "B": "$V^2.R$",
+            "C": "$V^2/R$",
+            "D": "$V^2.R.I$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Electron-volt (eV) is measured by:",
+        "prashna": "इलेक्ट्रॉन-वोल्ट (eV) द्वारा मापा जाता है:",
+        "options": {
+            "A": "Charge",
+            "B": "Potential difference",
+            "C": "Current",
+            "D": "Energy"
+        },
+        "vikalpa": {
+            "A": "आवेश",
+            "B": "विभवांतर",
+            "C": "धारा",
+            "D": "ऊर्जा"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Lenz's law is associated with:",
+        "prashna": "लेंज का नियम संबद्ध है।",
+        "options": {
+            "A": "Charge",
+            "B": "Mass",
+            "C": "Energy",
+            "D": "Principle of conservation of momentum"
+        },
+        "vikalpa": {
+            "A": "आवेश से",
+            "B": "द्रव्यमान से",
+            "C": "ऊर्जा से",
+            "D": "संवेग के संरक्षण सिद्धांत से"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "The final image in an astronomical telescope is:",
+        "prashna": "खगोलीय दूरदर्शी में अंतिम प्रतिबिंब होता है:",
+        "options": {
+            "A": "Real and erect",
+            "B": "Real and inverted",
+            "C": "Virtual and inverted",
+            "D": "Virtual and erect"
+        },
+        "vikalpa": {
+            "A": "वास्तविक एवं सीधा",
+            "B": "वास्तविक एवं उल्टा",
+            "C": "काल्पनिक एवं उल्टा",
+            "D": "काल्पनिक एवं सीधा"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "If two converging lenses of the same focal length f are kept in contact with each other, then the focal length of the combination will be:",
+        "prashna": "यदि समान फोकस दूरी f के दो अभिसारी लेंस एक दूसरे के संपर्क में रखे हों, तब संयोग की फोकस दूरी होगी:",
+        "options": {
+            "A": "f",
+            "B": "2f",
+            "C": "f/2",
+            "D": "3f"
+        },
+        "vikalpa": {
+            "A": "f",
+            "B": "2f",
+            "C": "f/2",
+            "D": "3f"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "The transverse wave nature of light is confirmed by:",
+        "prashna": "प्रकाश की अनुप्रस्थ तरंग प्रकृति पुष्टि करता है:",
+        "options": {
+            "A": "Interference",
+            "B": "Reflection",
+            "C": "Polarization",
+            "D": "Dispersion"
+        },
+        "vikalpa": {
+            "A": "व्यतिकरण को",
+            "B": "परावर्तन को",
+            "C": "ध्रुवण को",
+            "D": "वर्ण-विक्षेपण को"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "The color of a thin film is due to:",
+        "prashna": "एक पतले फिल्म के रंग का कारण है:",
+        "options": {
+            "A": "Scattering",
+            "B": "Interference",
+            "C": "Dispersion",
+            "D": "Diffraction"
+        },
+        "vikalpa": {
+            "A": "प्रकीर्णन",
+            "B": "व्यतिकरण",
+            "C": "वर्ण-विक्षेपण",
+            "D": "विवर्तन"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "If the phase difference between the alternating current and the electromotive force is $\\phi$, then the value of the power factor is:",
+        "prashna": "यदि प्रत्यावर्ती धारा तथा विद्युत वाहक बल के बीच $\\phi$ कोण का कलांतर हो, तो शक्ति गुणांक का मान होता है:",
+        "options": {
+            "A": "$\\tan \\phi$",
+            "B": "$\\cos^2 \\phi$",
+            "C": "$\\sin \\phi$",
+            "D": "$\\cos \\phi$"
+        },
+        "vikalpa": {
+            "A": "$\\tan \\phi$",
+            "B": "$\\cos^2 \\phi$",
+            "C": "$\\sin \\phi$",
+            "D": "$\\cos \\phi$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "The unit of self-inductance is:",
+        "prashna": "स्वप्रेरकत्व का मात्रक है:",
+        "options": {
+            "A": "Weber",
+            "B": "Ohm",
+            "C": "Henry",
+            "D": "Gauss"
+        },
+        "vikalpa": {
+            "A": "बेबर",
+            "B": "ओम",
+            "C": "हेनरी",
+            "D": "गॉस"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "The working principle of a dynamo is based on:",
+        "prashna": "डायनेमो के कार्य का सिद्धांत आधारित है:",
+        "options": {
+            "A": "Heating effect of current",
+            "B": "Electromagnetic induction",
+            "C": "Magnetic induction",
+            "D": "Electric induction"
+        },
+        "vikalpa": {
+            "A": "धारा के ऊष्मीय प्रभाव पर",
+            "B": "विद्युत-चुंबकीय प्रेरण पर",
+            "C": "चुम्बकीय प्रेरण पर",
+            "D": "विद्युतीय प्रेरण पर"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "An alternating current is represented by the equation $I = 0.6 \\sin(100\\pi t)$. The frequency of the electric current is:",
+        "prashna": "एक प्रत्यावर्ती विद्युत धारा का समीकरण $I = 0.6 \\sin(100\\pi t)$ से निरूपित है। विद्युत धारा की आवृत्ति है:",
+        "options": {
+            "A": "$50\\pi$",
+            "B": "50",
+            "C": "$100\\pi$",
+            "D": "100"
+        },
+        "vikalpa": {
+            "A": "$50\\pi$",
+            "B": "50",
+            "C": "$100\\pi$",
+            "D": "100"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Nickel is:",
+        "prashna": "निकेल है:",
+        "options": {
+            "A": "Diamagnetic",
+            "B": "Paramagnetic",
+            "C": "Ferromagnetic",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रतिचुम्बकीय",
+            "B": "अनुचुम्बकीय",
+            "C": "लौहचुम्बकीय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Brewster's law is:",
+        "prashna": "वुस्टर का नियम है:",
+        "options": {
+            "A": "$\\mu = \\sin(i_p)$",
+            "B": "$\\mu = \\cos(i_p)$",
+            "C": "$\\mu = \\tan(i_p)$",
+            "D": "$\\mu = \\tan^2(i_p)$"
+        },
+        "vikalpa": {
+            "A": "$\\mu = \\sin(i_p)$",
+            "B": "$\\mu = \\cos(i_p)$",
+            "C": "$\\mu = \\tan(i_p)$",
+            "D": "$\\mu = \\tan^2(i_p)$"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "With the increase in temperature, the resistance of a semiconductor:",
+        "prashna": "ताप बढ़ने के साथ अर्धचालक का प्रतिरोध:",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Sometimes increases and sometimes decreases",
+            "D": "Remains unchanged"
+        },
+        "vikalpa": {
+            "A": "बढ़ता है",
+            "B": "घटता है",
+            "C": "कभी बढ़ता है और कभी घटता हैं।",
+            "D": "अपरिवर्ति होता है।"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "The ratio of the peak value and the root mean square value of an alternating current is:",
+        "prashna": "प्रत्यावर्ती धारा के शिखर मान तथा वर्ग माध्य मूल मान का अनुपात हैं:",
+        "options": {
+            "A": "2",
+            "B": "$\\sqrt{2}$",
+            "C": "$1/\\sqrt{2}$",
+            "D": "1/2"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "$\\sqrt{2}$",
+            "C": "$1/\\sqrt{2}$",
+            "D": "1/2"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which frequency range is used for TV broadcasting?",
+        "prashna": "TV प्रसारण के लिए किस आवृत्ति परास का उपयोग होता है ?",
+        "options": {
+            "A": "30 Hz - 300 Hz",
+            "B": "30 kHz - 300 kHz",
+            "C": "30 MHz - 300 MHz",
+            "D": "30 GHz - 300 GHz"
+        },
+        "vikalpa": {
+            "A": "30 Hz-300 Hz",
+            "B": "30 kHz-300 kHz",
+            "C": "30MHz-300MHz",
+            "D": "30 GHz-300 GHz"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Define electric dipole moment and write its SI unit.",
+        "prashna": "विद्युत द्विध्रुव-आघूर्ण को परिभाषित करें तथा इसका SI मात्रक लिखें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Write two main characteristics of laser beams.",
+        "prashna": "लेजर किरणों की दो प्रमुख विशेषताएँ लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is the function of the second plate in a parallel plate capacitor?",
+        "prashna": "समानांतर प्लेट संधारित्र में दूसरे प्लेट का क्या कार्य है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Write two uses of a shunt.",
+        "prashna": "शंट के दो उपयोग लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "A charge of $4 \\times 10^{-6} C$ is given to a metallic sphere of radius 9 cm. What is the potential energy of the charged conductor?",
+        "prashna": "धातु के 9 cm त्रिज्यावाले गोले पर $4 \\times 10^{-6} C$ आवेश दिया गया है। चालक के आवेश की स्थितिज ऊर्जा क्या है?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "If two resistors are connected in series, their equivalent resistance is $16\\Omega$. If the same two resistors are connected in parallel, the equivalent resistance is $3\\Omega$. Find their individual resistances.",
+        "prashna": "यदि दो प्रतिरोध श्रेणीक्रम में जोड़े जाते हैं तो उनका तुल्य प्रतिरोध $16\\Omega$ है। यदि उन्हीं दो प्रतिरोधों को समानांतर क्रम में जोड़ा जाता है तो तुल्य प्रतिरोध $3\\Omega$ होता है। उनका अलग-अलग प्रतिरोध निकालें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Name the energy losses in a transformer.",
+        "prashna": "एक ट्रांसफार्मर में ऊर्जा क्षय को नामांकित करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "The equation of an alternating current is $I = 20 \\sin(200\\pi t)$. Find the frequency, peak value, and root mean square value of the current.",
+        "prashna": "एक प्रत्यावर्ती धारा का समीकरण $I = 20 \\sin(200\\pi t)$ है। धारा की आवृत्ति, शिखर मान तथा वर्ग माध्य मूल मान निकालें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Two thin convex lenses of powers 5D and 2D are placed coaxially at a distance of 20 cm from each other. Find the focal length and power of the lens combination.",
+        "prashna": "दो पतले उत्तल लेंस, जिनकी क्षमताएँ 5D तथा 2D हैं एक दूसरे से 20 cm की दूरी पर समाक्षीय रूप में रखे गये हैं। लेंस युग्म की फोकस दूरी तथा क्षमता निकालें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Differentiate between N-type and P-type semiconductors.",
+        "prashna": "N -टाइप एवं P टाइप अर्धचालक में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Define modulation. Write its types.",
+        "prashna": "मॉडुलन को परिभाषित करें। इसके प्रकारों को लिखें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "What is called electric field intensity? Derive an expression for the electric field intensity at a point on the axis of an electric dipole.",
+        "prashna": "विद्युत तीव्रता किसे कहते हैं? एक विद्युतीय द्विध्रुव के अक्ष पर स्थित किसी बिन्दु पर विद्युत तीव्रता का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Define electric flux. State and prove Gauss's theorem.",
+        "prashna": "विद्युत फ्लक्स को परिभाषित करें। गॉस के प्रमेय को लिखें एवं सिद्ध करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Establish the formula $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $.",
+        "prashna": "सूत्र $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $ को स्थापित करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Write Huygens' wave theory for light. On the basis of Huygens' principle of light waves, prove the laws of reflection or refraction of light.",
+        "prashna": "प्रकाश के लिए हाइगेंस का तरंग सिंद्धांत लिखें। हाइगेंस के प्रकाश तरंग सिद्धांत के आधार पर प्रकाश के परावर्तन अथवा अपवर्तन के नियम को सिद्ध करें।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "State Biot-Savart law and use it to derive an expression for the magnetic field at a point on the axis of a current-carrying circular loop.",
+        "prashna": "बायो-सावर्ट नियम लिखें और इसका उपयोग करके एक धाराप्रवाही वृत्ताकार लुप के अक्ष के किसी बिन्दु पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "State Kirchhoff's laws for an electrical circuit. Using Kirchhoff's laws, obtain an expression for a balanced Wheatstone bridge.",
+        "prashna": "विद्युतीय परिपथ के लिए किरचॉफ के नियमों को लिखें। किरचॉफ के नियमों का उपयोग कर एक संतुलित हीटस्टोन सेतु का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "Write the postulates of Bohr's theory. Explain the hydrogen spectrum on the basis of Bohr's theory.",
+        "prashna": "बोर के सिद्धांत के अभिगृहीतों को लिखें। बोर के सिद्धांत पर हाइड्रोजन स्पेक्ट्रम की व्याख्या करें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Write Einstein's photoelectric equation and with its help explain the photoelectric effect.",
+        "prashna": "आइंस्टाइन का प्रकाश-विद्युत समीकरण लिखें और उसकी सहायता से प्रकाश-विद्युत प्रभाव की व्याख्या करें।"
+    }
+]
