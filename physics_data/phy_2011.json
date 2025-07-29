@@ -1,0 +1,580 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The equivalent path length in vacuum for a path of length t in a glass slab of refractive index n is .......... path length.",
+        "prashna": "n अपवर्तनांक वाले शीशे की पट्टी में पथ की लम्बाई का समतुल्यांक निर्वात में ......... पथ की लम्बाई है।",
+        "options": {
+            "A": "$(n - 1)t$",
+            "B": "$nt$",
+            "C": "$(n/t - 1)$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$(n - 1)t$",
+            "B": "$nt$",
+            "C": "$(n/t - 1)$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "A static electric field is .......... .",
+        "prashna": "स्थिर विद्युतीय क्षेत्र ........ होता है।",
+        "options": {
+            "A": "Conservative",
+            "B": "Non-conservative",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संरक्षी",
+            "B": "असंरक्षी",
+            "C": "(A) तथा (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "1 coulomb charge = .......... esu.",
+        "prashna": "1 कूलॉम आवेश = .......... esu.",
+        "options": {
+            "A": "$3 \\times 10^9$",
+            "B": "$9 \\times 10^9$",
+            "C": "$8.85 \\times 10^{-12}$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$3 \\times 10^9$",
+            "B": "$9 \\times 10^9$",
+            "C": "$8.85 \\times 10^{-12}$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The specific charge of an electron is:",
+        "prashna": "इलेक्ट्रॉन का विशिष्ट आवेश होता है।",
+        "options": {
+            "A": "$1.8 \\times 10^{11}$ C/kg",
+            "B": "$1.8 \\times 10^{-19}$ C/kg",
+            "C": "$1.9 \\times 10^{-19}$ C/kg",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$1.8 \\times 10^{11}$ C/kg",
+            "B": "$1.8 \\times 10^{-19}$ C/kg",
+            "C": "$1.9 \\times 10^{-19}$ C/kg",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "In the given figure, the charge on plate X is",
+        "prashna": "दिए गए चित्र में प्लेट X पर आवेश है",
+        "options": {
+            "A": "$20 \\mu C$",
+            "B": "$-20 \\mu C$",
+            "C": "Zero",
+            "D": "$-10 \\mu C$"
+        },
+        "vikalpa": {
+            "A": "$20 \\mu C$",
+            "B": "$-20 \\mu C$",
+            "C": "शून्य",
+            "D": "$-10 \\mu C$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The electrical resistance of a healthy human body is",
+        "prashna": "स्वस्थ मनुष्य के शरीर का विद्युत प्रतिरोध है",
+        "options": {
+            "A": "$50,000 \\Omega$",
+            "B": "$10,000 \\Omega$",
+            "C": "$1,000 \\Omega$",
+            "D": "$10 \\Omega$"
+        },
+        "vikalpa": {
+            "A": "$50,000 \\Omega$",
+            "B": "$10,000 \\Omega$",
+            "C": "$1,000 \\Omega$",
+            "D": "$10 \\Omega$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Nickel is",
+        "prashna": "निकेल है",
+        "options": {
+            "A": "Diamagnetic",
+            "B": "Paramagnetic",
+            "C": "Ferromagnetic",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रतिचुम्बकीय",
+            "B": "अनुचुम्बकीय",
+            "C": "लौहचुम्बकीय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The radius of curvature of a plane mirror is",
+        "prashna": "समतल दर्पण की वक्रता त्रिज्या होती है",
+        "options": {
+            "A": "Infinite",
+            "B": "Zero",
+            "C": "+ 5 cm",
+            "D": "- 5 cm"
+        },
+        "vikalpa": {
+            "A": "अनन्त",
+            "B": "शून्य",
+            "C": "+ 5 सेमी",
+            "D": "- 5 सेमी"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The SI unit of power of a lens is",
+        "prashna": "लेंस की क्षमता का SI मात्रक होता है",
+        "options": {
+            "A": "Joule",
+            "B": "Dioptre",
+            "C": "Candela",
+            "D": "Watt"
+        },
+        "vikalpa": {
+            "A": "जूल",
+            "B": "डायोप्टर",
+            "C": "कैण्डेला",
+            "D": "वाट"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "In an n-p-n transistor, the relation between emitter current $i_E$, base current $i_B$ and collector current $i_c$ is:",
+        "prashna": "n-p-n ट्रांजिस्टर में उत्सर्जक धारा $i_E$, आधार धारा $i_B$ तथा संग्राहक धारा $i_c$ में संबंध है।",
+        "options": {
+            "A": "$i_c = i_E - i_B$",
+            "B": "$i_B = i_E - i_c$",
+            "C": "$i_E = i_c - i_B$",
+            "D": "$i_B = i_E + i_c$"
+        },
+        "vikalpa": {
+            "A": "$i_c = i_E - i_B$",
+            "B": "$i_B = i_E - i_c$",
+            "C": "$i_E = i_c - i_B$",
+            "D": "$i_B = i_E + i_c$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: The capacitance of a capacitor increases with the increase of charge on its plate.\nStatement-II: $V \\propto Q$",
+        "prashna": "कथन-I: एक संधारित्र की धारिता उसके प्लेट पर आवेश पढ़ने के साथ बढ़ती है।\nकथन-II: $V \\propto Q$",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: An electric bulb lights up instantly when switched on.\nStatement-II: The free electrons present in the wire move with the speed of light.",
+        "prashna": "कथन-I: किसी विद्युत बल्ब को संचालित करने पर बल्ब तत्काल प्रज्वलित हो जाता है।\nकथन-II: तार में उपस्थित मुक्त इलेक्ट्रॉन प्रकाश के वेग से चलता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: Energy is released in nuclear fusion.\nStatement-II: The total binding energy of the products after the nuclear fusion process is less than the total binding energy of the original reactants.",
+        "prashna": "कथन-I: नाभिकीय संलयन में ऊर्जा मुक्त होती है।\nकथन-II: नाभिकीय संलयन की प्रक्रिया के बाद उत्पाद की कुल बंधन ऊर्जा मूल अभिकारकों की कुल बंधन ऊर्जा से कम होती है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: The e.m.f. of a large dry cell is high.\nStatement-II: The e.m.f. of a cell is proportional to its size.",
+        "prashna": "कथन-I: एक बड़े सूख सेल का वि.वा. बल उच्च होता है।\nकथन-II: किसी सेल का वि०वा० बल इसके आकार के समानुपाती होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: Light travels in a straight line in a homogeneous medium.\nStatement-II: In diffraction, the direction of propagation of light changes without any change in the medium.",
+        "prashna": "कथन-I: प्रकाश किसी समरूपीय माध्यम में सीधी रेखा में गमन करती है।\nकथन-II: विवर्तन में बिना माध्यम परिवर्तन के ही प्रकाश के गमन की दिशा बदल जाती है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "The image formed on the retina of a human eye is",
+        "prashna": "मनुष्य के आँख के रेटिना पर बना प्रतिबिम्ब होता है",
+        "options": {
+            "A": "Virtual",
+            "B": "Inverted",
+            "C": "Erect",
+            "D": "Real"
+        },
+        "vikalpa": {
+            "A": "काल्पनिक",
+            "B": "उल्टा",
+            "C": "सीधा",
+            "D": "वास्तविक"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "In a laser beam, if one photon stimulates another photon for emission, then both photons are:",
+        "prashna": "लेजर किरण में एक फोटॉन, दूसरे फोटॉन को उत्सर्जन के लिए प्रेरित करता है, तो दोनों फोटॉन होती है।",
+        "options": {
+            "A": "Of same energy",
+            "B": "In same direction",
+            "C": "Of same amplitude",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "समान ऊर्जा",
+            "B": "समान दिशा",
+            "C": "समान आयाम",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which of these quantity/quantities is/are scalar?",
+        "prashna": "इनमें से कौन सी राशि/राशियाँ अदिश है ?",
+        "options": {
+            "A": "Charge",
+            "B": "Capacitance",
+            "C": "Potential",
+            "D": "Electric field intensity"
+        },
+        "vikalpa": {
+            "A": "आवेश",
+            "B": "धारिता",
+            "C": "विभव",
+            "D": "विद्युत तीव्रता"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Frequency of direct current",
+        "prashna": "दिष्ट धारा की आवृत्ति",
+        "options": {
+            "A": "Reduces alternating current",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "Infinite",
+            "D": "$3.6 \\times 10^6$ J"
+        },
+        "vikalpa": {
+            "A": "प्रत्यावर्ती धारा को कम करता है",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "अनन्त",
+            "D": "$3.6 \\times 10^6$ J"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Choke coil",
+        "prashna": "चोक कुण्डली",
+        "options": {
+            "A": "Reduces alternating current",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "Infinite",
+            "D": "$3.6 \\times 10^6$ J"
+        },
+        "vikalpa": {
+            "A": "प्रत्यावर्ती धारा को कम करता है",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "अनन्त",
+            "D": "$3.6 \\times 10^6$ J"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Energy density of electric field",
+        "prashna": "विद्युत क्षेत्र का ऊर्जा घनत्व",
+        "options": {
+            "A": "Reduces alternating current",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "Infinite",
+            "D": "$3.6 \\times 10^6$ J"
+        },
+        "vikalpa": {
+            "A": "प्रत्यावर्ती धारा को कम करता है",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "अनन्त",
+            "D": "$3.6 \\times 10^6$ J"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "1 kWh",
+        "prashna": "1 kWh",
+        "options": {
+            "A": "Reduces alternating current",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "Infinite",
+            "D": "$3.6 \\times 10^6$ J"
+        },
+        "vikalpa": {
+            "A": "प्रत्यावर्ती धारा को कम करता है",
+            "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+            "C": "अनन्त",
+            "D": "$3.6 \\times 10^6$ J"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "If the angle of incidence is $i' > i$, then the angle of refraction will be",
+        "prashna": "यदि आपतन का कोण $i' > i$ हो, तो अपवर्तन का कोण होगा",
+        "options": {
+            "A": "$i'$",
+            "B": "$> i'$",
+            "C": "$< i'$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$i'$",
+            "B": "$> i'$",
+            "C": "$< i'$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "If the angle of incidence is $i > 2i$, then the angle of refraction will be",
+        "prashna": "यदि आपतन का कोण $i > 2i$ हो, तो अपवर्तन का कोण होगा",
+        "options": {
+            "A": "$2i$",
+            "B": "$> 2i$",
+            "C": "$< 2i$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$2i$",
+            "B": "$> 2i$",
+            "C": "$< 2i$",
+            "D": "इनमें से कोई नही"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "For what angle of incidence does total internal reflection occur?",
+        "prashna": "किस आपतन कोण के लिए पूर्ण आंतरिक परावर्तन होता है",
+        "options": {
+            "A": "$90^\\circ$",
+            "B": "$48^\\circ$",
+            "C": "$30^\\circ$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$90^\\circ$",
+            "B": "$48^\\circ$",
+            "C": "$30^\\circ$",
+            "D": "इनमें से कोई नही"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Calculate the angle of refraction, when a light ray is incident on a glass plate at the polarizing angle. ($\\mu_g = 3/2$)",
+        "prashna": "अपवर्तन कोण की गणना करें, जब किसी काँच के प्लेट पर प्रकाश किरण ध्रुवण कोण पर आपतित हो। ($\\mu_g = 3/2$)"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "State any four main characteristics of laser beams.",
+        "prashna": "लेजर किरणों के किन्हीं चार मुख्य विशेषताओं को बताइए।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Why does the process of thermionic emission occur only at the surface?",
+        "prashna": "तापायनिक उत्सर्जन की प्रक्रिया सिर्फ सतह पर क्यों घटती है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Write the expressions for the electric energy density and magnetic energy density associated with an electromagnetic wave and show that their ratio is 1.",
+        "prashna": "किसी विद्युत-चुम्बकीय क्षेत्र तरंग से जुड़े वैद्युत ऊर्जा घनत्व एवं चुम्बकीय ऊर्जा घनत्व का व्यंजक लिखें तथा दर्शाइए कि उनका अनुपात 1 होता है।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Write the expression for resistivity for a conductor and explain each component of the expression.",
+        "prashna": "प्रतिरोधकता का व्यंजक किसी चालक के लिए लिखें तथा व्यंजक के प्रत्येक अवयव को समझाइए ।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What will be the activity of a 1 gram sample of $^{238}U$, if its half-life for $\\alpha$-decay is $4500 \\times 10^6$ years?",
+        "prashna": "$^{238}U$ के 1 ग्राम के नमूने की सक्रियता क्या होगी, यदि उसका $\\alpha$-क्षय हेतु अर्ध-काल $4500 \\times 10^6$ वर्ष है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Identify the given gate and write its truth table.",
+        "prashna": "दिये गए गेट को पहचाने तथा उसका टुथ टेबल (सत्यता सारणी) लिखें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What do you understand by analog and digital signals?",
+        "prashna": "एनालॉग तथा डिजिटल सिग्नल से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Find the equivalent capacitance between points A and B-",
+        "prashna": "बिन्दु A तथा B के बीच समतुल्य धारिता ज्ञात करें-"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "At a certain place on Earth, the value of $B_H$ is 0.1732 Oersted and the angle of dip is $30^\\circ$. Calculate the total intensity $B$ of the Earth's magnetism at that place.",
+        "prashna": "पृथ्वी के किसी स्थान पर $B_H$ का मान 0.1732 ओरस्टेड तथा नमन कोण $30^\\circ$ है। उस स्थान पर पृथ्वी के चुम्बकत्व की सम्पूर्ण तीव्रता B की गणना करें।"
+    },
+    {
+        "id": "short_11_1",
+        "type": "short_answer",
+        "question": "Write and explain the Thomson effect or the Seebeck effect.",
+        "prashna": "थामसन या सीवेक प्रभाव को लिखें तथा समझाइए ।"
+    },
+    {
+        "id": "short_11_2",
+        "type": "short_answer",
+        "question": "Write the two factors on which the thermo-electric e.m.f. produced in a thermocouple depends.",
+        "prashna": "उन दो कारकों को लिखें जिसपर तापयुग्मी में उत्पन्न ताप विद्युत वाहक बल निर्भर करता है।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Explain the construction and working principle of a Van de Graaff generator with its theory.",
+        "prashna": "सिद्धांत सहित किसी वान-डे-ग्राफ जनित्र की बनावट एवं क्रिया पद्धति की व्याख्या करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Two pith-balls, each of mass 0.2 gram, are suspended by two silk threads of length 50 cm each. Each ball is given an equal charge of the same nature. If they become stationary after repulsion at a distance of 4 cm, calculate the charge on each ball.",
+        "prashna": "दो मज्जा-गुटिकाओं, जिनमें प्रत्येक का द्रव्यमान 0.2 ग्राम है, को प्रत्येक 50 सेमी के दो रेशम-धागे से लटकाया जाता है। प्रत्येक गुटिका को समान प्रकृति का बराबर-बराबर परिमाप का आवेश दिया जाता है। यदि ये गुटिका 4 सेमी की दूरी पर विकर्षण के बाद स्थिर हो जाते हैं, तो प्रत्येक गुटिका पर आवेश की गणना करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Define the peak value and root-mean-square value of an alternating current. Establish the relationship between them and also derive the expression for the root-mean-square value.",
+        "prashna": "प्रत्यावर्ती धारा उसका महत्तम मान तथा वर्ग -माध्य मूल मान को परिभाषित करें। इनके बीच संबंध स्थापित करें तथा वर्ग-माध्य मूल मान का व्यंजक भी प्राप्त करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Define eddy currents. How are they produced? How are eddy currents undesirable in a transformer and how can they be minimized in a device?",
+        "prashna": "भँवर धारा को परिभाषित करें। ये कैसे उत्पन्न होती है? भँवर धाराएँ किसी ट्रांसफार्मर में कैसे अनावश्यक हैं तथा इसे किसी यंत्र में कैसे कम किया जा सकता है ?"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Explain Huygens' wave theory and on its basis, establish the law of refraction or reflection.",
+        "prashna": "हाइगेंस के तरंग सिद्धांत को समझाइए तथा इसके आधार पर अपवर्तन या परावर्तन के नियम को स्थापित कर दिखाइए।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "A compound microscope has an objective lens with focal length $f_o = 2$ cm and an eyepiece with focal length $f_e = 6.25$ cm. The distance between the two lenses is $d = 15$ cm. Where should the object be placed in front of the objective so that the final image formed by the compound microscope is at (i) the least distance of distinct vision $D = 25$ cm, and (ii) at infinity? Also, calculate the magnifying power in both cases.",
+        "prashna": "एक संयुक्त सूक्ष्मदर्शी $f_o$ एवं $f_e$ क्रमशः 2 सेमी तथा 6.25 सेमी के लगे हैं तथा दोनों लेंसों के बीच की दूरी $d = 15$ सेमी है। अभिदृश्यक के सामने वस्तु को कहाँ रखा जाए कि संयुक्त सूक्ष्मदर्शी से बनने वाला अंतिम प्रतिबिंब (i) स्पष्ट देखने की न्यूनतम दूरी $D = 25$ सेमी तथा (ii) अनन्त पर हो ? दोनों अवस्थाओं में आवर्धन क्षमता की भी गणना करें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "If the work function of a metal is 2.14 eV, then calculate -",
+        "prashna": "यदि किसी धातु का कार्य फलन 2.14 eV है, तो परिकलन कीजिए -",
+        "sub_questions": {
+            "i": "The threshold frequency of the metal",
+            "ii": "The wavelength of the incident light, if the ejected electron with maximum kinetic energy is stopped by a stopping potential of 0.60 V."
+        },
+        "anuprashna": {
+            "i": "धातु की देहल आवृत्ति",
+            "ii": "आपतित प्रकाश का तरंगदैर्ध्य, यदि महत्तम गतिज ऊर्जा से निष्कासित इलेक्ट्रॉन को 0.60 V की निरोधी वोल्टता लगाकर रोका जाता है।"
+        }
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "Explain photoelectric emission. What are the laws of the photoelectric effect? State the explanation given by Einstein for it.",
+        "prashna": "प्रकाश-वैद्युत उत्सर्जन को समझाइए । प्रकाश-वैद्युत प्रभाव के नियम क्या-क्या हैं? आइंस्टीन द्वारा की गई इसकी व्याख्या को बताइए।"
+    }
+]
