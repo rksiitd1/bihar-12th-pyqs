@@ -1,0 +1,614 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "In amplitude modulation, the modulation index",
+        "prashna": "आयाम मॉडुलन में मॉडुलन सूचनांक",
+        "options": {
+            "A": "is always zero",
+            "B": "is between 0 and 1",
+            "C": "is between 1 and 0",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सदा शून्य होता है",
+            "B": "0 से 1 के बीच होता है।",
+            "C": "1 तथा 0 के बीच होता है।",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "On inserting a dielectric material between the plates of a parallel plate capacitor, its capacitance",
+        "prashna": "समानान्तर प्लेट संधारित्र के प्लेटों के बीच परावैद्युत पदार्थ डालने पर संधारित्र की धारिता",
+        "options": {
+            "A": "increases",
+            "B": "decreases",
+            "C": "remains unchanged",
+            "D": "cannot be said"
+        },
+        "vikalpa": {
+            "A": "बढ़ती है",
+            "B": "घटती है",
+            "C": "अपरिवर्तित रहती है",
+            "D": "कुछ कहा नहीं जा सकता"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "An ammeter of resistance $0.05\\Omega$ is connected to a cell of e.m.f. $1.5V$. If a current of $2.0 A$ flows in the circuit, then the internal resistance of the cell is",
+        "prashna": "एक $0.05\\Omega$ प्रतिरोध वाले एमीटर को $1.5V$ वि. वा. बल के सेल से जोड़ा जाता है। अगर $2.0 A$ की धारा परिपथ में बहती है, तो सेल का आंतरिक प्रतिरोध है",
+        "options": {
+            "A": "$1.0\\Omega$",
+            "B": "$0.9 \\Omega$",
+            "C": "$0.8 \\Omega$",
+            "D": "$0.7 \\Omega$"
+        },
+        "vikalpa": {
+            "A": "$1.0\\Omega$",
+            "B": "$0.9 \\Omega$",
+            "C": "$0.8 \\Omega$",
+            "D": "$0.7 \\Omega$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The quantum of electric charge in e.s.u. unit is",
+        "prashna": "विद्युत आवेश का क्वांटम e.s. u. मात्रक में होता है",
+        "options": {
+            "A": "$4.78 \\times 10^{-10}$",
+            "B": "$+ 16 \\times 10^{-19}$",
+            "C": "$299 \\times 10^{9}$",
+            "D": "$- 16 \\times 10^{-19}$"
+        },
+        "vikalpa": {
+            "A": "$4.78 \\times 10^{-10}$",
+            "B": "$+ 16 \\times 10^{-19}$",
+            "C": "$299 \\times 10^{9}$",
+            "D": "$- 16 \\times 10^{-19}$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Electrostatic field is",
+        "prashna": "स्थिर विद्युतीय क्षेत्र होता है",
+        "options": {
+            "A": "Conservative",
+            "B": "Non-conservative",
+            "C": "Somewhere conservative and somewhere non-conservative",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संरक्षी",
+            "B": "असंरक्षी",
+            "C": "कहीं संरक्षी तथा कहीं असंरक्षी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "For an isolated conductor, which of the following ratios is constant?",
+        "prashna": "एक एकाकी चालक के लिए निम्न में कौन अनुपात अचर होता है ?",
+        "options": {
+            "A": "$\\frac{\\text{Total charge}}{\\text{Potential}}$",
+            "B": "$\\frac{\\text{Given charge}}{\\text{Potential difference}}$",
+            "C": "$\\frac{(\\text{Total charge})^2}{\\text{Potential}}$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\text{कुल आवेश}}{\\text{विभव}}$",
+            "B": "$\\frac{\\text{दिया गया आवेश}}{\\text{विभवांतर}}$",
+            "C": "$\\frac{(\\text{कुल आवेश})^2}{\\text{विभव}}$",
+            "D": "इनमे से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Kilowatt-hour (kWh) is the unit of",
+        "prashna": "किलोवाट घंटा (kWh) मात्रक है",
+        "options": {
+            "A": "Power",
+            "B": "Energy",
+            "C": "Torque",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "शक्ति का",
+            "B": "ऊर्जा का",
+            "C": "बलाघूर्ण का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "A charge moving with uniform velocity produces",
+        "prashna": "समरूप वेग से चलायमान आवेश उत्पन्न करता है",
+        "options": {
+            "A": "Only electric field",
+            "B": "Only magnetic field",
+            "C": "Electromagnetic field",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "केवल विद्युतीय क्षेत्र",
+            "B": "केवल चुम्बकीय क्षेत्र",
+            "C": "विद्युत चुम्बकीय क्षेत्र",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The S.I. unit of pole strength is-",
+        "prashna": "ध्रुव प्रबलता का S.I. मात्रक है-",
+        "options": {
+            "A": "N",
+            "B": "N/Am",
+            "C": "Am",
+            "D": "T"
+        },
+        "vikalpa": {
+            "A": "N",
+            "B": "N/Am",
+            "C": "Am",
+            "D": "T"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "An A.C. source of angular frequency $\\omega$ is connected to an LCR series circuit. The peak value of the current will be maximum, if",
+        "prashna": "LCR श्रेणीक्रम परिपथ में $\\omega$ कोणीय आवृत्ति का एक A.C. स्रोत जुड़ा है। धारा का शिखर मान महत्तम होगा, यदि",
+        "options": {
+            "A": "$\\omega < 1/\\sqrt{LC}$",
+            "B": "$\\omega > 1/\\sqrt{LC}$",
+            "C": "$\\omega = 1/\\sqrt{LC}$",
+            "D": "$\\omega > 1/\\sqrt{LC}$"
+        },
+        "vikalpa": {
+            "A": "$\\omega < 1/\\sqrt{LC}$",
+            "B": "$\\omega > 1/\\sqrt{LC}$",
+            "C": "$\\omega = 1/\\sqrt{LC}$",
+            "D": "$\\omega > 1/\\sqrt{LC}$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Statement-I: The flow of negative charge is always from lower potential to higher potential. \nStatement-II: Electric potential is a vector quantity.",
+        "prashna": "कथन-I : ऋणात्मक आवेश का प्रवाह हमेशा निम्न विभव से उच्च विभव की ओर होता है। \nकथन- II : विद्युत विभव एक सदिश राशि है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Statement-I: The temperature coefficient of resistance is always positive. \nStatement-II: The resistance of a metal and its alloy increases with temperature.",
+        "prashna": "कथन-I : प्रतिरोध के ताप गुणांक हमेशा धनात्मक होता है। \nकथन-II : धातु एवं उसके मिश्रधातु का प्रतिरोध ताप के साथ बढ़ता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Statement-I: A potentiometer measures electromotive force. \nStatement-II: A voltmeter measures potential difference.",
+        "prashna": "कथन-I: विभवमापी विद्युत-वाहक बल मापता है। \nकथन-II : वोल्टमीटर विभवान्तर मापता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Statement-I: If the accelerating potential in an X-ray tube is increased, the minimum or cut-off wavelength of the generated X-ray remains unchanged. \nStatement-II: If the potential difference between the electrodes in an X-ray tube is increased, the intensity of the emitted radiation remains unchanged.",
+        "prashna": "कथन-I: अगर X-किरण नली में उत्तेजक विभव को बढ़ाया जाता है, तो उत्पन्न होने-वाली X-किरण की न्यूनतम या अंतक तरंगदैर्ध्य अपरिवर्तित रहती है। \nकथन-II : अगर X-नली में इलेक्ट्रोडों के बीच विभवांतर बढ़ाया जाता है, तो उत्सर्जित विकिरण की तीव्रता अपरिवर्तित रहती है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Statement-I: A free neutron is not stable. \nStatement-II: Outside the nucleus, a $\\beta$-neutron decays into a proton, an electron, and an antineutrino.",
+        "prashna": "कथन-I मुक्त न्यूट्रॉन स्थायी नहीं होता है। \nकथन-II: नाभिक के बाहर $\\beta$ न्यूट्रॉन, एक प्रोटॉन, एक इलेक्ट्रॉन एवं एक ऐन्टीन्यूट्रीनों में विघटित होता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is false.",
+            "D": "Statement-I is false, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "From Bohr's theory for the hydrogen atom, for an electron in the nth orbit",
+        "prashna": "बोर के हाइड्रोजन परमाणु के सिद्धान्त से, n-वीं कक्षा में विद्यमान इलेक्ट्रॉन के लिए",
+        "options": {
+            "A": "Linear momentum $\\propto \\frac{1}{n}$",
+            "B": "Radius $\\propto n$",
+            "C": "Kinetic energy $\\propto \\frac{1}{n^2}$",
+            "D": "Angular momentum $\\propto n$"
+        },
+        "vikalpa": {
+            "A": "रेखीय संवेग $\\propto \\frac{1}{n}$",
+            "B": "त्रिज्या $\\propto n$",
+            "C": "गतिज ऊर्जा $\\propto \\frac{1}{n^2}$",
+            "D": "कोणीय संवेग $\\propto n$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "An antenna is",
+        "prashna": "ऐण्टीना होता है",
+        "options": {
+            "A": "Inductive",
+            "B": "Capacitive",
+            "C": "Resistive at resonant frequency",
+            "D": "Above resonant frequency"
+        },
+        "vikalpa": {
+            "A": "प्रेरणिक",
+            "B": "धारितात्मक",
+            "C": "अनुनादी आवृत्ति पर प्रतिरोधक",
+            "D": "अनुनादी आवृत्ति के ऊपर"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Two bulbs rated at $200 V$ and $300 V$ respectively use the same power. Both bulbs are connected in series with a $500 V$ DC source, then across the two resistive bulbs",
+        "prashna": "दो बल्व क्रमशः $200 V$ एवं $300 V$ पर समान शक्ति का उपयोग करते हैं। इन दोनों वल्वों को $500$ वोल्ट के दिष्ट धारा विद्युत स्रोत के साथ श्रेणीक्रम में जोड़ा जाता है, तो दोनों प्रतिरोधक बल्बों के दोनों छोरों पर",
+        "options": {
+            "A": "The ratio of potential differences will be 3/2",
+            "B": "The ratio of potential differences will be 4/9",
+            "C": "The ratio of consumed powers will be 4/9",
+            "D": "The ratio of consumed powers will be 2/3"
+        },
+        "vikalpa": {
+            "A": "विभवान्तर का अनुपात 3/2 होगा",
+            "B": "विभवान्तर का अनुपात 4/9 होगा",
+            "C": "उपयुक्त शक्तियों का अनुपात 4/9 होगा",
+            "D": "उपयुक्त शक्तियों का अनुपात 2/3 होगा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Photoelectric effect",
+        "prashna": "विद्युत प्रकाश प्रभाव",
+        "options": {
+            "A": "Roentgen",
+            "B": "Rutherford",
+            "C": "Einstein",
+            "D": "Moseley"
+        },
+        "vikalpa": {
+            "A": "रूण्टगन",
+            "B": "रदरफोर्ड",
+            "C": "आइन्स्टीन",
+            "D": "मौजल"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "X-ray",
+        "prashna": "X-किरण",
+        "options": {
+            "A": "Roentgen",
+            "B": "Rutherford",
+            "C": "Einstein",
+            "D": "Moseley"
+        },
+        "vikalpa": {
+            "A": "रूण्टगन",
+            "B": "रदरफोर्ड",
+            "C": "आइन्स्टीन",
+            "D": "मौजल"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Radioactivity",
+        "prashna": "रेडियोधर्मिता",
+        "options": {
+            "A": "Roentgen",
+            "B": "Rutherford",
+            "C": "Einstein",
+            "D": "Moseley"
+        },
+        "vikalpa": {
+            "A": "रूण्टगन",
+            "B": "रदरफोर्ड",
+            "C": "आइन्स्टीन",
+            "D": "मौजल"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Of characteristic X-ray",
+        "prashna": "अभिलाक्षणिक X-किरण का",
+        "options": {
+            "A": "Roentgen",
+            "B": "Rutherford",
+            "C": "Einstein",
+            "D": "Moseley"
+        },
+        "vikalpa": {
+            "A": "रूण्टगन",
+            "B": "रदरफोर्ड",
+            "C": "आइन्स्टीन",
+            "D": "मौजल"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "For a biconvex lens, the magnitude of the radius of curvature of each surface is $|r_1| = |r_2| = 40$ cm and the refractive index of the lens material is $n = 3/2$. Then its power will be",
+        "prashna": "किसी द्वि- उत्तल लेंस के प्रत्येक सतह की वक्रता त्रिज्या का मान $|r_1| = |r_2| = 40$ सेमी तथा लेंस के पदार्थ का अपवर्तनांक $n = 3/2$ है, तो इसकी क्षमता होगी",
+        "options": {
+            "A": "2.5 D",
+            "B": "2.25 D",
+            "C": "25 D",
+            "D": "0.025 D"
+        },
+        "vikalpa": {
+            "A": "2.5 D",
+            "B": "2.25 D",
+            "C": "25 D",
+            "D": "0.025 D"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "To obtain a real image of double the size of the object from a converging lens of focal length 20 cm, the object must be placed at a distance of ...... from the lens.",
+        "prashna": "$20$ सेमी फोकस दूरी वाले अभिसारी लेंस से वस्तु के दुगुने आकार का वास्तविक प्रतिविम्ब प्राप्त करने के लिए वस्तु को लेंस से ...... दूरी पर रखना होगा।",
+        "options": {
+            "A": "u = 20 cm",
+            "B": "u = -50 cm",
+            "C": "u = -30 cm",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "u = 20 cm",
+            "B": "u = -50 cm",
+            "C": "u = -30 cm",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "When a converging lens is immersed in a liquid whose refractive index is equal to the refractive index of the lens material ($n_{\\text{liquid}} = n_{\\text{lens}}$), the focal length of the lens",
+        "prashna": "जब एक अभिसारी लेंस को एक ऐसे द्रव में डुबाया जाता है, जिसका अपवर्तनांक लेंस के पदार्थ के अपवर्तनांक के बराबर होता है ($n_{\\text{द्रव}} = n_{\\text{लेंस}}$) तो लेंस की फोकस दूरी",
+        "options": {
+            "A": "will be infinite",
+            "B": "will be small but non-zero",
+            "C": "will remain unchanged",
+            "D": "will become zero"
+        },
+        "vikalpa": {
+            "A": "अनंत होगी",
+            "B": "छोटी परन्तु अशून्य होगी",
+            "C": "अपरिवर्तित रहती है",
+            "D": "शून्य हो जायेगी"
+        }
+    },
+    {
+        "id": "short_1_1",
+        "type": "short_answer",
+        "question": "What are the limitations of Coulomb's law?",
+        "prashna": "कूलॉम के नियम की सीमाएँ क्या हैं?"
+    },
+    {
+        "id": "short_1_2",
+        "type": "short_answer",
+        "question": "Write and explain the principle of superposition for the electric field.",
+        "prashna": "विद्युतीय क्षेत्र के लिए अध्यारोपन सिद्धान्त को लिखें और समझाइए।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Define dielectric strength and relative permittivity.",
+        "prashna": "परावैद्युत शक्ति एवं आपेक्षिक परावैद्युतांक को परिभाषित करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "A wire of resistance $12\\Omega$ is stretched to double its length. Find the new resistance of the wire.",
+        "prashna": "एक $12\\Omega$ प्रतिरोध वाले तार को खींचकर उसकी लम्बाई दुगुनी कर दी जाती है, तो तार का नया प्रतिरोध निकालें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is a hysteresis loop? With its help, explain 'retentivity' and 'coercivity'.",
+        "prashna": "शैथिल्य पाश क्या है? इसकी सहायता से 'धारणशीलता' एवं 'निग्राहिता' को समझाइए।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "A current of $5A$ is flowing through a long straight wire. Calculate the magnetic field $\\vec{B}$ at a distance of $10$ cm from the wire. Present a diagram showing the direction of the $\\vec{B}$ field at that point.",
+        "prashna": "एक लम्बे सीधे तार से $5A$ की धारा प्रवाहित हो रही है। तार से $10$ सेमी की दूरी पर $\\vec{B}$ क्षेत्र की गणना करें। उस बिन्दु पर $\\vec{B}$ क्षेत्र की दिशा को प्रदर्शित करनेवाला चित्र प्रस्तुत करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "How is chromatic aberration (error) reduced?",
+        "prashna": "रंगीय विपथन (त्रुटि) को कैसे कम किया जाता है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Explain any two of the following-",
+        "prashna": "निम्नलिखित में से किन्हीं दो की व्याख्या करें-",
+        "sub_questions": {
+            "(i)": "Ground waves",
+            "(ii)": "Sky waves",
+            "(iii)": "Space waves"
+        },
+        "anuprashna": {
+            "(i)": "भू-तरंगें",
+            "(ii)": "व्योम तरंगें",
+            "(iii)": "आकाशीय तरंगें"
+        }
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Draw the circuit diagram of a common-emitter amplifier.",
+        "prashna": "उभयनिष्ठ उत्सर्जक प्रवर्धक का परिपथ- आरेख खींचें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What is the Seebeck effect?",
+        "prashna": "सीवेक प्रभाव क्या होता है?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Explain the following-",
+        "prashna": "निम्न की व्याख्या करें-",
+        "sub_questions": {
+            "(i)": "Www",
+            "(ii)": "Fax"
+        },
+        "anuprashna": {
+            "(i)": "Www",
+            "(ii)": "Fax"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is the difference between magnification and magnifying power?",
+        "prashna": "आवर्धन एवं आवर्धन क्षमता में क्या अंतर है?"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Define capacitance and write its SI unit. Prove that the electrostatic energy stored in a parallel plate capacitor is $1/2 CV^2$. Based on this, derive the expression for the energy density of the electric field within the capacitor.",
+        "prashna": "धारिता को परिभाषित करें तथा उसका SI मात्रक लिखें। सिद्ध करें कि एक समानान्तर प्लेट संधारित्र में स्थिर वैद्युत ऊर्जा $1/2 CV^2$ होती है। इसके आधार पर, संधारित्र के प्लेटों के बीच विद्युतीय क्षेत्र में ऊर्जा घनत्व का व्यंजक ज्ञात करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Derive an expression for the capacitance of a parallel plate capacitor. If a composite dielectric medium is inserted between the plates of the capacitor, how does the capacitance of the capacitor change?",
+        "prashna": "एक समान्तर प्लेटवाले संधारित्र की धारिता का व्यंजक प्राप्त करें। यदि संधारित्र के प्लेटों के बीच संयुक्त परावैद्युतिक माध्यम डाला जाये तो संधारित्र की धारिता किस प्रकार परिवर्तित हो जाती है ?"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Draw a ray diagram for the refraction of light through a glass prism. Establish the formula used to find the refractive index of the material of the prism.",
+        "prashna": "काँच प्रिज्म से प्रकाश के अपवर्तन का किरण आरेख खींचें। प्रिज्म के पदार्थ का अपवर्तनांक ज्ञात करने के लिए प्रयुक्त सूत्र को स्थापित करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "(i)": "What do you understand by an equivalent lens? A system of two lenses is placed at some distance from each other, then derive the expression for the equivalent focal length for this system.",
+            "(ii)": "A lens enclosed by two curved surfaces with radii of curvature $R_1$ and $R_2$ is placed as shown in the figure. Prove that $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$."
+        },
+        "anuprashna": {
+            "(i)": "समतुल्य लेंस से आप क्या समझते हैं? दो लेंसों के निकाय को कुछ दूरी पर रखा गया है, तो इस निकाय के लिए समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।",
+            "(ii)": "$R_1$ तथा $R_2$ वक्रता त्रिज्या वाली दो वक्र सतहों से घिरे एक लेंस निम्न प्रदर्शित चित्र के अनुरूप रखा गया है। सिद्ध करें कि $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$।"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "(i)": "Explain the behavior of a current-carrying loop as a magnetic dipole.",
+            "(ii)": "Find the force and torque acting on a magnet placed in a uniform external magnetic field. Also, calculate the work done in rotating the magnet freely in the magnetic field."
+        },
+        "anuprashna": {
+            "(i)": "किसी धारावाही लूप के चुंबकीय द्विध्रुव के तरह व्यवहार को समझाएँ।",
+            "(ii)": "किसी समरूप वाह्य चुंबकीय क्षेत्र रखे चुंबक पर लगने वाले बल एवं आघूर्ण को ज्ञात करें। साथ ही चुंबकीय क्षेत्र में चुंबक को स्वेच्छ रूप से घुमाने के लिए किए गए कार्य की गणना करें।"
+        }
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "(i)": "An electron has a velocity $\\vec{v} = 2\\hat{i} + 3\\hat{j}$. It is released in a uniform magnetic field $\\vec{B} = 4\\hat{k}$. Calculate the time period of the electron's motion.",
+            "(ii)": "Without finding the moment of inertia, how can the magnetic moments of two bar magnets be compared?"
+        },
+        "anuprashna": {
+            "(i)": "एक इलेक्ट्रॉन का वेग $\\vec{v} = 2\\hat{i} + 3\\hat{j}$ है। इसे समरूप चुंबकीय क्षेत्र $\\vec{B} = 4\\hat{k}$ में छोड़ा जाता है, तो इलेक्ट्रॉन के गति के आवर्तकाल की गणना करें।",
+            "(ii)": "बिना जड़त्व आघूर्ण ज्ञात किए हुए किस प्रकार दो दण्ड चुंबकों के चुंबकीय आघूर्ण की तुलना की जा सकती है।"
+        }
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "State Bohr's postulates to explain the spectra of hydrogen-like atoms and derive an expression for the total energy of an electron revolving in the nth stationary orbit of an atom.",
+        "prashna": "हाइड्रोजन समान परमाणुओं के स्पेक्ट्रा की व्याख्या के लिए बोर की मान्यताओं को बताइए तथा किसी परमाणु की n स्थायी कक्षा में घूमने वाले इलेक्ट्रॉन की कुल ऊर्जा का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "What are energy bands in solids? How are semiconductors, insulators, and conductors classified on the basis of band theory?",
+        "prashna": "ठोसों में ऊर्जा-पट्टी क्या हैं? किस प्रकार पट्टी- सिद्धान्त के आधार पर अर्धचालक, कुचालक व चालक को वर्गीकृत किया जाता है?"
+    }
+]
