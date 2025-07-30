@@ -1,0 +1,675 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Which of the following is a diploid structure?",
+        "prashna": "निम्न में से कौन द्विगुणित संरचना है?",
+        "options": {
+            "A": "Ovum",
+            "B": "Endosperm",
+            "C": "Zygote",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अण्डाणु",
+            "B": "भ्रूण पोष",
+            "C": "युग्मनज",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Oncogenes are responsible for which of these?",
+        "prashna": "ओंकोजीन, इनमें से किसके लिए उत्तरदायी हैं?",
+        "options": {
+            "A": "Cancer",
+            "B": "AIDS",
+            "C": "Tuberculosis",
+            "D": "Polio"
+        },
+        "vikalpa": {
+            "A": "कैंसर",
+            "B": "एड्स",
+            "C": "क्षय-रोग",
+            "D": "पोलियो"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "11",
+        "question": "Which of these plants is a hydrophyte?",
+        "prashna": "इनमें से कौन पौधा जलो‌द्भिद हैं?",
+        "options": {
+            "A": "Water caltrop",
+            "B": "Opuntia",
+            "C": "Sheesham",
+            "D": "Acacia"
+        },
+        "vikalpa": {
+            "A": "सिंघाड़ा",
+            "B": "नागफनी",
+            "C": "शीशम",
+            "D": "एकेसिया"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "3",
+        "question": "What is fertilization that occurs outside the body called?",
+        "prashna": "शरीर के बाहर होने वाले निषेचन को क्या कहते हैं?",
+        "options": {
+            "A": "In vitro",
+            "B": "In vivo",
+            "C": "Both",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "इन विट्रो",
+            "B": "इन वीवो",
+            "C": "दोनों",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "13",
+        "question": "On which date is World Environment Day celebrated?",
+        "prashna": "विश्व पर्यावरण दिवस किस तिथि को मनाया जाता है?",
+        "options": {
+            "A": "5th June",
+            "B": "20th December",
+            "C": "15th March",
+            "D": "7th July"
+        },
+        "vikalpa": {
+            "A": "5th जून",
+            "B": "20th दिसम्बर",
+            "C": "15th मार्च",
+            "D": "7th जुलाई"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "2",
+        "question": "Sertoli cells are found in-",
+        "prashna": "सर्टोली कोशिकाएँ पायी जाती हैं-",
+        "options": {
+            "A": "Testis",
+            "B": "Uterus",
+            "C": "Ovary",
+            "D": "Liver"
+        },
+        "vikalpa": {
+            "A": "वृषण",
+            "B": "गर्भाशय",
+            "C": "अंडाशय",
+            "D": "यकृत"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "5",
+        "question": "What does the Operon model represent?",
+        "prashna": "ओपेरॉन मॉडल क्या प्रदर्शित करता है ?",
+        "options": {
+            "A": "Synthesis of gene",
+            "B": "Expression of gene",
+            "C": "Regulation of gene",
+            "D": "Function of gene"
+        },
+        "vikalpa": {
+            "A": "जीन का सिंथेसिस",
+            "B": "जीन का एक्सप्रेशन",
+            "C": "जीन का रेगुलेशन",
+            "D": "जीन का फंक्शन"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "2",
+        "question": "Which of the following animals is not hermaphrodite?",
+        "prashna": "निम्नलिखित में से कौन जन्तु उभयलिंगी नहीं है?",
+        "options": {
+            "A": "Tapeworm",
+            "B": "Earthworm",
+            "C": "Housefly",
+            "D": "Leech"
+        },
+        "vikalpa": {
+            "A": "फीता कृमि",
+            "B": "केचुआ",
+            "C": "घरेलु मक्खी",
+            "D": "जोक"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Which of these nitrogenous bases is not present in $DNA$?",
+        "prashna": "इनमें से कौन सा नाइट्रोजिनस वेस डी०एन०ए० में नहीं होता है?",
+        "options": {
+            "A": "Thymine",
+            "B": "Uracil",
+            "C": "Guanine",
+            "D": "Cytosine"
+        },
+        "vikalpa": {
+            "A": "थाइमिन",
+            "B": "युरासिल",
+            "C": "गुआनिन",
+            "D": "साइटोसिन"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "13",
+        "question": "Red Data Book includes-",
+        "prashna": "रेड डाटा बुक में सम्मिलित है-",
+        "options": {
+            "A": "List of extinct plants",
+            "B": "List of rare plants",
+            "C": "List of endangered animals",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "विलुप्त हो रहे पौधों की सूची",
+            "B": "दुर्लभ पौधों की सूची",
+            "C": "आपत्ति ग्रस्त प्राणियों की सूची",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Thalamus is eaten in-",
+        "prashna": "पुष्पासन खाया जाता है-",
+        "options": {
+            "A": "Custard apple",
+            "B": "Apple",
+            "C": "Orange",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "शरीफा का",
+            "B": "सेब का",
+            "C": "नारंगी का",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "5",
+        "question": "$DNA$ is the genetic material of which of these?",
+        "prashna": "डी० एन० ए० इनमें से किसका आनुवांशिक पदार्थ है ?",
+        "options": {
+            "A": "T.M.V.",
+            "B": "Bacteriophage",
+            "C": "Both of them",
+            "D": "None of them"
+        },
+        "vikalpa": {
+            "A": "टी. एम. वी.",
+            "B": "बैक्टीरियोफेज",
+            "C": "दोनों का",
+            "D": "किसी का नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "3",
+        "question": "What happens due to overpopulation?",
+        "prashna": "जनसंख्या अधिक होने से क्या होता है ?",
+        "options": {
+            "A": "Decrease in income",
+            "B": "Decrease in land",
+            "C": "Scarcity of minerals",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आय में कमी",
+            "B": "जमीन में कमी",
+            "C": "खनिज पदार्थ की कमी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "2",
+        "question": "Acrosome is a part of which of these?",
+        "prashna": "एक्रोसोम इनमें से किसका संभाग है?",
+        "options": {
+            "A": "Head of human sperm",
+            "B": "Middle part of human sperm",
+            "C": "Primary oocyte",
+            "D": "Blastocyst"
+        },
+        "vikalpa": {
+            "A": "मानव शुक्राणु के सिर का",
+            "B": "मानव शुक्राणु के मध्य भाग का",
+            "C": "प्रारंभिक डिम्बाणुजनकोशिका का",
+            "D": "ब्लास्टोसिस्ट का"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Which of these is a bacterial disease?",
+        "prashna": "इनमें से कौन जीवाणु जनित रोग है?",
+        "options": {
+            "A": "Leprosy",
+            "B": "Tuberculosis",
+            "C": "Cholera",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "कुष्ठ रोग",
+            "B": "क्षय रोग",
+            "C": "हैजा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "4",
+        "question": "What is the number of chromosomes in a human (male)?",
+        "prashna": "मनुष्य (पुरुष) में गुण-सूत्र की संख्या है?",
+        "options": {
+            "A": "44 + XX",
+            "B": "44 + XY",
+            "C": "46 + XY",
+            "D": "46 + XX"
+        },
+        "vikalpa": {
+            "A": "44 + XX",
+            "B": "44 + XY",
+            "C": "46 + XY",
+            "D": "46 + XX"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Which of the following is Acetabularia?",
+        "prashna": "एसीटाइलेरिया निम्न में से क्या है?",
+        "options": {
+            "A": "Bacteria",
+            "B": "Alga",
+            "C": "Protozoa",
+            "D": "Single cell protein"
+        },
+        "vikalpa": {
+            "A": "जीवाणु",
+            "B": "शैवाल",
+            "C": "प्रोटोजोआ",
+            "D": "एकल कोशिका प्रोटीन"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "1",
+        "question": "In cleistogamous plants, there is definitely",
+        "prashna": "अनुन्मील्य परागण वाले पौधों में निश्चित रूप से होता है",
+        "options": {
+            "A": "Self-pollination",
+            "B": "Cross-pollination",
+            "C": "Both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "स्व-परागण",
+            "B": "पर परागण",
+            "C": "दोनो",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "12",
+        "question": "The flow of energy in the food chain of an ecosystem is.",
+        "prashna": "पारिस्थितिक तंत्र के आहार श्रृंखला में ऊर्जा का प्रवाह होता है।",
+        "options": {
+            "A": "Unidirectional",
+            "B": "Bidirectional",
+            "C": "Multidirectional",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एक दिशीय",
+            "B": "द्विदिशीय",
+            "C": "बहु दिशीय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "4",
+        "question": "Which of these blood groups is a universal donor?",
+        "prashna": "इनमें से कौन सा रक्त समूह सार्वभौमिक रक्तदाता है ?",
+        "options": {
+            "A": "B",
+            "B": "A",
+            "C": "AB",
+            "D": "O"
+        },
+        "vikalpa": {
+            "A": "B",
+            "B": "A",
+            "C": "AB",
+            "D": "O"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "4",
+        "question": "What is the phenotypic ratio of a monohybrid cross?",
+        "prashna": "एक संकरण क्रॉस का फीनोटिपिक अनुपात क्या है?",
+        "options": {
+            "A": "1:2:1",
+            "B": "3:1",
+            "C": "9:3:3:1",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1:2:1",
+            "B": "3:1",
+            "C": "9:3:3:1",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "13",
+        "question": "In which state is the Rhino Sanctuary located?",
+        "prashna": "गैंडा अभयारण्य किस राज्य में अवस्थित है ?",
+        "options": {
+            "A": "Assam",
+            "B": "West Bengal",
+            "C": "Uttar Pradesh",
+            "D": "Bihar"
+        },
+        "vikalpa": {
+            "A": "असम",
+            "B": "पश्चिम बंगाल",
+            "C": "उत्तर प्रदेश",
+            "D": "बिहार"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "5",
+        "question": "What is the process of making $mRNA$ from $DNA$ called?",
+        "prashna": "डी. एन. ए. से mRNA बनाने की क्रिया को क्या कहते हैं?",
+        "options": {
+            "A": "Transcription",
+            "B": "Replication",
+            "C": "Translation",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ट्रांसक्रिप्शन",
+            "B": "रिप्लिकेशन",
+            "C": "ट्रांसलेशन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "12",
+        "question": "Which standard for noise pollution is correct according to WHO?",
+        "prashna": "WHO के द्वारा ध्वनि प्रदूषण का कौन सा मानक सही है ?",
+        "options": {
+            "A": "20-30 decibels",
+            "B": "45 decibels",
+            "C": "75 decibels",
+            "D": "90 decibels"
+        },
+        "vikalpa": {
+            "A": "20-30 डेसीबल",
+            "B": "45 डेसीबल",
+            "C": "75 डेसीबल",
+            "D": "90 डेसीबल"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Malaria disease is caused by-",
+        "prashna": "मलेरिया रोग उत्पन्न होता है-",
+        "options": {
+            "A": "Male Culex",
+            "B": "Female Anopheles",
+            "C": "Female Aedes",
+            "D": "Male Anopheles"
+        },
+        "vikalpa": {
+            "A": "नर क्यूलेक्स",
+            "B": "मादा एनोफेलीज",
+            "C": "मादा एडीस",
+            "D": "नर एनोफिलीज"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "8",
+        "question": "In which non-leguminous plant's root nodule is bio-fertilizer present?",
+        "prashna": "किस गैर फली पौधों के जड़ पिंड़ में जैविक खाद मौजूद है ?",
+        "options": {
+            "A": "Azotobacter",
+            "B": "Clostridium",
+            "C": "Frankia",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एजोटोबैक्टर",
+            "B": "क्लॉस्ट्रिडियम",
+            "C": "फ्राँकिया",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "8",
+        "question": "Which bacterium is used in making curd from milk?",
+        "prashna": "दूध से दही बनाने में किस जीवाणु का उपयोग होता है?",
+        "options": {
+            "A": "Clostridium",
+            "B": "Lactobacillus",
+            "C": "Both A and B",
+            "D": "Streptococcus"
+        },
+        "vikalpa": {
+            "A": "क्लास्ट्रिडियम",
+            "B": "लैक्टोबैसिलस",
+            "C": "A तथा B दोनों",
+            "D": "स्ट्रेप्टोकोकस"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "6",
+        "question": "The theory of inheritance of acquired characters was given by whom?",
+        "prashna": "अर्जित गुणों के वंशागति का सिद्धांत किनके द्वारा किया गया ?",
+        "options": {
+            "A": "Darwin",
+            "B": "Lamarck",
+            "C": "De Vries",
+            "D": "Haeckel"
+        },
+        "vikalpa": {
+            "A": "डार्विन",
+            "B": "लैमार्क",
+            "C": "डे. वरीज",
+            "D": "हैकल"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "5",
+        "question": "Describe the structure of $DNA$.",
+        "prashna": "डी०एन०ए० की संरचना का वर्णन करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "12",
+        "question": "What is global warming? Describe its effects and measures for its control.",
+        "prashna": "ग्लोबल वार्मिंग क्या है? उसके प्रभाव और मुक्ति के उपायों का वर्णन करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "3",
+        "question": "What is a test-tube baby?",
+        "prashna": "टेस्ट-ट्यूब बेबी किसे कहते हैं?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "3",
+        "question": "Write the names of any four sexually transmitted diseases along with their causative pathogens.",
+        "prashna": "किसी चार यौन संचारित रोगों के नाम, उनके कारक रोगाणुओं के साथ लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "2",
+        "question": "Differentiate between spermatogenesis and oogenesis.",
+        "prashna": "शुक्राणुजनन एवं अण्डजनन के बीच अन्तर स्पष्ट करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "7",
+        "question": "State the functions of blood.",
+        "prashna": "रक्त के कार्य बताएँ।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "11",
+        "question": "Mention the ecological adaptations of desert plants.",
+        "prashna": "मरुस्थलीय पौधों के पारिस्थितिक अनुकूलन का उल्लेख करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "9",
+        "question": "What is a $DNA$ probe? State its uses in biotechnology.",
+        "prashna": "डी० एन०ए० संपरीक्षक (प्रोब) क्या है? जैव प्रौद्योगिकी में इसके उपयोग बताये।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "13",
+        "question": "Write the definition of biodiversity and state its importance.",
+        "prashna": "जैव विविधता की परिभाषा लिखें एवं इसके महत्त्व को बताएँ।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "3",
+        "question": "What is sterilization? Mention its methods.",
+        "prashna": "बंध्याकरण क्या है? इसके तरीकों का उल्लेख करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "1",
+        "question": "Define the following:",
+        "prashna": "निम्नलिखित को परिभाषित करें-",
+        "sub_questions": {
+            "i": "Protozoan endoparasite",
+            "ii": "Ovule"
+        },
+        "anuprashna": {
+            "i": "प्रोटोजोवन अन्तः परजीवी",
+            "ii": "बीजाण्डा।"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "question": "Define crossing over. Describe its process with the help of labelled diagrams.",
+        "prashna": "जीन विनिमय को परिभाषित करें। आरेखित चित्रों की मदद से इसकी प्रक्रिया का वर्णन करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "1",
+        "question": "What do you understand by double fertilization? Explain with the help of labelled diagrams.",
+        "prashna": "दोहरा निषेचन से आप क्या समझते हैं? आरेखित चित्रों की मदद से समझाएँ।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "question": "Describe the process of sex determination with suitable examples.",
+        "prashna": "उचित उदाहरणों के साथ लिंग निर्धारण की प्रक्रिया का वर्णन करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "2",
+        "question": "Describe the process of spermatogenesis with the help of diagrams.",
+        "prashna": "शुक्राणुजनन की प्रक्रिया का वर्णन रेखाचित्रों की सहायता से करें।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "question": "Define gene interaction. Describe it with the help of suitable crosses and examples.",
+        "prashna": "जीन अंतः क्रिया को परिभाषित करें। समुचित संकरण एवं उदाहरणों की मदद से इसका वर्णन करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "7",
+        "question": "Describe the main principles and applications of biological immunization.",
+        "prashna": "जैव प्रतिरक्षण के मुख्य सिद्धांतों एवं उपयोगों का वर्णन करें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "13",
+        "question": "What is ozone layer? Write its effects on the atmosphere.",
+        "prashna": "ओजोन परत क्या है? इससे वायुमण्डल पर पड़ने वाले प्रभाव को लिखें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "12",
+        "question": "What is a food web? Explain it with a suitable example.",
+        "prashna": "आहार जाल क्या है? उपयुक्त उदाहरण द्वारा इसे स्पष्ट करें।"
+    }
+]
