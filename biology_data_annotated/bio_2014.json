@@ -1,0 +1,610 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "1",
+        "question": "How many chromosomes are there in the endosperm?",
+        "prashna": "भ्रूणपोष में कितने क्रोमोजोम होते हैं?",
+        "options": {
+            "A": "$n$",
+            "B": "$2n$",
+            "C": "$3r$",
+            "D": "Both (A) and (C)"
+        },
+        "vikalpa": {
+            "A": "$n$",
+            "B": "$2n$",
+            "C": "$3r$",
+            "D": "(A) एवं (C) दोनों"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Anemophilous flowers are generally:",
+        "prashna": "वायु परागत पुष्प सामान्यतः होते हैं।",
+        "options": {
+            "A": "Attractive",
+            "B": "Small",
+            "C": "Colorless",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "आकर्षक",
+            "B": "छोटे",
+            "C": "रंगहीन",
+            "D": "(B) एवं (C) दोनों"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Widal test is used to detect:",
+        "prashna": "विडल जाँच से किसका पता चलता है ?",
+        "options": {
+            "A": "AIDS",
+            "B": "Malaria",
+            "C": "Tuberculosis",
+            "D": "Typhoid"
+        },
+        "vikalpa": {
+            "A": "एड्स",
+            "B": "मलेरिया",
+            "C": "तपेदिक",
+            "D": "टायफाइड"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "13",
+        "question": "Kanha National Park is famous for:",
+        "prashna": "कान्हा राष्ट्रीय उद्यान मशहूर है।",
+        "options": {
+            "A": "For birds",
+            "B": "For gharial / crocodile",
+            "C": "For rhinoceros",
+            "D": "For tiger"
+        },
+        "vikalpa": {
+            "A": "पक्षियों के लिए",
+            "B": "घड़ियाल / मगर के लिए",
+            "C": "गैन्डा के लिए",
+            "D": "बाघ के लिए"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Anticodons are found in:",
+        "prashna": "प्रतिकोडोन पाए जाते हैं",
+        "options": {
+            "A": "in $mi-RNA$",
+            "B": "in $r-RNA$",
+            "C": "in $t-RNA$",
+            "D": "in all of these"
+        },
+        "vikalpa": {
+            "A": "$mi-RNA$ में",
+            "B": "$r-RNA$ में",
+            "C": "$t-RNA$ में",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "4",
+        "question": "The phenotypic ratio in a dihybrid cross is:",
+        "prashna": "द्विसंकर क्रॉस में अनुलक्षणी (फेनोटाइपिक) अनुपात होता है।",
+        "options": {
+            "A": "3:1",
+            "B": "1:2:1",
+            "C": "9:7",
+            "D": "9:3:3:1"
+        },
+        "vikalpa": {
+            "A": "3:1",
+            "B": "1: 2:1",
+            "C": "9:7",
+            "D": "9:3:3:1"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "3",
+        "question": "Which of the following is prevented by Copper-T?",
+        "prashna": "निम्न में से किसे कॉपर-टी रोकता है?",
+        "options": {
+            "A": "Fertilization",
+            "B": "Implantation",
+            "C": "Ovulation",
+            "D": "Ejaculation"
+        },
+        "vikalpa": {
+            "A": "निषेचन",
+            "B": "आरोपण",
+            "C": "अण्डोत्सर्ग",
+            "D": "वीर्यपतन"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "4",
+        "question": "The gene for hypertrichosis (excessive hair on ears) is found on:",
+        "prashna": "कानों पर बाल की बहुलता का जीन पाया जाता है।",
+        "options": {
+            "A": "On $X$-chromosome",
+            "B": "On $Y$-chromosome",
+            "C": "On sex-determining chromosome",
+            "D": "On autosome"
+        },
+        "vikalpa": {
+            "A": "$X$-क्रोमोजोम पर",
+            "B": "$Y$-क्रोमोजोम पर",
+            "C": "लिंग निर्धारणीय क्रोमोजोम पर",
+            "D": "अलिंग क्रोमोजोम पर"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "12",
+        "question": "The credit for coining the term 'ecosystem' is given to:",
+        "prashna": "पारिस्थितिक तंत्र शब्द के उपयोग का श्रेय दिया जाता है",
+        "options": {
+            "A": "Gardener",
+            "B": "Odum",
+            "C": "Tansley",
+            "D": "Warming"
+        },
+        "vikalpa": {
+            "A": "गार्डनर को",
+            "B": "ओडम को",
+            "C": "टॉनसली को",
+            "D": "वार्मिंग को"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "10",
+        "question": "A whole plant can be formed from any plant cell. This property is called:",
+        "prashna": "प्रत्येक पादप कोशिका से पूर्ण पौधा बन सकता है। इस गुण को कहते हैं।",
+        "options": {
+            "A": "Cloning",
+            "B": "Somaclonal",
+            "C": "Totipotency",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "क्लेनिन",
+            "B": "सोमाक्लोनल",
+            "C": "टोटीपोटेन्सी",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Statement I: Cycas is a dioecious plant. \nStatement II: In this, male and female structures are found on different plants.",
+        "prashna": "कथन-I : साइकस एक एकलिंगाश्रयी पौधा है।\nकथन II : इसमें नर एवं मादा (स्त्री) संरचना अलग-अलग पौधों (भिन्न पौधों) पर पाए जाते हैं।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "3",
+        "question": "Statement I: The minimum age for marriage for girls is 18 years.\nStatement II: The minimum age for marriage for boys is 23 years.",
+        "prashna": "कथन-I : लड़कियों के विवाह की न्यूनतम उम्र 18 वर्ष है।\nकथन-II : लड़कों के विवाह की न्यूनतम उम्र 23 वर्ष है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "8",
+        "question": "Statement I: The amount of BOD indicates the pollution level of an aquatic system.\nStatement II: BOD is the amount of oxygen required by microorganisms to decompose the organic waste present in an aquatic system (water).",
+        "prashna": "कथन-I BOD की मात्रा किसी जलीय तंत्र के प्रदूषण स्तर को दर्शाती है।\nकथन- II : जलीय तंत्र (जल) में उपस्थित कार्बनिक अपशिष्टों के अपघटन हेतु सूक्ष्मजीवों द्वारा ऑक्सीजन की आवश्यक मात्रा को BOD कहते हैं।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "11",
+        "question": "Statement I: Xylem (daru) is a major conducting tissue.\nStatement II: Water is transported by xylem (daru).",
+        "prashna": "कथन-I: जाइलम (दारु) एक मुख्य संवहन ऊतक है।\nकथन II : जाइलम (दारु) के द्वारा जल का संचरण होता है।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Statement I: Male gametes are haploid.\nStatement II: The nucleus of a male gamete has ($n$) haploid chromosomes.",
+        "prashna": "कथन-I नर युग्मक अगुणक (हेप्लायड) होते हैं।\nकथन-II: नर युग्मक के केन्द्रक में ($n$) अगुणित क्रोमोजोम होते हैं।",
+        "options": {
+            "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही है तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "8",
+        "question": "Pasteurization involves heating:",
+        "prashna": "पाश्चुराइजेशन में गर्म करते हैं।",
+        "options": {
+            "A": "Only milk",
+            "B": "Any liquid at $100^{\\circ}C$",
+            "C": "Any liquid above $70^{\\circ}C$",
+            "D": "Any liquid is heated to $70^{\\circ}C-80^{\\circ}C$ and then cooled down quickly"
+        },
+        "vikalpa": {
+            "A": "केवल दूध को",
+            "B": "किसी भी तरल को $100^{\\circ}C$ पर",
+            "C": "किसी भी तरल को ($70^{\\circ}C$) से ऊपर",
+            "D": "किसी भी तरल को $70^{\\circ}C-80^{\\circ}C$ पर गर्म कर उसे शीघ्रता से ठण्डा (शीतल) किया जाता है।"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "12",
+        "question": "Secondary productivity is related to:",
+        "prashna": "द्वितीयक उत्पादकता से सम्बन्धित है।",
+        "options": {
+            "A": "Producer",
+            "B": "Herbivore",
+            "C": "Carnivore",
+            "D": "Omnivore"
+        },
+        "vikalpa": {
+            "A": "उत्पादक",
+            "B": "शाकाहारी",
+            "C": "मांसाहारी",
+            "D": "सर्वाहारी"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "13",
+        "question": "Chipko movement is related to:",
+        "prashna": "चिपको आन्दोलन सम्बन्धित है.",
+        "options": {
+            "A": "Planting trees",
+            "B": "Protecting trees from being cut down by humans",
+            "C": "Quitting tobacco",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "वृक्ष लगाने से",
+            "B": "मनुष्यों द्वारा वृक्षों को काट कर गिराये जाने से बचाने से",
+            "C": "तम्बाकू छोड़ने से",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Tetanus is caused by:",
+        "prashna": "धनुष्टंकार का कारण है:",
+        "options": {
+            "A": "Worm",
+            "B": "Bacteria",
+            "C": "Virus",
+            "D": "Protozoa"
+        },
+        "vikalpa": {
+            "A": "कृमि",
+            "B": "जीवाणु",
+            "C": "विषाणु",
+            "D": "प्रोटोजोआ"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Rabies is caused by:",
+        "prashna": "रेबीज का कारण है:",
+        "options": {
+            "A": "Worm",
+            "B": "Bacteria",
+            "C": "Virus",
+            "D": "Protozoa"
+        },
+        "vikalpa": {
+            "A": "कृमि",
+            "B": "जीवाणु",
+            "C": "विषाणु",
+            "D": "प्रोटोजोआ"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Kala-azar is caused by:",
+        "prashna": "कालाजार का कारण है:",
+        "options": {
+            "A": "Worm",
+            "B": "Bacteria",
+            "C": "Virus",
+            "D": "Protozoa"
+        },
+        "vikalpa": {
+            "A": "कृमि",
+            "B": "जीवाणु",
+            "C": "विषाणु",
+            "D": "प्रोटोजोआ"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Filariasis is caused by:",
+        "prashna": "फाइलेरिया का कारण है:",
+        "options": {
+            "A": "Worm",
+            "B": "Bacteria",
+            "C": "Virus",
+            "D": "Protozoa"
+        },
+        "vikalpa": {
+            "A": "कृमि",
+            "B": "जीवाणु",
+            "C": "विषाणु",
+            "D": "प्रोटोजोआ"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Pollen grains are mainly:",
+        "prashna": "परागकण मुख्यतः हैं",
+        "options": {
+            "A": "Sporophyte",
+            "B": "Gamete",
+            "C": "Male gamete",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "स्पोरोफाइट",
+            "B": "युग्मक",
+            "C": "नर-युग्मक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "1",
+        "question": "The pollen wall is:",
+        "prashna": "परागाभित्ति होती है",
+        "options": {
+            "A": "Unilayered",
+            "B": "Bilayered",
+            "C": "Trilayered",
+            "D": "Multilayered"
+        },
+        "vikalpa": {
+            "A": "एकस्तरीय",
+            "B": "द्विस्तरीय",
+            "C": "त्रिस्तरीय",
+            "D": "कई स्तरीय"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Pollen grains can be:",
+        "prashna": "परागकण हो सकते हैं",
+        "options": {
+            "A": "Gametophyte",
+            "B": "Decorative",
+            "C": "Allergenic agent",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "गैमेटोफाइट",
+            "B": "सजावटी",
+            "C": "एलर्जी कारक",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "13",
+        "question": "What do you understand by noise pollution? Mention its harmful effects.",
+        "prashna": "ध्वनि प्रदूषण से आप क्या समझते हैं? इसके दुष्परिणामों का उल्लेख करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "13",
+        "question": "Define endangered species with examples (at least one endangered plant and one endangered animal) along with their names.",
+        "prashna": "संकटग्रस्त स्पीशीज को (कम से कम एक-एक संकटग्रस्त पौधे एवं संकटग्रस्त जन्तु के उदाहरण) (नाम के साथ) सोदाहरण परिभाषित करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "11",
+        "question": "What is Vital Index? Write the formula to find it.",
+        "prashna": "वायटल इन्डेक्स क्या है इसे ज्ञात करने का सूत्र लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "13",
+        "question": "What do you understand by Bioprospecting?",
+        "prashna": "वायोप्रोस्पेक्टिंग से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "7",
+        "question": "Write the cause, causative organism, and symptoms of typhoid fever.",
+        "prashna": "मियादी बुखार के कारण, कारक जीव एवं लक्षणों को लिखें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "5",
+        "question": "What are initiator codons? Write them.",
+        "prashna": "प्रारंभ कूट (कोडोन) क्या हैं? इन्हें लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "1",
+        "question": "What do you understand by emasculation? Why is it done?",
+        "prashna": "विपुंसन से आप क्या समझते हैं? इसे क्यों करते हैं?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "3",
+        "question": "What is MTP? Mention its safe and fatal period (time).",
+        "prashna": "एम०टी०पी० क्या है? इसके सुरक्षित एवं घातक काल (समय) का उल्लेख करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "1",
+        "question": "Explain false fruit with an example.",
+        "prashna": "कूट फल के बारे में सोदाहरण बताइए।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "1",
+        "question": "Give the definition of monocarpic fruits with an example.",
+        "prashna": "मोनोकार्पिक फलों की सोदाहरण परिभाषा दें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "6",
+        "question": "What do you understand by atavism? State its benefits.",
+        "prashna": "पुपूर्वता से आप क्या समझते हैं? इसके लाभ बताइए।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "1",
+        "question": "What do you understand by a seed? Describe the process of formation of a seed.",
+        "prashna": "बीज से आप क्या समझते हैं? किसी एक बीज की निर्माण प्रक्रिया का वर्णन करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "2",
+        "question": "Draw a neat, well-labelled diagram of the female reproductive system in humans. Write the functions of its various organs (components).",
+        "prashna": "मनुष्यों में स्त्री-जनन तंत्र का स्वच्छ, समुचित तथा नामांकित चित्र बनाइए। इसके विभिन्न अंगों (अवयवों) के कार्य लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "question": "Describe multiple allelism, illustrating the inheritance of blood groups in humans.",
+        "prashna": "मनुष्यों में रक्त-समूह की वंशानुगति को दर्शाते हुए बहुविकल्पता का वर्णन करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "6",
+        "question": "Explain biological evolution with the help of embryological evidence.",
+        "prashna": "विकास के भ्रूणीय साक्ष्यों की मदद से जैविक विकास को समझाएँ।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "10",
+        "question": "What do you understand by biotechnology? Mention its contribution in the field of agriculture.",
+        "prashna": "जैव-प्रौद्योगिकी से आप क्या समझते हैं? कृषि के क्षेत्र में इसके योगदान का उल्लेख करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "10",
+        "question": "What do you understand by breeding experiments? How can we develop disease-resistant varieties with its help? Explain.",
+        "prashna": "प्रजनन प्रयोग से आप क्या समझते हैं? इसकी मदद से रोग-प्रतिरोधक किस्म का विकास हम कैसे कर सकते हैं? बताइए।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "12",
+        "question": "What is a pond? Describe the ecological components of a pond.",
+        "prashna": "तालाब क्या है? किसी तालाब के पारिस्थितिक अवयवों का वर्णन करें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "11",
+        "question": "What do you understand by adaptation? Describe the adaptations of aquatic organisms (both plants and animals).",
+        "prashna": "अनुकूलन से आप क्या समझते हैं? जलीय जीवों (पौधे तथा जन्तु दोनों) के अनुकूलन का वर्णन करें।"
+    }
+]
