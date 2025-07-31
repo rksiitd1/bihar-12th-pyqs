@@ -1,0 +1,835 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Uracil is related to-",
+        "prashna": "यूरेसिल किससे सम्बन्धित है?",
+        "options": {
+            "A": "RNA",
+            "B": "DNA",
+            "C": "Both (A) & (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आर.एन.ए. से",
+            "B": "डी.एन.ए. से",
+            "C": "दोनों (A) और (B) से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "12",
+        "question": "Climax community is present in which area?",
+        "prashna": "चरम समुदाय किस क्षेत्र में पाया जाता है?",
+        "options": {
+            "A": "In equilibrium",
+            "B": "In transition",
+            "C": "Bare land",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संतुलित क्षेत्र में",
+            "B": "संक्रमण क्षेत्र में",
+            "C": "नग्न भूमि",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Synthesis of RNA on DNA template is known as-",
+        "prashna": "डी.एन.ए. सांचे पर आर.एन.ए के निर्माण को क्या कहते हैं?",
+        "options": {
+            "A": "Translation",
+            "B": "Transcription",
+            "C": "Transduction",
+            "D": "Replication"
+        },
+        "vikalpa": {
+            "A": "ट्रांसलेशन",
+            "B": "ट्रांसक्रिप्शन",
+            "C": "ट्रांसडक्शन",
+            "D": "रेप्लीकशन"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "2",
+        "question": "Uterus is related to-",
+        "prashna": "गर्भाशय किससे सम्बन्धित है?",
+        "options": {
+            "A": "Male Reproductive system",
+            "B": "Female Reproductive system",
+            "C": "Plant Reproductive system",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "नर जननतंत्र से",
+            "B": "मादा/स्त्री. जननतंत्र से",
+            "C": "पादप जननतंत्र से",
+            "D": "इन सभी से"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "8",
+        "question": "For Nitrogen fixation in soil we may use-",
+        "prashna": "मृदा में नाइट्रोजन स्थिरीकरण हेतु हम किसका प्रयोग कर सकते हैं?",
+        "options": {
+            "A": "Cyanobacteria",
+            "B": "Protozoans",
+            "C": "Nematodes",
+            "D": "Wheat plants"
+        },
+        "vikalpa": {
+            "A": "नील हरित बैक्टीरिया का",
+            "B": "प्रोटोजोआ का",
+            "C": "नेमाटोड्स का",
+            "D": "गेहूँ के पौधों का"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "8",
+        "question": "Brewery is concerned with-",
+        "prashna": "ब्रिवरी का सम्बन्ध किससे है?",
+        "options": {
+            "A": "Saccharomyces",
+            "B": "Protozoans",
+            "C": "Pteridophytes",
+            "D": "Marsupials"
+        },
+        "vikalpa": {
+            "A": "सेक्रोमाइसिस से",
+            "B": "प्रोटोजोआ से",
+            "C": "टेरिडोफाइट्स से",
+            "D": "मारसूपियल्स से"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "9",
+        "question": "Restriction enzymes are known as-",
+        "prashna": "रेस्ट्रिक्शन एन्जाइम जाने जाते हैं-",
+        "options": {
+            "A": "Biological guns",
+            "B": "Molecular scissors",
+            "C": "Plasmid",
+            "D": "Micro Pipette"
+        },
+        "vikalpa": {
+            "A": "जैविक बन्दूक के रूप में",
+            "B": "आणविक कैंची के रूप में",
+            "C": "प्लाज्मिड के रूप में",
+            "D": "माइक्रो पिपेट के रूप में"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Opium is obtained from-",
+        "prashna": "अफीम किससे प्राप्त होता है?",
+        "options": {
+            "A": "Papaver somniferum",
+            "B": "Erythroxylum coca",
+            "C": "Cannabis sativa",
+            "D": "Atropa belladonna"
+        },
+        "vikalpa": {
+            "A": "पापावर सोमनीफेरम से",
+            "B": "एरिथ्रोजाइलम कोका से",
+            "C": "कैनाबिस सटाइवा से",
+            "D": "एट्रोपा बेलाडोना से"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "9",
+        "question": "Amplification of gene for interest may be done by-",
+        "prashna": "ऐच्छिक जीन के बहुलीकरण हेतु किसका उपयोग कर सकते हैं?",
+        "options": {
+            "A": "MMR",
+            "B": "PCR",
+            "C": "MRI",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "एम.एम.आर. का",
+            "B": "पी.सी.आर. का",
+            "C": "एम.आर.आई का",
+            "D": "इन सभी का"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "7",
+        "question": "Tuberculosis is transmitted by-",
+        "prashna": "क्षय रोग का संक्रमण मुख्यतः किसके द्वारा होता है?",
+        "options": {
+            "A": "Air",
+            "B": "Water",
+            "C": "Insect",
+            "D": "Contact"
+        },
+        "vikalpa": {
+            "A": "हवा के द्वारा",
+            "B": "जल के द्वारा",
+            "C": "कीटों के द्वारा",
+            "D": "सम्पर्क द्वारा"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "10",
+        "question": "Pisciculture is related culture of-",
+        "prashna": "पिसी कल्चर (मत्स्य पालन) किससे सम्बन्धित है?",
+        "options": {
+            "A": "Aquatic plants",
+            "B": "Aquatic animals",
+            "C": "Silk worm",
+            "D": "Lac worm"
+        },
+        "vikalpa": {
+            "A": "जलीय पौधों से",
+            "B": "जलीय जन्तुओं से",
+            "C": "रेशम के कीट से",
+            "D": "लाह के कीट से"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "9",
+        "question": "Bio reactors provide optimal conditions to produce desired-",
+        "prashna": "जैव रिएक्टर, अनुकूलतम परिस्थिति में क्या निर्माण करता है?",
+        "options": {
+            "A": "Product",
+            "B": "Organism",
+            "C": "Medium",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "उत्पादक",
+            "B": "जीव",
+            "C": "माध्यम",
+            "D": "ये सभी"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "9",
+        "question": "For induction of alien DNA in host cell we may use-",
+        "prashna": "बाहरी डी.एन.ए. को मेजबान कोशिका में लाने हेतु किसका उपयोग कर सकते हैं?",
+        "options": {
+            "A": "Gene gun",
+            "B": "Micro-pipette",
+            "C": "Both (A) & (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जीन गन",
+            "B": "माइक्रो-पिपेट",
+            "C": "दोनों (A) एवं (B)",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "11",
+        "question": "Number of deaths during a limited time period and place for a particular population is known as-",
+        "prashna": "किसी खास समय एवं स्थान में किसी खास आबादी में मृत्यु की संख्या को क्या कहते हैं?",
+        "options": {
+            "A": "Natality",
+            "B": "Mortality",
+            "C": "Migratory",
+            "D": "Integrity"
+        },
+        "vikalpa": {
+            "A": "नैटेलिटी",
+            "B": "मोर्टलिटी",
+            "C": "माइग्रेटरी",
+            "D": "इन्टेग्रिटी"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "10",
+        "question": "In certain cases for early and accurate detection of disease we may use-",
+        "prashna": "कुछ रोगों की शीघ्र एवं सही पहचान हेतु हम किसका प्रयोग कर सकते हैं?",
+        "options": {
+            "A": "ELISA",
+            "B": "Culture",
+            "C": "Chemical",
+            "D": "Analytical"
+        },
+        "vikalpa": {
+            "A": "एलाइजा (ELISA) का",
+            "B": "कल्चर का",
+            "C": "रसायनों का",
+            "D": "विश्लेषणात्मक"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "2",
+        "question": "The anterior portion of sperm is covered by a cap like structure known as-",
+        "prashna": "परिपक्व शुक्राणु के शीर्ष पर एक टोपीनुमा संरचना पायी जाती है, उसे क्या कहते हैं?",
+        "options": {
+            "A": "Acrosome",
+            "B": "Mesosome",
+            "C": "Episome",
+            "D": "Spherosome"
+        },
+        "vikalpa": {
+            "A": "एक्रोसोम",
+            "B": "मेसोसोम",
+            "C": "एपीसोम",
+            "D": "स्फेरोसोम"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Gynoecium is made up of-",
+        "prashna": "स्त्री दल चक्र (पुष्पों में) बना है-",
+        "options": {
+            "A": "Stigma",
+            "B": "Style",
+            "C": "Ovary",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "स्टिंगमा",
+            "B": "स्टाइल",
+            "C": "ओवरी",
+            "D": "उपरोक्त सभी से"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "8",
+        "question": "Yeast reproduces by means of-",
+        "prashna": "यीस्ट में प्रजनन मुख्यतः किसके माध्यम से होता है?",
+        "options": {
+            "A": "Budding",
+            "B": "Fragmentation",
+            "C": "Pollination",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "मुकुलन",
+            "B": "विखंडीकरण",
+            "C": "परागण",
+            "D": "इन सभी के द्वारा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "10",
+        "question": "Taichung is a variety of-",
+        "prashna": "ताईचुंग इनमें से किसकी किस्म है?",
+        "options": {
+            "A": "Rice",
+            "B": "Wheat",
+            "C": "Maize",
+            "D": "Sugarcane"
+        },
+        "vikalpa": {
+            "A": "धान की",
+            "B": "गेहूँ की",
+            "C": "मक्का की",
+            "D": "ईख की"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "4",
+        "question": "Sickle-cell anemia is related to which type of disease?",
+        "prashna": "सिकल कोशिका एनिमिया किस प्रकार का रोग है?",
+        "options": {
+            "A": "Sex linked disease",
+            "B": "Autosomal linked disease",
+            "C": "Deficiency disease",
+            "D": "Metabolic disease"
+        },
+        "vikalpa": {
+            "A": "लिंग सम्बन्धित रोग",
+            "B": "ऑटोसोम सम्बन्धित रोग",
+            "C": "कमी जनित रोग",
+            "D": "मेटाबोलिक/कार्यिक/चयापचय सम्बन्धित रोग"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "10",
+        "question": "$Cry\\ IAb$ controls-",
+        "prashna": "क्राई IAb किसे नियंत्रित करता है?",
+        "options": {
+            "A": "Corn Borer",
+            "B": "Wheat Rust",
+            "C": "Cotton insects",
+            "D": "Maize height insects"
+        },
+        "vikalpa": {
+            "A": "कॉर्न छेदक को",
+            "B": "गेहूँ के रस्ट को",
+            "C": "कपास के कीटों को",
+            "D": "मक्का के कीटों को"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "11",
+        "question": "Water holding capacity is one of the qualities of-",
+        "prashna": "जल धारण क्षमता इनमें से किसका गुण है?",
+        "options": {
+            "A": "Soil",
+            "B": "Plants",
+            "C": "Water",
+            "D": "Animals"
+        },
+        "vikalpa": {
+            "A": "मृदा का",
+            "B": "पौधों का",
+            "C": "जल का",
+            "D": "जन्तुओं का"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "9",
+        "question": "$amp^R$ gene is responsible for developing resistance in-",
+        "prashna": "$amp^R$ जीन किसमें प्रतिरोधक क्षमता विकसित करने हेतु उत्तरदायी है?",
+        "options": {
+            "A": "Pest",
+            "B": "Insect",
+            "C": "Antibiotic",
+            "D": "Drought"
+        },
+        "vikalpa": {
+            "A": "रोगाणुओं में",
+            "B": "कीटों में",
+            "C": "प्रतिजैविक में",
+            "D": "सूखा के विरुद्ध"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "10",
+        "question": "Transgenic mice may be used for testing of-",
+        "prashna": "ट्रांसजेनिक मूसों (चूहों) का प्रयोग किसके लिए कर सकते हैं?",
+        "options": {
+            "A": "The safety of vaccines",
+            "B": "Efficiency of fertilizers",
+            "C": "Doses of antibiotics",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "वैक्सीन की सुरक्षात्मक जाँच हेतु",
+            "B": "उर्वरक की क्षमता के प्रभाव हेतु",
+            "C": "प्रतिजैविक की खुराक हेतु",
+            "D": "इन सभी हेतु"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "6",
+        "question": "S.L. Miller is related to-",
+        "prashna": "एस. एल. मिलर किससे सम्बन्धित है?",
+        "options": {
+            "A": "Origin & Evolution of life",
+            "B": "Use and disuse theory of evolution",
+            "C": "Neo-Darwinism",
+            "D": "Neo-Lamarckism"
+        },
+        "vikalpa": {
+            "A": "जीवन की उत्पत्ति एवं विकास से",
+            "B": "विकासवाद के उपयोग एवं अनुपयोग के सिद्धान्त से",
+            "C": "नव - डार्विनवाद से",
+            "D": "नव लेमार्कवाद से"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "6",
+        "question": "Dryopithecus is more similar to-",
+        "prashna": "ड्रायोपिथिकस इनमें किसके अधिक समान थे?",
+        "options": {
+            "A": "Ape",
+            "B": "Gorilla",
+            "C": "Chimpanzee",
+            "D": "Man"
+        },
+        "vikalpa": {
+            "A": "एप के",
+            "B": "गोरिल्ला के",
+            "C": "चिम्पान्जी के",
+            "D": "मनुष्य के"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "7",
+        "question": "B- lymphocytes are produced in-",
+        "prashna": "B- लिम्फोसाइट का निर्माण कहाँ होता है?",
+        "options": {
+            "A": "Bone marrow",
+            "B": "Thymus",
+            "C": "Blood",
+            "D": "Lymph"
+        },
+        "vikalpa": {
+            "A": "अस्थि मज्जा में",
+            "B": "थाइमस में",
+            "C": "रक्त में",
+            "D": "लिम्फ / लसिका में"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "10",
+        "question": "RNAi is used to control pests on which plant?",
+        "prashna": "आर.एन.ए.आई. (RNAi) का प्रयोग रोगाणुओं को नियंत्रित करने हेतु किस पौधे में किया जाता है?",
+        "options": {
+            "A": "Tobacco",
+            "B": "Mango",
+            "C": "Potato",
+            "D": "Poppy"
+        },
+        "vikalpa": {
+            "A": "तम्बाकू",
+            "B": "आम",
+            "C": "आलू",
+            "D": "पॉपी"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "chapter": "6",
+        "question": "Amphibians among plants belong to-",
+        "prashna": "पादपों में एम्फीबियन / उभयस्थानी किससे सम्बन्धित हैं?",
+        "options": {
+            "A": "Algae",
+            "B": "Bryophytes",
+            "C": "Fungi",
+            "D": "Pteridophytes"
+        },
+        "vikalpa": {
+            "A": "शैवाल",
+            "B": "ब्रायोफाइट्स",
+            "C": "कवक",
+            "D": "टेरिडोफाइट्स"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Gametes are usually-",
+        "prashna": "युग्मक सामान्यतः किस प्रकार के होते हैं?",
+        "options": {
+            "A": "Haploid",
+            "B": "Diploid",
+            "C": "Polyploid",
+            "D": "Nulliploid"
+        },
+        "vikalpa": {
+            "A": "हैप्लॉयड (एक गुणक)",
+            "B": "डिप्लॉयड (द्विगुणक)",
+            "C": "पौलीप्लॉइड (बहुगुणक)",
+            "D": "नलीप्लॉइड (अगुणक)"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "chapter": "4",
+        "question": "The phenotypic ratio for $F_2$ generation in Incomplete dominance is-",
+        "prashna": "$F_2$ संतति की बाहृयलक्षणी अनुपात अपूर्ण प्रभाविता की स्थिति में क्या होता है?",
+        "options": {
+            "A": "3:1",
+            "B": "2:2",
+            "C": "1:2:1",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "3:1",
+            "B": "2:2",
+            "C": "1:2:1",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Lac operon represents-",
+        "prashna": "लेक ऑपेरॉन किसका प्रतिनिधि है?",
+        "options": {
+            "A": "Inducible gene system",
+            "B": "Repressible gene system",
+            "C": "Housekeeping gene system",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अनुदेशी जीन क्रियाविधि का",
+            "B": "दमनकारी जीन क्रिया विधि का",
+            "C": "गृह संचालन जीन संरचना का",
+            "D": "इन सभी का"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "chapter": "5",
+        "question": "Which of the following is a wrong pair?",
+        "prashna": "इनमें से कौनसी गलत जोड़ी है?",
+        "options": {
+            "A": "G = C",
+            "B": "T = A",
+            "C": "A = U",
+            "D": "T = U"
+        },
+        "vikalpa": {
+            "A": "G = C",
+            "B": "T = A",
+            "C": "A = U",
+            "D": "T = U"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "chapter": "6",
+        "question": "Organic evolution was preceded by chemical evolution, the champions of this theory are-",
+        "prashna": "कार्बनिक / जैविक विकास से पूर्व रासायनिक विकास हुआ था, इसकी अवधारणा किसके द्वारा दी गयी है?",
+        "options": {
+            "A": "A.I. Oparin and J.B.S. Haldane",
+            "B": "Charles Darwin",
+            "C": "Arrhenius",
+            "D": "Baptiste Lamarck"
+        },
+        "vikalpa": {
+            "A": "ए.आई. ओपैरिन तथा जे.बी.एस. हल्डेन द्वारा",
+            "B": "चार्ल्स डारविन द्वारा",
+            "C": "आर्हेनियस द्वारा",
+            "D": "बाप्टिस्ट लैमार्क द्वारा"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "chapter": "1",
+        "question": "Flowers of Vallisneria spp are-",
+        "prashna": "वैलिसनेरिया के पुष्प हैं-",
+        "options": {
+            "A": "Anemophilous",
+            "B": "Entomophilous",
+            "C": "Hydrophilous",
+            "D": "Zoophilous"
+        },
+        "vikalpa": {
+            "A": "वायुपरागित",
+            "B": "कीटपरागित",
+            "C": "जलपरागित",
+            "D": "जन्तुपरागित"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "4",
+        "question": "Describe the law of segregation with any one example.",
+        "prashna": "किसी एक उदाहरण के साथ पृथक्करण के नियम का वर्णन करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "5",
+        "question": "Differentiate between Euchromatin and Heterochromatin.",
+        "prashna": "यूक्रोमैटिन एवं हेटरोक्रोमैटिन में अन्तर बतावें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "6",
+        "question": "What are analogous organs? Give any two examples.",
+        "prashna": "असमजात अंग क्या हैं? कोई दो उदाहरण प्रस्तुत करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "6",
+        "question": "Differentiate between Ramapithecus and Dryopithecus.",
+        "prashna": "रामापिथिकस और ड्रायोपिथिकस में अन्तर स्थापित करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "5",
+        "question": "Describe transcription in brief.",
+        "prashna": "संक्षेप में ट्रान्सक्रिप्शन का वर्णन करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "4",
+        "question": "Comment upon Klinefelter syndrome",
+        "prashna": "क्लाइनफेल्टर सिण्ड्रोम पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "10",
+        "question": "Comment upon G.M.O.",
+        "prashna": "जी.एम.ओ. पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "10",
+        "question": "Explain Bio-piracy in brief.",
+        "prashna": "बायो-पाइरसी (जैविक चोरी) का संक्षिप्त विवरण प्रस्तुत करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "7",
+        "question": "What is Amoebiasis? Name its pathogen and describe the symptoms of the disease.",
+        "prashna": "अमीबियासिस क्या है? इसके कारक का नाम बतावें एवं इस रोग के लक्षणों का वर्णन करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "7",
+        "question": "Describe the ill-effects of alcohol.",
+        "prashna": "शराब/अल्कोहल के दुष्परिणामों का वर्णन करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "7",
+        "question": "Comment upon Innate immunity.",
+        "prashna": "अन्तर्जात प्रतिरक्षा पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter": "11",
+        "question": "What are adaptations? Explain with examples.",
+        "prashna": "अनुकूलन क्या है? इसका सोदाहरण वर्णन करें।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter": "10",
+        "question": "What is inbreeding?",
+        "prashna": "अन्तः प्रजनन क्या है?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter": "2",
+        "question": "Draw well labelled diagram of female reproductive system in humans.",
+        "prashna": "मानवों में मादा / स्त्री जनन तंत्र का नामांकित चित्र बनावें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter": "13",
+        "question": "Comment upon ex-situ conservation.",
+        "prashna": "बाहृय-स्थान संरक्षण पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "chapter": "7",
+        "question": "What are allergies? Describe its symptoms in brief.",
+        "prashna": "एलर्जी क्या है? इसके लक्षणों का संक्षेप में वर्णन करें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "chapter": "10",
+        "question": "Comment upon Ethical Issues in context of modern biological advancement.",
+        "prashna": "आधुनिक जैविक विकास के आलोक में नैतिकता के विचार पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "chapter": "11",
+        "question": "Differentiate between commensalism and Amensalism.",
+        "prashna": "सहभोजिता एवं असहभोजिता में अन्तर बतावें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter": "8",
+        "question": "What are microbes? Describe their role in human welfare in brief.",
+        "prashna": "सूक्ष्म जीव क्या हैं? मानव कल्याण में इनकी भूमिका का संक्षिप्त वर्णन करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter": "4",
+        "question": "What do you mean by sex? Discuss different types of sex determination in brief.",
+        "prashna": "लिंग क्या है? लिंग निर्धारण के विभिन्न प्रकारों का संक्षिप्त वर्णन करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter": "7",
+        "question": "Comment upon cancer in brief.",
+        "prashna": "कैंसर पर संक्षिप्त टिप्पणी प्रस्तुत करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter": "10",
+        "question": "What is pisciculture? Mention its role in enrichment of our food.",
+        "prashna": "मत्स्य पालन क्या है? भोजन की गुणवत्ता सुधार में इसकी भूमिका बतावें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "chapter": "8",
+        "question": "What is sewage? Describe any one method of its treatment in brief.",
+        "prashna": "वाहित मल क्या है? इनके उपचार की किसी एक विधि का संक्षिप्त विवरण दें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "chapter": "5",
+        "question": "Draw a detailed diagram of DNA and label it properly.",
+        "prashna": "डी.एन.ए. का एक विस्तृत आरेख बनाकर उसे सही रूप से नामांकित करें।"
+    }
+]
