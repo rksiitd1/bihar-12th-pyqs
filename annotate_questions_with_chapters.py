@@ -166,6 +166,18 @@ def main():
         print(response.text)
         print("\n--------------------------")
         return
+
+    # Add chapter_name to each question
+    for q in annotated:
+        chapter_num = q.get("chapter")
+        if chapter_num is not None:
+            try:
+                idx = int(chapter_num) - 1
+                if 0 <= idx < len(chapters):
+                    q["chapter_name"] = chapters[idx]
+            except Exception:
+                pass
+
     out_folder = pathlib.Path(f"{subject}_data_annotated")
     out_folder.mkdir(exist_ok=True)
     out_path = out_folder / selected_file.name
