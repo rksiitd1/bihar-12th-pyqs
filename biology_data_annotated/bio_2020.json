@@ -3,6 +3,7 @@
         "id": "obj_1",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "How many codons are present in Genetic code ?",
         "prashna": "आनुवंशिक कूट में कूटों की संख्या कितनी होती है ?",
         "options": {
@@ -16,13 +17,13 @@
             "B": "16",
             "C": "32",
             "D": "64"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_2",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Ovulation in female (human) is induced by which hormone?",
         "prashna": "मानव मादा में अण्डोत्सर्ग को प्रेरित करने वाला हॉर्मोन कौन है ?",
         "options": {
@@ -36,13 +37,13 @@
             "B": "प्रोजेस्टेरॉन",
             "C": "एल एच",
             "D": "एफ एस एच"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_3",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Embryosac is originated from which of the following structure?",
         "prashna": "भ्रूणकोष की उत्पत्ति निम्नांकित में किससे होती है ?",
         "options": {
@@ -56,13 +57,13 @@
             "B": "लघुबीजाणुधानी से",
             "C": "गुरूबीजाणु से",
             "D": "पराग नलिका से"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_4",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Which one is applicable for screening test of AIDS?",
         "prashna": "एड्स के लिए इनमें से कौन जाँच उपयुक्त है ?",
         "options": {
@@ -76,13 +77,13 @@
             "B": "वेस्टर्न ब्लॉट",
             "C": "इ एल आइ एस ए",
             "D": "सॉउदर्न ब्लॉट"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_5",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Which type of Enzyme is used in PCR technology?",
         "prashna": "निम्नांकित कौन एंजाइम पी सी आर तकनीक में इस्तेमाल होता है?",
         "options": {
@@ -96,13 +97,13 @@
             "B": "हेलीकेज",
             "C": "टैक पॉलीमेरेज",
             "D": "कोर-एंजाइम"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_6",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "The basis of DNA finger printing is -",
         "prashna": "डी एन ए अंगुलछापी का आधार क्या है ?",
         "options": {
@@ -116,13 +117,13 @@
             "B": "अनुक्रम में बहुरूपता",
             "C": "डीएनए द्विगुणन",
             "D": "इनमं से सभी"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_7",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "The percentage of energy transferred from one trophic level to another is -",
         "prashna": "ऊर्जा का स्थानांतरण एक पोषी स्तर से दूसरे में कितना प्रतिशत होता है ?",
         "options": {
@@ -136,13 +137,13 @@
             "B": "10%",
             "C": "15%",
             "D": "20%"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_8",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Bacteria and Fungi are -",
         "prashna": "जीवाणु एवं कवक क्या होते हैं ?",
         "options": {
@@ -156,13 +157,13 @@
             "B": "द्वितीयक उपभोक्ता",
             "C": "अपघटक",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_9",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Methanogens do not produce",
         "prashna": "मीथैनोजेंस, इनमें से क्या उत्पादित नहीं करता है ?",
         "options": {
@@ -176,13 +177,13 @@
             "B": "ऑक्सीजन",
             "C": "कार्बन डाईऑक्साइड",
             "D": "हाइड्रोजन सल्फाईड"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_10",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Which of the following is a nitrogen fixer?",
         "prashna": "निम्नांकित में नाइट्रोजन फिक्सर कौन है ?",
         "options": {
@@ -196,13 +197,13 @@
             "B": "एनाबेना तथा नॉस्टॉक",
             "C": "पैरामीशियम",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_11",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Conditions of $2n \\pm 1$ and $2n \\pm 2$ are called as -",
         "prashna": "$2n \\pm 1$ तथा $2n \\pm 2$ की स्थिति क्या कहलाती है ?",
         "options": {
@@ -216,13 +217,13 @@
             "B": "परबहुगुणिता",
             "C": "दोनों A तथा B",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_12",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Effect of ultraviolet rays on DNA is -",
         "prashna": "डी एन ए पर पराबैंगनी किरणों के असर से क्या प्रभाव पड़ता है ?",
         "options": {
@@ -236,13 +237,13 @@
             "B": "नाइट्रोजनी क्षार जोड़ी जुटता है।",
             "C": "थाइमिन डाइमर बनता है।",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_13",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Which one is sex-determination factor in humans ?",
         "prashna": "मनुष्यों के लिंग-निर्धारण का कारक कौन है?",
         "options": {
@@ -256,13 +257,13 @@
             "B": "Y- गुणसूत्र",
             "C": "दोनों A तथा B",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_14",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Fossil bird Archaeopteryx evolved during which period?",
         "prashna": "आरकियोप्टेरिक्स किस काल में पाया जाने वाला जीवाश्म पक्षी था?",
         "options": {
@@ -276,13 +277,13 @@
             "B": "कार्बोनिफेरस काल",
             "C": "त्रिआसिक काल",
             "D": "क्रैटेशियस काल"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_15",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Which one is the connecting link between animal and plant?",
         "prashna": "जंतुओं तथा पौधों के बीच संयोजी कड़ी कौन है?",
         "options": {
@@ -296,13 +297,13 @@
             "B": "विषाणु",
             "C": "यूग्लीना",
             "D": "अमीबा"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_16",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Gemmules are specialization of which of the following?",
         "prashna": "जेम्यूल्स किसकी विशेषता है?",
         "options": {
@@ -316,13 +317,13 @@
             "B": "हाइड्रा",
             "C": "यीस्ट",
             "D": "दोनों B तथा C"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_17",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "In which plant, water medium is necessary for fertilization?",
         "prashna": "किन पौधों में निषेचन के लिए जल माध्यम आवश्यक है ?",
         "options": {
@@ -336,13 +337,13 @@
             "B": "ब्रायोफाइट्स",
             "C": "टेरिडोफाइट्",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_18",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "In which female animal, oestrus cycle does not occur?",
         "prashna": "किस मादा जंतु में मद चक्र नहीं होता है ?",
         "options": {
@@ -356,13 +357,13 @@
             "B": "कुत्ता",
             "C": "मनुष्य",
             "D": "खरगोश"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_19",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Which organelle is not present in the cytoplasm of ovum ?",
         "prashna": "अण्डाणु के कोशिका द्रव्य में कौन-सी संरचना नहीं होती है?",
         "options": {
@@ -376,13 +377,13 @@
             "B": "गॉल्जी काय",
             "C": "सेन्ट्रोसोम",
             "D": "माटोकॉण्ड्रिया"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_20",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Treponema pallidum is a causal organism of which disease?",
         "prashna": "ट्रेपोनेमा पैलिडम किस बिमारी का रोग जनक है ?",
         "options": {
@@ -396,13 +397,13 @@
             "B": "गोनोरी",
             "C": "हर्पिस",
             "D": "क्षय रोग"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_21",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "$T\\Psi C$- Loop is found in which of the following RNA?",
         "prashna": "$T\\Psi C$-लूप निम्नांकित किस आर एन ए में पाया जाता है ?",
         "options": {
@@ -416,13 +417,13 @@
             "B": "संदेशवाहक आर एन ए",
             "C": "स्थानांतरण आर एन ए",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_22",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Which enzyme is required in the process of transcription ?",
         "prashna": "'प्रतिलेखन' की क्रिया में किस एंजाइम की आवश्यकता होती है?",
         "options": {
@@ -436,13 +437,13 @@
             "B": "डीएनए पॉलीमेरेज–III",
             "C": "हेलीकेज",
             "D": "आर एन ए पॉलीमेरेज"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_23",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Wings of insects and birds are known as -",
         "prashna": "कीटों तथा पक्षियों के पंख किस तरह के अंग कहलाते हैं?",
         "options": {
@@ -456,13 +457,13 @@
             "B": "असमजात अंग",
             "C": "अवशेषी अंग",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_24",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which of the following is an example of desert adaptation ?",
         "prashna": "मरूस्थलीय अनुकूलन का उदाहरण निम्नांकित में कौन है ?",
         "options": {
@@ -476,13 +477,13 @@
             "B": "नागफनी",
             "C": "दोनों A तथा B",
             "D": "अमरबेल"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_25",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "BCG vaccine is introduced to prevent against which of the following disease?",
         "prashna": "बी सी जी वैक्सिन किस बिमारी से बचाव के लिए दिया जाता है?",
         "options": {
@@ -496,13 +497,13 @@
             "B": "क्षय बिमारी",
             "C": "चेचक",
             "D": "टाइफ्वाएड"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_26",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Rabies disease is caused by which causal organism in the followings?",
         "prashna": "निम्नलिखित में रेबीज बिमारी का रोगजनक कौन है?",
         "options": {
@@ -516,13 +517,13 @@
             "B": "विषाणु",
             "C": "प्रोटोजोआ",
             "D": "इनमें से A तथा C"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_27",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Which disease in the following is a autoimmune disease?",
         "prashna": "निम्नांकित में कौन स्वअसंक्राम्य बीमारी है ?",
         "options": {
@@ -536,13 +537,13 @@
             "B": "थालासिमिया",
             "C": "मीयास्थेनिया ग्राफिस",
             "D": "हर्पिस"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_28",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Which transgene is present in Golden Rice?",
         "prashna": "सुनहरे धान में कौन सा ट्रांस जीन है ?",
         "options": {
@@ -556,13 +557,13 @@
             "B": "फाइटोइन सिनथेटेज",
             "C": "लाइगेज",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_29",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What is BT toxin?",
         "prashna": "बी. टी. टॉक्सिन क्या होता है ?",
         "options": {
@@ -576,13 +577,13 @@
             "B": "बाह्य कोशिकीय लिपिड",
             "C": "अंतः कोशिकीय क्रिस्टलीन प्रोटीन",
             "D": "बाह्य कोशिकीय क्रिस्टलीन प्रोटीन"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_30",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Which of the following is exotic variety of fish?",
         "prashna": "निम्नांकित में कौन मछली की विदेशी प्रजाति है ?",
         "options": {
@@ -596,13 +597,13 @@
             "B": "रोहू",
             "C": "मांगुर",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_31",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "An example of Ex-situ conservation is -",
         "prashna": "बाह्य-स्थाने संरक्षण का उदाहरण कौन है ?",
         "options": {
@@ -616,13 +617,13 @@
             "B": "प्राणि उद्यान",
             "C": "दोनों A तथा B",
             "D": "पारिस्थितिक तंत्र"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_32",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Which of the following have the highest number of species in nature?",
         "prashna": "प्रकृति में सबसे अधिक संख्या निम्नांकित किस स्पीशीज की है?",
         "options": {
@@ -636,13 +637,13 @@
             "B": "कीटों के",
             "C": "पक्षियों के",
             "D": "सूक्ष्मजीवों के"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_33",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "An example of the ex-situ conservation method for endangered species is -",
         "prashna": "संकटग्रस्त स्पीशीज के लिए बाह्य-स्थाने संरक्षण का एक उदाहरण कौन है?",
         "options": {
@@ -656,13 +657,13 @@
             "B": "हिमकारी परिरक्षण",
             "C": "सुरक्षित जैव मंडल",
             "D": "पशु बिहार"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_34",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Which of the following is product of biotechnology?",
         "prashna": "निम्नांकित में प्रोद्योगिकी उत्पाद कौन है?",
         "options": {
@@ -676,13 +677,13 @@
             "B": "फ्लैवर सैवर",
             "C": "जी एम फसल",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_35",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Natural genetic engineer in the following is -",
         "prashna": "प्राकृतिक आनुवंशिक अभियंता निम्नांकित में कौन है?",
         "options": {
@@ -696,13 +697,13 @@
             "B": "एग्रोबैक्टिरियम ट्यूमिफेसियंस",
             "C": "सीडोमोनास स्पीशीज",
             "D": "बैसीलस सबटाइलिस"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_36",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Which one is protected area for elephants?",
         "prashna": "हाथी के लिए संरक्षित क्षेत्र निम्नांकित में कहाँ है ?",
         "options": {
@@ -716,13 +717,13 @@
             "B": "पेरियार पशुविहार",
             "C": "सिम्लीपाल पशुविहार",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_37",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Which pollutant is responsible for Acid rain?",
         "prashna": "अम्लीय वर्षा करने वाले प्रदूषक निम्नांकित में कौन है ?",
         "options": {
@@ -736,13 +737,13 @@
             "B": "कार्बन डाई ऑक्साइड",
             "C": "कार्बन मोनो ऑक्साइड",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_38",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Green house gases absorb which of the following?",
         "prashna": "ग्रीन हाउस (हरित घर) गैसें क्या सोखती है?",
         "options": {
@@ -756,13 +757,13 @@
             "B": "पराबैगनी विकिरण",
             "C": "दोनों A तथा B",
             "D": "गामा किरणें"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_39",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Which of the following is a heavy metal water pollutants?",
         "prashna": "जल में भारी धातु प्रदूषक निम्नांकित में कौन है ?",
         "options": {
@@ -776,13 +777,13 @@
             "B": "आर्सेनिक",
             "C": "दोनों A तथा B",
             "D": "फॉसफोरस"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_40",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Which of the following is harmful for vegetavbles?",
         "prashna": "सब्जियों को निम्नांकित में कौन नुकसान पहुँचाता है ?",
         "options": {
@@ -796,13 +797,13 @@
             "B": "फ्लोराइड",
             "C": "दोनों A तथा B",
             "D": "कार्बन डाई ऑक्साइड"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_41",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Relaxin is secreted by -",
         "prashna": "रिलेक्सिन का स्राव कहाँ से होता है?",
         "options": {
@@ -816,13 +817,13 @@
             "B": "कॉरपस ल्यूटिअम",
             "C": "दोनों A तथा B",
             "D": "अंडाणु"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_42",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Ovulation takes place in -",
         "prashna": "अण्डोत्सर्ग किसमें कार्यान्वित होता है ?",
         "options": {
@@ -836,101 +837,101 @@
             "B": "$14^{वें}$ दिन",
             "C": "अण्डाशय में",
             "D": "दोनों B तथा C"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "short_1",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Distinguish between Homothallic and Heterothallic conditions with the help of examples.",
-        "prashna": "समजालिक तथा विषमजालिक में उदाहरणसहित अंतर स्पष्ट करें।",
-        "chapter_name": "Organisms and Populations"
+        "prashna": "समजालिक तथा विषमजालिक में उदाहरणसहित अंतर स्पष्ट करें।"
     },
     {
         "id": "short_2",
         "type": "short_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Show the structure of human ovum with the help of well labelled diagram.",
-        "prashna": "मानव अण्डाणु की संरचना का नामांकित चित्र बनाएँ।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "मानव अण्डाणु की संरचना का नामांकित चित्र बनाएँ।"
     },
     {
         "id": "short_3",
         "type": "short_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Write a brief note on Down's syndrome.",
-        "prashna": "डाउन्स सिंड्रोम पर एक संक्षिप्त टिप्पणी लिखें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "डाउन्स सिंड्रोम पर एक संक्षिप्त टिप्पणी लिखें।"
     },
     {
         "id": "short_4",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "What do you understand by DNA finger printing? Explain it.",
-        "prashna": "डीएनए अंगुलीछाप से क्या समझते हैं? व्याख्या करें।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "डीएनए अंगुलीछाप से क्या समझते हैं? व्याख्या करें।"
     },
     {
         "id": "short_5",
         "type": "short_answer",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "What do you understand by Palaeontology? Give the name of various eras.",
-        "prashna": "जीवश्म विज्ञान से क्या समझते हैं? विभिन्न महाकल्पों के नाम बताएँ।",
-        "chapter_name": "Evolution"
+        "prashna": "जीवश्म विज्ञान से क्या समझते हैं? विभिन्न महाकल्पों के नाम बताएँ।"
     },
     {
         "id": "short_6",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Describe any four differences between B-DNA and Z-DNA.",
-        "prashna": "बी० डीएनए तथा जेड डीएनए में चार अंतर बताएँ।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "बी० डीएनए तथा जेड डीएनए में चार अंतर बताएँ।"
     },
     {
         "id": "short_7",
         "type": "short_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Describe the steps involved in the process of Recombinant DNA technology.",
-        "prashna": "पुनर्योगज डीएनए प्रौद्योगिकी के प्रक्रम के चरणबद्ध अनुक्रम को लिखें।",
-        "chapter_name": "Biotechnology: Principles and Processes"
+        "prashna": "पुनर्योगज डीएनए प्रौद्योगिकी के प्रक्रम के चरणबद्ध अनुक्रम को लिखें।"
     },
     {
         "id": "short_8",
         "type": "short_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Show pond ecosystem with the help of diagram only.",
-        "prashna": "तालाबीय पारिस्थितिक तंत्र को सिर्फ चित्र द्वारा दर्शाएँ।",
-        "chapter_name": "Ecosystem"
+        "prashna": "तालाबीय पारिस्थितिक तंत्र को सिर्फ चित्र द्वारा दर्शाएँ।"
     },
     {
         "id": "short_9",
         "type": "short_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "What is Gel electrophoresis? Mention any two applications of it.",
-        "prashna": "जेल वैद्युत का संचलन क्या है? इसकी दो उपयोगिताओं को बताएँ।",
-        "chapter_name": "Biotechnology: Principles and Processes"
+        "prashna": "जेल वैद्युत का संचलन क्या है? इसकी दो उपयोगिताओं को बताएँ।"
     },
     {
         "id": "short_10",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Describe the causal organism, mode of transmission, symptoms and therapy of Ringworm disease.",
-        "prashna": "दाद रोग के रोगजनक, संक्रमण के कारण, लक्षण तथा उपचार के बारे मे बताएँ।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "दाद रोग के रोगजनक, संक्रमण के कारण, लक्षण तथा उपचार के बारे मे बताएँ।"
     },
     {
         "id": "short_11",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Define antigens and antibody.",
-        "prashna": "एंटीजेन्स तथा एंटीबॉडी को परिभाषित करें।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "एंटीजेन्स तथा एंटीबॉडी को परिभाषित करें।"
     },
     {
         "id": "short_12",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Write the short notes on any two of the followings :-",
         "prashna": "निम्नांकित किन्हीं दो पर उदाहरण सहित टिप्पणी लिखें।",
         "sub_questions": {
@@ -944,21 +945,21 @@
             "B": "पशुविहार",
             "C": "सुरक्षित जैवमंडल",
             "D": "पवित्र उपवन"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "short_13",
         "type": "short_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Mention any four applications of Biotechnology in medicines and human health.",
-        "prashna": "चिकित्सा एवं मानव स्वास्थ्य में जैव-प्रौद्योगिकी के किन्हीं चार उपयोगिताओं के बारे में लिखें।",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "चिकित्सा एवं मानव स्वास्थ्य में जैव-प्रौद्योगिकी के किन्हीं चार उपयोगिताओं के बारे में लिखें।"
     },
     {
         "id": "short_14",
         "type": "short_answer",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Write in brief on the followings with the help of suitable examples.",
         "prashna": "निम्नांकित पर उदाहरण सहित संक्षेप में लिखें :-",
         "sub_questions": {
@@ -968,29 +969,29 @@
         "anuprashna": {
             "A": "जैविक खाद",
             "B": "प्रतिजैविक"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "short_15",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Explain the various causes of water pollution in brief.",
-        "prashna": "जल प्रदूषण के विभिन्न कारणों का संक्षेप में वर्णन करें।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "जल प्रदूषण के विभिन्न कारणों का संक्षेप में वर्णन करें।"
     },
     {
         "id": "short_16",
         "type": "short_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Name any two superior varieties, each of sugarcane and cauliflower.",
-        "prashna": "गन्ना तथा फूलगोभी की दो-दो उन्नत किस्मों के नाम बताएँ।",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "गन्ना तथा फूलगोभी की दो-दो उन्नत किस्मों के नाम बताएँ।"
     },
     {
         "id": "short_17",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Write short notes on any two of the followings in brief :-",
         "prashna": "निम्नांकित किन्हीं दो पर संक्षेप में लिखें :-",
         "sub_questions": {
@@ -1004,13 +1005,13 @@
             "B": "प्रजनन सामर्थ्य",
             "C": "आबादी-रोगजनक संबंध",
             "D": "उत्पादक-उपभोक्ता संबंध"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "short_18",
         "type": "short_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Define any two of the followings :",
         "prashna": "निम्नांकित किन्हीं दो को परिभाषित करें :-",
         "sub_questions": {
@@ -1024,13 +1025,13 @@
             "B": "पारिस्थितिक पिरामिड",
             "C": "उत्तक संवर्धन",
             "D": "भ्रूण संवर्धन"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "long_1",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "What do you understand by Chromosomal aberrations? Explain the followings -",
         "prashna": "गुणसुत्रीय विपथन से क्या समझते हैं ? निम्नांकित को समझायें",
         "sub_questions": {
@@ -1042,13 +1043,13 @@
             "A": "विलोपन",
             "B": "द्विगुणन",
             "C": "प्रतिलोमन"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "long_2",
         "type": "long_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Answer the following questions :-",
         "prashna": "निम्नांकित प्रश्नों के उत्तर दें :-",
         "sub_questions": {
@@ -1060,13 +1061,13 @@
             "A": "प्रारंभ कूट तथा समापन कूट के नाम लिखें।",
             "B": "प्रतिलेखन से आप क्या समझते हैं?",
             "C": "प्रोटीन संश्लेषण में राइबोजोम की क्या भूमिका है?"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "long_3",
         "type": "long_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Distinguish between the followings :-",
         "prashna": "निम्नलिखित में अंतर स्पष्ट करें।",
         "sub_questions": {
@@ -1076,13 +1077,13 @@
         "anuprashna": {
             "A": "कीट परागण तथा पक्षी परागण",
             "B": "लामार्कवाद् तथा डार्विनवाद्"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "long_4",
         "type": "long_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Describe any two of the followings :-",
         "prashna": "निम्नांकित में किन्हीं दो का वर्णन करें :-",
         "sub_questions": {
@@ -1094,13 +1095,13 @@
             "A": "एड्स",
             "B": "विकिरण प्रदूषण",
             "C": "द्विनिषेचन"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "long_5",
         "type": "long_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Show the following with the help of diagram only.",
         "prashna": "निम्नलिखित को केवल चित्र द्वारा दर्शाएँ :-",
         "sub_questions": {
@@ -1110,13 +1111,13 @@
         "anuprashna": {
             "A": "मानव मादा के अंडाशय का अनुप्रस्थ काट में पुटकों को दर्शाते हुए नामांकित चित्र बनाएँ।",
             "B": "मानव वृषण के अनुप्रस्थ काट का नामांकित चित्र बनाएँ।"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "long_6",
         "type": "long_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Describe any two of the followings :-",
         "prashna": "निम्नांकित में किन्हीं दो का वर्णन करें",
         "sub_questions": {
@@ -1128,7 +1129,6 @@
             "A": "सूक्ष्म प्रजनन के लाभ",
             "B": "ध्वनि प्रदूषण",
             "C": "जैव विविधिता-संरक्षण"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     }
 ]

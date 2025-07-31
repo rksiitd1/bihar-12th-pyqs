@@ -3,6 +3,7 @@
         "id": "obj_1",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "What does operon model represent?",
         "prashna": "ऑपेरॉन मॉडल क्या प्रदर्शित करता है ?",
         "options": {
@@ -16,13 +17,13 @@
             "B": "जीन नियमन",
             "C": "जीन अभिव्यक्ति",
             "D": "जीन संश्लेषण"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_2",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Which of the following forms endosperm after fusion with male gamete ?",
         "prashna": "निम्नांकित में से कौन नर युग्मक से संयोजन कर भ्रूणपोष बनाता है ?",
         "options": {
@@ -36,13 +37,13 @@
             "B": "सहायक कोशिका",
             "C": "द्वितीयक केन्द्रक",
             "D": "निषक्तांड"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_3",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Fossils are generally found in –",
         "prashna": "जीवाश्म सामान्यतः पाए जाते हैं –",
         "options": {
@@ -56,13 +57,13 @@
             "B": "रूपांतरित चट्टान में",
             "C": "आग्नेय चट्टान में",
             "D": "दोनों (B) तथा (C)"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_4",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "During which process Okazaki fragments are synthesized ?",
         "prashna": "ओकाज़ाकी टुकड़े किस दौरान बनते हैं ?",
         "options": {
@@ -76,13 +77,13 @@
             "B": "डीएनए के पश्चगामी सूत्र में",
             "C": "डीएनए के असंतत द्विगुणन के समय",
             "D": "दोनों (B) तथा (C)"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_5",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Human antibodies are made of –",
         "prashna": "मनुष्य के एंटीबॉडीज बने होते हैं –",
         "options": {
@@ -96,13 +97,13 @@
             "B": "स्टीरॉएड के",
             "C": "लाइपोप्रोटीन के",
             "D": "दोनों (B) तथा (C)"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_6",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which one is not a hydrophytic plant ?",
         "prashna": "इनमें से कौन सा जलीय पौधा नहीं है ?",
         "options": {
@@ -116,13 +117,13 @@
             "B": "ट्रापा",
             "C": "हाइड्रिला",
             "D": "नीलंबो"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_7",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Which is the number of chromosomes in Turner's syndrome?",
         "prashna": "टर्नर्स सिंड्रोम में गुणसूत्रों की संख्या कितनी होती है ?",
         "options": {
@@ -136,13 +137,13 @@
             "B": "45",
             "C": "46",
             "D": "47"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_8",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Opium is obtained from –",
         "prashna": "अफीम प्राप्त होता है –",
         "options": {
@@ -156,13 +157,13 @@
             "B": "एरिथ्रोजाइलम कोका से",
             "C": "केनाबिस सटाइवा से",
             "D": "पैपेवर सोमनिफेरम से"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_9",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "B-lymphocytes are produced in –",
         "prashna": "B-लिम्फोसाइट निर्मित होता है –",
         "options": {
@@ -176,13 +177,13 @@
             "B": "थाइमस में",
             "C": "लसिका में",
             "D": "अस्थि-मज्जा में"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_10",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Which infective stage of Plasmodium occurs in human?",
         "prashna": "मनुष्य में प्लाज्मोडियम की संक्रमण अवस्था कौन सी होती है ?",
         "options": {
@@ -196,13 +197,13 @@
             "B": "क्रिप्टोज्वाइट",
             "C": "मीरोज्वाइट",
             "D": "मियोसाइट"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_11",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Ti-plasmid is obtained from which of the following?",
         "prashna": "Ti-प्लाज्मिड निम्नांकित में किससे प्राप्त होता है ?",
         "options": {
@@ -216,13 +217,13 @@
             "B": "बैसीलस सबटाइलिस",
             "C": "एग्रोबैक्टेरियम राइजोजिन्स",
             "D": "ई. कोली"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_12",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "'Cry-gene' prevents which crop from bollworm ?",
         "prashna": "'क्राई-जीन' किस फसल को बॉलकृमि से बचाता है ?",
         "options": {
@@ -236,13 +237,13 @@
             "B": "चाय",
             "C": "मकई",
             "D": "कपास"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_13",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Termination codon is –",
         "prashna": "समापन कूट है –",
         "options": {
@@ -256,13 +257,13 @@
             "B": "GUG",
             "C": "UAA",
             "D": "AAA"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_14",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "DNA double helix is –",
         "prashna": "डीएनए द्विकुण्डली होता है –",
         "options": {
@@ -276,13 +277,13 @@
             "B": "समानांतर तथा पूरक",
             "C": "दोनों (A) तथा (B)",
             "D": "प्रति—समानांतर तथा पूरक"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_15",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Which organelle is not present in the cytoplasm of ovum ?",
         "prashna": "अण्डाणु के कोशिकाद्रव्य में कौन-सी संरचना नहीं होती है ?",
         "options": {
@@ -296,13 +297,13 @@
             "B": "सेन्ट्रोसोम",
             "C": "गॉल्जीकाय",
             "D": "माइटोकॉण्ड्रिया"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_16",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Which enzyme is required in the process of transcription ?",
         "prashna": "प्रतिलेखन की क्रिया में कौन से एंजाइम की आवश्यकता होती है ?",
         "options": {
@@ -316,13 +317,13 @@
             "B": "डी एन ए पॉलीमरेज़",
             "C": "हेलीकेज़",
             "D": "डी एन ए पॉलीमरेज़ III"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_17",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Wings of insects and birds are called as -",
         "prashna": "कीटों तथा पक्षियों के पंख कहलाते हैं –",
         "options": {
@@ -336,13 +337,13 @@
             "B": "समजात अंग",
             "C": "अवशेषी अंग",
             "D": "असमजात अंग"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_18",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Relaxin is secreted by –",
         "prashna": "रिलेक्सिन का स्राव होता है –",
         "options": {
@@ -356,13 +357,13 @@
             "B": "थाइरॉयड ग्रंथि",
             "C": "दोनों (A) तथा (B)",
             "D": "कॉरपस ल्यूटियम से"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_19",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Which one is pioneer in a xerosere ?",
         "prashna": "शुष्क अनुक्रमण में कौन-सा अग्रणी है ?",
         "options": {
@@ -376,13 +377,13 @@
             "B": "शाकीय पौधे",
             "C": "मॉस",
             "D": "पेड़"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_20",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Which of the following is a heavy-metal water pollutants ?",
         "prashna": "निम्नांकित में जल का भारी-धातु प्रदूषक कौन-सा है ?",
         "options": {
@@ -396,13 +397,13 @@
             "B": "आर्सेनिक",
             "C": "फॉसफोरस",
             "D": "दोनों (A) तथा (B)"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_21",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Ovulation takes place in –",
         "prashna": "अण्डोत्सर्ग होता है –",
         "options": {
@@ -416,13 +417,13 @@
             "B": "अण्डाशय में",
             "C": "लगभग 14वें दिन",
             "D": "दोनों (B) तथा (C)"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_22",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Where is the Ranthambore National Park situated ?",
         "prashna": "रणथम्भोर राष्ट्रीय उद्यान कहाँ स्थित है ?",
         "options": {
@@ -436,13 +437,13 @@
             "B": "उत्तर प्रदेश",
             "C": "राजस्थान",
             "D": "मध्य प्रदेश"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_23",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Sex chromosome of human beings are –",
         "prashna": "मनुष्य के लिंग गुणसूत्र हैं –",
         "options": {
@@ -456,13 +457,13 @@
             "B": "AA",
             "C": "XY",
             "D": "दोनों (A) तथा (C)"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_24",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "The mobile genetic element is –",
         "prashna": "भ्रमणशील आनुवंशिक पदार्थ है –",
         "options": {
@@ -476,13 +477,13 @@
             "B": "ट्रांसपोसॉन",
             "C": "प्रीऑन्स",
             "D": "इंट्रॉन"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_25",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Peripatus is connecting link between –",
         "prashna": "पेरीपैटस संयोजक कड़ी है –",
         "options": {
@@ -496,13 +497,13 @@
             "B": "मोलस्का तथा इकाइनोडरमैटा के बीच",
             "C": "पोरीफेरा तथा सीलेन्टेराटा के बीच",
             "D": "सरीसृप तथा एविस के बीच"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_26",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Hugo de Vries proposed –",
         "prashna": "ह्यूगोडीवरिज ने प्रस्तावित किया –",
         "options": {
@@ -516,13 +517,13 @@
             "B": "प्रभाविता का नियम",
             "C": "उत्परिवर्तन का सिद्धांत",
             "D": "पृथ्थकरण का नियम"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_27",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Transgenic 'hirudin' is obtained from which of the following?",
         "prashna": "ट्रांसजेनिक 'हिरूडीन' निम्नांकित में किससे प्राप्त किया जाता है ?",
         "options": {
@@ -536,13 +537,13 @@
             "B": "ब्रासिका नैपस से",
             "C": "टमाटर से",
             "D": "ओसीमम् सैंकटम से"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_28",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Entamoeba histolytica is a pathogen of which disease in the following?",
         "prashna": "एंटअमीबा हिस्टोलीटिका निम्नांकित में से किस बिमारी का रोगजनक है ?",
         "options": {
@@ -556,13 +557,13 @@
             "B": "टिटेनस",
             "C": "टाइफ्वाएड",
             "D": "चिकेन पॉक्स"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_29",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "The two components of an ecosystem are –",
         "prashna": "एक पारितंत्र के ये दो घटक हैं –",
         "options": {
@@ -576,13 +577,13 @@
             "B": "पादप तथा जंतु",
             "C": "अजैविक तथा जैविक",
             "D": "दोनों (B) तथा (C)"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_30",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Reproduction which does not involve gametic union is called ?",
         "prashna": "प्रजनन जिसमें युग्मक विलयन नहीं होता, क्या कहलाता है ?",
         "options": {
@@ -596,13 +597,13 @@
             "B": "असंगजनन",
             "C": "अनिषेक जनन",
             "D": "द्विनिषेचन"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_31",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Eutrophication is found in –",
         "prashna": "सुपोषण इनमें पाया जाता है –",
         "options": {
@@ -616,13 +617,13 @@
             "B": "कृषि योग्य भूमि में",
             "C": "लवण मृदा में",
             "D": "झील में"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_32",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "The $F_2$ phenotypic ratio in dihybrid cross is –",
         "prashna": "डाइहाइब्रिड क्रॉस में $F_2$ फेनोटाइपिक अनुपात है –",
         "options": {
@@ -636,13 +637,13 @@
             "B": "9:6:1",
             "C": "9:3:3:1",
             "D": "1:2:1"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_33",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Roots of which plant give rise to a new plant ?",
         "prashna": "किस पौधे का जड़ नए पौधे को जन्म देता है ?",
         "options": {
@@ -656,13 +657,13 @@
             "B": "नीम",
             "C": "दहलिया",
             "D": "पिटूनिया"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_34",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which one is an example of endomycorrhiza ?",
         "prashna": "अंतः कवकमूल का निम्न में से कौन-सा उदाहरण है ?",
         "options": {
@@ -676,13 +677,13 @@
             "B": "राइजोबियम",
             "C": "नॉसटॉक",
             "D": "एगैरिकस"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_35",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "What causes acid rain ?",
         "prashna": "अम्लीय वर्षा का क्या कारण है ?",
         "options": {
@@ -696,13 +697,13 @@
             "B": "ऑटोमोबाइल प्रदूषण",
             "C": "जल प्रदूषण",
             "D": "कीटनाशक प्रदूषण"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_36",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Sunken stomata is found in –",
         "prashna": "धँसे हुए रंध्र किसमें पाए जाते हैं ?",
         "options": {
@@ -716,13 +717,13 @@
             "B": "जलोद्भिद्",
             "C": "समोद्भिद्",
             "D": "मरुद्भिद्"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_37",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Archaeopteryx was evolved during which period of era ?",
         "prashna": "आरकियोप्टेरिक्स किस काल में विकसित हुआ था ?",
         "options": {
@@ -736,13 +737,13 @@
             "B": "क्रेटेशियस",
             "C": "जुरासिक",
             "D": "त्रिआसिक"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_38",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Rejection of organ transplant is due to –",
         "prashna": "अंग प्रत्यारोपण अस्वीकृति इनके कारण होती है –",
         "options": {
@@ -756,13 +757,13 @@
             "B": "साइटोटॉक्सिक -T कोशिका के कारण",
             "C": "B-कोशिका के कारण",
             "D": "सप्रेसर –T कोशिका के कारण"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_39",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Which transgenic plant is rich in $\\beta$-carotene and ferritin in the following ?",
         "prashna": "निम्नांकित किस पारजीवी पौधे में बीटा कैरोटीन तथा फेर्रीटीन भरपूर मात्रा में पाया जाता है ?",
         "options": {
@@ -776,13 +777,13 @@
             "B": "पोमैटो",
             "C": "बीटी कपास",
             "D": "फ्लैबर सैवर"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_40",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "'Genotype-Phenotype' concept was first proposed by",
         "prashna": "जीनोटाइप-फीनोटाइप अवधारणा सबसे पहले किसने प्रस्तावित किया ?",
         "options": {
@@ -796,13 +797,13 @@
             "B": "जोहानसन",
             "C": "पुनेट",
             "D": "सट्न तथा बोभरी"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_41",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "During menstrual cycle, the cyclic changes take place in –",
         "prashna": "ऋतुस्राव चक्र के दौरान, चक्रीय परिवर्तन इनमें होता है –",
         "options": {
@@ -816,13 +817,13 @@
             "B": "एंडोमेट्रीयम में",
             "C": "पेरीमेट्रीयम में",
             "D": "मायोमेट्रीयम में"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_42",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Which one is analysed by amniocentesis ?",
         "prashna": "एम्नियोसेंटेसिस द्वारा किसका विश्लेषण किया जाता है ?",
         "options": {
@@ -836,13 +837,13 @@
             "B": "एम्निऑन",
             "C": "एम्नियोटिक द्रव",
             "D": "दोनों (A) तथा (B)"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_43",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Heart is developed from –",
         "prashna": "हृदय का विकास होता है –",
         "options": {
@@ -856,13 +857,13 @@
             "B": "एंडोडर्म द्वारा",
             "C": "मीसोडर्म द्वारा",
             "D": "एक्टो-मोसोडर्म द्वारा"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_44",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Saffron is obtained from which plant ?",
         "prashna": "'केसर' निम्न में से किस पौधे से प्राप्त होता है ?",
         "options": {
@@ -876,13 +877,13 @@
             "B": "सोलेनम नीग्रम",
             "C": "कुरकुमा लौंगा",
             "D": "जिन्जीबर ऑफीसीनैलिस"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_45",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Characteristic of blue-green algae is –",
         "prashna": "नील हरित शैवाल की विशेषता है –",
         "options": {
@@ -896,13 +897,13 @@
             "B": "नाइट्रोजन स्थिरीकरण",
             "C": "किण्वन",
             "D": "विनाइट्रीकरण"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_46",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Who discovered the molecular structure of Insulin ?",
         "prashna": "इंसुलिन की आण्विक रचना की खोज किसने किया ?",
         "options": {
@@ -916,13 +917,13 @@
             "B": "सैंगर",
             "C": "बीड्ल",
             "D": "निकोल्सन"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_47",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Induced abortion is –",
         "prashna": "प्रेरित गर्भपात है –",
         "options": {
@@ -936,13 +937,13 @@
             "B": "PID",
             "C": "MTP",
             "D": "STD"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_48",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Antibiotic cephalosporin is obtained from which one in the following?",
         "prashna": "प्रतिजैविक सीफैलोस्पोरिन निम्न में किससे प्राप्त होता है ?",
         "options": {
@@ -956,13 +957,13 @@
             "B": "शैवाल से",
             "C": "माइकोप्लाज्मा से",
             "D": "कवक से"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_49",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Parasitic angiosperms are -",
         "prashna": "परजीवी आवृत्तबीजी होते हैं –",
         "options": {
@@ -976,13 +977,13 @@
             "B": "प्राथमिक उपभोक्ता",
             "C": "द्वितीय उपभोक्ता",
             "D": "तृतीय उपभोक्ता"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_50",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Plants growing on rocks are called as –",
         "prashna": "चट्टानों पर बढ़नेवाले पौधे को कहा जाता है –",
         "options": {
@@ -996,13 +997,13 @@
             "B": "लवणोदभिद्",
             "C": "छायाप्रिय पौधे",
             "D": "दोनों (A) तथा (C)"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_51",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Reduction in vascular tissue, mechanical tissue and cuticle is characteristic feature of whom ?",
         "prashna": "संवहनी उत्तक, यांत्रिक उत्तक तथा छल्ली में कमी होना किसकी विशेषता है ?",
         "options": {
@@ -1016,13 +1017,13 @@
             "B": "मरुद्भिद्",
             "C": "समोद्भिद्",
             "D": "अधिपादप"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_52",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which plant is found in mangrove zone ?",
         "prashna": "मैग्रुव क्षेत्र में कौन सा पौधा पाया जाता है ?",
         "options": {
@@ -1036,13 +1037,13 @@
             "B": "पाइनस",
             "C": "राइज़ोफोरा",
             "D": "टेक्टोना ग्रैंडिस"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_53",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Golden rice is a GMO plant in which the incorporated gene is meant for biosynthesis of –",
         "prashna": "सुनहरा धान एक जीएमओ पौधा है जिसमें निगमित जीन किसके जैव संश्लेषण के लिए होता है ?",
         "options": {
@@ -1056,13 +1057,13 @@
             "B": "विटामिन-बी",
             "C": "विटामिन-सी",
             "D": "ओमेगा-3"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_54",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Which of the following enhances or induces fusion of protoplast ?",
         "prashna": "निम्नलिखित में से कौन जीवद्रव्य संलयन को बढ़ाता या प्रेरित करता है ?",
         "options": {
@@ -1076,13 +1077,13 @@
             "B": "IAA तथा जिब्बेरेलीन्स",
             "C": "पॉलीइथीलीन ग्लाइकॉल तथा सोडियम नाइट्रेट",
             "D": "सोडियम क्लोराइड तथा पोटैशियम क्लोराइड"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_55",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Advancement in genetic engineering has been possible due to whom?",
         "prashna": "आनुवंशिक अभियांत्रिकी में उन्नति किसके कारण संभव हुई है ?",
         "options": {
@@ -1096,13 +1097,13 @@
             "B": "ट्रांसपोसोन्स",
             "C": "एंडोन्यूक्लिएज",
             "D": "ऑन्कोजीन्स"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_56",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Toxin produced by tetanus mainly affects –",
         "prashna": "टिटेनस द्वारा उत्पन्न विष मुख्य रूप से किसे प्रभावित करता है ?",
         "options": {
@@ -1116,13 +1117,13 @@
             "B": "श्वसन तंत्र",
             "C": "स्वैच्छिक मांसपेशी",
             "D": "दोनों (A) तथा (B)"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_57",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Which of the following is not a fresh water fish ?",
         "prashna": "निम्नलिखित में से कौन मृदूजलीय मछली नहीं है ?",
         "options": {
@@ -1136,13 +1137,13 @@
             "B": "रोहू",
             "C": "मृगल",
             "D": "सैल्मन"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_58",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "'Lohi' is a breed of –",
         "prashna": "'लोही' नस्ल है –",
         "options": {
@@ -1156,13 +1157,13 @@
             "B": "गीज़ की",
             "C": "भेड़ की",
             "D": "पक्षी की"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_59",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Decolouration of lead and silver paints is caused due to –",
         "prashna": "सीसा युक्त और सिल्वर पेंट के रंगहीन होने का कारण है –",
         "options": {
@@ -1176,13 +1177,13 @@
             "B": "सल्फर डाइऑक्साइड",
             "C": "कार्बन मोनोऑक्साइड",
             "D": "हाइड्रोजन सल्फाइड"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_60",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "BOD level in fresh water should not exceed beyond –",
         "prashna": "मृदूजल में BOD का स्तर इससे अधिक नहीं होना चाहिए –",
         "options": {
@@ -1196,13 +1197,13 @@
             "B": "10 ppm",
             "C": "25 ppm",
             "D": "50 ppm"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_61",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "The most famous symbiotic nitrogen fixing bacterium is –",
         "prashna": "सर्वाधिक प्रसिद्ध नाइट्रोजन स्थिरीकरण जीवाणु है –",
         "options": {
@@ -1216,13 +1217,13 @@
             "B": "राइज़ोबियम",
             "C": "नाइट्रोसोमोनास",
             "D": "नाइट्रोबैक्टर"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_62",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "HIV attacks on –",
         "prashna": "HIV हमला करता है –",
         "options": {
@@ -1236,13 +1237,13 @@
             "B": "मददगार-T कोशिका पर",
             "C": "आरबीसी पर",
             "D": "रक्त प्लेटलेट्स पर"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_63",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "How oral contraception pills used by females help in birth control ?",
         "prashna": "महिलाओं द्वारा उपयोग की जाने वाली मौखिक गर्भ निरोधक गोलियाँ जन्म नियंत्रण में कैसे मदद करती हैं ?",
         "options": {
@@ -1256,13 +1257,13 @@
             "B": "अण्डोत्सर्ग बाधित करके",
             "C": "शुक्राणु को मारकर",
             "D": "शुक्राणु तथा अण्डाणु के बीच अवरोध निर्मित करके"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_64",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Which of the following cannot be detected in a developing foetus by amniocentesis ?",
         "prashna": "एमनियोसेंटेसिस द्वारा विकासशील भ्रूण में निम्नांकित में से किसका पता नहीं लगाया जा सकता ?",
         "options": {
@@ -1276,13 +1277,13 @@
             "B": "क्लाइनफेल्टर सिण्ड्रोम",
             "C": "डाउन्स् सिण्ड्रोम",
             "D": "पीलिया"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_65",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Nif-genes are associated with –",
         "prashna": "Nif जीन्स संबंधित है –",
         "options": {
@@ -1296,13 +1297,13 @@
             "B": "नाइट्रीफिकेशन से",
             "C": "नाइट्रोजन स्थिरीकरण से",
             "D": "विएमीनकरण से"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_66",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "In genetic engineering, restriction enzymes can be used for –",
         "prashna": "आनुवंशिक अभियांत्रिकी में, प्रतिबंधन एंजाइम का उपयोग किया जा सकता है –",
         "options": {
@@ -1316,13 +1317,13 @@
             "B": "केवल जीवाणु DNA के लिए",
             "C": "केवल विषाणु के DNA के लिए",
             "D": "किसी भी DNA टुकड़े के लिए"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_67",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "The feature of the xerophytic plant leaves are –",
         "prashna": "मरुद्भिद् पौधे की पत्तियों की विशेषता है –",
         "options": {
@@ -1336,13 +1337,13 @@
             "B": "निचली एपिडर्मिस पर धँसे रंध्र।",
             "C": "भारी छल्ली",
             "D": "दोनों (B) तथा (C)"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_68",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "In a lake, phytoplanktons grow abundantly in –",
         "prashna": "एक झील में पादप प्लवक बहुतायत में इनमें उगते हैं –",
         "options": {
@@ -1356,13 +1357,13 @@
             "B": "प्रोफंडल ज़ोन में",
             "C": "लिट्टोरल ज़ोन में",
             "D": "बेन्थिक क्षेत्र में"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_69",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "“Gametes are never hybrid”, it is statement of -",
         "prashna": "“युग्मक कभी संकर नहीं होते” यह कथन है –",
         "options": {
@@ -1376,13 +1377,13 @@
             "B": "यादृच्छिक निषेचन के नियम का",
             "C": "पृथक्करण के नियम का",
             "D": "स्वतंत्र संकलन के नियम का"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_70",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Which one in the following crosses shows phenotypic ratio of 3:1 ?",
         "prashna": "निम्न में से कौन सा क्रास 3:1 के फिनोटीपिक अनुपात को दर्शाता है।",
         "options": {
@@ -1396,181 +1397,181 @@
             "B": "Aabb X Aabb",
             "C": "AaBb X aabb",
             "D": "aabb X AABb"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "short_1",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Define hydrophytic plants with the help of suitable example.",
-        "prashna": "जलीय पौधे को उदाहरण सहित परिभाषित करें।",
-        "chapter_name": "Organisms and Populations"
+        "prashna": "जलीय पौधे को उदाहरण सहित परिभाषित करें।"
     },
     {
         "id": "short_2",
         "type": "short_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Differentiate between Food chain and Food-web.",
-        "prashna": "खाद्य श्रृंखला तथा खाद्य जाल में अंतर स्पष्ट करें।",
-        "chapter_name": "Ecosystem"
+        "prashna": "खाद्य श्रृंखला तथा खाद्य जाल में अंतर स्पष्ट करें।"
     },
     {
         "id": "short_3",
         "type": "short_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Define chromosomal aberration.",
-        "prashna": "गुणसूत्री उत्परिवर्तन को परिभाषित करें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "गुणसूत्री उत्परिवर्तन को परिभाषित करें।"
     },
     {
         "id": "short_4",
         "type": "short_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Describe spermatogenesis in brief.",
-        "prashna": "शुक्राणुजनन को संक्षेप में समझाएं।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "शुक्राणुजनन को संक्षेप में समझाएं।"
     },
     {
         "id": "short_5",
         "type": "short_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "prashna": "8-केन्द्रक आवृत्तबीजी भ्रूणकोष का नामांकित चित्र दर्शाएं।",
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        "prashna": "8-केन्द्रक आवृत्तबीजी भ्रूणकोष का नामांकित चित्र दर्शाएं।"
     },
     {
         "id": "short_6",
         "type": "short_answer",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Write in brief on natural selection.",
-        "prashna": "प्राकृतिक चयन पर संक्षेप में लिखें।",
-        "chapter_name": "Evolution"
+        "prashna": "प्राकृतिक चयन पर संक्षेप में लिखें।"
     },
     {
         "id": "short_7",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Define ecological diversity.",
-        "prashna": "पारिस्थितिक विविधता को परिभाषित करें।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "पारिस्थितिक विविधता को परिभाषित करें।"
     },
     {
         "id": "short_8",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Write a note on RNA polymerase enzyme.",
-        "prashna": "आर एन ए पॉलीमरेज एंजाइम पर एक टिप्पणी लिखें।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "आर एन ए पॉलीमरेज एंजाइम पर एक टिप्पणी लिखें।"
     },
     {
         "id": "short_9",
         "type": "short_answer",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Explain about connecting link and missing link.",
-        "prashna": "योजक-कड़ी तथा विलुप्त-कड़ी के बारे में बताएं।",
-        "chapter_name": "Evolution"
+        "prashna": "योजक-कड़ी तथा विलुप्त-कड़ी के बारे में बताएं।"
     },
     {
         "id": "short_10",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Distinguish between B-DNA and Z-DNA.",
-        "prashna": "बी-डीएनए तथा जेड-डीएनए में अंतर स्पष्ट करें।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "बी-डीएनए तथा जेड-डीएनए में अंतर स्पष्ट करें।"
     },
     {
         "id": "short_11",
         "type": "short_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Define cross-pollination with the help of suitable example.",
-        "prashna": "पर-परागण को उदाहरण सहित परिभाषित करें।",
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        "prashna": "पर-परागण को उदाहरण सहित परिभाषित करें।"
     },
     {
         "id": "short_12",
         "type": "short_answer",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Explain about vasectomy.",
-        "prashna": "नर-नसबंदी के बारे में बताएं।",
-        "chapter_name": "Reproductive Health"
+        "prashna": "नर-नसबंदी के बारे में बताएं।"
     },
     {
         "id": "short_13",
         "type": "short_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Differentiate between external and internal fertilization.",
-        "prashna": "बाह्य तथा आंतरिक निषेचन में अंतर स्पष्ट करें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "बाह्य तथा आंतरिक निषेचन में अंतर स्पष्ट करें।"
     },
     {
         "id": "short_14",
         "type": "short_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "What do you mean by selectable marker ?",
-        "prashna": "वरण-योग्य चिन्हक से क्या समझते हैं ?",
-        "chapter_name": "Biotechnology: Principles and Processes"
+        "prashna": "वरण-योग्य चिन्हक से क्या समझते हैं ?"
     },
     {
         "id": "short_15",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Name the causal organism of the following diseases.\n(A) Tuberculosis\n(B) Filaria\n(C) AIDS\n(D) Ring worm",
-        "prashna": "निम्नांकित बिमारियों के रोगजनक का नाम बताएँ :\n(A) क्षय रोग\n(B) फाइलेरिया\n(C) एड्स\n(D) दाद",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "निम्नांकित बिमारियों के रोगजनक का नाम बताएँ :\n(A) क्षय रोग\n(B) फाइलेरिया\n(C) एड्स\n(D) दाद"
     },
     {
         "id": "short_16",
         "type": "short_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "What do you understand by parthenogenesis ? Explain with example.",
-        "prashna": "अनिषेक जनन से क्या समझते हैं ? उदाहरण सहित बताएं।",
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        "prashna": "अनिषेक जनन से क्या समझते हैं ? उदाहरण सहित बताएं।"
     },
     {
         "id": "short_17",
         "type": "short_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "What do you understand by Pedigree analysis ? How is it useful?",
-        "prashna": "वंशावली विश्लेषण से क्या समझते हैं ? यह कैसे उपयोगी है ?",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "वंशावली विश्लेषण से क्या समझते हैं ? यह कैसे उपयोगी है ?"
     },
     {
         "id": "short_18",
         "type": "short_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Describe about the hazards of transgenic animals.",
-        "prashna": "पारजीवी जंतुओं के हानिकारक कुप्रभावों का वर्णन करें।",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "पारजीवी जंतुओं के हानिकारक कुप्रभावों का वर्णन करें।"
     },
     {
         "id": "short_19",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Name the primary and secondary lymphoid organs.",
-        "prashna": "प्राथमिक तथा द्वितीयक लसीका अंगों के नाम लिखें।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "प्राथमिक तथा द्वितीयक लसीका अंगों के नाम लिखें।"
     },
     {
         "id": "short_20",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Name any four national park of India.",
-        "prashna": "भारत के किन्हीं चार राष्ट्रीय उद्यान का नाम बताएँ।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "भारत के किन्हीं चार राष्ट्रीय उद्यान का नाम बताएँ।"
     },
     {
         "id": "long_1",
         "type": "long_answer",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "What do you mean by methanogens ? How do methanogens help in producing biogas ?",
-        "prashna": "मीथैनोजेन से आप क्या समझते हैं ? बायोगैस उत्पादन में मीथैनोजेन कैसे सहायक हैं?",
-        "chapter_name": "Microbes in Human Welfare"
+        "prashna": "मीथैनोजेन से आप क्या समझते हैं ? बायोगैस उत्पादन में मीथैनोजेन कैसे सहायक हैं?"
     },
     {
         "id": "long_2",
         "type": "long_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Describe the following :-",
         "prashna": "निम्नांकित का वर्णन करें :- $2\\frac{1}{2}X2=5$",
         "sub_questions": {
@@ -1580,21 +1581,21 @@
         "anuprashna": {
             "A": "पौधों का प्रदूषण नियंत्रण में महत्त्व।",
             "B": "डेयरी फार्म प्रबंधन"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "long_3",
         "type": "long_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What do you understand by Biopesticide? Write a note on BT-toxin.",
-        "prashna": "जैव पीड़कनाशी से आप क्या समझते हैं ? बी टी विष पर एक टिप्पणी लिखें।",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "जैव पीड़कनाशी से आप क्या समझते हैं ? बी टी विष पर एक टिप्पणी लिखें।"
     },
     {
         "id": "long_4",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Answer the following questions :",
         "prashna": "निम्नलिखित प्रश्नों के उत्तर दें : ($2\\frac{1}{2} \\times 2 = 5$)",
         "sub_questions": {
@@ -1604,21 +1605,21 @@
         "anuprashna": {
             "A": "डाउन्स् सिण्ड्रोम तथा क्लाइनफेल्टर्स सिण्ड्रोम में अंतर स्पष्ट करें।",
             "B": "युग्मक जनन तथा भ्रूणोद्भव में अंतर स्पष्ट करें।"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "long_5",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Describe sex-linked inheritance with the help of suitable examples.",
-        "prashna": "लिंग-सहलग्न वंशागति को सोदाहरण समझाएं।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "लिंग-सहलग्न वंशागति को सोदाहरण समझाएं।"
     },
     {
         "id": "long_6",
         "type": "long_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Write short notes on the following :-",
         "prashna": "निम्नांकित पर टिप्पणी लिखें :- ($2\\frac{1}{2} \\times 2 = 5$)",
         "sub_questions": {
@@ -1628,7 +1629,6 @@
         "anuprashna": {
             "A": "अण्डोत्सर्ग",
             "B": "जलक्रमक"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     }
 ]

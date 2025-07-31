@@ -3,6 +3,7 @@
         "id": "obj_1",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "What is found in the pyrimidine of DNA?",
         "prashna": "DNA के पाइरिमिडिन में पाया जाता है।",
         "options": {
@@ -16,13 +17,13 @@
             "B": "एडेनीन एवं गुआनीन",
             "C": "साइटोसीन एवं यूरेसिल",
             "D": "थायमीन एवं यूरेसिल"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_2",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Anemophily pollination is done by?",
         "prashna": "एनिमोफिली नामक परागण किसके द्वारा होता है ?",
         "options": {
@@ -36,13 +37,13 @@
             "B": "चमगादड़",
             "C": "घोंघा",
             "D": "हवा"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_3",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "In an ecosystem, green plants are",
         "prashna": "एक पारिस्थितिक तंत्र में हरे पौधे हैं",
         "options": {
@@ -56,13 +57,13 @@
             "B": "उपभोक्ता",
             "C": "अपघटक",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_4",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Mendel selected",
         "prashna": "मेंडल ने चयन किया",
         "options": {
@@ -76,13 +77,13 @@
             "B": "पाइनस",
             "C": "टमाटर",
             "D": "गार्डेन मटर"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_5",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Which of the following is unisexual?",
         "prashna": "निम्न में से कौन एकलिंगी है?",
         "options": {
@@ -96,13 +97,13 @@
             "B": "गुड़हल",
             "C": "पपीता",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_6",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Which of the following food chains is correct?",
         "prashna": "निम्न में से कौन आहार श्रृंखला सही है?",
         "options": {
@@ -116,13 +117,13 @@
             "B": "घास, बकरी और शेर",
             "C": "बकरी, गाय और घास",
             "D": "घास, मछली और बकरी"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_7",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Which vitamin is found in Golden rice?",
         "prashna": "गोल्डेन / सुनहरा धान में कौन-सा विटामिन पाया जाता है ?",
         "options": {
@@ -136,13 +137,13 @@
             "B": "A",
             "C": "D",
             "D": "C"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_8",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Gir sanctuary is famous for",
         "prashna": "गिर अभयारण्य प्रसिद्ध है",
         "options": {
@@ -156,13 +157,13 @@
             "B": "घड़ियाल के लिए",
             "C": "शेर के लिए",
             "D": "गैंडा के लिए"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_9",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "A nucleoside is",
         "prashna": "न्यूक्लिओ साइड है",
         "options": {
@@ -176,13 +177,13 @@
             "B": "शुगर फॉस्फेट",
             "C": "नाइट्रोजनयुक्त बेस + फॉस्फेट",
             "D": "शुगर + एक नाइट्रोजन युक्त बेस + फॉस्फेट"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_10",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Anticodons are found in?",
         "prashna": "एंटीकोडॉन्स किसमें पाया जाता है?",
         "options": {
@@ -196,13 +197,13 @@
             "B": "टी-आरएनए में (t-RNA)",
             "C": "आर-आरएनए में (r-RNA)",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_11",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Statement-I: Tobacco is an intoxicating drug. Statement-II: Chewing tobacco causes mouth cancer.",
         "prashna": "कथन-I : तम्बाकू एक नशीली दवा है। कथन II : तम्बाकू चबाने से मुख कैंसर होता है।",
         "options": {
@@ -216,13 +217,13 @@
             "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
             "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
             "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_12",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Statement-I: The flow of energy in an ecosystem is unidirectional. Statement-II: Energy can neither be created nor destroyed.",
         "prashna": "कथन-I : पारिस्थितिक तंत्र में ऊर्जा का प्रवाह एकदिशीय क्रम में होता है। कथन- II : ऊर्जा का सृजन एवं नाश नहीं होता है।",
         "options": {
@@ -236,13 +237,13 @@
             "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
             "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
             "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_13",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Statement-I: The Taj Mahal of Agra is in danger from emissions from the Mathura oil refinery. Statement-II: $SO_2$ gas is being emitted into nature from the Mathura oil refinery.",
         "prashna": "कथन-I आगरा का ताजमहज मथुरा तेल रिफाइनरी में उत्सर्जन से खतरे में है। कथन-II: मथुरा तेल रिफाइनरी से प्रकृति में $SO_2$ गैस का उत्सर्जन हो रहा है।",
         "options": {
@@ -256,13 +257,13 @@
             "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
             "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
             "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_14",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Statement-I: Male gametes are haploid. Statement-II: Male gametes have $2n$ number of chromosomes.",
         "prashna": "कथन-I : नर युग्मक अगुणित होते हैं। कथन II : नर युग्मक में $2n$ संख्या में गुणसूत्र होते हैं।",
         "options": {
@@ -276,13 +277,13 @@
             "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
             "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
             "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_15",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Statement-I: Haemophilia is a sex-linked recessive disease. Statement-II: The gene for haemophilia is found on the X chromosome.",
         "prashna": "कथन I हीमोफीलिया एक लिंग सहलग्न अप्रभावी रोग है। कथन- II : हीमोफीलिया का जीन X गुणसूत्र पर पाया जाता है।",
         "options": {
@@ -296,13 +297,13 @@
             "B": "दोनों कथन सही है परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
             "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
             "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_16",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Which of the following is not a bacterial disease?",
         "prashna": "निम्न में से कौन जीवाणु से होने वाली बीमारी नहीं है ?",
         "options": {
@@ -316,13 +317,13 @@
             "B": "कुष्ठ",
             "C": "डिफ्थेरिया",
             "D": "इंफ्लुएंजा"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_17",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "In which stage does crossing over occur?",
         "prashna": "क्रॉसिंग ओवर किस अवस्था में होता है ?",
         "options": {
@@ -336,13 +337,13 @@
             "B": "लेप्टोटीन",
             "C": "पैकीटीन",
             "D": "मेटाफेज"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_18",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Which of the following diseases is caused by a defect in haemoglobin?",
         "prashna": "निम्न में कौन-सा रोग हीमोग्लोविन त्रुटि के कारण होता है?",
         "options": {
@@ -356,13 +357,13 @@
             "B": "फिनाइल किटोन्यूरिया",
             "C": "क्लिनेफेल्टर सिंड्रोम",
             "D": "सिकल सेल एनिमिया"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_19",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Deforestation",
         "prashna": "वनों का ह्रास",
         "options": {
@@ -376,13 +377,13 @@
             "B": "एफ. ग्रीफीथ",
             "C": "अपराध विज्ञान",
             "D": "वैश्विक तापन"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_20",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "DNA fingerprinting",
         "prashna": "डीएनए फिंगरप्रिंटिंग",
         "options": {
@@ -396,13 +397,13 @@
             "B": "एफ. ग्रीफीथ",
             "C": "अपराध विज्ञान",
             "D": "वैश्विक तापन"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_21",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Transformation",
         "prashna": "रूपातरण",
         "options": {
@@ -416,13 +417,13 @@
             "B": "एफ. ग्रीफीथ",
             "C": "अपराध विज्ञान",
             "D": "वैश्विक तापन"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_22",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Opium",
         "prashna": "अफीम",
         "options": {
@@ -436,13 +437,13 @@
             "B": "एफ. ग्रीफीथ",
             "C": "अपराध विज्ञान",
             "D": "वैश्विक तापन"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_23",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "How many traits did Mendel study?",
         "prashna": "मेंडल ने कितने लक्षणों का अध्ययन किया ?",
         "options": {
@@ -456,13 +457,13 @@
             "B": "चार",
             "C": "सात",
             "D": "तीन"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_24",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Mendel proposed",
         "prashna": "मेंडल ने प्रतिपादित किया",
         "options": {
@@ -476,13 +477,13 @@
             "B": "आनुवंशिकता का नियम",
             "C": "थर्मोडायनामिक्स का नियम",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_25",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "What is the principle of segregation also called?",
         "prashna": "पृथककरण के सिद्धांत को और क्या कहते हैं?",
         "options": {
@@ -496,151 +497,150 @@
             "B": "स्वतंत्र अपव्यूहन का नियम",
             "C": "युग्मकों की शुद्धता का नियम",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "short_1",
         "type": "short_answer",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Write two benefits of using organic manure.",
-        "prashna": "जैविक खाद के उपयोग से होनेवाले दो लाभों को लिखें।",
-        "chapter_name": "Microbes in Human Welfare"
+        "prashna": "जैविक खाद के उपयोग से होनेवाले दो लाभों को लिखें।"
     },
     {
         "id": "short_2",
         "type": "short_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "What do you understand by an ecosystem?",
-        "prashna": "एक पारिस्थितिकी तंत्र से आप क्या समझते हैं ?",
-        "chapter_name": "Ecosystem"
+        "prashna": "एक पारिस्थितिकी तंत्र से आप क्या समझते हैं ?"
     },
     {
         "id": "short_3",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Mention two symptoms of cancer.",
-        "prashna": "कैंसर के दो लक्षणों को बताइए।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "कैंसर के दो लक्षणों को बताइए।"
     },
     {
         "id": "short_4",
         "type": "short_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Define linkage.",
-        "prashna": "सहलग्नता को परिभाषित करें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "सहलग्नता को परिभाषित करें।"
     },
     {
         "id": "short_5",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Explain commensalism with an example.",
-        "prashna": "सहभोजिता को एक उदाहरण देते हुए समझाइए ।",
-        "chapter_name": "Organisms and Populations"
+        "prashna": "सहभोजिता को एक उदाहरण देते हुए समझाइए ।"
     },
     {
         "id": "short_6",
         "type": "short_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What do you understand by Green Revolution?",
-        "prashna": "हरित क्रांति से आप क्या समझते हैं?",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "हरित क्रांति से आप क्या समझते हैं?"
     },
     {
         "id": "short_7",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Name two greenhouse gases that are causing global warming.",
-        "prashna": "दो ग्रीनहाउस गैसों के नाम बताइए जिनसे वैश्विक तापन हो रहा है।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "दो ग्रीनहाउस गैसों के नाम बताइए जिनसे वैश्विक तापन हो रहा है।"
     },
     {
         "id": "short_8",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "What do you know about biodiversity?",
-        "prashna": "जैवविविधता के बारे में आप क्या जानते हैं?",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "जैवविविधता के बारे में आप क्या जानते हैं?"
     },
     {
         "id": "short_9",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "State two major differences between DNA and RNA.",
-        "prashna": "डीएनए एवं आरएनए के बीच दो प्रमुख अंतर बताइए।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "डीएनए एवं आरएनए के बीच दो प्रमुख अंतर बताइए।"
     },
     {
         "id": "short_10",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Write about the role of lymphocytes in immunity.",
-        "prashna": "असंक्राम्यता में लिम्फोसाइट की भूमिका के बारे में लिखें।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "असंक्राम्यता में लिम्फोसाइट की भूमिका के बारे में लिखें।"
     },
     {
         "id": "short_11",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "How are malaria and pneumonia transmitted?",
-        "prashna": "मलेरिया और न्यूमोनिया का प्रसारण किस प्रकार होता है?",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "मलेरिया और न्यूमोनिया का प्रसारण किस प्रकार होता है?"
     },
     {
         "id": "long_1_1",
         "type": "long_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Give a brief description of a freshwater pond ecosystem.",
-        "prashna": "मृदु जलीय तालाब पारिस्थितिक तंत्र का संक्षिप्त विवरण दें।",
-        "chapter_name": "Ecosystem"
+        "prashna": "मृदु जलीय तालाब पारिस्थितिक तंत्र का संक्षिप्त विवरण दें।"
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Give information about the process of fertilization in flowering plants.",
-        "prashna": "पुष्पीय पौधों में निषेचन की क्रिया की जानकारी दें।",
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        "prashna": "पुष्पीय पौधों में निषेचन की क्रिया की जानकारी दें।"
     },
     {
         "id": "long_2_1",
         "type": "long_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "What is air pollution? Mention its harmful effects.",
-        "prashna": "वायु प्रदूषण क्या है? इसके हानिकारक प्रभावों का उल्लेख करें।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "वायु प्रदूषण क्या है? इसके हानिकारक प्रभावों का उल्लेख करें।"
     },
     {
         "id": "long_2_2",
         "type": "long_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "Write an essay on tissue culture.",
-        "prashna": "उत्तक संवर्धन पर एक निबंध लिखिए।",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "उत्तक संवर्धन पर एक निबंध लिखिए।"
     },
     {
         "id": "long_3_1",
         "type": "long_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Draw a labelled diagram of a Graafian follicle and write its characteristics.",
-        "prashna": "ग्राफी पुटक का एक नामांकित चित्र बनाइए और उसकी विशेषताओं को लिखें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "ग्राफी पुटक का एक नामांकित चित्र बनाइए और उसकी विशेषताओं को लिखें।"
     },
     {
         "id": "long_3_2",
         "type": "long_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "What is a food chain? Describe the food chain of a forest ecosystem.",
-        "prashna": "आहार श्रृंखला क्या है? जंगलीय पारिस्थितिक तंत्र के आहार श्रृंखला का वर्णन करें।",
-        "chapter_name": "Ecosystem"
+        "prashna": "आहार श्रृंखला क्या है? जंगलीय पारिस्थितिक तंत्र के आहार श्रृंखला का वर्णन करें।"
     },
     {
         "id": "long_4",
         "type": "long_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Give brief information about Recombinant DNA technology.",
-        "prashna": "रिकम्बिनेन्ट डी.एन.ए. तकनीक की संक्षिप्त जानकारी दें।",
-        "chapter_name": "Biotechnology: Principles and Processes"
+        "prashna": "रिकम्बिनेन्ट डी.एन.ए. तकनीक की संक्षिप्त जानकारी दें।"
     }
 ]

@@ -3,6 +3,7 @@
         "id": "obj_1",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "When an offspring is produced by a single parent, what is it called?",
         "prashna": "जब संतति की उत्पत्ति एकल जनक द्वारा होती है तब यह क्या कहलाता है ?",
         "options": {
@@ -16,13 +17,13 @@
             "B": "अलैंगिक जनन",
             "C": "(A) और (B) दोनों",
             "D": "आंतरिक निषेचन"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_2",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "In which organism does reproduction by budding occur?",
         "prashna": "मुकुलन द्वारा जनन किसमें होता है?",
         "options": {
@@ -36,13 +37,13 @@
             "B": "परामिशियम",
             "C": "पेनिसिलियम",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_3",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "What is the number of chromosomes in human gametes?",
         "prashna": "मानव युग्मकों में गुणसूत्रों की कितनी संख्या होती है?",
         "options": {
@@ -56,13 +57,13 @@
             "B": "23",
             "C": "44",
             "D": "46"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_4",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Which one is oviparous?",
         "prashna": "अंड प्रजक है।",
         "options": {
@@ -76,13 +77,13 @@
             "B": "साँप",
             "C": "मगरमच्छ",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_5",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Which is diploid?",
         "prashna": "द्विगुणित है",
         "options": {
@@ -96,13 +97,13 @@
             "B": "पराग",
             "C": "(A) और (B) दोनों",
             "D": "युग्मनज"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_6",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "In which fruit is the aril eaten?",
         "prashna": "किस फल में बीजचोल खाला जाता है?",
         "options": {
@@ -116,13 +117,13 @@
             "B": "लीची",
             "C": "शरीफा",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_7",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "The source of Eco RI enzyme is:",
         "prashna": "Eco RI एंजाइम का स्रोत है।",
         "options": {
@@ -136,13 +137,13 @@
             "B": "E. coli",
             "C": "(A) और (B) दोनों",
             "D": "Hind III"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_8",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which is an indicator of $SO_2$ pollution?",
         "prashna": "$SO_2$ प्रदूषण का सूचक है",
         "options": {
@@ -156,13 +157,13 @@
             "B": "लाईकेन",
             "C": "कवक",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_9",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "T-lymphocyte is produced from:",
         "prashna": "T-लिम्फोसाइट उत्पन्न होता है",
         "options": {
@@ -176,13 +177,13 @@
             "B": "पेट से",
             "C": "थाईमस से",
             "D": "यकृत से"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_10",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Who produces honey?",
         "prashna": "शहद का निर्माण कौन करती है?",
         "options": {
@@ -196,13 +197,13 @@
             "B": "रानी मधुमक्खी",
             "C": "कार्यकर्ता मधुमक्खी",
             "D": "(A) और (B) दोनों"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_11",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "In what is semen cryopreserved?",
         "prashna": "वीर्य को किसमें हिमीकृत किया जाता है ?",
         "options": {
@@ -216,13 +217,13 @@
             "B": "रेफ्रिजरेटर में",
             "C": "बर्फ में",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_12",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Which of the following diseases occurs in chickens?",
         "prashna": "निम्नांकित में कौन-सी बीमारी मुर्गियों में होती है?",
         "options": {
@@ -236,13 +237,13 @@
             "B": "हैजा",
             "C": "(A) और (B) दोनों",
             "D": "रानीखेत"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_13",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What is the fusogen for protoplast culture?",
         "prashna": "प्रोटोप्लास्ट कल्वर का फ्यूजोजेन क्या है?",
         "options": {
@@ -256,13 +257,13 @@
             "B": "PEG",
             "C": "लैक्टिक अम्ल",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_14",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Oncology is the study of?",
         "prashna": "ऑन्कोलॉजी किसका अध्ययन है?",
         "options": {
@@ -276,13 +277,13 @@
             "B": "ऑन्कोजीन्स",
             "C": "(A) और (B) दोनों",
             "D": "विषाणु"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_15",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "The dough for Idli and Dosa is made by the use of which microorganism?",
         "prashna": "इडली एवं डोसा का आटा किस सूक्ष्मजीव के प्रयोग से बनाया जाता है ?",
         "options": {
@@ -296,13 +297,13 @@
             "B": "लैक्टोबैसीलस",
             "C": "विषाणु",
             "D": "यीस्ट"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_16",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "In which is Ti-plasmid found?",
         "prashna": "Ti- प्लाज्मिड किसमें पाया जाता है ?",
         "options": {
@@ -316,13 +317,13 @@
             "B": "ई. कोलाई में",
             "C": "बी. कोलाई में",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_17",
         "type": "objective",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "From what is agarose obtained?",
         "prashna": "एगारोज किससे प्राप्त किया जाता है?",
         "options": {
@@ -336,13 +337,13 @@
             "B": "मक्का",
             "C": "साईकस",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     },
     {
         "id": "obj_18",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Which is a sexually transmitted disease?",
         "prashna": "यौन संचारित रोग है",
         "options": {
@@ -356,13 +357,13 @@
             "B": "टी.बी.",
             "C": "गोनोरिया",
             "D": "टायफाएड"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_19",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "How many codons are there in the genetic code?",
         "prashna": "आनुवंशिक कूट में कितने कूट होते हैं?",
         "options": {
@@ -376,13 +377,13 @@
             "B": "16",
             "C": "32",
             "D": "64"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_20",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "In colour blindness, the patient cannot distinguish between",
         "prashna": "वर्णांधता में रोगी नहीं पहचान पाता है",
         "options": {
@@ -396,13 +397,13 @@
             "B": "लाल तथा हरा रंग",
             "C": "नीला तथा हरा रंग",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_21",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "The Operon model was proposed by",
         "prashna": "ओपेरॉन मॉडल प्रस्तावित किया था",
         "options": {
@@ -416,13 +417,13 @@
             "B": "निरेनबर्ग ने",
             "C": "जेकॉब तथा मोनाड ने",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_22",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Echidna is a",
         "prashna": "एकिडना है",
         "options": {
@@ -436,13 +437,13 @@
             "B": "अवशेषी अंग",
             "C": "विलुप्त कड़ी",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "obj_23",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which of the following is an insectivorous plant?",
         "prashna": "निम्न में से कौन कीटभक्षी पौधा है ?",
         "options": {
@@ -456,13 +457,13 @@
             "B": "नेपेन्थीस",
             "C": "(A) और (B) दोनों",
             "D": "हाइड्रिला"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_24",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Spermatogenesis is controlled by?",
         "prashna": "शुक्राणुजनन का नियंत्रण किसके द्वारा होता है?",
         "options": {
@@ -476,13 +477,13 @@
             "B": "L.H.",
             "C": "एंड्रोजेन",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_25",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "In human blood group AB",
         "prashna": "मानव रुधिर AB वर्ग में",
         "options": {
@@ -496,13 +497,13 @@
             "B": "एंटीबडी अनुपस्थित रहते है",
             "C": "एंटीबडी a उपस्थित होते हैं।",
             "D": "एंटीबडी b उपस्थित होते हैं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_26",
         "type": "objective",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What is found in Golden Rice?",
         "prashna": "गोल्डेन राइस में पाया जाता है।",
         "options": {
@@ -516,13 +517,13 @@
             "B": "विटामिन $B_{12}$",
             "C": "विटामिन C",
             "D": "विटामिन D"
-        },
-        "chapter_name": "Biotechnology and its Applications"
+        }
     },
     {
         "id": "obj_27",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Mendel had proposed",
         "prashna": "मेण्डल ने प्रस्तावित किया था",
         "options": {
@@ -536,13 +537,13 @@
             "B": "10% ऊर्जा के नियम",
             "C": "आनुवंशिकता के नियम",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_28",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Which is helpful in making soil fertile?",
         "prashna": "मिट्टी को उपजाऊ बनाने में सहायक",
         "options": {
@@ -556,157 +557,157 @@
             "B": "जैविक खाद",
             "C": "यीस्ट",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "short_1",
         "type": "short_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Write a short note on asexual reproduction in organisms.",
-        "prashna": "जीवों में अलैंगिक जनन के बारे में संक्षिप्त टिप्पणी लिखें।",
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        "prashna": "जीवों में अलैंगिक जनन के बारे में संक्षिप्त टिप्पणी लिखें।"
     },
     {
         "id": "short_2",
         "type": "short_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Differentiate between oestrous cycle and menstrual cycle.",
-        "prashna": "मदचक्र तथा ऋतुस्राव चक्र के बारे में स्पष्ट करें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "मदचक्र तथा ऋतुस्राव चक्र के बारे में स्पष्ट करें।"
     },
     {
         "id": "short_3",
         "type": "short_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Write the laws proposed by Mendel on the basis of monohybrid cross.",
-        "prashna": "एकसंकर क्रॉस के आधार पर मेण्डल के प्रतिपादित नियमों को लिखें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "एकसंकर क्रॉस के आधार पर मेण्डल के प्रतिपादित नियमों को लिखें।"
     },
     {
         "id": "short_4",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Differentiate between DNA and RNA.",
-        "prashna": "डी०एन०ए० तथा आर०एन०ए० में अंतर स्पष्ट करें।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "डी०एन०ए० तथा आर०एन०ए० में अंतर स्पष्ट करें।"
     },
     {
         "id": "short_5",
         "type": "short_answer",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "Write in brief about chemical evolution.",
-        "prashna": "रासायनिक विकास के बारे में संक्षेप में लिखें।",
-        "chapter_name": "Evolution"
+        "prashna": "रासायनिक विकास के बारे में संक्षेप में लिखें।"
     },
     {
         "id": "short_6",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "How do diseases spread? Write in brief.",
-        "prashna": "रोग का प्रसार कैसे होता है? संक्षेप में लिखें।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "रोग का प्रसार कैसे होता है? संक्षेप में लिखें।"
     },
     {
         "id": "short_7",
         "type": "short_answer",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Give a brief account of poultry farm management.",
-        "prashna": "कुक्कुट फार्म प्रबंधन का संक्षिप्त विवरण दें।",
-        "chapter_name": "Microbes in Human Welfare"
+        "prashna": "कुक्कुट फार्म प्रबंधन का संक्षिप्त विवरण दें।"
     },
     {
         "id": "short_8",
         "type": "short_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "What is a plasmid? Briefly write about the structure and utility of a plasmid.",
-        "prashna": "प्लाज्मिड क्या है? प्लाज्मिड की संरचना तथा उपयोगिता संक्षेप में लिखें।",
-        "chapter_name": "Biotechnology: Principles and Processes"
+        "prashna": "प्लाज्मिड क्या है? प्लाज्मिड की संरचना तथा उपयोगिता संक्षेप में लिखें।"
     },
     {
         "id": "short_9",
         "type": "short_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What are the benefits of transgenic animals?",
-        "prashna": "ट्रांसजेनिक जन्तुओं से क्या-क्या लाभ हैं?",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "ट्रांसजेनिक जन्तुओं से क्या-क्या लाभ हैं?"
     },
     {
         "id": "short_10",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "What are the forms of a total population? Write in brief.",
-        "prashna": "कुल आबादी का रूप क्या-क्या है? संक्षेप में लिखें।",
-        "chapter_name": "Organisms and Populations"
+        "prashna": "कुल आबादी का रूप क्या-क्या है? संक्षेप में लिखें।"
     },
     {
         "id": "short_11",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Write about hydrophytes, xerophytes, and mesophytes with examples.",
-        "prashna": "जलोद्भिद, मरूद्भिद तथा समोद्भिद के बारे में सोदाहरण लिखें।",
-        "chapter_name": "Organisms and Populations"
+        "prashna": "जलोद्भिद, मरूद्भिद तथा समोद्भिद के बारे में सोदाहरण लिखें।"
     },
     {
         "id": "long_1_1",
         "type": "long_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Describe with a diagram the process of gastrulation and formation of germ layers.",
-        "prashna": "गैस्ट्रलेशन तथा जनन परतों के निर्माण के बारे में सचित्र वर्णन करें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "गैस्ट्रलेशन तथा जनन परतों के निर्माण के बारे में सचित्र वर्णन करें।"
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Show the structure of a human sperm with a labelled diagram and briefly write about all its components.",
-        "prashna": "मानव शुक्राणु की संरचना नामांकित चित्र द्वारा दर्शाइए तथा इसके सभी घटकों के बारे में संक्षेप में लिखें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "मानव शुक्राणु की संरचना नामांकित चित्र द्वारा दर्शाइए तथा इसके सभी घटकों के बारे में संक्षेप में लिखें।"
     },
     {
         "id": "long_2_1",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "What are linkage and linkage groups? Write about the effect and importance of linkage.",
-        "prashna": "सहलग्नता तथा सहलग्नता वर्ग क्या हैं? सहलग्नता का प्रभाव एवं इसकी महत्ता के बारे में लिखें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "सहलग्नता तथा सहलग्नता वर्ग क्या हैं? सहलग्नता का प्रभाव एवं इसकी महत्ता के बारे में लिखें।"
     },
     {
         "id": "long_2_2",
         "type": "long_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "What do you understand by an ecosystem? Describe the structure and components of an ecosystem.",
-        "prashna": "पारिस्थितिक तंत्र से आप क्या समझते हैं? पारिस्थितिक तंत्र की संरचना तथा इसके घटकों के बारे में वर्णन करें।",
-        "chapter_name": "Ecosystem"
+        "prashna": "पारिस्थितिक तंत्र से आप क्या समझते हैं? पारिस्थितिक तंत्र की संरचना तथा इसके घटकों के बारे में वर्णन करें।"
     },
     {
         "id": "long_3_1",
         "type": "long_answer",
         "chapter": "10",
+        "chapter_name": "Biotechnology and its Applications",
         "question": "What do you understand by micropropagation? Write about the methods of micropropagation with the help of diagrams.",
-        "prashna": "सूक्ष्म प्रजनन से आप क्या समझते हैं ? सूक्ष्म प्रजनन की विधियों को चित्रों की सहायता से लिखें।",
-        "chapter_name": "Biotechnology and its Applications"
+        "prashna": "सूक्ष्म प्रजनन से आप क्या समझते हैं ? सूक्ष्म प्रजनन की विधियों को चित्रों की सहायता से लिखें।"
     },
     {
         "id": "long_3_2",
         "type": "long_answer",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "What are the measures to increase the quantity of milk production and improve its quality in a dairy farm?",
-        "prashna": "डेयरी फार्म में दुग्ध उत्पादन की मात्रा बढ़ाने तथा उसकी गुणवत्ता सुधारने के क्या-क्या उपाय हैं?",
-        "chapter_name": "Microbes in Human Welfare"
+        "prashna": "डेयरी फार्म में दुग्ध उत्पादन की मात्रा बढ़ाने तथा उसकी गुणवत्ता सुधारने के क्या-क्या उपाय हैं?"
     },
     {
         "id": "long_4_1",
         "type": "long_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "What do you understand by conservation? Describe the methods of conservation of biological resources.",
-        "prashna": "संरक्षण से आप क्या समझते हैं? जैविक स्रोतों का संरक्षण के तरीकों का वर्णन करें।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "संरक्षण से आप क्या समझते हैं? जैविक स्रोतों का संरक्षण के तरीकों का वर्णन करें।"
     },
     {
         "id": "long_4_2",
         "type": "long_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "Write short notes on the following:",
         "prashna": "निम्नांकित पर संक्षिप्त टिप्पणी लिखें-",
         "sub_questions": {
@@ -716,7 +717,6 @@
         "anuprashna": {
             "A": "प्रतिबंधन एंजाइम",
             "B": "हैजा के कारण, लक्षण तथा नियंत्रण"
-        },
-        "chapter_name": "Biotechnology: Principles and Processes"
+        }
     }
 ]

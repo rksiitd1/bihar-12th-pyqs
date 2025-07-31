@@ -3,6 +3,7 @@
         "id": "obj_1",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Which of the following is a diploid structure?",
         "prashna": "निम्न में से कौन द्विगुणित संरचना है?",
         "options": {
@@ -16,13 +17,13 @@
             "B": "भ्रूण पोष",
             "C": "युग्मनज",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_2",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Oncogenes are responsible for which of these?",
         "prashna": "ओंकोजीन, इनमें से किसके लिए उत्तरदायी हैं?",
         "options": {
@@ -36,13 +37,13 @@
             "B": "एड्स",
             "C": "क्षय-रोग",
             "D": "पोलियो"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_3",
         "type": "objective",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Which of these plants is a hydrophyte?",
         "prashna": "इनमें से कौन पौधा जलो‌द्भिद हैं?",
         "options": {
@@ -56,13 +57,13 @@
             "B": "नागफनी",
             "C": "शीशम",
             "D": "एकेसिया"
-        },
-        "chapter_name": "Organisms and Populations"
+        }
     },
     {
         "id": "obj_4",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "What is fertilization that occurs outside the body called?",
         "prashna": "शरीर के बाहर होने वाले निषेचन को क्या कहते हैं?",
         "options": {
@@ -76,13 +77,13 @@
             "B": "इन वीवो",
             "C": "दोनों",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_5",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "On which date is World Environment Day celebrated?",
         "prashna": "विश्व पर्यावरण दिवस किस तिथि को मनाया जाता है?",
         "options": {
@@ -96,13 +97,13 @@
             "B": "20th दिसम्बर",
             "C": "15th मार्च",
             "D": "7th जुलाई"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_6",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Sertoli cells are found in-",
         "prashna": "सर्टोली कोशिकाएँ पायी जाती हैं-",
         "options": {
@@ -116,13 +117,13 @@
             "B": "गर्भाशय",
             "C": "अंडाशय",
             "D": "यकृत"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_7",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "What does the Operon model represent?",
         "prashna": "ओपेरॉन मॉडल क्या प्रदर्शित करता है ?",
         "options": {
@@ -136,13 +137,13 @@
             "B": "जीन का एक्सप्रेशन",
             "C": "जीन का रेगुलेशन",
             "D": "जीन का फंक्शन"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_8",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Which of the following animals is not hermaphrodite?",
         "prashna": "निम्नलिखित में से कौन जन्तु उभयलिंगी नहीं है?",
         "options": {
@@ -156,13 +157,13 @@
             "B": "केचुआ",
             "C": "घरेलु मक्खी",
             "D": "जोक"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_9",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Which of these nitrogenous bases is not present in $DNA$?",
         "prashna": "इनमें से कौन सा नाइट्रोजिनस वेस डी०एन०ए० में नहीं होता है?",
         "options": {
@@ -176,13 +177,13 @@
             "B": "युरासिल",
             "C": "गुआनिन",
             "D": "साइटोसिन"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_10",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Red Data Book includes-",
         "prashna": "रेड डाटा बुक में सम्मिलित है-",
         "options": {
@@ -196,13 +197,13 @@
             "B": "दुर्लभ पौधों की सूची",
             "C": "आपत्ति ग्रस्त प्राणियों की सूची",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_11",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Thalamus is eaten in-",
         "prashna": "पुष्पासन खाया जाता है-",
         "options": {
@@ -216,13 +217,13 @@
             "B": "सेब का",
             "C": "नारंगी का",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_12",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "$DNA$ is the genetic material of which of these?",
         "prashna": "डी० एन० ए० इनमें से किसका आनुवांशिक पदार्थ है ?",
         "options": {
@@ -236,13 +237,13 @@
             "B": "बैक्टीरियोफेज",
             "C": "दोनों का",
             "D": "किसी का नहीं"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_13",
         "type": "objective",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "What happens due to overpopulation?",
         "prashna": "जनसंख्या अधिक होने से क्या होता है ?",
         "options": {
@@ -256,13 +257,13 @@
             "B": "जमीन में कमी",
             "C": "खनिज पदार्थ की कमी",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Reproductive Health"
+        }
     },
     {
         "id": "obj_14",
         "type": "objective",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Acrosome is a part of which of these?",
         "prashna": "एक्रोसोम इनमें से किसका संभाग है?",
         "options": {
@@ -276,13 +277,13 @@
             "B": "मानव शुक्राणु के मध्य भाग का",
             "C": "प्रारंभिक डिम्बाणुजनकोशिका का",
             "D": "ब्लास्टोसिस्ट का"
-        },
-        "chapter_name": "Human Reproduction"
+        }
     },
     {
         "id": "obj_15",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Which of these is a bacterial disease?",
         "prashna": "इनमें से कौन जीवाणु जनित रोग है?",
         "options": {
@@ -296,13 +297,13 @@
             "B": "क्षय रोग",
             "C": "हैजा",
             "D": "इनमें से सभी"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_16",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "What is the number of chromosomes in a human (male)?",
         "prashna": "मनुष्य (पुरुष) में गुण-सूत्र की संख्या है?",
         "options": {
@@ -316,13 +317,13 @@
             "B": "44 + XY",
             "C": "46 + XY",
             "D": "46 + XX"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_17",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Which of the following is Acetabularia?",
         "prashna": "एसीटाइलेरिया निम्न में से क्या है?",
         "options": {
@@ -336,13 +337,13 @@
             "B": "शैवाल",
             "C": "प्रोटोजोआ",
             "D": "एकल कोशिका प्रोटीन"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_18",
         "type": "objective",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "In cleistogamous plants, there is definitely",
         "prashna": "अनुन्मील्य परागण वाले पौधों में निश्चित रूप से होता है",
         "options": {
@@ -356,13 +357,13 @@
             "B": "पर परागण",
             "C": "दोनो",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "obj_19",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "The flow of energy in the food chain of an ecosystem is.",
         "prashna": "पारिस्थितिक तंत्र के आहार श्रृंखला में ऊर्जा का प्रवाह होता है।",
         "options": {
@@ -376,13 +377,13 @@
             "B": "द्विदिशीय",
             "C": "बहु दिशीय",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_20",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Which of these blood groups is a universal donor?",
         "prashna": "इनमें से कौन सा रक्त समूह सार्वभौमिक रक्तदाता है ?",
         "options": {
@@ -396,13 +397,13 @@
             "B": "A",
             "C": "AB",
             "D": "O"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_21",
         "type": "objective",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "What is the phenotypic ratio of a monohybrid cross?",
         "prashna": "एक संकरण क्रॉस का फीनोटिपिक अनुपात क्या है?",
         "options": {
@@ -416,13 +417,13 @@
             "B": "3:1",
             "C": "9:3:3:1",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Principles of Inheritance and Variation"
+        }
     },
     {
         "id": "obj_22",
         "type": "objective",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "In which state is the Rhino Sanctuary located?",
         "prashna": "गैंडा अभयारण्य किस राज्य में अवस्थित है ?",
         "options": {
@@ -436,13 +437,13 @@
             "B": "पश्चिम बंगाल",
             "C": "उत्तर प्रदेश",
             "D": "बिहार"
-        },
-        "chapter_name": "Biodiversity and Conservation"
+        }
     },
     {
         "id": "obj_23",
         "type": "objective",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "What is the process of making $mRNA$ from $DNA$ called?",
         "prashna": "डी. एन. ए. से mRNA बनाने की क्रिया को क्या कहते हैं?",
         "options": {
@@ -456,13 +457,13 @@
             "B": "रिप्लिकेशन",
             "C": "ट्रांसलेशन",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Molecular Basis of Inheritance"
+        }
     },
     {
         "id": "obj_24",
         "type": "objective",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "Which standard for noise pollution is correct according to WHO?",
         "prashna": "WHO के द्वारा ध्वनि प्रदूषण का कौन सा मानक सही है ?",
         "options": {
@@ -476,13 +477,13 @@
             "B": "45 डेसीबल",
             "C": "75 डेसीबल",
             "D": "90 डेसीबल"
-        },
-        "chapter_name": "Ecosystem"
+        }
     },
     {
         "id": "obj_25",
         "type": "objective",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Malaria disease is caused by-",
         "prashna": "मलेरिया रोग उत्पन्न होता है-",
         "options": {
@@ -496,13 +497,13 @@
             "B": "मादा एनोफेलीज",
             "C": "मादा एडीस",
             "D": "नर एनोफिलीज"
-        },
-        "chapter_name": "Human Health and Disease"
+        }
     },
     {
         "id": "obj_26",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "In which non-leguminous plant's root nodule is bio-fertilizer present?",
         "prashna": "किस गैर फली पौधों के जड़ पिंड़ में जैविक खाद मौजूद है ?",
         "options": {
@@ -516,13 +517,13 @@
             "B": "क्लॉस्ट्रिडियम",
             "C": "फ्राँकिया",
             "D": "इनमें से कोई नहीं"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_27",
         "type": "objective",
         "chapter": "8",
+        "chapter_name": "Microbes in Human Welfare",
         "question": "Which bacterium is used in making curd from milk?",
         "prashna": "दूध से दही बनाने में किस जीवाणु का उपयोग होता है?",
         "options": {
@@ -536,13 +537,13 @@
             "B": "लैक्टोबैसिलस",
             "C": "A तथा B दोनों",
             "D": "स्ट्रेप्टोकोकस"
-        },
-        "chapter_name": "Microbes in Human Welfare"
+        }
     },
     {
         "id": "obj_28",
         "type": "objective",
         "chapter": "6",
+        "chapter_name": "Evolution",
         "question": "The theory of inheritance of acquired characters was given by whom?",
         "prashna": "अर्जित गुणों के वंशागति का सिद्धांत किनके द्वारा किया गया ?",
         "options": {
@@ -556,93 +557,93 @@
             "B": "लैमार्क",
             "C": "डे. वरीज",
             "D": "हैकल"
-        },
-        "chapter_name": "Evolution"
+        }
     },
     {
         "id": "short_1",
         "type": "short_answer",
         "chapter": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
         "question": "Describe the structure of $DNA$.",
-        "prashna": "डी०एन०ए० की संरचना का वर्णन करें।",
-        "chapter_name": "Molecular Basis of Inheritance"
+        "prashna": "डी०एन०ए० की संरचना का वर्णन करें।"
     },
     {
         "id": "short_2",
         "type": "short_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "What is global warming? Describe its effects and measures for its control.",
-        "prashna": "ग्लोबल वार्मिंग क्या है? उसके प्रभाव और मुक्ति के उपायों का वर्णन करें।",
-        "chapter_name": "Ecosystem"
+        "prashna": "ग्लोबल वार्मिंग क्या है? उसके प्रभाव और मुक्ति के उपायों का वर्णन करें।"
     },
     {
         "id": "short_3",
         "type": "short_answer",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "What is a test-tube baby?",
-        "prashna": "टेस्ट-ट्यूब बेबी किसे कहते हैं?",
-        "chapter_name": "Reproductive Health"
+        "prashna": "टेस्ट-ट्यूब बेबी किसे कहते हैं?"
     },
     {
         "id": "short_4",
         "type": "short_answer",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "Write the names of any four sexually transmitted diseases along with their causative pathogens.",
-        "prashna": "किसी चार यौन संचारित रोगों के नाम, उनके कारक रोगाणुओं के साथ लिखें।",
-        "chapter_name": "Reproductive Health"
+        "prashna": "किसी चार यौन संचारित रोगों के नाम, उनके कारक रोगाणुओं के साथ लिखें।"
     },
     {
         "id": "short_5",
         "type": "short_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Differentiate between spermatogenesis and oogenesis.",
-        "prashna": "शुक्राणुजनन एवं अण्डजनन के बीच अन्तर स्पष्ट करें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "शुक्राणुजनन एवं अण्डजनन के बीच अन्तर स्पष्ट करें।"
     },
     {
         "id": "short_6",
         "type": "short_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "State the functions of blood.",
-        "prashna": "रक्त के कार्य बताएँ।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "रक्त के कार्य बताएँ।"
     },
     {
         "id": "short_7",
         "type": "short_answer",
         "chapter": "11",
+        "chapter_name": "Organisms and Populations",
         "question": "Mention the ecological adaptations of desert plants.",
-        "prashna": "मरुस्थलीय पौधों के पारिस्थितिक अनुकूलन का उल्लेख करें।",
-        "chapter_name": "Organisms and Populations"
+        "prashna": "मरुस्थलीय पौधों के पारिस्थितिक अनुकूलन का उल्लेख करें।"
     },
     {
         "id": "short_8",
         "type": "short_answer",
         "chapter": "9",
+        "chapter_name": "Biotechnology: Principles and Processes",
         "question": "What is a $DNA$ probe? State its uses in biotechnology.",
-        "prashna": "डी० एन०ए० संपरीक्षक (प्रोब) क्या है? जैव प्रौद्योगिकी में इसके उपयोग बताये।",
-        "chapter_name": "Biotechnology: Principles and Processes"
+        "prashna": "डी० एन०ए० संपरीक्षक (प्रोब) क्या है? जैव प्रौद्योगिकी में इसके उपयोग बताये।"
     },
     {
         "id": "short_9",
         "type": "short_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "Write the definition of biodiversity and state its importance.",
-        "prashna": "जैव विविधता की परिभाषा लिखें एवं इसके महत्त्व को बताएँ।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "जैव विविधता की परिभाषा लिखें एवं इसके महत्त्व को बताएँ।"
     },
     {
         "id": "short_10",
         "type": "short_answer",
         "chapter": "3",
+        "chapter_name": "Reproductive Health",
         "question": "What is sterilization? Mention its methods.",
-        "prashna": "बंध्याकरण क्या है? इसके तरीकों का उल्लेख करें।",
-        "chapter_name": "Reproductive Health"
+        "prashna": "बंध्याकरण क्या है? इसके तरीकों का उल्लेख करें।"
     },
     {
         "id": "short_11",
         "type": "short_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "Define the following:",
         "prashna": "निम्नलिखित को परिभाषित करें-",
         "sub_questions": {
@@ -652,71 +653,70 @@
         "anuprashna": {
             "i": "प्रोटोजोवन अन्तः परजीवी",
             "ii": "बीजाण्डा।"
-        },
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        }
     },
     {
         "id": "long_1_1",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Define crossing over. Describe its process with the help of labelled diagrams.",
-        "prashna": "जीन विनिमय को परिभाषित करें। आरेखित चित्रों की मदद से इसकी प्रक्रिया का वर्णन करें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "जीन विनिमय को परिभाषित करें। आरेखित चित्रों की मदद से इसकी प्रक्रिया का वर्णन करें।"
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
         "chapter": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
         "question": "What do you understand by double fertilization? Explain with the help of labelled diagrams.",
-        "prashna": "दोहरा निषेचन से आप क्या समझते हैं? आरेखित चित्रों की मदद से समझाएँ।",
-        "chapter_name": "Sexual Reproduction in Flowering Plants"
+        "prashna": "दोहरा निषेचन से आप क्या समझते हैं? आरेखित चित्रों की मदद से समझाएँ।"
     },
     {
         "id": "long_2_1",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Describe the process of sex determination with suitable examples.",
-        "prashna": "उचित उदाहरणों के साथ लिंग निर्धारण की प्रक्रिया का वर्णन करें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "उचित उदाहरणों के साथ लिंग निर्धारण की प्रक्रिया का वर्णन करें।"
     },
     {
         "id": "long_2_2",
         "type": "long_answer",
         "chapter": "2",
+        "chapter_name": "Human Reproduction",
         "question": "Describe the process of spermatogenesis with the help of diagrams.",
-        "prashna": "शुक्राणुजनन की प्रक्रिया का वर्णन रेखाचित्रों की सहायता से करें।",
-        "chapter_name": "Human Reproduction"
+        "prashna": "शुक्राणुजनन की प्रक्रिया का वर्णन रेखाचित्रों की सहायता से करें।"
     },
     {
         "id": "long_3_1",
         "type": "long_answer",
         "chapter": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
         "question": "Define gene interaction. Describe it with the help of suitable crosses and examples.",
-        "prashna": "जीन अंतः क्रिया को परिभाषित करें। समुचित संकरण एवं उदाहरणों की मदद से इसका वर्णन करें।",
-        "chapter_name": "Principles of Inheritance and Variation"
+        "prashna": "जीन अंतः क्रिया को परिभाषित करें। समुचित संकरण एवं उदाहरणों की मदद से इसका वर्णन करें।"
     },
     {
         "id": "long_3_2",
         "type": "long_answer",
         "chapter": "7",
+        "chapter_name": "Human Health and Disease",
         "question": "Describe the main principles and applications of biological immunization.",
-        "prashna": "जैव प्रतिरक्षण के मुख्य सिद्धांतों एवं उपयोगों का वर्णन करें।",
-        "chapter_name": "Human Health and Disease"
+        "prashna": "जैव प्रतिरक्षण के मुख्य सिद्धांतों एवं उपयोगों का वर्णन करें।"
     },
     {
         "id": "long_4_1",
         "type": "long_answer",
         "chapter": "13",
+        "chapter_name": "Biodiversity and Conservation",
         "question": "What is ozone layer? Write its effects on the atmosphere.",
-        "prashna": "ओजोन परत क्या है? इससे वायुमण्डल पर पड़ने वाले प्रभाव को लिखें।",
-        "chapter_name": "Biodiversity and Conservation"
+        "prashna": "ओजोन परत क्या है? इससे वायुमण्डल पर पड़ने वाले प्रभाव को लिखें।"
     },
     {
         "id": "long_4_2",
         "type": "long_answer",
         "chapter": "12",
+        "chapter_name": "Ecosystem",
         "question": "What is a food web? Explain it with a suitable example.",
-        "prashna": "आहार जाल क्या है? उपयुक्त उदाहरण द्वारा इसे स्पष्ट करें।",
-        "chapter_name": "Ecosystem"
+        "prashna": "आहार जाल क्या है? उपयुक्त उदाहरण द्वारा इसे स्पष्ट करें।"
     }
 ]
