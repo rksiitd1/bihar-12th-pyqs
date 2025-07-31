@@ -167,14 +167,21 @@ def main():
         print("\n--------------------------")
         return
 
-    # Add chapter_name to each question
-    for q in annotated:
+    # Add chapter_name immediately after chapter field in each question
+    for i, q in enumerate(annotated):
         chapter_num = q.get("chapter")
         if chapter_num is not None:
             try:
                 idx = int(chapter_num) - 1
                 if 0 <= idx < len(chapters):
-                    q["chapter_name"] = chapters[idx]
+                    chapter_name = chapters[idx]
+                    # Insert chapter_name just after chapter
+                    new_q = {}
+                    for k, v in q.items():
+                        new_q[k] = v
+                        if k == "chapter":
+                            new_q["chapter_name"] = chapter_name
+                    annotated[i] = new_q
             except Exception:
                 pass
 
