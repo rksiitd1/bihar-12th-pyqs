@@ -51,6 +51,16 @@ def annotate_file(subject, input_path, output_path):
         print(response.text)
         print("\n--------------------------")
         return False
+    # Add chapter_name to each question
+    for q in annotated:
+        chapter_num = q.get("chapter")
+        if chapter_num is not None and "chapter_name" not in q:
+            try:
+                idx = int(chapter_num) - 1
+                if 0 <= idx < len(chapters):
+                    q["chapter_name"] = chapters[idx]
+            except Exception:
+                pass
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(annotated, f, indent=4, ensure_ascii=False)
     return True
