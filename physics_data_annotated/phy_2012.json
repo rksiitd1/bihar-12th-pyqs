@@ -1,0 +1,732 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.2",
+        "topic_name": "Electric Charge",
+        "question": "1 statcoulomb = ________ coulomb.",
+        "prashna": "1 स्टैट कूलाम = ........ कूलाम।",
+        "options": {
+            "A": "$3 \\times 10^9$",
+            "B": "$3 \\times 10^{-9}$",
+            "C": "$1/3 \\times 10^9$",
+            "D": "$1/3 \\times 10^{-9}$"
+        },
+        "vikalpa": {
+            "A": "$3 \\times 10^9$",
+            "B": "$3 \\times 10^{-9}$",
+            "C": "$1/3 \\times 10^9$",
+            "D": "$1/3 \\times 10^{-9}$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "The radius of curvature of each surface of a biconvex lens ($\\mu = 1.5$) is 20 cm. The power of the lens is",
+        "prashna": "एक उभयोत्तल लेंस ($\\mu = 1.5$) के प्रत्येक तल की वक्रता त्रिज्या 20 सेमी है। लेंस की क्षमता है",
+        "options": {
+            "A": "5D",
+            "B": "10D",
+            "C": "2.5D",
+            "D": "20 D"
+        },
+        "vikalpa": {
+            "A": "5D",
+            "B": "10D",
+            "C": "2.5D",
+            "D": "20 D"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.14",
+        "topic_name": "Combination of Capacitors",
+        "question": "The equivalent capacitance between points A and B is",
+        "prashna": "A तथा B बिन्दुओं के बीच समतुल्य धारिता है",
+        "options": {
+            "A": "$4 \\mu F$",
+            "B": "$4/3 \\mu F$",
+            "C": "$3 \\mu F$",
+            "D": "$2/3 \\mu F$"
+        },
+        "vikalpa": {
+            "A": "$4 \\mu F$",
+            "B": "$4/3 \\mu F$",
+            "C": "$3 \\mu F$",
+            "D": "$2/3 \\mu F$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.2",
+        "topic_name": "Atomic Masses and Composition of Nucleus",
+        "question": "The number of neutrons in an atom of $^{230}_{90}Th$ is",
+        "prashna": "$^{230}_{90}Th$ के एक परमाणु में न्यूट्रॉनों की संख्या है",
+        "options": {
+            "A": "90",
+            "B": "140",
+            "C": "230",
+            "D": "320"
+        },
+        "vikalpa": {
+            "A": "90",
+            "B": "140",
+            "C": "230",
+            "D": "320"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.5",
+        "topic_name": "Magnetic Properties of Materials",
+        "question": "The magnetic permeability ($\\mu$) of a ferromagnetic substance is",
+        "prashna": "एक लौहचुम्बकीय पदार्थ की चुम्बकशीलता ($\\mu$) है",
+        "options": {
+            "A": "$\\mu > 1$",
+            "B": "$\\mu = 1$",
+            "C": "$\\mu < 1$",
+            "D": "$\\mu = 0$"
+        },
+        "vikalpa": {
+            "A": "$\\mu > 1$",
+            "B": "$\\mu = 1$",
+            "C": "$\\mu < 1$",
+            "D": "$\\mu = 0$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.2",
+        "topic_name": "AC Voltage Applied to a Resistor",
+        "question": "The peak voltage of an alternating current is 440 V. Its virtual voltage is",
+        "prashna": "एक प्रत्यावर्ती धारा की शिखर वोल्टता 440 V है। इसकी आभासी वोल्टता है",
+        "options": {
+            "A": "220 V",
+            "B": "440 V",
+            "C": "$220\\sqrt{2}$ V",
+            "D": "$440\\sqrt{V}$"
+        },
+        "vikalpa": {
+            "A": "220 V",
+            "B": "440 V",
+            "C": "$220\\sqrt{2}$ V",
+            "D": "$440\\sqrt{V}$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "The magnifying power of a magnifying glass with a power of 12 diopters is",
+        "prashna": "एक आवर्धक ग्लास जिसकी क्षमता 12 डायप्टर है, की आवर्धक क्षमता है",
+        "options": {
+            "A": "4",
+            "B": "1200",
+            "C": "3",
+            "D": "25"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "1200",
+            "C": "3",
+            "D": "25"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "A current of 10 amperes flows through a wire for 10 seconds. If the potential difference across the wire is 15 volts, the work done will be",
+        "prashna": "10 एम्पियर की धारा एक तार से 10 सेकेण्ड तक प्रवाहित होती है। यदि तार का विभवांतर 15 वोल्ट हो, तो किया गया कार्य होगा",
+        "options": {
+            "A": "150J",
+            "B": "75J",
+            "C": "1500J",
+            "D": "750J"
+        },
+        "vikalpa": {
+            "A": "150J",
+            "B": "75J",
+            "C": "1500J",
+            "D": "750J"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.5",
+        "topic_name": "p-n Junction",
+        "question": "The logic gate shown in the figure is",
+        "prashna": "चित्र में दिखाया गया लॉजिक गेट है",
+        "options": {
+            "A": "OR",
+            "B": "NOR",
+            "C": "NAND",
+            "D": "AND"
+        },
+        "vikalpa": {
+            "A": "OR",
+            "B": "NOR",
+            "C": "NAND",
+            "D": "AND"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.3",
+        "topic_name": "Refraction",
+        "question": "Monochromatic light of wavelength $6000 \\text{ \\AA}$ from vacuum enters a medium with a refractive index of 1.5. Its wavelength in this medium will be",
+        "prashna": "निर्वात से $6000 \\text{ \\AA}$ तरंगदैर्ध्य का एकवर्णीय प्रकाश 1.5 अपवर्तनांक वाले एक माध्यम में प्रवेश करता है। इस माध्यम में इसका तरंगदैर्ध्य होगा",
+        "options": {
+            "A": "$4000 \\text{ \\AA}$",
+            "B": "$4500 \\text{ \\AA}$",
+            "C": "$6000 \\text{ \\AA}$",
+            "D": "$9000 \\text{ \\AA}$"
+        },
+        "vikalpa": {
+            "A": "$4000 \\text{ \\AA}$",
+            "B": "$4500 \\text{ \\AA}$",
+            "C": "$6000 \\text{ \\AA}$",
+            "D": "$9000 \\text{ \\AA}$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Atoms",
+        "topic": "12.5",
+        "topic_name": "The Line Spectra of the Hydrogen Atom",
+        "question": "Statement-I: Balmer series lies in the infrared region. \nStatement-II: Lyman series lies in the ultraviolet region.",
+        "prashna": "कथन-I: बामर श्रेणी अवरक्त क्षेत्र में स्थित है।\nकथन- II : लाइमेन श्रेणी पराबैंगनी क्षेत्र में स्थित है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.4",
+        "topic_name": "Basic Properties of Electric Charge",
+        "question": "Statement-I: When an object is negatively charged, its mass increases slightly.\nStatement-II: The process of charging is due to the transfer of electrons.",
+        "prashna": "कथन -1: किसी वस्तु को ऋणावेशित करने पर उसके द्रव्यमान में अल्प वृद्धि होती है।\nकथन- ॥ : आवेशन की क्रिया इलेक्ट्रॉन के स्थानान्तरण के कारण होती है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "Statement-I: The nature of electromagnetic waves is transverse.\nStatement-II: Electromagnetic waves can be polarized.",
+        "prashna": "कथन-। : विद्युत चुम्बकीय तरंगों की प्रकृति अनुप्रस्थ होती है।\nकथन- II : विद्युत चुम्बकीय तरंगों को ध्रुवित किया जा सकता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.3",
+        "topic_name": "Size of the Nucleus",
+        "question": "Statement-I: All nuclei are not of the same size.\nStatement-II: The size of the nucleus depends on the atomic mass.",
+        "prashna": "कथन-। : सभी नाभिक समान आकार के नहीं होते हैं।\nकथन- II: नाभिक का आकार परमाणु द्रव्यमान पर निर्भर करता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.3",
+        "topic_name": "Magnetic Flux",
+        "question": "Statement-I: Magnetic flux is a vector quantity.\nStatement-II: The value of magnetic flux can be positive, negative or zero.",
+        "prashna": "कथन-1 चुम्बकीय फ्लक्स एक सदिश राशि है।\nकथन- II : चुम्बकीय फ्लक्स का मान धनात्मक ऋणात्मक अथवा शून्य हो सकता है।",
+        "options": {
+            "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+            "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+            "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+            "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.3",
+        "topic_name": "Refraction",
+        "question": "When light is transmitted from one medium to another, which of the following quantities changes?",
+        "prashna": "जब प्रकाश एक माध्यम से दूसरे माध्यम में संचरित होता है, तो निम्नांकित में कौन-सी राशि परिवर्तित होती है ?",
+        "options": {
+            "A": "Wavelength",
+            "B": "Frequency",
+            "C": "Speed",
+            "D": "Amplitude"
+        },
+        "vikalpa": {
+            "A": "तरंगदैर्ध्य",
+            "B": "आवृत्ति",
+            "C": "चाल",
+            "D": "आयाम"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "Which of the following rays are not deflected by an electric field?",
+        "prashna": "निम्नांकित में कौन-सी किरणें विद्युत क्षेत्र द्वारा विक्षेपित नहीं होती हैं?",
+        "options": {
+            "A": "X-rays",
+            "B": "$\\gamma$-rays",
+            "C": "$\\alpha$-rays",
+            "D": "Cathode rays"
+        },
+        "vikalpa": {
+            "A": "X-किरण",
+            "B": "$\\gamma$-किरण",
+            "C": "$\\alpha$-किरण",
+            "D": "कैथोड किरण"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.2",
+        "topic_name": "Atomic Masses and Composition of Nucleus",
+        "question": "Which of the following does not have a mass equal to the mass of an electron?",
+        "prashna": "निम्नांकित में किसका द्रव्यमान इलेक्ट्रॉन के द्रव्यमान के बराबर नहीं होता है?",
+        "options": {
+            "A": "Proton",
+            "B": "Hydrogen",
+            "C": "Positron",
+            "D": "Neutron"
+        },
+        "vikalpa": {
+            "A": "प्रोटॉन",
+            "B": "हाइड्रोजन",
+            "C": "पाजिट्रॉन",
+            "D": "न्यूट्रॉन"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.7",
+        "topic_name": "Polarisation",
+        "question": "Brewster's Law",
+        "prashna": "बुस्टर का नियम",
+        "options": {
+            "A": "Interference",
+            "B": "Aberration of image",
+            "C": "Polarization",
+            "D": "Human eye"
+        },
+        "vikalpa": {
+            "A": "व्यतिकरण",
+            "B": "प्रतिबिंब की त्रुटि",
+            "C": "धुवण",
+            "D": "मानवीय आँख"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "Liquid lens",
+        "prashna": "तरल लेंस",
+        "options": {
+            "A": "Interference",
+            "B": "Aberration of image",
+            "C": "Polarization",
+            "D": "Human eye"
+        },
+        "vikalpa": {
+            "A": "व्यतिकरण",
+            "B": "प्रतिबिंब की त्रुटि",
+            "C": "धुवण",
+            "D": "मानवीय आँख"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "Chromatic aberration",
+        "prashna": "वर्णी विपथन",
+        "options": {
+            "A": "Interference",
+            "B": "Aberration of image",
+            "C": "Polarization",
+            "D": "Human eye"
+        },
+        "vikalpa": {
+            "A": "व्यतिकरण",
+            "B": "प्रतिबिंब की त्रुटि",
+            "C": "धुवण",
+            "D": "मानवीय आँख"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.5",
+        "topic_name": "Interference of Light Waves and Young’s Experiment",
+        "question": "Young's double-slit experiment",
+        "prashna": "यंग का द्विछिद्र प्रयोग",
+        "options": {
+            "A": "Interference",
+            "B": "Aberration of image",
+            "C": "Polarization",
+            "D": "Human eye"
+        },
+        "vikalpa": {
+            "A": "व्यतिकरण",
+            "B": "प्रतिबिंब की त्रुटि",
+            "C": "धुवण",
+            "D": "मानवीय आँख"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.5",
+        "topic_name": "Interference of Light Waves and Young’s Experiment",
+        "question": "The ratio of maximum (maxima) to minimum (minima) in the interference pattern is",
+        "prashna": "व्यतिकरण पैटर्न में अधिकतम (maxima) तथा न्यूनतम (minima) का अनुपात है",
+        "options": {
+            "A": "9 : 1",
+            "B": "81 : 1",
+            "C": "25 : 16",
+            "D": "16 : 25"
+        },
+        "vikalpa": {
+            "A": "9 : 1",
+            "B": "81 : 1",
+            "C": "25 : 16",
+            "D": "16 : 25"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.5",
+        "topic_name": "Interference of Light Waves and Young’s Experiment",
+        "question": "The ratio of the amplitudes of the light waves from the two sources is.",
+        "prashna": "दोनों स्रोतों के प्रकाश तरंगों के आयाम का अनुपात है।",
+        "options": {
+            "A": "9 : 1",
+            "B": "81 : 1",
+            "C": "1 : 9",
+            "D": "1 : 81"
+        },
+        "vikalpa": {
+            "A": "9 : 1",
+            "B": "81 : 1",
+            "C": "1 : 9",
+            "D": "1 : 81"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.4",
+        "topic_name": "Coherent and Incoherent Addition of Waves",
+        "question": "For maximum intensity, the value of $\\cos \\phi$ is.",
+        "prashna": "महत्तम तीव्रता के लिए $\\cos \\phi$ का मान है।",
+        "options": {
+            "A": "- 1",
+            "B": "+ 1",
+            "C": "$\\infty$",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "- 1",
+            "B": "+ 1",
+            "C": "$\\infty$",
+            "D": "0"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.4",
+        "topic_name": "Total Internal Reflection",
+        "question": "Define critical angle and write its conditions.",
+        "prashna": "क्रांतिक कोण को परिभाषित करें तथा इसकी शर्तों को लिखें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.14",
+        "topic_name": "Combination of Capacitors",
+        "question": "Find the equivalent capacitance between points A and B.",
+        "prashna": "बिन्दु A तथा B के बीच समतुल्य धारिता ज्ञात करे।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.2",
+        "topic_name": "The Bar Magnet",
+        "question": "Write two differences between an electromagnet and a permanent magnet.",
+        "prashna": "विद्युत चुम्बक तथा स्थायी चुम्बक के बीच दो अंतर लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.4",
+        "topic_name": "Extrinsic Semiconductor",
+        "question": "What is doping?",
+        "prashna": "डोपिंग क्या है?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "The half-life of Radium is 1622 years. After how much time will 7/8th part of Radium decay?",
+        "prashna": "रेडियम की अर्ध- आयु 1622 वर्ष है। कितने समय बाद रेडियम के 7/8 भाग का क्षय हो जाएगा ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.8",
+        "topic_name": "Transformers",
+        "question": "Why is the core of a transformer laminated?",
+        "prashna": "ट्रांसफॉर्मर का क्रोड परतदार क्यों होता है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.7",
+        "topic_name": "Polarisation",
+        "question": "What is a Polaroid? Write its uses.",
+        "prashna": "पोलेरायड क्या है? इसके उपयोग को लिखें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.12",
+        "topic_name": "Kirchhoff’s Rules",
+        "question": "Find the value of 'i' in the given circuit.",
+        "prashna": "दिए गए परिपथ में 'i' का मान ज्ञात करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.4",
+        "topic_name": "Basic Properties of Electric Charge",
+        "question": "Write two fundamental properties of electric charge.",
+        "prashna": "विद्युत आवेश के दो मौलिक गुणों को लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "State any two points to increase the transmission range of a T.V. signal.",
+        "prashna": "टी.वी. संकेत के प्रेषण सीमा को बढ़ाने के लिए किन्हीं दो बिन्दुओं को व्यक्त करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.5",
+        "topic_name": "p-n Junction",
+        "question": "Write the symbol and truth table of an AND gate.",
+        "prashna": "AND गेट का संकेत तथा टूथ टेबुल लिखें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.13",
+        "topic_name": "Gauss’s Law",
+        "question": "Define electric flux. State and prove Gauss's theorem.",
+        "prashna": "विद्युतीय फ्लक्स को परिभाषित करें। गॉस के प्रमेय को लिखें तथा उसे प्रमाणित करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$.",
+        "prashna": "$\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ सूत्र को स्थापित करे।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.5",
+        "topic_name": "Interference of Light Waves and Young’s Experiment",
+        "question": "Define interference. Find the expression for the fringe width in Young's double-slit experiment.",
+        "prashna": "व्यतिकरण को परिभाषित करें। यंग के द्विक छिद्र प्रयोग में फ्रिंज की चौड़ाई का व्यंजक ज्ञात करें।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.3",
+        "topic_name": "Motion in a Magnetic Field",
+        "question": "Describe the construction, principle, and working of a cyclotron with a diagram.",
+        "prashna": "साइक्लोट्रॉन की बनावट, सिद्धांत तथा कार्यविधि का सचित्र वर्णन करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.4",
+        "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+        "question": "Explain Biot-Savart's law. Obtain the expression for the magnetic field at the center of a current-carrying circular coil.",
+        "prashna": "बायो-सावर्ट के नियम की व्याख्या करें। धारावाही वृत्ताकार कुंडली के केन्द्र पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "Define radioactivity. Clarify the nature, properties, and differences of $\\alpha$, $\\beta$, and $\\gamma$ rays.",
+        "prashna": "रेडियोऐक्टिविटी को परिभाषित करें। $\\alpha$, $\\beta$ तथा $\\gamma$ किरणों की प्रकृति, गुण तथा अंतर को स्पष्ट करें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.6",
+        "topic_name": "Semiconductor Diode",
+        "question": "What is a Zener diode? Explain its use as a voltage regulator.",
+        "prashna": "जेनर डायोड क्या है? वोल्टता नियंत्रक के रूप में इसके उपयोग की व्याख्या करें।"
+    }
+]
