@@ -1,0 +1,750 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "How many images will be formed by the lens shown in the figure if an object is placed on the principal axis? (The lens is made of four different materials with refractive indices $\\mu_1, \\mu_2, \\mu_3, \\mu_4$)",
+        "prashna": "लेंस के द्वारा कितने प्रतिबिंध बनेंगे यदि वस्तु को प्रधान अक्ष पर रखा जाए? (लेंस चित्र में दिखाए अनुसार चार विभिन्न पदार्थों से बना है जिनके अपवर्तनांक $\\mu_1, \\mu_2, \\mu_3, \\mu_4$ हैं)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "7"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "7"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.11",
+        "topic_name": "Capacitors and Capacitance",
+        "question": "64 identical drops, each of capacitance 5 $\\mu$F, combine to form a bigger drop. What will be the capacitance of the bigger drop?",
+        "prashna": "64 समरूप बूँदें जिनमें प्रत्येक की धारिता 5 $\\mu$F है मिलकर एक बड़ा बूँद बनाते हैं। बड़े बूंद की धारिता क्या होगी ?",
+        "options": {
+            "A": "4 $\\mu$F",
+            "B": "25 $\\mu$F",
+            "C": "20 $\\mu$F",
+            "D": "164 $\\mu$F"
+        },
+        "vikalpa": {
+            "A": "4 $\\mu$F",
+            "B": "25 $\\mu$F",
+            "C": "20 $\\mu$F",
+            "D": "164 $\\mu$F"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "A current flows through a wire of $5\\Omega$ resistance having a potential difference of 7 volts for 20 minutes. The heat produced is",
+        "prashna": "$5\\Omega$ प्रतिरोध के एक तार से जिसका विभवांतर 7 वोल्ट है 20 मिनट तक धारा प्रवाहित होती है। उत्पन्न ऊष्मा है",
+        "options": {
+            "A": "140 calories",
+            "B": "280 calories",
+            "C": "700 calories",
+            "D": "2800 calories"
+        },
+        "vikalpa": {
+            "A": "140 कैलोरी",
+            "B": "280 कैलोरी",
+            "C": "700 कैलोरी",
+            "D": "2800 कैलोरी"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "The value of amplitude modulation index is",
+        "prashna": "आयाम मोडूलन सूचकांक का मान होता है",
+        "options": {
+            "A": "Always 0",
+            "B": "Between 1 and $\\infty$",
+            "C": "Between 0 and 1",
+            "D": "Always $\\infty$"
+        },
+        "vikalpa": {
+            "A": "हमेशा 0",
+            "B": "1 तथा $\\infty$ के बीच",
+            "C": "0 तथा 1 के बीच",
+            "D": "हमेशा $\\infty$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.3",
+        "topic_name": "Refraction",
+        "question": "When a ray of light enters a glass slab, its wavelength",
+        "prashna": "जब प्रकाश की एक किरण ग्लास स्लैब में प्रवेश करती है, तो इसका तरंगदैर्ध्य",
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "remains unchanged",
+            "D": "data is not complete"
+        },
+        "vikalpa": {
+            "A": "घटता है",
+            "B": "बढ़ता है",
+            "C": "अपरिवर्तित रहता है",
+            "D": "आँकड़े पूर्ण नहीं हैं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.6",
+        "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+        "question": "The unit of reactance is",
+        "prashna": "प्रतिघात का मात्रक है",
+        "options": {
+            "A": "mho",
+            "B": "ohm",
+            "C": "faraday",
+            "D": "ampere"
+        },
+        "vikalpa": {
+            "A": "म्हो",
+            "B": "ओम",
+            "C": "फैराडे",
+            "D": "एम्पियर"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.1",
+        "topic_name": "Introduction",
+        "question": "Write the decimal number 25 in binary.",
+        "prashna": "दशमिक संख्या 25 को द्विआधारी में लिखें।",
+        "options": {
+            "A": "$(1100)_2$",
+            "B": "$(1001)_2$",
+            "C": "$(11001)_2$",
+            "D": "$(11101)_2$"
+        },
+        "vikalpa": {
+            "A": "$(1100)_2$",
+            "B": "$(1001)_2$",
+            "C": "$(11001)_2$",
+            "D": "$(11101)_2$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Atoms",
+        "topic": "12.5",
+        "topic_name": "The Line Spectra of the Hydrogen Atom",
+        "question": "Which series of the hydrogen spectrum lies in the visible region?",
+        "prashna": "हाइड्रोजन स्पेक्ट्रम की कौन-सी श्रेणी दृश्य भाग में पड़ती है?",
+        "options": {
+            "A": "Lyman series",
+            "B": "Balmer series",
+            "C": "Paschen series",
+            "D": "Brackett series"
+        },
+        "vikalpa": {
+            "A": "लाइमन श्रेणी",
+            "B": "बामर श्रेणी",
+            "C": "पाश्चन श्रेणी",
+            "D": "ब्रैकट श्रेणी"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.14",
+        "topic_name": "Combination of Capacitors",
+        "question": "The equivalent capacitance between A and B in the given circuit will be. (The circuit shows two parallel branches between points A and B. The top branch has a 3 $\\mu$F and a 4 $\\mu$F capacitor in series. The bottom branch has a 3 $\\mu$F capacitor.)",
+        "prashna": "दिए गए परिपथ में A तथा B के बीच समतुल्य धारिता होगी। (परिपथ में A और B बिंदुओं के बीच दो समानांतर शाखाएँ हैं। ऊपरी शाखा में एक 3 $\\mu$F और एक 4 $\\mu$F का संधारित्र श्रेणीक्रम में हैं। निचली शाखा में एक 3 $\\mu$F का संधारित्र है।)",
+        "options": {
+            "A": "20/9 $\\mu$F",
+            "B": "9 $\\mu$F",
+            "C": "1 $\\mu$F",
+            "D": "1/9 $\\mu$F"
+        },
+        "vikalpa": {
+            "A": "20/9 $\\mu$F",
+            "B": "9 $\\mu$F",
+            "C": "1 $\\mu$F",
+            "D": "1/9 $\\mu$F"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.13",
+        "topic_name": "Gauss’s Law",
+        "question": "If the charge on a sphere is 10$\\mu$C, then the electric flux on its surface is.",
+        "prashna": "यदि गोले पर आवेश 10$\\mu$C हो, तो उसकी सतह पर विद्युतीय फ्लक्स है।",
+        "options": {
+            "A": "$36\\pi \\times 10^4 \\text{ Nm}^2 / \\text{C}$",
+            "B": "$36\\pi \\times 10^4 \\text{ Nm}^2 / \\text{C}$",
+            "C": "$36\\pi \\times 10^6 \\text{ Nm}^2 / \\text{C}$",
+            "D": "$36\\pi \\times 10^6 \\text{ Nm}^2 / \\text{C}$"
+        },
+        "vikalpa": {
+            "A": "$36\\pi \\times 10^4 \\text{ Nm}^2 / \\text{C}$",
+            "B": "$36\\pi \\times 10^4 \\text{ Nm}^2 / \\text{C}$",
+            "C": "$36\\pi \\times 10^6 \\text{ Nm}^2 / \\text{C}$",
+            "D": "$36\\pi \\times 10^6 \\text{ Nm}^2 / \\text{C}$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.7",
+        "topic_name": "Particle Nature of Light: The Photon",
+        "question": "Statement-I : Photon is not deflected by magnetic and electric fields.\nStatement-II : The rest mass of a photon is zero.",
+        "prashna": "कथन-I : फोटॉन चुंबकीय तथा विद्युतीय क्षेत्र से विक्षेपित नहीं होता है।\nकथन- II : फोटॉन का विराम द्रव्यमान शून्य है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.4",
+        "topic_name": "Extrinsic Semiconductor",
+        "question": "Statement-I: The conductivity of a semiconductor increases on doping with impurities.\nStatement-II: The temperature of a semiconductor increases on doping with impurities.",
+        "prashna": "कथन-I: अपद्रव्यों से मादित करने पर अर्धचालक की चालकता बढ़ जाती है।\nकथन-II : अपद्रव्यों से मादित करने पर अर्धचालक का ताप बढ़ जाता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.9",
+        "topic_name": "Electrostatics of Conductors",
+        "question": "Statement-I: The upper end of a lightning conductor installed on the roof of a building is pointed.\nStatement-II: This is done to increase the surface charge density.",
+        "prashna": "कथन-I: भवन की छत पर लगे तड़ित चालक का ऊपरी सिरा नुकीला रहता है।\nकथन-II: आवेश का पृष्ठ घनत्व बढ़ाने के लिए ऐसा किया जाता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "Statement-I: For the focal length of a convex lens, $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{r_1} - \\frac{1}{r_2})$.\nStatement-II: The focal length is maximum for red light.",
+        "prashna": "कथन-I: उत्तल लेंस की फोकस दूरी के लिए $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{r_1} - \\frac{1}{r_2})$\nकथन- II : लाल रंग के प्रकाश के लिए फोकस दूरी सबसे अधिक होती है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.6",
+        "topic_name": "Semiconductor Diode",
+        "question": "Statement-I: The diode shown in the figure is a Zener diode.\nStatement-II: A Zener diode works in reverse bias.",
+        "prashna": "कथन I: चित्र में दिखाया गया डायोड एक जीनर डायोड है।\nकथन- II: जीनर डायोड पश्च-अभिनति में कार्य करता है।",
+        "options": {
+            "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+            "C": "Statement-I is correct, but Statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but Statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.7",
+        "topic_name": "Electric Field",
+        "question": "The S.I. unit of electric field $\\vec{E}$ is",
+        "prashna": "विद्युत क्षेत्र $\\vec{E}$ का एस आई मात्रक है",
+        "options": {
+            "A": "$\\text{Cm}^{-2}$",
+            "B": "$\\text{NC}^{-1}$",
+            "C": "Am",
+            "D": "$\\text{Vm}^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$\\text{Cm}^{-2}$",
+            "B": "$\\text{NC}^{-1}$",
+            "C": "Am",
+            "D": "$\\text{Vm}^{-1}$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.2",
+        "topic_name": "Reflection of Light by Spherical Mirrors",
+        "question": "An image can be formed by a concave spherical mirror which is:",
+        "prashna": "अवतल गोलीय दर्पण से प्रतिबिंव बन सकता है।",
+        "options": {
+            "A": "virtual",
+            "B": "real",
+            "C": "magnified",
+            "D": "inverted"
+        },
+        "vikalpa": {
+            "A": "आभासी",
+            "B": "वास्तविक",
+            "C": "आवर्धित",
+            "D": "उलटा"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "In the photoelectric effect, the maximum kinetic energy of the emitted electron depends on",
+        "prashna": "प्रकाश विद्युत प्रभाव में उत्सर्जित इलेक्ट्रॉन की अधिकतम गतिज ऊर्जा निर्भर करती है",
+        "options": {
+            "A": "wavelength",
+            "B": "frequency",
+            "C": "intensity",
+            "D": "work function"
+        },
+        "vikalpa": {
+            "A": "तरंगदैर्ध्य पर",
+            "B": "आवृत्ति पर",
+            "C": "तीव्रता पर",
+            "D": "कार्य फलन पर"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.4",
+        "topic_name": "Ohm’s law",
+        "question": "Ohm's Law",
+        "prashna": "ओम का नियम",
+        "options": {
+            "A": "Potential difference x current",
+            "B": "Potential difference x current x time",
+            "C": "Potential difference/current = constant",
+            "D": "Conservation of energy"
+        },
+        "vikalpa": {
+            "A": "विभवांतर x धारा",
+            "B": "विभवांतर x धारा x समय",
+            "C": "विभवांतर/धारा = अचर",
+            "D": "ऊर्जा संरक्षण"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.12",
+        "topic_name": "Kirchhoff’s Rules",
+        "question": "Kirchhoff's Law",
+        "prashna": "किरचॉफ का नियम",
+        "options": {
+            "A": "Potential difference x current",
+            "B": "Potential difference x current x time",
+            "C": "Potential difference/current = constant",
+            "D": "Conservation of energy"
+        },
+        "vikalpa": {
+            "A": "विभवांतर x धारा",
+            "B": "विभवांतर x धारा x समय",
+            "C": "विभवांतर/धारा = अचर",
+            "D": "ऊर्जा संरक्षण"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "Force x velocity",
+        "prashna": "बल x वेग",
+        "options": {
+            "A": "Potential difference x current",
+            "B": "Potential difference x current x time",
+            "C": "Potential difference/current = constant",
+            "D": "Conservation of energy"
+        },
+        "vikalpa": {
+            "A": "विभवांतर x धारा",
+            "B": "विभवांतर x धारा x समय",
+            "C": "विभवांतर/धारा = अचर",
+            "D": "ऊर्जा संरक्षण"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "Kilowatt-hour (kWh)",
+        "prashna": "किलोवाट-घंटा (kWh)",
+        "options": {
+            "A": "Potential difference x current",
+            "B": "Potential difference x current x time",
+            "C": "Potential difference/current = constant",
+            "D": "Conservation of energy"
+        },
+        "vikalpa": {
+            "A": "विभवांतर x धारा",
+            "B": "विभवांतर x धारा x समय",
+            "C": "विभवांतर/धारा = अचर",
+            "D": "ऊर्जा संरक्षण"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.6",
+        "topic_name": "Refraction through a Prism",
+        "question": "Passage: If a ray passes through a prism, the phenomenon of refraction occurs as shown in the figure. Here A is the angle of the prism. NO is perpendicular to the face at point X. N'O is perpendicular to the face at point Y. \n\nQuestion: The angle of emergence is",
+        "prashna": "उद्धरण: यदि एक किरण प्रिज्म से होकर गुजरती है, तो चित्रानुसार अपवर्तन की घटना होती है। यहाँ A प्रिज्म का कोण है। NO बिन्दु X पर लंब है। N'O बिन्दु Y पर लंब है।\n\nप्रश्न: निर्गमन कोण है",
+        "options": {
+            "A": "< $i_1$",
+            "B": "< $i_2$",
+            "C": "< $r_1$",
+            "D": "< $r_2$"
+        },
+        "vikalpa": {
+            "A": "< $i_1$",
+            "B": "< $i_2$",
+            "C": "< $r_1$",
+            "D": "< $r_2$"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.6",
+        "topic_name": "Refraction through a Prism",
+        "question": "Passage: If a ray passes through a prism, the phenomenon of refraction occurs as shown in the figure. Here A is the angle of the prism. NO is perpendicular to the face at point X. N'O is perpendicular to the face at point Y. \n\nQuestion: The value of angle $\\alpha$ is",
+        "prashna": "उद्धरण: यदि एक किरण प्रिज्म से होकर गुजरती है, तो चित्रानुसार अपवर्तन की घटना होती है। यहाँ A प्रिज्म का कोण है। NO बिन्दु X पर लंब है। N'O बिन्दु Y पर लंब है।\n\nप्रश्न: $\\alpha$ कोण का मान है",
+        "options": {
+            "A": "$(180^\\circ-A)$",
+            "B": "($r_1 + r_2$)",
+            "C": "A/2",
+            "D": "($r_1 + i_2$)"
+        },
+        "vikalpa": {
+            "A": "($180^\\circ-A)$",
+            "B": "($r_1 + r_2$)",
+            "C": "A/2",
+            "D": "($r_1 + i_2$)"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.6",
+        "topic_name": "Refraction through a Prism",
+        "question": "If a ray passes through the prism symmetrically, then minimum deviation occurs. Here $\\angle r$ is",
+        "prashna": "यदि एक किरण प्रिज्म से समरूप (symmetrically) गुजरता है, तो न्यूनतम विचलन होता है। यहाँ $\\angle r$ है",
+        "options": {
+            "A": "<A",
+            "B": "2A",
+            "C": "A/2",
+            "D": "$\\alpha$"
+        },
+        "vikalpa": {
+            "A": "<A",
+            "B": "2A",
+            "C": "A/2",
+            "D": "$\\alpha$"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.6",
+        "topic_name": "Equipotential Surfaces",
+        "question": "Define the intensity of electric field in a current-carrying conductor and an equipotential surface.",
+        "prashna": "धारावाही चालक में वैद्युत क्षेत्र की तीव्रता एवं समविभवी तल को परिभाषित करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "12",
+        "chapter_name": "Atoms",
+        "topic": "12.3",
+        "topic_name": "Atomic Spectra",
+        "question": "Write two main characteristics of LASER rays.",
+        "prashna": "लेजर किरणों की दो प्रमुख विशेषताएँ लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.14",
+        "topic_name": "Combination of Capacitors",
+        "question": "The capacitances of two capacitors are $C_1$ and $C_2$. Show their parallel and series combination circuits.",
+        "prashna": "दो संधारित्रों की धारिताएँ $C_1$ एवं $C_2$ हैं। इनके पार्श्वबद्ध एवं श्रेणीक्रम परिपथ दर्शाइए।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.2",
+        "topic_name": "AC Voltage Applied to a Resistor",
+        "question": "Define the mean value and root mean square (RMS) value of an alternating current.",
+        "prashna": "प्रत्यावर्ती धारा का मध्य मान एवं वर्ग माध्य मूल मान को परिभाषित करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "The powers of two lenses are +12D and -2D. What will be the focal length of the combination when they are placed coaxially in contact?",
+        "prashna": "दो लेंसों की क्षमताएँ +12D एवं -2D है। इन्हें संपर्क में समाक्षीय रूप से रखने पर संयोग की फोकस कितनी होगी ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.4",
+        "topic_name": "Electromagnetic Spectrum",
+        "question": "Write any two properties of X-rays.",
+        "prashna": "X-किरणों के किन्हीं दो गुणों को लिखे।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.4",
+        "topic_name": "Extrinsic Semiconductor",
+        "question": "Differentiate between n-type and p-type semiconductors.",
+        "prashna": "n-टाइप एवं p-टाइप अर्धचालक में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.5",
+        "topic_name": "Lenz’s Law and Conservation of Energy",
+        "question": "Write Lenz's law of electromagnetic induction.",
+        "prashna": "विद्युत चुंबकीय प्रेरण के लेंज नियम लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.8",
+        "topic_name": "Transformers",
+        "question": "What is a transformer? What do you understand by its efficiency?",
+        "prashna": "ट्रांसफॉर्मर क्या है? इसकी दक्षता से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.8",
+        "topic_name": "Wave Nature of Matter",
+        "question": "What is de Broglie wave? Write the expression for its wavelength.",
+        "prashna": "दे ब्रॉग्ली तरंग क्या है? इसकी तरंगदैर्ध्य का व्यंजक लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.4",
+        "topic_name": "Faraday’s Law of Induction",
+        "question": "What do you understand by eddy current?",
+        "prashna": "भँवर धारा से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.3",
+        "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+        "question": "Write Huygens' wave theory for light. Prove the laws of reflection or refraction of light on the basis of Huygens' wave theory.",
+        "prashna": "प्रकाश के लिए हाइगेंस का तरंग सिद्धांत लिखें। हाइगेंस के प्रकाश तरंग सिद्धांत के आधार पर प्रकाश के परावर्तन अथवा अपवर्तन के नियम को सिद्ध करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "The minimum angular magnification of an astronomical telescope is 10X. The length of its tube is 44 cm. Find the focal length of its objective lens.",
+        "prashna": "एक खगोलीय दूरबीन का न्यूनतम कोणीय आवर्धन 10X है। इसकी नली की लंबाई 44 सेमी है। इसके वस्तु लेंस की फोकस दूरी निकालें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "Give a brief introduction to the means of communication.",
+        "prashna": "संचार के साधनों का संक्षिप्त परिचय दें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "a": "What do you understand by analog and digital signals?",
+            "b": "What is amplitude modulation? Explain."
+        },
+        "anuprashna": {
+            "a": "एनालॉग एवं डिजिटल संकेतों से आप क्या समझते हैं?",
+            "b": "आयाम मॉडुलन क्या है ? समझाइए ?"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "Explain the working principle of a compound microscope with the help of a neat diagram. Derive the expression for its magnifying power.",
+        "prashna": "एक स्वच्छ चित्र के सहारे यौगिक सूक्ष्मदर्शी की कार्य प्रणाली समझाइये। इसकी आवर्धन क्षमता का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.6",
+        "topic_name": "Refraction through a Prism",
+        "question": "For a prism, show that for refractive index n, $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$, where the symbols have their usual meanings.",
+        "prashna": "एक प्रिज्म के लिए दिखाइये कि अपवर्तनांक n हेतु $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$ जहाँ संकेतों के सामान्य अर्थ हैं।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.2",
+        "topic_name": "Classification of Metals, Conductors and Semiconductors",
+        "question": "Explain the band theory of solids. On its basis, how are solids classified into conductors, insulators, and semiconductors? Write.",
+        "prashna": "ठोसों के बैण्ड सिद्धांत को समझाइए। इसके आधार पर सुचालक, अचालक तथा अर्धचालक में ठोसों का वर्गीकरण कैसे होता है? लिखें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.5",
+        "topic_name": "p-n Junction",
+        "question": "A p-n junction is a valve. Explain.\nIn the band structure of a p-type semiconductor, the acceptor energy level is 57 MeV above the valence band. Calculate the maximum wavelength of light that can create a hole. (h = $4.14 \\times 10^{-15}$ eVs, c = $3 \\times 10^8 \\text{ ms}^{-1}$)",
+        "prashna": "p-n जंक्शन एक वाल्व है। व्याख्या करें।\nएक p-टाइप अर्धचालक को बैंड संरचना में संयोजकता बैंड से 57 MeV ऊपर ग्राही ऊर्जा स्तर है। प्रकाश की उस महत्तम तरंग लंबाई की गणना करें, जो एक ग्राही रिक्ति (होल) बना सकेगा। (h = $4.14 \\times 10^{-15}$ eVs, c = $3 \\times 10^8 \\text{ ms}^{-1}$)"
+    }
+]
