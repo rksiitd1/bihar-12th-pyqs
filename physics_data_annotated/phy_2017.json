@@ -1,0 +1,824 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.14",
+        "topic_name": "Applications of Gauss’s Law",
+        "question": "The value of electric field intensity inside a charged hollow spherical conductor is.",
+        "prashna": "किसी आवेशित खोखले गोलाकार चालक के भीतर विद्युतीय तीव्रता का मान होता है।",
+        "options": {
+            "A": "$E_0\\sigma$",
+            "B": "$\\frac{\\sigma}{E_0}$",
+            "C": "Zero",
+            "D": "$\\frac{E_0}{2}$"
+        },
+        "vikalpa": {
+            "A": "$E_0\\sigma$",
+            "B": "$\\frac{\\sigma}{E_0}$",
+            "C": "शून्य",
+            "D": "$\\frac{E_0}{2}$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.14",
+        "topic_name": "Combination of Capacitors",
+        "question": "Three capacitors, each of capacitance C, are connected in series. The resultant capacitance will be",
+        "prashna": "तीन संधारित्र जिनमें प्रत्येक की धारिता C है श्रेणी क्रम में जोड़े गए हैं परिणामी धारिता का मान होगा",
+        "options": {
+            "A": "3C",
+            "B": "3/C",
+            "C": "C/3",
+            "D": "1/3C"
+        },
+        "vikalpa": {
+            "A": "3C",
+            "B": "3/C",
+            "C": "C/3",
+            "D": "1/3C"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.11",
+        "topic_name": "Cells in Series and in Parallel",
+        "question": "Two cells, having e.m.f. $\\epsilon_1$ and $\\epsilon_2$ and internal resistance $r_1$ and $r_2$, are connected in parallel. Its equivalent e.m.f. will be",
+        "prashna": "दो सेलों को, जिनके विद्युत वाहक बल $\\epsilon_1$ और $\\epsilon_2$ तथा आन्तरिक प्रतिरोध $r_1$ और $r_2$ हैं, समानान्तर क्रम में जोड़ा गया है। इसका समतुल्य वि०वा० वल होगा",
+        "options": {
+            "A": "$\\frac{\\epsilon_1 r_1 + \\epsilon_2 r_2}{r_1 + r_2}$",
+            "B": "$\\frac{\\epsilon_1 r_2 + \\epsilon_2 r_1}{r_1 + r_2}$",
+            "C": "$\\sqrt{\\epsilon_1 \\times \\epsilon_2}$",
+            "D": "$\\frac{\\epsilon_1 + \\epsilon_2}{2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\epsilon_1 r_1 + \\epsilon_2 r_2}{r_1 + r_2}$",
+            "B": "$\\frac{\\epsilon_1 r_2 + \\epsilon_2 r_1}{r_1 + r_2}$",
+            "C": "$\\sqrt{\\epsilon_1 \\times \\epsilon_2}$",
+            "D": "$\\frac{\\epsilon_1 + \\epsilon_2}{2}$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.5",
+        "topic_name": "Magnetic Properties of Materials",
+        "question": "The permeability ($\\mu$) of a ferromagnetic substance is",
+        "prashna": "एक लौह चुम्बकीय पदार्थ की चुम्बक शीलता (Permeability) $\\mu$ है",
+        "options": {
+            "A": "$\\mu \\gg 1$",
+            "B": "$\\mu = 1$",
+            "C": "$\\mu < 1$",
+            "D": "$\\mu = 0$"
+        },
+        "vikalpa": {
+            "A": "$\\mu \\gg 1$",
+            "B": "$\\mu = 1$",
+            "C": "$\\mu < 1$",
+            "D": "$\\mu = 0$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.2",
+        "topic_name": "The Bar Magnet",
+        "question": "The S.I. unit of pole strength is.",
+        "prashna": "ध्रुव प्रवलता का SI मात्रक है।",
+        "options": {
+            "A": "N",
+            "B": "$N A^{-1} m^{-1}$",
+            "C": "$A \\cdot m$",
+            "D": "T"
+        },
+        "vikalpa": {
+            "A": "N",
+            "B": "N/A-m",
+            "C": "A-m",
+            "D": "T"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.7",
+        "topic_name": "Resistivity of Various Materials",
+        "question": "The element used in an electric heater is.",
+        "prashna": "विद्युत हीटर में जिस तत्त्व का व्यवहार किया जाता है वह है।",
+        "options": {
+            "A": "Copper",
+            "B": "Platinum",
+            "C": "Tungsten",
+            "D": "Nichrome"
+        },
+        "vikalpa": {
+            "A": "ताम्बा",
+            "B": "प्लेटिनम",
+            "C": "टंगस्टन",
+            "D": "निक्रोम"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "Absorbed electrical energy is.",
+        "prashna": "शोषित विद्युत ऊर्जा",
+        "options": {
+            "A": "proportional to the potential difference.",
+            "B": "inversely proportional to the potential difference.",
+            "C": "proportional to the square of the potential difference.",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "विभवांतर के समानुपाती होती है।",
+            "B": "विभवान्तर के व्युत्क्रमानुपाती है।",
+            "C": "विभवांतर के वर्ग के समानुपाती होती है",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.13",
+        "topic_name": "Wheatstone Bridge",
+        "question": "Wheatstone bridge is used to measure.",
+        "prashna": "व्हीटस्टोन ब्रिज से मापा जाता है।",
+        "options": {
+            "A": "High resistance",
+            "B": "Low resistance",
+            "C": "High and low resistance",
+            "D": "Potential difference"
+        },
+        "vikalpa": {
+            "A": "उच्च प्रतिरोध",
+            "B": "निम्न प्रतिरोध",
+            "C": "उच्च तथा निम्न प्रतिरोध",
+            "D": "विभवान्तर"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.2",
+        "topic_name": "AC Voltage Applied to a Resistor",
+        "question": "An electric current is represented by the equation $I = 0.6 \\sin(100\\pi t)$. The frequency of the electric current is.",
+        "prashna": "एक विद्युत धारा का समीकरण $I = 0.6 \\sin(100\\pi t)$ से निरूपित होता है। विद्युत धारा की आवृत्ति है",
+        "options": {
+            "A": "$50\\pi$",
+            "B": "50",
+            "C": "$100\\pi$",
+            "D": "100"
+        },
+        "vikalpa": {
+            "A": "$50\\pi$",
+            "B": "50",
+            "C": "$100\\pi$",
+            "D": "100"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.4",
+        "topic_name": "AC Voltage Applied to an Inductor",
+        "question": "The unit of reactance is.",
+        "prashna": "प्रतिघात का मात्रक है।",
+        "options": {
+            "A": "Ohm",
+            "B": "Farad",
+            "C": "Ampere",
+            "D": "Mho"
+        },
+        "vikalpa": {
+            "A": "ओम",
+            "B": "फैराड",
+            "C": "एम्पेयर",
+            "D": "म्हो"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.2",
+        "topic_name": "AC Voltage Applied to a Resistor",
+        "question": "The relation between peak current $I_o$ and root mean square current $I_{rms}$ is",
+        "prashna": "शीर्ष धारा $I_o$ और वर्ग मूल धारा $I_{rms}$ मे संबंध है",
+        "options": {
+            "A": "$I_o = \\sqrt{2} I_{rms}$",
+            "B": "$I_o = I_{rms}$",
+            "C": "$I_o = 2 I_{rms}$",
+            "D": "$I_o = \\frac{I_{rms}}{\\sqrt{2}}$"
+        },
+        "vikalpa": {
+            "A": "$I_o = \\sqrt{2} I_{rms}$",
+            "B": "$I_o = I_{rms}$",
+            "C": "$I_o = 2 I_{rms}$",
+            "D": "$I_o = \\frac{I_{rms}}{\\sqrt{2}}$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "A person suffering from myopia uses for clear vision.",
+        "prashna": "एक निकट दृष्टिदोष से ग्रसित व्यक्ति स्पष्ट देखने के लिए व्यवहार करता है।",
+        "options": {
+            "A": "Convex lens",
+            "B": "Concave lens",
+            "C": "Cylindrical lens",
+            "D": "Aplanatic lens"
+        },
+        "vikalpa": {
+            "A": "उत्तल लेंस",
+            "B": "अवतल लेंस",
+            "C": "बेलनाकार लेन्स",
+            "D": "विनाभ्यान्तर लेंस"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.4",
+        "topic_name": "Total Internal Reflection",
+        "question": "While entering from glass to air, the critical angle of light is minimum for.",
+        "prashna": "काँच से हवा में प्रवेश करते समय प्रकाश का क्रांतिक कोण सबसे कम होता है",
+        "options": {
+            "A": "Red colour",
+            "B": "Green colour",
+            "C": "Yellow colour",
+            "D": "Violet colour"
+        },
+        "vikalpa": {
+            "A": "लाल रंग",
+            "B": "हरे रंग",
+            "C": "पीले रंग",
+            "D": "बैंगनी रंग"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.6",
+        "topic_name": "Refraction through a Prism",
+        "question": "The angle of minimum deviation for a thin prism of refractive index $\\mu$ is -",
+        "prashna": "एक पतले प्रिज्म जिसका अपवर्तनांक $\\mu$ है का न्यूनतम विचलन कोण है -",
+        "options": {
+            "A": "$(1 - \\mu)A$",
+            "B": "$(\\mu - 1)A$",
+            "C": "$(\\mu + 1)A$",
+            "D": "$(\\mu + 1)A^2$"
+        },
+        "vikalpa": {
+            "A": "$(1 - \\mu)A$",
+            "B": "$(\\mu - 1)A$",
+            "C": "$(\\mu + 1)A$",
+            "D": "$(\\mu + 1)A^2$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.7",
+        "topic_name": "Polarisation",
+        "question": "The transverse wave nature of light is confirmed by.",
+        "prashna": "प्रकाश के अनुप्रस्थ तरंग प्रकृति की पुष्टि करता है",
+        "options": {
+            "A": "Interference",
+            "B": "Reflection",
+            "C": "Polarization",
+            "D": "Dispersion"
+        },
+        "vikalpa": {
+            "A": "व्यतिकरण",
+            "B": "परावर्तन",
+            "C": "ध्रुवण",
+            "D": "वर्ण विक्षेपण"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "The focal length of a lens ($\\mu$ = 1.5) in air is 20 cm. Its focal length in a medium of refractive index 1.5 becomes-",
+        "prashna": "एक लेंस ($\\mu$ = 1.5) नाभ्यान्तर हवा में 20 सेमी है। इसका नाभ्यान्तर एक माध्यम में जिसका अपवर्तनांक 1.5 है, हो जाता है-",
+        "options": {
+            "A": "20 cm",
+            "B": "40 cm",
+            "C": "10 cm",
+            "D": "$\\infty$"
+        },
+        "vikalpa": {
+            "A": "20 सेमी",
+            "B": "40 सेमी",
+            "C": "10 सेमी",
+            "D": "$\\infty$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "The direction of propagation of an electromagnetic wave is.",
+        "prashna": "विद्युत चुम्बकीय तरंग के संचरण की दिशा है।",
+        "options": {
+            "A": "Parallel to $\\vec{E}$",
+            "B": "Parallel to $\\vec{B}$",
+            "C": "Parallel to $\\vec{B} \\times \\vec{E}$",
+            "D": "Parallel to $\\vec{E} \\times \\vec{B}$"
+        },
+        "vikalpa": {
+            "A": "E के समानान्तर",
+            "B": "B के समानान्तर",
+            "C": "B x E के समानान्तर",
+            "D": "E x B के समानान्तर"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "The unit of the ratio of magnetic field (B) and electric field (E) i.e., (B/E) is.",
+        "prashna": "चुम्बकीय क्षेत्र (B) तथा विद्युत क्षेत्र E के अनुपात (B/E) का मात्रक होता है",
+        "options": {
+            "A": "$ms^{-1}$",
+            "B": "$sm^{-1}$",
+            "C": "ms",
+            "D": "$ms^{-2}$"
+        },
+        "vikalpa": {
+            "A": "$ms^{-1}$",
+            "B": "$sm^{-1}$",
+            "C": "ms",
+            "D": "$ms^{-2}$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "The energy of the emitted photoelectron depends on.",
+        "prashna": "उत्सर्जित फोटो इलेक्ट्रान की ऊर्जा निर्भर करती है।",
+        "options": {
+            "A": "On the intensity of light",
+            "B": "On the wavelength of light",
+            "C": "On the work function of the metal",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रकाश की तीव्रता पर",
+            "B": "प्रकाश के तरंग दैर्ध्य पर",
+            "C": "धातु के कार्य फलन पर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.7",
+        "topic_name": "Particle Nature of Light: The Photon",
+        "question": "Which of the following is chargeless?",
+        "prashna": "इनमें कौन आवेश रहित है?",
+        "options": {
+            "A": "Alpha particle",
+            "B": "Beta particle",
+            "C": "Photon",
+            "D": "Photon"
+        },
+        "vikalpa": {
+            "A": "अल्फ़ा कण",
+            "B": "बिटा कण",
+            "C": "फोटॉन",
+            "D": "फोटॉन"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Atoms",
+        "topic": "12.5",
+        "topic_name": "The Line Spectra of the Hydrogen Atom",
+        "question": "Which series of the hydrogen spectrum does not lie in the infrared region?",
+        "prashna": "हाइड्रोजन स्पेक्ट्रम की कौन-सी श्रेणी अवरक्त भाग में नही पड़ती है ?",
+        "options": {
+            "A": "Humphreys series",
+            "B": "Pfund series",
+            "C": "Brackett series",
+            "D": "Lyman series"
+        },
+        "vikalpa": {
+            "A": "हम्फ्रीस श्रेणी",
+            "B": "कुंड श्रेणी",
+            "C": "ब्रैकेट श्रेणी",
+            "D": "लाइमन श्रेणी"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Atoms",
+        "topic": "12.4",
+        "topic_name": "Bohr Model of the Hydrogen Atom",
+        "question": "The energy of an electron in the first Bohr orbit of a hydrogen atom is 13.6 eV. The energy of the electron in its second Bohr orbit will be.",
+        "prashna": "हाइड्रोजन परमाणु के प्रथम बोर कक्षा में इलेक्ट्रॉन की ऊर्जा 13.6eV है। उसके दूसरी बोर कक्षा में इलेक्ट्रान की ऊर्जा होगी",
+        "options": {
+            "A": "- 3.4 eV",
+            "B": "- 6.8eV",
+            "C": "- 27.2 eV",
+            "D": "+ 3.4 eV"
+        },
+        "vikalpa": {
+            "A": "- 3.4 eV",
+            "B": "- 6.8eV",
+            "C": "- 27.2 eV",
+            "D": "+ 3.4 eV"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "The time in which the amount of a radioactive substance becomes half of its initial amount is called.",
+        "prashna": "जितने समय में किसी रेडियोएक्टिव पदार्थ की राशि अपने प्रारंभिक परिणाम की आधी हो जाती है उसे कहते हैं",
+        "options": {
+            "A": "Average life",
+            "B": "Half-life",
+            "C": "Decay constant",
+            "D": "Time period"
+        },
+        "vikalpa": {
+            "A": "औसत आयु",
+            "B": "अर्ध आयु",
+            "C": "क्षय नियतांक",
+            "D": "आवर्त काल"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "$\\beta$-rays are deflected in.",
+        "prashna": "$\\beta$-किरणें विक्षेपित होती हैं।",
+        "options": {
+            "A": "In gravitational field",
+            "B": "In magnetic field only",
+            "C": "In electric field only",
+            "D": "In magnetic and electric fields"
+        },
+        "vikalpa": {
+            "A": "गुरुत्वाकर्षण क्षेत्र में",
+            "B": "केवल चुम्बकीय क्षेत्र में",
+            "C": "केवल विद्युतीय क्षेत्र में",
+            "D": "चुम्बकीय एवं विद्युतीय क्षेत्र में"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.4",
+        "topic_name": "Extrinsic Semiconductor",
+        "question": "To obtain n-type germanium, the impurity doped in germanium should be-",
+        "prashna": "n-टाइप का जर्मेनियम प्राप्त करने के लिए जर्मेनियम में मिलाया गया अपद्रव्य होना चाहिए-",
+        "options": {
+            "A": "Trivalent",
+            "B": "Tetravalent",
+            "C": "Pentavalent",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "त्रिसंयोजक",
+            "B": "चतुः संयोजक",
+            "C": "पंच संयोजक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "A diode is used as a-",
+        "prashna": "डायोड का उपयोग करते हैं एक-",
+        "options": {
+            "A": "Amplifier",
+            "B": "Oscillator",
+            "C": "Modulator",
+            "D": "Rectifier"
+        },
+        "vikalpa": {
+            "A": "प्रवर्धक",
+            "B": "दोलक",
+            "C": "मॉडुलेटर",
+            "D": "रेक्टिफायर"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.5",
+        "topic_name": "p-n Junction",
+        "question": "The Boolean expression for a NAND gate is.",
+        "prashna": "NAND ग्रेट के लिए बूलियन व्यंजक है।",
+        "options": {
+            "A": "$\\overline{A.B} = y$",
+            "B": "$\\overline{A+B} = y$",
+            "C": "$A.B = y$",
+            "D": "$A+B = y$"
+        },
+        "vikalpa": {
+            "A": "$\\overline{A.B} = y$",
+            "B": "$\\overline{A+B} = y$",
+            "C": "$A.B = y$",
+            "D": "$A+B = y$"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "The height of a TV transmission tower at a certain place on Earth is 245 m. The maximum distance up to which the transmission from this tower will reach is.",
+        "prashna": "पृथ्वी के किसी स्थान पर एक TV प्रेषण टावर की ऊँचाई 245 मी है। जितनी अधिकतम दूरी तक इस टावर का प्रसारण पहुँचेगा, वह है",
+        "options": {
+            "A": "245m",
+            "B": "245km",
+            "C": "56km",
+            "D": "112 km"
+        },
+        "vikalpa": {
+            "A": "245m",
+            "B": "245km",
+            "C": "56km",
+            "D": "112 km"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.8",
+        "topic_name": "Electric Field Lines",
+        "question": "Draw the electric lines of force for a system of two equal positive point charges.",
+        "prashna": "दो समान धन विद्युत आवेश के निकाय के बगल में विद्युतीय बल रेखाएँ खींचे।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.2",
+        "topic_name": "The Bar Magnet",
+        "question": "Write the expression for the magnitude and direction of the magnetic field B at axial and equatorial points of a short bar magnet.",
+        "prashna": "एक छोटे छड़ चुम्बक के अक्षीय और निरक्षीय चुम्बकीय क्षेत्र B के मान और दिशा का व्यंजक लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.2",
+        "topic_name": "Electrostatic Potential",
+        "question": "If the electric potential in SI units due to a system of charges is $V = +2x$, then what will be the value of the electric field at $x = 2$?",
+        "prashna": "एक आवेश निकाय के कारण SI पद्धति में विद्युत विभव $V = + 2x$ हो तो $x = 2$ विद्युत क्षेत्र का मान क्या होगा ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.12",
+        "topic_name": "Kirchhoff’s Rules",
+        "question": "Explain that Kirchhoff's second law is the law of conservation of energy.",
+        "prashna": "समझाएँ कि किरचॉफ का द्वितीय नियम ऊर्जा संरक्षण का नियम है।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "Draw a ray diagram to show the formation of the image by a convex lens of an object placed on the principal axis at a distance three times the focal length.",
+        "prashna": "उत्तल लेंस के प्रधान अक्ष के उपर रखे बिंदु का लेंस से बने प्रतिविंद को दिखाने वाला किरण आरेख खींचे, यदि वस्तु फोकस दूरी से तीन गुनी दूरी पर है।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.7",
+        "topic_name": "Polarisation",
+        "question": "Write Brewster's law of polarization of light.",
+        "prashna": "व्यूस्टर का प्रकाश के ध्रुवण का नियम लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.10",
+        "topic_name": "The Moving Coil Galvanometer",
+        "question": "Show that the accuracy of the current measured by a tangent galvanometer is maximum for a deflection of $45^\\circ$.",
+        "prashna": "दिखाएँ कि एक स्पर्शज्या धारामापी (गैलवेनोमीटर) से मापी गयी धारा की शुद्धता उस धारा के लिए महत्तम होती है जिसका विक्षेपण $45^\\circ$ है।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "A bulb rated 100 watt, 220V is connected to a 240V supply. Calculate the power loss.",
+        "prashna": "100 watt, 220v रेटिंग का बल्व 240 V के साथ जोड़ा जाता है। विद्युत शक्ति क्षय की गणना करे।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "Light of wavelength $6000\\AA$ is incident on a metal with a work function of 2eV. Will electrons be emitted from the metal or not? If yes, what will be the maximum energy of the emitted electrons?",
+        "prashna": "$2eV$ कार्यफलन के धातु पर $6000\\AA$ तरंग्दैघर्य का प्रकाश आपतित कराया जाता है। धातु से इलेक्ट्रॉन उत्सर्जित होगा कि नहीं? यदि हाँ तो उत्सर्जित इलेक्ट्रॉन की महत्तम ऊर्जा क्या होगी?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "How does the position of an element's atom in the periodic table change with the emission of $\\alpha$ and $\\beta$ particles from the nucleus? Write.",
+        "prashna": "नाभिक से $\\alpha$, $\\beta$ कण के उत्सर्जन से तत्त्व के परमाणु की स्थिति आवर्त तालिका में कैसे बदलती है? लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "Explain modulation and state its types.",
+        "prashna": "मॉडुलेशन समझाएँ और इसके प्रकार बताएँ ।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.14",
+        "topic_name": "Applications of Gauss’s Law",
+        "question": "Derive Coulomb's law using Gauss's theorem.",
+        "prashna": "गॉस नियम का उपयोग कर कुलम्व नियम निकालें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.7",
+        "topic_name": "Potential Energy of a System of Charges",
+        "question": "Explain the potential energy of a system of charges. Calculate the energy spent in placing a charge q on each corner of a square.",
+        "prashna": "आवेश निकाय की स्थितिज ऊर्जा समझाएँ । भुजा वाले वर्ग के प्रत्येक कोनों पर q आवेश रखने पर खर्च ऊर्जा की गणना करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "The plane surface of a plano-convex lens is silvered. Explain the formation of the image of an object placed at infinity in front of it and find its focal length.",
+        "prashna": "एक समतलोत्तल लेंस का समतल सतह रजतित है। इसके सामने अनंत पर राखी वस्तु का प्रतिबिंब का बनना समझाएँ और इसकी फोकस दूरी प्राप्त करे।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.5",
+        "topic_name": "Interference of Light Waves and Young’s Experiment",
+        "question": "What is a biprism? Explain how it is used to determine the wavelength ($\\lambda$) of monochromatic light.",
+        "prashna": "दिवप्रिज़्म क्या है? इसके उपयोग से एकवर्णी प्रकाश का तरंगदैर्ध्य ($\\lambda$) कैसे निकाला जाता है, समझाएँ।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.13",
+        "topic_name": "Wheatstone Bridge",
+        "question": "What is a Wheatstone bridge? Explain its utility in detail.",
+        "prashna": "हीटस्टोन ब्रिज क्या है? इसकी उपयोगिता विस्तार से समझाएँ।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.2",
+        "topic_name": "The Bar Magnet",
+        "question": "Derive the expression for the time period of oscillation of a bar magnet suspended freely in a uniform magnetic field $B$.",
+        "prashna": "एक समान चुम्बकीय क्षेत्र $B$ में स्वतंत्र रूप से झूलते छड़ चुम्बक के दोलन काल का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.6",
+        "topic_name": "Semiconductor Diode",
+        "question": "Explain -",
+        "prashna": "समझाएँ -",
+        "sub_questions": {
+            "1": "Zener diode",
+            "2": "Light Emitting Diode (LED)"
+        },
+        "anuprashna": {
+            "1": "जेनर डायोड",
+            "2": "लाईट एमीटींग डायोड (LED)"
+        }
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.2",
+        "topic_name": "Atomic Masses and Composition of Nucleus",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "1": "Explain the composition of the atomic nucleus.",
+            "2": "Differentiate between nuclear fission and radioactivity."
+        },
+        "anuprashna": {
+            "1": "परमाणु नाभिक की रचना समझाएँ।",
+            "2": "परमाणु नाभिक विखंडन एवं रेडियोसक्रियता में अंतर करें।"
+        }
+    }
+]
