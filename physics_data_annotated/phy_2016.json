@@ -1,0 +1,808 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.11",
+        "topic_name": "Dipole in a Uniform External Field",
+        "question": "If an electric dipole of moment $\\vec{p}$ is placed in an electric field of intensity $\\vec{E}$, the torque acting on it will be",
+        "prashna": "$\\vec{p}$ आघूर्ण वाला एक विद्युत द्विध्रुव $\\vec{E}$ तीव्रता वाले विद्युतीय क्षेत्र में रखा जाए, तो उस पर लगने वाला टार्क होगा",
+        "options": {
+            "A": "$\\vec{p} \\times \\vec{E}$",
+            "B": "$\\vec{p} \\cdot \\vec{E}$",
+            "C": "$pE$",
+            "D": "$\\vec{p} / \\vec{E}$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{p} \\times \\vec{E}$",
+            "B": "$\\vec{p} \\cdot \\vec{E}$",
+            "C": "$pE$",
+            "D": "$\\vec{p} / \\vec{E}$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.14",
+        "topic_name": "Combination of Capacitors",
+        "question": "The equivalent capacitance between A and B in the given figure will be",
+        "prashna": "दिए गए चित्र में A और B के बीच तुल्य धारिता होगी",
+        "options": {
+            "A": "$6 \\mu F$",
+            "B": "$18 \\mu F$",
+            "C": "$9 \\mu F$",
+            "D": "$1/9 \\mu F$"
+        },
+        "vikalpa": {
+            "A": "$6 \\mu F$",
+            "B": "$18 \\mu F$",
+            "C": "$9 \\mu F$",
+            "D": "$1/9 \\mu F$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "The power of an electric circuit is",
+        "prashna": "विद्युत परिपथ की शक्ति होती है",
+        "options": {
+            "A": "$V \\cdot R$",
+            "B": "$V^2 \\cdot R$",
+            "C": "$V^2 / R$",
+            "D": "$V^2 \\cdot RI$"
+        },
+        "vikalpa": {
+            "A": "$V \\cdot R$",
+            "B": "$V^2 \\cdot R$",
+            "C": "$V^2 / R$",
+            "D": "$V^2 \\cdot RI$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.2",
+        "topic_name": "Magnetic Force",
+        "question": "The dimension of a magnetic field is",
+        "prashna": "चुम्बकीय क्षेत्र की विमा है",
+        "options": {
+            "A": "$I^1ML^0T^{-2}$",
+            "B": "$I^0MLT^{-2}$",
+            "C": "$IMLT^{-1}$",
+            "D": "$IM^{-1}L^{-1}T^{-2}$"
+        },
+        "vikalpa": {
+            "A": "$I^1ML^0T^{-2}$",
+            "B": "$I^0MLT^{-2}$",
+            "C": "$IMLT^{-1}$",
+            "D": "$IM^{-1}L^{-1}T^{-2}$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.5",
+        "topic_name": "Lenz’s Law and Conservation of Energy",
+        "question": "Lenz's law is related to",
+        "prashna": "लेंज का नियम् संबद्ध है",
+        "options": {
+            "A": "Charge",
+            "B": "Mass",
+            "C": "Energy",
+            "D": "Principle of conservation of momentum"
+        },
+        "vikalpa": {
+            "A": "आवेश से",
+            "B": "द्रव्यमान से",
+            "C": "ऊर्जा से",
+            "D": "संवेग के संरक्षण सिद्धांत से"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.7",
+        "topic_name": "Power in AC Circuit: The Power Factor",
+        "question": "The power factor of an L-R circuit is",
+        "prashna": "L-R परिपथ का शक्ति गुणांक होता है",
+        "options": {
+            "A": "$R+\\omega L$",
+            "B": "$R / \\sqrt{R^2+\\omega^2L^2}$",
+            "C": "$R\\sqrt{R^2 + \\omega^2L^2}$",
+            "D": "$\\omega L / R$"
+        },
+        "vikalpa": {
+            "A": "$R+WL$",
+            "B": "$R / \\sqrt{R^2+W^2L^2}$",
+            "C": "$R\\sqrt{R^2 + W^2L^2}$",
+            "D": "$WL / R$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.2",
+        "topic_name": "The Bar Magnet",
+        "question": "When the intensity of the magnetic field is increased four times, the time period of a suspended magnetic needle becomes",
+        "prashna": "जब चुम्बकीय क्षेत्र की तीव्रता को चौगुना बढ़ा दिया जाता है, तो लटकती हुई चुंबकीय सूई का आवर्तकाल होता है",
+        "options": {
+            "A": "Double",
+            "B": "Half",
+            "C": "Four times",
+            "D": "One-fourth less"
+        },
+        "vikalpa": {
+            "A": "दुगुना",
+            "B": "आधा",
+            "C": "चौगुना",
+            "D": "एक-चौथाई कम"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "The final image in an astronomical telescope is",
+        "prashna": "खगोलीय दूरदर्शक में अंतिम प्रतिबिंब होता है।",
+        "options": {
+            "A": "Real and erect",
+            "B": "Real and inverted",
+            "C": "Virtual and inverted",
+            "D": "Virtual and erect"
+        },
+        "vikalpa": {
+            "A": "वास्तविक और सीधा",
+            "B": "वास्तविक और उलटा",
+            "C": "काल्पनिक और उलटा",
+            "D": "काल्पनिक और सीधा"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "$\\beta$-rays are deflected in",
+        "prashna": "$\\beta$-किरणें विक्षेपित होती है।",
+        "options": {
+            "A": "Gravitational field",
+            "B": "Only in magnetic field",
+            "C": "Only in electric field",
+            "D": "Both in magnetic and electric fields"
+        },
+        "vikalpa": {
+            "A": "गुरुत्वाकर्षण क्षेत्र में",
+            "B": "केवल चुम्बकीय क्षेत्र में",
+            "C": "केवल विद्युतीय क्षेत्र में",
+            "D": "चुम्बकीय एवं विद्युतीय क्षेत्र दोनों में"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "The Boolean expression for NOR gate is",
+        "prashna": "NOR गेट के लिए बूलियन व्यंजक है।",
+        "options": {
+            "A": "$\\overline{A \\cdot B} = Y$",
+            "B": "$\\overline{A + B} = Y$",
+            "C": "$A \\cdot B = Y$",
+            "D": "$A + B = Y$"
+        },
+        "vikalpa": {
+            "A": "$\\overline{A.B} = Y$",
+            "B": "$\\overline{A+B} = Y$",
+            "C": "$A.B = Y$",
+            "D": "$A+B = Y$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.11",
+        "topic_name": "Capacitors and Capacitance",
+        "question": "64 identical drops, each of capacitance $5 \\mu F$, combine to form a bigger drop. What will be the capacitance of the bigger drop?",
+        "prashna": "64 समरूप बूँदें जिनमें प्रत्येक की धारिता $5 \\mu F$ है मिलकर एक बड़ा बूँद बनाते हैं। बड़े बूँद की धारिता क्या होगी ?",
+        "options": {
+            "A": "$25 \\mu F$",
+            "B": "$4 \\mu F$",
+            "C": "$164 \\mu F$",
+            "D": "$20 \\mu F$"
+        },
+        "vikalpa": {
+            "A": "$25 \\mu F$",
+            "B": "$4 \\mu F$",
+            "C": "$164 \\mu F$",
+            "D": "$20 \\mu F$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.12",
+        "topic_name": "Kirchhoff’s Rules",
+        "question": "The algebraic sum of all currents at any point in an electrical circuit is",
+        "prashna": "विद्युतीय परिपथ के किसी बिन्दु पर सभी धाराओं का बीजगणितीय योग",
+        "options": {
+            "A": "Zero",
+            "B": "Infinite",
+            "C": "Positive",
+            "D": "Negative"
+        },
+        "vikalpa": {
+            "A": "शून्य होता है",
+            "B": "अनंत होता है",
+            "C": "धनात्मक होता है",
+            "D": "ऋणात्मक होता है"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.10",
+        "topic_name": "Cells, emf, Internal Resistance",
+        "question": "The dimension of electromotive force is",
+        "prashna": "विद्युत वाहक बल की विमा है।",
+        "options": {
+            "A": "$ML^2T^{-2}$",
+            "B": "$ML^2T^{-2}I^{-1}$",
+            "C": "$MLT^{-2}$",
+            "D": "$ML^2T^{-3}A^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$ML^2T^{-2}$",
+            "B": "$ML^2T^{-2}I^{-1}$",
+            "C": "$MLT^{-2}$",
+            "D": "$ML^2T^{-3}A^{-1}$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.2",
+        "topic_name": "Electric Current",
+        "question": "Ampere-hour is the unit of",
+        "prashna": "एम्पियर-घंटा मात्रक है",
+        "options": {
+            "A": "Power",
+            "B": "Charge",
+            "C": "Energy",
+            "D": "Potential difference"
+        },
+        "vikalpa": {
+            "A": "शक्ति का",
+            "B": "आवेश का",
+            "C": "ऊर्जा का",
+            "D": "विभवांतर का"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.4",
+        "topic_name": "AC Voltage Applied to an Inductor",
+        "question": "The unit of reactance is",
+        "prashna": "प्रतिघात का मात्रक है",
+        "options": {
+            "A": "Mho",
+            "B": "Ohm",
+            "C": "Farad",
+            "D": "Ampere"
+        },
+        "vikalpa": {
+            "A": "म्हो",
+            "B": "ओम",
+            "C": "फैराड",
+            "D": "एम्पियर"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.3",
+        "topic_name": "Refraction",
+        "question": "When a ray of light enters a glass slab, its wavelength",
+        "prashna": "जब प्रकाश की एक किरण ग्लास स्लैब में प्रवेश करती है, तो इसका तरंगदैर्ध्य",
+        "options": {
+            "A": "Decreases",
+            "B": "Increases",
+            "C": "Remains unchanged",
+            "D": "Data is incomplete"
+        },
+        "vikalpa": {
+            "A": "घटता है",
+            "B": "बढ़ता है",
+            "C": "अपरिवर्तित रहता है",
+            "D": "आँकड़े पूर्ण नहीं है"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.10",
+        "topic_name": "The Moving Coil Galvanometer",
+        "question": "When an ammeter is shunted, its measuring range",
+        "prashna": "जब किसी ऐमीटर को शंट किया जाता है तो इसकी माप सीमा",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Remains constant",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बढ़ती है",
+            "B": "घटती है",
+            "C": "स्थिर रहती है",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.7",
+        "topic_name": "Inductance",
+        "question": "The SI unit of self-inductance is",
+        "prashna": "स्वप्रेरकत्व (self-inductance) का SI मात्रक है",
+        "options": {
+            "A": "Coulomb (C)",
+            "B": "Volt (V)",
+            "C": "Ohm ($\\Omega$)",
+            "D": "Henry (H)"
+        },
+        "vikalpa": {
+            "A": "कूलॉम (C)",
+            "B": "वोल्ट (V)",
+            "C": "ओम ($\\Omega$)",
+            "D": "हेनरी (H)"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.2",
+        "topic_name": "AC Voltage Applied to a Resistor",
+        "question": "A hot wire ammeter measures of an alternating current",
+        "prashna": "तप्त तार ऐमीटर मापता है प्रत्यावर्ती धारा का",
+        "options": {
+            "A": "Peak value",
+            "B": "Average value",
+            "C": "Root mean square current",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उच्चतम मान",
+            "B": "औसत मान",
+            "C": "मूल औसत वर्ग धारा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.8",
+        "topic_name": "Transformers",
+        "question": "In a step-up transformer, the number of turns in the primary and secondary are $N_1$ and $N_2$ respectively, then",
+        "prashna": "किसी उच्चायी (step-up) ट्रॉसफार्मर के प्राइमरी और सेकंडरी में क्रमशः $N_1$ और $N_2$ लपेट हैं, तब",
+        "options": {
+            "A": "$N_1 > N_2$",
+            "B": "$N_2 > N_1$",
+            "C": "$N_1 = N_2$",
+            "D": "$N_1 = 0$"
+        },
+        "vikalpa": {
+            "A": "$N_1 > N_2$",
+            "B": "$N_2 > N_1$",
+            "C": "$N_1 = N_2$",
+            "D": "$N_1 = 0$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "Electron-volt measures",
+        "prashna": "इलेक्ट्रॉन-वोल्ट द्वारा मापा जाता है",
+        "options": {
+            "A": "Charge",
+            "B": "Potential difference",
+            "C": "Current",
+            "D": "Energy"
+        },
+        "vikalpa": {
+            "A": "आवेश",
+            "B": "विभवांतर",
+            "C": "धारा",
+            "D": "ऊर्जा"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.8",
+        "topic_name": "AC Generator",
+        "question": "The working principle of a dynamo is based on",
+        "prashna": "डायनेमो के कार्य का सिद्धांत आधारित है",
+        "options": {
+            "A": "Heating effect of current",
+            "B": "Electromagnetic induction",
+            "C": "Induced magnetism",
+            "D": "Induced electricity"
+        },
+        "vikalpa": {
+            "A": "धारा के ऊष्मीय प्रभाव पर",
+            "B": "विद्युत-चुंबकीय प्रेरण पर",
+            "C": "प्रेरित चुम्बकत्व पर",
+            "D": "प्रेरित विद्युत पर"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.9",
+        "topic_name": "Torque on Current Loop, Magnetic Dipole",
+        "question": "The SI unit of magnetic moment is",
+        "prashna": "चुंबकीय आघूर्ण पर SI मात्रक होता है",
+        "options": {
+            "A": "$JT^2$",
+            "B": "$Am^2$",
+            "C": "$JT$",
+            "D": "$Am^{-1}$"
+        },
+        "vikalpa": {
+            "A": "$JT^2$",
+            "B": "$Am^2$",
+            "C": "$JT$",
+            "D": "$Am^{-1}$"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.4",
+        "topic_name": "Total Internal Reflection",
+        "question": "On what principle does optical fiber work?",
+        "prashna": "ऑप्टिकल फाइबर किस सिद्धांत पर काम करता है?",
+        "options": {
+            "A": "Scattering",
+            "B": "Refraction",
+            "C": "Dispersion",
+            "D": "Total internal reflection"
+        },
+        "vikalpa": {
+            "A": "प्रकीर्णन",
+            "B": "अपवर्तन",
+            "C": "वर्ण-विक्षेपण",
+            "D": "पूर्ण आंतरिक परावर्तन"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "When the length of the tube of a microscope is increased, its magnifying power",
+        "prashna": "जब माइक्रोस्कोप की नली की लंबाई बढ़ायी जाती है तब आवर्धन क्षमता",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Becomes zero",
+            "D": "Remains unchanged"
+        },
+        "vikalpa": {
+            "A": "बढ़ती है",
+            "B": "घटती है",
+            "C": "शून्य हो जाती है",
+            "D": "अपरिवर्तित रहती है"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.7",
+        "topic_name": "Particle Nature of Light: The Photon",
+        "question": "The energy of a photon of wavelength $\\lambda$ is",
+        "prashna": "$\\lambda$ तरंगदैर्ध्य वाले फोटॉन की ऊर्जा है",
+        "options": {
+            "A": "$hc \\lambda$",
+            "B": "$h\\nu / \\lambda$",
+            "C": "$h \\lambda /c$",
+            "D": "$\\lambda / hc$"
+        },
+        "vikalpa": {
+            "A": "$hc \\lambda$",
+            "B": "$hv / \\lambda$",
+            "C": "$h \\lambda /c$",
+            "D": "$\\lambda / hc$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.6",
+        "topic_name": "Radioactivity",
+        "question": "Which of the following has the maximum penetrating power?",
+        "prashna": "निम्नांकित में किसे महत्तम बेधन क्षमता है ?",
+        "options": {
+            "A": "X-rays",
+            "B": "Cathode rays",
+            "C": "$\\alpha$-rays",
+            "D": "$\\gamma$-rays"
+        },
+        "vikalpa": {
+            "A": "X-किरणें",
+            "B": "कैथोड किरणें",
+            "C": "$\\alpha$-किरणें",
+            "D": "$\\gamma$-किरणें"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.4",
+        "topic_name": "Extrinsic Semiconductor",
+        "question": "The main current carrier in a p-type semiconductor is",
+        "prashna": "p- टाइप के अर्धचालक में मुख्य धारा वाहक होता है",
+        "options": {
+            "A": "Electron",
+            "B": "Hole",
+            "C": "Photon",
+            "D": "Proton"
+        },
+        "vikalpa": {
+            "A": "इलेक्ट्रॉन",
+            "B": "होल",
+            "C": "फोटॉन",
+            "D": "प्रोटॉन"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.10",
+        "topic_name": "Dielectrics and Polarisation",
+        "question": "Define dielectric strength and relative permittivity.",
+        "prashna": "परावैद्युत शक्ति एवं आपेक्षिक परावैद्युतांक को परिभाषित करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.4",
+        "topic_name": "AC Voltage Applied to an Inductor",
+        "question": "Explain the use of a choke coil or motor starter.",
+        "prashna": "चोक कुण्डली अथवा मोटर प्रवर्तक के उपयोग समझाइए ।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.3",
+        "topic_name": "Magnetic Flux",
+        "question": "State the dimension and SI unit of magnetic flux.",
+        "prashna": "चुम्बकीय फ्लक्स के विमा एवं SI मात्रक बताइए।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.12",
+        "topic_name": "Kirchhoff’s Rules",
+        "question": "Write Kirchhoff's two laws for an electrical network.",
+        "prashna": "विद्युतीय नेटवर्क के लिए किरचॉफ के दोनों नियम लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.4",
+        "topic_name": "Total Internal Reflection",
+        "question": "What is total internal reflection? What are its conditions?",
+        "prashna": "पूर्ण आंतरिक परावर्तन क्या है? इसकी शर्तें क्या हैं?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.5",
+        "topic_name": "Drift of Electrons and the Origin of Resistivity",
+        "question": "A wire of resistance $16\\Omega$ is stretched to double its length. Find the new resistance of the wire.",
+        "prashna": "एक $16\\Omega$ प्रतिरोध वाले तार को खींचकर उसकी लंबाई दुगुनी कर दी जाती है तो तार का नया प्रतिरोध निकालें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "Draw the truth table for NAND and NOR gates.",
+        "prashna": "NAND और NOR गेट की सत्यता सारणी बनाइए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.5",
+        "topic_name": "Lenz’s Law and Conservation of Energy",
+        "question": "Write Lenz's law of electromagnetic induction.",
+        "prashna": "विद्युत चुम्बकीय प्रेरण के लेंज का नियम लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.4",
+        "topic_name": "Electromagnetic Spectrum",
+        "question": "Write any two properties of X-rays.",
+        "prashna": "X-किरणों के किन्हीं दो गुणों को लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "What is Peltier effect?",
+        "prashna": "पेल्टियर प्रभाव क्या है ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "Explain sky waves and space waves.",
+        "prashna": "व्योम तरंगों तथा आकाशीय तरंगों की व्याख्या करे।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.13",
+        "topic_name": "Effect of Dielectric on Capacitance",
+        "question": "Derive an expression for the capacitance of a parallel plate capacitor with a compound dielectric.",
+        "prashna": "यौगिक परावैद्युत वाले एक समानान्तर प्लेट संधारित्र की धारिता के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.6",
+        "topic_name": "Forces between Multiple Charges",
+        "question": "Two charges, $q$ and $-3q$, are located on the X-axis at some distance apart. Where should a third charge, $2q$, be placed so that it experiences no net force? Calculate the potential energy of this configuration of charges.",
+        "prashna": "X- अक्ष पर दूरी पर दो आवेश $q$ एवं $-3q$ अवस्थित हों तो $2q$ आवेश के तीसरे आवेश को कहाँ रखा जाए कि तीसरे आवेश पर कोई बल न लगे। इस संरचना की स्थितिज ऊर्जा की गणना करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.3",
+        "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+        "question": "Define wavefront and secondary wavelets. Verify the law of reflection or refraction using Huygens' principle.",
+        "prashna": "तरंगाग्र एवं द्वितीय तरंगिकाओं को परिभाषित करें। हाइस के सिद्धांत के परावर्तन या अपवर्तन के नियम को सत्यापित करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "At what distance should an object be placed from a convex lens of focal length 15 cm to obtain a three times magnified image?",
+        "prashna": "15 cm फोकस दूरी वाले उत्तल लेंस से कितनी दूरी पर किसी वस्तु को रखा जाए कि उसका तीन गुना आवर्धित प्रतिविंव प्राप्त हो सके।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "Explain amplitude modulation and frequency modulation. Derive an expression for the height of the transmitting antenna.",
+        "prashna": "आयाम पाटुलेशन एवं आवृत्ति माहुलेशन की व्याख्या करें। प्रेषी एन्टिना की ऊँचाई के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "What is the photoelectric emission effect? What is the law of photoelectric emission? Explain the explanation of this law given by Einstein.",
+        "prashna": "प्रकाश-वैद्युत उत्सर्जन प्रभाव क्या है? प्रकाश वैद्युत उत्सर्जन का नियम क्या है? आइंस्टाइन द्वारा दिए गए इस नियम की व्याख्या को समझाइए।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.7",
+        "topic_name": "Inductance",
+        "question": "Define self-inductance and mutual induction. Derive an expression for the mutual inductance of two long co-axial solenoids.",
+        "prashna": "स्व -प्रेरकत्व एवं अन्योन्य प्रेरण को परिभाषित करें। दो लम्बी समाक्षीय परिनालिकाओं का अन्योन्य प्रेरकत्व का व्यंजक निकालें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "What is a rectifier? How is a p-n junction diode used in (i) forward bias and (ii) reverse bias configuration? Show the current-voltage characteristics of a p-n junction diode on a graph.",
+        "prashna": "दिष्टकारी क्या है ? p-n संधि डायोड को ( i) अग्र वायस अभिलक्षण (ii) पश्च वायस अभिलक्षण में कैसे प्रयोग किया जाता है ? p-n संधि डायोड के धारा- विभव अभिलक्षण को ग्राफ पर दर्शाइए।"
+    }
+]
