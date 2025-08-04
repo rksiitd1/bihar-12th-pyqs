@@ -1,0 +1,416 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.10",
+        "topic_name": "Electric Dipole",
+        "question": "What is the S.I. unit of electric dipole moment?",
+        "prashna": "वैद्युत द्विध्रुव आघूर्ण का S.I मात्रक क्या है?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.11",
+        "topic_name": "Capacitors and Capacitance",
+        "question": "Mention any two factors by which the capacitance of a conductor is affected.",
+        "prashna": "किन्हीं दो कारकों को बताइए जिनसे चालक की धारिता प्रभावित होती है।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.9",
+        "topic_name": "Electrical Energy, Power",
+        "question": "Write two special characteristics of a fuse wire.",
+        "prashna": "फ्यूज तार के दो विशेष अभिलक्षण लिखें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.4",
+        "topic_name": "Total Internal Reflection",
+        "question": "The core of an optical fiber is made of which material?",
+        "prashna": "आप्टिकल फाइवर क्रोड किस पदार्थ का होता है?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.5",
+        "topic_name": "Interference of Light Waves and Young’s Experiment",
+        "question": "Write the expression for the width of interference fringes.",
+        "prashna": "व्यतिकरण फ्रिजों की चौड़ाई का व्यंजक लिखें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.7",
+        "topic_name": "Inductance",
+        "question": "What is an inductor?",
+        "prashna": "प्रेरणिक क्या होता है?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.7",
+        "topic_name": "Polarisation",
+        "question": "State Brewster's law.",
+        "prashna": "ब्रूस्टर का नियम बताइए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.4",
+        "topic_name": "Experimental Study of Photoelectric Effect",
+        "question": "Define stopping potential.",
+        "prashna": "निरोधी विभव की परिभाषा दें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "Give the circuit symbol for a NAND gate.",
+        "prashna": "नैन्ड गेट का परिपथ प्रतीक दें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "What is the ionosphere?",
+        "prashna": "आयनमंडल क्या है ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.8",
+        "topic_name": "Electric Field Lines",
+        "question": "Why can two electric field lines not intersect each other? Can two equipotential surfaces intersect?",
+        "prashna": "दो विद्युत क्षेत्र रेखाएँ क्यों एक-दूसरे को काट नहीं सकती है ? क्या दो समविभव सतह काट सकती हैं।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.7",
+        "topic_name": "Resistivity of Various Materials",
+        "question": "The length of a wire with resistivity $\\rho$ is doubled. What will be the new resistivity of the wire?",
+        "prashna": "$\\rho$ प्रतिरोधकता वाले तार की लंबाई दुगनी कर दी गयी है। तार की नयी प्रतिरोधकता क्या होगी ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Magnetism and Matter",
+        "topic": "5.5",
+        "topic_name": "Magnetic Properties of Materials",
+        "question": "Mention two characteristic properties of paramagnetic and diamagnetic substances that differentiate the behavior of these two types of materials.",
+        "prashna": "अनुचंबकीय तथा प्रतिचुंबकीय पदार्थों के उन दो अभिलाक्षणिक गुणधर्मों का उल्लेख कीजिए, जो इन दो प्रकार के पदार्थ के व्यवहार में भेद दर्शाते हैं।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "Electromagnetic Induction",
+        "topic": "6.7",
+        "topic_name": "Inductance",
+        "question": "Derive the self-inductance of an ideal solenoid.",
+        "prashna": "एक आदर्श परिनालिका का स्वप्रेरकत्व प्राप्त करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.8",
+        "topic_name": "Transformers",
+        "question": "What is a transformer? What is meant by the transformation ratio?",
+        "prashna": "ट्रांसफार्मर क्या है? परिणमन अनुपात से क्या तात्पर्य है ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Electrostatic Potential and Capacitance",
+        "topic": "2.9",
+        "topic_name": "Electrostatics of Conductors",
+        "question": "What is electrostatic shielding? Write one of its practical applications.",
+        "prashna": "स्थिर वैद्युत परिरक्षण क्या है? इसके एक जीवनोपयोगी उपयोग लिखें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "topic": "4.10",
+        "topic_name": "The Moving Coil Galvanometer",
+        "question": "What is the significance of a radial magnetic field in a moving coil galvanometer?",
+        "prashna": "चल कुंडली गैल्वेनोमीटर में रेखीय चुंबकीय क्षेत्र का क्या महत्त्व है ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.6",
+        "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+        "question": "In an L-C-R circuit, when $X_L > X_C$ or when the circuit is inductive, write the equation for the current flowing through the inductor at any given time.",
+        "prashna": "L-C-R परिपथ में जब $X_L > X_C$ या जब परिपथ प्रेरणिक है तब किसी नियम समय में प्रवाहित प्रेरक धारा का समीकरण लिखें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "In an electromagnetic wave, between the magnetic field vector $\\vec{B}$ and the electric field vector $\\vec{E}$, which is more effective and why?",
+        "prashna": "विद्युत चुंबकीय तरंग में चुंबकीय क्षेत्र सदिश $\\vec{B}$ एवं विद्युत क्षेत्र सदिश $\\vec{E}$ में कौन ज्यादा प्रभावी होता है एवं क्यों ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.8",
+        "topic_name": "Wave Nature of Matter",
+        "question": "An electron has a kinetic energy of 120eV. What is its (a) momentum, (b) de Broglie wavelength?",
+        "prashna": "एक इलेक्ट्रॉन जिसकी गतिज ऊर्जा 120eV है उसका (a) संवेग, (b) दे ब्रॉग्ली तरंगदैर्ध्य क्या है ?",
+        "sub_questions": {
+            "A": "momentum",
+            "B": "de Broglie wavelength"
+        },
+        "anuprashna": {
+            "A": "संवेग",
+            "B": "दे ब्रॉग्ली तरंगदैर्ध्य"
+        }
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.5",
+        "topic_name": "p-n Junction",
+        "question": "What happens when a p-n junction is forward biased?",
+        "prashna": "क्या होता है जब p-n संधि पर अग्रदिशिक वायस अनुप्रयुक्त किया जाता है ?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.7",
+        "topic_name": "Polarisation",
+        "question": "Can't transverse waves be polarized?",
+        "prashna": "क्षैतिज तरंगें क्या नहीं ध्रुवित की जा सकती हैं?"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "chapter": "13",
+        "chapter_name": "Nuclei",
+        "topic": "13.7",
+        "topic_name": "Nuclear Energy",
+        "question": "State the uses of moderator, coolant, and control rods in a nuclear reactor.",
+        "prashna": "नाभिकीय रिएक्टर में मंदक, शीतलक व नियंत्रक छड़ के उपयोग बताइए।"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "What are baseband, bandwidth, and fading?",
+        "prashna": "आधार बैंड, बैंड की चौड़ाई और फेडिंग क्या होते हैं?"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.6",
+        "topic_name": "Semiconductor Diode",
+        "question": "Draw the voltage-current characteristic curve for a diode and label its main parameters.",
+        "prashna": "डायोड का वोल्टेज धारा अभिलाक्षणिक वक्र खींचें और उसका मुख्य प्राचल का अंकन करें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "In the context of the photoelectric effect, define threshold frequency, work function, and stopping potential.",
+        "prashna": "प्रकाश विद्युत प्रभाव के संदर्भ में देहली आवृत्ति, कार्य फलन और निरोधी विभव को परिभाषित करें।"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "The maximum amplitude of an amplitude-modulated wave is found to be 10 V and the minimum amplitude is 2 V. Determine the value of the modulation index $\\mu$.",
+        "prashna": "किसी आयाम मॉडुलित तरंग का अधिकतम आयाम 10 V तथा न्यूनतम आयाम 2 V पाया जाता है। मॉडुलन सूचकांक $\\mu$ का मान निश्चित कीजिए।"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.5",
+        "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+        "question": "A biconvex lens is to be made from glass of refractive index 1.55, with both faces having the same radius of curvature. If a lens of focal length 20 cm is to be made, what will be the required radius of curvature?",
+        "prashna": "अपवर्तनांक 1.55 के काँच से दोनों फलकों की समान वक्रता त्रिज्या के उभयोत्तल लेंस निर्मित करने हैं। यदि 20 cm फोकस दूरी का लेंस निर्मित करना है, तो अपेक्षित वक्रता त्रिज्या क्या होगी?"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.8",
+        "topic_name": "Transformers",
+        "question": "For what reasons does the efficiency of a transformer decrease?",
+        "prashna": "किन कारणों से ट्रांसफार्मर की दक्षता घटती है ?"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "Draw the truth table for the given circuit combining NAND gates and determine the actual logic operation performed by this circuit.",
+        "prashna": "नीचे दिए गए NAND गेट संयोजित परिपथ की सत्यमान सारणी बनाइए एवं इस परिपथ द्वारा की जानेवाली यथार्थ तर्क संक्रिया का अभिनिर्धारण कीजिए।"
+    },
+    {
+        "id": "short_31",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "Alternating Current",
+        "topic": "7.2",
+        "topic_name": "AC Voltage Applied to a Resistor",
+        "question": "An electric bulb of 100 W works on a 220V and 50 Hz a.c. power supply. Calculate - (i) the resistance of the bulb (ii) the root mean square electric current flowing through the bulb.",
+        "prashna": "एक 100 W का विद्युत बल्ब 220V तथा 50 Hz की a.c. विद्युत आपूर्ति पर कार्य करता है। परिकलित कीजिए - (i) वल्व का प्रतिरोध (ii) बल्ब से प्रवाहित वर्ग माध्य मूल विद्युत धारा ।",
+        "sub_questions": {
+            "i": "the resistance of the bulb",
+            "ii": "the root mean square electric current flowing through the bulb"
+        },
+        "anuprashna": {
+            "i": "वल्व का प्रतिरोध",
+            "ii": "बल्ब से प्रवाहित वर्ग माध्य मूल विद्युत धारा"
+        }
+    },
+    {
+        "id": "short_32",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "Electromagnetic Waves",
+        "topic": "8.3",
+        "topic_name": "Electromagnetic Waves",
+        "question": "Mention three different modes used for transmission in a communication system.",
+        "prashna": "संचार प्रणाली में संचरण के लिए प्रयुक्त तीन विभिन्न विधाओं का उल्लेख कीजिए।"
+    },
+    {
+        "id": "short_33",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Current Electricity",
+        "topic": "3.12",
+        "topic_name": "Kirchhoff’s Rules",
+        "question": "In the given circuit, find the potential at points $X_1$ and $X_2$.",
+        "prashna": "दिखाए गए परिपथ में बिन्दुओं $X_1$ तथा $X_2$ पर विभव ज्ञात करें।"
+    },
+    {
+        "id": "short_34",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.11",
+        "topic_name": "Dipole in a Uniform External Field",
+        "question": "Derive an expression for the torque acting on an electric dipole placed in an external electric field.",
+        "prashna": "बाहरी विद्युत क्षेत्र में रखे विद्युत द्विध्रुव पर लगे बल-आघूर्ण के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "14.7",
+        "topic_name": "Application of Junction Diode as a Rectifier",
+        "question": "State the principle of using a transistor as an oscillator circuit. Show with a circuit diagram how feedback amplification occurs through an inductive-capacitive circuit. Explain the operation of the oscillator.",
+        "prashna": "दोलित्र परिपथ के रूप में ट्रांजिस्टर के इस्तेमाल का सिद्धांत बताइए। परिपथ चित्रण के माध्यम से दिखाइए कि प्रेरणिक संधारित्र द्वारा पुनर्भरण प्रवर्धन किस प्रकार होता है। दोलित्र की संक्रिया स्पष्ट करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "topic": "11.6",
+        "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+        "question": "What is the photoelectric emission effect? What are the laws of photoelectric emission? Explain this law as given by Einstein.",
+        "prashna": "प्रकाश-वैद्युत उत्सर्जन प्रभाव क्या है? प्रकाश-वैद्युत उत्सर्जन के नियम क्या हैं? आइंसटीन द्वारा दिए गए इस नियम की व्याख्या को समझाइए |"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter": "10",
+        "chapter_name": "Wave Optics",
+        "topic": "10.3",
+        "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+        "question": "Define wavefront and secondary wavelets. Verify the law of reflection or refraction on the basis of Huygens' principle.",
+        "prashna": "तरंगाग्र एवं द्वितीय तरंगिकाओं को परिभाषित करें। हाइगेंस के सिद्धांत के आधार पर परावर्तन या अपवर्तन के नियम को सत्यापित करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "topic": "9.7",
+        "topic_name": "Optical Instruments",
+        "question": "(a) Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope? (b) According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits.",
+        "prashna": "(a) 1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ? (b) नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।",
+        "sub_questions": {
+            "A": "Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope?",
+            "B": "According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits."
+        },
+        "anuprashna": {
+            "A": "1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ?",
+            "B": "नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।"
+        }
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "chapter": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "topic": "1.14",
+        "topic_name": "Applications of Gauss’s Law",
+        "question": "Using Gauss's theorem, find the electric field at a point near a charged conductor.",
+        "prashna": "गॉस के प्रमेय का उपयोग करते हुए आवेशित चालक के नजदीक के बिन्दु पर विद्युत क्षेत्र ज्ञात करें।"
+    }
+]
