@@ -73,5 +73,5 @@ def convert_json_to_excel(json_file_path, excel_file_path=None):
 
 if __name__ == "__main__":
     # Example usage
-    input_json = r"c:\Users\vidya\gurukulam\0\pushtak\pyqs\physics_data_annotated\phy_2009.json"
+    input_json = r"c:\Users\vidya\gurukulam\0\pushtak\pyqs\physics_data_annotated\phy_2018.json"
     convert_json_to_excel(input_json)
