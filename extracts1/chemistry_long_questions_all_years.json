@@ -1,0 +1,1199 @@
+{
+  "2009": [
+    {
+      "id": "long_1",
+      "question": "Mention the principle with equations for the manufacture of sulphuric acid by contact process. Write the test for $SO_4^{2-}$ ion.",
+      "prashna": "सम्पर्क विधि से गन्धकाम्ल उत्पादन के सिद्धान्त को समीकरण के साथ उल्लेख करें। $SO_4^{2-}$ आयन का परीक्षण लिखें।"
+    },
+    {
+      "id": "long_2_1",
+      "question": "What is the rate constant of a reaction? Derive the expression for the rate constant for a first-order reaction.",
+      "prashna": "अभिक्रिया का गति स्थिरांक क्या है ? प्रथम कोटि के अभिक्रिया के लिए गति स्थिरांक का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2_2",
+      "question": "A solution contains 1.0 g of urea (M = 60) in 75.0 g of water and boils at $100.114^\\circ C$. Find the value of the molal elevation boiling point constant for the solution.",
+      "prashna": "एक घोल में 75.0 ग्राम जल में 1.0 ग्राम यूरिया (M = 60) है एवं $100.114^\\circ C$ पर उबलता है। घोल का मोलल उन्नयन क्वथनांक स्थिरांक का मान प्राप्त करें।"
+    },
+    {
+      "id": "long_3",
+      "question": "What is the common group in aldehydes and ketones? How do acetaldehyde and acetone show similarity and dissimilarity with each other? Mention one reaction for each.",
+      "prashna": "एल्डिहाइड एवं कीटोन में सामान्य समूह क्या है? ऐस्टिल्डिहाइड एवं एसीटोन किस प्रकार एक-दूसरे से समानता एवं विषमता दर्शाता है? प्रत्येक के लिए एक-एक अभिक्रिया का उल्लेख करें।"
+    },
+    {
+      "id": "long_4",
+      "question": "Give one example for each of the following-",
+      "prashna": "निम्नलिखित के प्रत्येक के लिए एक-एक उदाहरण दें-",
+      "sub_questions": {
+        "a": "Naturally occurring amino acid",
+        "b": "Synthetic rubber",
+        "c": "Condensation polymer",
+        "d": "Antibiotic",
+        "e": "Artificial sweetener"
+      },
+      "anuprashna": {
+        "a": "प्राकृतिक रूप में पाये जानेवाला एमीनो अम्ल",
+        "b": "सिन्थेटिक रबर",
+        "c": "संघनक बहुलक (पॉलिमर)",
+        "d": "ऐन्टीबायटिक",
+        "e": "कृत्रिम स्वीटनर (मीठा करनेवाला)"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "long_1_1",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "A first-order reaction takes 60 minutes for 75% completion. Find the half-life of this reaction.",
+        "B": "Give one example each of zero-order and first-order reactions."
+      },
+      "anuprashna": {
+        "A": "एक प्रथम क्रम की अभिक्रिया को 75% पूरा होने में 60 मिनट लगता है। इस अभिक्रिया का अर्धजीवन काल निकालें।",
+        "B": "शून्य क्रम और प्रथम क्रम अभिक्रियाओं का एक-एक उदाहरण दें।"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "question": "Discuss the general properties of transition elements with special reference to the following-",
+      "prashna": "संक्रमण तत्त्वों के सामान्य गुणों की विवेचना निम्न के विशेष संदर्भ में करें-",
+      "sub_questions": {
+        "i": "Formation of coloured salts",
+        "ii": "Variable oxidation state"
+      },
+      "anuprashna": {
+        "i": "रंगीन लवण के निर्माण",
+        "ii": "परिवर्तनशील ऑक्सीकरण अवस्था।"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "question": "Write the IUPAC name of the following-",
+      "prashna": "निम्नलिखित के IUPAC नाम लिखिए-",
+      "sub_questions": {
+        "i": "$CH_3CONH_2$",
+        "ii": "$(CH_3)_2CHCH_2COCl$",
+        "iii": "$CH_3-O-C_2H_5$",
+        "iv": "$CH_3CH_2CN$",
+        "v": "Cyclohexanecarboxylic acid"
+      },
+      "anuprashna": {
+        "i": "$CH_3CONH_2$",
+        "ii": "$(CH_3)_2CHCH_2COCl$",
+        "iii": "$CH_3-O-C_2H_5$",
+        "iv": "$CH_3CH_2CN$",
+        "v": "साइक्लोहेक्सेन कार्बोक्सिलिक अम्ल"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "question": "What is polymerization? Define and explain addition polymerization and condensation polymerization with one example each.",
+      "prashna": "बहुलीकरण क्या है? योगात्मक बहुलीकरण एवं संघनन बहुलीकरण पद की परिभाषा एवं व्याख्या एक-एक उदाहरण के साथ करें।"
+    },
+    {
+      "id": "long_3",
+      "question": "An element A (atomic mass = 100) has a bcc structure with an edge length of 400 pm. Find the density of A and the number of its unit cells in 10 grams of A.",
+      "prashna": "एक तत्त्व A (परमाणु द्रव्यमान = 100) bcc संरचना रखता है, जिसके इकाई सेल के किनारे की लम्बाई 400 pm है। A का घनत्व और 10 ग्राम A में उसके इकाई सेलों की संख्या ज्ञात करें।"
+    },
+    {
+      "id": "long_4",
+      "question": " ",
+      "prashna": " ",
+      "sub_questions": {
+        "A": "Complete the following equations: (i) $CH_3CH_2Cl \\xrightarrow{alc. KOH} [A] \\xrightarrow{alc. KMnO_4} [B]$ (ii) $(CH_3COO)_2Ca \\xrightarrow{heat} [A] \\xrightarrow{Zn/HCl, \\Delta} [B]$",
+        "B": "Give one example each of $2^\\circ$ and $3^\\circ$ amines with their IUPAC names.",
+        "C": "Arrange the following acids in increasing order of their acidic strength."
+      },
+      "anuprashna": {
+        "A": "निम्नलिखित समीकरणों को पूरा करें: (i) $CH_3CH_2Cl \\xrightarrow{alc. KOH} [A] \\xrightarrow{alc. KMnO_4} [B]$ (ii) $(CH_3COO)_2Ca \\xrightarrow{heat} [A] \\xrightarrow{Zn/HCl, \\Delta} [B]$",
+        "B": "$2^\\circ$ एवं $3^\\circ$ ऐमीनों के IUPAC नामों के साथ एक-एक उदाहरण दीजिए।",
+        "C": "निम्नलिखित अम्लों को उसके बढ़ते हुए अम्लीय शक्ति के क्रम में लिखें-"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "long_1_1",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "What is the difference between ferromagnetism and paramagnetism?",
+        "b": "Calculate the standard cell potential for the cell shown below: $Zn(s) | ZnSO_4(aq) || CuSO_4(aq) | Cu(s)$, if the standard reduction electrode potentials for $Cu^{2+}|Cu$ and $Zn^{2+}|Zn$ are +0.34 V and -0.76 V respectively."
+      },
+      "anuprashna": {
+        "a": "फेरोचुम्बकीय तथा पाराचुम्बकीय में क्या अंतर है?",
+        "b": "नीचे दिखाए गए सेल के लिए $Zn(s) | ZnSO_4(aq) || CuSO_4(aq) | Cu(s)$ मानक सेल विभव की गणना करें यदि मानक अवकारक इलेक्ट्रोड विभव $Cu^{2+}|Cu$ तथा $Zn^{2+}|Zn$ के लिए क्रमश: +0.34 V तथा -0.76 V दिया हुआ है।"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "What do you understand by elevation in boiling point?",
+        "b": "State Raoult's law. How is it useful in determining the molecular weight of a non-electrolyte solute?"
+      },
+      "anuprashna": {
+        "a": "क्वथनांक का उन्नयन से आप क्या समझते हैं?",
+        "b": "राउल्ट नियम का उल्लेख करें। यह विद्युत अनअपघट्य घुल्य का अनुभार ज्ञात करने किस प्रकार उपयोगी है?"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "State the principle of manufacturing nitric acid from ammonia.",
+        "b": "Write the reaction of copper metal with 50% dilute $HNO_3$."
+      },
+      "anuprashna": {
+        "a": "अमोनिया से नाइट्रिक अम्ल उत्पादन के सिद्धांत का उल्लेख करें।",
+        "b": "ताम्र धातु के साथ 50% तनु $HNO_3$ की अभिक्रिया लिखें"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "question": "What happens when -",
+      "prashna": "क्या होता है जबकि -",
+      "sub_questions": {
+        "a": "Ammonia reacts with excess of chlorine?",
+        "b": "Acidified $K_2Cr_2O_7$ reacts with $H_2S$?",
+        "c": "Copper sulphate is reacted with a solution of $KI$?"
+      },
+      "anuprashna": {
+        "a": "अमोनिया, क्लोरीन की अधिकता के साथ अभिक्रिया करता है?",
+        "b": "अम्लीकृत $K_2Cr_2O_7$ से $H_2S$ अभिक्रिया करता है?",
+        "c": "ताम्र सल्फेट की अभिक्रिया $KI$ के घोल से कराई जाती है?"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "Describe the following chemicals with suitable examples. (i) Antipyretics (ii) Antiseptic",
+        "b": "Name the vitamin whose deficiency causes night blindness.",
+        "c": "What are the initial chemicals used to make Bakelite and PVC?"
+      },
+      "anuprashna": {
+        "a": "निम्नलिखित रसायनों का उचित उदाहरण देते हुए वर्णन करें। (i) ज्वरनाशी (एंटीपायरेटिक्स) (ii) एंटीसेप्टिक",
+        "b": "उस विटामिन का नाम लिखें जिसकी कमी से रतौंधी (नाइट ब्लाइंडनेस) होता है।",
+        "c": "बेकेलाइट तथा PVC बनाने के लिए कौन-से प्रारंभिक रसायन प्रयुक्त होते हैं?"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "Define the following with one example each. (i) Analgesic (ii) Antibiotics",
+        "b": "How many ATP molecules are produced per molecule of glucose, when glucose undergoes glycolysis?",
+        "c": "What is synthetic rubber? Give one example."
+      },
+      "anuprashna": {
+        "a": "निम्नलिखित को एक-एक उदाहरण देकर परिभाषित करें। (i) पीड़ाहारी (एनाल्जेसिक) (ii) प्रतिजैविक (एंटीबायोटिक्स)",
+        "b": "प्रति अणु ग्लुकोज से कितने अणु ATP उत्पन्न होते हैं. जब ग्लुकोज का ग्लाइकोलाइसीस कराते हैं?",
+        "c": "संश्लिष्ट रबर क्या है? इनका एक उदाहरण दें।"
+      }
+    },
+    {
+      "id": "long_4",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "Clarify the difference between methanoic acid and ethanoic acid.",
+        "b": "How will you show the following conversions? (i) Aniline to phenol (ii) Phenol to acetophenone (iii) Ethanol to n-butane."
+      },
+      "anuprashna": {
+        "a": "मिथेनोइक अम्ल तथा इथेनोइक अम्ल के बीच आप अंतर के स्पष्ट करेंगे।",
+        "b": "निम्नलिखित परिवर्तन आप कैसे दिखायेंगे। (i) एनिलिन का फिनॉल में (ii) फिनॉल का एसीटोफेनॉन में (iii) इथेनॉल का n-ब्यूटेन में।"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_1_1",
+      "question": "Define the order and molecularity of a reaction. Derive the general expression for the specific rate constant of a first-order reaction.",
+      "prashna": "अभिक्रिया को कोटि तथा आणविकता की परिभाषा दें। प्रथम कोटि की अभिक्रिया के विशिष्ट वेग-स्थिरांक के लिए सामान्य व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_1_2",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "Differentiate between DNA and RNA.",
+        "B": "What are nucleic acids?"
+      },
+      "anuprashna": {
+        "A": "DNA एवं RNA में अंतर बताइए।",
+        "B": "न्यूक्लिक अम्ल क्या हैं?"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "Write the principle of the method for the production of sulfuric acid by the contact process.",
+        "B": "How will you test for the sulfate ion?"
+      },
+      "anuprashna": {
+        "A": "संपर्क विधि द्वारा सल्फ्यूरिक अम्ल के उत्पादन की विधि का सिद्धांत लिखें।",
+        "B": "सल्फेट आयन की जाँच आप कैसे करेंगे?"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "question": "What are carbohydrates? How are they classified?",
+      "prashna": "कार्बोहाइड्रेट क्या है? इनका वर्गीकरण कैसे किया जाता है?"
+    },
+    {
+      "id": "long_3_1",
+      "question": "Explain the following:",
+      "prashna": "निम्न की व्याख्या करें:",
+      "sub_questions": {
+        "A": "Kolbe's reaction",
+        "B": "Wurtz reaction",
+        "C": "Carbylamine reaction"
+      },
+      "anuprashna": {
+        "A": "कोल्बे अभिक्रिया",
+        "B": "बुर्ज अभिक्रिया",
+        "C": "कार्बाइल ऐमीन अभिक्रिया"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "question": "Give one example of each of the following:",
+      "prashna": "निम्नलिखित प्रत्येक का एक-एक उदाहरण दें:",
+      "sub_questions": {
+        "A": "Synthetic rubber",
+        "B": "Naturally occurring amino acid",
+        "C": "Condensation polymer",
+        "D": "Addition polymer",
+        "E": "Artificial sweetener"
+      },
+      "anuprashna": {
+        "A": "संश्लिष्ट रबर",
+        "B": "प्राकृतिक रूप में पाये जाने वाले ऐमीनो एसिड",
+        "C": "संघनन पॉलिमर",
+        "D": "अतिरिक्त पॉलिमर",
+        "E": "कृत्रिम मधुरक"
+      }
+    },
+    {
+      "id": "long_4_1",
+      "question": "How is aluminium extracted from bauxite ore? Mention the principle involved in it. How does aluminium react with concentrated sulfuric acid?",
+      "prashna": "एल्युमिनियम का निष्कर्षण वॉक्साइड अयस्क से कैसे किया जाता है? इसमें निहित सिद्धांत का उल्लेख करें। एल्युमिनियम सान्द्र सल्फ्यूरिक अम्ल के साथ कैसे अभिक्रिया करता है?"
+    },
+    {
+      "id": "long_4_2",
+      "question": "Explain the following:",
+      "prashna": "निम्नलिखित की व्याख्या करें:",
+      "sub_questions": {
+        "A": "$PCl_5$ is known whereas $NCl_5$ is not known.",
+        "B": "Fluorine exhibits only one oxidation state whereas other halogens exhibit multiple oxidation states.",
+        "C": "$H_2O$ is a liquid whereas $H_2S$ is a gas.",
+        "D": "Inert gases are monoatomic.",
+        "E": "The bleaching action of chlorine on flowers is permanent whereas that of sulfur dioxide is temporary."
+      },
+      "anuprashna": {
+        "A": "$PCl_5$ ज्ञात है जबकि $NCl_5$ ज्ञात नहीं है।",
+        "B": "फ्लोरीन सिर्फ एक ऑक्सीकरण अवस्था प्रकट करता है जबकि शेष हैलोजस ऑक्सीकरण अवस्था प्रकट करते हैं।",
+        "C": "$H_2O$ तरल है जबकि $H_2S$ गैस है।",
+        "D": "अक्रिय गैसें एक परमाणविक होती है।",
+        "E": "फूलों पर क्लोरीन द्वारा विरंजक गुण स्थायी होती है जबकि सल्फर डाइऑक्साइड द्वारा अस्थायी होता है।"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_1_1",
+      "question": "Write the names of two main ores of iron. Write the method of extraction of iron and also give their chemical equations.",
+      "prashna": "लोहा के दो मुख्य अयस्कों के नाम लिखें। लोहे के निष्कर्षण की विधि को लिखें एवं उनका रासायनिक समीकरण भी दें।"
+    },
+    {
+      "id": "long_1_2",
+      "question": "Write the name of the main ore of aluminium and write the principle of extraction of aluminium.",
+      "prashna": "एल्युमिनियम के मुख्य अयस्क के नाम लिखें तथा एल्युमिनियम के निष्कर्षण के सिद्धांत को लिखें।"
+    },
+    {
+      "id": "long_2_1",
+      "question": "What do you understand by a first-order reaction? Derive the expression for a first-order reaction.",
+      "prashna": "प्रथम कोटि अभिक्रिया से आप क्या समझते हैं?, प्रथम कोटि अभिक्रिया का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2_2",
+      "question": "Define osmotic pressure. Prove that osmotic pressure is a colligative property.",
+      "prashna": "परासरणी दाव की परिभाषा दें। सिद्ध करें कि परासरणी दाव एक अणुसंख्य गुणधर्म है।"
+    },
+    {
+      "id": "long_3_1",
+      "question": "How will you obtain the following from ethyl alcohol?",
+      "prashna": "इथाइल अल्कोहल से निम्नलिखित कैसे प्राप्त करेंगे?",
+      "sub_questions": {
+        "a": "Acetylene",
+        "b": "Acetic acid",
+        "c": "Acetone",
+        "d": "Ethylene",
+        "e": "Diethyl ether"
+      },
+      "anuprashna": {
+        "a": "एसीटीलिन",
+        "b": "एसीटिक अम्ल",
+        "c": "एसीटोन",
+        "d": "इथिलिन",
+        "e": "डाइइथाइल इथर"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "question": "Describe the laboratory method for the preparation of chloroform. Write its reaction with the following-",
+      "prashna": "क्लोरोफॉर्म बनाने की प्रयोगशाला विधि का वर्णन करें। इसकी निम्नलिखित से अभिक्रिया लिखें-",
+      "sub_questions": {
+        "a": "aqueous KOH",
+        "b": "Acetone",
+        "c": "Silver dust"
+      },
+      "anuprashna": {
+        "a": "जलीय KOH",
+        "b": "एसीटोन",
+        "c": "सिल्वर डस्ट"
+      }
+    },
+    {
+      "id": "long_4_1",
+      "question": "Explain why-",
+      "prashna": "बताइए क्यों-",
+      "sub_questions": {
+        "a": "The boiling point of $NH_3$ is higher than that of $PH_3$.",
+        "b": "$H_3PO_3$ is a diprotic acid.",
+        "c": "HF is a weak acid compared to HI.",
+        "d": "Among inert gases, only $Xe$ forms true chemical compounds.",
+        "e": "Write the structural formula of $XeOF_4$."
+      },
+      "anuprashna": {
+        "a": "$NH_3$ का क्वथनांक $PH_3$ से ज्यादा है।",
+        "b": "$H_3PO_3$ एक डाइप्रोटिक अम्ल है।",
+        "c": "$HF$, $HI$ की तुलना में दुर्बल आम्ल है",
+        "d": "अक्रिय गैसों में केवल $Xe$ ही सही रासायनिक यौगिक बनाता है।",
+        "e": "$XeOF_4$ का संरचना सूत्र लिखें।"
+      }
+    },
+    {
+      "id": "long_4_2",
+      "question": "What happens when-",
+      "prashna": "क्या होता है जब-",
+      "sub_questions": {
+        "a": "Sodium acetate is heated with sodalime?",
+        "b": "Calcium carbide reacts with water?",
+        "c": "Acetone reacts with iodine in the presence of an alkali?",
+        "d": "Acetylene is passed through a red hot copper tube?",
+        "e": "Nitrobenzene reacts with Sn/HCl?"
+      },
+      "anuprashna": {
+        "a": "सोडियम एसीटेट को सोडालाइम के साथ गर्म किया जाता है?",
+        "b": "कैल्सियम कार्बाइड जल से अभिक्रिया करता है?",
+        "c": "एसीटोन क्षार की उपस्थिति में आयोडीन से अभिक्रिया करता है?",
+        "d": "एसीटीलिन को लाल तप्त कॉपर नली से गुजारा जाता है?",
+        "e": "नाइट्रोबेन्जीन Sn/HCl से अभिक्रिया करता है?"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_1",
+      "question": "What is the principle of manufacturing ammonia by Haber's process? How is Paitric acid prepared from ammonia? Give the equation.",
+      "prashna": "हैबर पद्धति द्वारा अमोनिया बनाने का सिद्धांत क्या है? अमोनिया से पाइट्रिक अम्ल कैसे बनाया जाता है? समीकरण दें।"
+    },
+    {
+      "id": "long_2",
+      "question": "What do you understand by vapour pressure? What happens to the vapour pressure when (i) a volatile solute is added to a solution, and (ii) a non-volatile solute is added to a solution?",
+      "prashna": "वाष्प दाव से आप क्या समझते हैं? वाष्प दाव में क्या होता है जब (i) वाष्पशील विलेय को विलयन में मिलाते हैं, (ii) अवाष्पशील विलेय को विलयन में मिलाया जाता है?"
+    },
+    {
+      "id": "long_3",
+      "question": "What is the difference between thermoplastic and thermosetting polymers? Give one example of each.",
+      "prashna": "थर्मोप्लास्टिक और थर्मोसेटिंग बहुलकों में क्या अंतर है? प्रत्येक का एक-एक उदाहरण दें।"
+    },
+    {
+      "id": "long_4",
+      "question": "Explain the following with reasons:",
+      "prashna": "निम्नलिखित की कारण सहित व्याख्या करें:",
+      "sub_questions": {
+        "i": "Aniline is soluble in $HCl$.",
+        "ii": "Amines are stronger bases than ammonia.",
+        "iii": "Ethylamine is more basic than aniline.",
+        "iv": "Cyclohexylamine is more basic than aniline.",
+        "v": "Phenol is acidic in nature."
+      },
+      "anuprashna": {
+        "i": "एनिलीन $HCl$ में घुलनशील है।",
+        "ii": "अमीन, अमोनिया से प्रबल क्षार होते हैं।",
+        "iii": "एनिलीन से एथिल अमीन अधिक क्षारीय होते हैं।",
+        "iv": "साइक्लोहेक्सामीन एनिलीन से ज्यादा क्षारीय होते हैं।",
+        "v": "फेनॉल की प्रकृति अम्लीय होती है।"
+      }
+    },
+    {
+      "id": "long_5",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "What is the difference between osmosis and diffusion? Describe the Berkeley and Hartley method for determining osmotic pressure.",
+        "b": "18g of glucose ($C_6H_{12}O_6$) is dissolved in 1 kg of water in a container at 1.013 bar atmospheric pressure. At what temperature will the water boil? For water, $K_b = 0.52K\\ kg\\ mol^{-1}$."
+      },
+      "anuprashna": {
+        "a": "परासरण एवं विसरण में क्या अंतर है? बर्कले एवं हार्टले विधि द्वारा परासरण दाब ज्ञात करने की विधि का वर्णन करें।",
+        "b": "एक पात्र में 18g ग्लूकोज ($C_6H_{12}O_6$) को 1.013 बार वायुमंडलीय दाब पर 1 kg जल में घोला गया। जल किस ताप पर उबलेगा? जल का $K_b = 0.52K\\ kg\\ mol^{-1}$ है।"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_1_1",
+      "question": "Name two main ores of iron. Describe the method of manufacturing iron from its ore. Give chemical equations.",
+      "prashna": "लोहा के दो मुख्य अयस्कों के नाम दें। अयस्क से लोहा बनाने की विधि का वर्णन करें। रासायनिक समीकरण दें।"
+    },
+    {
+      "id": "long_1_2",
+      "question": "Write the names of the main ores of Aluminium. Write the principle of its extraction from the ore.",
+      "prashna": "एल्युमिनियम के मुख्य अयस्कों के नाम लिखें। इसे अयस्क से निष्कासन के सिद्धांत को लिखें।"
+    },
+    {
+      "id": "long_2_1",
+      "question": "Give the equation for the reaction of nitric acid with the following-",
+      "prashna": "निम्नलिखित से नाइट्रिक अम्ल की अभिक्रिया का समीकरण दें-",
+      "sub_questions": {
+        "i": "Copper",
+        "ii": "Iron"
+      },
+      "anuprashna": {
+        "i": "कॉपर",
+        "ii": "लोहा"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "question": "Describe the method of manufacturing sulphuric acid by the lead chamber process with its principle.",
+      "prashna": "लेड कक्ष द्वारा गंधकाम्ल के बनाने की विधि का वर्णन सिद्धांत सहित करें।"
+    },
+    {
+      "id": "long_2_3",
+      "question": "What are the main sources of Iodine? Write about the extraction of iodine from seaweeds.",
+      "prashna": "आयोडीन के मुख्य स्रोत क्या हैं? समुद्री घास-पात से आयोडीन के निष्कासन को लिखें।"
+    },
+    {
+      "id": "long_3_1",
+      "question": "How will you prepare ethyl amine in the laboratory?",
+      "prashna": "प्रयोगशाला में इथाइल एमीन कैसे तैयार करेंगे?"
+    },
+    {
+      "id": "long_3_2",
+      "question": "How will you prepare aniline in the laboratory?",
+      "prashna": "प्रयोगशाला में एनीलीन कैसे तैयार करेंगे ?"
+    },
+    {
+      "id": "long_3_3",
+      "question": "What is carbohydrate? How are they classified?",
+      "prashna": "कार्बोहाइड्रेट क्या है? इनका वर्गीकरण कैसे किया जाता है?"
+    },
+    {
+      "id": "long_4_1",
+      "question": "Explain why -",
+      "prashna": "बताइए क्यों -",
+      "sub_questions": {
+        "a": "The boiling point of $NH_3$ is higher than that of $PH_3$.",
+        "b": "Chloroacetic acid is stronger than acetic acid.",
+        "c": "Among inert gases, only Xe forms chemical compounds.",
+        "d": "HF is a weaker acid compared to HI.",
+        "e": "$H_3PO_3$ is a di-protic acid."
+      },
+      "anuprashna": {
+        "a": "$NH_3$ का क्वथनांक $PH_3$ से ज्यादा है।",
+        "b": "क्लोरोऐसिटिक अम्ल ऐसिटिक अम्ल से प्रबल है।",
+        "c": "अक्रिय गैसों में केवल Xe ही रासायनिक यौगिक बनाता है।",
+        "d": "HF, HI की तुलना में दुर्बल अम्ल है।",
+        "e": "$H_3PO_3$ एक डाइ-प्रोटिक अम्ल है।"
+      }
+    },
+    {
+      "id": "long_4_2",
+      "question": "What happens when-",
+      "prashna": "क्या होता है जब-",
+      "sub_questions": {
+        "a": "Sodium acetate is heated with soda lime?",
+        "b": "Calcium carbide is reacted with water?",
+        "c": "Acetylene is passed through a red hot copper tube?",
+        "d": "Methane reacts with chlorine in indirect sunlight?",
+        "e": "Ethyl alcohol is oxidized?"
+      },
+      "anuprashna": {
+        "a": "सोडियम ऐसिटेट को सोडा लाइम के साथ गर्म करते हैं?",
+        "b": "कैल्सियम कार्बाइड को जल से अभिक्रिया कराते हैं?",
+        "c": "एसीटीलीन का लाल तप्त कॉपर नली से प्रवाहित कराते हैं?",
+        "d": "मिथेन सूर्य के अप्रत्यक्ष प्रकाश में क्लोरीन से अभिक्रिया करता है?",
+        "e": "इथाइल अल्कोहल का ऑक्सीकरण होता है?"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_1",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "What do you understand by 'elevation in boiling point'?",
+        "B": "State Raoult's law. How is it used to determine the molecular mass of a non-electrolyte solute?"
+      },
+      "anuprashna": {
+        "A": "'क्वथनांक के उन्नयन' से आप क्या समझते हैं?",
+        "B": "राउल्ट नियम का उल्लेख करें। यह विद्युत-अनपघट्य घुल्य का अणुभार ज्ञात करने में किस प्रकार उपयोग है?"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "What is a carbocation? Explain.",
+        "B": "How will you prepare benzoic acid from aniline?"
+      },
+      "anuprashna": {
+        "A": "कार्बेकिटायन क्या है? व्याख्या करें।",
+        "B": "एनिलीन से बेंजोइक अम्ल कैसे बनाएँगे?"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "What is the difference between osmosis and diffusion? Describe the Berkeley and Hartley method for determining osmotic pressure.",
+        "B": "In a container, 18g of glucose ($C_6H_{12}O_6$) is dissolved in 1kg of water at 1.013 bar atmospheric pressure. At what temperature will the water boil? For water, $K_b = 0.52\\text{K kg mol}^{-1}$"
+      },
+      "anuprashna": {
+        "A": "परासरण एवं विसरण में क्या अंतर है? बर्कले एवं हार्टले विधि द्वारा परासरण दाब ज्ञात करने की विधि का वर्णन करें।",
+        "B": "एक पात्र में 18g ग्लूकोज ($C_6H_{12}O_6$) को 1.013 बार वायुमंडलीय दाब पर 1kg जल में घोला गया तो जल किस ताप पर उबलेगा? जल का $K_b = 0.52\\text{K kg mol}^{-1}$"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "Describe the principle of production of nitric acid from ammonia.",
+        "B": "Write the reaction of copper metal with 50% dilute nitric acid."
+      },
+      "anuprashna": {
+        "A": "अमोनिया से नाइट्रिक अम्ल उत्पादन के सिद्धांत का वर्णन करें।",
+        "B": "ताम्र धातु के साथ 50% तनु नाइट्रिक अम्ल की अभिक्रिया लिखें।"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "question": "What happens when-",
+      "prashna": "क्या होता है जब-",
+      "sub_questions": {
+        "A": "Ethyne is reacted with cold alkaline $KMnO_4$ solution?",
+        "B": "Acetaldehyde is heated with bleaching powder?",
+        "C": "Ethyl alcohol is oxidized?"
+      },
+      "anuprashna": {
+        "A": "इथाइन को ठंडे क्षारीय $KMnO_4$ घोल के साथ अभिक्रिया करायी जाती है?",
+        "B": "ऐसीटल्डिहाइड को विरंजक चूर्ण के साथ गर्म किया जाता है?",
+        "C": "इथाइल अल्कोहॉल का ऑक्सीकरण होता है?"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "Clarify the difference between methyl alcohol and ethyl alcohol.",
+        "B": "How will you carry out the following conversions? (i) Aniline to Phenol (ii) Phenol to Benzene (iii) Ethane to Butane"
+      },
+      "anuprashna": {
+        "A": "मिथाइल अल्कोहॉल एवं इथाइल अल्कोहॉल के बीच का अन्तर स्पष्ट करें।",
+        "B": "निम्नलिखित परिवर्तन आप कैसे करेंगे ? (i) एनिलिन से फेनॉल (ii) फेनॉल से बेंजीन (iii) इथेन से ब्यूटेन"
+      }
+    },
+    {
+      "id": "long_4_1",
+      "question": "Write the names of two main ores of iron and write the reaction for its extraction from its ore.",
+      "prashna": "लोहा के दो मुख्य अयस्कों के नाम लिखें तथा उसके अयस्क से निष्कासन की अभिक्रिया को लिखें।"
+    },
+    {
+      "id": "long_4_2",
+      "question": "Write the name of the main ore of aluminium and write the reaction for its extraction from its ore.",
+      "prashna": "एल्युमिनियम के मुख्य अयस्क का नाम लिखें तथा उसे अयस्क से निष्कासन की अभिक्रिया को लिखें।"
+    },
+    {
+      "id": "long_4_3",
+      "question": "What are the main sources of iodine? Describe the extraction of iodine from seaweed.",
+      "prashna": "आयोडीन के मुख्य स्रोत क्या है? समुद्री घास से आयोडीन के निष्कासन का वर्णन करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1_1",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "What do you understand by depression in freezing point?",
+        "B": "Write Raoult's law related to the depression in freezing point. How will you determine the molecular weight of any non-volatile and non-electrolyte solute by this law?"
+      },
+      "anuprashna": {
+        "A": "हिमांक के अवनमन से आप क्या समझते हैं?",
+        "B": "हिमांक के अवनमन सम्बन्धी राउल्ट के नियम लिखें। इस नियम से किसी भी अवाष्पशील एवं नॉन-इलेक्ट्रोलाइट विलेय (solute) का अणु-भार कैसे ज्ञात करेंगे?"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "What do you understand by relative lowering of vapour pressure?",
+        "B": "A 1% solution of aniline in ether was found to have a relative lowering of 0.007. Find the molecular weight of aniline."
+      },
+      "anuprashna": {
+        "A": "वाष्प दाब के सापेक्ष अवनमन से आप क्या समझते हैं?",
+        "B": "ऐनलीन के ईथर में 1% घोल का सापेक्ष अवनमन 0.007 पाया गया। ऐनलीन का अणु भार ज्ञात करें।"
+      }
+    },
+    {
+      "id": "long_2",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "Write only the principle for the commercial preparation of sulphuric acid by the Contact process.",
+        "B": "Complete the following equations: (i) $KBr + Cl_2 \\rightarrow .......... + ..........$ (ii) $I_2 + H_2O + Cl_2 \\rightarrow .......... + ..........$ (iii) $NaOH + Cl_2 \\rightarrow .......... + .......... + ..........$ (dilute and cold)"
+      },
+      "anuprashna": {
+        "A": "कान्टेक्ट विधि द्वारा व्यापारिक विधि से गंधकाम्ल बनाने में सिर्फ सिद्धांत को लिखें।",
+        "B": "निम्नलिखित समीकरणों को पूर्ण करें- (i) $KBr + Cl_2 \\rightarrow .......... + ..........$ (ii) $I_2 + H_2O + Cl_2 \\rightarrow .......... + ..........$ (iii) $NaOH + Cl_2 \\rightarrow .......... + .......... + ..........$ तनु एवं शीतल"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "question": "Write the names of the following coordination compounds:",
+      "prashna": "निम्नलिखित उप सहसंयोजक यौगिकों का नाम लिखें:",
+      "sub_questions": {
+        "i": "$K_4[Fe(CN)_6]$",
+        "ii": "$Ni(CO)_4$",
+        "iii": "$K_2[Pt(Cl)_6]$",
+        "iv": "$Co(NH_3)_3$",
+        "v": "$Fe_4[Fe(CN)_6]_3$"
+      },
+      "anuprashna": {
+        "i": "$K_4[Fe(CN)_6]$",
+        "ii": "$Ni(CO)_4$",
+        "iii": "$K_2[Pt(Cl)_6]$",
+        "iv": "$Co(NH_3)_3$",
+        "v": "$Fe_4[Fe(CN)_6]_3$"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "Write Werner's theory of coordination compounds.",
+        "B": "What is a ligand? Classify them with examples."
+      },
+      "anuprashna": {
+        "A": "वर्नर के उप सहसंयोजक सिद्धांत लिखें।",
+        "B": "लीगेन्ड क्या है? उदाहरण के साथ उनका वर्गीकरण करें।"
+      }
+    },
+    {
+      "id": "long_4_1",
+      "question": "What happens when-",
+      "prashna": "क्या होता है जब-",
+      "sub_questions": {
+        "A": "Ethene is passed through concentrated sulphuric acid and the product is boiled with water?",
+        "B": "Ethyl ethanoate is boiled with aqueous KOH solution?",
+        "C": "Methyl magnesium iodide and methanol are heated?",
+        "D": "Acetaldehyde is heated with Tollen's reagent?",
+        "E": "A basic solution of phenol is heated with $CO_2$ under high pressure, and the product is heated with acidic water?"
+      },
+      "anuprashna": {
+        "A": "इथीन को सान्द्र गंधकाम्ल में प्रवाहित करते हैं एवं उत्पाद को जल के साथ उबालते हैं?",
+        "B": "इथाइल इथेनोएट को जलीय KOH घोल के साथ उबाला जाता है?",
+        "C": "मिथाइल मैग्नीशियम आयोडाइड एवं मेथनॉल को गर्म करते हैं?",
+        "D": "एसीटैल्डिहाइड को टॉलिनस प्रतिकारक के साथ गर्म करते हैं?",
+        "E": "फीनॉल के भस्मीय घोल को $CO_2$ के साथ उच्च दाब पर गर्म कर, उत्पाद को अम्लीय जल के साथ गर्म करते हैं?"
+      }
+    },
+    {
+      "id": "long_4_2",
+      "question": "What happens when-",
+      "prashna": "क्या होता है जब-",
+      "sub_questions": {
+        "A": "Propene is passed through concentrated sulphuric acid, and the product is treated with water?",
+        "B": "Methoxyethane and HI are heated?",
+        "C": "Ethanol is heated with Fenton's reagent?",
+        "D": "Toluene is heated with chromyl chloride and $CS_2$, and the product is heated with water?",
+        "E": "Crotonaldehyde is reacted with $LiAlH_4$ / dry ether, and the product is again reacted with acidic water?"
+      },
+      "anuprashna": {
+        "A": "प्रोपीन को सान्द्र गंधकाम्ल से प्रवाहित कर, उत्पाद को जल के साथ उपचारित करते हैं?",
+        "B": "मिथॉक्सी ईथेन एवं HI को गर्म करते हैं?",
+        "C": "इथेनॉल को फेनटॉन्स प्रतिकारक के साथ गर्म करते हैं?",
+        "D": "टाल्युईन को क्रोमाइल क्लोराइड एवं $CS_2$ के साथ गर्म कर, उत्पाद को जल के साथ गर्म करते हैं?",
+        "E": "क्रोटोनलडिहाइड को $LiAlH_4$ / शुष्क ईथर में प्रतिक्रिया कराते हैं, एवं उत्पाद को अम्लीय जल के साथ पुनः प्रतिक्रिया कराते हैं?"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_1_1",
+      "question": "Describe the kinetics of a first order reaction. Why is a first order reaction never completed?",
+      "prashna": "प्रतिक्रिया के प्रथम कोटि के गतिकी का वर्णन करें। क्यों प्रथम कोटि की प्रतिक्रिया कभी पूर्ण नहीं होती है?"
+    },
+    {
+      "id": "long_1_2",
+      "question": "For a chemical reaction the energy of activation is 80kJ $mol^{-1}$. If frequency factor is $4.0 \\times 10^{10} L mol^{-1} s^{-1}$. What is rate constant at 400 K?",
+      "prashna": "किसी प्रतिक्रिया की उत्तेजन ऊर्जा 80kJ $mol^{-1}$ है। यदि प्रतिक्रिया का आवृति गुणक $4.0 \\times 10^{10} L mol^{-1} s^{-1}$ हो तो प्रतिक्रिया का वेग स्थिरांक 400K पर निकालें।"
+    },
+    {
+      "id": "long_2_1",
+      "question": "Write the test by which following are distinguished:",
+      "prashna": "निम्नलिखित में अंतर स्पष्ट करने के लिए जाँच / जाँचों को लिखें।",
+      "sub_questions": {
+        "i": "Ethanol and Acetaldehyde",
+        "ii": "Phenol and carboxylic acid",
+        "iii": "Aldehyde and Ketone",
+        "iv": "Formic acid and acetic acid",
+        "v": "Primary, secondary and tertiary alcohols"
+      },
+      "anuprashna": {
+        "i": "इथेनॉल और एसिटलडिहाइड",
+        "ii": "फिनॉल और कार्बोक्सिलिक अम्ल",
+        "iii": "एल्डिहाइड और किटोन",
+        "iv": "फॉर्मिक अम्ल और एसिटिक अम्ल",
+        "v": "प्राइमरी, सेकेण्डरी एवं टरशियरी अल्कॉहल"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "question": "Describe the following reactions:",
+      "prashna": "निम्नलिखित अभिक्रियाओं का वर्णन करें:",
+      "sub_questions": {
+        "i": "Hofmann bromamide reaction",
+        "ii": "Clemmensen's reduction of Aldehyde and Ketone"
+      },
+      "anuprashna": {
+        "i": "हॉफमैन ब्रोमामाइड अभिक्रिया",
+        "ii": "एल्डिहाइड और कीटोन का क्लेमेनसन अवकरण"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "question": "What are the important ores of copper? How is copper extracted from copper pyrites?",
+      "prashna": "कॉपर के मुख्य अयस्क कौन हैं? कॉपर पायराइट्स से कॉपर का निष्कर्षण कैसे किया जाता है?"
+    },
+    {
+      "id": "long_3_2",
+      "question": "What happens when :-",
+      "prashna": "क्या होता है जब कि -",
+      "sub_questions": {
+        "i": "Chlorine gas reacts with NaOH solution.",
+        "ii": "Nitric acid reacts with Zn in different concentrations."
+      },
+      "anuprashna": {
+        "i": "क्लोरीन गैस NaOH विलयन के साथ प्रतिक्रिया करती है।",
+        "ii": "नाइट्रिक अम्ल Zn से विभिन्न सान्द्रणों पर प्रतिक्रिया करता है।"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_1",
+      "question": "Define osmotic pressure. Prove that osmatic pressure is a colligative property.",
+      "prashna": "परासरणी दाब की परिभाषा दें? सिद्ध करें की परासरणी दाब एक अणु संख्यक गुण धर्म है।"
+    },
+    {
+      "id": "long_2",
+      "question": "Find the expression for first order reaction.",
+      "prashna": "प्रथम कोटि अभिक्रिया के व्यंजक तैयार करें।"
+    },
+    {
+      "id": "long_3",
+      "question": "Write in brief how Aluminium is extracted from Bauxite?",
+      "prashna": "बॉक्साइट से एल्युमीनियम निष्कर्षण की विधि को संक्षिप्त में लिखें।"
+    },
+    {
+      "id": "long_4",
+      "question": "What happens when-",
+      "prashna": "क्या होता है जब -",
+      "sub_questions": {
+        "A": "Sodium acetate is heated with soda lime?",
+        "B": "Calcium carbide is allowed to react with water?"
+      },
+      "anuprashna": {
+        "A": "सोडियम एसीटेट को सोडा लाइम के साथ गर्म किया जाता है?",
+        "B": "कैल्शियम कार्बाइड को जल से अभिक्रिया कराया जाता है?"
+      }
+    },
+    {
+      "id": "long_5",
+      "question": "What are the main sources of Iodine? How is it extracted from sea weeds?",
+      "prashna": "आयोडीन के मुख्य स्त्रोत क्या है? इसे समुद्री घास से कैसे प्राप्त किया जाता है?"
+    },
+    {
+      "id": "long_6",
+      "question": "What happens when",
+      "prashna": "क्या होता है जब -",
+      "sub_questions": {
+        "A": "Calcium formate is heated strongly?",
+        "B": "Methanol reacts with ammonia?"
+      },
+      "anuprashna": {
+        "A": "कैल्शियम फॉर्मेट को तेज गर्म करते हैं?",
+        "B": "मिथेनॉल, अमोनिया से अभिक्रिया करता है?"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_1",
+      "question": "Name two important ores of Iron. How is it extracted from its chief ore? Give reactions.",
+      "prashna": "लोहे के दो मुख्य अयस्कों का नाम लिखें तथा मुख्य अयस्क से लोहे का निष्कर्षण कैसे करेंगे? अभिक्रिया दें।"
+    },
+    {
+      "id": "long_2",
+      "question": "What are the main sources of Iodine? How is it extracted from sea weeds?",
+      "prashna": "आयोडिन का मुख्य स्त्रोत क्या है ? इसे समुद्री घास से कैसे निकाला जाता है ?"
+    },
+    {
+      "id": "long_3",
+      "question": "How is sulphuric acid manufactured by Lead Chamber process ?",
+      "prashna": "गंधकाम्ल का उत्पादन लेड कक्ष विधि द्वारा कैसे किया जाता है ?"
+    },
+    {
+      "id": "long_4",
+      "question": "What are Carbohydrates? How are they classified?",
+      "prashna": "कार्बोहाइड्रेट क्या है? इसका वर्गीकरण कैसे किया जाता है?"
+    },
+    {
+      "id": "long_5",
+      "question": "What happens when ?",
+      "prashna": "क्या होता है जब ?",
+      "sub_questions": {
+        "A": "Calcium acetate is heated.",
+        "B": "Ethyl amine reacts with $HNO_2$.",
+        "C": "Acetylene is passed through red hot copper tube?",
+        "D": "Benzene is heated with a mixture of concentrated $HNO_3$ and $H_2SO_4$.",
+        "E": "Ethyl alcohol is oxidised."
+      },
+      "anuprashna": {
+        "A": "कैल्सियम एसिटेट को गर्म करते हैं ।",
+        "B": "एथिल एमीन, $HNO_2$ से प्रतिक्रिया करता है।",
+        "C": "एसीटीलीन को लाल तप्त कॉपर नली से प्रवाहित करते हैं।",
+        "D": "बेंजिन को सान्द्र $HNO_3$ एवं $H_2SO_4$ के मिश्रण के साथ गर्म किया जाता है।",
+        "E": "इथाइल अल्कोहल का ऑक्सीकरण होता है।"
+      }
+    },
+    {
+      "id": "long_6",
+      "question": "Discuss the following ($2\\frac{1}{2} + 2\\frac{1}{2}=5$)",
+      "prashna": "निम्न की व्याख्या करें :- ($2\\frac{1}{2} + 2\\frac{1}{2}=5$)",
+      "sub_questions": {
+        "A": "Kolbe's reaction",
+        "B": "Carbylamine reaction"
+      },
+      "anuprashna": {
+        "A": "कोल्बे अभिक्रिया",
+        "B": "कार्बाइल ऐमीन अभिक्रिया"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_1",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "Write the principle of manufacture of sulphuric acid by contact process.",
+        "b": "Write the reactions of concentrated sulphuric acid with oxalic acid."
+      },
+      "anuprashna": {
+        "a": "गन्धकाम्ल उत्पादन की सम्पर्क विधि का सिद्धान्त लिखें।",
+        "b": "ऑक्जेलिक अम्ल के साथ सान्द्र गंधकाम्ल की अभिक्रिया लिखें।"
+      }
+    },
+    {
+      "id": "long_2",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "Derive an expression for the rate constant of a first order reaction.",
+        "b": "What is the difference between osmosis and diffusion ?"
+      },
+      "anuprashna": {
+        "a": "प्रथम कोटि की अभिक्रिया के लिए गति स्थिरांक का व्यंजक ज्ञात करें।",
+        "b": "परासरण और विसरण में क्या अंतर है ?"
+      }
+    },
+    {
+      "id": "long_3",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "What happens when i) Methyl bromide is treated with sodium in presence of dry ether? ii) Ethyl acetate is hydrolysed in presence of acid?",
+        "b": "Write the structures of compounds whose IUPAC names are as follows : i) 2-Butanol ii) N, N-dimethyl methanamine iii) 2-Aminotoluene"
+      },
+      "anuprashna": {
+        "a": "क्या होता जब i) शुष्क ईथर की उपस्थिति में मेथिल ब्रोमाइड की अभिक्रिया सोडियम से होती है ? ii) अम्ल की उपस्थिति में ईथाइल एसीटेट का जल अपघटन किया जाता है ?",
+        "b": "निम्नलिखित आई०यू०पी०ए०सी० नाम वाले यौगिकों की संरचनाएँ लिखिए : i) 2-ब्यूटेनॉल ii) N, N-डाईमेथिल मिथेनामाइन iii) 2-एमीनोटॉलूईन"
+      }
+    },
+    {
+      "id": "long_4",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "Among HF, HCl, HBr and HI, which is the strongest reducing agent ?",
+        "b": "Complete the following reactions: i) $C_2H_4 + O_2 \\rightarrow$ ii) $4Al + 3O_2 \\rightarrow$"
+      },
+      "anuprashna": {
+        "a": "HF, HCl, HBr एवं HI में सबसे प्रबल अवकारक कौन है ?",
+        "b": "निम्नलिखित अभिक्रियाओं को पूर्ण कीजिए : i) $C_2H_4 + O_2 \\rightarrow$ ii) $4Al + 3O_2 \\rightarrow$"
+      }
+    },
+    {
+      "id": "long_5",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "What are artificial sweetening agents ? Give two examples.",
+        "b": "What are essential and non-essential amino acids ? Give examples of each type."
+      },
+      "anuprashna": {
+        "a": "कृत्रिम मधुरक क्या है ? दो उदाहरण दीजिए।",
+        "b": "आवश्यक तथा अनावश्यक ऐमीनो अम्ल क्या होते हैं ? प्रत्येक का उदाहरण दीजिए।"
+      }
+    },
+    {
+      "id": "long_6",
+      "question": "What is elevation of boiling point ? Find the relation between elevation of boiling point and molar mass of solute.",
+      "prashna": "क्वथनांक उन्नयन से आप क्या समझते हैं ? क्वथनांक उन्नयन तथा घुल्य के अणुभार के बीच संबंध स्थापित करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "question": "How does $SO_2$ react with the acidic solution of the following?",
+      "prashna": "$SO_2$ निम्नलिखित के अम्लीय घोल से किस प्रकार अभिक्रिया करता है ?",
+      "sub_questions": {
+        "i": "$KMnO_4$",
+        "ii": "$K_2Cr_2O_7$"
+      },
+      "anuprashna": {
+        "i": "$KMnO_4$",
+        "ii": "$K_2Cr_2O_7$"
+      }
+    },
+    {
+      "id": "long_2",
+      "question": "Write the principle of manufacture of ammonia by Haber's process. How does it react with $CuSO_4$ solution?",
+      "prashna": "हैबर विधि से अमोनिया के निर्माण का सिद्धान्त लिखें। यह कॉपर सल्फेट घोल से किस प्रकार अभिक्रिया करता है ?"
+    },
+    {
+      "id": "long_3",
+      "question": "How would you distinguish among Primary, Secondary and Tertiary alcohols ?",
+      "prashna": "प्राइमरी, सेकेण्डरी एवं टर्शियरी ऐल्कोहॉल में आप कैसे विभेद करेंगे ?"
+    },
+    {
+      "id": "long_4",
+      "question": "What do you understand by rate of a reaction? Discuss the factors on which rate of a reaction depends.",
+      "prashna": "अभिक्रिया के वेग से आप क्या समझते हैं ? अभिक्रिया का वेग किन-किन बातों पर निर्भर करता है, चर्चा करें।"
+    },
+    {
+      "id": "long_5",
+      "question": "What is Emulsion ? How many types of it are there ? Give an example of each type.",
+      "prashna": "पायस क्या है ? यह कितने प्रकार का होता है ? प्रत्येक प्रकार के पायस का एक-एक उदाहरण दें।"
+    },
+    {
+      "id": "long_6",
+      "question": "What happens when —",
+      "prashna": "क्या होता है जब –",
+      "sub_questions": {
+        "a": "Formic acid reacts with ammoniacal silver nitrate solution ?",
+        "b": "Aniline reacts with chloroform and NaOH ?"
+      },
+      "anuprashna": {
+        "a": "फार्मिक अम्ल की अभिक्रिया अमोनियायुक्त सिल्वर नाइट्रेट के विलयन से कराई जाती है ?",
+        "b": "ऐनीलिन की अभिक्रिया क्लोरोफार्म तथा NaOH के साथ कराई जाती है ?"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_1",
+      "question": "What is the effect of temperature on reaction rate ? What is Arrhenius equation ?",
+      "prashna": "अभिक्रिया के वेग पर ताप का किस प्रकार प्रभाव पड़ता है ? आरहेनियस समीकरण क्या है ?"
+    },
+    {
+      "id": "long_2",
+      "question": "What is electrochemical cell ? Explain the structure of an electrochemical cell.",
+      "prashna": "विद्युत-रासायनिक सेल क्या है ? एक विद्युत-रासायनिक सेल की बनावट का वर्णन करें।"
+    },
+    {
+      "id": "long_3",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "i": "Explain the principle of manufacturing sulphuric acid by contact process.",
+        "ii": "Write the reaction of conc. sulphuric acid with oxalic acid."
+      },
+      "anuprashna": {
+        "i": "सम्पर्क विधि से गन्धकाम्ल के उत्पादन का सिद्धांत का वर्णन करें।",
+        "ii": "ऑक्जेलिक अम्ल के साथ सांद्र गंधकाम्ल की अभिक्रिया लिखें।"
+      }
+    },
+    {
+      "id": "long_4",
+      "question": "\"Compounds of transition elements are paramagnetic and coloured.\" Explain.",
+      "prashna": "\"संक्रमण तत्वों के यौगिक अनुचुम्बकीय एवं रंगीन होते हैं।\" व्याख्या करें।"
+    },
+    {
+      "id": "long_5",
+      "question": "How would you distinguish between the following compounds by chemical test ?",
+      "prashna": "रासायनिक परीक्षण द्वारा निम्नलिखित यौगिकों में कैसे विभेद करेंगे ?",
+      "sub_questions": {
+        "i": "Formaldehyde and Acetaldehyde",
+        "ii": "Acetaldehyde and Acetone."
+      },
+      "anuprashna": {
+        "i": "फार्मल्डिहाइड एवं ऐसीटैल्डिहाइड",
+        "ii": "ऐसीटैल्डिहाइड एवं ऐसीटोन।"
+      }
+    },
+    {
+      "id": "long_6",
+      "question": "\"Formic acid behaves both as an aldehyde and an acid.\" Explain.",
+      "prashna": "\"फार्मिक अम्ल ऐल्डिहाइड और अम्ल दोनों जैसा आचरण करता है।\" वर्णन करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_1",
+      "question": "What do you understand by rate of a reaction? What factors affect the rate of a reaction? Discuss.",
+      "prashna": "अभिक्रिया के वेग से आप क्या समझते हैं ? अभिक्रिया वेग किन-किन बातों पर निर्भर करता है ? व्याख्या करें।"
+    },
+    {
+      "id": "long_2",
+      "question": "What is soap? How does it act in the cleansing of clothes ?",
+      "prashna": "साबुन क्या है ? कपड़ा साफ करने में यह किस प्रकार कार्य करता है ?"
+    },
+    {
+      "id": "long_3",
+      "question": "Write the principle of manufacture of ammonia by Haber's process. How does it react with $CuSO_4$ solution ?",
+      "prashna": "हेबर विधि से अमोनिया निर्माण का सिद्धान्त लिखें। यह कॉपर सल्फेट घोल से किस प्रकार अभिक्रिया करता है ?"
+    },
+    {
+      "id": "long_4",
+      "question": "How would you distinguish among primary, secondary and tertiary alcohols ?",
+      "prashna": "प्राइमरी, सेकेण्डरी एवं टर्शियरी एल्कोहॉलों में आप कैसे विभेद करेंगे ?"
+    },
+    {
+      "id": "long_5",
+      "question": "Explain the following with examples :",
+      "prashna": "निम्नलिखित को उदाहरण सहित समझाइए :",
+      "sub_questions": {
+        "i": "Aldol condensation",
+        "ii": "Cannizzaro's reaction."
+      },
+      "anuprashna": {
+        "i": "ऐल्डॉल संघनन",
+        "ii": "कैनिजारो अभिक्रिया।"
+      }
+    },
+    {
+      "id": "long_6",
+      "question": "Write IUPAC names of the following:",
+      "prashna": "निम्नलिखित के IUPAC नाम लिखें :",
+      "sub_questions": {
+        "i": "$CH_3-CH(OH)-COOH$",
+        "ii": "$HOOC-CH_2-CH_2-COOH$",
+        "iii": "$CHCl_2-COOH$",
+        "iv": "$CH_3-CH=CH-COOH$",
+        "v": "$CH_3-CO-CH_2-COOH$"
+      },
+      "anuprashna": {
+        "i": "$CH_3-CH(OH)-COOH$",
+        "ii": "$HOOC-CH_2-CH_2-COOH$",
+        "iii": "$CHCl_2-COOH$",
+        "iv": "$CH_3-CH=CH-COOH$",
+        "v": "$CH_3-CO-CH_2-COOH$"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_1",
+      "question": "This question has sub-questions.",
+      "prashna": "इस प्रश्न के उप-प्रश्न हैं।",
+      "sub_questions": {
+        "A": "What is Raoult's law?",
+        "B": "Obtain an expression for the determination of molecular mass of a solute from relative lowering of Vapour pressure."
+      },
+      "anuprashna": {
+        "A": "राउल्ट का नियम क्या है?",
+        "B": "वाष्प दाब के आपेक्षिक अवनमन से किसी विलेय के आण्विक द्रव्यमान के निर्धारण के लिए व्यंजक प्राप्त करें।"
+      }
+    },
+    {
+      "id": "long_2",
+      "question": "This question has sub-questions.",
+      "prashna": "इस प्रश्न के उप-प्रश्न हैं।",
+      "sub_questions": {
+        "A": "Differentiate between order of reaction and molecularity of a reaction.",
+        "B": "Differentiate between Lyophilic and Lyophobic sols."
+      },
+      "anuprashna": {
+        "A": "अभिक्रिया की अणुकता एवं अभिक्रिया की कोटि में अंतर बतायें।",
+        "B": "लयोफिलिक एवं लायोफोबिक सॉल में विभेद करें।"
+      }
+    },
+    {
+      "id": "long_3",
+      "question": "Write in brief the process of extraction of Al from Bauxite ore.",
+      "prashna": "बॉक्साइट अयस्क से एल्युमीनियम के निष्कर्षण की विधि को संक्षेप में लिखें।"
+    },
+    {
+      "id": "long_4",
+      "question": "What are the main sources of Iodine? How is it extracted from sea weeds?",
+      "prashna": "आयोडीन के मुख्य स्रोत क्या हैं? इसे समुद्री घास से कैसे प्राप्त किया जाता है"
+    },
+    {
+      "id": "long_5",
+      "question": "Write short notes on the following:",
+      "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखें:",
+      "sub_questions": {
+        "A": "Rosenmund reduction",
+        "B": "Perkin's reaction"
+      },
+      "anuprashna": {
+        "A": "रोजेनमुंड अवकरण",
+        "B": "पर्किन अभिक्रिया"
+      }
+    },
+    {
+      "id": "long_6",
+      "question": "How are following conversions brought about?",
+      "prashna": "निम्नलिखित परिवर्त्तन कैसे किये जाते हैं?",
+      "sub_questions": {
+        "A": "Acetylene to Iodoform",
+        "B": "Acetic acid to Acetone"
+      },
+      "anuprashna": {
+        "A": "एसीटिलीन से आयोडोफॉर्म",
+        "B": "एसीटिक अम्ल से ऐसीटोन"
+      }
+    }
+  ]
+}
