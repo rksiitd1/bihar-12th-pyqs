@@ -1,0 +1,92 @@
+{
+  "2011": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "What do you understand by an ecosystem?",
+      "prashna": "एक पारिस्थितिकी तंत्र से आप क्या समझते हैं ?"
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "What is a food web? Name the organisms of two food chains of a grassland ecosystem.",
+      "prashna": "आहार जाल किसे कहते हैं? एक मैदानी पारिस्थितिकी तंत्र के दो आहर श्रृंखलाओं के जीवों के नाम लिखें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "What is global warming? Describe its effects and measures for its control.",
+      "prashna": "ग्लोबल वार्मिंग क्या है? उसके प्रभाव और मुक्ति के उपायों का वर्णन करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "Show pond ecosystem with the help of diagram only.",
+      "prashna": "तालाबीय पारिस्थितिक तंत्र को सिर्फ चित्र द्वारा दर्शाएँ।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "Define any two of the followings :",
+      "prashna": "निम्नांकित किन्हीं दो को परिभाषित करें :-",
+      "sub_questions": {
+        "A": "Trophic level",
+        "B": "Ecological Pyramid",
+        "C": "Tissue culture",
+        "D": "Embryo culture"
+      },
+      "anuprashna": {
+        "A": "पोषी स्तर",
+        "B": "पारिस्थितिक पिरामिड",
+        "C": "उत्तक संवर्धन",
+        "D": "भ्रूण संवर्धन"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "Differentiate between Food chain and Food-web.",
+      "prashna": "खाद्य श्रृंखला तथा खाद्य जाल में अंतर स्पष्ट करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "What are the primary and secondary productivities ?",
+      "prashna": "प्राथमिक एवं द्वितीयक उत्पादकता क्या हैं ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Ecosystem",
+      "question": "Explain the pyramid of energy.",
+      "prashna": "ऊर्जा के पिरामिड की व्याख्या करें।"
+    }
+  ]
+}
