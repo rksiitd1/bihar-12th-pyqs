@@ -1,0 +1,676 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "For which of the following, the depression in freezing point will be maximum?",
+        "prashna": "निम्नलिखित में किसके लिए हिमांक का अवनमन अधिकतम होगा?",
+        "options": {
+            "A": "$K_2SO_4$",
+            "B": "$NaCl$",
+            "C": "Urea",
+            "D": "Glucose"
+        },
+        "vikalpa": {
+            "A": "$K_2SO_4$",
+            "B": "$NaCl$",
+            "C": "यूरिया",
+            "D": "ग्लूकोज"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "The unit of rate constant for a first-order reaction is",
+        "prashna": "प्रथम कोटि की अभिक्रिया के लिए वेग स्थिरांक की इकाई होती है",
+        "options": {
+            "A": "$time^{-1}$",
+            "B": "$mol \\cdot L^{-1} \\cdot s^{-1}$",
+            "C": "$L \\cdot mol^{-1} \\cdot s^{-1}$",
+            "D": "$L \\cdot mol^{-1} \\cdot s^{-1}$"
+        },
+        "vikalpa": {
+            "A": "समय$^{-1}$",
+            "B": "मोल लीटर $^{-1}$ सेकेण्ड $^{-1}$",
+            "C": "लीटर मोल $^{-1}$ सेकेण्ड $^{-1}$",
+            "D": "लीटर मोल $^{-1}$ सेकेण्ड $^{-1}$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "$H_3PO_3$ is a",
+        "prashna": "$H_3PO_3$ है एक",
+        "options": {
+            "A": "monobasic acid",
+            "B": "dibasic acid",
+            "C": "tribasic acid",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एकभास्मिक अम्ल",
+            "B": "द्विभास्मिक अम्ल",
+            "C": "त्रिभास्मिक अम्ल",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Which of the following transition metal ions is paramagnetic?",
+        "prashna": "निम्नलिखित में कौन संक्रमण धातु का आयन अनुचुम्बकीय है?",
+        "options": {
+            "A": "$Co^{2+}$",
+            "B": "$Ni^{2+}$",
+            "C": "$Cu^{2+}$",
+            "D": "$Zn^{2+}$"
+        },
+        "vikalpa": {
+            "A": "$Co^{2+}$",
+            "B": "$Ni^{2+}$",
+            "C": "$Cu^{2+}$",
+            "D": "$Zn^{2+}$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "The impurity present in the ore is called",
+        "prashna": "अयस्क में उपस्थित अशुद्धि को कहते हैं",
+        "options": {
+            "A": "Flux",
+            "B": "Gangue",
+            "C": "Slag",
+            "D": "Alloy"
+        },
+        "vikalpa": {
+            "A": "फ्लक्स",
+            "B": "गैंग",
+            "C": "स्लैग",
+            "D": "मिश्रधातु"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "What is the oxidation state of Nickel in $[Ni(CO)_4]$?",
+        "prashna": "$[Ni(CO)_4]$ में निकेल का ऑक्सीकरण अवस्था है ?",
+        "options": {
+            "A": "1",
+            "B": "0",
+            "C": "2",
+            "D": "3"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "0",
+            "C": "2",
+            "D": "3"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "16",
+        "chapter_name": "Chemistry in Everyday Life",
+        "question": "Which of the following drugs reduces fever?",
+        "prashna": "निम्न में कौन-सी दवा बुखार को कम करता है?",
+        "options": {
+            "A": "Analgesic",
+            "B": "Antibiotic",
+            "C": "Antipyretic",
+            "D": "Tranquilizer"
+        },
+        "vikalpa": {
+            "A": "एनलजेसिक",
+            "B": "एन्टीबायोटिक",
+            "C": "एन्टीपाइरेटिक",
+            "D": "ट्रैंक्वीलाइजर"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "Methyl amine can be prepared by",
+        "prashna": "मिथाइल एमीन बनाया जा सकता है",
+        "options": {
+            "A": "Wurtz reaction",
+            "B": "Hoffmann's bromamide reaction",
+            "C": "Friedel-Crafts reaction",
+            "D": "Kolbe's reaction"
+        },
+        "vikalpa": {
+            "A": "वुर्ज अभिक्रिया द्वारा",
+            "B": "हॉफमैन्स ब्रोमामाइड अभिक्रिया द्वारा",
+            "C": "फ्रीडेल क्राफ्ट्स अभिक्रिया द्वारा",
+            "D": "कोल्बे अभिक्रिया"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Alkyl halide is converted into an alcohol by?",
+        "prashna": "ऐल्किल हैलाइड को अल्कोहल में बदला जाता है?",
+        "options": {
+            "A": "Addition reaction",
+            "B": "Substitution reaction",
+            "C": "Elimination reaction",
+            "D": "Dehydrohalogenation reaction"
+        },
+        "vikalpa": {
+            "A": "योगात्मक अभिक्रिया द्वारा",
+            "B": "विस्थापन अभिक्रिया द्वारा",
+            "C": "विलोपन अभिक्रिया द्वारा",
+            "D": "डिहाइड्रोहैलोजिनेशन अभिक्रिया द्वारा"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "15",
+        "chapter_name": "Polymers",
+        "question": "Caprolactam is the monomer of?",
+        "prashna": "कैप्रोलैक्टम मोनोमर है?",
+        "options": {
+            "A": "Nylon 6",
+            "B": "Nylon 6,6",
+            "C": "Nylon-2-nylon-6",
+            "D": "Terylene"
+        },
+        "vikalpa": {
+            "A": "नायलॉन 6",
+            "B": "नायलॉन 6,6",
+            "C": "नायलॉन-2-नाइलॉन -6",
+            "D": "टैरिलीन"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Statement-I: Metals are reducing agents.\nStatement-II: Metals have a tendency to lose electrons.",
+        "prashna": "कथन- I : धातुएँ अपचायक होते हैं।\nकथन- II : धातुएँ इलेक्ट्रॉन त्याग करने की प्रवृत्ति रखती हैं।",
+        "options": {
+            "A": "Both statement-I and statement-II are correct, and statement-II is the correct explanation of statement-I.",
+            "B": "Both statement-I and statement-II are correct, but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Statement-I: Noble gases are chemically inert.\nStatement-II: Noble gases have high ionization energy and zero electron affinity.",
+        "prashna": "कथन-I: आदर्श गैसें रासायनिक रूप से अक्रिय है।\nकथन-II: आदर्श गैसों की आयनन ऊर्जा अधिक होता है और इलेक्ट्रॉन बंधुता शून्य होती है।",
+        "options": {
+            "A": "Both statement-I and statement-II are correct, and statement-II is the correct explanation of statement-I.",
+            "B": "Both statement-I and statement-II are correct, but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Statement-I: The van't Hoff factor of KCl is 2 while that of $CH_3COOH$ is 1.45.\nStatement-II: $CH_3COOH$ is completely ionized.",
+        "prashna": "कथन-I: KCl का वान्ट हॉफ गुणांक 2 है जबकि $CH_3COOH$ का 1.45 है।\nकथन-II: $CH_3COOH$ पूर्णतः आयनीकृत होते हैं।",
+        "options": {
+            "A": "Both statement-I and statement-II are correct, and statement-II is the correct explanation of statement-I.",
+            "B": "Both statement-I and statement-II are correct, but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Statement-I: Pentan-2-one and Pentan-3-one can be distinguished by iodoform test.\nStatement-II: Pentan-2-one is a methyl ketone, but Pentan-3-one is not.",
+        "prashna": "कथन-I: पेन्टेन-2-ओन और पेन्टेन-3-ओन को आयोडोफार्म परीक्षण से पहचाना जा सकता है।\nकथन-II: पेन्टेन-2-ओन मिथाइल कीटोन है, लेकिन पेन्टेन-3-ओन नहीं।",
+        "options": {
+            "A": "Both statement-I and statement-II are correct, and statement-II is the correct explanation of statement-I.",
+            "B": "Both statement-I and statement-II are correct, but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Biomolecules",
+        "question": "Statement-I: Amino acid exists as an internal salt called a zwitterion.\nStatement-II: The $H^+$ ion given by the COOH group is accepted by the lone pair of electrons on the $-NH_2$ group.",
+        "prashna": "कथन-I: एमीनो अम्ल, आन्तरिक लवण के रूप में वर्तमान होता है जिसे ज्वीटर आयन कहते हैं।\nकथन-II: COOH समूह द्वारा दिया गया $H^+$ आयन इलेक्ट्रॉनों की एकाकी जोड़ी रखनेवाले- $NH_2$ समूह द्वारा प्राप्त कर लिया जाता है।",
+        "options": {
+            "A": "Both statement-I and statement-II are correct, and statement-II is the correct explanation of statement-I.",
+            "B": "Both statement-I and statement-II are correct, but statement-II is not the correct explanation of statement-I.",
+            "C": "Statement-I is correct, but statement-II is incorrect.",
+            "D": "Statement-I is incorrect, but statement-II is correct."
+        },
+        "vikalpa": {
+            "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+            "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+            "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+            "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "The geometry of $[Ni(CO)_4]$ is",
+        "prashna": "$[Ni(CO)_4]$ की ज्यामिति है",
+        "options": {
+            "A": "Tetrahedral",
+            "B": "Square planar",
+            "C": "Octahedral",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "चतुष्फलकीय",
+            "B": "वर्ग-समतलीय",
+            "C": "अष्टफलकीय",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Chlorobenzene gives DDT when it reacts with",
+        "prashna": "क्लोरोबेंजीन डीडीटी देती है जब वह अभिक्रिया करता है",
+        "options": {
+            "A": "Charcoal",
+            "B": "Chloral",
+            "C": "Naphthalene",
+            "D": "Benzenoid"
+        },
+        "vikalpa": {
+            "A": "चारकोल के साथ",
+            "B": "क्लोरल के साथ",
+            "C": "नैफ्थलीन के साथ",
+            "D": "बेंजेनॉयड के साथ"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "If for an ideal gas in a given process $dw = 0$ and $dQ < 0$ then for the gas",
+        "prashna": "यदि किसी आदर्श गैस पर एक प्रदत्त प्रक्रिया में $dw = 0$ एवं $dQ < 0$ तब गैस के लिये",
+        "options": {
+            "A": "Temperature will decrease",
+            "B": "Volume will increase",
+            "C": "Pressure will remain constant",
+            "D": "Temperature will increase"
+        },
+        "vikalpa": {
+            "A": "तापक्रम घटेगा",
+            "B": "आयतन बढ़ेगा",
+            "C": "दाब नियत रहेगा",
+            "D": "तापक्रम बढ़ेगा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Aqua fortis",
+        "prashna": "एक्वा फोर्टीस",
+        "options": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        },
+        "vikalpa": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Chloral",
+        "prashna": "क्लोरल",
+        "options": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        },
+        "vikalpa": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Alum",
+        "prashna": "एलम",
+        "options": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        },
+        "vikalpa": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Bleaching powder",
+        "prashna": "विरंजक चूर्ण",
+        "options": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        },
+        "vikalpa": {
+            "A": "$CaOCl_2$",
+            "B": "$K_2SO_4 \\cdot Cr_2(SO_4)_3 \\cdot 24H_2O$",
+            "C": "$HNO_3$",
+            "D": "$CCl_3CHO$"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The most common oxidation state of the first-row transition elements is.",
+        "prashna": "प्रथम कतार के संक्रमण तत्वों का सबसे सामान्य ऑक्सीकरण अवस्था होती है।",
+        "options": {
+            "A": "+2",
+            "B": "+3",
+            "C": "+4",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "+ 2",
+            "B": "+ 3",
+            "C": "+4",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The transition element that shows the maximum oxidation state is",
+        "prashna": "संक्रमण तत्त्व जो महत्तम ऑक्सीकरण अवस्था दर्शाती है",
+        "options": {
+            "A": "Mn",
+            "B": "Pt",
+            "C": "Fe",
+            "D": "Ni"
+        },
+        "vikalpa": {
+            "A": "Mn",
+            "B": "Pt",
+            "C": "Fe",
+            "D": "Ni"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The reason for variable valency in transition elements is",
+        "prashna": "संक्रमण तत्त्वों में परिवर्तनशील संयोजकता का कारण है",
+        "options": {
+            "A": "They are found in more than one oxidation state.",
+            "B": "They all form complex compounds",
+            "C": "Their valence electrons are found in two different subshells",
+            "D": "In all, electrons are in paired state."
+        },
+        "vikalpa": {
+            "A": "ये सभी एक से अधिक ऑक्सीकरण अवस्था में पाये जाते हैं।",
+            "B": "ये सभी जटिल यौगिक बनाते है",
+            "C": "उनके संयोजी इलेक्ट्रॉन दो भिन्न सबसेल में पाये जाते है",
+            "D": "सभी में इलेक्ट्रॉन युग्म अवस्था में होते हैं।"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Define osmotic pressure. Why does osmotic pressure become abnormal?",
+        "prashna": "परिसारक दाव को परिभाषित करें। क्यों परिसारक दाव अपसामान्य हो जाता है?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "Define point defect. Why does Frenkel defect arise in solids?",
+        "prashna": "बिन्दु दोष को परिभाषित करें। ठोस में फ्रेंकल दोष क्यों उत्पन्न हो जाता है?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "Write in brief-",
+        "prashna": "संक्षेप में लिखें-",
+        "sub_questions": {
+            "a": "Brownian motion",
+            "b": "Half-life of a reaction"
+        },
+        "anuprashna": {
+            "a": "ब्राउनियन गति",
+            "b": "अभिक्रिया का अर्धकाल"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Why do transition elements show variable oxidation states?",
+        "prashna": "संक्रमण तत्त्वों में परिवर्तनशील ऑक्सीकरण अवस्था क्यों होती है?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "a) Give the IUPAC name of the complex salt $K_3[Fe(CN)_6]$.\nb) Calculate the E.A.N. (Effective Atomic Number) of Fe in this complex salt.",
+        "prashna": "(a) जटिल लवण $K_3[Fe(CN)_6]$ का IUPAC नाम दें।\n(b) इस जटिल लवण में Fe की E.A.N. (प्रभावी परमाणु संख्या) की गणना करें।",
+        "sub_questions": {
+            "a": "Give the IUPAC name of the complex salt $K_3[Fe(CN)_6]$.",
+            "b": "Calculate the E.A.N. (Effective Atomic Number) of Fe in this complex salt."
+        },
+        "anuprashna": {
+            "a": "जटिल लवण $K_3[Fe(CN)_6]$ का IUPAC नाम दें।",
+            "b": "इस जटिल लवण में Fe की E.A.N. (प्रभावी परमाणु संख्या) की गणना करें।"
+        }
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Explain why at normal conditions $H_2O$ is in a liquid state while $H_2S$ is in a gaseous state.",
+        "prashna": "व्याख्या करें कि सामान्य अवस्था में क्यों $H_2O$ तरल अवस्था में होता है जबकि $H_2S$ गैसीय अवस्था में होता है।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "Write a test to distinguish between methyl alcohol and ethyl alcohol.",
+        "prashna": "एक परीक्षण को लिखें जिसके द्वारा मिथाइल अल्कोहल एवं इथाइल अल्कोहल के अन्तरको स्पष्ट करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "How can acetic acid be converted into methyl amine?",
+        "prashna": "एसिटिक अम्ल को मिथाइल ऐमीन में किस प्रकार परिवर्तित किया जा सकता है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Identify A, B, C and D in the reactions given below.",
+        "prashna": "नीचे दिए गए अभिक्रियाओं में A, B, C एवं D की पहचान करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "15",
+        "chapter_name": "Polymers",
+        "question": "Name the monomers of the following:",
+        "prashna": "निम्नलिखित के मोनोमरों के नाम लिखिए:",
+        "sub_questions": {
+            "a": "Nylon-6",
+            "b": "Buna-S"
+        },
+        "anuprashna": {
+            "a": "नायलॉन -6",
+            "b": "बुना-S"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "16",
+        "chapter_name": "Chemistry in Everyday Life",
+        "question": "State one use of each of the following-",
+        "prashna": "निम्नलिखित के एक-एक उपयोग दर्शाइए-",
+        "sub_questions": {
+            "a": "Paracetamol",
+            "b": "Tincture of Iodine"
+        },
+        "anuprashna": {
+            "a": "पारासिटामॉल",
+            "b": "टिंक्चर आयोडीन"
+        }
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Mention the principle with equations for the manufacture of sulphuric acid by contact process. Write the test for $SO_4^{2-}$ ion.",
+        "prashna": "सम्पर्क विधि से गन्धकाम्ल उत्पादन के सिद्धान्त को समीकरण के साथ उल्लेख करें। $SO_4^{2-}$ आयन का परीक्षण लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "What is the rate constant of a reaction? Derive the expression for the rate constant for a first-order reaction.",
+        "prashna": "अभिक्रिया का गति स्थिरांक क्या है ? प्रथम कोटि के अभिक्रिया के लिए गति स्थिरांक का व्यंजक प्राप्त करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "A solution contains 1.0 g of urea (M = 60) in 75.0 g of water and boils at $100.114^\\circ C$. Find the value of the molal elevation boiling point constant for the solution.",
+        "prashna": "एक घोल में 75.0 ग्राम जल में 1.0 ग्राम यूरिया (M = 60) है एवं $100.114^\\circ C$ पर उबलता है। घोल का मोलल उन्नयन क्वथनांक स्थिरांक का मान प्राप्त करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "What is the common group in aldehydes and ketones? How do acetaldehyde and acetone show similarity and dissimilarity with each other? Mention one reaction for each.",
+        "prashna": "एल्डिहाइड एवं कीटोन में सामान्य समूह क्या है? ऐस्टिल्डिहाइड एवं एसीटोन किस प्रकार एक-दूसरे से समानता एवं विषमता दर्शाता है? प्रत्येक के लिए एक-एक अभिक्रिया का उल्लेख करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Biomolecules",
+        "question": "Give one example for each of the following-",
+        "prashna": "निम्नलिखित के प्रत्येक के लिए एक-एक उदाहरण दें-",
+        "sub_questions": {
+            "a": "Naturally occurring amino acid",
+            "b": "Synthetic rubber",
+            "c": "Condensation polymer",
+            "d": "Antibiotic",
+            "e": "Artificial sweetener"
+        },
+        "anuprashna": {
+            "a": "प्राकृतिक रूप में पाये जानेवाला एमीनो अम्ल",
+            "b": "सिन्थेटिक रबर",
+            "c": "संघनक बहुलक (पॉलिमर)",
+            "d": "ऐन्टीबायटिक",
+            "e": "कृत्रिम स्वीटनर (मीठा करनेवाला)"
+        }
+    }
+]
