@@ -1,0 +1,780 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "Which of the following oxides shows electrical properties like a metal?",
+        "prashna": "निम्नलिखित में कौन ऑक्साइड धातु की तरह विद्युतीय गुण दर्शाता है?",
+        "options": {
+            "A": "$SiO_2$",
+            "B": "$MgO$",
+            "C": "$SO_2(S)$",
+            "D": "$CrO_2$"
+        },
+        "vikalpa": {
+            "A": "$SiO_2$",
+            "B": "$MgO$",
+            "C": "$SO_2(S)$",
+            "D": "$CrO_2$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "Which of the following is an amorphous solid?",
+        "prashna": "निम्नलिखित में कौन बेरवादार ठोस है?",
+        "options": {
+            "A": "Graphite (C)",
+            "B": "Quartz Glass ($SiO_2$)",
+            "C": "Chrome Alum",
+            "D": "Silicon Carbide (SiC)"
+        },
+        "vikalpa": {
+            "A": "Graphite (C)",
+            "B": "Quartz Glass ($SiO_2$)",
+            "C": "Chrome Alum",
+            "D": "Silicon Carbide (SiC)"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Which of the following aqueous solutions will have the maximum boiling point?",
+        "prashna": "निम्नलिखित जलीय घोल में किस का क्वथनांक अधिकतम होगा ?",
+        "options": {
+            "A": "1.0M NaOH",
+            "B": "1.0 M $Na_2SO_4$",
+            "C": "1.0M $NH_4NO_3$",
+            "D": "1.0M $KNO_3$"
+        },
+        "vikalpa": {
+            "A": "1.0M NaOH",
+            "B": "1.0 M $Na_2SO_4$",
+            "C": "1.0M $NH_4NO_3$",
+            "D": "1.0M $KNO_3$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "A solution has an osmotic pressure of 0.0821 atm at 300 K. What will be the concentration of this solution?",
+        "prashna": "एक घोल जिसका परासरण दाब 300 K पर 0.0821 वायुमंडल है। इस घोल का सान्द्रण क्या होगा ?",
+        "options": {
+            "A": "0.66 M",
+            "B": "0.32 M",
+            "C": "0.066 M",
+            "D": "0.033 M"
+        },
+        "vikalpa": {
+            "A": "0.66 M",
+            "B": "0.32 M",
+            "C": "0.066 M",
+            "D": "0.033 M"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "The azeotropic mixture of HCl and $H_2O$ will have",
+        "prashna": "$HCl$ एवं $H_2O$ के स्थिरक्वाथी मिश्रण में होगा",
+        "options": {
+            "A": "48% HCl",
+            "B": "22.2% HCl",
+            "C": "36% HCl",
+            "D": "20.2% HCl"
+        },
+        "vikalpa": {
+            "A": "48% HCl",
+            "B": "22.2% HCl",
+            "C": "36% HCl",
+            "D": "20.2% HCl"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "The amount obtained by passing one Faraday of electric current will be equal to",
+        "prashna": "एक फराडे विद्युत धारा प्रवाहित करने पर प्राप्त मात्रा बराबर होगी",
+        "options": {
+            "A": "One gram equivalent",
+            "B": "One gram mole",
+            "C": "Electrochemical equivalent",
+            "D": "Half gram equivalent"
+        },
+        "vikalpa": {
+            "A": "एक ग्राम समतुल्य",
+            "B": "एक ग्राम मोल",
+            "C": "विद्युत् रासायनिक तुल्यांक",
+            "D": "आधा ग्राम समतुल्यांक"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "The rate of reaction of a substance depends on",
+        "prashna": "किसी वस्तु के प्रतिक्रिया करने का दर निर्भर करता है",
+        "options": {
+            "A": "Atomic mass",
+            "B": "Equivalent mass",
+            "C": "Molecular mass",
+            "D": "Active mass"
+        },
+        "vikalpa": {
+            "A": "परमाणु भार",
+            "B": "समतुल्य भार",
+            "C": "अणु भार",
+            "D": "सक्रिय भार"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "For a zero-order reaction",
+        "prashna": "शून्य कोटि अभिक्रिया के लिए",
+        "options": {
+            "A": "$t_{1/2} \\propto a$",
+            "B": "$t_{1/2} \\propto \\frac{1}{a}$",
+            "C": "$t_{1/2} \\propto a^2$",
+            "D": "$t_{1/2} \\propto \\frac{1}{a^2}$"
+        },
+        "vikalpa": {
+            "A": "$t_{1/2} \\propto a$",
+            "B": "$t_{1/2} \\propto \\frac{1}{a}$",
+            "C": "$t_{1/2} \\propto a^2$",
+            "D": "$t_{1/2} \\propto \\frac{1}{a^2}$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "A catalyst is a substance which",
+        "prashna": "उत्प्रेरक एक वस्तु है जो",
+        "options": {
+            "A": "Increases the equilibrium concentration of the product.",
+            "B": "Changes the equilibrium constant of the reaction.",
+            "C": "Shortens the time to reach equilibrium.",
+            "D": "Provides energy to the reaction."
+        },
+        "vikalpa": {
+            "A": "उत्पाद के साम्यावस्था सान्द्रण को बढ़ा देता है।",
+            "B": "प्रतिक्रिया के साम्यावस्था स्थिरांक को परिवर्तित कर देता है।",
+            "C": "साम्यावस्था प्राप्त करने के समय को कम कर देता है।",
+            "D": "प्रतिक्रिया में ऊर्जा प्रदान करता है।"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Sulphide ores are generally concentrated by ..........",
+        "prashna": "सल्फाइड अयस्कों को सामान्यतः ........... से संकेन्द्रित करते हैं।",
+        "options": {
+            "A": "Froth floatation method",
+            "B": "Roasting",
+            "C": "Gravity separation",
+            "D": "Reduction by carbon"
+        },
+        "vikalpa": {
+            "A": "फेन उत्प्लावन विधि",
+            "B": "जारण",
+            "C": "गुरुत्वाकर्षण",
+            "D": "कार्बन के द्वारा अवकरण"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following is tribasic?",
+        "prashna": "निम्नलिखित में त्रि-भस्मीय कौन है?",
+        "options": {
+            "A": "$H_3PO_2$",
+            "B": "$H_3PO_3$",
+            "C": "$H_4P_2O_7$",
+            "D": "$H_3PO_4$"
+        },
+        "vikalpa": {
+            "A": "$H_3PO_2$",
+            "B": "$H_3PO_3$",
+            "C": "$H_4P_2O_7$",
+            "D": "$H_3PO_4$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following is not correct for the white phosphorus ($P_4$) molecule?",
+        "prashna": "व्हाइट फास्फोरस ($P_4$) अणु में इनमें से क्या सही नहीं है",
+        "options": {
+            "A": "There are 6 P-P single bonds.",
+            "B": "There are 4 P-P single bonds.",
+            "C": "There are 4 lone pair electrons.",
+            "D": "The bond angle is $60^\\circ$."
+        },
+        "vikalpa": {
+            "A": "6P-P सिंगल बॉन्ड होता है।",
+            "B": "4 P-P सिंगल बॉन्ड होता है।",
+            "C": "4 लोन पेयर इलेक्ट्रॉन होता है।",
+            "D": "बॉन्ड कोण $60^\\circ$ होता है।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The general electronic configuration of transition elements is.",
+        "prashna": "संक्रमण तत्त्वों का सामान्य इलेक्ट्रॉन विन्यास होता है।",
+        "options": {
+            "A": "$(n-1)d^5$",
+            "B": "$(n-1)d^{1-10}ns^{0,1, \\text{or } 2}$",
+            "C": "$(n-1)d^{1-10}ns^1$",
+            "D": "None of the above"
+        },
+        "vikalpa": {
+            "A": "$(n-1)d^5$",
+            "B": "$(n-1)d^{1-10}ns^{0,1,\\text{or } 2}$",
+            "C": "$(n-1)d^{1-10}ns^1$",
+            "D": "उपर्युक्त कोई भी नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Which of the following transition metal ions, having maximum magnetic moment, will have the electronic configuration of its outermost shell as",
+        "prashna": "निम्नलिखित संक्रमण धातु आयन, जिसका चुम्बकीय आपूर्ण अधिकतम होगा, उसके बाह्यतम कक्षा का इलेक्ट्रॉनिक विन्यास होगा",
+        "options": {
+            "A": "$3d^5$",
+            "B": "$3d^2$",
+            "C": "$3d^7$",
+            "D": "$3d^9$"
+        },
+        "vikalpa": {
+            "A": "$3d^5$",
+            "B": "$3d^2$",
+            "C": "$3d^7$",
+            "D": "$3d^9$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "What will be the coordination number of Cr in $[K_3Cr(Ox)_3]$?",
+        "prashna": "$[K_3Cr(Ox)_3]$ में Cr का उप सहसंयोजक संख्या क्या होगी ?",
+        "options": {
+            "A": "6",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "vikalpa": {
+            "A": "6",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "What will be the effective atomic number (EAN) of cobalt in the complex ion $[Co(en)_2Cl_2]^+$?",
+        "prashna": "कोबाल्ट की प्रभावी प्रमाणु संख्या $[Co(en)_2Cl_2]^+$ काम्पलेक्स आयन में क्या होगी?",
+        "options": {
+            "A": "27",
+            "B": "36",
+            "C": "33",
+            "D": "35"
+        },
+        "vikalpa": {
+            "A": "27",
+            "B": "36",
+            "C": "33",
+            "D": "35"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "To prepare Grignard reagent, Mg is added in ether and reacted with which of the following?",
+        "prashna": "ग्रिगनार्ड प्रतिकारक बनाने के लिए ईथर में Mg डालकर किसके साथ प्रतिक्रिया कराते हैं?",
+        "options": {
+            "A": "$C_2H_5OH$",
+            "B": "$C_2H_6$",
+            "C": "$C_2H_5Cl$",
+            "D": "$C_2H_5CN$"
+        },
+        "vikalpa": {
+            "A": "$C_2H_5OH$",
+            "B": "$C_2H_6$",
+            "C": "$C_2H_5Cl$",
+            "D": "$C_2H_5CN$"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "The distinction between $1^\\circ, 2^\\circ$, and $3^\\circ$ alcohols is determined by-",
+        "prashna": "$1^\\circ, 2^\\circ, 3^\\circ$ अल्कोहल में अन्तर (जाँच) ज्ञात करते हैं-",
+        "options": {
+            "A": "Oxidation method",
+            "B": "Lucas reagent test",
+            "C": "Victor Meyer test",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "ऑक्सीकरण विधि",
+            "B": "लुकास प्रतिकारक जाँच",
+            "C": "विक्टर मेयर परीक्षा",
+            "D": "उपर्युक्त सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Ethyl acetate reacts with $CH_3MgBr$ to form.",
+        "prashna": "इथाइल एसिटेट एवं $CH_3MgBr$ प्रतिक्रिया कर बनाता है.",
+        "options": {
+            "A": "$2^\\circ$ alcohol",
+            "B": "$3^\\circ$ alcohol",
+            "C": "$1^\\circ$ alcohol and acid",
+            "D": "Carboxylic acid"
+        },
+        "vikalpa": {
+            "A": "$2^\\circ$ अल्कोहल",
+            "B": "$3^\\circ$ अल्कोहल",
+            "C": "$1^\\circ$ अल्कोहल एवं अम्ल",
+            "D": "कार्बोक्सिलिक अम्ल"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "The carbon atom in a carbonyl group is",
+        "prashna": "कार्बोनिल ग्रुप में कार्बन परमाणु होता है",
+        "options": {
+            "A": "sp-hybridized",
+            "B": "$sp^2$-hybridized",
+            "C": "$sp^3$-hybridized",
+            "D": "$dsp^2$-hybridized"
+        },
+        "vikalpa": {
+            "A": "sp-हाइब्रीडाइज्ड",
+            "B": "$sp^2$-हाइब्रीडाइज्ड",
+            "C": "$sp^3$-हाइब्रीडाइज्ड",
+            "D": "$dsp^2$-हाइब्रीडाइज्ड"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "What is the reaction $RCOCl + H_2 \\xrightarrow{Pd/BaSO_4} RCHO + HCl$ called?",
+        "prashna": "प्रतिक्रिया $RCOCl + H_2 \\xrightarrow{Pd/BaSO_4} RCHO + HCl$ को क्या कहा जाता है?",
+        "options": {
+            "A": "Cannizzaro reaction",
+            "B": "Rosenmund reaction",
+            "C": "Haloform reaction",
+            "D": "Clemmensen reaction"
+        },
+        "vikalpa": {
+            "A": "कैनिजारो प्रतिक्रिया",
+            "B": "रोजेनमुन्ड प्रतिक्रिया",
+            "C": "हैलोफॉर्म प्रतिक्रिया",
+            "D": "क्लेमेन्सन्स प्रतिक्रिया"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Which of the following undergoes the Cannizzaro reaction?",
+        "prashna": "निम्नांकित में कौन कैनिजारो प्रतिक्रिया से होकर गुजरता है?",
+        "options": {
+            "A": "$CH_3CHO$",
+            "B": "$CH_3CH_2CHO$",
+            "C": "$(CH_3)_2CHCHO$",
+            "D": "HCHO"
+        },
+        "vikalpa": {
+            "A": "$CH_3CHO$",
+            "B": "$CH_3CH_2CHO$",
+            "C": "$(CH_3)_2CHCHO$",
+            "D": "HCHO"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "Which is the correct decreasing order of basicity?",
+        "prashna": "भस्मीयता का घटता हुआ क्रम कौन है?",
+        "options": {
+            "A": "$NH_3 > C_2H_5NH_2 > (C_2H_5)_2NH > (C_2H_5)_3N$",
+            "B": "$(C_2H_5)_3N > (C_2H_5)_2NH > C_2H_5NH_2 > NH_3$",
+            "C": "$(C_2H_5)_2NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$",
+            "D": "$(C_2H_5)_2NH > C_2H_5NH_2 > NH_3 > (C_2H_5)_3N$"
+        },
+        "vikalpa": {
+            "A": "$NH_3 > C_2H_5NH_2 > (C_2H_5)_2 NH > (C_2H_5)_3 N$",
+            "B": "$(C_2H_5)_3N > (C_2H_5)_2NH > C_2H_5NH_2 > NH_3$",
+            "C": "$(C_2H_5)_2 NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$",
+            "D": "$(C_2H_5)_2NH > C_2H_5NH_2 > NH_3 > (C_2H_5)_3 N$"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "Aniline and acetaldehyde react to form",
+        "prashna": "ऐनलीन एवं ऐसिटेलडीहाइड प्रतिक्रिया कर बनाते हैं",
+        "options": {
+            "A": "Carbylamine",
+            "B": "Nitrobenzene",
+            "C": "Imine",
+            "D": "Schiff's base"
+        },
+        "vikalpa": {
+            "A": "कार्बाइल ऐमीन",
+            "B": "नाइट्रोबेन्जीन",
+            "C": "इमीन",
+            "D": "स्किपस बेस"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Biomolecules",
+        "question": "Which of the following sugars is the sweetest?",
+        "prashna": "निम्नांकित सुगर में से सबसे मीठा कौन है?",
+        "options": {
+            "A": "Glucose",
+            "B": "Lactose",
+            "C": "Sucrose",
+            "D": "Fructose"
+        },
+        "vikalpa": {
+            "A": "ग्लुकोज",
+            "B": "लैक्टोज",
+            "C": "सुक्रोज",
+            "D": "फ्रक्टोज"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "14",
+        "chapter_name": "Biomolecules",
+        "question": "What is an enzyme?",
+        "prashna": "इन्जाइम क्या है?",
+        "options": {
+            "A": "Carbohydrate",
+            "B": "Lipid",
+            "C": "Protein",
+            "D": "None of the above"
+        },
+        "vikalpa": {
+            "A": "कार्बोहाइड्रेट",
+            "B": "लिपिड",
+            "C": "प्रोटीन",
+            "D": "उपर्युक्त कोई भी नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "15",
+        "chapter_name": "Polymers",
+        "question": "Natural rubber is a polymer of which of the following?",
+        "prashna": "नैचरल रबर निम्नलिखित का बहुलक है",
+        "options": {
+            "A": "Styrene",
+            "B": "Isoprene",
+            "C": "Chloroprene",
+            "D": "Butadiene"
+        },
+        "vikalpa": {
+            "A": "स्टाइरीन",
+            "B": "आइसोप्रीन",
+            "C": "क्लोरोप्रीन",
+            "D": "ब्युटाडाईन"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "16",
+        "chapter_name": "Chemistry in Everyday Life",
+        "question": "Which antibiotic is used in typhoid?",
+        "prashna": "टाइफ्वाइड में प्रयुक्त होने वाला प्रतिजैविक कौन है?",
+        "options": {
+            "A": "Penicillin",
+            "B": "Isoprene",
+            "C": "Terramycin",
+            "D": "Sulphadiazine"
+        },
+        "vikalpa": {
+            "A": "पेनिसिलिन",
+            "B": "आइसोप्रीन",
+            "C": "टेरामाइसिन",
+            "D": "सल्फाडाइजीन"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "Lithium forms a bcc lattice. If the length of one side of the unit cell of lithium is 351 pm, then calculate its radius.",
+        "prashna": "लिथियम bcc रवा बनाता है। अगर लिथियम के इकाई सेल के एक तरफ की लम्बाई 351 pm है, तब उसके त्रिज्या की गणना करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Write and explain Faraday's second (2nd) law of electrolysis.",
+        "prashna": "फराडे के विद्युत् विच्छेदन के दूसरे (2nd) नियम को लिखें एवं वर्णन करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "What are specific conductivity and molar conductivity?",
+        "prashna": "विशिष्ट चालकता एवं मोलर चालकता क्या है?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "Differentiate between lyophilic and lyophobic colloids.",
+        "prashna": "द्रवरागी (लायोफिलिक) एवं द्रवविरागी (लायोफोबिक) कोलॉइड में अन्तर बतायें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "State the main ores of aluminium and copper and their chemical structures.",
+        "prashna": "एल्युमीनियम एवं ताँबा के मुख्य अयस्क एवं उनकी रासायनिक संरचना बतायें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Fill in the blanks -",
+        "prashna": "रिक्त स्थानों की पूर्ति करे -"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Write the complete reaction -",
+        "prashna": "पूर्ण प्रतिक्रिया लिखें -"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "Write the names and structures of four isomers having the molecular formula $C_3H_9N$.",
+        "prashna": "चार समावयवी का नाम एवं संरचना लिखें जिसका अणु सूत्र $C_3H_9N$ है।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "14",
+        "chapter_name": "Biomolecules",
+        "question": "Write the names of two vitamins and the diseases caused by their deficiency.",
+        "prashna": "दो विटामिन का नाम लिखें एवं उनकी कमी के कारण उत्पन्न रोगों का नाम बतायें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "15",
+        "chapter_name": "Polymers",
+        "question": "Write the monomer and structure of any two of the following polymers: (a) P.V.C. (b) Nylon 6,6 (c) Polythene (d) Polyester",
+        "prashna": "किन्हीं दो निम्नांकित बहुलक की एकलक एवं संरचना लिखें (a) पी० वी० सी० (b) नायलॉन 6,6 (c) पॉलिथीन (d) पॉलिएस्टर"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "16",
+        "chapter_name": "Chemistry in Everyday Life",
+        "question": "Write the names of any two of the following medicines-",
+        "prashna": "निम्नलिखित औषधियों में से किसी दो का नाम लिखें-"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "What do you understand by depression in freezing point?",
+            "B": "Write Raoult's law related to the depression in freezing point. How will you determine the molecular weight of any non-volatile and non-electrolyte solute by this law?"
+        },
+        "anuprashna": {
+            "A": "हिमांक के अवनमन से आप क्या समझते हैं?",
+            "B": "हिमांक के अवनमन सम्बन्धी राउल्ट के नियम लिखें। इस नियम से किसी भी अवाष्पशील एवं नॉन-इलेक्ट्रोलाइट विलेय (solute) का अणु-भार कैसे ज्ञात करेंगे?"
+        }
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "What do you understand by relative lowering of vapour pressure?",
+            "B": "A 1% solution of aniline in ether was found to have a relative lowering of 0.007. Find the molecular weight of aniline."
+        },
+        "anuprashna": {
+            "A": "वाष्प दाब के सापेक्ष अवनमन से आप क्या समझते हैं?",
+            "B": "ऐनलीन के ईथर में 1% घोल का सापेक्ष अवनमन 0.007 पाया गया। ऐनलीन का अणु भार ज्ञात करें।"
+        }
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "Write only the principle for the commercial preparation of sulphuric acid by the Contact process.",
+            "B": "Complete the following equations: (i) $KBr + Cl_2 \\rightarrow .......... + ..........$ (ii) $I_2 + H_2O + Cl_2 \\rightarrow .......... + ..........$ (iii) $NaOH + Cl_2 \\rightarrow .......... + .......... + ..........$ (dilute and cold)"
+        },
+        "anuprashna": {
+            "A": "कान्टेक्ट विधि द्वारा व्यापारिक विधि से गंधकाम्ल बनाने में सिर्फ सिद्धांत को लिखें।",
+            "B": "निम्नलिखित समीकरणों को पूर्ण करें- (i) $KBr + Cl_2 \\rightarrow .......... + ..........$ (ii) $I_2 + H_2O + Cl_2 \\rightarrow .......... + ..........$ (iii) $NaOH + Cl_2 \\rightarrow .......... + .......... + ..........$ तनु एवं शीतल"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "Write the names of the following coordination compounds:",
+        "prashna": "निम्नलिखित उप सहसंयोजक यौगिकों का नाम लिखें:",
+        "sub_questions": {
+            "i": "$K_4[Fe(CN)_6]$",
+            "ii": "$Ni(CO)_4$",
+            "iii": "$K_2[Pt(Cl)_6]$",
+            "iv": "$Co(NH_3)_3$",
+            "v": "$Fe_4[Fe(CN)_6]_3$"
+        },
+        "anuprashna": {
+            "i": "$K_4[Fe(CN)_6]$",
+            "ii": "$Ni(CO)_4$",
+            "iii": "$K_2[Pt(Cl)_6]$",
+            "iv": "$Co(NH_3)_3$",
+            "v": "$Fe_4[Fe(CN)_6]_3$"
+        }
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "Write Werner's theory of coordination compounds.",
+            "B": "What is a ligand? Classify them with examples."
+        },
+        "anuprashna": {
+            "A": "वर्नर के उप सहसंयोजक सिद्धांत लिखें।",
+            "B": "लीगेन्ड क्या है? उदाहरण के साथ उनका वर्गीकरण करें।"
+        }
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "What happens when-",
+        "prashna": "क्या होता है जब-",
+        "sub_questions": {
+            "A": "Ethene is passed through concentrated sulphuric acid and the product is boiled with water?",
+            "B": "Ethyl ethanoate is boiled with aqueous KOH solution?",
+            "C": "Methyl magnesium iodide and methanol are heated?",
+            "D": "Acetaldehyde is heated with Tollen's reagent?",
+            "E": "A basic solution of phenol is heated with $CO_2$ under high pressure, and the product is heated with acidic water?"
+        },
+        "anuprashna": {
+            "A": "इथीन को सान्द्र गंधकाम्ल में प्रवाहित करते हैं एवं उत्पाद को जल के साथ उबालते हैं?",
+            "B": "इथाइल इथेनोएट को जलीय KOH घोल के साथ उबाला जाता है?",
+            "C": "मिथाइल मैग्नीशियम आयोडाइड एवं मेथनॉल को गर्म करते हैं?",
+            "D": "एसीटैल्डिहाइड को टॉलिनस प्रतिकारक के साथ गर्म करते हैं?",
+            "E": "फीनॉल के भस्मीय घोल को $CO_2$ के साथ उच्च दाब पर गर्म कर, उत्पाद को अम्लीय जल के साथ गर्म करते हैं?"
+        }
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "What happens when-",
+        "prashna": "क्या होता है जब-",
+        "sub_questions": {
+            "A": "Propene is passed through concentrated sulphuric acid, and the product is treated with water?",
+            "B": "Methoxyethane and HI are heated?",
+            "C": "Ethanol is heated with Fenton's reagent?",
+            "D": "Toluene is heated with chromyl chloride and $CS_2$, and the product is heated with water?",
+            "E": "Crotonaldehyde is reacted with $LiAlH_4$ / dry ether, and the product is again reacted with acidic water?"
+        },
+        "anuprashna": {
+            "A": "प्रोपीन को सान्द्र गंधकाम्ल से प्रवाहित कर, उत्पाद को जल के साथ उपचारित करते हैं?",
+            "B": "मिथॉक्सी ईथेन एवं HI को गर्म करते हैं?",
+            "C": "इथेनॉल को फेनटॉन्स प्रतिकारक के साथ गर्म करते हैं?",
+            "D": "टाल्युईन को क्रोमाइल क्लोराइड एवं $CS_2$ के साथ गर्म कर, उत्पाद को जल के साथ गर्म करते हैं?",
+            "E": "क्रोटोनलडिहाइड को $LiAlH_4$ / शुष्क ईथर में प्रतिक्रिया कराते हैं, एवं उत्पाद को अम्लीय जल के साथ पुनः प्रतिक्रिया कराते हैं?"
+        }
+    }
+]
