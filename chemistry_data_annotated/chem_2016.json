@@ -1,0 +1,820 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The oxidation number of Gold metal (Au) is",
+        "prashna": "सोना धातु (Au) का ऑक्सीकरण संख्या होता है",
+        "options": {
+            "A": "+1",
+            "B": "0",
+            "C": "-1",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "+1",
+            "B": "0",
+            "C": "-1",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "Which of the following is a lyophilic colloid?",
+        "prashna": "निम्नलिखित में से कौन लायोफिलिक कोलॉइड है?",
+        "options": {
+            "A": "Milk",
+            "B": "Gum",
+            "C": "Fog",
+            "D": "Blood"
+        },
+        "vikalpa": {
+            "A": "दूध",
+            "B": "गोन्द",
+            "C": "कुहासा",
+            "D": "रक्त"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following is the most powerful oxidizing agent?",
+        "prashna": "निम्नलिखित में सबसे शक्तिशाली ऑक्सीकारक पदार्थ है",
+        "options": {
+            "A": "$F_2$",
+            "B": "$Cl_2$",
+            "C": "$Br_2$",
+            "D": "$I_2$"
+        },
+        "vikalpa": {
+            "A": "$F_2$",
+            "B": "$Cl_2$",
+            "C": "$Br_2$",
+            "D": "$I_2$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "Which of the following has a tetrahedral shape?",
+        "prashna": "निम्न में किसकी आकृति चतुष्फलक होती है?",
+        "options": {
+            "A": "$[Ni(CN)_4]^{2-}$",
+            "B": "$[Pd(CN)_4]^{2-}$",
+            "C": "$[PdCl_4]^{2-}$",
+            "D": "$[NiCl_4]^{2-}$"
+        },
+        "vikalpa": {
+            "A": "$[Ni(CN)_4]^{2-}$",
+            "B": "$[Pd(CN)_4]^{2-}$",
+            "C": "$[PdCl_4]^{2-}$",
+            "D": "$[NiCl_4]^{2-}$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "For a first-order reaction, the value of $t_{1/2}$ is",
+        "prashna": "प्रथम कोटि अभिक्रिया के लिए $t_{1/2}$ का मान होता है",
+        "options": {
+            "A": "0.6/k",
+            "B": "0.693/k",
+            "C": "0.683/k",
+            "D": "0.10/k"
+        },
+        "vikalpa": {
+            "A": "0.6/k",
+            "B": "0.693/k",
+            "C": "0.683/k",
+            "D": "0.10/k"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Faraday's law of electrolysis is related to which of the following?",
+        "prashna": "फैराडे का विद्युत-अपघटन नियम निम्न में से किससे संबंधित है?",
+        "options": {
+            "A": "Atomic weight of cation",
+            "B": "Speed of cation",
+            "C": "Speed of anion",
+            "D": "Equivalent weight of electrolyte"
+        },
+        "vikalpa": {
+            "A": "धनायन के परमाणु भार से",
+            "B": "धनायन की गति से",
+            "C": "ऋणायन के गति से",
+            "D": "इलेक्ट्रोलाइट के समतुल्य भार से"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Cinnabar is called",
+        "prashna": "सिनेबार कहा जाता है",
+        "options": {
+            "A": "$HgS$",
+            "B": "$PbS$",
+            "C": "$ZnS$",
+            "D": "$H_2S$"
+        },
+        "vikalpa": {
+            "A": "$HgS$",
+            "B": "$PbS$",
+            "C": "$ZnS$",
+            "D": "$H_2S$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Atomic mass is equal to",
+        "prashna": "परमाणु द्रव्यमान बराबर होता है",
+        "options": {
+            "A": "The number of electrons in the atom",
+            "B": "The sum of the number of electrons and protons in the atom",
+            "C": "The sum of the number of neutrons and protons in the atom",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "परमाणु के इलेक्ट्रॉनों की संख्या के",
+            "B": "परमाणु के इलेक्ट्रॉनों और प्रोटॉनों की संख्या के योगफल के",
+            "C": "परमाणु के न्यूट्रॉनों की संख्या और प्रोटॉनों के योगफल के",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "When quicklime is added to water, the reaction is",
+        "prashna": "बिना बुझा चुना को जब जल में डाला जाता है तो अभिक्रिया होती है",
+        "options": {
+            "A": "Exothermic",
+            "B": "Endothermic",
+            "C": "Explosive",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ऊष्माक्षेपी",
+            "B": "ऊष्माशोषी",
+            "C": "विस्फोटक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The shape of a d-orbital is",
+        "prashna": "d-आर्बिटल का आकार होता है।",
+        "options": {
+            "A": "Spherical",
+            "B": "Dumbbell",
+            "C": "Double dumbbell",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "गोलीय",
+            "B": "डम्बबेल",
+            "C": "डबल डम्बबेल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "16",
+        "chapter_name": "Chemistry in Everyday Life",
+        "question": "Washing soda is",
+        "prashna": "कपड़ा धोने का सोडा होता है।",
+        "options": {
+            "A": "$Na_2CO_3.10H_2O$",
+            "B": "$Na_2CO_3.5H_2O$",
+            "C": "$Na_2CO_3$",
+            "D": "$NaOH$"
+        },
+        "vikalpa": {
+            "A": "$Na_2CO_3.10H_2O$",
+            "B": "$Na_2CO_3.5H_2O$",
+            "C": "$Na_2CO_3$",
+            "D": "$NaOH$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The electronic configuration of an alkaline earth metal is",
+        "prashna": "क्षारीय मृदा धातु का इलेक्ट्रॉनिक विन्यास है",
+        "options": {
+            "A": "$ns^2$",
+            "B": "$ns^1$",
+            "C": "$np^6$",
+            "D": "$ns^0$"
+        },
+        "vikalpa": {
+            "A": "$ns^2$",
+            "B": "$ns^1$",
+            "C": "$np^6$",
+            "D": "$ns^0$"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Slaked lime is",
+        "prashna": "बुझा हुआ चूना है।",
+        "options": {
+            "A": "$CaO$",
+            "B": "$CaCO_3$",
+            "C": "$Ca(OH)_2$",
+            "D": "$CaCl_2$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$CaCO_3$",
+            "C": "$Ca(OH)_2$",
+            "D": "$CaCl_2$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The outermost configuration is $3d^64s^2$ of",
+        "prashna": "बाह्यतम विन्यास $3d^64s^2$ है",
+        "options": {
+            "A": "Ca",
+            "B": "Zn",
+            "C": "Mg",
+            "D": "Cu"
+        },
+        "vikalpa": {
+            "A": "Ca का",
+            "B": "Zn को",
+            "C": "Mg का",
+            "D": "Cu को"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The chemical name of Borax is",
+        "prashna": "बोरेक्स का रासायनिक नाम है",
+        "options": {
+            "A": "Sodium tetraborate",
+            "B": "Sodium metaborate",
+            "C": "Sodium orthoborate",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सोडियम टेट्राबोरेट",
+            "B": "सोडियम मेटाबोरेट",
+            "C": "सोडियम आर्थोबोरेट",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Boron shows a diagonal relationship with,",
+        "prashna": "बोरॉन विकर्ण सम्बन्ध दर्शाता है,",
+        "options": {
+            "A": "Al",
+            "B": "C",
+            "C": "Si",
+            "D": "Sn"
+        },
+        "vikalpa": {
+            "A": "Al से",
+            "B": "C से",
+            "C": "Si से",
+            "D": "Sn से"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which is a good conductor of heat and electricity?",
+        "prashna": "ऊष्मा और विद्युत का अच्छा चालक है",
+        "options": {
+            "A": "Anthracite coke",
+            "B": "Diamond",
+            "C": "Graphite",
+            "D": "Charcoal"
+        },
+        "vikalpa": {
+            "A": "एन्थ्रासाइट कोक",
+            "B": "हीरा",
+            "C": "ग्रेफाइट",
+            "D": "चारकोल"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "In which of the following allotropes is the percentage of carbon the highest?",
+        "prashna": "निम्नलिखित अपररूपों में कार्बन का सर्वाधिक प्रतिशत अधिकतम है",
+        "options": {
+            "A": "In wood charcoal",
+            "B": "In coconut charcoal",
+            "C": "In graphite",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "काष्ठ चारकोल में",
+            "B": "कोकनट चारकोल में",
+            "C": "ग्रेफाइट में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The hybridization of carbon in diamond is",
+        "prashna": "हीरे में कार्बन का संकरण है",
+        "options": {
+            "A": "$sp^3$",
+            "B": "$sp^2$",
+            "C": "$sp$",
+            "D": "$dsp^2$"
+        },
+        "vikalpa": {
+            "A": "$sp^3$",
+            "B": "$sp^2$",
+            "C": "$sp$",
+            "D": "$dsp^2$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Which element must be present in an organic compound?",
+        "prashna": "कार्बनिक यौगिक में तत्व उपस्थित होना चाहिए",
+        "options": {
+            "A": "Oxygen",
+            "B": "Carbon",
+            "C": "Hydrogen",
+            "D": "Nitrogen"
+        },
+        "vikalpa": {
+            "A": "ऑक्सीजन",
+            "B": "कार्बन",
+            "C": "हाइड्रोजन",
+            "D": "नाइट्रोजन"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The property of catenation is highest in",
+        "prashna": "श्रृंखलन गुण सबसे ज्यादा होता है",
+        "options": {
+            "A": "Phosphorus",
+            "B": "Carbon",
+            "C": "Sulphur",
+            "D": "Zinc"
+        },
+        "vikalpa": {
+            "A": "फॉस्फोरस में",
+            "B": "कार्बन में",
+            "C": "सल्फर में",
+            "D": "जिंक में"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Which is an electrophilic reagent?",
+        "prashna": "इलेक्ट्रॉन स्नेही अभिकर्मक है",
+        "options": {
+            "A": "$BF_3$",
+            "B": "$NH_3$",
+            "C": "$H_2O$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$BF_3$",
+            "B": "$NH_3$",
+            "C": "$H_2O$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "Which of the following reactions does an alkene give?",
+        "prashna": "एल्कीन निम्न में से कौन अभिक्रिया देती है ?",
+        "options": {
+            "A": "Addition",
+            "B": "Substitution",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "योगात्मक",
+            "B": "प्रतिस्थापन",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The length of a carbon-carbon single bond is",
+        "prashna": "कार्बन कार्बन एकल बंध की लंबाई है",
+        "options": {
+            "A": "1.34 Å",
+            "B": "1.20 Å",
+            "C": "1.54 Å",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1.34 Å",
+            "B": "1.20 Å",
+            "C": "1.54 Å",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The valency of carbon is",
+        "prashna": "कार्बन का संयोजकता है",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The characteristic of purity of an organic solid is",
+        "prashna": "कार्बनिक ठोस की शुद्धता का लक्षण है",
+        "options": {
+            "A": "Boiling point",
+            "B": "Melting point",
+            "C": "Specific gravity",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "क्वथनांक",
+            "B": "गलनांक",
+            "C": "विशिष्ट घनत्व",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The element found in sea water is",
+        "prashna": "समुद्री जल में पाये जाने वाला तत्व है",
+        "options": {
+            "A": "Magnesium",
+            "B": "Sodium",
+            "C": "Iodine",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मैग्नेशियम",
+            "B": "सोडियम",
+            "C": "आयोडीन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The main component of C.N.G. is",
+        "prashna": "सी.एन.जी. में मुख्य रूप में होता है",
+        "options": {
+            "A": "Methane",
+            "B": "Ethane",
+            "C": "Butane",
+            "D": "Isobutane"
+        },
+        "vikalpa": {
+            "A": "मीथेन",
+            "B": "इथेन",
+            "C": "ब्यूटेन",
+            "D": "आइसोब्यूटेन"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Define standard electrode potential.",
+        "prashna": "मानक इलेक्ट्रोड विभव की परिभाषा दें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Transition elements form coloured compounds. Explain.",
+        "prashna": "संक्रमण तत्व रंगीन यौगिक बनाते हैं। व्याख्या करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "Write the structural formula of the following:",
+        "prashna": "निम्नलिखित के संरचना सूत्र लिखें:",
+        "sub_questions": {
+            "A": "4,4-Dimethyl-2-pentanol",
+            "B": "2-Butanol"
+        },
+        "anuprashna": {
+            "A": "4, 4 डाइमिथाइल-2-पेन्टेनॉल",
+            "B": "2-ब्यूटेनॉल"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Give the IUPAC names of the following:",
+        "prashna": "निम्नलिखित के IUPAC नाम बताइये:",
+        "sub_questions": {
+            "A": "$(CH_2COOH)_2$",
+            "B": "$CH_3CH(OH)COOH$"
+        },
+        "anuprashna": {
+            "A": "$(CH_2COOH)_2$",
+            "B": "$CH_3CH(OH)COOH$"
+        }
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Define Heat of Neutralization.",
+        "prashna": "उदासीनीकरण ताप की परिभाषा दें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "What is the law of mass action?",
+            "B": "What is the effect of temperature on reactions?"
+        },
+        "anuprashna": {
+            "A": "द्रव्यमान अनुपाती क्रिया का नियम क्या है?",
+            "B": "अभिक्रियाओं पर ताप का क्या प्रभाव होता है?"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "Explain the following terms:",
+        "prashna": "निम्नलिखित पदों की व्याख्या करें:",
+        "sub_questions": {
+            "A": "Coordination number",
+            "B": "Effective atomic number"
+        },
+        "anuprashna": {
+            "A": "उपसहसंयोजक संख्या",
+            "B": "प्रभावी परमाणु क्रमांक"
+        }
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "What is the difference between Schottky defect and Frenkel defect?",
+        "prashna": "सॉटकी त्रुटि तथा फ्रैंकेल त्रुटि के बीच क्या अंतर है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "When 10 gm of a non-volatile solute is dissolved in 100 gm of benzene, its boiling point increases by 1°C. Calculate the molar mass of the solute. (For benzene, $K_b = 2.53 \\text{ K kg mol}^{-1}$)",
+        "prashna": "जब 10 ग्राम मात्रा का एक अवाष्पशील घुल्य को 100 gm बेंजीन में घुलाया जाता है तो उसका क्वथनांक 1°C बढ़ जाता है। घुल्य के ग्राम अणु द्रव्यमान की गणना करें। (बेंजीन का $K_b = 2.53 \\text{ K kg mol}^{-1}$)"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "Write Faraday's first law of electrolysis.",
+            "B": "Define electrochemical equivalent."
+        },
+        "anuprashna": {
+            "A": "फैराडे के विद्युत अपघटन का प्रथम नियम को लिखें।",
+            "B": "विद्युत रासायनिक तुल्यांक की परिभाषा दें।"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "Define the following:",
+        "prashna": "निम्नलिखित की परिभाषा दें:",
+        "sub_questions": {
+            "A": "Order of reaction",
+            "B": "Threshold energy"
+        },
+        "anuprashna": {
+            "A": "अभिक्रिया की कोटि",
+            "B": "थ्रेशहोल्ड ऊर्जा"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "What do you understand by 'elevation in boiling point'?",
+            "B": "State Raoult's law. How is it used to determine the molecular mass of a non-electrolyte solute?"
+        },
+        "anuprashna": {
+            "A": "'क्वथनांक के उन्नयन' से आप क्या समझते हैं?",
+            "B": "राउल्ट नियम का उल्लेख करें। यह विद्युत-अनपघट्य घुल्य का अणुभार ज्ञात करने में किस प्रकार उपयोग है?"
+        }
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "What is a carbocation? Explain.",
+            "B": "How will you prepare benzoic acid from aniline?"
+        },
+        "anuprashna": {
+            "A": "कार्बेकिटायन क्या है? व्याख्या करें।",
+            "B": "एनिलीन से बेंजोइक अम्ल कैसे बनाएँगे?"
+        }
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "What is the difference between osmosis and diffusion? Describe the Berkeley and Hartley method for determining osmotic pressure.",
+            "B": "In a container, 18g of glucose ($C_6H_{12}O_6$) is dissolved in 1kg of water at 1.013 bar atmospheric pressure. At what temperature will the water boil? For water, $K_b = 0.52\\text{K kg mol}^{-1}$"
+        },
+        "anuprashna": {
+            "A": "परासरण एवं विसरण में क्या अंतर है? बर्कले एवं हार्टले विधि द्वारा परासरण दाब ज्ञात करने की विधि का वर्णन करें।",
+            "B": "एक पात्र में 18g ग्लूकोज ($C_6H_{12}O_6$) को 1.013 बार वायुमंडलीय दाब पर 1kg जल में घोला गया तो जल किस ताप पर उबलेगा? जल का $K_b = 0.52\\text{K kg mol}^{-1}$"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "Describe the principle of production of nitric acid from ammonia.",
+            "B": "Write the reaction of copper metal with 50% dilute nitric acid."
+        },
+        "anuprashna": {
+            "A": "अमोनिया से नाइट्रिक अम्ल उत्पादन के सिद्धांत का वर्णन करें।",
+            "B": "ताम्र धातु के साथ 50% तनु नाइट्रिक अम्ल की अभिक्रिया लिखें।"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "What happens when-",
+        "prashna": "क्या होता है जब-",
+        "sub_questions": {
+            "A": "Ethyne is reacted with cold alkaline $KMnO_4$ solution?",
+            "B": "Acetaldehyde is heated with bleaching powder?",
+            "C": "Ethyl alcohol is oxidized?"
+        },
+        "anuprashna": {
+            "A": "इथाइन को ठंडे क्षारीय $KMnO_4$ घोल के साथ अभिक्रिया करायी जाती है?",
+            "B": "ऐसीटल्डिहाइड को विरंजक चूर्ण के साथ गर्म किया जाता है?",
+            "C": "इथाइल अल्कोहॉल का ऑक्सीकरण होता है?"
+        }
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "",
+        "prashna": "",
+        "sub_questions": {
+            "A": "Clarify the difference between methyl alcohol and ethyl alcohol.",
+            "B": "How will you carry out the following conversions? (i) Aniline to Phenol (ii) Phenol to Benzene (iii) Ethane to Butane"
+        },
+        "anuprashna": {
+            "A": "मिथाइल अल्कोहॉल एवं इथाइल अल्कोहॉल के बीच का अन्तर स्पष्ट करें।",
+            "B": "निम्नलिखित परिवर्तन आप कैसे करेंगे ? (i) एनिलिन से फेनॉल (ii) फेनॉल से बेंजीन (iii) इथेन से ब्यूटेन"
+        }
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Write the names of two main ores of iron and write the reaction for its extraction from its ore.",
+        "prashna": "लोहा के दो मुख्य अयस्कों के नाम लिखें तथा उसके अयस्क से निष्कासन की अभिक्रिया को लिखें।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Write the name of the main ore of aluminium and write the reaction for its extraction from its ore.",
+        "prashna": "एल्युमिनियम के मुख्य अयस्क का नाम लिखें तथा उसे अयस्क से निष्कासन की अभिक्रिया को लिखें।"
+    },
+    {
+        "id": "long_4_3",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "What are the main sources of iodine? Describe the extraction of iodine from seaweed.",
+        "prashna": "आयोडीन के मुख्य स्रोत क्या है? समुद्री घास से आयोडीन के निष्कासन का वर्णन करें।"
+    }
+]
