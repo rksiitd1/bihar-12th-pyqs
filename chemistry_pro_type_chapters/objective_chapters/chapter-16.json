@@ -1,0 +1,442 @@
+{
+  "2009": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following drugs reduces fever?",
+      "prashna": "निम्न में कौन-सी दवा बुखार को कम करता है?",
+      "options": {
+        "A": "Analgesic",
+        "B": "Antibiotic",
+        "C": "Antipyretic",
+        "D": "Tranquilizer"
+      },
+      "vikalpa": {
+        "A": "एनलजेसिक",
+        "B": "एन्टीबायोटिक",
+        "C": "एन्टीपाइरेटिक",
+        "D": "ट्रैंक्वीलाइजर"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "The antiseptic action of $CHI_3$ is due to",
+      "prashna": "$CHI_3$ में एन्टीसेप्टिक क्रिया का कारण है",
+      "options": {
+        "A": "Iodoform",
+        "B": "Liberation of free iodine",
+        "C": "Partial iodine and partial $CHI_3$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आइडोफार्म",
+        "B": "आयोडीन मुक्त होकर निकलना",
+        "C": "आंशिक आयोडीन और आंशिक $CHI_3$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Chloramphenicol is",
+      "prashna": "क्लोरमफेनिकॉल है",
+      "options": {
+        "A": "Antibiotic",
+        "B": "Analgesic",
+        "C": "Antipyretic",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एन्टिबायोटीक",
+        "B": "एनालजेसिक",
+        "C": "एन्टिपायरेटिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Match the following: B.H.C.",
+      "prashna": "निम्नलिखित का मिलान करें: बी.एच.सी. (BHC)",
+      "options": {
+        "A": "Hypnotic",
+        "B": "Semiconductor",
+        "C": "Insecticide",
+        "D": "Colloid"
+      },
+      "vikalpa": {
+        "A": "सस्मोहक (Hypnotic)",
+        "B": "अर्धचालक (Semiconductor)",
+        "C": "कीटनाशी (Insecticide)",
+        "D": "कोलॉइड (Colloid)"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Match the following: Chloretone",
+      "prashna": "निम्नलिखित का मिलान करें: क्लोरटोन (Chloretone)",
+      "options": {
+        "A": "Hypnotic",
+        "B": "Semiconductor",
+        "C": "Insecticide",
+        "D": "Colloid"
+      },
+      "vikalpa": {
+        "A": "सस्मोहक (Hypnotic)",
+        "B": "अर्धचालक (Semiconductor)",
+        "C": "कीटनाशी (Insecticide)",
+        "D": "कोलॉइड (Colloid)"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Washing soda is",
+      "prashna": "कपड़ा धोने का सोडा होता है।",
+      "options": {
+        "A": "$Na_2CO_3.10H_2O$",
+        "B": "$Na_2CO_3.5H_2O$",
+        "C": "$Na_2CO_3$",
+        "D": "$NaOH$"
+      },
+      "vikalpa": {
+        "A": "$Na_2CO_3.10H_2O$",
+        "B": "$Na_2CO_3.5H_2O$",
+        "C": "$Na_2CO_3$",
+        "D": "$NaOH$"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which antibiotic is used in typhoid?",
+      "prashna": "टाइफ्वाइड में प्रयुक्त होने वाला प्रतिजैविक कौन है?",
+      "options": {
+        "A": "Penicillin",
+        "B": "Isoprene",
+        "C": "Terramycin",
+        "D": "Sulphadiazine"
+      },
+      "vikalpa": {
+        "A": "पेनिसिलिन",
+        "B": "आइसोप्रीन",
+        "C": "टेरामाइसिन",
+        "D": "सल्फाडाइजीन"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Dettol is used as -",
+      "prashna": "डेटॉल का उपयोग किया जाता है -",
+      "options": {
+        "A": "Disinfectant",
+        "B": "Antiseptic",
+        "C": "Antimalarial",
+        "D": "All"
+      },
+      "vikalpa": {
+        "A": "संक्रमणहारी",
+        "B": "प्रतिरोधी",
+        "C": "मलेरिया रोधी",
+        "D": "सभी"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Drug used to reduce fever is called -",
+      "prashna": "ज्वर को कम करने के लिये उपयोगी दवा को कहते हैं -",
+      "options": {
+        "A": "Antipyretic",
+        "B": "Analgesic",
+        "C": "Antacid",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "ज्वरनाशी",
+        "B": " पीड़ाहारी",
+        "C": "प्रत्ताम्ल",
+        "D": "कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Over production of acid in stomach can be controlled by -",
+      "prashna": "पेट में अत्यधिक अम्ल को बनने से रोका जा सकता है -",
+      "options": {
+        "A": "Antacid",
+        "B": "Analgesic",
+        "C": "Antipyretic",
+        "D": "Antibiotic"
+      },
+      "vikalpa": {
+        "A": "प्रत्यम्ल",
+        "B": " पीड़ाहारी",
+        "C": "ज्वरनाशी",
+        "D": "प्रतिजैविक"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following is artificial sweetening agent ?",
+      "prashna": "निम्नलिखित में कौन कृत्रिम मीठा अभिकर्ता है ?",
+      "options": {
+        "A": "Saccharin",
+        "B": "Aspartame",
+        "C": "Sodium cyclomate",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सैकरीन",
+        "B": "ऐस्पारटेम",
+        "C": "सोडियम साइक्लोमेट",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "A substance which lowers the body temperature is known as",
+      "prashna": "वह पदार्थ जो शरीर के ताप को कम करता है, कहलाता है",
+      "options": {
+        "A": "Antipyretic",
+        "B": "Analgesic",
+        "C": "Antibiotic",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "ज्वरनाशी",
+        "B": "पीड़ाहारी",
+        "C": "प्रतिजैविक",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Chloroquine is an",
+      "prashna": "क्लोरोक्वीन है एक",
+      "options": {
+        "A": "analgesic",
+        "B": "antibiotic",
+        "C": "antimalarial",
+        "D": "antipyretic"
+      },
+      "vikalpa": {
+        "A": "दर्द नाशक",
+        "B": "एंटीबायोटिक",
+        "C": "ऐंटीमैलेरियल",
+        "D": "ज्वर नाशक"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following is not a broad spectrum antibiotic ?",
+      "prashna": "निम्नलिखित में कौन ब्रॉड स्पेक्ट्रम एंटीबायोटिक नहीं है ?",
+      "options": {
+        "A": "Tetracycline",
+        "B": "Chloromycetin",
+        "C": "Penicillin",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "टेट्रासाइक्लीन",
+        "B": "क्लोरोमाइसेटीन",
+        "C": "पेनिसिलीन",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following is used as an antacid ?",
+      "prashna": "निम्नलिखित में से किसका उपयोग ऐंटासिड के रूप में होता है ?",
+      "options": {
+        "A": "Magnesium hydroxide",
+        "B": "Phenacetin",
+        "C": "Penicillin",
+        "D": "Sulphanilamide"
+      },
+      "vikalpa": {
+        "A": "मैग्नेशियम हाइड्रॉक्साइड",
+        "B": "फिनासेटिन",
+        "C": "पेनिसिलीन",
+        "D": "सल्फानिलामाइड"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Saccharin is a/an",
+      "prashna": "सैकरीन है एक",
+      "options": {
+        "A": "Aliphatic hydrocarbon",
+        "B": "Sweetening agent",
+        "C": "Polynuclear compound",
+        "D": "Sugar"
+      },
+      "vikalpa": {
+        "A": "ऐलिफैटिक हाइड्रोकार्बन",
+        "B": "मीठा अभिकर्त्ता",
+        "C": "पॉलीन्यूक्लियर यौगिक",
+        "D": "चीनी"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following is used as a soap ?",
+      "prashna": "निम्नलिखित में से किसका उपयोग साबुन के रूप में होता है ?",
+      "options": {
+        "A": "$C_{17}H_{35}COONa$",
+        "B": "$(C_{17}H_{35}COO)_2Ca$",
+        "C": "$C_{17}H_{35}COOH$",
+        "D": "$C_{15}H_{31}COOH$"
+      },
+      "vikalpa": {
+        "A": "$C_{17}H_{35}COONa$",
+        "B": "$(C_{17}H_{35}COO)_2Ca$",
+        "C": "$C_{17}H_{35}COOH$",
+        "D": "$C_{15}H_{31}COOH$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following is antioxidant ?",
+      "prashna": "निम्नलिखित में से कौन प्रतिऑक्सीकारक है ?",
+      "options": {
+        "A": "Lecithin",
+        "B": "Citric acid",
+        "C": "Vitamin E",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "लेसीथिन",
+        "B": "सिट्रिक अम्ल",
+        "C": "विटामिन E",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Chloramine-T is a/an",
+      "prashna": "क्लोरऐमीन-T है एक",
+      "options": {
+        "A": "Disinfectant",
+        "B": "Antiseptic",
+        "C": "Analgesic",
+        "D": "Antipyretic"
+      },
+      "vikalpa": {
+        "A": "डिसइनफेक्टैंट",
+        "B": "ऐंटीसेप्टिक",
+        "C": "एनालजेसिक",
+        "D": "ऐंटीपायरेटिक"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Hydrazine is a drug which is used in the treatment of which of the following?",
+      "prashna": "हाइड्राजीन एक दवा है जिसका उपयोग निम्नलिखित में किसके इलाज में होता है ?",
+      "options": {
+        "A": "Malaria",
+        "B": "Typhoid",
+        "C": "Cholera",
+        "D": "Tuberculosis"
+      },
+      "vikalpa": {
+        "A": "मलेरिया",
+        "B": "टायफाइड",
+        "C": "कॉलेरा",
+        "D": "ट्यूबरकुलोसिस"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Chemistry in Everyday Life",
+      "question": "Which of the following is an alkaloid ?",
+      "prashna": "निम्नलिखित में कौन एक एल्कालाइड है ?",
+      "options": {
+        "A": "Nicotine",
+        "B": "Atropine",
+        "C": "Cocaine",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "निकोटीन",
+        "B": "एट्रोपीन",
+        "C": "कोकेन",
+        "D": "इनमें से सभी"
+      }
+    }
+  ]
+}

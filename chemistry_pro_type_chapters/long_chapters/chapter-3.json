@@ -1,0 +1,30 @@
+{
+  "2011": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Electrochemistry",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "What is the difference between ferromagnetism and paramagnetism?",
+        "b": "Calculate the standard cell potential for the cell shown below: $Zn(s) | ZnSO_4(aq) || CuSO_4(aq) | Cu(s)$, if the standard reduction electrode potentials for $Cu^{2+}|Cu$ and $Zn^{2+}|Zn$ are +0.34 V and -0.76 V respectively."
+      },
+      "anuprashna": {
+        "a": "फेरोचुम्बकीय तथा पाराचुम्बकीय में क्या अंतर है?",
+        "b": "नीचे दिखाए गए सेल के लिए $Zn(s) | ZnSO_4(aq) || CuSO_4(aq) | Cu(s)$ मानक सेल विभव की गणना करें यदि मानक अवकारक इलेक्ट्रोड विभव $Cu^{2+}|Cu$ तथा $Zn^{2+}|Zn$ के लिए क्रमश: +0.34 V तथा -0.76 V दिया हुआ है।"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Electrochemistry",
+      "question": "What is electrochemical cell ? Explain the structure of an electrochemical cell.",
+      "prashna": "विद्युत-रासायनिक सेल क्या है ? एक विद्युत-रासायनिक सेल की बनावट का वर्णन करें।"
+    }
+  ]
+}

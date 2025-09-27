@@ -1,0 +1,80 @@
+{
+  "2014": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Explain the following with reasons:",
+      "prashna": "निम्नलिखित की कारण सहित व्याख्या करें:",
+      "sub_questions": {
+        "i": "Aniline is soluble in $HCl$.",
+        "ii": "Amines are stronger bases than ammonia.",
+        "iii": "Ethylamine is more basic than aniline.",
+        "iv": "Cyclohexylamine is more basic than aniline.",
+        "v": "Phenol is acidic in nature."
+      },
+      "anuprashna": {
+        "i": "एनिलीन $HCl$ में घुलनशील है।",
+        "ii": "अमीन, अमोनिया से प्रबल क्षार होते हैं।",
+        "iii": "एनिलीन से एथिल अमीन अधिक क्षारीय होते हैं।",
+        "iv": "साइक्लोहेक्सामीन एनिलीन से ज्यादा क्षारीय होते हैं।",
+        "v": "फेनॉल की प्रकृति अम्लीय होती है।"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you prepare ethyl amine in the laboratory?",
+      "prashna": "प्रयोगशाला में इथाइल एमीन कैसे तैयार करेंगे?"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you prepare aniline in the laboratory?",
+      "prashna": "प्रयोगशाला में एनीलीन कैसे तैयार करेंगे ?"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "What is a carbocation? Explain.",
+        "B": "How will you prepare benzoic acid from aniline?"
+      },
+      "anuprashna": {
+        "A": "कार्बेकिटायन क्या है? व्याख्या करें।",
+        "B": "एनिलीन से बेंजोइक अम्ल कैसे बनाएँगे?"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Describe the following reactions:",
+      "prashna": "निम्नलिखित अभिक्रियाओं का वर्णन करें:",
+      "sub_questions": {
+        "i": "Hofmann bromamide reaction",
+        "ii": "Clemmensen's reduction of Aldehyde and Ketone"
+      },
+      "anuprashna": {
+        "i": "हॉफमैन ब्रोमामाइड अभिक्रिया",
+        "ii": "एल्डिहाइड और कीटोन का क्लेमेनसन अवकरण"
+      }
+    }
+  ]
+}
