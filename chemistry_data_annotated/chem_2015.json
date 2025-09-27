@@ -1,0 +1,774 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "96500 Coulomb of electricity liberates from a solution of $CuSO_4$.",
+        "prashna": "96500 कूलॉम विद्युत $CuSO_4$ के विलयन से मुक्त करता है।",
+        "options": {
+            "A": "63.5 gram copper",
+            "B": "31.76 gram copper",
+            "C": "96500 gram copper",
+            "D": "100 gram copper"
+        },
+        "vikalpa": {
+            "A": "63.5 ग्राम ताँबा",
+            "B": "31.76 ग्राम ताँबा",
+            "C": "96500 ग्राम ताँबा",
+            "D": "100 ग्राम ताँबा"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The shape of $XeF_4$ is",
+        "prashna": "$XeF_4$ का आकार होता है",
+        "options": {
+            "A": "Tetrahedral",
+            "B": "Square planar",
+            "C": "Pyramidal",
+            "D": "Linear"
+        },
+        "vikalpa": {
+            "A": "चतुष्फलकीय",
+            "B": "स्क्वायर प्लेनर",
+            "C": "पिरामिडल",
+            "D": "लिनियर"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following is the strongest Lewis acid?",
+        "prashna": "निम्नलिखित में सबसे प्रबल लीविस अम्ल है।",
+        "options": {
+            "A": "$BF_3$",
+            "B": "$BCl_3$",
+            "C": "$BBr_3$",
+            "D": "$BI_3$"
+        },
+        "vikalpa": {
+            "A": "$BF_3$",
+            "B": "$BCl_3$",
+            "C": "$BBr_3$",
+            "D": "$BI_3$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "The equilibrium constant $K_p$ for the chemical reaction $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$ depends on",
+        "prashna": "रासायनिक अभिक्रिया $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$ का साम्य स्थिरांक $K_p$ निर्भर करता है",
+        "options": {
+            "A": "Total pressure",
+            "B": "Catalyst",
+            "C": "Amount of $H_2$ and $I_2$",
+            "D": "Temperature"
+        },
+        "vikalpa": {
+            "A": "पूर्ण दाब पर",
+            "B": "उत्प्रेरक पर",
+            "C": "$H_2$ तथा $I_2$ की मात्रा पर",
+            "D": "तापक्रम पर"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "The rate of a reaction is expressed as follows: rate = $k[A]^2[B]$. What is the order of this reaction?",
+        "prashna": "किसी अभिक्रिया का वेग निम्नांकित प्रकार से व्यक्त होता है। वेग = $k[A]^2[B]$, तो इस अभिक्रिया की कोटी क्या है?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "2 grams of $NaOH$ are dissolved in 200 ml of a solution. What is the molarity of the solution?",
+        "prashna": "किसी विलयन के 200 ml में 2 ग्राम $NaOH$ घुले हैं। विलयन की मोलरता क्या है?",
+        "options": {
+            "A": "0.25",
+            "B": "0.5",
+            "C": "5",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "0.25",
+            "B": "0.5",
+            "C": "5",
+            "D": "10"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following does not form a hydrogen bond?",
+        "prashna": "निम्नलिखित में कौन हाइड्रोजन बन्धन नहीं बनाता है?",
+        "options": {
+            "A": "$NH_3$",
+            "B": "$H_2O$",
+            "C": "$HCl$",
+            "D": "$HF$"
+        },
+        "vikalpa": {
+            "A": "$NH_3$",
+            "B": "$H_2O$",
+            "C": "$HCl$",
+            "D": "$HF$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The main source of Helium is",
+        "prashna": "हीलियम का मुख्य स्रोत है",
+        "options": {
+            "A": "Air",
+            "B": "Radium",
+            "C": "Monazite",
+            "D": "Water"
+        },
+        "vikalpa": {
+            "A": "हवा",
+            "B": "रेडियम",
+            "C": "मोनाजाइट",
+            "D": "जल"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Which of the following metals is liquid at ordinary temperature?",
+        "prashna": "निम्नलिखित में कौन-सा धातु साधारण तापक्रम पर द्रव होता है?",
+        "options": {
+            "A": "Zinc",
+            "B": "Mercury",
+            "C": "Bromine",
+            "D": "Water"
+        },
+        "vikalpa": {
+            "A": "जिंक",
+            "B": "पारा",
+            "C": "ब्रोमिन",
+            "D": "जल"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following is the least basic?",
+        "prashna": "निम्नलिखित में सबसे कम भास्मिक है",
+        "options": {
+            "A": "$NCl_3$",
+            "B": "$NBr_3$",
+            "C": "$NI_3$",
+            "D": "$NF_3$"
+        },
+        "vikalpa": {
+            "A": "$NCl_3$",
+            "B": "$NBr_3$",
+            "C": "$NI_3$",
+            "D": "$NF_3$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "$H_2SO_4$ is a",
+        "prashna": "$H_2SO_4$ है",
+        "options": {
+            "A": "Acid",
+            "B": "Base",
+            "C": "Alkali",
+            "D": "Salt"
+        },
+        "vikalpa": {
+            "A": "अम्ल",
+            "B": "भस्म",
+            "C": "क्षार",
+            "D": "लवण"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Which of the following is called green vitriol?",
+        "prashna": "निम्न में से हरा थोथा कहते हैं",
+        "options": {
+            "A": "to $FeSO_4 \\cdot 7H_2O$",
+            "B": "to $CuSO_4 \\cdot 5H_2O$",
+            "C": "to $CaSO_4 \\cdot 2H_2O$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$FeSO_4 \\cdot 7H_2O$ को",
+            "B": "$CuSO_4 \\cdot 5H_2O$ को",
+            "C": "$CaSO_4 \\cdot 2H_2O$ को",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "The elements of which group are called transition elements?",
+        "prashna": "किस ग्रुप के तत्त्वों को संक्रमण तत्व कहा जाता है?",
+        "options": {
+            "A": "p-block",
+            "B": "s-block",
+            "C": "d-block",
+            "D": "f-block"
+        },
+        "vikalpa": {
+            "A": "p-ब्लॉक",
+            "B": "s-ब्लॉक",
+            "C": "d-ब्लॉक",
+            "D": "f-ब्लॉक"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Concentration of sulphide ore is done by",
+        "prashna": "सल्फाइड अयस्क का समाहरण किया जाता है",
+        "options": {
+            "A": "Froth floatation process",
+            "B": "Electrolysis",
+            "C": "Roasting",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फेन उत्प्लावन विधि द्वारा",
+            "B": "विद्युत विच्छेदन द्वारा",
+            "C": "भर्जन द्वारा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Sodium is a member of which group in the periodic table?",
+        "prashna": "सोडियम आवर्त सारणी में किस ग्रुप का सदस्य है?",
+        "options": {
+            "A": "Group I",
+            "B": "Group II",
+            "C": "Group IV",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ग्रुप ।",
+            "B": "ग्रुप ।।",
+            "C": "ग्रुप IV",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "The most abundant element on the earth's crust is.",
+        "prashna": "भूपर्पटी पर सर्वाधिक पाये जाने वाला तत्व है।",
+        "options": {
+            "A": "Si",
+            "B": "Al",
+            "C": "Zn",
+            "D": "Fe"
+        },
+        "vikalpa": {
+            "A": "Si",
+            "B": "Al",
+            "C": "Zn",
+            "D": "Fe"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Malachite is an ore of",
+        "prashna": "मालाकाईट अयस्क है",
+        "options": {
+            "A": "Iron",
+            "B": "Copper",
+            "C": "Zinc",
+            "D": "Silver"
+        },
+        "vikalpa": {
+            "A": "लोहा",
+            "B": "कॉपर",
+            "C": "जिंक",
+            "D": "सिल्वर"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "The formula of copper pyrite is",
+        "prashna": "कॉपर पाइराइट का सूत्र है",
+        "options": {
+            "A": "$Cu_2S$",
+            "B": "$CuFeS$",
+            "C": "$CuFeS_2$",
+            "D": "$Cu_2Fe_2S_2$"
+        },
+        "vikalpa": {
+            "A": "$Cu_2S$",
+            "B": "$CuFeS$",
+            "C": "$CuFeS_2$",
+            "D": "$Cu_2Fe_2S_2$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Ore of Aluminium is",
+        "prashna": "एल्युमिनियम का अयस्क है",
+        "options": {
+            "A": "Bauxite",
+            "B": "Haematite",
+            "C": "Dolomite",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बाक्साइट",
+            "B": "हेमाटाइट",
+            "C": "डोलोमाइट",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "$K_4[Fe(CN)_6]$ is a",
+        "prashna": "$K_4[Fe(CN)_6]$ है",
+        "options": {
+            "A": "Double salt",
+            "B": "Complex salt",
+            "C": "Acid",
+            "D": "Base"
+        },
+        "vikalpa": {
+            "A": "डबल साल्ट",
+            "B": "जटिल लवण",
+            "C": "अम्ल",
+            "D": "भस्म"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The general formula of alkyne is",
+        "prashna": "एल्किन का सामान्य सूत्र है",
+        "options": {
+            "A": "$C_nH_{2n}$",
+            "B": "$C_nH_{2n+2}$",
+            "C": "$C_nH_{2n-2}$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$C_nH_{2n}$",
+            "B": "$C_nH_{2n+2}$",
+            "C": "$C_nH_{2n-2}$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The hybridization of carbon in ethane is",
+        "prashna": "इथेन में कार्बन का संकरण है",
+        "options": {
+            "A": "$sp^3$",
+            "B": "$sp^2$",
+            "C": "$sp$",
+            "D": "$sp^3d^2$"
+        },
+        "vikalpa": {
+            "A": "$sp^3$",
+            "B": "$sp^2$",
+            "C": "$sp$",
+            "D": "$sp^3d^2$"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Dry distillation of calcium formate gives",
+        "prashna": "कैल्सियम फार्मेट का शुष्क स्रवण देता है",
+        "options": {
+            "A": "$HCHO$",
+            "B": "$HCOOH$",
+            "C": "$CH_3COOH$",
+            "D": "$CH_3CHO$"
+        },
+        "vikalpa": {
+            "A": "$HCHO$",
+            "B": "$HCOOH$",
+            "C": "$CH_3COOH$",
+            "D": "$CH_3CHO$"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "The volume of one mole of any gas at normal temperature and pressure is",
+        "prashna": "सामान्य ताप एवं दाब पर किसी गैस के एक मोल का आयतन है",
+        "options": {
+            "A": "11.2 litre",
+            "B": "22.4 litre",
+            "C": "10.2 litre",
+            "D": "22.8 litre"
+        },
+        "vikalpa": {
+            "A": "11.2 लीटर",
+            "B": "22.4 लीटर",
+            "C": "10.2 लीटर",
+            "D": "22.8 लीटर"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Avogadro's number (N) is equal to",
+        "prashna": "ऐवोगेड्रो संख्या (N) बराबर है",
+        "options": {
+            "A": "$6.023 \\times 10^{24}$",
+            "B": "$6.023 \\times 10^{23}$",
+            "C": "$6.023 \\times 10^{-23}$",
+            "D": "11.2"
+        },
+        "vikalpa": {
+            "A": "$6.023 \\times 10^{24}$",
+            "B": "$6.023 \\times 10^{23}$",
+            "C": "$6.023 \\times 10^{-23}$",
+            "D": "11.2"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "The number of $\\pi$ bonds in ethyne is",
+        "prashna": "इथाइन में $\\pi$ बाण्ड की संख्या है",
+        "options": {
+            "A": "one",
+            "B": "two",
+            "C": "three",
+            "D": "four"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "तीन",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Who created the modern periodic table?",
+        "prashna": "आधुनिक आवर्त सारणी किसने बनाया ?",
+        "options": {
+            "A": "Dobereiner",
+            "B": "Mendeleev",
+            "C": "Mendel",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "डेबोनियर",
+            "B": "मैन्डलिफ",
+            "C": "मैन्डल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following is an alkaline earth element?",
+        "prashna": "निम्न में कौन क्षारीय भूमिज तत्त्व है?",
+        "options": {
+            "A": "Carbon",
+            "B": "Sodium",
+            "C": "Zinc",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "कार्बन",
+            "B": "सोडियम",
+            "C": "जिंक",
+            "D": "लोहा"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following compounds will have ionic character in its chemical bond? LiCl or KCl",
+        "prashna": "निम्नलिखित यौगिकों में से किसके रासायनिक आबंध में आयनिक अभिलक्षण होगा? LiCl अथवा KCl"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "What is activation energy? Establish a relationship between the rate constant of a reaction and activation energy.",
+        "prashna": "सक्रिय ऊर्जा क्या है? किसी अभिक्रिया के वेग स्थिरांक और सक्रिय ऊर्जा में संबंध स्थापित करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "Give a brief description of the structure of CsCl.",
+        "prashna": "CsCl के बनावट का संक्षिप्त विवरण दें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "The osmotic pressure of a sugar solution is 2.46 atm at 27°C. What will be the concentration of this solution?",
+        "prashna": "चीनी के घोल का परासरणी दाव 27°C पर 2.46 atm है। इस घोल का समाहरण क्या होगा?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Explain the difference between molarity and molality of a solution.",
+        "prashna": "किसी घोल की मोलरता एवं मोललता में अंतर को समझाए।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Explain Raoult's law of relative lowering of vapour pressure.",
+        "prashna": "रॉउल्ट के वाष्पदाय के सापेक्ष अवनमन नियम की व्याख्या करें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "How many moles of Cu will be obtained by passing 24125 Coulomb of electricity through a $CuSO_4$ solution?",
+        "prashna": "$CuSO_4$ घोल से 24125 कुलॉम विद्युत प्रवाहित करने पर कितना मोल Cu मिलेगा?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "For a chemical reaction A + B → Product, if the rate of reaction is R = $k[A]^{1/2}[B]^{3/2}$, then what will be the order of the reaction?",
+        "prashna": "किसी रासायनिक अभिक्रिया A + B → प्रतिफल, के अभिक्रिया का दर अगर R = $k[A]^{1/2}[B]^{3/2}$ है, तो अभिक्रिया की कोटि क्या होगी ?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "What is Tyndall effect? Explain.",
+        "prashna": "टिन्ड्ल प्रभाव क्या है? व्याख्या करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Write the names of two ores of copper.",
+        "prashna": "कॉपर के दो अयस्कों के नाम लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "How will you convert the following?",
+        "prashna": "निम्नलिखित का परिवर्तन कैसे करेंगे?",
+        "sub_questions": {
+            "A": "Ethyl amine to ethyl alcohol",
+            "B": "Ethyl alcohol to ethyl amine"
+        },
+        "anuprashna": {
+            "A": "इथाइल अमीन से इथाइल अल्कोहल",
+            "B": "इथाइल अल्कोहल से इथाइल अमीन"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Name two main ores of iron. Describe the method of manufacturing iron from its ore. Give chemical equations.",
+        "prashna": "लोहा के दो मुख्य अयस्कों के नाम दें। अयस्क से लोहा बनाने की विधि का वर्णन करें। रासायनिक समीकरण दें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "Write the names of the main ores of Aluminium. Write the principle of its extraction from the ore.",
+        "prashna": "एल्युमिनियम के मुख्य अयस्कों के नाम लिखें। इसे अयस्क से निष्कासन के सिद्धांत को लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Give the equation for the reaction of nitric acid with the following-",
+        "prashna": "निम्नलिखित से नाइट्रिक अम्ल की अभिक्रिया का समीकरण दें-",
+        "sub_questions": {
+            "i": "Copper",
+            "ii": "Iron"
+        },
+        "anuprashna": {
+            "i": "कॉपर",
+            "ii": "लोहा"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Describe the method of manufacturing sulphuric acid by the lead chamber process with its principle.",
+        "prashna": "लेड कक्ष द्वारा गंधकाम्ल के बनाने की विधि का वर्णन सिद्धांत सहित करें।"
+    },
+    {
+        "id": "long_2_3",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "What are the main sources of Iodine? Write about the extraction of iodine from seaweeds.",
+        "prashna": "आयोडीन के मुख्य स्रोत क्या हैं? समुद्री घास-पात से आयोडीन के निष्कासन को लिखें।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "How will you prepare ethyl amine in the laboratory?",
+        "prashna": "प्रयोगशाला में इथाइल एमीन कैसे तैयार करेंगे?"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "How will you prepare aniline in the laboratory?",
+        "prashna": "प्रयोगशाला में एनीलीन कैसे तैयार करेंगे ?"
+    },
+    {
+        "id": "long_3_3",
+        "type": "long_answer",
+        "chapter": "14",
+        "chapter_name": "Biomolecules",
+        "question": "What is carbohydrate? How are they classified?",
+        "prashna": "कार्बोहाइड्रेट क्या है? इनका वर्गीकरण कैसे किया जाता है?"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Explain why -",
+        "prashna": "बताइए क्यों -",
+        "sub_questions": {
+            "a": "The boiling point of $NH_3$ is higher than that of $PH_3$.",
+            "b": "Chloroacetic acid is stronger than acetic acid.",
+            "c": "Among inert gases, only Xe forms chemical compounds.",
+            "d": "HF is a weaker acid compared to HI.",
+            "e": "$H_3PO_3$ is a di-protic acid."
+        },
+        "anuprashna": {
+            "a": "$NH_3$ का क्वथनांक $PH_3$ से ज्यादा है।",
+            "b": "क्लोरोऐसिटिक अम्ल ऐसिटिक अम्ल से प्रबल है।",
+            "c": "अक्रिय गैसों में केवल Xe ही रासायनिक यौगिक बनाता है।",
+            "d": "HF, HI की तुलना में दुर्बल अम्ल है।",
+            "e": "$H_3PO_3$ एक डाइ-प्रोटिक अम्ल है।"
+        }
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "What happens when-",
+        "prashna": "क्या होता है जब-",
+        "sub_questions": {
+            "a": "Sodium acetate is heated with soda lime?",
+            "b": "Calcium carbide is reacted with water?",
+            "c": "Acetylene is passed through a red hot copper tube?",
+            "d": "Methane reacts with chlorine in indirect sunlight?",
+            "e": "Ethyl alcohol is oxidized?"
+        },
+        "anuprashna": {
+            "a": "सोडियम ऐसिटेट को सोडा लाइम के साथ गर्म करते हैं?",
+            "b": "कैल्सियम कार्बाइड को जल से अभिक्रिया कराते हैं?",
+            "c": "एसीटीलीन का लाल तप्त कॉपर नली से प्रवाहित कराते हैं?",
+            "d": "मिथेन सूर्य के अप्रत्यक्ष प्रकाश में क्लोरीन से अभिक्रिया करता है?",
+            "e": "इथाइल अल्कोहल का ऑक्सीकरण होता है?"
+        }
+    }
+]
