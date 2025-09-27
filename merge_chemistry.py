@@ -22,7 +22,7 @@ def main() -> None:
     output_dir = "chemistry_pro"
     os.makedirs(output_dir, exist_ok=True)
 
-    input_files = sorted(glob.glob(os.path.join(source_dir, "bio_*.json")))
+    input_files = sorted(glob.glob(os.path.join(source_dir, "chem_*.json")))
     grouped_by_year: Dict[str, List[Dict[str, Any]]] = {}
     per_file_counts: Dict[str, int] = {}
 
@@ -66,5 +66,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-

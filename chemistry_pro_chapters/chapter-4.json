@@ -1,0 +1,900 @@
+{
+  "2009": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The unit of rate constant for a first-order reaction is",
+      "prashna": "प्रथम कोटि की अभिक्रिया के लिए वेग स्थिरांक की इकाई होती है",
+      "options": {
+        "A": "$time^{-1}$",
+        "B": "$mol \\cdot L^{-1} \\cdot s^{-1}$",
+        "C": "$L \\cdot mol^{-1} \\cdot s^{-1}$",
+        "D": "$L \\cdot mol^{-1} \\cdot s^{-1}$"
+      },
+      "vikalpa": {
+        "A": "समय$^{-1}$",
+        "B": "मोल लीटर $^{-1}$ सेकेण्ड $^{-1}$",
+        "C": "लीटर मोल $^{-1}$ सेकेण्ड $^{-1}$",
+        "D": "लीटर मोल $^{-1}$ सेकेण्ड $^{-1}$"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What is the rate constant of a reaction? Derive the expression for the rate constant for a first-order reaction.",
+      "prashna": "अभिक्रिया का गति स्थिरांक क्या है ? प्रथम कोटि के अभिक्रिया के लिए गति स्थिरांक का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2010": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "A first-order reaction takes 60 minutes for 75% completion. Find the half-life of this reaction.",
+        "B": "Give one example each of zero-order and first-order reactions."
+      },
+      "anuprashna": {
+        "A": "एक प्रथम क्रम की अभिक्रिया को 75% पूरा होने में 60 मिनट लगता है। इस अभिक्रिया का अर्धजीवन काल निकालें।",
+        "B": "शून्य क्रम और प्रथम क्रम अभिक्रियाओं का एक-एक उदाहरण दें।"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The order of the reaction in water under sunlight is:",
+      "prashna": "जल मे [सूर्य प्रकाश] अभिक्रिया की कोटि है",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "0"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Define the following-",
+      "prashna": "निम्नलिखित की परिभाषा दें-",
+      "sub_questions": {
+        "a": "Order of reaction",
+        "b": "Threshold energy"
+      },
+      "anuprashna": {
+        "a": "अभिक्रिया की कोटि",
+        "b": "थ्रेसहोल्ड ऊर्जा"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The value of the rate constant for a first-order reaction is $60 sec^{-1}$. How much time will it take for 75% completion of this reaction?",
+      "prashna": "प्रथम कोटि की अभिक्रिया के वेग स्थिरांक का मान $60 sec^{-1}$ है। इसी अभिक्रिया के 75% पूरा होने में कितना समय लगेगा?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Prove that the half-life period of a first-order reaction does not depend on the initial concentration.",
+      "prashna": "प्रमाणित करें कि प्रथम कोटि अभिक्रिया का अर्धजीवन काल आरंभिक सांद्रण पर निर्भर नहीं करता है।"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Define the order and molecularity of a reaction. Derive the general expression for the specific rate constant of a first-order reaction.",
+      "prashna": "अभिक्रिया को कोटि तथा आणविकता की परिभाषा दें। प्रथम कोटि की अभिक्रिया के विशिष्ट वेग-स्थिरांक के लिए सामान्य व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of a reaction is expressed as follows: rate = $k[A]^2[B]$. The order of this reaction will be-",
+      "prashna": "किसी अभिक्रिया का वेग निम्नांकित प्रकार से व्यक्त होता है- वेग = $k[A]^2[B]$ तो इस अभिक्रिया की कोटि होगी-",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What is activation energy? Establish the relationship between the rate constant of a reaction and activation energy.",
+      "prashna": "सक्रिय ऊर्जा क्या है? किसी अभिक्रिया के वेग स्थिरांक और सक्रिय ऊर्जा में संबंध स्थापित करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What do you understand by a first-order reaction? Derive the expression for a first-order reaction.",
+      "prashna": "प्रथम कोटि अभिक्रिया से आप क्या समझते हैं?, प्रथम कोटि अभिक्रिया का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_35",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Show that the half-life of a first-order reaction does not depend on its initial concentration.",
+      "prashna": "दिखाइए कि प्रथम कोटि अभिक्रिया का अर्धजीवन काल अपने आरंभिक सांद्रण पर निर्भर नहीं है।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The equilibrium constant $K_p$ for the chemical reaction $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$ depends on",
+      "prashna": "रासायनिक अभिक्रिया $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$ का साम्य स्थिरांक $K_p$ निर्भर करता है",
+      "options": {
+        "A": "Total pressure",
+        "B": "Catalyst",
+        "C": "Amount of $H_2$ and $I_2$",
+        "D": "Temperature"
+      },
+      "vikalpa": {
+        "A": "पूर्ण दाब पर",
+        "B": "उत्प्रेरक पर",
+        "C": "$H_2$ तथा $I_2$ की मात्रा पर",
+        "D": "तापक्रम पर"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of a reaction is expressed as follows: rate = $k[A]^2[B]$. What is the order of this reaction?",
+      "prashna": "किसी अभिक्रिया का वेग निम्नांकित प्रकार से व्यक्त होता है। वेग = $k[A]^2[B]$, तो इस अभिक्रिया की कोटी क्या है?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What is activation energy? Establish a relationship between the rate constant of a reaction and activation energy.",
+      "prashna": "सक्रिय ऊर्जा क्या है? किसी अभिक्रिया के वेग स्थिरांक और सक्रिय ऊर्जा में संबंध स्थापित करें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "For a chemical reaction A + B → Product, if the rate of reaction is R = $k[A]^{1/2}[B]^{3/2}$, then what will be the order of the reaction?",
+      "prashna": "किसी रासायनिक अभिक्रिया A + B → प्रतिफल, के अभिक्रिया का दर अगर R = $k[A]^{1/2}[B]^{3/2}$ है, तो अभिक्रिया की कोटि क्या होगी ?"
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "For a first-order reaction, the value of $t_{1/2}$ is",
+      "prashna": "प्रथम कोटि अभिक्रिया के लिए $t_{1/2}$ का मान होता है",
+      "options": {
+        "A": "0.6/k",
+        "B": "0.693/k",
+        "C": "0.683/k",
+        "D": "0.10/k"
+      },
+      "vikalpa": {
+        "A": "0.6/k",
+        "B": "0.693/k",
+        "C": "0.683/k",
+        "D": "0.10/k"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "What is the law of mass action?",
+        "B": "What is the effect of temperature on reactions?"
+      },
+      "anuprashna": {
+        "A": "द्रव्यमान अनुपाती क्रिया का नियम क्या है?",
+        "B": "अभिक्रियाओं पर ताप का क्या प्रभाव होता है?"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Define the following:",
+      "prashna": "निम्नलिखित की परिभाषा दें:",
+      "sub_questions": {
+        "A": "Order of reaction",
+        "B": "Threshold energy"
+      },
+      "anuprashna": {
+        "A": "अभिक्रिया की कोटि",
+        "B": "थ्रेशहोल्ड ऊर्जा"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of reaction of a substance depends on",
+      "prashna": "किसी वस्तु के प्रतिक्रिया करने का दर निर्भर करता है",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Equivalent mass",
+        "C": "Molecular mass",
+        "D": "Active mass"
+      },
+      "vikalpa": {
+        "A": "परमाणु भार",
+        "B": "समतुल्य भार",
+        "C": "अणु भार",
+        "D": "सक्रिय भार"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "For a zero-order reaction",
+      "prashna": "शून्य कोटि अभिक्रिया के लिए",
+      "options": {
+        "A": "$t_{1/2} \\propto a$",
+        "B": "$t_{1/2} \\propto \\frac{1}{a}$",
+        "C": "$t_{1/2} \\propto a^2$",
+        "D": "$t_{1/2} \\propto \\frac{1}{a^2}$"
+      },
+      "vikalpa": {
+        "A": "$t_{1/2} \\propto a$",
+        "B": "$t_{1/2} \\propto \\frac{1}{a}$",
+        "C": "$t_{1/2} \\propto a^2$",
+        "D": "$t_{1/2} \\propto \\frac{1}{a^2}$"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Which represents a zero order reaction?",
+      "prashna": "कौन शून्य कोटि प्रतिक्रिया को दिखलाता है?",
+      "options": {
+        "A": "Graph of [A] vs t: Straight line with a negative slope.",
+        "B": "Graph of [A] vs t: Straight line with a positive slope passing through the origin.",
+        "C": "Graph of [A] vs t: Downward curve.",
+        "D": "Graph of [A] vs t: Upward curve."
+      },
+      "vikalpa": {
+        "A": "[A] बनाम t का ग्राफ: ऋणात्मक ढलान वाली सीधी रेखा।",
+        "B": "[A] बनाम t का ग्राफ: मूल से गुजरने वाली धनात्मक ढलान वाली सीधी रेखा।",
+        "C": "[A] बनाम t का ग्राफ: नीचे की ओर वक्र।",
+        "D": "[A] बनाम t का ग्राफ: ऊपर की ओर वक्र।"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "If $\\frac{dx}{dt} = k[H^+]^n$ and rate becomes 100 times when pH changes from 2 to 1, the order of reaction is -",
+      "prashna": "यदि $\\frac{dx}{dt} = k[H^+]^n$ और जब pH 2 से 1 करने पर प्रतिक्रिया का दर 100 गुणा हो जाता है, तो प्रतिक्रिया की कोटि है -",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Reaction: $C_6H_5N_2Cl \\xrightarrow{Cu/\\Delta} C_6H_5Cl + N_2$. Half-life of this reaction is independent of concentration of reactant. After 10 minutes volume of $N_2$ gas is 10 litre and after complete reaction 100 litre. The rate constant of the reaction in $min^{-1}$ unit is-",
+      "prashna": "प्रतिक्रिया: $C_6H_5N_2Cl \\xrightarrow{Cu/\\Delta} C_6H_5Cl + N_2$. इस प्रतिक्रिया का अर्ध आयुकाल प्रतिकारक की सान्द्रता से स्वतन्त्र है। $N_2$ गैस का आयतन 10 मिनट के बाद 10 लीटर एवं प्रतिक्रिया की सम्पूर्णता पर 100 लीटर हो जाता है। तो प्रतिक्रिया का वेग स्थिरांक प्रतिमिनट इकाई में है -",
+      "options": {
+        "A": "$\\frac{2.303}{10}$",
+        "B": "$\\frac{2.303}{10} \\log{5.0}$",
+        "C": "$\\frac{2.303}{10} \\log{2.0}$",
+        "D": "$\\frac{2.303}{10} \\log{4.0}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2.303}{10}$",
+        "B": "$\\frac{2.303}{10} \\log{5.0}$",
+        "C": "$\\frac{2.303}{10} \\log{2.0}$",
+        "D": "$\\frac{2.303}{10} \\log{4.0}$"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Half life period of first order reaction is 10 minutes. Calculate the rate constant of the reaction.",
+      "prashna": "प्रथम कोटि की प्रतिक्रिया का अर्ध आयुकाल 10 मिनट है। प्रतिक्रिया की दर स्थिरांक निकालें।"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Describe the kinetics of a first order reaction. Why is a first order reaction never completed?",
+      "prashna": "प्रतिक्रिया के प्रथम कोटि के गतिकी का वर्णन करें। क्यों प्रथम कोटि की प्रतिक्रिया कभी पूर्ण नहीं होती है?"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "For a chemical reaction the energy of activation is 80kJ $mol^{-1}$. If frequency factor is $4.0 \\times 10^{10} L mol^{-1} s^{-1}$. What is rate constant at 400 K?",
+      "prashna": "किसी प्रतिक्रिया की उत्तेजन ऊर्जा 80kJ $mol^{-1}$ है। यदि प्रतिक्रिया का आवृति गुणक $4.0 \\times 10^{10} L mol^{-1} s^{-1}$ हो तो प्रतिक्रिया का वेग स्थिरांक 400K पर निकालें।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Explain order of reaction.",
+      "prashna": "अभिक्रिया के कोटि की व्याख्या करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Find the expression for first order reaction.",
+      "prashna": "प्रथम कोटि अभिक्रिया के व्यंजक तैयार करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What do you mean by order of reaction ?",
+      "prashna": "अभिक्रिया की कोटी से आप क्या समझते हैं ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of zero order reaction $A+B \\rightarrow C$ is",
+      "prashna": "एक शून्य कोटि की अभिक्रिया $A+B \\rightarrow C$ के लिए दर है",
+      "options": {
+        "A": "Rate = $K[A]^0[B]^0$",
+        "B": "Rate = $K[A]^1[B]^0$",
+        "C": "Rate = $K[A]^0[B]^1$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "दर = $K[A]^0[B]^0$",
+        "B": "दर = $K[A]^1[B]^0$",
+        "C": "दर = $K[A]^0[B]^1$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The unit of rate and rate constant is same for the reaction of which order ?",
+      "prashna": "किस कोटि की अभिक्रिया के लिए वेग तथा वेग स्थिरांक की इकाई समान होती है ?",
+      "options": {
+        "A": "Zero",
+        "B": "First",
+        "C": "Second",
+        "D": "Third"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "प्रथम",
+        "C": "द्वितीय",
+        "D": "तृतीय"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The minimum amount of energy required to convert reactant molecules into products is",
+      "prashna": "अभिकारक अणुओं को उत्पाद में परिवर्तित होने के लिए आवश्यक न्यूनतम ऊर्जा होती है",
+      "options": {
+        "A": "Kinetic energy",
+        "B": "Potential energy",
+        "C": "Activation energy",
+        "D": "Kinetic energy + Potential energy"
+      },
+      "vikalpa": {
+        "A": "गतिज ऊर्जा",
+        "B": "स्थितिज ऊर्जा",
+        "C": "सक्रियण ऊर्जा",
+        "D": "गतिज ऊर्जा + स्थितिज ऊर्जा"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate constant for first order reaction is 0.0005 $min^{-1}$. Calculate its half life.",
+      "prashna": "प्रथम कोटि की अभिक्रिया का वेग स्थिरांक 0.0005 $मिनट^{-1}$ है। इस अभिक्रिया का अर्द्धकाल समय निकालें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "Derive an expression for the rate constant of a first order reaction.",
+        "b": "What is the difference between osmosis and diffusion ?"
+      },
+      "anuprashna": {
+        "a": "प्रथम कोटि की अभिक्रिया के लिए गति स्थिरांक का व्यंजक ज्ञात करें।",
+        "b": "परासरण और विसरण में क्या अंतर है ?"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of a chemical reaction",
+      "prashna": "किसी रासायनिक अभिक्रिया की दर",
+      "options": {
+        "A": "increases with time",
+        "B": "decreases with time",
+        "C": "may increase or decrease with time",
+        "D": "remains constant with time"
+      },
+      "vikalpa": {
+        "A": "समय के साथ बढ़ती है",
+        "B": "समय के साथ घटती है",
+        "C": "समय के साथ घट या बढ़ सकती है",
+        "D": "समय के साथ स्थिर रहती है"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Which of the following is not a first order reaction ?",
+      "prashna": "निम्नलिखित में कौन प्रथम कोटि की अभिक्रिया नहीं है ?",
+      "options": {
+        "A": "$CH_3COOC_2H_5 + H_2O \\xrightarrow{H^+} CH_3COOH + C_2H_5OH$",
+        "B": "$CH_3COOC_2H_5 + NaOH \\to CH_3COONa + C_2H_5OH$",
+        "C": "$2H_2O_2 \\to 2H_2O + O_2$",
+        "D": "$2N_2O_5 \\to 4NO_2 + O_2$"
+      },
+      "vikalpa": {
+        "A": "$CH_3COOC_2H_5 + H_2O \\xrightarrow{H^+} CH_3COOH + C_2H_5OH$",
+        "B": "$CH_3COOC_2H_5 + NaOH \\to CH_3COONa + C_2H_5OH$",
+        "C": "$2H_2O_2 \\to 2H_2O + O_2$",
+        "D": "$2N_2O_5 \\to 4NO_2 + O_2$"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The chemical reaction, $2O_3 \\to 3O_2$ proceeds as follows :\n$O_3 \\to O_2 + O$ (fast)\n$O + O_3 \\to 2O_2$ (slow)\nthen the rate law expression of this reaction is",
+      "prashna": "रासायनिक अभिक्रिया, $2O_3 \\to 3O_2$ निम्न प्रकार से होती है :\n$O_3 \\to O_2 + O$ (तीव्र)\n$O + O_3 \\to 2O_2$ (मंद)\nतो इस अभिक्रिया का वेग समीकरण है",
+      "options": {
+        "A": "$Rate = K[O_3]^2$",
+        "B": "$Rate = K[O_3]^2[O_2]^{-1}$",
+        "C": "$Rate = K[O_3][O_2]$",
+        "D": "$Rate = K[O_3][O_2]^2$"
+      },
+      "vikalpa": {
+        "A": "$Rate = K[O_3]^2$",
+        "B": "$Rate = K[O_3]^2[O_2]^{-1}$",
+        "C": "$Rate = K[O_3][O_2]$",
+        "D": "$Rate = K[O_3][O_2]^2$"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The temperature coefficient of most of the reactions lies between which of the following?",
+      "prashna": "अधिकांश अभिक्रियाओं के लिए ताप-गुणक का मान निम्नलिखित में किसके बीच में रहता है ?",
+      "options": {
+        "A": "2 and 3",
+        "B": "1 and 2",
+        "C": "2 and 4",
+        "D": "3 and 4"
+      },
+      "vikalpa": {
+        "A": "2 और 3",
+        "B": "1 और 2",
+        "C": "2 और 4",
+        "D": "3 और 4"
+      }
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What are average and instantaneous rates of a reaction?",
+      "prashna": "अभिक्रिया का औसत और तात्क्षणिक वेग क्या होता है ?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What do you understand by rate of a reaction? Discuss the factors on which rate of a reaction depends.",
+      "prashna": "अभिक्रिया के वेग से आप क्या समझते हैं ? अभिक्रिया का वेग किन-किन बातों पर निर्भर करता है, चर्चा करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of chemical reaction, $2A+B \\rightarrow C$ can be represented by which of the following?",
+      "prashna": "रासायनिक अभिक्रिया $2A+B \\rightarrow C$ के दर को निम्नलिखित में से किसके द्वारा निरूपित किया जा सकता है ?",
+      "options": {
+        "A": "$- \\frac{1}{2} \\frac{d[A]}{dt}$",
+        "B": "$- \\frac{d[B]}{dt}$",
+        "C": "$+ \\frac{d[C]}{dt}$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$- \\frac{1}{2} \\frac{d[A]}{dt}$",
+        "B": "$- \\frac{d[B]}{dt}$",
+        "C": "$+ \\frac{d[C]}{dt}$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate law equation of a chemical reaction is represented as Rate = $k[A][B]^2$. If the concentration of B is trebled keeping that of A constant, then rate becomes",
+      "prashna": "एक रासायनिक अभिक्रिया के वेग समीकरण को निम्नलिखित रूप से निरूपित किया जाता है : वेग = $k[A][B]^2$. यदि A के सांद्रण को स्थिर रखकर B का सांद्रण तिगुना कर दिया जाए, तो वेग",
+      "options": {
+        "A": "double",
+        "B": "trebled",
+        "C": "quadrupled",
+        "D": "nine times"
+      },
+      "vikalpa": {
+        "A": "दुगुना हो जाता है",
+        "B": "तिगुना हो जाता है",
+        "C": "चौगुना हो जाता है",
+        "D": "नौ गुना हो जाता है"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate constant of a chemical reaction depends upon which of the following ?",
+      "prashna": "किसी रासायनिक अभिक्रिया का वेग स्थिरांक निम्नलिखित में से किस पर निर्भर करता है ?",
+      "options": {
+        "A": "Temperature",
+        "B": "Mass",
+        "C": "Weight",
+        "D": "Time"
+      },
+      "vikalpa": {
+        "A": "ताप",
+        "B": "मात्रा",
+        "C": "भार",
+        "D": "समय"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The half life of a first order reaction",
+      "prashna": "प्रथम कोटि की अभिक्रिया के लिए अर्द्ध आयु",
+      "options": {
+        "A": "does not depend upon rate constant",
+        "B": "does not depend upon initial concentration",
+        "C": "depends upon initial concentration",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "वेग स्थिरांक पर निर्भर नहीं करता है",
+        "B": "प्रारंभिक सांद्रण पर निर्भर नहीं करता है",
+        "C": "प्रारंभिक सांद्रण पर निर्भर करता है",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What is the effect of temperature on reaction rate ? What is Arrhenius equation ?",
+      "prashna": "अभिक्रिया के वेग पर ताप का किस प्रकार प्रभाव पड़ता है ? आरहेनियस समीकरण क्या है ?"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The rate of reaction of a substance depends upon",
+      "prashna": "किसी पदार्थ की अभिक्रिया की दर निर्भर करती है",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Equivalent mass",
+        "C": "Molecular mass",
+        "D": "Active mass"
+      },
+      "vikalpa": {
+        "A": "परमाणु द्रव्यमान पर",
+        "B": "समतुल्य द्रव्यमान पर",
+        "C": "अणु द्रव्यमान पर",
+        "D": "सक्रिय मात्रा पर"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Which of the following is not a first order reaction?",
+      "prashna": "निम्नलिखित में कौन प्रथम कोटि की अभिक्रिया नहीं है ?",
+      "options": {
+        "A": "$CH_3COOCH_3 + H_2O \\xrightarrow{H^+} CH_3COOH + CH_3OH$",
+        "B": "$CH_3COOC_2H_5 + NaOH \\rightarrow CH_3COONa + C_2H_5OH$",
+        "C": "$2H_2O_2 \\rightarrow 2H_2O + O_2$",
+        "D": "$2N_2O_5 \\rightarrow 4NO_2 + O_2$"
+      },
+      "vikalpa": {
+        "A": "$CH_3COOCH_3 + H_2O \\xrightarrow{H^+} CH_3COOH + CH_3OH$",
+        "B": "$CH_3COOC_2H_5 + NaOH \\rightarrow CH_3COONa + C_2H_5OH$",
+        "C": "$2H_2O_2 \\rightarrow 2H_2O + O_2$",
+        "D": "$2N_2O_5 \\rightarrow 4NO_2 + O_2$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The unit of rate constant of a second order reaction is",
+      "prashna": "किसी द्वितीय कोटि की अभिक्रिया के वेग स्थिरांक की इकाई है",
+      "options": {
+        "A": "$mol L^{-1} sec^{-1}$",
+        "B": "$mol^{-1} L sec^{-1}$",
+        "C": "$mol^{-1} L sec^{-1}$",
+        "D": "$mol L sec^{-1}$"
+      },
+      "vikalpa": {
+        "A": "मोल ली⁻¹ से⁻¹",
+        "B": "मोल⁻¹ ली से⁻¹",
+        "C": "मोल⁻¹ ली से⁻¹",
+        "D": "मोल ली से⁻¹"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "If the rate equation for a reaction is $\\frac{dx}{dt} = k[H]^{1/2}[B]^{1/2}$, the order of reaction is",
+      "prashna": "किसी अभिक्रिया का वेग समीकरण $\\frac{dx}{dt} = k[H]^{1/2}[B]^{1/2}$ है, तो अभिक्रिया की कोटि है",
+      "options": {
+        "A": "2",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{3}{2}$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{3}{2}$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What do you understand by rate of a reaction? What factors affect the rate of a reaction? Discuss.",
+      "prashna": "अभिक्रिया के वेग से आप क्या समझते हैं ? अभिक्रिया वेग किन-किन बातों पर निर्भर करता है ? व्याख्या करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The unit of rate of reaction and rate constant is same for the reaction of which order?",
+      "prashna": "किस कोटि की अभिक्रिया के लिए अभिक्रिया के वेग एवं वेग-स्थिरांक की इकाई समान होती है?",
+      "options": {
+        "A": "Zero",
+        "B": "First",
+        "C": "Second",
+        "D": "Third"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "प्रथम",
+        "C": "द्वितीय",
+        "D": "तृतीय"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "The unit of rate constant of a first order reaction is?",
+      "prashna": "प्रथम कोटि की अभिक्रिया के वेग-स्थिरांक की इकाई होती है?",
+      "options": {
+        "A": "$mol \\cdot L^{-1}$",
+        "B": "$time^{-1}$",
+        "C": "$L \\cdot mol \\cdot s^{-1}$",
+        "D": "$mol^{-1} L s^{-1}$"
+      },
+      "vikalpa": {
+        "A": "मोल ली. $^{-1}$",
+        "B": "समय$^{-1}$",
+        "C": "ली. मोल से.$^{-1}$",
+        "D": "मोल ली.$^{-1}$ से.$^{-1}$"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "For the reaction, $A \\rightarrow B$, the rate of reaction should be represented by which of the following?",
+      "prashna": "अभिक्रिया $A \\rightarrow B$, के लिए अभिक्रिया के वेग का निरूपण निम्नलिखित में से किसके द्वारा होगा?",
+      "options": {
+        "A": "$\\frac{d[A]}{dt}$",
+        "B": "$-\\frac{d[B]}{dt}$",
+        "C": "$-\\frac{d[A]}{dt}$",
+        "D": "$\\frac{d[AB]}{dt}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{d[A]}{dt}$",
+        "B": "$\\frac{d[B]}{dt}$",
+        "C": "$-\\frac{d[A]}{dt}$",
+        "D": "$\\frac{d[AB]}{dt}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "Which of the following factors affect the rate of a chemical reaction?",
+      "prashna": "निम्नलिखित में कौन सा कारक अभिक्रिया के दर को प्रभावित करता है?",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Concentration",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ताप",
+        "B": "दाब",
+        "C": "सांद्रण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "What is pseudo first order reaction? Give an example.",
+      "prashna": "छद्म प्रथम कोटि की अभिक्रिया क्या है? उदाहरण दें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Chemical Kinetics",
+      "question": "This question has sub-questions.",
+      "prashna": "इस प्रश्न के उप-प्रश्न हैं।",
+      "sub_questions": {
+        "A": "Differentiate between order of reaction and molecularity of a reaction.",
+        "B": "Differentiate between Lyophilic and Lyophobic sols."
+      },
+      "anuprashna": {
+        "A": "अभिक्रिया की अणुकता एवं अभिक्रिया की कोटि में अंतर बतायें।",
+        "B": "लयोफिलिक एवं लायोफोबिक सॉल में विभेद करें।"
+      }
+    }
+  ]
+}

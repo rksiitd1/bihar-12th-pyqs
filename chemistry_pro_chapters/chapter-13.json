@@ -1,0 +1,954 @@
+{
+  "2009": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Methyl amine can be prepared by",
+      "prashna": "मिथाइल एमीन बनाया जा सकता है",
+      "options": {
+        "A": "Wurtz reaction",
+        "B": "Hoffmann's bromamide reaction",
+        "C": "Friedel-Crafts reaction",
+        "D": "Kolbe's reaction"
+      },
+      "vikalpa": {
+        "A": "वुर्ज अभिक्रिया द्वारा",
+        "B": "हॉफमैन्स ब्रोमामाइड अभिक्रिया द्वारा",
+        "C": "फ्रीडेल क्राफ्ट्स अभिक्रिया द्वारा",
+        "D": "कोल्बे अभिक्रिया"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How can acetic acid be converted into methyl amine?",
+      "prashna": "एसिटिक अम्ल को मिथाइल ऐमीन में किस प्रकार परिवर्तित किया जा सकता है?"
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Carbylamine",
+      "prashna": "कार्बिल एमीन",
+      "options": {
+        "A": "$C_6H_5NC$",
+        "B": "$AgNO_3$",
+        "C": "$Cu_2[Fe(CN)_6]$",
+        "D": "$CF_2Cl_2$"
+      },
+      "vikalpa": {
+        "A": "$C_6H_5NC$",
+        "B": "$AgNO_3$",
+        "C": "$Cu_2[Fe(CN)_6]$",
+        "D": "$CF_2Cl_2$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you convert-",
+      "prashna": "कैसे परिवर्तित करेंगे-",
+      "sub_questions": {
+        "A": "Aniline to bromobenzene",
+        "B": "Ethanol to methanamine"
+      },
+      "anuprashna": {
+        "A": "एनीलीन से ब्रोमोबेंजीन",
+        "B": "इथेनाल से मिथेनामाइन"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Give reasons for the following-",
+      "prashna": "निम्नलिखित के कारण बताइए-",
+      "sub_questions": {
+        "A": "Formic acid is stronger than acetic acid.",
+        "B": "Aniline is less basic than methylamine."
+      },
+      "anuprashna": {
+        "A": "फॉर्मिक अम्ल, एसीटिक अम्ल से अधिक सबल है।",
+        "B": "एनीलीन, मिथाइल ऐमीन से कम क्षारीय है।"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Complete the following equations-",
+      "prashna": "निम्नांकित समीकरणों को पूरा करें-",
+      "sub_questions": {
+        "A": "$CHCl_3 + alc. KOH + C_6H_5NH_2 \\rightarrow$",
+        "B": "$CH_3CH_2OH + I_2 + NaOH \\rightarrow$"
+      },
+      "anuprashna": {
+        "A": "$CHCl_3 + alc. KOH + C_6H_5NH_2 \\rightarrow$",
+        "B": "$CH_3CH_2OH + I_2 + NaOH \\rightarrow$"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "In the following reaction, what is X? 1,3-Dinitrobenzene reacts with X to form 3-Nitroaniline.",
+      "prashna": "निम्नलिखित अभिक्रिया में, X क्या है? 1,3-डाइनाइट्रोबेंजीन, X के साथ अभिक्रिया करके 3-नाइट्रोएनिलिन बनाता है।",
+      "options": {
+        "A": "$LiAlH_4$",
+        "B": "$Sn / HCl$",
+        "C": "$Na_2S / (NH_4)_2S$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$LiAlH_4$",
+        "B": "$Sn / HCl$",
+        "C": "$Na_2S / (NH_4)_2S$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you convert these?",
+      "prashna": "इन्हें कैसे परिवर्तित करेंगे ?",
+      "sub_questions": {
+        "a": "Aniline to 2, 4, 6-tribromoaniline",
+        "b": "Acetamide to ethylamine"
+      },
+      "anuprashna": {
+        "a": "एनिलिन से 2, 4, 6 ट्राइब्रोमोएनिलिन में",
+        "b": "एसीटामाइड से इथाइलएमीन में"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Carbylamine",
+      "prashna": "कार्बिल ऐमीन (Carbylamine)",
+      "options": {
+        "A": "$CaO$",
+        "B": "$C_6H_5NC$",
+        "C": "$NH_3$",
+        "D": "$CuSO_4 \\cdot 5H_2O$"
+      },
+      "vikalpa": {
+        "A": "$CaO$",
+        "B": "$C_6H_5NC$",
+        "C": "$NH_3$",
+        "D": "$CuSO_4 \\cdot 5H_2O$"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you carry out the following conversions?",
+      "prashna": "निम्नलिखित का परिवर्तन कैसे करेंगे?",
+      "sub_questions": {
+        "a": "Ethyl alcohol to Ethyl amine",
+        "b": "Ethyl amine to Ethyl alcohol"
+      },
+      "anuprashna": {
+        "a": "इथाइल अल्कोहल से इथाइल अमीन",
+        "b": "इथाइल अमीन से इथाइल अल्कोहल"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you prepare benzoic acid from aniline?",
+      "prashna": "एनिलीन से बेंजोइक अम्ल कैसे बनाएँगे?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Explain the following with reasons:",
+      "prashna": "निम्नलिखित की कारण सहित व्याख्या करें:",
+      "sub_questions": {
+        "i": "Aniline is soluble in $HCl$.",
+        "ii": "Amines are stronger bases than ammonia.",
+        "iii": "Ethylamine is more basic than aniline.",
+        "iv": "Cyclohexylamine is more basic than aniline.",
+        "v": "Phenol is acidic in nature."
+      },
+      "anuprashna": {
+        "i": "एनिलीन $HCl$ में घुलनशील है।",
+        "ii": "अमीन, अमोनिया से प्रबल क्षार होते हैं।",
+        "iii": "एनिलीन से एथिल अमीन अधिक क्षारीय होते हैं।",
+        "iv": "साइक्लोहेक्सामीन एनिलीन से ज्यादा क्षारीय होते हैं।",
+        "v": "फेनॉल की प्रकृति अम्लीय होती है।"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you convert the following?",
+      "prashna": "निम्नलिखित का परिवर्तन कैसे करेंगे?",
+      "sub_questions": {
+        "A": "Ethyl amine to ethyl alcohol",
+        "B": "Ethyl alcohol to ethyl amine"
+      },
+      "anuprashna": {
+        "A": "इथाइल अमीन से इथाइल अल्कोहल",
+        "B": "इथाइल अल्कोहल से इथाइल अमीन"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you prepare ethyl amine in the laboratory?",
+      "prashna": "प्रयोगशाला में इथाइल एमीन कैसे तैयार करेंगे?"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How will you prepare aniline in the laboratory?",
+      "prashna": "प्रयोगशाला में एनीलीन कैसे तैयार करेंगे ?"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "A": "What is a carbocation? Explain.",
+        "B": "How will you prepare benzoic acid from aniline?"
+      },
+      "anuprashna": {
+        "A": "कार्बेकिटायन क्या है? व्याख्या करें।",
+        "B": "एनिलीन से बेंजोइक अम्ल कैसे बनाएँगे?"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which is the correct decreasing order of basicity?",
+      "prashna": "भस्मीयता का घटता हुआ क्रम कौन है?",
+      "options": {
+        "A": "$NH_3 > C_2H_5NH_2 > (C_2H_5)_2NH > (C_2H_5)_3N$",
+        "B": "$(C_2H_5)_3N > (C_2H_5)_2NH > C_2H_5NH_2 > NH_3$",
+        "C": "$(C_2H_5)_2NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$",
+        "D": "$(C_2H_5)_2NH > C_2H_5NH_2 > NH_3 > (C_2H_5)_3N$"
+      },
+      "vikalpa": {
+        "A": "$NH_3 > C_2H_5NH_2 > (C_2H_5)_2 NH > (C_2H_5)_3 N$",
+        "B": "$(C_2H_5)_3N > (C_2H_5)_2NH > C_2H_5NH_2 > NH_3$",
+        "C": "$(C_2H_5)_2 NH > C_2H_5NH_2 > (C_2H_5)_3N > NH_3$",
+        "D": "$(C_2H_5)_2NH > C_2H_5NH_2 > NH_3 > (C_2H_5)_3 N$"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Aniline and acetaldehyde react to form",
+      "prashna": "ऐनलीन एवं ऐसिटेलडीहाइड प्रतिक्रिया कर बनाते हैं",
+      "options": {
+        "A": "Carbylamine",
+        "B": "Nitrobenzene",
+        "C": "Imine",
+        "D": "Schiff's base"
+      },
+      "vikalpa": {
+        "A": "कार्बाइल ऐमीन",
+        "B": "नाइट्रोबेन्जीन",
+        "C": "इमीन",
+        "D": "स्किपस बेस"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Write the names and structures of four isomers having the molecular formula $C_3H_9N$.",
+      "prashna": "चार समावयवी का नाम एवं संरचना लिखें जिसका अणु सूत्र $C_3H_9N$ है।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "An Organic compound reacts with benzene sulfonyl chloride and product dissolves in aqueous NaOH. The compound is.",
+      "prashna": "एक कार्बनिक यौगिक बेन्जीन सल्फोनिल क्लोराइड से प्रतिक्रिया करता है तथा प्राप्त प्रतिफल जलीय NaOH में घुल जाता है। तो यौगिक है-",
+      "options": {
+        "A": "$R-NH_2$",
+        "B": "$R_2NH$",
+        "C": "$R_3N$",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "$R-NH_2$",
+        "B": "$R_2NH$",
+        "C": "$R_3N$",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "A compound on hydrolysis gives 1° amine. The compound is-",
+      "prashna": "एक यौगिक जलांशन के पश्चात 1° एमीन देता है। यौगिक है-",
+      "options": {
+        "A": "anilide",
+        "B": "amide",
+        "C": "cyanide",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "एनिलाइड",
+        "B": "एमाइड",
+        "C": "सायनाइड",
+        "D": "कोई नहीं"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Describe the following reactions:",
+      "prashna": "निम्नलिखित अभिक्रियाओं का वर्णन करें:",
+      "sub_questions": {
+        "i": "Hofmann bromamide reaction",
+        "ii": "Clemmensen's reduction of Aldehyde and Ketone"
+      },
+      "anuprashna": {
+        "i": "हॉफमैन ब्रोमामाइड अभिक्रिया",
+        "ii": "एल्डिहाइड और कीटोन का क्लेमेनसन अवकरण"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "$CH_3CH_2NH_2$ is known as -",
+      "prashna": "$CH_3CH_2NH_2$ को कहा जाता है -",
+      "options": {
+        "A": "Ethyl amine",
+        "B": "Propyl amine",
+        "C": "Methyl amine",
+        "D": "Ammonia"
+      },
+      "vikalpa": {
+        "A": "इथाइल एमीन",
+        "B": "प्रोपाइल एमीन",
+        "C": "मिथाइल एमीन",
+        "D": "अमोनिया"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Complete the reaction - $R-C(=O)-NH_2 \\xrightarrow{LiAlH_4/H_2O}$",
+      "prashna": "अभिक्रिया को पूर्ण करें - $R-C(=O)-NH_2 \\xrightarrow{LiAlH_4/H_2O}$"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Alkyl amine is stronger base than Ammonia, Why?",
+      "prashna": "एल्काइल अमीन अमोनिया से प्रबल क्षार है, क्यों?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "How would you convert the following ?",
+      "prashna": "निम्नलिखित का परिवर्तन कैसे करेंगे ?",
+      "sub_questions": {
+        "A": "Formc Acid to Formaldehyde",
+        "B": "Benzene to Aniline"
+      },
+      "anuprashna": {
+        "A": "फॉर्मिक अम्ल से फॉर्मलडिहाइड",
+        "B": "बेंजिन से ऐनिलीन"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Methylamine can be prepared by",
+      "prashna": "मिथाइल एमीन को बनाया जा सकता है",
+      "options": {
+        "A": "Wurtz reaction",
+        "B": "Hofmann bromamide reaction",
+        "C": "Friedel-Crafts reaction",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वुर्ज अभिक्रिया द्वारा",
+        "B": "हॉफमैन ब्रोमामाइड अभिक्रिया द्वारा",
+        "C": "फ्रीडल-क्राफ्ट्स अभिक्रिया द्वारा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which is the most basic ?",
+      "prashna": "कौन अत्यधिक क्षारीय है ?",
+      "options": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$(C_6H_5)_2NH$",
+        "C": "$CH_3NH_2$",
+        "D": "$(CH_3)_2NH$"
+      },
+      "vikalpa": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$(C_6H_5)_2NH$",
+        "C": "$CH_3NH_2$",
+        "D": "$(CH_3)_2NH$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "$CH_3CN$ on reduction gives",
+      "prashna": "$CH_3CN$ के अवकरण से प्राप्त होता है",
+      "options": {
+        "A": "$CH_4$",
+        "B": "$CH_3COOH$",
+        "C": "$C_2H_5NH_2$",
+        "D": "$C_2H_5COOH$"
+      },
+      "vikalpa": {
+        "A": "$CH_4$",
+        "B": "$CH_3COOH$",
+        "C": "$C_2H_5NH_2$",
+        "D": "$C_2H_5COOH$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "The main product of the following reaction is: $C_6H_5NO_2 \\xrightarrow{Sn+HCl}$",
+      "prashna": "निम्नांकित अभिक्रिया का प्रमुख प्रतिफल है: $C_6H_5NO_2 \\xrightarrow{Sn+HCl}$",
+      "options": {
+        "A": "$C_6H_5OH$",
+        "B": "$C_6H_5NH_2$",
+        "C": "$C_6H_5CH_3$",
+        "D": "$C_6H_6$"
+      },
+      "vikalpa": {
+        "A": "$C_6H_5OH$",
+        "B": "$C_6H_5NH_2$",
+        "C": "$C_6H_5CH_3$",
+        "D": "$C_6H_6$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "The product of the reaction $C_6H_5N=NCl \\xrightarrow{H_3O^+}$ is",
+      "prashna": "अभिक्रिया $C_6H_5N=NCl \\xrightarrow{H_3O^+}$ का उत्पाद है",
+      "options": {
+        "A": "Aniline",
+        "B": "Phenol",
+        "C": "Methyl alcohol",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "एनीलीन",
+        "B": "फिनॉल",
+        "C": "मिथाइल अल्कोहल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Primary amine is detected by",
+      "prashna": "प्राथमिक एमीन की पहचान किस के द्वारा की जाती है ?",
+      "options": {
+        "A": "HCl",
+        "B": "$CHCl_3 + KOH$",
+        "C": "NaOH",
+        "D": "$CHCl_3$"
+      },
+      "vikalpa": {
+        "A": "HCl",
+        "B": "$CHCl_3 + KOH$",
+        "C": "NaOH",
+        "D": "$CHCl_3$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Methylamine is more basic than aniline. Give reason.",
+      "prashna": "मेथिल ऐमीन ऐनीलीन से ज्यादा क्षारीय है। कारण बतायें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Complete the following acid-base reactions:",
+      "prashna": "निम्नलिखित अम्ल-क्षारक अभिक्रिया को पूर्ण कीजिए :",
+      "sub_questions": {
+        "i": "$CH_3CH_2NH_2 + HCl \\rightarrow$",
+        "ii": "$(C_2H_5)_3N + HCl \\rightarrow$"
+      },
+      "anuprashna": {
+        "i": "$CH_3CH_2NH_2 + HCl \\rightarrow$",
+        "ii": "$(C_2H_5)_3N + HCl \\rightarrow$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "$CH_3-C(CH_3)_2-NH_2$ is a",
+      "prashna": "$CH_3-C(CH_3)_2-NH_2$ है एक",
+      "options": {
+        "A": "Primary amine",
+        "B": "Secondary amine",
+        "C": "Tertiary amine",
+        "D": "Quaternary salt"
+      },
+      "vikalpa": {
+        "A": "प्राइमरी ऐमीन",
+        "B": "सेकेण्डरी ऐमीन",
+        "C": "टर्शियरी ऐमीन",
+        "D": "क्वाटर्नरी लवण"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is the strongest base in aqueous solution ?",
+      "prashna": "जलीय घोल में निम्नलिखित में सबसे सबल भस्म कौन है ?",
+      "options": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$CH_3NH_2$",
+        "C": "$(CH_3)_2NH$",
+        "D": "$(CH_3)_3N$"
+      },
+      "vikalpa": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$CH_3NH_2$",
+        "C": "$(CH_3)_2NH$",
+        "D": "$(CH_3)_3N$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following can be represented by molecular formula $C_3H_9N$ ?",
+      "prashna": "$C_3H_9N$ अणु-सूत्र के द्वारा निम्नलिखित में किसे व्यक्त किया जाता है ?",
+      "options": {
+        "A": "Primary amine",
+        "B": "Secondary amine",
+        "C": "Tertiary amine",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "प्राइमरी ऐमीन",
+        "B": "सेकेण्डरी ऐमीन",
+        "C": "टर्शियरी ऐमीन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is reduced to get a secondary amine ?",
+      "prashna": "निम्नलिखित में किसको अवकृत करने से सेकेण्डरी ऐमीन प्राप्त होता है ?",
+      "options": {
+        "A": "Nitrile",
+        "B": "Nitro compound",
+        "C": "Carbylamine",
+        "D": "Amide"
+      },
+      "vikalpa": {
+        "A": "नाइट्राइल",
+        "B": "नाइट्रो यौगिक",
+        "C": "कार्बिल ऐमीन",
+        "D": "ऐमाइड"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "What is carbylamine reaction ?",
+      "prashna": "कार्बिल ऐमीन अभिक्रिया क्या है ?"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "`Aniline is a weaker base.` Explain.",
+      "prashna": "`ऐनीलिन दुर्बल भस्म है।` व्याख्या करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is obtained on heating aqueous solution of benzene diazonium chloride ?",
+      "prashna": "बेंजीन डाइऐजोनियम क्लोराइड के जलीय विलयन को गर्म करने से निम्नलिखित में से कौन प्राप्त होता है ?",
+      "options": {
+        "A": "Benzene",
+        "B": "Benzyl alcohol",
+        "C": "Phenol",
+        "D": "Chlorobenzene"
+      },
+      "vikalpa": {
+        "A": "बेंजीन",
+        "B": "बेंजाइल ऐल्कोहॉल",
+        "C": "फिनॉल",
+        "D": "क्लोरोबेंजीन"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "The functional group of secondary amine is",
+      "prashna": "सेकेण्डरी ऐमीन का क्रियाशील मूलक है",
+      "options": {
+        "A": "-NH-",
+        "B": "$-NH_2$",
+        "C": "$NH_3$",
+        "D": "$NH_3^+$"
+      },
+      "vikalpa": {
+        "A": "-NH-",
+        "B": "$-NH_2$",
+        "C": "$NH_3$",
+        "D": "$NH_3^+$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "The IUPAC name of $CH_3-CH(NH_2)-CH_3$ is",
+      "prashna": "$CH_3-CH(NH_2)-CH_3$ का IUPAC नाम है",
+      "options": {
+        "A": "Propyl amine",
+        "B": "Isopropyl amine",
+        "C": "Propan-2-amine",
+        "D": "Propan-1-amine"
+      },
+      "vikalpa": {
+        "A": "प्रोपिल ऐमीन",
+        "B": "आइसोप्रोपिल ऐमीन",
+        "C": "प्रोपेन-2-ऐमीन",
+        "D": "प्रोपेन-1-ऐमीन"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Primary amine on reaction with Grignard reagent gives which of the following?",
+      "prashna": "प्राइमरी ऐमीन की अभिक्रिया ग्रिगनार्ड अभिकर्मक से कराने पर निम्नलिखित में से कौन बनता है ?",
+      "options": {
+        "A": "An alkane",
+        "B": "A higher amine",
+        "C": "A secondary amine",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक एल्केन",
+        "B": "एक उच्चतर ऐमीन",
+        "C": "एक सेकेण्डरी ऐमीन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is the most basic?",
+      "prashna": "निम्नलिखित में सबसे प्रबल क्षारीय कौन है ?",
+      "options": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$(CH_3)_2NH$",
+        "C": "$(CH_3)_3N$",
+        "D": "$NH_3$"
+      },
+      "vikalpa": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$(CH_3)_2NH$",
+        "C": "$(CH_3)_3N$",
+        "D": "$NH_3$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is Hinsberg reagent ?",
+      "prashna": "निम्नलिखित में कौन हिंसबर्ग अभिकर्मक है ?",
+      "options": {
+        "A": "Benzene sulphonic acid",
+        "B": "Benzene sulphonamide",
+        "C": "p-Toluene sulphonyl chloride",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बेंजीन सल्फोनिक अम्ल",
+        "B": "बेंजीन सल्फोनामाइड",
+        "C": "p-टॉल्यूइन सल्फोनिल क्लोराइड",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is formed when acetamide reacts with $Br_2/KOH$ ?",
+      "prashna": "जब ऐसीटामाइड की अभिक्रिया $Br_2/KOH$ से कराई जाती है तो निम्नलिखित में कौन बनता है ?",
+      "options": {
+        "A": "Acetone",
+        "B": "Methyl amine",
+        "C": "Acetaldehyde",
+        "D": "Ammonia"
+      },
+      "vikalpa": {
+        "A": "ऐसीटोन",
+        "B": "मेथिल ऐमीन",
+        "C": "ऐसीटल्डिहाईड",
+        "D": "अमोनिया"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Arrange $NH_3$, $C_2H_5NH_2$, $(C_2H_5)_2NH$ and $(C_2H_5)_3N$ in the increasing order of their basic strength.",
+      "prashna": "$NH_3$, $C_2H_5NH_2$, $(C_2H_5)_2NH$ एवं $(C_2H_5)_3N$ को क्षारीयता के बढ़ते क्रम में सजाएँ।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "$(CH_3)_3C-NH_2$ is a",
+      "prashna": "$(CH_3)_3C-NH_2$ है एक",
+      "options": {
+        "A": "Primary amine",
+        "B": "Secondary amine",
+        "C": "Tertiary amine",
+        "D": "Quaternary salt"
+      },
+      "vikalpa": {
+        "A": "प्राइमरी ऐमीन",
+        "B": "सेकेण्डरी ऐमीन",
+        "C": "टर्शियरी ऐमीन",
+        "D": "क्वाटर्नरी लवण"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Methylamine on heating with chloroform and alcoholic KOH gives",
+      "prashna": "मेथिल ऐमीन को क्लोरोफॉर्म और एल्कोहॉलीय KOH के साथ गर्म करने पर बनता है",
+      "options": {
+        "A": "$CH_3OH$",
+        "B": "$CH_3CN$",
+        "C": "$CH_3CHO$",
+        "D": "$CH_3NC$"
+      },
+      "vikalpa": {
+        "A": "$CH_3OH$",
+        "B": "$CH_3CN$",
+        "C": "$CH_3CHO$",
+        "D": "$CH_3NC$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is the most basic ?",
+      "prashna": "निम्नलिखित में सबसे सर्वाधिक क्षारीय है",
+      "options": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$(C_6H_5)_2NH$",
+        "C": "$C_2H_5NH_2$",
+        "D": "$(C_2H_5)_2NH$"
+      },
+      "vikalpa": {
+        "A": "$C_6H_5NH_2$",
+        "B": "$(C_6H_5)_2NH$",
+        "C": "$C_2H_5NH_2$",
+        "D": "$(C_2H_5)_2NH$"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "What is carbyl amine reaction ?",
+      "prashna": "कार्बिल ऐमीन अभिक्रिया क्या है ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following can be represented by molecular formula $C_3H_9N$ ?",
+      "prashna": "अणुसूत्र $C_3H_9N$ के द्वारा निम्नलिखित में किसे व्यक्त किया जाता है?",
+      "options": {
+        "A": "Primary amine",
+        "B": "Secondary amine",
+        "C": "Tertiary amine",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "प्राइमरी ऐमीन",
+        "B": "सेकेण्डरी ऐमीन",
+        "C": "टर्शियरी ऐमीन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "Which of the following is formed when aniline reacts with fuming sulphuric acid?",
+      "prashna": "ऐनीलीन की अभिक्रिया सधूम सल्फ्यूरिक अम्ल के साथ कराने पर निम्नलिखित में कौन बनता है?",
+      "options": {
+        "A": "Sulphonic acid",
+        "B": "Sulphanilic acid",
+        "C": "Benzene sulphonic acid",
+        "D": "Benzoic acid"
+      },
+      "vikalpa": {
+        "A": "सल्फोनिक अम्ल",
+        "B": "सल्फैनिलिक अम्ल",
+        "C": "बेंजीन सल्फोनिक अम्ल",
+        "D": "बेंजोइक अम्ल"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Amines",
+      "question": "The reaction in which primary amine reacts with chloroform and ethanolic $KOH$ is called",
+      "prashna": "प्राइमरी ऐमीन की क्लोरोफॉर्म तथा ऐथेनॉलिक $KOH$ के साथ अभिक्रिया कहलाती है।",
+      "options": {
+        "A": "Carbyl amine reaction",
+        "B": "Kolbe's reaction",
+        "C": "Reimer and Tiemann reaction",
+        "D": "Hoffmann reaction"
+      },
+      "vikalpa": {
+        "A": "कार्बिल ऐमीन अभिक्रिया",
+        "B": "कोल्बे अभिक्रिया",
+        "C": "रीमर तथा टीमैन अभिक्रिया",
+        "D": "हॉफमैन अभिक्रिया"
+      }
+    }
+  ]
+}
