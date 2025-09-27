@@ -1,0 +1,908 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "A dilute aqueous Solution of sodium fluoride is electrolysed; the products at the anode and cathode are -",
+        "prashna": "सोडियम फ्लोराइड के जलीय घोल का विद्युत विच्छेदन कराने पर धनोद एवं ऋणोद प्राप्त प्रतिफल है-",
+        "options": {
+            "A": "$F_2$, Na",
+            "B": "$F_2$, $H_2$",
+            "C": "$O_2$, Na",
+            "D": "$O_2$, $H_2$"
+        },
+        "vikalpa": {
+            "A": "$F_2$, Na",
+            "B": "$F_2$, $H_2$",
+            "C": "$O_2$, Na",
+            "D": "$O_2$, $H_2$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Number of $\\sigma$ and $\\pi$ bonds in $C_2$ molecule is/are-",
+        "prashna": "$C_2$ अणु में $\\sigma$ और $\\pi$ बन्धन की संख्या है-",
+        "options": {
+            "A": "1$\\sigma$ and 1$\\pi$",
+            "B": "1$\\sigma$ and 2$\\pi$",
+            "C": "2$\\pi$ only",
+            "D": "1$\\sigma$ and 3$\\pi$"
+        },
+        "vikalpa": {
+            "A": "1$\\sigma$ और 1$\\pi$",
+            "B": "1$\\sigma$ और 2$\\pi$",
+            "C": "सिर्फ 2$\\pi$",
+            "D": "1$\\sigma$ और 3$\\pi$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "Rate of hydration in aqueous acid will be in the order- (I) cyclopropyl-$CH=CH_2$, (II) cyclopropyl-$CH=CH-CH_3$, (III) cyclopropyl-$C(CH_3)=CH_2$",
+        "prashna": "अम्लीय जलांशन के दर का क्रम होगा- (I) साइक्लोप्रोपिल-$CH=CH_2$, (II) साइक्लोप्रोपिल-$CH=CH-CH_3$, (III) साइक्लोप्रोपिल-$C(CH_3)=CH_2$",
+        "options": {
+            "A": "I < II < III",
+            "B": "III < II < I",
+            "C": "I < III < II",
+            "D": "II < I < III"
+        },
+        "vikalpa": {
+            "A": "I < II < III",
+            "B": "III < II < I",
+            "C": "I < III < II",
+            "D": "II < I < III"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The molecule which has zero dipole moment is -",
+        "prashna": "किस अणु का द्विध्रुव आघूर्ण शून्य है?",
+        "options": {
+            "A": "$NF_3$",
+            "B": "$BF_3$",
+            "C": "$ClO_2$",
+            "D": "$CH_2Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$NF_3$",
+            "B": "$BF_3$",
+            "C": "$ClO_2$",
+            "D": "$CH_2Cl_2$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "The correct order of equivalent conductance at infinite dilution of LiCl, NaCl and KCl is-",
+        "prashna": "LiCl, NaCl और KCl के विलयन का अनन्त तनुता पर समतुल्यांक सुचालकता का सही क्रम है।",
+        "options": {
+            "A": "LiCl > NaCl > KCl",
+            "B": "KCl > NaCl > LiCl",
+            "C": "NaCl > KCl > LiCl",
+            "D": "LiCl > KCl > NaCl"
+        },
+        "vikalpa": {
+            "A": "LiCl > NaCl > KCl",
+            "B": "KCl > NaCl > LiCl",
+            "C": "NaCl > KCl > LiCl",
+            "D": "LiCl > KCl > NaCl"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "In the reaction $R-OH + CH_2N_2 \\rightarrow$, the leaving group is -",
+        "prashna": "$R-OH + CH_2N_2 \\rightarrow$ इस प्रतिक्रिया से प्राप्त प्रतिफल है-",
+        "options": {
+            "A": "$CH_4$",
+            "B": "R",
+            "C": "$N_2$",
+            "D": "$CH_3$"
+        },
+        "vikalpa": {
+            "A": "$CH_4$",
+            "B": "R",
+            "C": "$N_2$",
+            "D": "$CH_3$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "The product obtained when silica reacts with hydrogen fluoride is -",
+        "prashna": "सिलिका और हाइड्रोजन फ्लोराइड के प्रतिक्रिया से प्राप्त प्रतिफल है-",
+        "options": {
+            "A": "$SiF_4$",
+            "B": "$H_2SiF_6$",
+            "C": "$H_2SiF_4$",
+            "D": "$H_2SiF_3$"
+        },
+        "vikalpa": {
+            "A": "$SiF_4$",
+            "B": "$H_2SiF_6$",
+            "C": "$H_2SiF_4$",
+            "D": "$H_2SiF_3$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "The van't Hoff's factor of 0.1M $Ba(NO_3)_2$ solution is 2.74. The degree of dissociation is -",
+        "prashna": "0.1M $Ba(NO_3)_2$ घोल का वान्ट होफ गुणक 2.74 है। तो विघटन स्तर है-",
+        "options": {
+            "A": "91.3%",
+            "B": "87%",
+            "C": "100%",
+            "D": "74%"
+        },
+        "vikalpa": {
+            "A": "91.3%",
+            "B": "87%",
+            "C": "100%",
+            "D": "74%"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following has the most stable +2 oxidation state?",
+        "prashna": "किसका +2 ऑक्सीकरण अवस्था सबसे स्थिर है?",
+        "options": {
+            "A": "Sn",
+            "B": "Ag",
+            "C": "Fe",
+            "D": "Pb"
+        },
+        "vikalpa": {
+            "A": "Sn",
+            "B": "Ag",
+            "C": "Fe",
+            "D": "Pb"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "The compound having tetrahedral geometry is -",
+        "prashna": "किस यौगिक या यौगिकों की चतुष्फलक आकृति है?",
+        "options": {
+            "A": "$[NiCl_4]^{2-}$",
+            "B": "$[Ni(CN)_4]^{2-}$",
+            "C": "$[PdCl_4]^{2-}$",
+            "D": "$[NiCl_4]^{2-}$ and $[PdCl_4]^{2-}$ both"
+        },
+        "vikalpa": {
+            "A": "$[NiCl_4]^{2-}$",
+            "B": "$[Ni(CN)_4]^{2-}$",
+            "C": "$[PdCl_4]^{2-}$",
+            "D": "$[NiCl_4]^{2-}$ और $[PdCl_4]^{2-}$ दोनों"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "The cannizzaro's reaction is not given by -",
+        "prashna": "केनिजारो प्रतिक्रिया नहीं दिखलाता है-",
+        "options": {
+            "A": "Formaldehyde",
+            "B": "Acetaldehyde",
+            "C": "Benzaldehyde",
+            "D": "Furfural"
+        },
+        "vikalpa": {
+            "A": "फॉरमेल्डिहाइड",
+            "B": "एसिटेल्डिहाइड",
+            "C": "बेन्जेल्डिहाइड",
+            "D": "फरफ्यूरल"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "Which represents a zero order reaction?",
+        "prashna": "कौन शून्य कोटि प्रतिक्रिया को दिखलाता है?",
+        "options": {
+            "A": "Graph of [A] vs t: Straight line with a negative slope.",
+            "B": "Graph of [A] vs t: Straight line with a positive slope passing through the origin.",
+            "C": "Graph of [A] vs t: Downward curve.",
+            "D": "Graph of [A] vs t: Upward curve."
+        },
+        "vikalpa": {
+            "A": "[A] बनाम t का ग्राफ: ऋणात्मक ढलान वाली सीधी रेखा।",
+            "B": "[A] बनाम t का ग्राफ: मूल से गुजरने वाली धनात्मक ढलान वाली सीधी रेखा।",
+            "C": "[A] बनाम t का ग्राफ: नीचे की ओर वक्र।",
+            "D": "[A] बनाम t का ग्राफ: ऊपर की ओर वक्र।"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "Which gas is absorbed strongly by charcoal?",
+        "prashna": "किस गैस का अवशोषण चारकोल के द्वारा सबसे अधिक होता है?",
+        "options": {
+            "A": "CO",
+            "B": "$NH_3$",
+            "C": "$NCl_3$",
+            "D": "$H_2$"
+        },
+        "vikalpa": {
+            "A": "CO",
+            "B": "$NH_3$",
+            "C": "$NCl_3$",
+            "D": "$H_2$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "If $\\frac{dx}{dt} = k[H^+]^n$ and rate becomes 100 times when pH changes from 2 to 1, the order of reaction is -",
+        "prashna": "यदि $\\frac{dx}{dt} = k[H^+]^n$ और जब pH 2 से 1 करने पर प्रतिक्रिया का दर 100 गुणा हो जाता है, तो प्रतिक्रिया की कोटि है -",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Equivalent conductance of saturated $BaSO_4$ is 400 $ohm^{-1} cm^2 eqvt^{-1}$ and specific conductance is $8 \\times 10^{-5} ohm^{-1} cm^{-1}$. The $K_{sp}$ of $BaSO_4$ is -",
+        "prashna": "बेरियम सल्फेट के संतृप्त घोल का समतुल्य सुचालकता 400 $ohm^{-1} cm^2 eqvt^{-1}$ और विशिष्ट सुचालकता $8 \\times 10^{-5} ohm^{-1} cm^{-1}$ है। $BaSO_4$ का $K_{sp}$ है -",
+        "options": {
+            "A": "$4 \\times 10^{-8} M^2$",
+            "B": "$10^{-8} M^2$",
+            "C": "$2 \\times 10^{-8} M^2$",
+            "D": "$10^{-4} M^2$"
+        },
+        "vikalpa": {
+            "A": "$4 \\times 10^{-8} M^2$",
+            "B": "$10^{-8} M^2$",
+            "C": "$2 \\times 10^{-8} M^2$",
+            "D": "$10^{-4} M^2$"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "An organic compound gives iodoform test and also gives positive test with Tollens reagent. The compound is -",
+        "prashna": "एक कार्बनिक यौगिक आयोडोफोर्म जाँच दिखलाता है और टॉलेन्स अभिकारक के साथ भी धनात्मक जाँच देता है। तो यौगिक है-",
+        "options": {
+            "A": "$CH_3-CHO$",
+            "B": "$CH_3-C(O)-CH_3$",
+            "C": "$CH_3-CH_2OH$",
+            "D": "$(CH_3)_2CH-OH$"
+        },
+        "vikalpa": {
+            "A": "$CH_3-CHO$",
+            "B": "$CH_3-C(O)-CH_3$",
+            "C": "$CH_3-CH_2OH$",
+            "D": "$(CH_3)_2CH-OH$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "IUPAC name of $H_2[PtCl_6]$ is -",
+        "prashna": "$H_2[PtCl_6]$ का IUPAC नाम है -",
+        "options": {
+            "A": "Hydrogen hexachloro platinate (IV)",
+            "B": "Hydrogen hexachloro platinate (II)",
+            "C": "Hydrogen hexa chlorido Pt (IV)",
+            "D": "Hydrogen hexa chlorido Pt (II)"
+        },
+        "vikalpa": {
+            "A": "हाइड्रोजन हेक्सा क्लोरो प्लेटिनेट (IV)",
+            "B": "हाइड्रोजन हेक्सा क्लोरो प्लेटिनेट (II)",
+            "C": "हाइड्रोजन हेक्सा क्लोराइडो Pt (IV)",
+            "D": "हाइड्रोजन हेक्सा क्लोराइडो Pt (II)"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Mercuric chloride reacts with ammonia gas and forms white precipitate. The molecular formula of white precipitate is -",
+        "prashna": "मरक्यूरिक क्लोराइड अमोनिया गैस से प्रतिक्रिया कर उजला अवक्षेप बनाता है। उजले अवक्षेप का अणुसूत्र है-",
+        "options": {
+            "A": "$HgCl_2 \\cdot 2NH_3$",
+            "B": "$[Hg(NH_3)_2]Cl_2$",
+            "C": "$Hg(NH_2)Cl_2$",
+            "D": "$Hg(NH_2)Cl$"
+        },
+        "vikalpa": {
+            "A": "$HgCl_2 \\cdot 2NH_3$",
+            "B": "$[Hg(NH_3)_2]Cl_2$",
+            "C": "$Hg(NH_2)Cl_2$",
+            "D": "$Hg(NH_2)Cl$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Which alkyl halide follows only $SN^2$ hydrolysis mechanism?",
+        "prashna": "कौन एल्काइलहेलाइड सिर्फ $SN^2$ जलाशन क्रियाविधि का अनुशरण करता है?",
+        "options": {
+            "A": "$CH_3-CH_2-X$",
+            "B": "$(CH_3)_2CH-X$",
+            "C": "$(CH_3)_3C-X$",
+            "D": "$C_6H_5-CH_2X$"
+        },
+        "vikalpa": {
+            "A": "$CH_3-CH_2-X$",
+            "B": "$(CH_3)_2CH-X$",
+            "C": "$(CH_3)_3C-X$",
+            "D": "$C_6H_5-CH_2X$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "Reaction: $C_6H_5N_2Cl \\xrightarrow{Cu/\\Delta} C_6H_5Cl + N_2$. Half-life of this reaction is independent of concentration of reactant. After 10 minutes volume of $N_2$ gas is 10 litre and after complete reaction 100 litre. The rate constant of the reaction in $min^{-1}$ unit is-",
+        "prashna": "प्रतिक्रिया: $C_6H_5N_2Cl \\xrightarrow{Cu/\\Delta} C_6H_5Cl + N_2$. इस प्रतिक्रिया का अर्ध आयुकाल प्रतिकारक की सान्द्रता से स्वतन्त्र है। $N_2$ गैस का आयतन 10 मिनट के बाद 10 लीटर एवं प्रतिक्रिया की सम्पूर्णता पर 100 लीटर हो जाता है। तो प्रतिक्रिया का वेग स्थिरांक प्रतिमिनट इकाई में है -",
+        "options": {
+            "A": "$\\frac{2.303}{10}$",
+            "B": "$\\frac{2.303}{10} \\log{5.0}$",
+            "C": "$\\frac{2.303}{10} \\log{2.0}$",
+            "D": "$\\frac{2.303}{10} \\log{4.0}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{2.303}{10}$",
+            "B": "$\\frac{2.303}{10} \\log{5.0}$",
+            "C": "$\\frac{2.303}{10} \\log{2.0}$",
+            "D": "$\\frac{2.303}{10} \\log{4.0}$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "When NaCl solution is added to $Fe(OH)_3$ colloidal solution then-",
+        "prashna": "जब $Fe(OH)_3$ सॉल में NaCl का घोल मिलाया जाता है तो -",
+        "options": {
+            "A": "$[Fe(OH)_5]Fe^{3+}$ is formed",
+            "B": "$[Fe(OH)_5]Cl^-$ is formed",
+            "C": "$[Fe(OH)_6]Na^+$ is formed",
+            "D": "$Fe(OH)_3$ is coagulated"
+        },
+        "vikalpa": {
+            "A": "$[Fe(OH)_5]Fe^{3+}$ प्राप्त होता है।",
+            "B": "$[Fe(OH)_5]Cl^-$ प्राप्त होता है।",
+            "C": "$[Fe(OH)_6]Na^+$ प्राप्त होता है।",
+            "D": "$Fe(OH)_3$ अवक्षेपित हो जाता है"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "Which complex has maximum paramagnetic moment value amongst the following -",
+        "prashna": "निम्नलिखित जटिल यौगिकों मे किसका अनुचुम्बकीय आघूर्ण सबसे अधिक है-",
+        "options": {
+            "A": "$[Cr(H_2O)_6]^{3+}$",
+            "B": "$[Fe(H_2O)_6]^{2+}$",
+            "C": "$[Fe(CN)_6]^{4-}$",
+            "D": "$[Ni(CO)_4]$"
+        },
+        "vikalpa": {
+            "A": "$[Cr(H_2O)_6]^{3+}$",
+            "B": "$[Fe(H_2O)_6]^{2+}$",
+            "C": "$[Fe(CN)_6]^{4-}$",
+            "D": "$[Ni(CO)_4]$"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which of the following gives yellow or brown precipitate with alkaline Nessler's reagent?",
+        "prashna": "निम्नलिखित में कौन नेसलर अभिकारक के साथ पीला या भूरा अवक्षेप देता है?",
+        "options": {
+            "A": "$CO_2$",
+            "B": "$NH_3$",
+            "C": "NaCl",
+            "D": "KI"
+        },
+        "vikalpa": {
+            "A": "$CO_2$",
+            "B": "$NH_3$",
+            "C": "NaCl",
+            "D": "KI"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "A 5% solution of cane sugar (Mol. Wt = 342) is isotonic with 1% solution of substance X. The molecular weight of X is -",
+        "prashna": "केनसुगर (अणुभार = 342) के 5% एक घोल पदार्थ X के 1% घोल के आइसोटोनिक है। X का अणुभार है-",
+        "options": {
+            "A": "68.4",
+            "B": "34.2",
+            "C": "171.2",
+            "D": "136.2"
+        },
+        "vikalpa": {
+            "A": "68.4",
+            "B": "34.2",
+            "C": "171.2",
+            "D": "136.2"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "For the reaction Hydroquinone $\\rightleftharpoons$ Quinone + $2H^+ + 2e^-$; $E^\\circ = 1.30V$. At pH=2, Electrode potential is -",
+        "prashna": "अभिक्रिया Hydroquinone $\\rightleftharpoons$ Quinone + $2H^+ + 2e^-$ के लिए; $E^\\circ = 1.30V$ है। pH=2 पर इलेक्ट्रोड विभव है-",
+        "options": {
+            "A": "1.36 V",
+            "B": "1.30 V",
+            "C": "1.42 V",
+            "D": "1.20 V"
+        },
+        "vikalpa": {
+            "A": "1.36 V",
+            "B": "1.30 V",
+            "C": "1.42 V",
+            "D": "1.20 V"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "An Organic compound reacts with benzene sulfonyl chloride and product dissolves in aqueous NaOH. The compound is.",
+        "prashna": "एक कार्बनिक यौगिक बेन्जीन सल्फोनिल क्लोराइड से प्रतिक्रिया करता है तथा प्राप्त प्रतिफल जलीय NaOH में घुल जाता है। तो यौगिक है-",
+        "options": {
+            "A": "$R-NH_2$",
+            "B": "$R_2NH$",
+            "C": "$R_3N$",
+            "D": "all of these"
+        },
+        "vikalpa": {
+            "A": "$R-NH_2$",
+            "B": "$R_2NH$",
+            "C": "$R_3N$",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "A compound on hydrolysis gives 1° amine. The compound is-",
+        "prashna": "एक यौगिक जलांशन के पश्चात 1° एमीन देता है। यौगिक है-",
+        "options": {
+            "A": "anilide",
+            "B": "amide",
+            "C": "cyanide",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "एनिलाइड",
+            "B": "एमाइड",
+            "C": "सायनाइड",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "The reaction: $R-CO-X + H_2 \\xrightarrow{Pd/BaSO_4, \\Delta} R-CHO + HX$ is known as -",
+        "prashna": "अभिक्रिया: $R-CO-X + H_2 \\xrightarrow{Pd/BaSO_4, \\Delta} R-CHO + HX$ यह प्रतिक्रिया कहलाती है -",
+        "options": {
+            "A": "Stephen's reaction",
+            "B": "Cannizzaro's reaction",
+            "C": "Rosenmund's reaction",
+            "D": "Hinsberg's reaction"
+        },
+        "vikalpa": {
+            "A": "स्टीफेन प्रतिक्रिया",
+            "B": "केनिजारो प्रतिक्रिया",
+            "C": "रोजेनमण्ड प्रतिक्रिया",
+            "D": "हिंसबर्ग प्रतिक्रिया"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "Percentage of free space in bcc unit cell is -",
+        "prashna": "bcc इकाई सेल में मुक्त खाली जगह का प्रतिशत है-",
+        "options": {
+            "A": "32%",
+            "B": "34%",
+            "C": "28%",
+            "D": "30%"
+        },
+        "vikalpa": {
+            "A": "32%",
+            "B": "34%",
+            "C": "28%",
+            "D": "30%"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "The co-ordination number of a metal crystallizing in hexagonal close packed (hcp) structure is -",
+        "prashna": "एक धातु का रवाकरण हेक्सागोनल क्लोज पैक (hcp) संरचना में होता है, तो धातु की कॉर्डिनेशन संख्या है-",
+        "options": {
+            "A": "12",
+            "B": "8",
+            "C": "4",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "12",
+            "B": "8",
+            "C": "4",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Which of the following compound is most reactive towards nucleophilic addition?",
+        "prashna": "निम्नलिखित में कौन यौगिक केन्द्रस्नेही योगशील प्रतिक्रिया के प्रति सबसे ज्यादा प्रतिक्रियाशील है-",
+        "options": {
+            "A": "$CH_3-C(O)-CH_3$",
+            "B": "$CH_3-C(O)-H$",
+            "C": "$C_6H_5-C(O)-CH_3$",
+            "D": "$C_6H_5-C(O)-C_6H_5$"
+        },
+        "vikalpa": {
+            "A": "$CH_3-C(O)-CH_3$",
+            "B": "$CH_3-C(O)-H$",
+            "C": "$C_6H_5-C(O)-CH_3$",
+            "D": "$C_6H_5-C(O)-C_6H_5$"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "chapter": "8",
+        "chapter_name": "The d- and f-Block Elements",
+        "question": "Copper sulphate solution on treatment with excess of KI gives whitish precipitate. The precipitate is -",
+        "prashna": "कॉपर सल्फेट के घोल में अधिक KI डालने पर उजला अवक्षेप प्राप्त होता है, यह उजला अवक्षेप है-",
+        "options": {
+            "A": "$CuI_2$",
+            "B": "$Cu_2I_2$",
+            "C": "$Cu_2SO_4$",
+            "D": "$I_2$"
+        },
+        "vikalpa": {
+            "A": "$CuI_2$",
+            "B": "$Cu_2I_2$",
+            "C": "$Cu_2SO_4$",
+            "D": "$I_2$"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Most stable oxidation state of bismuth is -",
+        "prashna": "बिस्मथ की सबसे स्थायी ऑक्सीकरण अवस्था है-",
+        "options": {
+            "A": "+3",
+            "B": "+5",
+            "C": "+3 and +5 both",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "+3",
+            "B": "+5",
+            "C": "+3 और +5 दोनों",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Which metal nitrate gives colourless gas on thermal decomposition?",
+        "prashna": "कौन-सी धातु नाइट्रेट की तापीय विघटन होने पर रंगहीन गैस मुक्त करता है?",
+        "options": {
+            "A": "$NaNO_3$",
+            "B": "$Cu(NO_3)_2$",
+            "C": "$Ba(NO_3)_2$",
+            "D": "$Hg(NO_3)_2$"
+        },
+        "vikalpa": {
+            "A": "$NaNO_3$",
+            "B": "$Cu(NO_3)_2$",
+            "C": "$Ba(NO_3)_2$",
+            "D": "$Hg(NO_3)_2$"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "chapter": "1",
+        "chapter_name": "The Solid State",
+        "question": "In which of the following pairs of structures are both tetrahedral and octahedral voids present?",
+        "prashna": "निम्नलिखित में से किन संरचनाओं के जोड़ों में चतुष्फलकीय और अष्टफलकीय दोनों प्रकार की रिक्तियाँ होती हैं?",
+        "options": {
+            "A": "bcc and fcc",
+            "B": "hcp and simple cubic",
+            "C": "hcp and ccp",
+            "D": "bcc and hcp"
+        },
+        "vikalpa": {
+            "A": "bcc और fcc",
+            "B": "hcp और सिम्पल क्यूबिक",
+            "C": "hcp और ccp",
+            "D": "bcc और hcp"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Define electrode and electrode potential.",
+        "prashna": "इलेक्ट्रोड और इलेक्ट्रोड विभव को परिभाषित करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Nitrogen forms only $NCl_3$ but phosphorous forms $PCl_3$ and $PCl_5$ both. Explain.",
+        "prashna": "नाइट्रोजन सिर्फ $NCl_3$ का निर्माण करता है जबकि फॉस्फोरस $PCl_3$ और $PCl_5$ दोनों बनाता है। व्याख्या करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter": "2",
+        "chapter_name": "Solutions",
+        "question": "Why does vapour pressure of a liquid decrease with addition of a non-volatile solid solute?",
+        "prashna": "क्यों किसी तरल में अवाष्पशील ठोस घुल्य डालने पर उसके वाष्प दाब में कमी आती है?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Electron affinity of nitrogen is less than Carbon. Why?",
+        "prashna": "नाइट्रोजन की इलेक्ट्रॉन बन्धुता कार्बन से कम होती है। क्यों?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter": "11",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "question": "p-Nitrophenol is more acidic than p-methyl phenol. Why?",
+        "prashna": "p-नाइट्रोफिनॉल, p-मिथाईल फिनॉल से अधिक अम्लीय होता है। क्यों?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "For the reaction $C_6H_6 \\xrightarrow[FeCl_3, \\Delta]{Cl_2} [A] \\xrightarrow[AlCl_3]{CH_3-Cl} [B]$, write the name and structure of [A] and [B].",
+        "prashna": "अभिक्रिया $C_6H_6 \\xrightarrow[FeCl_3, \\Delta]{Cl_2} [A] \\xrightarrow[AlCl_3]{CH_3-Cl} [B]$ में [A] और [B] का नाम और संरचना लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Write Friedel-Crafts alkylation and acylation reaction.",
+        "prashna": "फ्रिडेल-क्राफ्ट्स की एल्कलीकरण एवं एसाइलेशन प्रतिक्रियाओं को लिखें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Define specific conductance & equivalent conductance.",
+        "prashna": "विशिष्ट एवं समतुल्यांक चालकता को परिभाषित करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "Half life period of first order reaction is 10 minutes. Calculate the rate constant of the reaction.",
+        "prashna": "प्रथम कोटि की प्रतिक्रिया का अर्ध आयुकाल 10 मिनट है। प्रतिक्रिया की दर स्थिरांक निकालें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter": "5",
+        "chapter_name": "Surface Chemistry",
+        "question": "Describe thermodynamical changes when a gas is adsorbed on a solid.",
+        "prashna": "किसी ठोस पर गैस के अवशोषित होने पर उष्मागतिकीय परिवर्तनों का वर्णन करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter": "3",
+        "chapter_name": "Electrochemistry",
+        "question": "Construct electric cells for the following reactions -",
+        "prashna": "निम्न प्रतिक्रियाओं के लिए विद्युतीय सेल बनायें -",
+        "sub_questions": {
+            "i": "$Fe + Cu^{2+} \\rightarrow Cu + Fe^{2+}$",
+            "ii": "$2Fe^{3+} + 2Cl^- \\rightarrow 2Fe^{2+} + Cl_2$"
+        },
+        "anuprashna": {
+            "i": "$Fe + Cu^{2+} \\rightarrow Cu + Fe^{2+}$",
+            "ii": "$2Fe^{3+} + 2Cl^- \\rightarrow 2Fe^{2+} + Cl_2$"
+        }
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "Silicon shows only +4 oxidation state but tin shows both +2 and +4 oxidation states. Why?",
+        "prashna": "सिलिकॉन सिर्फ +4 ऑक्सीकरण अवस्था दिखलाता है जबकि टीन +2 और +4 दोनों दिखलाता है। क्यों?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter": "9",
+        "chapter_name": "Coordination Compounds",
+        "question": "Write the chemical reaction of $NH_3$ gas with aqueous $CuSO_4$ and $AgNO_3$ solutions respectively.",
+        "prashna": "अमोनिया गैस की क्रमशः जलीय $CuSO_4$ और $AgNO_3$ घोल के साथ प्रतिक्रिया लिखें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "HI is stronger acid than HF. Explain.",
+        "prashna": "HI, HF से शक्तिशाली अम्ल है। व्याख्या करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter": "10",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "question": "Describe method of nitration of benzene.",
+        "prashna": "बेन्जीन के नाइट्रेशन की विधि का वर्णन करें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "Describe the kinetics of a first order reaction. Why is a first order reaction never completed?",
+        "prashna": "प्रतिक्रिया के प्रथम कोटि के गतिकी का वर्णन करें। क्यों प्रथम कोटि की प्रतिक्रिया कभी पूर्ण नहीं होती है?"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter": "4",
+        "chapter_name": "Chemical Kinetics",
+        "question": "For a chemical reaction the energy of activation is 80kJ $mol^{-1}$. If frequency factor is $4.0 \\times 10^{10} L mol^{-1} s^{-1}$. What is rate constant at 400 K?",
+        "prashna": "किसी प्रतिक्रिया की उत्तेजन ऊर्जा 80kJ $mol^{-1}$ है। यदि प्रतिक्रिया का आवृति गुणक $4.0 \\times 10^{10} L mol^{-1} s^{-1}$ हो तो प्रतिक्रिया का वेग स्थिरांक 400K पर निकालें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter": "12",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "question": "Write the test by which following are distinguished:",
+        "prashna": "निम्नलिखित में अंतर स्पष्ट करने के लिए जाँच / जाँचों को लिखें।",
+        "sub_questions": {
+            "i": "Ethanol and Acetaldehyde",
+            "ii": "Phenol and carboxylic acid",
+            "iii": "Aldehyde and Ketone",
+            "iv": "Formic acid and acetic acid",
+            "v": "Primary, secondary and tertiary alcohols"
+        },
+        "anuprashna": {
+            "i": "इथेनॉल और एसिटलडिहाइड",
+            "ii": "फिनॉल और कार्बोक्सिलिक अम्ल",
+            "iii": "एल्डिहाइड और किटोन",
+            "iv": "फॉर्मिक अम्ल और एसिटिक अम्ल",
+            "v": "प्राइमरी, सेकेण्डरी एवं टरशियरी अल्कॉहल"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter": "13",
+        "chapter_name": "Amines",
+        "question": "Describe the following reactions:",
+        "prashna": "निम्नलिखित अभिक्रियाओं का वर्णन करें:",
+        "sub_questions": {
+            "i": "Hofmann bromamide reaction",
+            "ii": "Clemmensen's reduction of Aldehyde and Ketone"
+        },
+        "anuprashna": {
+            "i": "हॉफमैन ब्रोमामाइड अभिक्रिया",
+            "ii": "एल्डिहाइड और कीटोन का क्लेमेनसन अवकरण"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter": "6",
+        "chapter_name": "General Principles and Processes of Isolation of Elements",
+        "question": "What are the important ores of copper? How is copper extracted from copper pyrites?",
+        "prashna": "कॉपर के मुख्य अयस्क कौन हैं? कॉपर पायराइट्स से कॉपर का निष्कर्षण कैसे किया जाता है?"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter": "7",
+        "chapter_name": "The p-Block Elements",
+        "question": "What happens when :-",
+        "prashna": "क्या होता है जब कि -",
+        "sub_questions": {
+            "i": "Chlorine gas reacts with NaOH solution.",
+            "ii": "Nitric acid reacts with Zn in different concentrations."
+        },
+        "anuprashna": {
+            "i": "क्लोरीन गैस NaOH विलयन के साथ प्रतिक्रिया करती है।",
+            "ii": "नाइट्रिक अम्ल Zn से विभिन्न सान्द्रणों पर प्रतिक्रिया करता है।"
+        }
+    }
+]
