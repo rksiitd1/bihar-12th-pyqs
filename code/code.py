@@ -1,5 +1,5 @@
 """
-Final two-column page1 generator with tuned spacing:
+Final two-column page1 generator with tuned spacing and styled answers.
 
 - Header → Heading gap = 0.6 cm
 - Heading → Horizontal rule gap = 0.25 cm
@@ -8,6 +8,7 @@ Final two-column page1 generator with tuned spacing:
 - HR: full usable width, gray, 1 pt
 - Two columns: 9.18 cm width each, 0.1 cm spacing
 - QA: Nirmala UI, 8pt, line spacing 1.0, numbers at 0.1 cm, text at 0.7 cm
+- Answers (after hyphen): Bold and Italic
 - Footer area height = 1.25 cm, text at top of footer in Badoni MT, 11pt
 """
 
@@ -27,6 +28,9 @@ BADONI_TTF = "BadoniMT.ttf"
 ALG_FACE = "Algerian_Custom"
 NIRMALA_FACE = "NirmalaUI_Custom"
 BADONI_FACE = "BadoniMT_Custom"
+# Font for the bold-italic answer part. Helvetica-BoldOblique is a standard, reliable choice.
+NIRMALA_BI_FACE = "Helvetica-BoldOblique"
+
 
 # ---------- page/layout ----------
 PAGE_WIDTH, PAGE_HEIGHT = A4
@@ -97,7 +101,7 @@ qa_lines = [
 "12. Name the two cells in a mature pollen grain. - The vegetative cell and generative cell.",
 "13. Which pollen cell is larger and forms the pollen tube? - The vegetative cell.",
 "14. Which pollen cell forms the two male gametes? - The generative cell.",
-"15. What is the female part of a flower called? - The Gynoecium (or pistil).",
+"15. What is the female part of a a flower called? - The Gynoecium (or pistil).",
 "16. A pistil has which three parts? - Stigma, style, and ovary.",
 "17. Which part of the pistil catches pollen? - The stigma.",
 "18. What structure is found inside the ovary? - The ovule.",
@@ -149,10 +153,11 @@ def string_width(text, font_name, font_size):
     try:
         return pdfmetrics.stringWidth(text, font_name, font_size)
     except:
+        # Fallback for safety, though standard fonts like Helvetica won't fail
         return pdfmetrics.stringWidth(text, "Helvetica", font_size)
 
 # ---------- build PDF ----------
-OUTFILE = "page1_final_spacing.pdf"
+OUTFILE = "page1_final_spacing_styled.pdf"
 c = canvas.Canvas(OUTFILE, pagesize=A4)
 
 # background
@@ -190,43 +195,90 @@ bottom_limit = FOOTER_SECTION_HEIGHT + (0.35 * cm)
 col = 0
 i = 0
 while i < len(qa_lines):
+    # 1. PARSE THE LINE into question and answer parts
     qa = qa_lines[i]
-    if '.' in qa:
-        num_part, rest = qa.split('.', 1)
-        num_text = num_part.strip() + '.'
-        rest = rest.strip()
-    else:
-        num_text = ""
-        rest = qa
+    q_part, a_part = qa, ""
+    if ' - ' in qa:
+        q_part, a_part = qa.split(' - ', 1)
+        a_part = " - " + a_part # Re-add separator to be styled
 
-    # wrap
+    # Separate the number from the question text
+    num_part, rest_of_q = "", q_part
+    if '.' in q_part:
+        try:
+            num_part, rest_of_q = q_part.split('.', 1)
+            num_part = num_part.strip() + '.'
+        except ValueError:
+            pass # No number found
+    rest_of_q = rest_of_q.strip()
+
+    # 2. CREATE A UNIFIED LIST OF WORDS WITH THEIR STYLES
+    words_and_styles = []
+    if rest_of_q:
+        for word in rest_of_q.split():
+            words_and_styles.append((word, NIRMALA_FACE))
+    if a_part:
+        for word in a_part.split():
+            words_and_styles.append((word, NIRMALA_BI_FACE))
+
+    # 3. ADVANCED WRAPPING LOGIC for mixed styles
     avail_width = COL_WIDTH - TEXT_START_INSIDE_COL
-    words, lines, cur = rest.split(), [], ""
-    for w in words:
-        cand = (cur + " " + w).strip() if cur else w
-        if string_width(cand, NIRMALA_FACE, QA_FONT_SIZE) <= avail_width:
-            cur = cand
-        else:
-            if cur: lines.append(cur)
-            cur = w
-    if cur: lines.append(cur)
+    lines_to_draw = []
+    current_line_segments = []
+    current_width = 0
+    space_width = string_width(" ", NIRMALA_FACE, QA_FONT_SIZE)
 
-    needed_h = len(lines) * QA_LEADING
+    for word, style in words_and_styles:
+        word_width = string_width(word, style, QA_FONT_SIZE)
+        
+        if current_line_segments and current_width + space_width + word_width <= avail_width:
+            # Add space and word to current line
+            current_line_segments.append((" ", NIRMALA_FACE))
+            current_line_segments.append((word, style))
+            current_width += space_width + word_width
+        elif not current_line_segments and word_width <= avail_width:
+             # First word of a line
+            current_line_segments.append((word, style))
+            current_width += word_width
+        else:
+            # Word doesn't fit, push current line and start a new one
+            if current_line_segments:
+                lines_to_draw.append(current_line_segments)
+            current_line_segments = [(word, style)]
+            current_width = word_width
+
+    if current_line_segments:
+        lines_to_draw.append(current_line_segments)
+
+    # 4. CHECK IF IT FITS IN THE COLUMN and draw
+    needed_h = len(lines_to_draw) * QA_LEADING
     if current_y[col] - needed_h < bottom_limit:
         if col == 0:
-            col = 1
+            col = 1 # Switch to the next column
             continue
         else:
-            break
+            break # No more space on the page
 
+    # Get coordinates for this item
+    y = current_y[col]
     num_x = col_x_start[col] + NUMBER_OFFSET_INSIDE_COL
     text_x = col_x_start[col] + TEXT_START_INSIDE_COL
-    y = current_y[col]
+
+    # Draw the number part
     c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
-    if num_text: c.drawString(num_x, y, num_text)
-    for ln in lines:
-        c.drawString(text_x, y, ln)
+    if num_part:
+        c.drawString(num_x, y, num_part)
+
+    # Draw the wrapped lines using a text object for mixed styles
+    for line_segments in lines_to_draw:
+        textobject = c.beginText()
+        textobject.setTextOrigin(text_x, y)
+        for text, style in line_segments:
+            textobject.setFont(style, QA_FONT_SIZE)
+            textobject.textOut(text)
+        c.drawText(textobject)
         y -= QA_LEADING
+    
     current_y[col] = y - LINE_GAP_BETWEEN_ITEMS
     i += 1
 
