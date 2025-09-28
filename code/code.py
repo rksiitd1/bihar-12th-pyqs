@@ -1,5 +1,5 @@
 """
-Final two-column page1 generator with corrected 1.0 line spacing.
+Final two-column page1 generator with corrected 1.0 line spacing for wrapped answers.
 
 - Header → Heading gap = 0.6 cm
 - Heading → Horizontal rule gap = 0.25 cm
@@ -49,9 +49,7 @@ HEADING_TO_HR = 0.4 * cm
 HR_TO_QA = 0.8 * cm
 
 QA_FONT_SIZE = 8
-# --- CORRECTED VALUE ---
-# Reverted to 8.0 to match the 8pt font size, ensuring a true 1.0 line spacing.
-QA_LEADING = 8.0
+QA_LEADING = 8.0 # 8pt font with 1.0 line spacing
 NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
 TEXT_START_INSIDE_COL = 0.7 * cm
 LINE_GAP_BETWEEN_ITEMS = 0.1 * cm
@@ -88,7 +86,7 @@ answer_style = ParagraphStyle(
     name='AnswerStyle',
     fontName=NIRMALA_BI_FACE,
     fontSize=QA_FONT_SIZE,
-    leading=QA_LEADING, # Uses the corrected leading value
+    leading=QA_LEADING,
     alignment=TA_RIGHT,
 )
 
@@ -165,14 +163,14 @@ def string_width(text, font_name, font_size):
     return pdfmetrics.stringWidth(text, font_name, font_size)
 
 # ---------- build PDF ----------
-OUTFILE = "page1_aligned_answers_corrected_spacing.pdf"
+OUTFILE = "page1_aligned_answers_final.pdf"
 c = canvas.Canvas(OUTFILE, pagesize=A4)
 
 # background
 c.setFillColorRGB(*PAGE_BG_RGB)
 c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
 
-# header, heading, and HR (no changes)
+# header, heading, and HR
 header_x = MARGIN
 header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
 if os.path.isfile(HEADER_IMAGE):
@@ -255,10 +253,9 @@ while i < len(qa_lines):
         c.drawString(col_x_start[col] + NUMBER_OFFSET_INSIDE_COL, y, num_part)
         c.drawString(col_x_start[col] + TEXT_START_INSIDE_COL, y, q_text)
         
-        # Draw the wrapped answer paragraph starting on the next line
-        # The calculation y - QA_LEADING - h correctly places the bottom
-        # of the paragraph so its top aligns with the next line.
-        p.drawOn(c, col_x_start[col] + TEXT_START_INSIDE_COL, y - QA_LEADING - h)
+        # --- THIS IS THE CORRECTED LINE ---
+        # This positions the start of the paragraph one line below the question's baseline.
+        p.drawOn(c, col_x_start[col] + TEXT_START_INSIDE_COL, y - QA_LEADING)
 
         current_y[col] -= (needed_h + LINE_GAP_BETWEEN_ITEMS)
     
