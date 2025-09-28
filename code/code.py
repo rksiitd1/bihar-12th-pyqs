@@ -1,5 +1,5 @@
 """
-Final two-column page1 generator with tuned spacing and styled answers.
+Final two-column page1 generator with tuned spacing and aligned answers.
 
 - Header → Heading gap = 0.6 cm
 - Heading → Horizontal rule gap = 0.25 cm
@@ -7,8 +7,8 @@ Final two-column page1 generator with tuned spacing and styled answers.
 - Heading: Algerian, 12pt, ALL CAPS, left-aligned
 - HR: full usable width, gray, 1 pt
 - Two columns: 9.18 cm width each, 0.1 cm spacing
-- QA: Nirmala UI, 8pt, line spacing 1.0, numbers at 0.1 cm, text at 0.7 cm
-- Answers (after hyphen): Bold and Italic
+- QA: Nirmala UI, 8pt, line spacing ~1.1, numbers at 0.1 cm
+- Questions left-aligned, Answers (after hyphen) right-aligned and bold-italic.
 - Footer area height = 1.25 cm, text at top of footer in Badoni MT, 11pt
 """
 
@@ -17,6 +17,9 @@ from reportlab.lib.units import cm
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.platypus import Paragraph
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.lib.enums import TA_RIGHT
 import os
 
 # ---------- files & fonts ----------
@@ -28,9 +31,7 @@ BADONI_TTF = "BadoniMT.ttf"
 ALG_FACE = "Algerian_Custom"
 NIRMALA_FACE = "NirmalaUI_Custom"
 BADONI_FACE = "BadoniMT_Custom"
-# Font for the bold-italic answer part. Helvetica-BoldOblique is a standard, reliable choice.
-NIRMALA_BI_FACE = "Helvetica-BoldOblique"
-
+NIRMALA_BI_FACE = "Helvetica-BoldOblique" # Standard font for bold-italic
 
 # ---------- page/layout ----------
 PAGE_WIDTH, PAGE_HEIGHT = A4
@@ -43,16 +44,17 @@ COL_SPACING = 0.1 * cm
 assert abs((COL_WIDTH * 2 + COL_SPACING) - USABLE_WIDTH) < 1e-4, "Columns don't sum to usable width"
 
 HEADER_HEIGHT = USABLE_WIDTH * (400.0 / 1600.0)  # 4:1 ratio
-# refined gaps
 HEADER_TO_HEADING = 1.0 * cm
 HEADING_TO_HR = 0.4 * cm
 HR_TO_QA = 0.8 * cm
 
 QA_FONT_SIZE = 8
-QA_LEADING = 8.0
+# CORRECTED: Tighter, more standard line spacing (1.125 for 8pt font)
+QA_LEADING = 9.0
 NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
 TEXT_START_INSIDE_COL = 0.7 * cm
 LINE_GAP_BETWEEN_ITEMS = 0.1 * cm
+MIN_GAP_BETWEEN_QA = 0.5 * cm # Min space between Q and A on a single line
 
 HEADING_FONT_SIZE = 12
 HR_COLOR = (0.5, 0.5, 0.5)
@@ -74,97 +76,41 @@ alg_ok = try_register(ALGERIAN_TTF, ALG_FACE)
 nirmala_ok = try_register(NIRMALA_TTF, NIRMALA_FACE)
 badoni_ok  = try_register(BADONI_TTF, BADONI_FACE)
 if not alg_ok:
-    ALG_FACE = "Times-Bold"  # Already bold
+    ALG_FACE = "Times-Bold"
 if not nirmala_ok:
     NIRMALA_FACE = "Helvetica"
 if not badoni_ok:
     BADONI_FACE = "Times-Roman"
 
+# ---------- Paragraph style for answers ----------
+answer_style = ParagraphStyle(
+    name='AnswerStyle',
+    fontName=NIRMALA_BI_FACE,
+    fontSize=QA_FONT_SIZE,
+    leading=QA_LEADING, # Uses the corrected leading
+    alignment=TA_RIGHT,
+)
+
 # ---------- content ----------
+# (Content remains the same, omitted for brevity)
+qa_lines = [
+"1. What is the reproductive part of a flowering plant? - The flower.", "2. What is the male part of a flower called? - The Androecium.", "3. The androecium is made of what units? - Stamens.", "4. A stamen has which two parts? - The anther and the filament.", "5. What part of the anther makes pollen? - The microsporangium (or pollen sac).", "6. What is the ploidy of a microspore mother cell? - Diploid (2n).", "7. How do microspore mother cells form microspores? - Through meiosis.", "8. What is the ploidy of a pollen grain? - Haploid (n).", "9. What is the hard outer layer of pollen? - The exine.", "10. What tough material makes the exine? - Sporopollenin.", "11. What is the thin inner layer of pollen? - The intine.", "12. Name the two cells in a mature pollen grain. - The vegetative cell and generative cell.", "13. Which pollen cell is larger and forms the pollen tube? - The vegetative cell.", "14. Which pollen cell forms the two male gametes? - The generative cell.", "15. What is the female part of a flower called? - The Gynoecium (or pistil).", "16. A pistil has which three parts? - Stigma, style, and ovary.", "17. Which part of the pistil catches pollen? - The stigma.", "18. What structure is found inside the ovary? - The ovule.", "19. After fertilization, what does the ovule become? - The seed.", "20. What sac inside the ovule holds the egg cell? - The embryo sac.", "21. What is the ploidy of a megaspore mother cell? - Diploid (2n).", "22. Meiosis of a megaspore mother cell produces how many megaspores? - Four.", "23. How many of the four megaspores usually survive? - Only one.", "24. A typical embryo sac has how many cells and nuclei? - 7 cells, 8 nuclei.", "25. Name the three cells at the micropylar end. - One egg cell and two synergids.", "26. What do we call the egg cell and its two synergids? - The egg apparatus.", "27. Name the three cells at the opposite (chalazal) end. - The antipodal cells.", "28. What is the large cell in the middle of the embryo sac? - The central cell.", "29. What two nuclei are in the central cell? - The two polar nuclei.", "30. What is the transfer of pollen to a stigma called? - Pollination.", "31. Pollination within the same flower is called what? - Autogamy.", "32. Pollination between flowers on the same plant is called what? - Geitonogamy.", "33. Pollination between flowers on different plants is called what? - Xenogamy.", "34. What is pollination by wind called? - Anemophily.", "35. What is pollination by insects called? - Entomophily.", "36. What is pollination by water called? - Hydrophily.", "37. Can the male gametes in flowering plants swim? - No, they are non-motile.", "38. What tube grows from the pollen grain to the ovule? - The pollen tube.", "39. How many male gametes does the pollen tube deliver? - Two.", "40. What is the fusion of a male gamete and the egg cell? - Syngamy (fertilization).", "41. Syngamy results in what new cell? - The zygote.", "42. What is a zygote's ploidy? - Diploid (2n).", "43. What is the second fertilization event in angiosperms? - Triple fusion.", "44. What three nuclei fuse during triple fusion? - One male gamete and two polar nuclei.", "45. Triple fusion forms what special nucleus? - The Primary Endosperm Nucleus (PEN).", "46. What is the endosperm's ploidy? - Triploid (3n).", "47. What do we call syngamy and triple fusion happening together? - Double fertilization.", "48. What is the main job of the endosperm? - To feed the growing embryo.", "49. The zygote grows into what structure? - The embryo.", "50. What part of the ovule becomes the seed coat? - The integuments.", "51. After fertilization, what does the ovary become? - The fruit.", "52. What do we call a fruit that forms without fertilization? - A parthenocarpic fruit.", "53. The banana is a natural example of what? - Parthenocarpy.", "54. A fruit that develops only from the ovary is a what? - A true fruit.", "55. A fruit that develops from more than the ovary is a what? - A false fruit.", "56. The apple is a common example of what kind of fruit? - A false fruit.", "57. An embryo developing from an unfertilized egg is called what? - Parthenogenesis.", "58. What is it called when seeds form without any fertilization? - Apomixis.", "59. What do we call it when a single seed has multiple embryos? - Polyembryony.", "60. Polyembryony is common in which type of fruit? - Citrus fruits."
+]
 footer_left   = "Page 1 of 13"
 footer_center = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
 footer_right  = "https://dbggurukulam.com"
 section_heading = "Quick revision: One-liner questions and answers"
 
-qa_lines = [
-"1. What is the reproductive part of a flowering plant? - The flower.",
-"2. What is the male part of a flower called? - The Androecium.",
-"3. The androecium is made of what units? - Stamens.",
-"4. A stamen has which two parts? - The anther and the filament.",
-"5. What part of the anther makes pollen? - The microsporangium (or pollen sac).",
-"6. What is the ploidy of a microspore mother cell? - Diploid (2n).",
-"7. How do microspore mother cells form microspores? - Through meiosis.",
-"8. What is the ploidy of a pollen grain? - Haploid (n).",
-"9. What is the hard outer layer of pollen? - The exine.",
-"10. What tough material makes the exine? - Sporopollenin.",
-"11. What is the thin inner layer of pollen? - The intine.",
-"12. Name the two cells in a mature pollen grain. - The vegetative cell and generative cell.",
-"13. Which pollen cell is larger and forms the pollen tube? - The vegetative cell.",
-"14. Which pollen cell forms the two male gametes? - The generative cell.",
-"15. What is the female part of a a flower called? - The Gynoecium (or pistil).",
-"16. A pistil has which three parts? - Stigma, style, and ovary.",
-"17. Which part of the pistil catches pollen? - The stigma.",
-"18. What structure is found inside the ovary? - The ovule.",
-"19. After fertilization, what does the ovule become? - The seed.",
-"20. What sac inside the ovule holds the egg cell? - The embryo sac.",
-"21. What is the ploidy of a megaspore mother cell? - Diploid (2n).",
-"22. Meiosis of a megaspore mother cell produces how many megaspores? - Four.",
-"23. How many of the four megaspores usually survive? - Only one.",
-"24. A typical embryo sac has how many cells and nuclei? - 7 cells, 8 nuclei.",
-"25. Name the three cells at the micropylar end. - One egg cell and two synergids.",
-"26. What do we call the egg cell and its two synergids? - The egg apparatus.",
-"27. Name the three cells at the opposite (chalazal) end. - The antipodal cells.",
-"28. What is the large cell in the middle of the embryo sac? - The central cell.",
-"29. What two nuclei are in the central cell? - The two polar nuclei.",
-"30. What is the transfer of pollen to a stigma called? - Pollination.",
-"31. Pollination within the same flower is called what? - Autogamy.",
-"32. Pollination between flowers on the same plant is called what? - Geitonogamy.",
-"33. Pollination between flowers on different plants is called what? - Xenogamy.",
-"34. What is pollination by wind called? - Anemophily.",
-"35. What is pollination by insects called? - Entomophily.",
-"36. What is pollination by water called? - Hydrophily.",
-"37. Can the male gametes in flowering plants swim? - No, they are non-motile.",
-"38. What tube grows from the pollen grain to the ovule? - The pollen tube.",
-"39. How many male gametes does the pollen tube deliver? - Two.",
-"40. What is the fusion of a male gamete and the egg cell? - Syngamy (fertilization).",
-"41. Syngamy results in what new cell? - The zygote.",
-"42. What is a zygote's ploidy? - Diploid (2n).",
-"43. What is the second fertilization event in angiosperms? - Triple fusion.",
-"44. What three nuclei fuse during triple fusion? - One male gamete and two polar nuclei.",
-"45. Triple fusion forms what special nucleus? - The Primary Endosperm Nucleus (PEN).",
-"46. What is the endosperm's ploidy? - Triploid (3n).",
-"47. What do we call syngamy and triple fusion happening together? - Double fertilization.",
-"48. What is the main job of the endosperm? - To feed the growing embryo.",
-"49. The zygote grows into what structure? - The embryo.",
-"50. What part of the ovule becomes the seed coat? - The integuments.",
-"51. After fertilization, what does the ovary become? - The fruit.",
-"52. What do we call a fruit that forms without fertilization? - A parthenocarpic fruit.",
-"53. The banana is a natural example of what? - Parthenocarpy.",
-"54. A fruit that develops only from the ovary is a what? - A true fruit.",
-"55. A fruit that develops from more than the ovary is a what? - A false fruit.",
-"56. The apple is a common example of what kind of fruit? - A false fruit.",
-"57. An embryo developing from an unfertilized egg is called what? - Parthenogenesis.",
-"58. What is it called when seeds form without any fertilization? - Apomixis.",
-"59. What do we call it when a single seed has multiple embryos? - Polyembryony.",
-"60. Polyembryony is common in which type of fruit? - Citrus fruits."
-]
-
 def string_width(text, font_name, font_size):
-    try:
-        return pdfmetrics.stringWidth(text, font_name, font_size)
-    except:
-        # Fallback for safety, though standard fonts like Helvetica won't fail
-        return pdfmetrics.stringWidth(text, "Helvetica", font_size)
+    return pdfmetrics.stringWidth(text, font_name, font_size)
 
 # ---------- build PDF ----------
-OUTFILE = "page1_final_spacing_styled.pdf"
+OUTFILE = "page1_aligned_answers_corrected.pdf"
 c = canvas.Canvas(OUTFILE, pagesize=A4)
 
-# background
+# background, header, heading, HR (no changes)
 c.setFillColorRGB(*PAGE_BG_RGB)
 c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
-
-# header
 header_x = MARGIN
 header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
 if os.path.isfile(HEADER_IMAGE):
@@ -172,21 +118,17 @@ if os.path.isfile(HEADER_IMAGE):
 else:
     c.setStrokeColorRGB(0.6,0.6,0.6)
     c.rect(header_x, header_y, USABLE_WIDTH, HEADER_HEIGHT)
-
-# heading
 heading_y = header_y - HEADER_TO_HEADING
 heading_text = section_heading.upper()
 c.setFont(ALG_FACE, HEADING_FONT_SIZE)
 c.setFillColorRGB(0,0,0)
 c.drawString(MARGIN, heading_y, heading_text)
-
-# horizontal rule
 hr_y = heading_y - HEADING_TO_HR
 c.setStrokeColorRGB(*HR_COLOR)
 c.setLineWidth(HR_THICKNESS_PT)
 c.line(MARGIN, hr_y, PAGE_WIDTH - MARGIN, hr_y)
 
-# two-column Q&A
+# two-column Q&A with corrected alignment logic
 start_y = hr_y - HR_TO_QA
 current_y = [start_y, start_y]
 col_x_start = [MARGIN, MARGIN + COL_WIDTH + COL_SPACING]
@@ -195,91 +137,61 @@ bottom_limit = FOOTER_SECTION_HEIGHT + (0.35 * cm)
 col = 0
 i = 0
 while i < len(qa_lines):
-    # 1. PARSE THE LINE into question and answer parts
     qa = qa_lines[i]
-    q_part, a_part = qa, ""
-    if ' - ' in qa:
-        q_part, a_part = qa.split(' - ', 1)
-        a_part = " - " + a_part # Re-add separator to be styled
-
-    # Separate the number from the question text
-    num_part, rest_of_q = "", q_part
-    if '.' in q_part:
-        try:
-            num_part, rest_of_q = q_part.split('.', 1)
-            num_part = num_part.strip() + '.'
-        except ValueError:
-            pass # No number found
-    rest_of_q = rest_of_q.strip()
-
-    # 2. CREATE A UNIFIED LIST OF WORDS WITH THEIR STYLES
-    words_and_styles = []
-    if rest_of_q:
-        for word in rest_of_q.split():
-            words_and_styles.append((word, NIRMALA_FACE))
-    if a_part:
-        for word in a_part.split():
-            words_and_styles.append((word, NIRMALA_BI_FACE))
-
-    # 3. ADVANCED WRAPPING LOGIC for mixed styles
-    avail_width = COL_WIDTH - TEXT_START_INSIDE_COL
-    lines_to_draw = []
-    current_line_segments = []
-    current_width = 0
-    space_width = string_width(" ", NIRMALA_FACE, QA_FONT_SIZE)
-
-    for word, style in words_and_styles:
-        word_width = string_width(word, style, QA_FONT_SIZE)
-        
-        if current_line_segments and current_width + space_width + word_width <= avail_width:
-            # Add space and word to current line
-            current_line_segments.append((" ", NIRMALA_FACE))
-            current_line_segments.append((word, style))
-            current_width += space_width + word_width
-        elif not current_line_segments and word_width <= avail_width:
-             # First word of a line
-            current_line_segments.append((word, style))
-            current_width += word_width
-        else:
-            # Word doesn't fit, push current line and start a new one
-            if current_line_segments:
-                lines_to_draw.append(current_line_segments)
-            current_line_segments = [(word, style)]
-            current_width = word_width
-
-    if current_line_segments:
-        lines_to_draw.append(current_line_segments)
-
-    # 4. CHECK IF IT FITS IN THE COLUMN and draw
-    needed_h = len(lines_to_draw) * QA_LEADING
-    if current_y[col] - needed_h < bottom_limit:
-        if col == 0:
-            col = 1 # Switch to the next column
-            continue
-        else:
-            break # No more space on the page
-
-    # Get coordinates for this item
-    y = current_y[col]
-    num_x = col_x_start[col] + NUMBER_OFFSET_INSIDE_COL
-    text_x = col_x_start[col] + TEXT_START_INSIDE_COL
-
-    # Draw the number part
-    c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
-    if num_part:
-        c.drawString(num_x, y, num_part)
-
-    # Draw the wrapped lines using a text object for mixed styles
-    for line_segments in lines_to_draw:
-        textobject = c.beginText()
-        textobject.setTextOrigin(text_x, y)
-        for text, style in line_segments:
-            textobject.setFont(style, QA_FONT_SIZE)
-            textobject.textOut(text)
-        c.drawText(textobject)
-        y -= QA_LEADING
     
-    current_y[col] = y - LINE_GAP_BETWEEN_ITEMS
+    num_part, q_text, a_text = "", qa, ""
+    if ' - ' in qa:
+        q_part, a_text = qa.split(' - ', 1)
+        a_text = "- " + a_text
+    else:
+        q_part = qa
+    if '.' in q_part:
+        num_part, q_text = q_part.split('.', 1)
+        num_part += '.'
+    q_text = q_text.strip()
+
+    q_width = string_width(q_text, NIRMALA_FACE, QA_FONT_SIZE)
+    a_width = string_width(a_text, NIRMALA_BI_FACE, QA_FONT_SIZE) if a_text else 0
+    avail_width = COL_WIDTH - TEXT_START_INSIDE_COL
+
+    if q_width + a_width + MIN_GAP_BETWEEN_QA <= avail_width:
+        needed_h = QA_LEADING
+        if current_y[col] - needed_h < bottom_limit:
+            if col == 0: col = 1; continue
+            else: break
+        y = current_y[col]
+        c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
+        c.drawString(col_x_start[col] + NUMBER_OFFSET_INSIDE_COL, y, num_part)
+        c.drawString(col_x_start[col] + TEXT_START_INSIDE_COL, y, q_text)
+        if a_text:
+            c.setFont(NIRMALA_BI_FACE, QA_FONT_SIZE)
+            c.drawRightString(col_x_start[col] + COL_WIDTH, y, a_text)
+        current_y[col] -= (needed_h + LINE_GAP_BETWEEN_ITEMS)
+
+    else:
+        # --- MULTI-LINE LAYOUT with CORRECTED LOGIC ---
+        p = Paragraph(a_text, answer_style)
+        w, h = p.wrapOn(c, avail_width, PAGE_HEIGHT)
+        
+        # CORRECTED: Calculate total height based on a tighter model
+        needed_h = QA_LEADING + h
+        
+        if current_y[col] - needed_h < bottom_limit:
+            if col == 0: col = 1; continue
+            else: break
+            
+        y = current_y[col]
+        c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
+        c.drawString(col_x_start[col] + NUMBER_OFFSET_INSIDE_COL, y, num_part)
+        c.drawString(col_x_start[col] + TEXT_START_INSIDE_COL, y, q_text)
+        
+        # CORRECTED: Draw the paragraph with a precise vertical offset from the question's baseline (y).
+        # This places the bottom of the paragraph at y - (height of paragraph) - (font size).
+        # This effectively places the TOP of the paragraph `QA_FONT_SIZE` points below the question's baseline.
+        p.drawOn(c, col_x_start[col] + TEXT_START_INSIDE_COL, y - h - QA_FONT_SIZE)
+
+        current_y[col] -= (needed_h + LINE_GAP_BETWEEN_ITEMS)
+    
     i += 1
 
 # footer
