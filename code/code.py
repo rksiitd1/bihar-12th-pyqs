@@ -1,15 +1,10 @@
 """
-Final two-column page1 generator with corrected 1.0 line spacing for wrapped answers.
+Final two-column page1 generator with smart wrapping logic.
 
-- Header → Heading gap = 0.6 cm
-- Heading → Horizontal rule gap = 0.25 cm
-- Horizontal rule → Q&A start gap = 0.4 cm
-- Heading: Algerian, 12pt, ALL CAPS, left-aligned
-- HR: full usable width, gray, 1 pt
-- Two columns: 9.18 cm width each, 0.1 cm spacing
-- QA: Nirmala UI, 8pt, line spacing 1.0, numbers at 0.1 cm
-- Questions left-aligned, Answers (after hyphen) right-aligned and bold-italic.
-- Footer area height = 1.25 cm, text at top of footer in Badoni MT, 11pt
+- If a question exceeds 80% of the column width, it wraps, and the answer
+  is always placed on the lines below it.
+- Otherwise, it attempts a single-line layout if space permits.
+- All spacing rules from the original spec are maintained.
 """
 
 from reportlab.lib.pagesizes import A4
@@ -18,8 +13,8 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import Paragraph
-from reportlab.lib.styles import ParagraphStyle
-from reportlab.lib.enums import TA_RIGHT
+from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
+from reportlab.lib.enums import TA_LEFT, TA_RIGHT
 import os
 
 # ---------- files & fonts ----------
@@ -31,7 +26,7 @@ BADONI_TTF = "BadoniMT.ttf"
 ALG_FACE = "Algerian_Custom"
 NIRMALA_FACE = "NirmalaUI_Custom"
 BADONI_FACE = "BadoniMT_Custom"
-NIRMALA_BI_FACE = "Helvetica-BoldOblique" # Standard font for bold-italic
+NIRMALA_BI_FACE = "Helvetica-BoldOblique"
 
 # ---------- page/layout ----------
 PAGE_WIDTH, PAGE_HEIGHT = A4
@@ -49,7 +44,7 @@ HEADING_TO_HR = 0.4 * cm
 HR_TO_QA = 0.8 * cm
 
 QA_FONT_SIZE = 8
-QA_LEADING = 8.0 # 8pt font with 1.0 line spacing
+QA_LEADING = 8.0 # 1.0 line spacing
 NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
 TEXT_START_INSIDE_COL = 0.7 * cm
 LINE_GAP_BETWEEN_ITEMS = 0.1 * cm
@@ -74,14 +69,19 @@ def try_register(ttf_path, face_name):
 alg_ok = try_register(ALGERIAN_TTF, ALG_FACE)
 nirmala_ok = try_register(NIRMALA_TTF, NIRMALA_FACE)
 badoni_ok  = try_register(BADONI_TTF, BADONI_FACE)
-if not alg_ok:
-    ALG_FACE = "Times-Bold"
-if not nirmala_ok:
-    NIRMALA_FACE = "Helvetica"
-if not badoni_ok:
-    BADONI_FACE = "Times-Roman"
+if not alg_ok: ALG_FACE = "Times-Bold"
+if not nirmala_ok: NIRMALA_FACE = "Helvetica"
+if not badoni_ok: BADONI_FACE = "Times-Roman"
 
-# ---------- Paragraph style for answers ----------
+# ---------- NEW: Paragraph styles for both Q & A ----------
+question_style = ParagraphStyle(
+    name='QuestionStyle',
+    fontName=NIRMALA_FACE,
+    fontSize=QA_FONT_SIZE,
+    leading=QA_LEADING,
+    alignment=TA_LEFT,
+)
+
 answer_style = ParagraphStyle(
     name='AnswerStyle',
     fontName=NIRMALA_BI_FACE,
@@ -163,14 +163,14 @@ def string_width(text, font_name, font_size):
     return pdfmetrics.stringWidth(text, font_name, font_size)
 
 # ---------- build PDF ----------
-OUTFILE = "page1_aligned_answers_final.pdf"
+OUTFILE = "page1_smart_wrapping.pdf"
 c = canvas.Canvas(OUTFILE, pagesize=A4)
 
 # background
 c.setFillColorRGB(*PAGE_BG_RGB)
 c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
 
-# header, heading, and HR
+# header, heading, and HR (no changes)
 header_x = MARGIN
 header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
 if os.path.isfile(HEADER_IMAGE):
@@ -190,7 +190,7 @@ c.setStrokeColorRGB(*HR_COLOR)
 c.setLineWidth(HR_THICKNESS_PT)
 c.line(MARGIN, hr_y, PAGE_WIDTH - MARGIN, hr_y)
 
-# two-column Q&A with alignment logic
+# two-column Q&A with new smart logic
 start_y = hr_y - HR_TO_QA
 current_y = [start_y, start_y]
 col_x_start = [MARGIN, MARGIN + COL_WIDTH + COL_SPACING]
@@ -214,14 +214,20 @@ while i < len(qa_lines):
         num_part += '.'
     q_text = q_text.strip()
 
-    # Measure widths
+    # Measure widths and define thresholds
     q_width = string_width(q_text, NIRMALA_FACE, QA_FONT_SIZE)
     a_width = string_width(a_text, NIRMALA_BI_FACE, QA_FONT_SIZE) if a_text else 0
     avail_width = COL_WIDTH - TEXT_START_INSIDE_COL
+    q_width_threshold = 0.8 * avail_width
 
-    # Decide layout: single line or multi-line?
-    if q_width + a_width + MIN_GAP_BETWEEN_QA <= avail_width:
-        # --- SINGLE-LINE LAYOUT ---
+    # DECISION: Is this a compact single-line item, or does it need full wrapping?
+    use_single_line = (
+        q_width <= q_width_threshold and
+        (q_width + a_width + MIN_GAP_BETWEEN_QA) <= avail_width
+    )
+
+    if use_single_line:
+        # --- SCENARIO 1: COMPACT SINGLE-LINE LAYOUT ---
         needed_h = QA_LEADING
         if current_y[col] - needed_h < bottom_limit:
             if col == 0: col = 1; continue
@@ -236,30 +242,42 @@ while i < len(qa_lines):
             c.drawRightString(col_x_start[col] + COL_WIDTH, y, a_text)
         
         current_y[col] -= (needed_h + LINE_GAP_BETWEEN_ITEMS)
-
+        i += 1
     else:
-        # --- MULTI-LINE LAYOUT ---
-        p = Paragraph(a_text, answer_style)
-        w, h = p.wrapOn(c, avail_width, PAGE_HEIGHT)
-        needed_h = QA_LEADING + h
+        # --- SCENARIO 2 & 3: ROBUST MULTI-LINE LAYOUT ---
+        # Use Paragraphs for both question and answer to handle all wrapping.
+        q_para = Paragraph(q_text, question_style)
+        a_para = Paragraph(a_text, answer_style) if a_text else None
+        
+        # Measure required height for both paragraphs
+        q_w, q_h = q_para.wrapOn(c, avail_width, PAGE_HEIGHT)
+        a_w, a_h = (0, 0)
+        if a_para:
+            a_w, a_h = a_para.wrapOn(c, avail_width, PAGE_HEIGHT)
+        
+        needed_h = q_h + a_h
         
         if current_y[col] - needed_h < bottom_limit:
             if col == 0: col = 1; continue
             else: break
             
         y = current_y[col]
-        # Draw number and question on the first line
-        c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
-        c.drawString(col_x_start[col] + NUMBER_OFFSET_INSIDE_COL, y, num_part)
-        c.drawString(col_x_start[col] + TEXT_START_INSIDE_COL, y, q_text)
         
-        # --- THIS IS THE CORRECTED LINE ---
-        # This positions the start of the paragraph one line below the question's baseline.
-        p.drawOn(c, col_x_start[col] + TEXT_START_INSIDE_COL, y - QA_LEADING)
+        # Draw the number, aligned with the baseline of the first line of the question
+        c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
+        c.drawString(col_x_start[col] + NUMBER_OFFSET_INSIDE_COL, y - QA_LEADING, num_part)
 
+        # Draw the wrapped question paragraph
+        # Its bottom-left y-coordinate is y - q_h
+        q_para.drawOn(c, col_x_start[col] + TEXT_START_INSIDE_COL, y - q_h)
+        
+        # Draw the wrapped answer paragraph below the question
+        if a_para:
+            # Its bottom-left y-coordinate is y - q_h - a_h
+            a_para.drawOn(c, col_x_start[col] + TEXT_START_INSIDE_COL, y - q_h - a_h)
+        
         current_y[col] -= (needed_h + LINE_GAP_BETWEEN_ITEMS)
-    
-    i += 1
+        i += 1
 
 # footer
 footer_top_y = FOOTER_SECTION_HEIGHT
