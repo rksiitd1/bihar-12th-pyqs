@@ -1,11 +1,7 @@
 """
-Reproduce page 1 exactly with:
-- margins = 1.27 cm
-- header image (1600x400 px aspect)
-- page background = Blue Accent 5 Lighter 60% (approx)
-- Q&A: Nirmala UI, size 8, leading 1.0 (i.e., leading = 8)
-- number at 0.1 cm from left inside margin, text starts at 0.7 cm inside margin
-- footer: Badoni MT, size 11, baseline at 1.25 cm from bottom
+Updated ReportLab script: places the three strings as the footer (left/center/right)
+at baseline = 1.27 cm from bottom, keeps header, background, Q/A, fonts, and layout.
+Place header.png, Nirmala.ttf and BadoniMT.ttf in the script folder for exact font match.
 """
 
 from reportlab.lib.pagesizes import A4
@@ -14,98 +10,78 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 import os
-import sys
 
 # -----------------------
-# Configuration / paths
+# Files & font names
+# -----------------------
+HEADER_IMAGE = "header.png"        # header banner (1600x400)
+NIRMALA_TTF = "Nirmala.ttf"        # optional: Nirmala UI .ttf
+BADONI_TTF = "BadoniMT.ttf"        # optional: Badoni MT .ttf
+
+NIRMALA_FACE = "NirmalaUI_Custom"
+BADONI_FACE  = "BadoniMT_Custom"
+
+# -----------------------
+# Page / layout constants
 # -----------------------
 PAGE_WIDTH, PAGE_HEIGHT = A4
-MARGIN = 1.27 * cm
-FOOTER_BASELINE = 1.25 * cm
+MARGIN = 1.27 * cm                    # all four margins exactly 1.27 cm
+FOOTER_BASELINE = 1.27 * cm           # footer baseline exactly 1.27 cm from bottom
+USABLE_WIDTH = PAGE_WIDTH - 2 * MARGIN
 
-HEADER_IMAGE = "header.png"   # put header image here
-NIRMALA_TTF = "Nirmala.ttf"   # optional: place Nirmala UI TTF in same folder
-BADONI_TTF = "BadoniMT.ttf"   # optional: place Badoni MT TTF in same folder
-
-OUTPUT = "page1_exact_design.pdf"
-
-# Fonts names to register/use
-NIRMALA_FONT_NAME = "NirmalaUI_Custom"
-BADONI_FONT_NAME = "BadoniMT_Custom"
-
-# -----------------------
-# Visual metrics
-# -----------------------
-# header keeps 4:1 ratio (1600x400). header height computed to fill usable width inside margins.
-usable_width = PAGE_WIDTH - 2 * MARGIN
-HEADER_RATIO = 400.0 / 1600.0  # 0.25
-header_height = usable_width * HEADER_RATIO
+# Header keeps 4:1 ratio (1600x400)
+HEADER_RATIO = 400.0 / 1600.0
+HEADER_HEIGHT = USABLE_WIDTH * HEADER_RATIO
 GAP_AFTER_HEADER = 0.25 * cm
 
 # Q/A layout specifics
-number_offset_inside_margin = 0.1 * cm   # from inside left margin
-text_start_inside_margin = 0.7 * cm      # from inside left margin
-font_size_qa = 8                          # Nirmala UI size 8
-leading_qa = font_size_qa * 1.0           # line spacing 1.0 -> leading = 8
+NUMBER_OFFSET_INSIDE_MARGIN = 0.1 * cm   # number drawn at MARGIN + this
+TEXT_START_INSIDE_MARGIN = 0.7 * cm      # text drawn at MARGIN + this
+QA_FONT_SIZE = 8
+QA_LEADING = 8.0                         # line spacing 1.0 -> leading = font size = 8
+LINE_GAP_BETWEEN_ITEMS = 0.1 * cm        # small gap after each QA item
 
-# footer font size
-footer_font_size = 11
+# Footer font size
+FOOTER_FONT_SIZE = 11
 
-# Page background color: approximate "Blue, Accent 5, Lighter 60%"
-# (approximate Hex chosen: #D6E6F8 -> (214,230,248))
+# Page background RGB approximation for "Blue, Accent 5, Lighter 60%"
 PAGE_BG_RGB = (214/255.0, 230/255.0, 248/255.0)
 
 # -----------------------
-# Attempt to register fonts (try to use provided TTFs)
+# Try to register fonts if available
 # -----------------------
-def try_register_font(ttf_path, face_name):
-    try:
-        if os.path.isfile(ttf_path):
+def try_register(ttf_path, face_name):
+    if os.path.isfile(ttf_path):
+        try:
             pdfmetrics.registerFont(TTFont(face_name, ttf_path))
-            print(f"Registered font {face_name} from {ttf_path}")
+            print(f"Registered font '{face_name}' from {ttf_path}")
             return True
-        else:
-            # try common Windows system fonts folder (Windows only)
-            win_path = os.path.join("C:\\", "Windows", "Fonts", ttf_path)
-            if os.path.isfile(win_path):
-                pdfmetrics.registerFont(TTFont(face_name, win_path))
-                print(f"Registered font {face_name} from {win_path}")
-                return True
-    except Exception as e:
-        print("Font registration error:", e)
+        except Exception as e:
+            print("Font register error:", e)
+    else:
+        print(f"Font file {ttf_path} not found in working folder.")
     return False
 
-nirmala_ok = try_register_font(NIRMALA_TTF, NIRMALA_FONT_NAME)
-badoni_ok = try_register_font(BADONI_TTF, BADONI_FONT_NAME)
+nirmala_ok = try_register(NIRMALA_TTF, NIRMALA_FACE)
+badoni_ok  = try_register(BADONI_TTF, BADONI_FACE)
 
-# Fallback mapping if custom not available
+# Fallbacks
 if not nirmala_ok:
-    # try to register 'Nirmala UI' from system by file name (best-effort)
-    # else fallback to Helvetica
-    try:
-        pdfmetrics.registerFont(TTFont(NIRMALA_FONT_NAME, "Nirmala.ttf"))
-        nirmala_ok = True
-    except:
-        print("Nirmala UI TTF not found. Falling back to Helvetica for QA text.")
-        NIRMALA_FONT_NAME = "Helvetica"
-
+    NIRMALA_FACE = "Helvetica"    # fallback for QA
 if not badoni_ok:
-    try:
-        pdfmetrics.registerFont(TTFont(BADONI_FONT_NAME, "BadoniMT.ttf"))
-        badoni_ok = True
-    except:
-        print("Badoni MT TTF not found. Falling back to Times-Roman for footer.")
-        BADONI_FONT_NAME = "Times-Roman"
+    BADONI_FACE = "Times-Roman"  # fallback for footer
 
 # -----------------------
-# Text content (page 1) - put full page lines here
+# Content (page 1)
 # -----------------------
-title_left = "Page 1 of 13"
-title_center = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
-title_right = "https://dbggurukulam.com"
+# Footer is now three-part (left / center / right)
+footer_left   = "Page 1 of 13"
+footer_center = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
+footer_right  = "https://dbggurukulam.com"
+
 section_heading = "Quick revision: One-liner questions and answers"
 
-# Q/A lines exactly as in page 1 (put full page 1 data here)
+# Q/A lines (1-60) exactly as on page 1
 qa_lines = [
 "1. What is the reproductive part of a flowering plant? - The flower.",
 "2. What is the male part of a flower called? - The Androecium.",
@@ -169,141 +145,127 @@ qa_lines = [
 "60. Polyembryony is common in which type of fruit? - Citrus fruits."
 ]
 
-footer_text = "Shri Classes & DBG Gurukulam (by IITian Golu Sir) — https://dbggurukulam.com"
-
 # -----------------------
-# Helper: measure string width with chosen font
+# Helper to measure string width
 # -----------------------
 def string_width(text, font_name, font_size):
     try:
         return pdfmetrics.stringWidth(text, font_name, font_size)
     except:
-        # fallback measure with Helvetica if font not registered
         return pdfmetrics.stringWidth(text, "Helvetica", font_size)
 
 # -----------------------
 # Create PDF
 # -----------------------
-c = canvas.Canvas(OUTPUT, pagesize=A4)
+OUTFILE = "page1_footer_fixed.pdf"
+c = canvas.Canvas(OUTFILE, pagesize=A4)
 
-# 1) Page background
+# 1) page background
 c.setFillColorRGB(*PAGE_BG_RGB)
-c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, stroke=0, fill=1)
+c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
 
-# 2) Draw header (image) inside margins, at top
+# 2) header image (inside margins)
 header_x = MARGIN
-header_y = PAGE_HEIGHT - MARGIN - header_height
+header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
 if os.path.isfile(HEADER_IMAGE):
-    c.drawImage(HEADER_IMAGE, header_x, header_y, width=usable_width, height=header_height, preserveAspectRatio=True)
+    c.drawImage(HEADER_IMAGE, header_x, header_y, width=USABLE_WIDTH, height=HEADER_HEIGHT, preserveAspectRatio=True)
 else:
-    # placeholder so layout can be checked without the image
-    c.setStrokeColorRGB(0.6, 0.6, 0.6)
-    c.rect(header_x, header_y, usable_width, header_height)
-    c.setFillColorRGB(0, 0, 0)
+    c.setStrokeColorRGB(0.6,0.6,0.6)
+    c.rect(header_x, header_y, USABLE_WIDTH, HEADER_HEIGHT, stroke=1, fill=0)
+    c.setFillColorRGB(0,0,0)
     c.setFont("Helvetica", 9)
-    c.drawCentredString(header_x + usable_width/2, header_y + header_height/2, "HEADER IMAGE MISSING - put header.png here")
+    c.drawCentredString(header_x + USABLE_WIDTH/2, header_y + HEADER_HEIGHT/2, "HEADER IMAGE MISSING - put header.png here")
 
-# 3) Title line just under header
-title_y = header_y - GAP_AFTER_HEADER - (0.1 * cm)
-c.setFont("Times-Roman", 11)
-# Left, center, right columns
-c.drawString(MARGIN, title_y, title_left)
-c.drawCentredString(PAGE_WIDTH / 2.0, title_y, title_center)
-c.drawRightString(PAGE_WIDTH - MARGIN, title_y, title_right)
-
-# 4) Section heading under title
-heading_y = title_y - (0.4 * cm)
+# 3) Section heading (no title line on top; footer will contain the three strings)
+heading_y = header_y - GAP_AFTER_HEADER - (0.05 * cm)
 c.setFont("Times-Bold", 11)
+c.setFillColorRGB(0,0,0)
 c.drawString(MARGIN, heading_y, section_heading)
 
-# 5) Q&A block - draw each line with manual wrapping
-block_top = heading_y - (0.5 * cm)   # starting y for first QA line
-current_y = block_top
-
-number_x = MARGIN + number_offset_inside_margin
-text_x = MARGIN + text_start_inside_margin
+# 4) Q&A block manual layout
+start_y = heading_y - (0.5 * cm)
+current_y = start_y
+number_x = MARGIN + NUMBER_OFFSET_INSIDE_MARGIN
+text_x   = MARGIN + TEXT_START_INSIDE_MARGIN
 right_limit_x = PAGE_WIDTH - MARGIN
-avail_width_for_text = right_limit_x - text_x
+avail_width = right_limit_x - text_x
+bottom_limit = FOOTER_BASELINE + (0.35 * cm)   # small safety above footer
 
-# Set QA font for drawing
-qa_font = NIRMALA_FONT_NAME
-c.setFillColorRGB(0, 0, 0)
-
+# Set QA font
+qa_font = NIRMALA_FACE
 for qa in qa_lines:
-    # split into number and rest
-    # expecting pattern like "1. Question - Answer"
+    # parse number and text
     if '.' in qa:
-        # first period after initial number
-        parts = qa.split('.', 1)
-        num_text = parts[0].strip() + '.'
-        rest = parts[1].strip()
+        num_part, rest = qa.split('.', 1)
+        num_text = num_part.strip() + '.'
+        rest = rest.strip()
     else:
         num_text = ""
         rest = qa
 
-    # Manual word-wrap using pdfmetrics.stringWidth
+    # wrap rest into lines that fit avail_width
     words = rest.split()
     lines = []
-    line = ""
+    cur = ""
     for w in words:
-        candidate = line + (" " if line else "") + w
-        if string_width(candidate, qa_font, font_size_qa) <= avail_width_for_text:
-            line = candidate
+        candidate = (cur + " " + w).strip() if cur else w
+        if string_width(candidate, qa_font, QA_FONT_SIZE) <= avail_width:
+            cur = candidate
         else:
-            if line == "":
-                # a single very long word (unlikely) - force it
+            if cur == "":
                 lines.append(candidate)
-                line = ""
+                cur = ""
             else:
-                lines.append(line)
-                line = w
-    if line:
-        lines.append(line)
+                lines.append(cur)
+                cur = w
+    if cur:
+        lines.append(cur)
 
-    # Check if there is space left on page for the required lines; if not, stop (we're reproducing page 1)
-    needed_height = len(lines) * leading_qa
-    bottom_limit = FOOTER_BASELINE + (0.3 * cm)
-    if (current_y - needed_height) < bottom_limit:
-        # Not enough space to render more QAs on this page (page break would be needed)
+    needed_height = len(lines) * QA_LEADING
+    # check space
+    if current_y - needed_height < bottom_limit:
+        # not enough space on this page; stop (we're reproducing page 1 only)
         break
 
-    # draw number on the first line's baseline
-    # baseline for first line is (current_y - (font_size_qa * 0.0)), but using drawString baseline as current_y - font_size_qa
-    # we'll draw lines such that their y for drawString is current_y - font_size_qa (first line),
-    # and subsequent lines at current_y - font_size_qa - n*leading_qa
-    for i, ln in enumerate(lines):
-        line_y = current_y - (i + 1) * leading_qa + (leading_qa - font_size_qa)
-        # draw the text line
-        try:
-            c.setFont(qa_font, font_size_qa)
-        except:
-            c.setFont("Helvetica", font_size_qa)
-        c.drawString(text_x, line_y, ln)
-
-    # draw number at the first line baseline (align with first rendered line)
-    first_line_y = current_y - 1 * leading_qa + (leading_qa - font_size_qa)
+    # draw number & wrapped lines
     try:
-        c.setFont(qa_font, font_size_qa)
+        c.setFont(qa_font, QA_FONT_SIZE)
     except:
-        c.setFont("Helvetica", font_size_qa)
-    c.drawString(number_x, first_line_y, num_text)
+        c.setFont("Helvetica", QA_FONT_SIZE)
+    # Draw number on first line baseline
+    if num_text:
+        c.drawString(number_x, current_y, num_text)
+    # Draw wrapped text lines
+    y = current_y
+    for ln in lines:
+        try:
+            c.setFont(qa_font, QA_FONT_SIZE)
+        except:
+            c.setFont("Helvetica", QA_FONT_SIZE)
+        c.drawString(text_x, y, ln)
+        y -= QA_LEADING
 
-    # move current_y down by used height
-    current_y = current_y - needed_height - (0.1 * cm)  # add small gap between items
+    # move down for next QA plus small gap
+    current_y = y - LINE_GAP_BETWEEN_ITEMS
 
-# 6) Footer (Badoni MT, size 11) exactly at baseline = 1.25 cm
+# 5) Footer (left, center, right) exactly at baseline = 1.27 cm from bottom, Badoni MT size 11
 try:
-    c.setFont(BADONI_FONT_NAME, footer_font_size)
+    c.setFont(BADONI_FACE, FOOTER_FONT_SIZE)
 except:
-    c.setFont("Times-Roman", footer_font_size)
-c.setFillColorRGB(0, 0, 0)
-c.drawCentredString(PAGE_WIDTH / 2.0, FOOTER_BASELINE, footer_text)
+    c.setFont("Times-Roman", FOOTER_FONT_SIZE)
+c.setFillColorRGB(0,0,0)
+# left
+c.drawString(MARGIN, FOOTER_BASELINE, footer_left)
+# center
+c.drawCentredString(PAGE_WIDTH/2.0, FOOTER_BASELINE, footer_center)
+# right
+c.drawRightString(PAGE_WIDTH - MARGIN, FOOTER_BASELINE, footer_right)
 
 c.showPage()
 c.save()
 
-print("Saved PDF:", OUTPUT)
+print("Saved PDF with footer fixed at 1.27 cm:", OUTFILE)
 if not nirmala_ok:
-    print("NOTE: Nirmala UI not available; used fallback font. To match exactly, place 'Nirmala.ttf' in script folder.")
+    print("NOTE: Nirmala UI not found; fallback used — place 'Nirmala.ttf' in the folder for exact match.")
 if not badoni_ok:
-    print("NOTE: Badoni MT not available; used fallback font. To match exactly, place 'BadoniMT.ttf' in script folder.")
+    print("NOTE: Badoni MT not found; fallback used — place 'BadoniMT.ttf' in the folder for exact match.")
