@@ -1,6 +1,9 @@
 """
-Two-column page1 generator — footer area height fixed to 1.25 cm and footer text placed near the top edge of that footer.
-Drop header.png, Nirmala.ttf, BadoniMT.ttf in the script folder for exact visuals.
+Updated two-column page1 generator with:
+- Section heading in ALGERIAN, 12pt, ALL CAPS, left-aligned
+- Horizontal rule below heading: full usable width (inside margins), 1 pt thick, gray stroke
+- Two columns (9.18 cm each, 0.1 cm spacing), Nirmala UI QA, footer area height 1.25 cm with footer text at top of footer.
+- Place header.png, Algerian.ttf, Nirmala.ttf, BadoniMT.ttf in the same folder to get exact fonts/images.
 """
 
 from reportlab.lib.pagesizes import A4
@@ -12,15 +15,18 @@ import os
 
 # ---------- files & fonts ----------
 HEADER_IMAGE = "header.png"
+ALGERIAN_TTF = "Algerian.ttf"
 NIRMALA_TTF = "Nirmala.ttf"
 BADONI_TTF = "BadoniMT.ttf"
-NIRMALA_FACE = "NirmalaUI_Custom"
-BADONI_FACE  = "BadoniMT_Custom"
 
-# ---------- page / layout ----------
+ALG_FACE = "Algerian_Custom"
+NIRMALA_FACE = "NirmalaUI_Custom"
+BADONI_FACE = "BadoniMT_Custom"
+
+# ---------- page/layout ----------
 PAGE_WIDTH, PAGE_HEIGHT = A4
 MARGIN = 1.27 * cm                    # page margins
-FOOTER_SECTION_HEIGHT = 1.25 * cm     # footer area height measured from bottom (as you specified)
+FOOTER_SECTION_HEIGHT = 1.25 * cm     # footer area height measured from bottom
 USABLE_WIDTH = PAGE_WIDTH - 2 * MARGIN
 
 # two-column specs
@@ -30,7 +36,7 @@ COL_WIDTH = COL_WIDTH_CM * cm
 COL_SPACING = COL_SPACING_CM * cm
 assert abs((COL_WIDTH * 2 + COL_SPACING) - USABLE_WIDTH) < 1e-4, "Columns don't sum to usable width"
 
-# header image ratio (1600x400 -> 4:1)
+# header ratio (1600x400 => 4:1)
 HEADER_RATIO = 400.0 / 1600.0
 HEADER_HEIGHT = USABLE_WIDTH * HEADER_RATIO
 GAP_AFTER_HEADER = 0.25 * cm
@@ -42,25 +48,41 @@ NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
 TEXT_START_INSIDE_COL = 0.7 * cm
 LINE_GAP_BETWEEN_ITEMS = 0.1 * cm
 
+# heading settings
+HEADING_FONT_SIZE = 12
+HEADING_FONT_FACE = ALG_FACE
+HEADING_COLOR = (0, 0, 0)  # black
+
+# horizontal rule
+HR_COLOR = (0.5, 0.5, 0.5)   # gray
+HR_THICKNESS_PT = 1.0       # 1 pt
+
 # footer font size
 FOOTER_FONT_SIZE = 11
 
 # page background (Blue Accent 5 Lighter 60% approx)
 PAGE_BG_RGB = (214/255.0, 230/255.0, 248/255.0)
 
-# ---------- register fonts if available ----------
+# ---------- try to register fonts ----------
 def try_register(ttf_path, face_name):
     if os.path.isfile(ttf_path):
         try:
             pdfmetrics.registerFont(TTFont(face_name, ttf_path))
-            print(f"Registered {face_name} from {ttf_path}")
+            print(f"Registered font '{face_name}' from {ttf_path}")
             return True
         except Exception as e:
-            print("Font register error:", e)
+            print("Font register error for", ttf_path, ":", e)
+    else:
+        print(f"Font file {ttf_path} not found in working folder.")
     return False
 
+alg_ok = try_register(ALGERIAN_TTF, ALG_FACE)
 nirmala_ok = try_register(NIRMALA_TTF, NIRMALA_FACE)
 badoni_ok  = try_register(BADONI_TTF, BADONI_FACE)
+
+# fallbacks
+if not alg_ok:
+    ALG_FACE = "Times-Bold"
 if not nirmala_ok:
     NIRMALA_FACE = "Helvetica"
 if not badoni_ok:
@@ -72,6 +94,7 @@ footer_center = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
 footer_right  = "https://dbggurukulam.com"
 section_heading = "Quick revision: One-liner questions and answers"
 
+# Q/A lines (1-60)
 qa_lines = [
 "1. What is the reproductive part of a flowering plant? - The flower.",
 "2. What is the male part of a flower called? - The Androecium.",
@@ -135,7 +158,7 @@ qa_lines = [
 "60. Polyembryony is common in which type of fruit? - Citrus fruits."
 ]
 
-# ---------- helpers ----------
+# ---------- helper ----------
 def string_width(text, font_name, font_size):
     try:
         return pdfmetrics.stringWidth(text, font_name, font_size)
@@ -143,14 +166,14 @@ def string_width(text, font_name, font_size):
         return pdfmetrics.stringWidth(text, "Helvetica", font_size)
 
 # ---------- create pdf ----------
-OUTFILE = "page1_two_columns_footer_top_of_footer.pdf"
+OUTFILE = "page1_two_columns_heading_algerian_hr.pdf"
 c = canvas.Canvas(OUTFILE, pagesize=A4)
 
 # background
 c.setFillColorRGB(*PAGE_BG_RGB)
 c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
 
-# header
+# header image
 header_x = MARGIN
 header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
 if os.path.isfile(HEADER_IMAGE):
@@ -161,14 +184,24 @@ else:
     c.setFont("Helvetica", 9)
     c.drawCentredString(header_x + USABLE_WIDTH/2, header_y + HEADER_HEIGHT/2, "HEADER IMAGE MISSING")
 
-# heading (single-line across)
+# heading: Algerian, 12pt, ALL CAPS, left-aligned at margin
 heading_y = header_y - GAP_AFTER_HEADER - (0.05 * cm)
-c.setFont("Times-Bold", 11)
-c.setFillColorRGB(0,0,0)
-c.drawString(MARGIN, heading_y, section_heading)
+heading_text = section_heading.upper()
+try:
+    c.setFont(HEADING_FONT_FACE, HEADING_FONT_SIZE)
+except:
+    c.setFont("Times-Bold", HEADING_FONT_SIZE)
+c.setFillColorRGB(*HEADING_COLOR)
+c.drawString(MARGIN, heading_y, heading_text)
 
-# two-column QA block (flow first column then second)
-start_y = heading_y - (0.5 * cm)
+# horizontal rule immediately below heading (full usable width inside margins), gray, 1 pt thick
+hr_y = heading_y - (0.18 * cm)  # small gap below text before hr; tweak if needed
+c.setStrokeColorRGB(*HR_COLOR)
+c.setLineWidth(HR_THICKNESS_PT)
+c.line(MARGIN, hr_y, PAGE_WIDTH - MARGIN, hr_y)
+
+# start two-column block below the rule
+start_y = hr_y - (0.4 * cm)
 current_y = [start_y, start_y]
 col_x_start = [MARGIN, MARGIN + COL_WIDTH + COL_SPACING]
 bottom_limit = FOOTER_SECTION_HEIGHT + (0.35 * cm)    # don't intrude into footer area
@@ -212,7 +245,7 @@ while i < len(qa_lines):
         else:
             break
 
-    # draw number & lines
+    # draw number & lines in the current column
     num_x = col_x_start[col] + NUMBER_OFFSET_INSIDE_COL
     text_x = col_x_start[col] + TEXT_START_INSIDE_COL
     y = current_y[col]
@@ -229,25 +262,26 @@ while i < len(qa_lines):
     current_y[col] = y - LINE_GAP_BETWEEN_ITEMS
     i += 1
 
-# ---------- footer: footer area is FOOTER_SECTION_HEIGHT tall ----------
-# place footer text near the TOP of footer area: y = top_of_footer - small_gap
-footer_top_y = FOOTER_SECTION_HEIGHT                   # top of footer measured from bottom
-footer_text_y = footer_top_y - (0.12 * cm)             # small gap below top edge so text sits in topmost part
+# footer: footer area height is FOOTER_SECTION_HEIGHT from bottom; place text near the top edge of that area
+footer_top_y = FOOTER_SECTION_HEIGHT
+footer_text_y = footer_top_y - (0.12 * cm)
 
 try:
     c.setFont(BADONI_FACE, FOOTER_FONT_SIZE)
 except:
     c.setFont("Times-Roman", FOOTER_FONT_SIZE)
 c.setFillColorRGB(0,0,0)
-# left, centered, right within margins
 c.drawString(MARGIN, footer_text_y, footer_left)
 c.drawCentredString(PAGE_WIDTH/2.0, footer_text_y, footer_center)
 c.drawRightString(PAGE_WIDTH - MARGIN, footer_text_y, footer_right)
 
 c.showPage()
 c.save()
-print("Saved:", OUTFILE)
+
+print("Saved PDF:", OUTFILE)
+if not alg_ok:
+    print("ALGERIAN font not found; used Times-Bold instead; to match exactly place 'Algerian.ttf' in the script folder.")
 if not nirmala_ok:
-    print("Nirmala UI not found; used fallback font (Helvetica).")
+    print("Nirmala UI not found; used fallback font (Helvetica); place 'Nirmala.ttf' for exact match.")
 if not badoni_ok:
-    print("Badoni MT not found; used fallback font (Times-Roman).")
+    print("Badoni MT not found; used fallback (Times-Roman); place 'BadoniMT.ttf' for exact match.")
