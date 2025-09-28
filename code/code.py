@@ -1,4 +1,8 @@
-# updated two-column page1 generator with footer SECTION height = 1.25 cm
+"""
+Two-column page1 generator — footer area height fixed to 1.25 cm and footer text placed near the top edge of that footer.
+Drop header.png, Nirmala.ttf, BadoniMT.ttf in the script folder for exact visuals.
+"""
+
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import cm
 from reportlab.pdfgen import canvas
@@ -6,69 +10,63 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 import os
 
-# -----------------------
-# Files & font names
-# -----------------------
+# ---------- files & fonts ----------
 HEADER_IMAGE = "header.png"
 NIRMALA_TTF = "Nirmala.ttf"
 BADONI_TTF = "BadoniMT.ttf"
 NIRMALA_FACE = "NirmalaUI_Custom"
 BADONI_FACE  = "BadoniMT_Custom"
 
-# -----------------------
-# Page / layout constants
-# -----------------------
+# ---------- page / layout ----------
 PAGE_WIDTH, PAGE_HEIGHT = A4
-MARGIN = 1.27 * cm                       # page margins
+MARGIN = 1.27 * cm                    # page margins
+FOOTER_SECTION_HEIGHT = 1.25 * cm     # footer area height measured from bottom (as you specified)
 USABLE_WIDTH = PAGE_WIDTH - 2 * MARGIN
 
-# Two-column settings
+# two-column specs
 COL_WIDTH_CM = 9.18
 COL_SPACING_CM = 0.1
 COL_WIDTH = COL_WIDTH_CM * cm
 COL_SPACING = COL_SPACING_CM * cm
-assert abs((COL_WIDTH * 2 + COL_SPACING) - USABLE_WIDTH) < 1e-6, "Column widths+spacing must equal usable width"
+assert abs((COL_WIDTH * 2 + COL_SPACING) - USABLE_WIDTH) < 1e-4, "Columns don't sum to usable width"
 
-# Header (4:1)
+# header image ratio (1600x400 -> 4:1)
 HEADER_RATIO = 400.0 / 1600.0
 HEADER_HEIGHT = USABLE_WIDTH * HEADER_RATIO
 GAP_AFTER_HEADER = 0.25 * cm
 
-# Q/A
-NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
-TEXT_START_INSIDE_COL = 0.7 * cm
+# QA text settings
 QA_FONT_SIZE = 8
 QA_LEADING = 8.0
+NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
+TEXT_START_INSIDE_COL = 0.7 * cm
 LINE_GAP_BETWEEN_ITEMS = 0.1 * cm
 
-# Footer SECTION (height measured from bottom) and text padding from top of footer
-FOOTER_SECTION_HEIGHT = 1.25 * cm       # footer area height from bottom
-FOOTER_TEXT_TOP_PADDING = 0.12 * cm     # small gap from top of footer area to footer text baseline
+# footer font size
 FOOTER_FONT_SIZE = 11
 
-# Page background (approx Blue Accent 5 Lighter 60%)
+# page background (Blue Accent 5 Lighter 60% approx)
 PAGE_BG_RGB = (214/255.0, 230/255.0, 248/255.0)
 
-# -----------------------
-# Register fonts if available
-# -----------------------
+# ---------- register fonts if available ----------
 def try_register(ttf_path, face_name):
     if os.path.isfile(ttf_path):
         try:
             pdfmetrics.registerFont(TTFont(face_name, ttf_path))
+            print(f"Registered {face_name} from {ttf_path}")
             return True
-        except Exception:
-            return False
+        except Exception as e:
+            print("Font register error:", e)
     return False
 
 nirmala_ok = try_register(NIRMALA_TTF, NIRMALA_FACE)
 badoni_ok  = try_register(BADONI_TTF, BADONI_FACE)
-if not nirmala_ok: NIRMALA_FACE = "Helvetica"
-if not badoni_ok:  BADONI_FACE  = "Times-Roman"
+if not nirmala_ok:
+    NIRMALA_FACE = "Helvetica"
+if not badoni_ok:
+    BADONI_FACE = "Times-Roman"
 
-# -----------------------
-# Content
-# -----------------------
+# ---------- content ----------
 footer_left   = "Page 1 of 13"
 footer_center = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
 footer_right  = "https://dbggurukulam.com"
@@ -137,55 +135,48 @@ qa_lines = [
 "60. Polyembryony is common in which type of fruit? - Citrus fruits."
 ]
 
-# -----------------------
-# Helpers
-# -----------------------
+# ---------- helpers ----------
 def string_width(text, font_name, font_size):
     try:
         return pdfmetrics.stringWidth(text, font_name, font_size)
     except:
         return pdfmetrics.stringWidth(text, "Helvetica", font_size)
 
-# -----------------------
-# Render PDF
-# -----------------------
-OUTFILE = "page1_two_columns_footer_section_1.25cm.pdf"
+# ---------- create pdf ----------
+OUTFILE = "page1_two_columns_footer_top_of_footer.pdf"
 c = canvas.Canvas(OUTFILE, pagesize=A4)
 
-# page background
+# background
 c.setFillColorRGB(*PAGE_BG_RGB)
 c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
 
-# header image
+# header
 header_x = MARGIN
 header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
 if os.path.isfile(HEADER_IMAGE):
     c.drawImage(HEADER_IMAGE, header_x, header_y, width=USABLE_WIDTH, height=HEADER_HEIGHT, preserveAspectRatio=True)
 else:
-    c.setStrokeColorRGB(0.6,0.6,0.6)
+    c.setStrokeColorRGB(0.6, 0.6, 0.6)
     c.rect(header_x, header_y, USABLE_WIDTH, HEADER_HEIGHT, stroke=1, fill=0)
-    c.setFillColorRGB(0,0,0)
     c.setFont("Helvetica", 9)
-    c.drawCentredString(header_x + USABLE_WIDTH/2, header_y + HEADER_HEIGHT/2, "HEADER IMAGE MISSING - put header.png here")
+    c.drawCentredString(header_x + USABLE_WIDTH/2, header_y + HEADER_HEIGHT/2, "HEADER IMAGE MISSING")
 
-# section heading
+# heading (single-line across)
 heading_y = header_y - GAP_AFTER_HEADER - (0.05 * cm)
 c.setFont("Times-Bold", 11)
 c.setFillColorRGB(0,0,0)
 c.drawString(MARGIN, heading_y, section_heading)
 
-# two columns: positions
+# two-column QA block (flow first column then second)
 start_y = heading_y - (0.5 * cm)
-current_y_col = [start_y, start_y]
+current_y = [start_y, start_y]
 col_x_start = [MARGIN, MARGIN + COL_WIDTH + COL_SPACING]
-bottom_limit = FOOTER_SECTION_HEIGHT + (0.18 * cm)  # safety above footer; keep a small gap above the footer's top
+bottom_limit = FOOTER_SECTION_HEIGHT + (0.35 * cm)    # don't intrude into footer area
 
-# layout QA into columns (flow first col then second)
 col = 0
-qa_index = 0
-while qa_index < len(qa_lines):
-    qa = qa_lines[qa_index]
-    # parse
+i = 0
+while i < len(qa_lines):
+    qa = qa_lines[i]
     if '.' in qa:
         num_part, rest = qa.split('.', 1)
         num_text = num_part.strip() + '.'
@@ -193,56 +184,62 @@ while qa_index < len(qa_lines):
     else:
         num_text = ""
         rest = qa
-    # wrap rest for column text area
-    avail_text_width = COL_WIDTH - TEXT_START_INSIDE_COL
+
+    # wrap text for column
+    avail_width = COL_WIDTH - TEXT_START_INSIDE_COL
     words = rest.split()
     lines = []
     cur = ""
     for w in words:
-        candidate = (cur + " " + w).strip() if cur else w
-        if string_width(candidate, NIRMALA_FACE, QA_FONT_SIZE) <= avail_text_width:
-            cur = candidate
+        cand = (cur + " " + w).strip() if cur else w
+        if string_width(cand, NIRMALA_FACE, QA_FONT_SIZE) <= avail_width:
+            cur = cand
         else:
             if cur == "":
-                lines.append(candidate); cur = ""
+                lines.append(cand)
+                cur = ""
             else:
-                lines.append(cur); cur = w
-    if cur: lines.append(cur)
+                lines.append(cur)
+                cur = w
+    if cur:
+        lines.append(cur)
+
     needed_h = len(lines) * QA_LEADING
-    # fit check
-    if current_y_col[col] - needed_h < bottom_limit:
+    if current_y[col] - needed_h < bottom_limit:
         if col == 0:
             col = 1
             continue
         else:
             break
-    # draw in column
-    number_x = col_x_start[col] + NUMBER_OFFSET_INSIDE_COL
+
+    # draw number & lines
+    num_x = col_x_start[col] + NUMBER_OFFSET_INSIDE_COL
     text_x = col_x_start[col] + TEXT_START_INSIDE_COL
-    y = current_y_col[col]
+    y = current_y[col]
     try:
         c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
     except:
         c.setFont("Helvetica", QA_FONT_SIZE)
     if num_text:
-        c.drawString(number_x, y, num_text)
+        c.drawString(num_x, y, num_text)
     for ln in lines:
-        try:
-            c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
-        except:
-            c.setFont("Helvetica", QA_FONT_SIZE)
         c.drawString(text_x, y, ln)
         y -= QA_LEADING
-    current_y_col[col] = y - LINE_GAP_BETWEEN_ITEMS
-    qa_index += 1
 
-# Footer: footER SECTION is FOOTER_SECTION_HEIGHT tall; place footer text near the TOP of that section
-footer_text_y = FOOTER_SECTION_HEIGHT - FOOTER_TEXT_TOP_PADDING  # y measured from bottom
+    current_y[col] = y - LINE_GAP_BETWEEN_ITEMS
+    i += 1
+
+# ---------- footer: footer area is FOOTER_SECTION_HEIGHT tall ----------
+# place footer text near the TOP of footer area: y = top_of_footer - small_gap
+footer_top_y = FOOTER_SECTION_HEIGHT                   # top of footer measured from bottom
+footer_text_y = footer_top_y - (0.12 * cm)             # small gap below top edge so text sits in topmost part
+
 try:
     c.setFont(BADONI_FACE, FOOTER_FONT_SIZE)
 except:
     c.setFont("Times-Roman", FOOTER_FONT_SIZE)
 c.setFillColorRGB(0,0,0)
+# left, centered, right within margins
 c.drawString(MARGIN, footer_text_y, footer_left)
 c.drawCentredString(PAGE_WIDTH/2.0, footer_text_y, footer_center)
 c.drawRightString(PAGE_WIDTH - MARGIN, footer_text_y, footer_right)
@@ -251,6 +248,6 @@ c.showPage()
 c.save()
 print("Saved:", OUTFILE)
 if not nirmala_ok:
-    print("NOTE: Nirmala UI not found; used fallback 'Helvetica' — place 'Nirmala.ttf' for exact match.")
+    print("Nirmala UI not found; used fallback font (Helvetica).")
 if not badoni_ok:
-    print("NOTE: Badoni MT not found; used fallback 'Times-Roman' — place 'BadoniMT.ttf' for exact match.")
+    print("Badoni MT not found; used fallback font (Times-Roman).")
