@@ -44,10 +44,11 @@ assert abs((COL_WIDTH * 2 + COL_SPACING) - USABLE_WIDTH) < 1e-4, "Columns don't 
 HEADER_HEIGHT = USABLE_WIDTH * (400.0 / 1600.0)
 HEADER_TO_HEADING = 1.0 * cm
 HEADING_TO_HR = 0.4 * cm
-HR_TO_QA = 0.8 * cm
+HR_TO_QA = 0.4 * cm
 
 QA_FONT_SIZE = 8
-QA_LEADING = 10.0 # 8pt font with 1.25 line spacing
+# --- MODIFIED: Line spacing slightly reduced as requested ---
+QA_LEADING = 9.6 # 8pt font with 1.125 line spacing
 NUMBER_OFFSET_INSIDE_COL = 0.1 * cm
 TEXT_START_INSIDE_COL = 0.7 * cm
 LINE_GAP_BETWEEN_ITEMS = 0.1 * cm
@@ -77,6 +78,7 @@ if not nirmala_ok: NIRMALA_FACE = "Helvetica"
 if not badoni_ok: BADONI_FACE = "Times-Roman"
 
 # ---------- Paragraph styles for robust wrapping ----------
+# This now uses the new QA_LEADING value of 9.0
 question_style = ParagraphStyle(name='Question', fontName=NIRMALA_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_LEFT)
 answer_style = ParagraphStyle(name='Answer', fontName=NIRMALA_BI_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_RIGHT)
 
@@ -156,7 +158,6 @@ class LayoutItem:
                 self.layout_type = 'Q_THEN_WRAPPED_A'
                 self.p_a = Paragraph(self.a_text, answer_style)
                 _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
-                # --- MODIFIED: Added gap to height calculation for stacked Q&A ---
                 self.height = QA_LEADING + LINE_GAP_BETWEEN_ITEMS + self.h_a
         else:
             p_temp = Paragraph(self.q_text, question_style)
@@ -181,7 +182,6 @@ class LayoutItem:
                 if self.a_text:
                     self.p_a = Paragraph(self.a_text, answer_style)
                     _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
-                    # --- MODIFIED: Added gap to height calculation for stacked Q&A ---
                     self.height += LINE_GAP_BETWEEN_ITEMS + self.h_a
 
     def draw(self, x_num, x_text, y_top):
@@ -200,8 +200,6 @@ class LayoutItem:
             self.c.drawString(x_num, q_baseline, self.num_part)
             self.c.drawString(x_text, q_baseline, self.q_text)
             if self.p_a:
-                # The y-coordinate is the *bottom* of the paragraph.
-                # Since height now includes the gap, this automatically draws it in the right place.
                 self.p_a.drawOn(self.c, x_text, y_top - self.height)
 
         elif self.layout_type == 'WRAPPED_Q_WITH_A_ON_LAST_LINE':
@@ -222,7 +220,6 @@ class LayoutItem:
             self.p_q.drawOn(self.c, x_text, y_bottom_q)
             
             if self.p_a:
-                # --- MODIFIED: Account for the gap when calculating the answer's position ---
                 y_bottom_a = y_bottom_q - LINE_GAP_BETWEEN_ITEMS - self.h_a
                 self.p_a.drawOn(self.c, x_text, y_bottom_a)
 
@@ -256,7 +253,7 @@ c.setStrokeColorRGB(*HR_COLOR); c.setLineWidth(HR_THICKNESS_PT); c.line(MARGIN, 
 start_y = hr_y - HR_TO_QA
 current_y = [start_y, start_y]
 col_x_starts = [MARGIN, MARGIN + COL_WIDTH + COL_SPACING]
-bottom_limit = FOOTER_SECTION_HEIGHT + (0.35 * cm)
+bottom_limit = FOOTER_SECTION_HEIGHT + (0.60 * cm)
 col = 0
 i = 0
 
