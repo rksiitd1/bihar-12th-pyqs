@@ -83,6 +83,9 @@ class LayoutItem:
         self.layout_type = None
         self.p_q = None
         self.p_a = None
+        # Store precomputed manual wrapping lines for HYBRID mode to keep
+        # calculation and drawing in sync
+        self._manual_q_lines = None
         self._calculate_layout()
 
     def _get_last_line_width(self, p):
@@ -117,17 +120,32 @@ class LayoutItem:
                 return
 
         # Path 3 & 4: Question itself must be wrapped
-        # Create a temporary paragraph just for measurement
-        p_temp = Paragraph(self.q_text, question_style)
-        _, h_temp = p_temp.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
-        last_line_q_width = self._get_last_line_width(p_temp)
+        # IMPORTANT: Use the SAME manual wrapping as the draw method so the
+        # last line width used for HYBRID decision matches exactly.
+        words = self.q_text.split()
+        manual_lines = []
+        current_line = ""
+        for word in words:
+            sep = " " if current_line else ""
+            test_line = current_line + sep + word
+            if self.c.stringWidth(test_line, NIRMALA_FACE, QA_FONT_SIZE) <= self.avail_width:
+                current_line = test_line
+            else:
+                if current_line:
+                    manual_lines.append(current_line)
+                current_line = word
+        if current_line:
+            manual_lines.append(current_line)
 
-        # Path 3 (NEW): Answer fits on the last line of the wrapped question - Use Hybrid Manual Layout
-        if self.a_text and (last_line_q_width + MIN_GAP_BETWEEN_QA + a_width) <= self.avail_width:
+        # Height of the wrapped question when drawn line-by-line
+        h_manual_q = len(manual_lines) * QA_LEADING if manual_lines else 0
+        last_line_q_width = self.c.stringWidth(manual_lines[-1], NIRMALA_FACE, QA_FONT_SIZE) if manual_lines else 0
+
+        # Path 3 (HYBRID): Answer fits on the last line of the MANUALLY wrapped question
+        if self.a_text and manual_lines and (last_line_q_width + MIN_GAP_BETWEEN_QA + a_width) <= self.avail_width:
             self.layout_type = 'HYBRID_A_ON_LAST_LINE'
-            # The height is simply the height of the temporary wrapped paragraph we already measured
-            self.height = h_temp
-            # No need to create a paragraph here; the drawing function will handle it
+            self.height = h_manual_q
+            self._manual_q_lines = manual_lines
         else:
             # Path 4: Fully stacked layout where both Q and A can wrap independently
             self.layout_type = 'WRAPPED_Q_THEN_WRAPPED_A'
@@ -142,29 +160,11 @@ class LayoutItem:
     def _draw_hybrid_layout(self, x_text, y_top):
         """Manually wraps and draws text to allow full width on all but the last line."""
         
-        # 1. Manually calculate line breaks for the question
-        words = self.q_text.split()
-        lines = []
-        current_line = ""
-        
-        if not words: # Handle empty question text
+        # We rely on precomputed lines from _calculate_layout to guarantee
+        # consistency between the layout decision and drawing.
+        lines = self._manual_q_lines or []
+        if not lines:
             return
-
-        for word in words:
-            # Add a space if the line is not empty
-            separator = " " if current_line else ""
-            test_line = current_line + separator + word
-            
-            # Check if the new word fits on the current line
-            if self.c.stringWidth(test_line, NIRMALA_FACE, QA_FONT_SIZE) <= self.avail_width:
-                current_line = test_line
-            else:
-                # The line is full. Add it to our list and start a new line.
-                lines.append(current_line)
-                current_line = word
-        
-        # Add the last remaining line
-        lines.append(current_line)
 
         # 2. Draw the lines one by one
         num_lines = len(lines)
