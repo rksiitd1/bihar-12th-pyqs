@@ -67,6 +67,9 @@ PAGE_BG_RGB = (214/255.0, 230/255.0, 248/255.0)
 # ==============================================================================
 # --- SOPHISTICATED LAYOUT ENGINE (Re-implemented as per your logic) ---
 # ==============================================================================
+# ==============================================================================
+# --- SOPHISTICATED LAYOUT ENGINE (Corrected with HYBRID and CONTEXTUAL ALIGNMENT) ---
+# ==============================================================================
 class LayoutItem:
     def __init__(self, c, num_part, q_text, a_text, avail_width):
         self.c = c
@@ -92,13 +95,15 @@ class LayoutItem:
 
     def _calculate_layout(self):
         question_style = ParagraphStyle(name='Question', fontName=NIRMALA_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING)
-        answer_style = ParagraphStyle(name='Answer', fontName=NIRMALA_BI_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_RIGHT)
+        # --- THIS IS THE CORRECTED LINE ---
+        # Wrapped paragraphs for answers should be left-aligned for readability.
+        answer_style = ParagraphStyle(name='Answer', fontName=NIRMALA_BI_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_LEFT)
 
         q_width = self.c.stringWidth(self.q_text, NIRMALA_FACE, QA_FONT_SIZE)
         a_width = self.c.stringWidth(self.a_text, NIRMALA_BI_FACE, QA_FONT_SIZE) if self.a_text else 0
         
         # Heuristic: If question is short, check for single-line possibilities
-        if q_width < self.avail_width * 1.0: # Give a little more room than 80%
+        if q_width < self.avail_width * 1.0:
             # Path 1: Perfect single-line fit
             if q_width + a_width + MIN_GAP_BETWEEN_QA <= self.avail_width:
                 self.layout_type = 'SINGLE_LINE'
@@ -108,7 +113,7 @@ class LayoutItem:
                 # Path 2: Question is single line, but answer wraps below
                 self.layout_type = 'Q_THEN_WRAPPED_A'
                 self.h_q = QA_LEADING
-                self.p_a = Paragraph(self.a_text, answer_style)
+                self.p_a = Paragraph(self.a_text, answer_style) # This will now use the left-aligned style
                 _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
                 self.height = self.h_q + LINE_GAP_BETWEEN_ITEMS + self.h_a
                 return
@@ -119,15 +124,10 @@ class LayoutItem:
         _, h_temp = p_temp.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
         last_line_q_width = self._get_last_line_width(p_temp)
 
-        # Path 3: Answer fits on the last line of the wrapped question
+        # Path 3 (NEW): Answer fits on the last line of the wrapped question - Use Hybrid Manual Layout
         if self.a_text and (last_line_q_width + MIN_GAP_BETWEEN_QA + a_width) <= self.avail_width:
-            self.layout_type = 'WRAPPED_Q_WITH_A_ON_LAST_LINE'
-            # Create a new style with a right indent to make space for the answer
-            indented_style = copy.copy(question_style)
-            indented_style.rightIndent = a_width + MIN_GAP_BETWEEN_QA
-            self.p_q = Paragraph(self.q_text, indented_style)
-            _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
-            self.height = self.h_q
+            self.layout_type = 'HYBRID_A_ON_LAST_LINE'
+            self.height = h_temp
         else:
             # Path 4: Fully stacked layout where both Q and A can wrap independently
             self.layout_type = 'WRAPPED_Q_THEN_WRAPPED_A'
@@ -135,9 +135,41 @@ class LayoutItem:
             _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
             self.height = self.h_q
             if self.a_text:
-                self.p_a = Paragraph(self.a_text, answer_style)
+                self.p_a = Paragraph(self.a_text, answer_style) # This will now use the left-aligned style
                 _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
                 self.height += LINE_GAP_BETWEEN_ITEMS + self.h_a
+
+    def _draw_hybrid_layout(self, x_text, y_top):
+        """Manually wraps and draws text to allow full width on all but the last line."""
+        words = self.q_text.split()
+        lines = []
+        current_line = ""
+        
+        if not words: return
+
+        for word in words:
+            separator = " " if current_line else ""
+            test_line = current_line + separator + word
+            
+            if self.c.stringWidth(test_line, NIRMALA_FACE, QA_FONT_SIZE) <= self.avail_width:
+                current_line = test_line
+            else:
+                lines.append(current_line)
+                current_line = word
+        
+        lines.append(current_line)
+
+        num_lines = len(lines)
+        for i, line_text in enumerate(lines):
+            is_last_line = (i == num_lines - 1)
+            y_baseline = y_top - (i * QA_LEADING) - QA_LEADING
+
+            self.c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
+            self.c.drawString(x_text, y_baseline, line_text)
+
+            if is_last_line and self.a_text:
+                self.c.setFont(NIRMALA_BI_FACE, QA_FONT_SIZE)
+                self.c.drawRightString(x_text + self.avail_width, y_baseline, self.a_text)
 
     def draw(self, x_num, x_text, y_top):
         # Draw the number, consistent for all layouts
@@ -157,13 +189,8 @@ class LayoutItem:
                 y_a_bottom = y_top - self.h_q - LINE_GAP_BETWEEN_ITEMS - self.h_a
                 self.p_a.drawOn(self.c, x_text, y_a_bottom)
 
-        elif self.layout_type == 'WRAPPED_Q_WITH_A_ON_LAST_LINE':
-            y_q_bottom = y_top - self.height
-            self.p_q.drawOn(self.c, x_text, y_q_bottom)
-            if self.a_text:
-                self.c.setFont(NIRMALA_BI_FACE, QA_FONT_SIZE)
-                # Align the answer with the very last line
-                self.c.drawRightString(x_text + self.avail_width, y_q_bottom, self.a_text)
+        elif self.layout_type == 'HYBRID_A_ON_LAST_LINE':
+            self._draw_hybrid_layout(x_text, y_top)
             
         elif self.layout_type == 'WRAPPED_Q_THEN_WRAPPED_A':
             y_q_bottom = y_top - self.h_q
@@ -171,7 +198,6 @@ class LayoutItem:
             if self.p_a:
                 y_a_bottom = y_q_bottom - LINE_GAP_BETWEEN_ITEMS - self.h_a
                 self.p_a.drawOn(self.c, x_text, y_a_bottom)
-
 
 # ==============================================================================
 # --- PDF GENERATOR CLASS (No changes here) ---
@@ -267,7 +293,22 @@ def main():
     if not os.path.isdir(HEADER_FOLDER) or not os.path.isdir(QNA_FOLDER):
         print(f"Error: Required folders '{HEADER_FOLDER}' and/or '{QNA_FOLDER}' not found."); return
     try:
-        header_files = sorted([f for f in os.listdir(HEADER_FOLDER) if f.lower().endswith(('.png', '.jpg', '.jpeg'))])
+        # Use a natural sort key so files like header1.png, header2.png, header10.png
+        # are ordered numerically (1,2,10) instead of lexicographically (1,10,2).
+        def _numeric_key(fn: str):
+            name = os.path.splitext(fn)[0]
+            # Try to extract trailing integer from the base name, e.g. 'header12' -> 12
+            # If not present, fall back to 0 and then the full name to stabilize order.
+            import re
+            m = re.search(r"(\d+)$", name)
+            if m:
+                return (int(m.group(1)), name)
+            return (0, name)
+
+        header_files = sorted(
+            [f for f in os.listdir(HEADER_FOLDER) if f.lower().endswith(('.png', '.jpg', '.jpeg'))],
+            key=_numeric_key
+        )
         num_pages = len(header_files)
     except OSError as e:
         print(f"Error reading header directory '{HEADER_FOLDER}': {e}"); return
