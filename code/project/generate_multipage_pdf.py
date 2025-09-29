@@ -68,7 +68,7 @@ PAGE_BG_RGB = (214/255.0, 230/255.0, 248/255.0)
 # --- SOPHISTICATED LAYOUT ENGINE (Re-implemented as per your logic) ---
 # ==============================================================================
 # ==============================================================================
-# --- SOPHISTICATED LAYOUT ENGINE (Corrected with HYBRID and CONTEXTUAL ALIGNMENT) ---
+# --- SOPHISTICATED LAYOUT ENGINE (Re-implemented with HYBRID layout) ---
 # ==============================================================================
 class LayoutItem:
     def __init__(self, c, num_part, q_text, a_text, avail_width):
@@ -95,9 +95,7 @@ class LayoutItem:
 
     def _calculate_layout(self):
         question_style = ParagraphStyle(name='Question', fontName=NIRMALA_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING)
-        # --- THIS IS THE CORRECTED LINE ---
-        # Wrapped paragraphs for answers should be left-aligned for readability.
-        answer_style = ParagraphStyle(name='Answer', fontName=NIRMALA_BI_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_LEFT)
+        answer_style = ParagraphStyle(name='Answer', fontName=NIRMALA_BI_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_RIGHT)
 
         q_width = self.c.stringWidth(self.q_text, NIRMALA_FACE, QA_FONT_SIZE)
         a_width = self.c.stringWidth(self.a_text, NIRMALA_BI_FACE, QA_FONT_SIZE) if self.a_text else 0
@@ -113,7 +111,7 @@ class LayoutItem:
                 # Path 2: Question is single line, but answer wraps below
                 self.layout_type = 'Q_THEN_WRAPPED_A'
                 self.h_q = QA_LEADING
-                self.p_a = Paragraph(self.a_text, answer_style) # This will now use the left-aligned style
+                self.p_a = Paragraph(self.a_text, answer_style)
                 _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
                 self.height = self.h_q + LINE_GAP_BETWEEN_ITEMS + self.h_a
                 return
@@ -127,7 +125,9 @@ class LayoutItem:
         # Path 3 (NEW): Answer fits on the last line of the wrapped question - Use Hybrid Manual Layout
         if self.a_text and (last_line_q_width + MIN_GAP_BETWEEN_QA + a_width) <= self.avail_width:
             self.layout_type = 'HYBRID_A_ON_LAST_LINE'
+            # The height is simply the height of the temporary wrapped paragraph we already measured
             self.height = h_temp
+            # No need to create a paragraph here; the drawing function will handle it
         else:
             # Path 4: Fully stacked layout where both Q and A can wrap independently
             self.layout_type = 'WRAPPED_Q_THEN_WRAPPED_A'
@@ -135,38 +135,48 @@ class LayoutItem:
             _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
             self.height = self.h_q
             if self.a_text:
-                self.p_a = Paragraph(self.a_text, answer_style) # This will now use the left-aligned style
+                self.p_a = Paragraph(self.a_text, answer_style)
                 _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
                 self.height += LINE_GAP_BETWEEN_ITEMS + self.h_a
 
     def _draw_hybrid_layout(self, x_text, y_top):
         """Manually wraps and draws text to allow full width on all but the last line."""
+        
+        # 1. Manually calculate line breaks for the question
         words = self.q_text.split()
         lines = []
         current_line = ""
         
-        if not words: return
+        if not words: # Handle empty question text
+            return
 
         for word in words:
+            # Add a space if the line is not empty
             separator = " " if current_line else ""
             test_line = current_line + separator + word
             
+            # Check if the new word fits on the current line
             if self.c.stringWidth(test_line, NIRMALA_FACE, QA_FONT_SIZE) <= self.avail_width:
                 current_line = test_line
             else:
+                # The line is full. Add it to our list and start a new line.
                 lines.append(current_line)
                 current_line = word
         
+        # Add the last remaining line
         lines.append(current_line)
 
+        # 2. Draw the lines one by one
         num_lines = len(lines)
         for i, line_text in enumerate(lines):
             is_last_line = (i == num_lines - 1)
             y_baseline = y_top - (i * QA_LEADING) - QA_LEADING
 
+            # Draw the question part for the current line
             self.c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
             self.c.drawString(x_text, y_baseline, line_text)
 
+            # If it's the last line, also draw the answer
             if is_last_line and self.a_text:
                 self.c.setFont(NIRMALA_BI_FACE, QA_FONT_SIZE)
                 self.c.drawRightString(x_text + self.avail_width, y_baseline, self.a_text)
@@ -190,14 +200,21 @@ class LayoutItem:
                 self.p_a.drawOn(self.c, x_text, y_a_bottom)
 
         elif self.layout_type == 'HYBRID_A_ON_LAST_LINE':
+            # Use our new custom drawing function for this specific case
             self._draw_hybrid_layout(x_text, y_top)
             
         elif self.layout_type == 'WRAPPED_Q_THEN_WRAPPED_A':
-            y_q_bottom = y_top - self.h_q
-            self.p_q.drawOn(self.c, x_text, y_q_bottom)
+            # Draw the question paragraph.
+            y_question_bottom = y_top - self.h_q
+            self.p_q.drawOn(self.c, x_text, y_question_bottom)
+            
             if self.p_a:
-                y_a_bottom = y_q_bottom - LINE_GAP_BETWEEN_ITEMS - self.h_a
-                self.p_a.drawOn(self.c, x_text, y_a_bottom)
+                # THIS IS THE FIX
+                # Calculate the answer's position directly from the original y_top.
+                # This prevents any cascading errors from the question's position calculation.
+                y_answer_bottom = y_top - self.h_q - LINE_GAP_BETWEEN_ITEMS - self.h_a
+                self.p_a.drawOn(self.c, x_text, y_answer_bottom)
+
 
 # ==============================================================================
 # --- PDF GENERATOR CLASS (No changes here) ---
