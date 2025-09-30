@@ -1,78 +1,62 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated flowers are typically small and inconspicuous, lacking nectar and fragrance. They produce enormous quantities of lightweight, non-sticky pollen to increase dispersal by wind. Their stigmas are often large and feathery to effectively trap this airborne pollen."
+        "q": "What are restriction endonucleases?",
+        "a": "Restriction endonucleases are enzymes, often called \\textbf{'molecular scissors,'} that recognize and cut DNA molecules at specific, short nucleotide sequences known as restriction sites. Their ability to make precise cuts is fundamental to genetic engineering, allowing for the isolation of specific genes and the creation of recombinant DNA."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone is a group of genetically identical organisms produced from a single parent via asexual reproduction. An \\textbf{advantage} is the rapid preservation of desirable parental traits. A major \\textbf{disadvantage} is the lack of genetic variation, making the entire population susceptible to the same diseases or environmental stresses."
+        "q": "What is Gel electrophoresis? Mention any two applications of it.",
+        "a": "Gel electrophoresis is a laboratory technique used to separate macromolecules like DNA, RNA, and proteins based on their size and charge. An electric field is applied to a gel matrix, causing the negatively charged DNA fragments to move towards the positive electrode, with smaller fragments moving faster and farther. Two key applications are in \\textbf{DNA fingerprinting} and the \\textbf{isolation of a desired DNA fragment} for recombinant DNA technology."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature angiosperm embryo sac contains an \\textbf{egg apparatus} (one egg cell and two synergids) at the micropylar end, three \\textbf{antipodal cells} at the chalazal end, and one large \\textbf{central cell} in the middle containing two polar nuclei."
+        "q": "Describe the steps involved in the process of Recombinant DNA technology.",
+        "a": "The process of recombinant DNA technology involves several key steps: 1) \\textbf{Isolation} of the desired gene and a suitable vector (like a plasmid). 2) \\textbf{Cutting} both the gene and the vector with the same restriction enzyme. 3) \\textbf{Ligation} of the gene into the vector using DNA ligase to form recombinant DNA. 4) \\textbf{Transformation} of this recombinant DNA into a host organism. 5) \\textbf{Selection} and multiplication of the transformed host cells to produce the desired product."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the removal of anthers from a bisexual flower before they mature to prevent self-pollination. This technique is a crucial step in artificial hybridization programs, as it ensures that the flower can be cross-pollinated with pollen from a specifically chosen male parent to create improved plant varieties."
+        "q": "What is a plasmid? Briefly write about the structure and utility of a plasmid.",
+        "a": "A plasmid is a small, circular, extrachromosomal DNA molecule found naturally in bacteria. Structurally, it contains an origin of replication (ori), one or more restriction sites, and selectable marker genes (like antibiotic resistance genes). Its key utility in biotechnology is as a \\textbf{cloning vector}, where it is used to carry a foreign gene of interest into a host bacterium for cloning or expression."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit (or pseudocarp) is a fruit where the main fleshy part develops from tissues other than the ovary, such as the thalamus. This is unlike a true fruit, which develops solely from the ovary. A classic example is the apple, where the edible portion is the swollen, fleshy thalamus."
+        "q": "Define gene engineering.",
+        "a": "Gene engineering, also known as genetic engineering or recombinant DNA technology, is the direct manipulation of an organism's genes using biotechnology. It involves altering the genetic makeup of an organism by introducing, deleting, or modifying specific genes to produce desired characteristics, such as producing a therapeutic protein or creating a pest-resistant crop."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "Monocarpic plants are those that flower, produce fruit, and set seed only once in their entire lifetime before dying. Their fruits are a result of this single reproductive event. Well-known examples of monocarpic plants include bamboo and agave."
+        "q": "What do you mean by selectable marker ?",
+        "a": "A selectable marker is a gene introduced into a cell, usually on a plasmid, that confers a trait suitable for artificial selection. Its purpose is to help identify and select host cells that have successfully taken up the foreign DNA (transformed cells) from those that have not. Common selectable markers are genes that provide \\textbf{resistance to antibiotics} like ampicillin or tetracycline."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit is one in which the fleshy part is derived from tissues adjacent to the ovary, such as the thalamus or receptacle. In a true fruit, the flesh develops only from the ovary wall. A common example is the strawberry, where the red fleshy part is the swollen receptacle."
+        "q": "How are DNA fragments separated and isolated?",
+        "a": "DNA fragments are separated and isolated primarily using \\textbf{gel electrophoresis}. In this technique, the DNA fragments are forced to move through an agarose gel matrix by an electric field. Since DNA is negatively charged, it moves towards the positive electrode. The fragments separate according to size, with smaller fragments moving farther than larger ones. The separated bands can then be visualized and cut out from the gel, a process called \\textbf{elution}."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction is a method of reproduction involving a single parent that produces offspring, called clones, which are genetically identical to it. This process does not involve the fusion of gametes and is a rapid form of multiplication. Common methods include fission in bacteria, budding in yeast, and vegetative propagation in plants."
+        "q": "What is PCR? What is its main purpose?",
+        "a": "PCR stands for \\textbf{Polymerase Chain Reaction}. It is a revolutionary \\textit{in vitro} technique used to amplify a specific segment of DNA, creating millions to billions of copies from a very small starting amount. Its main purpose is the rapid \\textbf{amplification of DNA} for use in various applications, including molecular diagnosis of diseases, DNA fingerprinting, and genetic research."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction is a process where an organism creates genetically identical offspring from a single parent. For instance, the freshwater organism \\textit{Hydra} reproduces asexually through budding. A bud develops as an outgrowth on the parent's body, matures into a miniature hydra, and then detaches to live independently."
+        "q": "How is the nomenclature of restriction endonucleases done?",
+        "a": "The naming of restriction endonucleases follows a specific convention. The first letter comes from the \\textbf{genus} and the next two letters from the \\textbf{species} of the prokaryotic cell from which they were isolated. For example, in \\textit{EcoRI}, the 'E' comes from \\textit{Escherichia}, 'co' from \\textit{coli}, 'R' denotes the particular strain (RY13), and the Roman numeral 'I' indicates it was the first enzyme isolated from that strain."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) \\textbf{Protozoan endoparasite:} A single-celled eukaryotic parasite that lives inside its host's body, like \\textit{Plasmodium} which causes malaria. (ii) \\textbf{Ovule:} The structure within a plant's ovary containing the female gamete; after fertilization, it develops into a seed."
+        "q": "What is microinjection? How is it helpful in recombinant DNA technology?",
+        "a": "Microinjection is a method used to directly introduce foreign DNA into a host cell. It involves using a very fine micropipette to physically inject the recombinant DNA solution directly into the nucleus of a target cell, typically an animal cell or ovum. It is helpful as a direct method of transformation, ensuring the delivery of the gene of interest for creating \\textbf{transgenic animals}."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) \\textbf{False Fruit:} Develops from parts other than the ovary; Example: Apple. (ii) \\textbf{True Fruit:} Develops only from the ovary; Example: Mango. (iii) \\textbf{Parthenocarpic Fruit:} Develops without fertilization and is seedless; Example: Banana. (iv) \\textbf{Polyembryony:} Presence of more than one embryo in a seed; Example: Citrus."
+        "q": "Define tissue culture.",
+        "a": "Tissue culture is the \\textit{in vitro} technique of growing plant cells, tissues, or organs in a sterile, artificial nutrient medium under controlled laboratory conditions. Based on the principle of totipotency, this method allows for the regeneration of a whole plant from a small piece of plant tissue, called an explant. It is widely used for micropropagation and producing disease-free plants."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac is vital for sexual reproduction in angiosperms. It contains the egg cell, which upon fertilization forms the zygote, and the polar nuclei, which form the endosperm. The endosperm then serves as the nutritive tissue for the developing embryo."
+        "q": "What is downstream processing?",
+        "a": "Downstream processing refers to all the stages involved after the biosynthetic or fermentation stage in biotechnology. This includes the \\textbf{separation, purification, and preservation} of the product (like a protein or antibiotic) obtained from bioreactors. It is a critical step to ensure the final product is pure, effective, and ready for marketing."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A diagram shows an oval structure with an \\textbf{egg apparatus} (one egg, two synergids) at the micropylar end, three \\textbf{antipodal cells} at the chalazal end, and a large \\textbf{central cell} with two \\textbf{polar nuclei}."
+        "q": "What do you understand by the Southern Blotting technique?",
+        "a": "Southern blotting is a molecular biology technique used to detect a specific DNA sequence in a DNA sample. The method involves separating DNA fragments by gel electrophoresis, transferring them from the gel to a membrane, and then using a labeled \\textbf{DNA probe} that is complementary to the target sequence to identify its location on the membrane."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination is the transfer of pollen from the anther of a flower on one plant to the stigma of a flower on a different plant of the same species. This process is essential for genetic variation. For example, papaya plants, being dioecious, depend entirely on cross-pollination by agents like wind or insects."
+        "q": "What is a $DNA$ probe? State its uses in biotechnology.",
+        "a": "A DNA probe is a short, single-stranded segment of DNA (or RNA) that is tagged with a radioactive or fluorescent marker. Its sequence is complementary to a target DNA sequence of interest. In biotechnology, probes are used to \\textbf{detect and identify specific genes} or DNA sequences in a sample, which is crucial for diagnosing genetic disorders and identifying pathogens."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is a form of asexual reproduction where an embryo develops from an unfertilized egg. For example, in honeybees, the male drones are produced from the queen's unfertilized haploid eggs, while female workers and queens develop from fertilized diploid eggs."
-    },
-    {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A microsporangium (pollen sac) is typically surrounded by four wall layers: the epidermis, endothecium, middle layers, and the innermost nutritive tapetum. At its center lies the sporogenous tissue, which contains microspore mother cells that produce pollen grains."
-    },
-    {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization, unique to angiosperms, involves two fusions. One male gamete fuses with the egg to form the diploid ($2n$) zygote. The second male gamete fuses with the two polar nuclei in the central cell to form the triploid ($3n$) primary endosperm nucleus, which nourishes the embryo."
-    },
-    {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization is a complex reproductive process involving two fusions: one male gamete with the egg to form the zygote ($2n$), and the second with the two polar nuclei to form the endosperm ($3n$). This unique event occurs exclusively in \\textbf{angiosperms} (flowering plants)."
-    },
-    {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the condition of having more than one embryo in a single seed. It can occur when cells of the nucellus or integuments develop into additional embryos alongside the normal one. A common example is found in \\textbf{citrus} fruits like oranges and lemons."
+        "q": "Show the structure of plasmid $pBR322$.",
+        "a": "A diagram of the plasmid pBR322 would show a circular DNA molecule with key features labeled. These include the \\textbf{origin of replication (ori)}, two \\textbf{selectable marker genes} (ampicillin resistance gene, $amp^R$, and tetracycline resistance gene, $tet^R$), and several unique \\textbf{restriction sites} (like BamHI, SalI, EcoRI) which are used for inserting foreign DNA."
     }
 ]

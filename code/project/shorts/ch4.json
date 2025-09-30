@@ -1,78 +1,62 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated flowers are typically small, colourless, and nectarless. They produce large quantities of lightweight, non-sticky pollen and have large, feathery stigmas to effectively trap airborne pollen."
+        "q": "Write the laws proposed by Mendel on the basis of monohybrid cross.",
+        "a": "Based on his monohybrid cross experiments, Mendel proposed two fundamental laws of inheritance. The first is the \\textbf{Law of Dominance}, which states that in a heterozygous pair, one allele (the dominant) masks the expression of the other (the recessive). The second is the \\textbf{Law of Segregation}, which states that the two alleles for a character separate or segregate from each other during gamete formation, so that each gamete receives only one allele."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone refers to organisms that are genetically identical, produced from a single parent by asexual reproduction. The main advantage is the preservation of desirable parental traits. The main disadvantage is the lack of genetic variation, making the population vulnerable to diseases."
+        "q": "What do you mean by Incomplete dominance? Explain with suitable example.",
+        "a": "Incomplete dominance is a pattern of inheritance where the phenotype of the heterozygous offspring is an intermediate blend of the two homozygous parental phenotypes. Neither allele is completely dominant over the other. A classic example is the flower color in snapdragon plants (\\textit{Antirrhinum}). A cross between a red-flowered plant (RR) and a white-flowered plant (rr) results in all pink-flowered offspring (Rr)."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature embryo sac contains an egg apparatus (one egg cell and two synergids), three antipodal cells, and a large central cell with two polar nuclei."
+        "q": "Describe the law of segregation with any one example.",
+        "a": "The Law of Segregation states that during gamete formation, the two alleles for a heritable character separate from each other, so that each gamete ends up with only one allele. For example, if a tall pea plant has the genotype Tt, its gametes will not be Tt. Instead, 50% of its gametes will carry the 'T' allele and 50% will carry the 't' allele, ensuring the purity of each gamete."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the removal of anthers from a bisexual flower to prevent self-pollination. It is a key step in artificial hybridization to ensure controlled cross-pollination with pollen from a desired plant."
+        "q": "Define linkage.",
+        "a": "Linkage is the tendency of genes that are located physically close to each other on the same chromosome to be inherited together during meiosis. These genes do not assort independently and are known as linked genes. The strength of linkage is inversely proportional to the distance between the genes; the closer the genes are, the higher the frequency of their joint inheritance."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit develops from floral parts other than the ovary, such as the thalamus. A common example is the apple, where the fleshy, edible portion is the swollen thalamus."
+        "q": "Write about multiple allelism with an example.",
+        "a": "Multiple allelism is a condition where a single gene exists in a population in more than two allelic forms. Although an individual can only have two alleles for a gene, many different alleles can exist within the gene pool of the population. The classic example in humans is the \\textbf{ABO blood group system}, which is controlled by three alleles: $I^A$, $I^B$, and $i$."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "Monocarpic plants flower and produce fruit only once in their lifetime before dying. The fruits they produce are called monocarpic fruits. Examples include bamboo and agave."
+        "q": "Why did Mendel select pea plants for his experiments?",
+        "a": "Mendel selected the garden pea plant (\\textit{Pisum sativum}) for several key reasons. It has a short life cycle and produces many offspring, allowing for the study of multiple generations quickly. It has several easily distinguishable contrasting traits (like height and seed color). Furthermore, its flowers are bisexual and naturally self-pollinating, but can be easily cross-pollinated, giving Mendel control over the breeding experiments."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit is one where the main fleshy part develops from tissues other than the ovary, like the receptacle. A well-known example is the strawberry, where the fleshy part is the receptacle and the true fruits are the tiny achenes on its surface."
+        "q": "Explain haemophilia.",
+        "a": "Haemophilia is an \\textbf{X-linked recessive} genetic disorder that impairs the body's ability to make blood clots, a process needed to stop bleeding. It is caused by a defect in one of the clotting factor genes located on the X chromosome. Because it is a recessive trait, it affects males more frequently than females, as males (XY) have only one X chromosome and will express the trait if they inherit the defective allele."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction involves a single parent giving rise to offspring that are genetically identical (clones). This process does not involve the fusion of gametes and is a rapid method of multiplication seen in organisms like bacteria (fission) and yeast (budding)."
+        "q": "Write a brief note on Down's syndrome.",
+        "a": "Down's syndrome is a chromosomal disorder caused by the presence of an extra copy of chromosome 21, a condition known as \\textbf{Trisomy 21}. Individuals with this syndrome have 47 chromosomes instead of the usual 46. Common characteristics include short stature, a small round head, a flattened facial profile, and congenital heart defects, along with varying degrees of cognitive delay."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction produces offspring from a single parent without gamete fusion, creating genetically identical individuals. For example, Hydra reproduces by budding, where a new individual grows as an outgrowth on the parent's body and then detaches."
+        "q": "Comment upon Klinefelter syndrome.",
+        "a": "Klinefelter syndrome is a chromosomal disorder affecting males, caused by the presence of an extra X chromosome, resulting in the karyotype \\textbf{47, XXY}. Individuals with this syndrome are male but have underdeveloped testes, reduced testosterone production, and are typically sterile. They may also exhibit some feminine characteristics, such as the development of breast tissue (gynecomastia)."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) A protozoan endoparasite is a single-celled eukaryote living inside a host, like \\textit{Plasmodium} which causes malaria. (ii) An ovule is the structure in a plant's ovary containing the female gamete, which develops into a seed after fertilization."
+        "q": "What do you mean by Mendelian disorder? Explain in brief with the help of suitable example.",
+        "a": "A Mendelian disorder is a genetic disease caused by an alteration or mutation in a single gene. These disorders follow the patterns of inheritance established by Gregor Mendel. They can be dominant or recessive and may be autosomal (linked to non-sex chromosomes) or sex-linked. A suitable example is \\textbf{Sickle-cell anemia}, which is an autosomal recessive disorder caused by a mutation in the gene for hemoglobin."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) False Fruit: Develops from parts other than the ovary; e.g., Apple. (ii) True Fruit: Develops solely from the ovary; e.g., Mango. (iii) Parthenocarpic Fruit: Develops without fertilization; e.g., Banana. (iv) Polyembryony: Presence of multiple embryos in one seed; e.g., Citrus."
+        "q": "What is inbreeding?",
+        "a": "Inbreeding is the mating of more closely related individuals within the same breed for 4-6 generations. It is a strategy used in animal breeding to increase \\textbf{homozygosity}, which helps in accumulating superior genes and eliminating undesirable ones. However, continuous inbreeding can often lead to reduced fertility and productivity, a phenomenon known as inbreeding depression."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac is vital as it contains the egg cell for forming the zygote and the polar nuclei for forming the nutritive endosperm after fertilization. This ensures both the creation and nourishment of the embryo."
+        "q": "Define chromosomal aberration.",
+        "a": "A chromosomal aberration is any change in the normal structure or number of chromosomes in a cell. These changes can arise due to errors during cell division. They include numerical abnormalities like \\textbf{aneuploidy} (gain or loss of one or more chromosomes, e.g., Down's syndrome) and structural abnormalities like deletion, duplication, inversion, or translocation of a part of a chromosome."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A diagram would show an oval embryo sac with the egg apparatus (one egg cell, two synergids) at the micropylar end, three antipodal cells at the chalazal end, and a central cell with two polar nuclei."
+        "q": "What do you understand by Pedigree analysis ? How is it useful?",
+        "a": "Pedigree analysis is the study of the inheritance of a particular genetic trait over several generations in a family, represented in the form of a family tree or chart. It is extremely useful for genetic counseling as it helps in determining the mode of inheritance (dominant, recessive, etc.) of a trait or disorder and in predicting the probability of its appearance in future offspring."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination is the transfer of pollen from the anther of one plant to the stigma of another plant. It promotes genetic diversity. For instance, dioecious plants like papaya depend on it for reproduction."
+        "q": "What happens in haemophilia?",
+        "a": "In haemophilia, a person's blood lacks sufficient blood-clotting proteins, known as clotting factors. A minor cut or injury can lead to prolonged bleeding because the normal cascade of reactions that forms a blood clot is disrupted. This is due to a mutation in a gene on the X chromosome responsible for producing these factors."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is the development of an embryo from an unfertilized egg. A common example is in honeybees, where male drones develop from unfertilized eggs and are haploid."
-    },
-    {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A microsporangium (pollen sac) is surrounded by four wall layers: the epidermis, endothecium, middle layers, and the nutritive tapetum. Its center contains sporogenous tissue that forms pollen grains."
-    },
-    {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization is a process in angiosperms where one male gamete fuses with the egg to form a diploid ($2n$) zygote, and a second male gamete fuses with the two polar nuclei to form a triploid ($3n$) primary endosperm nucleus."
-    },
-    {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization involves two fusions: one male gamete with the egg to form a zygote, and a second with the polar nuclei to form the endosperm. This unique process occurs only in angiosperms (flowering plants)."
-    },
-    {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the condition of having more than one embryo in a single seed. It is commonly observed in citrus fruits like oranges and lemons."
+        "q": "What would be the blood group of offspring, if the blood group of mother is AB and blood group of father is O?",
+        "a": "If the mother has blood group AB (genotype $I^A I^B$) and the father has blood group O (genotype $ii$), their offspring can only have blood group \\textbf{A} (genotype $I^A i$) or blood group \\textbf{B} (genotype $I^B i$). There is a 50% probability for each of these blood groups. The offspring cannot have blood group AB or O."
     }
 ]

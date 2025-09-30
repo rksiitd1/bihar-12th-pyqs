@@ -1,78 +1,82 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated flowers are typically small, inconspicuous, and lack nectar and fragrance. They produce enormous amounts of lightweight, non-sticky pollen to ensure distribution by wind. Their stigmas are often large and feathery to effectively trap the airborne pollen grains."
+        "q": "Mention two symptoms of AIDS.",
+        "a": "AIDS (Acquired Immuno Deficiency Syndrome) weakens the immune system, making the body vulnerable to infections. Two common symptoms are \\textbf{prolonged fever and chronic diarrhea}, often accompanied by significant weight loss. Patients also frequently suffer from opportunistic infections like pneumonia or tuberculosis."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone is a group of genetically identical organisms produced from a single parent via asexual reproduction. An \\textbf{advantage} is the rapid multiplication and preservation of desirable parental traits. A major \\textbf{disadvantage} is the lack of genetic variation, making the entire population vulnerable to the same diseases or environmental stresses."
+        "q": "What do you understand by the term 'pathogen'?",
+        "a": "A pathogen is any disease-causing microorganism, such as a bacterium, virus, fungus, or protozoan. These organisms are capable of invading a host and causing an infection or disease by disrupting normal physiological processes. Examples include \\textit{Salmonella typhi} which causes typhoid and \\textit{Plasmodium} which causes malaria."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature embryo sac contains seven cells: an \\textbf{egg apparatus} (one egg cell and two synergids) at the micropylar end, three \\textbf{antipodal cells} at the chalazal end, and one large \\textbf{central cell} in the middle that contains two polar nuclei."
+        "q": "Comment upon Innate immunity.",
+        "a": "Innate immunity is the non-specific, inborn defense mechanism of the body. It is the first line of defense against invading pathogens and is present from birth. It consists of four types of barriers: \\textbf{physical barriers} (like skin), \\textbf{physiological barriers} (like stomach acid), \\textbf{cellular barriers} (like phagocytes), and \\textbf{cytokine barriers} (like interferons)."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the removal of anthers from a bisexual flower before they mature. This technique is a key step in artificial hybridization programs, performed to prevent unwanted self-pollination and to allow for controlled cross-pollination with pollen from a desired parent plant."
+        "q": "Write about the role of lymphocytes in immunity.",
+        "a": "Lymphocytes are crucial for acquired immunity. There are two main types: \\textbf{B-lymphocytes} and \\textbf{T-lymphocytes}. B-lymphocytes produce \\textbf{antibodies} to fight pathogens (humoral immunity). T-lymphocytes are responsible for \\textbf{cell-mediated immunity}; helper T-cells activate other immune cells, while cytotoxic T-cells directly kill infected cells."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit (or pseudocarp) is a fruit that develops from floral parts in addition to the ovary, such as the thalamus. In these fruits, the main edible portion is not derived from the ovary. A classic example is the apple, where the fleshy part we eat is the swollen thalamus."
+        "q": "Define antigens and antibody.",
+        "a": "An \\textbf{antigen} is any foreign substance, such as a part of a virus or bacterium, that enters the body and triggers an immune response. An \\textbf{antibody} is a Y-shaped protein produced by B-lymphocytes in response to a specific antigen. Antibodies bind to antigens and help neutralize or eliminate them from the body."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "Monocarpic fruits are produced by plants that flower and fruit only once in their entire lifetime before dying. These plants, like bamboo and agave, channel all their resources into a single reproductive event. The fruits are the result of this final reproductive phase."
+        "q": "What is vaccination?",
+        "a": "Vaccination is the process of administering a preparation of weakened or inactivated pathogens, or their antigens (a vaccine), into the body. This stimulates the immune system to produce memory B and T-cells without causing the actual disease, thereby providing \\textbf{active acquired immunity} against future infections by that specific pathogen."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit is one where the fleshy, edible portion develops from tissues other than the ovary, such as the receptacle or thalamus. In contrast, a true fruit develops only from the ovary. A well-known example is the strawberry, where the fleshy red part is the receptacle."
+        "q": "How are malaria and pneumonia transmitted?",
+        "a": "\\textbf{Malaria} is a vector-borne disease transmitted through the bite of an infected female \\textit{Anopheles} mosquito, which injects the \\textit{Plasmodium} parasite into the human bloodstream. \\textbf{Pneumonia} is primarily transmitted through inhaling respiratory droplets or aerosols released by an infected person when they cough or sneeze."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction is a mode of reproduction where offspring arise from a single parent without the fusion of gametes. The resulting offspring, called clones, are genetically identical to the parent. This method allows for rapid multiplication and is common in unicellular organisms and many plants, through processes like fission, budding, and vegetative propagation."
+        "q": "Describe the causative organism, mode of transmission, symptoms and therapy of malaria disease.",
+        "a": "Malaria is caused by a protozoan parasite of the genus \\textbf{\\textit{Plasmodium}}. It is transmitted to humans through the bite of an infected female \\textit{Anopheles} mosquito. Symptoms include recurring cycles of high fever, chills, and sweating. Therapy primarily involves the use of \\textbf{antimalarial drugs} like quinine and chloroquine to kill the parasite in the bloodstream."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction is a process where a single parent produces genetically identical offspring without gamete fusion. For example, \\textit{Hydra} reproduces asexually by budding. A small bud grows on the parent's body, develops into a miniature hydra, and then detaches to live independently."
+        "q": "Write the cause, causative organism and symptoms of typhoid fever.",
+        "a": "Typhoid fever is a bacterial infection caused by \\textbf{\\textit{Salmonella typhi}}. The cause of infection is the ingestion of contaminated food and water. Its primary symptoms include sustained high fever, weakness, stomach pain, headache, and loss of appetite. In severe cases, intestinal perforation may occur. The disease is confirmed by the \\textbf{Widal test}."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) \\textbf{Protozoan endoparasite:} A single-celled eukaryotic parasite living inside its host's body, such as \\textit{Plasmodium} causing malaria. (ii) \\textbf{Ovule:} The structure within a plant's ovary containing the female gamete, which develops into a seed after fertilization."
+        "q": "What are allergies? Describe its symptoms in brief.",
+        "a": "An allergy is an exaggerated or hypersensitive response of the immune system to certain environmental substances called allergens, such as pollen or dust. This response is mediated by \\textbf{IgE antibodies} and involves the release of chemicals like histamine. Symptoms can range from sneezing, watery eyes, and a runny nose to skin rashes and difficulty breathing."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) \\textbf{False Fruit:} Develops from parts other than the ovary; Example: Apple. (ii) \\textbf{True Fruit:} Develops solely from the ovary; Example: Mango. (iii) \\textbf{Parthenocarpic Fruit:} Develops without fertilization and is seedless; Example: Banana. (iv) \\textbf{Polyembryony:} Presence of multiple embryos in one seed; Example: Citrus."
+        "q": "Mention two symptoms of cancer.",
+        "a": "Cancer is characterized by uncontrolled cell growth, and its symptoms can be varied. Two common warning signs are the presence of a persistent \\textbf{lump or thickening} in any part of the body, such as the breast, and a \\textbf{change in bowel or bladder habits} that is unexplained and persistent."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac is vital for sexual reproduction in angiosperms. It contains the egg cell, which upon fertilization forms the zygote, and the polar nuclei, which form the nutritive endosperm. The endosperm provides essential food for the developing embryo, ensuring its survival and growth."
+        "q": "Describe the ill-effects of alcohol.",
+        "a": "Chronic and excessive alcohol consumption has severe ill-effects on the body. It can cause significant damage to the \\textbf{liver}, leading to conditions like fatty liver, alcoholic hepatitis, and cirrhosis. It also adversely affects the central nervous system, impairing judgment and coordination, and can lead to dependence, social problems, and damage to the heart and stomach."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A diagram would depict an oval structure with an \\textbf{egg apparatus} (one egg cell and two synergids) at the micropylar end, three \\textbf{antipodal cells} at the chalazal end, and a large \\textbf{central cell} containing two \\textbf{polar nuclei}."
+        "q": "What are cannabinoids?",
+        "a": "Cannabinoids are a group of chemical compounds that interact with cannabinoid receptors in the brain. They are naturally obtained from the inflorescences of the plant \\textbf{\\textit{Cannabis sativa}}. Products like marijuana, hashish, and charas are derived from this plant and are known to affect the cardiovascular system and produce hallucinogenic effects."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination is the transfer of pollen from the anther of one plant to the stigma of a genetically different plant of the same species. It promotes genetic variation. For instance, papaya plants, being dioecious, depend entirely on agents like wind or insects for cross-pollination."
+        "q": "What is cocaine? From which plant it is obtained?",
+        "a": "Cocaine is a powerful central nervous system stimulant that interferes with the transport of the neurotransmitter dopamine, producing a sense of euphoria. It is obtained from the leaves of the \\textbf{coca plant} (\\textit{Erythroxylum coca}), which is native to South America. It is a potent and addictive drug."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is a form of asexual reproduction where an embryo develops from an unfertilized egg. This occurs naturally in several species. A common example is in honeybees, where unfertilized eggs develop into haploid male bees (drones)."
+        "q": "What is cell mediated immunity?",
+        "a": "Cell-mediated immunity (CMI) is an immune response that does not involve antibodies. It is primarily mediated by \\textbf{T-lymphocytes}. This arm of the immune system is crucial for defending against intracellular pathogens like viruses and bacteria, and is also responsible for killing cancerous cells and for the rejection of transplanted organs."
     },
     {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A microsporangium (pollen sac) is typically surrounded by four wall layers: the epidermis, endothecium, middle layers, and the nutritive tapetum. The center contains sporogenous tissue, where microspore mother cells undergo meiosis to form pollen grains."
+        "q": "Define active immunity.",
+        "a": "Active immunity is the immunity that develops in an individual when their own immune system produces antibodies in response to an infection or vaccination. This type of immunity is long-lasting and creates an immunological memory. For example, recovering from chickenpox provides long-term active immunity against the disease."
     },
     {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization, unique to angiosperms, involves two fusion events. First, one male gamete fuses with the egg cell to form the diploid ($2n$) zygote (syngamy). Second, the other male gamete fuses with the two polar nuclei to form the triploid ($3n$) primary endosperm nucleus (triple fusion)."
+        "q": "Name the primary and secondary lymphoid organs.",
+        "a": "Lymphoid organs are where lymphocytes originate, mature, and proliferate. The \\textbf{primary lymphoid organs} are the \\textbf{bone marrow} and the \\textbf{thymus}, where immature lymphocytes differentiate into antigen-sensitive lymphocytes. The \\textbf{secondary lymphoid organs} include the \\textbf{spleen, lymph nodes, tonsils}, and Peyer's patches, where lymphocytes interact with antigens."
     },
     {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization is a complex reproductive process involving two fusions: one male gamete fuses with the egg to form a zygote ($2n$), and the second male gamete fuses with the polar nuclei to create the endosperm ($3n$). This process is a defining characteristic of \\textbf{angiosperms} (flowering plants)."
+        "q": "What is oncogenesis?",
+        "a": "Oncogenesis is the process by which normal cells are transformed into cancerous cells. It is a multi-step process involving genetic and epigenetic changes that disrupt the normal regulation of the cell cycle, leading to uncontrolled cell division and proliferation. This transformation is often triggered by carcinogens or mutations in key regulatory genes like \\textbf{oncogenes}."
     },
     {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the condition of having more than one embryo in a single seed. This can result from the cleavage of a zygote or the development of embryos from other cells in the ovule. It is commonly observed in \\textbf{citrus} fruits and mango."
+        "q": "What is metastasis?",
+        "a": "Metastasis is the most feared property of malignant tumors. It is the process by which cancer cells break away from the primary tumor, travel through the blood or lymph system, and form new, secondary tumors in other parts of the body. This spread of cancer makes it much more difficult to treat."
+    },
+    {
+        "q": "Differentiate between active and passive immunity.",
+        "a": "\\textbf{Active immunity} is produced by an individual's own immune system in response to an antigen (from infection or vaccination); it is slow to develop but long-lasting. \\textbf{Passive immunity} is acquired when pre-formed antibodies are transferred from one individual to another (e.g., from mother to fetus); it provides immediate protection but is short-lived."
     }
 ]

@@ -1,78 +1,62 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated flowers are typically small, inconspicuous, and lack nectar or fragrance. They produce large quantities of lightweight, non-sticky pollen to ensure distribution by wind. Their stigmas are often large and feathery to effectively trap the airborne pollen."
+        "q": "What are homologous organs? Give examples.",
+        "a": "Homologous organs are structures that have a common fundamental anatomical plan and embryonic origin but have evolved to perform different functions in different species. They provide strong evidence for \\textbf{divergent evolution}. Examples include the forelimbs of humans (for grasping), whales (flippers for swimming), bats (wings for flying), and cheetahs (for running), all of which share the same basic bone structure."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone is a group of genetically identical organisms produced from a single parent via asexual reproduction. An advantage is the rapid preservation of desirable parental traits. A key disadvantage is the lack of genetic variation, making the entire population susceptible to the same diseases or environmental stresses."
+        "q": "What are analogous organs? Give any two examples.",
+        "a": "Analogous organs are structures that have different anatomical origins but have evolved to perform a similar function. They are a result of \\textbf{convergent evolution}, where different species adapt to similar ecological niches. Two examples are the wings of a butterfly and the wings of a bird, and the eyes of an octopus and the eyes of a mammal."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature angiosperm embryo sac contains an egg apparatus (one egg cell and two synergids) at the micropylar end, three antipodal cells at the chalazal end, and a large central cell containing two polar nuclei."
+        "q": "Write in brief on natural selection.",
+        "a": "Natural selection is the key mechanism of evolution proposed by Charles Darwin. It is the process by which organisms with heritable traits that are better suited to their environment tend to survive and reproduce more successfully than others. This differential survival and reproduction lead to a gradual increase in the frequency of those advantageous traits in a population over generations."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the removal of anthers from a bisexual flower before they mature. It is a key step in artificial hybridization used to prevent self-pollination and allow for controlled cross-pollination with pollen from a desired plant."
+        "q": "What is organic evolution? Write.",
+        "a": "Organic evolution is the process of gradual and continuous change in the heritable characteristics of biological populations over successive generations. It is the theory that all forms of life on Earth have descended from a common ancestor. This process, driven by mechanisms like natural selection, mutation, and genetic drift, has led to the immense biodiversity we see today."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit (or pseudocarp) is a fruit that develops from floral parts other than the ovary, such as the thalamus. A classic example is the apple, where the main edible portion is the fleshy thalamus that grows around the true fruit (the core)."
+        "q": "What is genetic drift?",
+        "a": "Genetic drift refers to the random fluctuations in the frequency of alleles within a population, purely by chance. Its effects are most pronounced in \\textbf{small populations}. Unlike natural selection, the changes caused by genetic drift are not necessarily adaptive. It can lead to the loss of some alleles and the fixation of others, thereby reducing the genetic variation of a population."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "Monocarpic plants are those that flower, produce fruit, and set seed only once in their entire lifetime before dying. The fruits they bear are called monocarpic fruits. Well-known examples of such plants include bamboo and agave."
+        "q": "What is founder effect?",
+        "a": "The founder effect is a specific case of genetic drift that occurs when a new population is established by a small number of individuals (the 'founders') from a larger parent population. This new population may have, by chance, allele frequencies that are very different from the original population, leading to a loss of genetic variation and a distinct genetic makeup."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit is one where the main fleshy part develops from tissues other than the ovary, such as the receptacle or thalamus. For instance, in a strawberry, the edible red part is the swollen receptacle, and the true fruits are the tiny achenes on its surface."
+        "q": "Write in brief about chemical evolution.",
+        "a": "The theory of chemical evolution, proposed by \\textbf{Oparin and Haldane}, suggests that the first life forms originated from pre-existing non-living organic molecules (like RNA, proteins) on early Earth. This process is thought to have occurred in the primitive atmosphere, which lacked free oxygen and was rich in methane, ammonia, and water vapor, with energy provided by lightning and UV radiation."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction is a process involving a single parent that gives rise to offspring which are genetically identical to the parent (clones). It does not involve the fusion of gametes. This is a rapid multiplication method found in many organisms, such as bacteria (fission), yeast (budding), and plants (vegetative propagation)."
+        "q": "What is gene mutation? What is its role in organic evolution?",
+        "a": "A gene mutation is a sudden, permanent alteration in the DNA sequence of a gene. Its role in organic evolution is fundamental, as it is the \\textbf{ultimate source of all new genetic variation}. While most mutations are neutral or harmful, occasionally a mutation can produce an advantageous new trait that is then acted upon by natural selection, leading to adaptation and evolutionary change."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction is the creation of new individuals from a single parent without gamete fusion, producing genetically identical offspring. A common example is budding in \\textit{Hydra}, where an outgrowth forms on the parent, develops into a small hydra, and then detaches to live independently."
+        "q": "Explain about connecting link and missing link.",
+        "a": "A \\textbf{connecting link} is a living species that possesses characteristics of two different taxonomic groups, providing evidence of an evolutionary path between them (e.g., \\textit{Peripatus}, linking Annelida and Arthropoda). A \\textbf{missing link} is a fossil species that shows characteristics of two different groups, representing an intermediate evolutionary stage that has since become extinct (e.g., \\textit{Archaeopteryx}, linking reptiles and birds)."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) \\textbf{Protozoan endoparasite:} A single-celled eukaryotic parasite living inside its host's body. Example: \\textit{Plasmodium}, which causes malaria. (ii) \\textbf{Ovule:} The structure within a plant's ovary containing the female gamete; it develops into a seed after fertilization."
+        "q": "What is the relationship between thorns of Bougainvillea and tendrils of Cucurbita?",
+        "a": "The thorns of \\textit{Bougainvillea} and the tendrils of \\textit{Cucurbita} are \\textbf{homologous organs}. Both are modifications of the axillary bud, meaning they share a common anatomical origin. However, they have been modified to perform different functions: thorns provide protection, while tendrils provide support for climbing. This is a classic example of divergent evolution."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) \\textbf{False Fruit:} Develops from parts besides the ovary; e.g., Apple. (ii) \\textbf{True Fruit:} Develops only from the ovary; e.g., Mango. (iii) \\textbf{Parthenocarpic Fruit:} Develops without fertilization, hence seedless; e.g., Banana. (iv) \\textbf{Polyembryony:} Presence of multiple embryos in one seed; e.g., Citrus."
+        "q": "What is adaptive radiation? Give an example.",
+        "a": "Adaptive radiation is an evolutionary process where a single ancestral species diversifies rapidly into multiple new species, each adapted to a different ecological niche. This often occurs when an organism enters a new environment with various unoccupied niches. A classic example is the evolution of \\textbf{Darwin's finches} on the Galápagos Islands, where an ancestral finch species evolved into many different species with specialized beaks for different food sources."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac is vital for sexual reproduction in angiosperms. It contains the egg cell, which upon fertilization forms the zygote, and the polar nuclei, which form the nutritive endosperm. The endosperm provides essential food for the developing embryo."
+        "q": "What do you understand by atavism? State its benefits.",
+        "a": "Atavism is the reappearance of an ancestral characteristic in an organism after several generations of absence. These traits were present in distant ancestors but were lost in the intermediate ones. Examples include the appearance of a tail in a human baby. The primary benefit of studying atavism is that it provides strong \\textbf{evidence for evolution} by showing the genetic connection to ancestral forms."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A diagram would show an oval embryo sac with an \\textbf{egg apparatus} (one egg cell, two synergids) at the micropylar end, three \\textbf{antipodal cells} at the chalazal end, and a large \\textbf{central cell} containing two \\textbf{polar nuclei}."
+        "q": "Differentiate between Ramapithecus and Dryopithecus.",
+        "a": "\\textit{Dryopithecus} and \\textit{Ramapithecus} are fossil apes that are considered ancestors in the line of human evolution. \\textit{Dryopithecus} is considered to be more \\textbf{ape-like}, with features like a U-shaped jaw and larger canines. In contrast, \\textit{Ramapithecus} is considered more \\textbf{man-like}, with features such as a more rounded dental arch, smaller canines, and thicker tooth enamel, suggesting a diet that included tough, coarse food."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination is the transfer of pollen from the anther of one plant to the stigma of a genetically different plant of the same species, which promotes genetic variation. For example, maize relies on wind for cross-pollination between different plants."
+        "q": "What is the theory of recapitulation?",
+        "a": "The theory of recapitulation, often summarized by the phrase \\textbf{'Ontogeny recapitulates phylogeny,'} was proposed by Ernst Haeckel. It suggests that the development of an organism's embryo (ontogeny) goes through successive stages that resemble the adult forms of its evolutionary ancestors (phylogeny). Although now considered an oversimplification, it highlights the evidence for evolution found in embryology."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is a form of asexual reproduction where an embryo develops from an unfertilized egg. A classic example is in honeybees, where the male drones are produced from unfertilized, haploid eggs."
-    },
-    {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A microsporangium (pollen sac) is surrounded by four wall layers: the epidermis, endothecium, middle layers, and the inner nutritive tapetum. The center is filled with sporogenous tissue that produces the pollen grains."
-    },
-    {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization is a key feature of angiosperms involving two fusion events: one male gamete fuses with the egg to form the diploid ($2n$) zygote, while the second male gamete fuses with the two polar nuclei to form the triploid ($3n$) primary endosperm nucleus."
-    },
-    {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization is a reproductive process involving two fusions: syngamy (male gamete + egg → zygote) and triple fusion (male gamete + polar nuclei → endosperm). This process is unique to \\textbf{angiosperms} (flowering plants)."
-    },
-    {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the condition where more than one embryo is present within a single seed. It occurs naturally in many species, with a common example being \\textbf{citrus} fruits like oranges and lemons."
+        "q": "What do you understand by Palaeontology? Give the name of various eras.",
+        "a": "Palaeontology is the scientific study of ancient life, primarily through the examination of fossils. It provides direct evidence for evolution by showing the forms of life that existed in the past. The major geological eras, from oldest to most recent, are the \\textbf{Precambrian}, \\textbf{Paleozoic}, \\textbf{Mesozoic}, and \\textbf{Cenozoic} eras."
     }
 ]

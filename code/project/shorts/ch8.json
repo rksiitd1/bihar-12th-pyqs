@@ -1,78 +1,62 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated flowers are typically small, inconspicuous, and lack nectar or fragrance. They produce large quantities of lightweight, non-sticky pollen to be carried by wind. To effectively trap this airborne pollen, their stigmas are often large, feathery, and well-exposed."
+        "q": "What do you mean by sewage? Describe the role of microbes in sewage treatment.",
+        "a": "Sewage is municipal wastewater containing large amounts of human excreta and organic matter. Microbes play a crucial role in its treatment. During \\textbf{secondary treatment}, aerobic microbes consume the organic matter, forming masses called \\textbf{flocs} and significantly reducing the BOD. Later, anaerobic microbes in sludge digesters break down the remaining organic matter, producing biogas."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone is a group of genetically identical organisms produced from a single parent via asexual reproduction. An \\textbf{advantage} is the rapid multiplication and preservation of desirable parental traits. A major \\textbf{disadvantage} is the lack of genetic variation, which makes the entire population uniformly susceptible to diseases or environmental changes."
+        "q": "What is biofertilizer and what are its sources?",
+        "a": "A biofertilizer is a preparation containing living microorganisms which, when applied to seed, plant surfaces, or soil, colonize the rhizosphere and promote growth by increasing the supply of primary nutrients to the host plant. The main sources are \\textbf{bacteria} (like \\textit{Rhizobium}, \\textit{Azotobacter}), \\textbf{cyanobacteria} (like \\textit{Anabaena}, \\textit{Nostoc}), and \\textbf{fungi} (like \\textit{Glomus}, which forms mycorrhiza)."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature angiosperm embryo sac contains: an \\textbf{egg apparatus} at one end (composed of one egg cell and two synergids), three \\textbf{antipodal cells} at the opposite end, and one large \\textbf{central cell} in the middle that contains two polar nuclei."
+        "q": "Write in brief about nitrogen fixation from the atmosphere.",
+        "a": "Nitrogen fixation is the biological process by which atmospheric nitrogen ($N_2$) is converted into ammonia ($NH_3$) or other nitrogenous compounds. This is carried out by specialized microorganisms. Some are free-living, like \\textit{Azotobacter}, while others, like \\textbf{\\textit{Rhizobium}}, form a symbiotic relationship with the root nodules of leguminous plants, providing the plant with usable nitrogen."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the removal of anthers from a bisexual flower before they mature. It is a key step in artificial hybridization performed to prevent self-pollination, thus allowing for controlled cross-pollination with pollen from a specifically chosen plant."
+        "q": "What is cyclosporin-A and what is its use?",
+        "a": "Cyclosporin A is a bioactive molecule produced by the fungus \\textbf{\\textit{Trichoderma polysporum}}. It is used medically as an \\textbf{immunosuppressive agent}. Its primary use is in organ transplant patients to prevent the immune system from rejecting the newly transplanted organ."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit (or pseudocarp) is a fruit where the main fleshy part develops from floral tissues other than the ovary, such as the thalamus. A classic example is the apple, where the edible portion we consume is the swollen, fleshy thalamus."
+        "q": "What do you understand by organic farming?",
+        "a": "Organic farming is a holistic agricultural system that avoids the use of synthetic fertilizers, pesticides, and genetically modified organisms. It relies on techniques like crop rotation, green manure, compost, and biological pest control. This approach aims to maintain soil fertility and ecological balance, producing healthy food while minimizing environmental pollution."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "Monocarpic plants are those that flower, produce fruit, and set seed only once in their lifetime before dying. The fruits they bear are thus called monocarpic fruits. This represents the plant's single, final reproductive effort. Examples include bamboo and agave."
+        "q": "What are flocs?",
+        "a": "Flocs are mesh-like structures formed during the secondary treatment of sewage. They consist of masses of \\textbf{aerobic bacteria} that are held together by fungal filaments. These microbes consume the organic matter present in the sewage, thereby significantly reducing the Biochemical Oxygen Demand (BOD) of the effluent."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit is one in which the fleshy part is derived from tissues other than the ovary, like the receptacle or thalamus. A common example is the strawberry, where the red, fleshy part is the swollen receptacle, and the true fruits are the tiny achenes on its surface."
+        "q": "Define antibiotics and give an example.",
+        "a": "Antibiotics are chemical substances produced by certain microbes that can kill or inhibit the growth of other disease-causing microbes. They are powerful drugs used to treat bacterial infections. The first discovered antibiotic was \\textbf{penicillin}, which is produced by the fungus \\textit{Penicillium notatum}."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction is a mode of reproduction involving a single parent that produces genetically identical offspring, called clones. It does not involve the fusion of gametes and is a rapid method of multiplication seen in many organisms through processes like budding (yeast), fission (bacteria), and vegetative propagation (plants)."
+        "q": "What are statins and what is their function?",
+        "a": "Statins are bioactive molecules produced by the yeast \\textbf{\\textit{Monascus purpureus}}. They are used medically as blood-cholesterol-lowering agents. Statins function by competitively inhibiting the enzyme responsible for the synthesis of cholesterol in the liver, thus helping to prevent cardiovascular diseases."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction is the creation of offspring from a single parent without the fusion of gametes, resulting in genetically identical progeny. For example, \\textit{Hydra} reproduces asexually by budding, where a new individual develops from an outgrowth on the parent's body and eventually detaches."
+        "q": "What are methanogens? Give an example.",
+        "a": "Methanogens are a group of anaerobic archaea that produce \\textbf{methane ($CH_4$)} as a metabolic byproduct. They are found in anaerobic sludge during sewage treatment, the rumen of cattle, and marshy areas. An example is \\textit{Methanobacterium}. They are essential for the production of biogas."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) \\textbf{Protozoan endoparasite:} A single-celled eukaryotic parasite that lives inside its host's body, such as \\textit{Plasmodium}, which causes malaria. (ii) \\textbf{Ovule:} The structure within a plant's ovary containing the female gamete, which develops into a seed after fertilization."
+        "q": "What are Single Cell Proteins (SCP)? Give an example.",
+        "a": "Single Cell Protein (SCP) refers to the dried cells of microorganisms, such as bacteria, yeast, or algae, which are grown in large-scale cultures and used as a protein-rich supplement for human food or animal feed. A common example is \\textbf{\\textit{Spirulina}}, a type of cyanobacteria that is rich in protein, vitamins, and minerals."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) \\textbf{False Fruit:} Develops from parts besides the ovary; Example: Apple. (ii) \\textbf{True Fruit:} Develops only from the ovary; Example: Mango. (iii) \\textbf{Parthenocarpic Fruit:} Develops without fertilization, hence seedless; Example: Banana. (iv) \\textbf{Polyembryony:} Presence of multiple embryos in one seed; Example: Citrus."
+        "q": "Write two benefits of using organic manure.",
+        "a": "Using organic manure offers several benefits. Firstly, it improves the \\textbf{soil structure} and water-holding capacity, reducing soil erosion. Secondly, it enriches the soil with essential nutrients in a slow-release manner, which promotes healthy plant growth without causing the environmental pollution associated with chemical fertilizers."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac is vital for angiosperm reproduction as it contains the egg cell for forming the zygote and the polar nuclei for forming the nutritive endosperm after fertilization. The endosperm provides the food necessary for the embryo's development and survival."
+        "q": "Give a brief account of poultry farm management.",
+        "a": "Effective poultry farm management involves several key practices for raising domesticated fowl like chickens and ducks. This includes the selection of disease-free and suitable breeds, maintaining proper farm conditions with adequate space and ventilation, ensuring the supply of clean water and hygienic feed, and implementing strict healthcare measures, including regular vaccination and cleaning, to prevent diseases."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A labelled diagram shows an oval embryo sac containing the \\textbf{egg apparatus} (one egg cell, two synergids) at the micropylar end, three \\textbf{antipodal cells} at the chalazal end, and a large \\textbf{central cell} with two \\textbf{polar nuclei}."
+        "q": "What is a biocontrol agent? Give an example.",
+        "a": "A biocontrol agent is a living organism, such as a predator, parasitoid, or pathogen, that is used to control the population of another organism considered to be a pest. This method reduces the reliance on chemical pesticides. For example, the bacterium \\textbf{\\textit{Bacillus thuringiensis} (Bt)} is used to control butterfly caterpillars."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination is the transfer of pollen from the anther of one plant to the stigma of a genetically different plant of the same species, which promotes genetic variation. For instance, maize relies on wind for cross-pollination between different plants."
+        "q": "What do you mean by Green-farming?",
+        "a": "Green farming, also known as organic or sustainable farming, is an agricultural practice that focuses on producing crops in an environmentally friendly way. It avoids the use of synthetic pesticides and fertilizers, instead relying on natural methods like using \\textbf{biofertilizers} to enrich the soil and \\textbf{biocontrol agents} to manage pests, thus promoting ecological balance."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is a form of asexual reproduction where an embryo develops from an unfertilized egg. This occurs naturally in some species, such as honey bees, where the male drones develop from unfertilized eggs and are consequently haploid."
-    },
-    {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A microsporangium is surrounded by four wall layers: the epidermis, endothecium, middle layers, and the inner, nutritive tapetum. Its center contains the sporogenous tissue, from which microspore mother cells arise and undergo meiosis to form pollen grains."
-    },
-    {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization is unique to angiosperms and involves two fusions. One male gamete fuses with the egg cell to form the diploid ($2n$) zygote. The second male gamete fuses with the two polar nuclei to create the triploid ($3n$) primary endosperm nucleus, which develops into the endosperm."
-    },
-    {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization involves two fusion events: one male gamete with the egg to form a zygote ($2n$), and the second male gamete with the polar nuclei to form the endosperm ($3n$). This process is a distinctive characteristic of \\textbf{angiosperms} (flowering plants)."
-    },
-    {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the condition of having more than one embryo within a single seed. It can occur naturally in various plants, with a common example being \\textbf{citrus} fruits like oranges and lemons, where multiple seedlings can emerge from one seed."
+        "q": "Write the names of some antibiotics that are obtained from bacteria.",
+        "a": "While many antibiotics are derived from fungi, several important ones are also obtained from bacteria. Examples include \\textbf{Streptomycin}, which is produced by the bacterium \\textit{Streptomyces griseus}, and \\textbf{Tetracycline}, which is also derived from species of \\textit{Streptomyces}."
     }
 ]

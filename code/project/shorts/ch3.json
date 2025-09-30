@@ -1,78 +1,62 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated flowers, or anemophilous flowers, are adapted to increase the chances of pollination without attracting insects. They are typically small and inconspicuous, lacking bright colors, nectar, and fragrance. The pollen grains are produced in very large quantities, are lightweight and non-sticky to be easily carried by wind. The stigma is often large, feathery, and well-exposed to efficiently trap airborne pollen."
+        "q": "What are contraceptive pills ? How do they function ?",
+        "a": "Contraceptive pills are hormonal preparations, usually containing progestogen alone or a combination of progestogen and estrogen, taken orally by females to prevent pregnancy. They primarily function by \\textbf{inhibiting ovulation} (the release of an egg from the ovary). They also alter the cervical mucus to prevent sperm entry and make the uterine wall unsuitable for implantation."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone is a group of morphologically and genetically identical organisms produced from a single parent through asexual reproduction. A significant \\textbf{advantage} is the preservation and rapid multiplication of desirable parental traits, such as high yield or disease resistance. A major \\textbf{disadvantage} is the lack of genetic variation, which makes the entire population equally vulnerable to new diseases or changes in the environment."
+        "q": "What is sterilization? Mention its methods.",
+        "a": "Sterilization is a permanent surgical method of contraception that blocks the transport of gametes, thus preventing fertilization. The two main methods are \\textbf{vasectomy} in males, where the vas deferens is cut and tied, and \\textbf{tubectomy} in females, where the fallopian tubes are cut and tied."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature angiosperm embryo sac typically consists of a seven-celled, eight-nucleate structure. These components are: the \\textbf{egg apparatus} at the micropylar end (comprising one egg cell and two synergids), three \\textbf{antipodal cells} at the chalazal end, and one large \\textbf{central cell} in the middle, which contains two polar nuclei."
+        "q": "What is M.T.P.? Mention its safe and fatal period (time).",
+        "a": "MTP stands for Medical Termination of Pregnancy, which is the intentional or voluntary termination of pregnancy before the fetus becomes viable. The safe period for MTP is considered to be during the \\textbf{first trimester} (up to 12 weeks of pregnancy). Abortions performed in the \\textbf{second trimester} are much riskier."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the surgical removal of anthers from a bisexual flower before the pollen matures, without damaging the female reproductive part (pistil). This technique is a crucial step in artificial hybridization. It is performed to prevent unwanted self-pollination and to allow for controlled cross-pollination with pollen from a desired male parent, which is essential for developing new plant varieties with specific traits."
+        "q": "What is a test-tube baby?",
+        "a": "A 'test-tube baby' is a non-scientific term for a child conceived through \\textbf{In Vitro Fertilization (IVF)}. In this process, an ovum from the female and sperm from the male are collected and induced to fertilize outside the body, in a laboratory dish. The resulting embryo is then transferred into the mother's uterus to complete its development."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit, or pseudocarp, is a fruit that develops from floral parts other than the ovary. While a true fruit develops exclusively from the ovary, in a false fruit, other parts like the thalamus or receptacle grow to become the main fleshy and edible portion. A common example is the apple, where the part we eat is the succulent thalamus, not the ovary."
+        "q": "What is Amniocentesis?",
+        "a": "Amniocentesis is a prenatal diagnostic procedure in which a small amount of \\textbf{amniotic fluid}, containing fetal cells, is withdrawn from the uterus. This fluid is then analyzed to detect \\textbf{chromosomal abnormalities} and certain genetic disorders in the developing fetus. However, its misuse for sex determination is legally banned."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "Monocarpic plants are those that flower, set fruit, and produce seeds only once in their lifetime before dying. The fruits they produce are thus referred to as monocarpic fruits. This strategy involves the plant investing all of its resources into a single, massive reproductive event. Well-known examples of monocarpic plants include bamboo and agave."
+        "q": "Explain about vasectomy.",
+        "a": "Vasectomy is the surgical sterilization procedure for males. It involves making a small incision in the scrotum and cutting or tying the \\textbf{vas deferens}, the tubes that carry sperm from the testes. This procedure blocks the transport of sperm, so they are not present in the ejaculate, thus preventing fertilization. It is a highly effective and permanent form of birth control."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit is a fruit in which the fleshy, edible part is derived from tissues other than the ovary, such as the thalamus or receptacle. This is in contrast to a true fruit, which develops solely from the ovary. A well-known example is the strawberry, where the red, fleshy part is the swollen receptacle, and the actual tiny 'seeds' on the surface are the true fruits (achenes)."
+        "q": "Explain tubectomy.",
+        "a": "Tubectomy is the surgical sterilization procedure for females. In this method, a small part of both \\textbf{fallopian tubes} is removed or tied up through an incision in the abdomen or through the vagina. This blocks the path of the ovum, preventing it from meeting the sperm, and thus fertilization cannot occur. It is a permanent contraceptive method."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction is a mode of reproduction involving a single parent that results in offspring that are genetically identical to the parent, known as clones. This process does not involve the fusion of gametes. It is a common and rapid method of multiplication in many organisms, including single-celled organisms (like bacteria via fission, yeast via budding) and many plants (via vegetative propagation)."
+        "q": "Write the names of any four sexually transmitted diseases along with their causative pathogens.",
+        "a": "Four common sexually transmitted diseases (STDs) are: 1. \\textbf{Syphilis}, caused by the bacterium \\textit{Treponema pallidum}. 2. \\textbf{Gonorrhoea}, caused by the bacterium \\textit{Neisseria gonorrhoeae}. 3. \\textbf{Genital Herpes}, caused by the Herpes simplex virus. 4. \\textbf{AIDS}, caused by the Human Immunodeficiency Virus (HIV)."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction is a method of creating new individuals from a single parent, without the involvement of gametes. The offspring are genetically identical to the parent. For instance, \\textit{Hydra} reproduces asexually through budding. A small bud develops as an outgrowth on the parent's body, grows into a miniature hydra, and eventually detaches to lead an independent life."
+        "q": "Give a brief description of infertility.",
+        "a": "Infertility is the inability of a couple to conceive or produce children despite regular, unprotected sexual intercourse for a year or more. The causes can be varied and may lie with the male partner, the female partner, or both. These issues can be physical, congenital, immunological, or psychological. Many cases can be treated with the help of \\textbf{Assisted Reproductive Technologies (ART)}."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) \\textbf{Protozoan endoparasite:} A single-celled eukaryotic organism (protozoan) that lives inside the body of another organism (the host) and obtains nourishment from it, such as \\textit{Plasmodium}, which causes malaria in humans. (ii) \\textbf{Ovule:} The structure within the ovary of a flowering plant that contains the female gamete (egg cell) and, after fertilization, develops into the seed."
+        "q": "What are Assisted Reproductive Technologies (ART)? Give two examples.",
+        "a": "Assisted Reproductive Technologies (ART) are special medical procedures used to help infertile couples achieve pregnancy. These techniques handle either the eggs or the sperm. Two common examples are \\textbf{In Vitro Fertilization (IVF)}, where fertilization occurs outside the body, and \\textbf{Intra-Uterine Insemination (IUI)}, where sperm is directly placed into the uterus."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) \\textbf{False Fruit:} A fruit developing from floral parts besides the ovary. Example: Apple. (ii) \\textbf{True Fruit:} A fruit developing solely from the ovary. Example: Mango. (iii) \\textbf{Parthenocarpic Fruit:} A fruit that develops without fertilization, and is thus seedless. Example: Banana. (iv) \\textbf{Polyembryony:} The occurrence of more than one embryo in a single seed. Example: Citrus."
+        "q": "What are Intra-Uterine Devices (IUDs)? Give one example.",
+        "a": "Intra-Uterine Devices (IUDs) are contraceptive devices inserted by medical professionals into the uterus. They prevent pregnancy either by increasing phagocytosis of sperm, suppressing sperm motility, or by making the uterus unsuitable for implantation. An example of a copper-releasing IUD is the \\textbf{Copper-T}."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac is fundamentally important in angiosperms as it is the site of fertilization. It contains the female gamete (egg cell) which fuses with a male gamete to form the zygote. It also houses the polar nuclei, which fuse with the second male gamete to form the primary endosperm nucleus, giving rise to the endosperm. The endosperm provides the vital nutrition required for the development of the embryo."
+        "q": "What is the principle of barrier methods of contraception? Give an example.",
+        "a": "Barrier methods of contraception work on the principle of physically preventing the sperm from meeting the ovum. These methods create a barrier in the female reproductive tract. The most common example is the \\textbf{condom}, which also provides the added benefit of protecting against sexually transmitted diseases (STDs)."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A diagram of a mature embryo sac shows an oval structure containing: at the micropylar end, an \\textbf{egg apparatus} (one egg cell and two synergids with filiform apparatus); at the chalazal end, three \\textbf{antipodal cells}; and in the center, a large \\textbf{central cell} with two \\textbf{polar nuclei}."
+        "q": "What is ZIFT? How is it different from GIFT?",
+        "a": "ZIFT stands for Zygote Intra-Fallopian Transfer. It is an ART where fertilization is done \\textit{in vitro}, and the resulting \\textbf{zygote} or early embryo (up to 8 blastomeres) is transferred into the fallopian tube. It differs from GIFT (Gamete Intra-Fallopian Transfer), where the collected \\textbf{gametes} (unfertilized eggs and sperm) are transferred directly into the fallopian tube to allow fertilization to occur inside the body."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination, or xenogamy, is the transfer of pollen grains from the anther of a flower on one plant to the stigma of a flower on a different plant of the same species. It is crucial for promoting genetic diversity. A suitable example is maize, which is monoecious but relies on wind to carry pollen from the tassel (male flower) of one plant to the silk (stigma) of another."
+        "q": "Explain the role of 'Saheli' as a contraceptive.",
+        "a": "'Saheli' is an oral contraceptive pill for females developed in India. It is a \\textbf{non-steroidal} preparation that is taken 'once-a-week'. It works by inhibiting implantation of the embryo in the uterus. Due to its non-steroidal nature, it has very few side effects and high contraceptive value."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is a natural form of asexual reproduction where an embryo develops from an unfertilized ovum. This process leads to the development of an individual without fertilization. For example, in honeybees, the male drones are produced from unfertilized, haploid eggs laid by the queen bee, while the female bees develop from fertilized eggs."
-    },
-    {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A typical microsporangium (pollen sac) has a circular structure surrounded by four protective wall layers: the outermost \\textbf{epidermis}, followed by the \\textbf{endothecium}, one to three \\textbf{middle layers}, and the innermost nutritive layer called the \\textbf{tapetum}. The center of the microsporangium is filled with sporogenous tissue, whose cells develop into pollen grains."
-    },
-    {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization is a distinctive feature of angiosperms. It involves two fusion events within the embryo sac: 1) \\textbf{Syngamy}, where one male gamete fuses with the egg cell to form the diploid ($2n$) zygote. 2) \\textbf{Triple Fusion}, where the second male gamete fuses with the two polar nuclei in the central cell to form the triploid ($3n$) primary endosperm nucleus, which develops into the endosperm."
-    },
-    {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization is a complex reproductive process unique to \\textbf{angiosperms} (flowering plants). It consists of two separate fusions: the first is the fusion of one male gamete with the egg cell to form the zygote ($2n$), and the second is the fusion of the other male gamete with the two polar nuclei to form the primary endosperm nucleus ($3n$)."
-    },
-    {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the condition where two or more embryos develop from a single fertilized egg or within a single seed. This can occur due to the cleavage of the zygote or the development of embryos from other cells in the ovule, like the nucellus. A common example where polyembryony is observed is in \\textbf{citrus} fruits like oranges and lemons."
+        "q": "What is biopiracy?",
+        "a": "Biopiracy refers to the use of bio-resources by multinational companies and other organizations without proper authorization from the countries and people concerned and without compensatory payment. It often involves patenting and commercializing traditional knowledge or genetic resources of a community or country without permission."
     }
 ]

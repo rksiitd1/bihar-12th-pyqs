@@ -1,78 +1,82 @@
 [
     {
-        "q": "Mention the adaptations of wind-pollinated flowers.",
-        "a": "Wind-pollinated (anemophilous) flowers have several key adaptations: \\\\ 1. They are typically small, inconspicuous, and lack bright colors, nectar, and fragrance as they do not need to attract pollinators. \\\\ 2. The pollen grains are lightweight, non-sticky, and produced in very large quantities to increase the chances of reaching a stigma. \\\\ 3. The stigma is often large and feathery to effectively trap airborne pollen grains."
+        "q": "Describe spermatogenesis in brief.",
+        "a": "Spermatogenesis is the process of sperm production in the testes. It begins at puberty when diploid spermatogonia ($2n$) mature into primary spermatocytes ($2n$), which undergo meiosis I to form haploid secondary spermatocytes ($n$). These complete meiosis II to produce four haploid spermatids ($n$), which then mature into spermatozoa through \\textbf{spermiogenesis}."
     },
     {
-        "q": "Define a clone. Write about one advantage and one disadvantage of a clone.",
-        "a": "A clone is a group of organisms that are genetically identical to each other and to their single parent, produced through asexual reproduction. \\\\ \\\\ \\textbf{Advantage:} It is a rapid method of multiplication and preserves the desirable qualities of the parent plant, such as high yield or disease resistance, without any variation. \\\\ \\\\ \\textbf{Disadvantage:} A major disadvantage is the complete lack of genetic variation. If the parent is susceptible to a particular disease or environmental change, all its clones will also be equally vulnerable, potentially leading to the destruction of the entire population."
+        "q": "Differentiate between spermatogenesis and oogenesis.",
+        "a": "Spermatogenesis, occurring in males from puberty, is a continuous process that produces four motile sperm from a single precursor cell. In contrast, oogenesis begins in the female fetus, is a discontinuous process, and results in the formation of only one large, non-motile ovum and smaller polar bodies due to unequal cytoplasmic division."
     },
     {
-        "q": "What are the names of the component cells of the embryo sac?",
-        "a": "A mature angiosperm embryo sac is a 7-celled, 8-nucleate structure. The component cells are: \\\\ 1. \\textbf{Egg Apparatus:} Located at the micropylar end, it consists of one large \\textbf{egg cell} and two flanking \\textbf{synergids}. \\\\ 2. \\textbf{Antipodal Cells:} Three cells located at the chalazal end. \\\\ 3. \\textbf{Central Cell:} One large cell in the center that contains two \\textbf{polar nuclei}."
+        "q": "What is the function of Corpus Luteum?",
+        "a": "The corpus luteum forms from the ruptured ovarian follicle after ovulation. Its primary function is to secrete large amounts of the hormone \\textbf{progesterone}, which is essential for maintaining the uterine lining (endometrium) to support a potential pregnancy."
     },
     {
-        "q": "What do you understand by emasculation? Why is it done?",
-        "a": "Emasculation is the process of removing the anthers from a bisexual flower before they mature, without affecting the female reproductive part (pistil). It is a crucial step in artificial hybridization programs. The primary reason for performing emasculation is to prevent self-pollination and ensure that the stigma is pollinated only by the desired pollen grains from a different plant, thus facilitating cross-pollination for creating improved plant varieties."
+        "q": "What are the roles of the placenta?",
+        "a": "The placenta serves as the vital link between the mother and fetus. It facilitates the transport of \\textbf{oxygen and nutrients} to the fetus, removes \\textbf{waste products}, and acts as an endocrine gland, secreting hormones like \\textbf{hCG and progesterone} to maintain pregnancy."
     },
     {
-        "q": "Tell about false fruit with an example.",
-        "a": "A false fruit (or pseudocarp) is a fruit that develops from floral parts other than the ovary. While a true fruit develops solely from the ripened ovary, a false fruit incorporates other parts like the thalamus, receptacle, or calyx, which grow and become the fleshy, edible part of the fruit. A classic example is the apple, where the main edible portion is the fleshy thalamus, not the ovary."
+        "q": "What are Sertoli cells? Write down their roles.",
+        "a": "Sertoli cells are supportive cells within the seminiferous tubules of the testes. Their primary role is to \\textbf{provide nourishment} and structural support to developing sperm cells during spermatogenesis. They also regulate the process and form the blood-testis barrier."
     },
     {
-        "q": "Give the definition of monocarpic fruits with an example.",
-        "a": "The term 'monocarpic' refers to plants that flower, set seeds, and then die. Therefore, 'monocarpic fruits' are the fruits produced by such plants during their single reproductive cycle. These plants invest all their energy into this one reproductive event. Common examples of monocarpic plants include bamboo species and agave, which flower and fruit only once in their lifetime before dying."
+        "q": "Give two main functions each of testis and ovary.",
+        "a": "The \\textbf{Testis} produces male gametes (sperm) and secretes the male hormone, \\textbf{testosterone}. The \\textbf{Ovary} produces the female gamete (ovum) and secretes the female hormones, \\textbf{estrogen and progesterone}."
     },
     {
-        "q": "Explain false fruit with an example.",
-        "a": "A false fruit, also known as a pseudocarp, is a fruit in which some of the fleshy part is derived not from the ovary but from some adjacent tissue exterior to the carpel. In a true fruit, the entire fruit develops from the ovary. In a false fruit, parts like the thalamus or floral tube become the major fleshy part. A common example is a strawberry, where the fleshy part is the receptacle, and the actual fruits are the tiny achenes on its surface."
+        "q": "Describe the structure of a human sperm.",
+        "a": "A human sperm consists of a \\textbf{head}, \\textbf{neck}, \\textbf{middle piece}, and \\textbf{tail}. The head contains the haploid nucleus and is capped by the \\textbf{acrosome}, which has enzymes for fertilization. The middle piece is filled with \\textbf{mitochondria} to provide energy for the tail's motility."
     },
     {
-        "q": "Write a short note on asexual reproduction in organisms.",
-        "a": "Asexual reproduction is a mode of reproduction where offspring arise from a single parent, without the fusion of gametes. The offspring produced are genetically identical to the parent and are referred to as clones. This process is common in simpler organisms like bacteria, amoeba, and yeast, as well as in many plants. Common methods of asexual reproduction include binary fission (in Amoeba), budding (in Yeast and Hydra), and vegetative propagation in plants (e.g., through runners or tubers)."
+        "q": "What are spermatogonia, primary spermatocytes and secondary spermatocytes?",
+        "a": "These are successive stages in spermatogenesis. \\textbf{Spermatogonia} are diploid ($2n$) germ cells that develop into \\textbf{primary spermatocytes} ($2n$). These undergo meiosis I to form two haploid ($n$) \\textbf{secondary spermatocytes}."
     },
     {
-        "q": "Explain asexual reproduction in an organism with the help of example.",
-        "a": "Asexual reproduction is a biological process where a single parent produces offspring that are genetically identical to itself. This mode of reproduction does not involve the fusion of gametes. For example, in yeast, a form of asexual reproduction called budding occurs. A small bud or outgrowth forms on the parent yeast cell. The nucleus of the parent cell divides, and one daughter nucleus migrates into the bud. The bud grows and eventually detaches to become a new, independent yeast cell."
+        "q": "Differentiate between oestrous cycle and menstrual cycle.",
+        "a": "The menstrual cycle (in primates) involves the shedding of the uterine lining (menstruation) if fertilization fails. In the oestrous cycle (in non-primates), the uterine lining is reabsorbed, and females are sexually receptive only during a specific 'heat' period."
     },
     {
-        "q": "Define the following: (i) Protozoan endoparasite (ii) Ovule",
-        "a": "(i) \\textbf{Protozoan endoparasite:} A single-celled eukaryotic organism (protozoan) that lives inside the body of another organism (the host) and derives nourishment from it, often causing disease. An example is \\textit{Plasmodium}, which lives inside human red blood cells and causes malaria.\\\\ \\\\ (ii) \\textbf{Ovule:} The ovule is the structure within the ovary of a flowering plant that contains the female gamete (egg cell). After fertilization, the ovule develops into a seed."
+        "q": "Differentiate between external and internal fertilization.",
+        "a": "\\textbf{Internal fertilization} is the fusion of gametes inside the female's body, as seen in humans and birds. \\textbf{External fertilization} is the fusion of gametes outside the body, which typically occurs in an aquatic environment, as seen in fish and frogs."
     },
     {
-        "q": "Define and give one example of each of the following. (i) False fruit (ii) True fruit (iii) Parthenogenic fruits (iv) Polyembryony",
-        "a": "(i) \\textbf{False Fruit:} A fruit that develops from floral parts other than the ovary, such as the thalamus. \\textbf{Example:} Apple.\\\\ \\\\ (ii) \\textbf{True Fruit:} A fruit that develops solely from the ripened ovary of a flower. \\textbf{Example:} Mango.\\\\ \\\\ (iii) \\textbf{Parthenocarpic Fruits:} Fruits that develop without the process of fertilization. These fruits are typically seedless. \\textbf{Example:} Banana.\\\\ \\\\ (iv) \\textbf{Polyembryony:} The phenomenon of having more than one embryo developing within a single seed. \\textbf{Example:} Citrus fruits like orange and lemon."
+        "q": "What is the menstrual cycle? Name its phases.",
+        "a": "The menstrual cycle is the reproductive cycle in female primates involving cyclic changes in the ovary and uterus. Its four main phases are the \\textbf{Menstrual Phase}, \\textbf{Follicular Phase}, \\textbf{Ovulatory Phase}, and the \\textbf{Luteal Phase}."
     },
     {
-        "q": "What is the importance of embryosac in angiospermic plants?",
-        "a": "The embryo sac (female gametophyte) is of critical importance as it contains all the necessary cells for sexual reproduction in angiosperms. Its primary role is to house the female gamete (the egg cell) for fertilization. Furthermore, it contains the central cell with two polar nuclei, which, after fusion with a male gamete, develops into the endosperm. The endosperm is the nutritive tissue that provides food for the developing embryo, ensuring the survival and growth of the next generation."
+        "q": "What is implantation and where does it occur?",
+        "a": "Implantation is the attachment and embedding of the blastocyst stage of the embryo into the uterine wall. This process allows the embryo to receive nourishment and occurs in the \\textbf{endometrium} of the uterus."
     },
     {
-        "q": "Show the well labelled diagram of an angiospermic 8-nucleate embryo-sac.",
-        "a": "A diagram of a mature, 8-nucleate embryo sac would show an oval structure with two distinct ends. \\\\ \\\\ 1.  \\textbf{Micropylar End:} This end has the \\textbf{egg apparatus}, which consists of one large central \\textbf{egg cell} and two flanking \\textbf{synergid cells}. The synergids have filiform apparatus at their base. \\\\ \\\\ 2.  \\textbf{Chalazal End:} This end contains three \\textbf{antipodal cells}. \\\\ \\\\ 3.  \\textbf{Center:} The large \\textbf{central cell} is in the middle, containing two \\textbf{polar nuclei}."
+        "q": "What is the acrosome? State its function.",
+        "a": "The acrosome is a cap-like structure on the head of a sperm containing hydrolytic enzymes. Its function is to release these enzymes to digest the outer layers of the ovum, enabling the sperm to penetrate and fertilize the egg."
     },
     {
-        "q": "Define cross-pollination with the help of suitable example.",
-        "a": "Cross-pollination (or xenogamy) is the transfer of pollen grains from the anther of a flower on one plant to the stigma of a flower on another plant of the same species. This process introduces genetic variation. For example, papaya plants are dioecious (having separate male and female plants), so they rely entirely on cross-pollination, typically carried by wind or insects, for reproduction."
+        "q": "What are the three primary germ layers? Mention one organ derived from each.",
+        "a": "The three primary germ layers are the \\textbf{Ectoderm} (forms skin, nervous system), \\textbf{Mesoderm} (forms muscle, heart, bones), and \\textbf{Endoderm} (forms the lining of the digestive tract and lungs)."
     },
     {
-        "q": "What do you understand by parthenogenesis ? Explain with example.",
-        "a": "Parthenogenesis is a form of asexual reproduction in which an embryo develops from an unfertilized egg. In this process, the offspring can be haploid or diploid, depending on the species. It occurs naturally in some invertebrates like rotifers and aphids, as well as in some insects. For example, in honey bees, the male drones develop parthenogenetically from unfertilized eggs laid by the queen bee and are therefore haploid."
+        "q": "What is parturition? Which hormone induces it?",
+        "a": "Parturition is the process of childbirth, involving strong uterine contractions to expel the fetus. It is induced by a complex neuroendocrine mechanism, with the hormone \\textbf{oxytocin} playing a major role in stimulating these powerful contractions."
     },
     {
-        "q": "Describe the structure of microsporangium.",
-        "a": "A typical microsporangium (pollen sac) is roughly circular in outline and is surrounded by four distinct wall layers. From the outside in, these layers are: \\\\ 1. \\textbf{Epidermis:} A single protective outer layer. \\\\ 2. \\textbf{Endothecium:} A layer below the epidermis that helps in anther dehiscence. \\\\ 3. \\textbf{Middle Layers:} Two to three layers of cells that degenerate at maturity. \\\\ 4. \\textbf{Tapetum:} The innermost nutritive layer that provides nourishment to the developing pollen grains. \\\\ Inside these layers is the \\textbf{sporogenous tissue}, which contains microspore mother cells that undergo meiosis to form pollen grains."
+        "q": "Describe the structure of a human ovum.",
+        "a": "The human ovum is a spherical, non-motile cell. It is enclosed by a plasma membrane, a glycoprotein layer called the \\textbf{zona pellucida}, and an outer layer of follicular cells called the \\textbf{corona radiata}."
     },
     {
-        "q": "Explain double fertilization.",
-        "a": "Double fertilization is a complex fertilization mechanism unique to angiosperms (flowering plants). When the pollen tube enters the embryo sac, it releases two male gametes. \\\\ \\\\ 1.  \\textbf{Syngamy:} One male gamete fuses with the egg cell to form a diploid ($2n$) \\textbf{zygote}, which develops into the embryo. \\\\ \\\\ 2.  \\textbf{Triple Fusion:} The second male gamete fuses with the two polar nuclei in the central cell to form a triploid ($3n$) \\textbf{primary endosperm nucleus (PEN)}. The PEN develops into the endosperm, which provides nutrition to the growing embryo."
+        "q": "What is colostrum? Why is it important?",
+        "a": "Colostrum is the initial milk produced after childbirth. It is highly important because it is rich in \\textbf{antibodies} (especially IgA), which provide crucial \\textbf{passive immunity} to the newborn against infections."
     },
     {
-        "q": "What is double fertilisation? in which plant group does it occur?",
-        "a": "Double fertilization is a unique reproductive process that involves two separate fusion events within the embryo sac. First, one male gamete fuses with the egg cell (syngamy) to form the diploid ($2n$) zygote. Second, the other male gamete fuses with the two polar nuclei of the central cell (triple fusion) to form the triploid ($3n$) primary endosperm nucleus, which develops into the nutritive endosperm. This process occurs exclusively in \\textbf{angiosperms} (flowering plants)."
+        "q": "What is the function of Leydig cells?",
+        "a": "Leydig cells, located in the testes, are responsible for producing and secreting \\textbf{androgens}, primarily \\textbf{testosterone}. This hormone is essential for spermatogenesis and the development of male secondary sexual characteristics."
     },
     {
-        "q": "What is polyembryony? Give example.",
-        "a": "Polyembryony is the phenomenon of the occurrence of more than one embryo in a single seed, which results in the emergence of multiple seedlings. It can occur naturally when cells of the nucellus or integuments surrounding the embryo sac develop into embryos. A common example of polyembryony is found in \\textbf{citrus fruits} like oranges and lemons, and also in mango."
+        "q": "Name the accessory glands of the male reproductive system and state their collective function.",
+        "a": "The accessory glands are the \\textbf{seminal vesicles}, \\textbf{prostate gland}, and \\textbf{bulbourethral glands}. Their collective secretions form the seminal plasma, which provides nourishment, lubrication, and a protective medium for the sperm."
+    },
+    {
+        "q": "Explain the roles of LH and FSH during the menstrual cycle.",
+        "a": "\\textbf{FSH} stimulates the growth of ovarian follicles and their secretion of estrogen. A surge in \\textbf{LH} triggers ovulation around day 14 and subsequently promotes the development of the corpus luteum, which secretes progesterone."
     }
 ]
