@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import copy
 from reportlab.lib.pagesizes import A4
@@ -20,8 +21,9 @@ QNA_FOLDER = "qna"
 SHORTS_FOLDER = "shorts"
 OUTPUT_FILENAME = "multipage_document_final.pdf"
 WATERMARK_PATH = "logo.png"
-WATERMARK_ALPHA = 0.10  # 0..1 transparency; lower is lighter
-WATERMARK_REL_WIDTH = 0.45  # fraction of usable page width
+WATERMARK_ALPHA = 0.2  # 0..1 transparency; slightly more visible
+WATERMARK_REL_WIDTH = 0.5  # 40% larger than 0.45
+WATERMARK_ENABLED = False  # master switch; keep system but disabled by default
 
 # --- Static Page Content ---
 FOOTER_CENTER_TEXT = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
@@ -91,6 +93,11 @@ class LayoutItem:
         self.layout_type = None
         self.p_q = None
         self.p_a = None
+        # Optional rendered images when LaTeX/math is detected (now for ALL pages)
+        self.q_img = None
+        self.q_img_h = 0
+        self.a_img = None
+        self.a_img_h = 0
         # Store precomputed manual wrapping lines for HYBRID mode to keep
         # calculation and drawing in sync
         self._manual_q_lines = None
@@ -107,6 +114,37 @@ class LayoutItem:
     def _calculate_layout(self):
         question_style = ParagraphStyle(name='Question', fontName=NIRMALA_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING)
         answer_style = ParagraphStyle(name='Answer', fontName=NIRMALA_BI_FACE, fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_RIGHT)
+
+        # Detect formatting/LaTeX markers; if present, switch to wrapped paragraph/image flow
+        has_complex_math_q = ('$' in self.q_text) or ('\\(' in self.q_text) or ('\\[' in self.q_text)
+        has_complex_math_a = ('$' in self.a_text) or ('\\(' in self.a_text) or ('\\[' in self.a_text)
+        has_simple_markup_q = ('\\\\' in self.q_text) or ('\\textbf{' in self.q_text)
+        has_simple_markup_a = ('\\\\' in self.a_text) or ('\\textbf{' in self.a_text)
+
+        if has_complex_math_q or has_complex_math_a or has_simple_markup_q or has_simple_markup_a:
+            self.layout_type = 'WRAPPED_Q_THEN_WRAPPED_A'
+            # Question: complex -> image; else convert simple markup and paragraph
+            if has_complex_math_q:
+                img_info = self._render_text_block_to_image(self.q_text, bold=False)
+                if img_info:
+                    self.q_img, self.q_img_h = img_info; self.h_q = self.q_img_h
+            if not self.h_q:
+                q_markup = self._convert_simple_latex_to_markup(self.q_text)
+                self.p_q = Paragraph(q_markup, question_style)
+                _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+            self.height = self.h_q
+            # Answer: complex -> image; else convert simple markup and paragraph
+            if self.a_text:
+                if has_complex_math_a:
+                    img_info = self._render_text_block_to_image(self.a_text, bold=False)
+                    if img_info:
+                        self.a_img, self.a_img_h = img_info; self.h_a = self.a_img_h
+                if not self.h_a:
+                    a_markup = self._convert_simple_latex_to_markup(self.a_text)
+                    self.p_a = Paragraph(a_markup, answer_style)
+                    _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+                self.height += LINE_GAP_BETWEEN_ITEMS + self.h_a
+            return
 
         q_width = self.c.stringWidth(self.q_text, NIRMALA_FACE, QA_FONT_SIZE)
         a_width = self.c.stringWidth(self.a_text, NIRMALA_BI_FACE, QA_FONT_SIZE) if self.a_text else 0
@@ -214,14 +252,67 @@ class LayoutItem:
         elif self.layout_type == 'WRAPPED_Q_THEN_WRAPPED_A':
             # Draw the question paragraph.
             y_question_bottom = y_top - self.h_q
-            self.p_q.drawOn(self.c, x_text, y_question_bottom)
+            if self.q_img:
+                # Draw image spanning avail width
+                self.c.drawImage(self.q_img, x_text, y_question_bottom, width=self.avail_width, height=self.h_q, preserveAspectRatio=True, mask='auto')
+            else:
+                self.p_q.drawOn(self.c, x_text, y_question_bottom)
             
             if self.p_a:
                 # THIS IS THE FIX
                 # Calculate the answer's position directly from the original y_top.
                 # This prevents any cascading errors from the question's position calculation.
                 y_answer_bottom = y_top - self.h_q - LINE_GAP_BETWEEN_ITEMS - self.h_a
-                self.p_a.drawOn(self.c, x_text, y_answer_bottom)
+                if self.a_img:
+                    # Align to right edge by spanning full width; simplest visual consistency
+                    self.c.drawImage(self.a_img, x_text, y_answer_bottom, width=self.avail_width, height=self.h_a, preserveAspectRatio=True, mask='auto')
+                else:
+                    self.p_a.drawOn(self.c, x_text, y_answer_bottom)
+
+    def _render_text_block_to_image(self, text: str, bold: bool = False):
+        try:
+            import matplotlib
+            matplotlib.use('Agg')
+            import matplotlib.pyplot as plt
+        except Exception:
+            return None
+        try:
+            base_fs = QA_FONT_SIZE
+            weight = 'bold' if bold else 'normal'
+            fig_w = self.avail_width / 72.0
+            fig = plt.figure(figsize=(fig_w, 0.1), dpi=300)
+            ax = fig.add_axes([0,0,1,1]); ax.axis('off')
+            ax.text(0, 1, text, fontsize=base_fs, fontweight=weight, va='top', ha='left', wrap=True)
+            import tempfile
+            tmp = tempfile.NamedTemporaryFile(delete=False, suffix='.png'); tmp_path = tmp.name; tmp.close()
+            fig.savefig(tmp_path, dpi=300, transparent=True, bbox_inches='tight', pad_inches=0.02)
+            plt.close(fig)
+            from PIL import Image
+            with Image.open(tmp_path) as im:
+                px_w, px_h = im.size
+                h_pt = px_h * 72.0 / 300.0
+                w_pt = px_w * 72.0 / 300.0
+                scale = min(1.0, self.avail_width / max(w_pt, 1e-3))
+                h_pt *= scale
+            return (tmp_path, h_pt)
+        except Exception:
+            try:
+                plt.close('all')
+            except Exception:
+                pass
+            return None
+
+    def _convert_simple_latex_to_markup(self, text: str) -> str:
+        if not text:
+            return ""
+        out = text.replace('\\\\', '<br/>')
+        out = out.replace('\\n', '<br/>')
+        try:
+            import re as _re
+            out = _re.sub(r"\\textbf\{([^}]*)\}", r"<b>\1</b>", out)
+        except Exception:
+            pass
+        return out
 
 
 class ShortLayoutItem:
@@ -240,6 +331,11 @@ class ShortLayoutItem:
         self.h_a = 0
         self.p_q = None
         self.p_a = None
+        # Optionally rendered images when LaTeX/math is detected
+        self.q_img = None
+        self.q_img_h = 0
+        self.a_img = None
+        self.a_img_h = 0
         self._calculate()
 
     def _calculate(self):
@@ -252,13 +348,37 @@ class ShortLayoutItem:
             name='ShortsA', fontName="Helvetica", fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_JUSTIFY
         )
 
-        self.p_q = Paragraph(self.q_text, question_style)
-        _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+        # Detect simple LaTeX-like formatting and complex math markers
+        has_complex_math_q = ('$' in self.q_text) or ('\\(' in self.q_text) or ('\\[' in self.q_text)
+        has_complex_math_a = ('$' in self.a_text) or ('\\(' in self.a_text) or ('\\[' in self.a_text)
+        # Simple formatting we can convert to Paragraph markup efficiently
+        q_text_conv = self._convert_simple_latex_to_markup(self.q_text)
+        a_text_conv = self._convert_simple_latex_to_markup(self.a_text)
 
-        a_text_only = self.a_text.strip()
-        a_full = f"<b>Answer:</b> {a_text_only}" if a_text_only else "<b>Answer:</b>"
-        self.p_a = Paragraph(a_full, answer_style)
-        _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+        # Question block: prefer efficient Paragraph when only simple formatting; otherwise try image render
+        if has_complex_math_q:
+            img_info = self._render_text_block_to_image(self.q_text, bold=True)
+            if img_info:
+                self.q_img, self.q_img_h = img_info
+                self.h_q = self.q_img_h
+        if not self.h_q:
+            self.p_q = Paragraph(q_text_conv, question_style)
+            _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+
+        # Answer block: render answer only (no "Answer:" label), math detection applies to full
+        a_text_only = a_text_conv.strip()
+        a_full_markup = a_text_only
+        if has_complex_math_a:
+            # For image rendering, include the label in plain text before the content
+            # Use original text for math rendering (no label)
+            a_for_image = self.a_text.strip()
+            img_info = self._render_text_block_to_image(a_for_image, bold_label=True)
+            if img_info:
+                self.a_img, self.a_img_h = img_info
+                self.h_a = self.a_img_h
+        if not self.h_a:
+            self.p_a = Paragraph(a_full_markup, answer_style)
+            _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
 
         self.height = self.h_q + LINE_GAP_BETWEEN_ITEMS + self.h_a
 
@@ -270,11 +390,92 @@ class ShortLayoutItem:
 
         # Question block
         y_q_bottom = y_top - self.h_q
-        self.p_q.drawOn(self.c, x_text, y_q_bottom)
+        if self.q_img:
+            self.c.drawImage(self.q_img, x_text, y_q_bottom, width=self.avail_width, height=self.h_q, preserveAspectRatio=True, mask='auto')
+        else:
+            self.p_q.drawOn(self.c, x_text, y_q_bottom)
 
         # Answer block left-aligned on next line
         y_a_bottom = y_q_bottom - LINE_GAP_BETWEEN_ITEMS - self.h_a
-        self.p_a.drawOn(self.c, x_text, y_a_bottom)
+        if self.a_img:
+            self.c.drawImage(self.a_img, x_text, y_a_bottom, width=self.avail_width, height=self.h_a, preserveAspectRatio=True, mask='auto')
+        else:
+            self.p_a.drawOn(self.c, x_text, y_a_bottom)
+
+    def _render_text_block_to_image(self, text: str, bold: bool = False, bold_label: bool = False):
+        """Render a text block (which may include LaTeX) into an image sized to the available width.
+        Returns (image_path, height_in_points) or None if rendering not available.
+        """
+        try:
+            import matplotlib
+            matplotlib.use('Agg')
+            import matplotlib.pyplot as plt
+            from matplotlib import rcParams
+        except Exception:
+            return None
+
+    def _convert_simple_latex_to_markup(self, text: str) -> str:
+        """Convert lightweight LaTeX-like constructs to Paragraph-friendly markup.
+        - \\ -> line break
+        - \textbf{...} -> <b>...</b>
+        Leaves complex math ($...$, \( \), \[ \]) untouched for renderer.
+        """
+        if not text:
+            return ""
+        # Replace double backslash with line break
+        out = text.replace('\\\\', '<br/>')
+        # Replace single backslash-n if present from sources
+        out = out.replace('\\n', '<br/>')
+        # Replace \textbf{...} with <b>...</b>
+        try:
+            out = re.sub(r"\\textbf\{([^}]*)\}", r"<b>\1</b>", out)
+        except Exception:
+            pass
+        return out
+
+        try:
+            # Configure font sizes to harmonize with QA_FONT_SIZE (points)
+            base_fs = QA_FONT_SIZE
+            if bold or bold_label:
+                weight = 'bold'
+            else:
+                weight = 'normal'
+
+            # Figure size: width in inches = avail_width/72, height auto via tight bbox
+            fig_w = self.avail_width / 72.0
+            fig = plt.figure(figsize=(fig_w, 0.1), dpi=300)
+            ax = fig.add_axes([0, 0, 1, 1])
+            ax.axis('off')
+
+            # Use mathtext via $...$ inline; matplotlib will render it
+            # Align top-left; y from 1.0 downward
+            ax.text(0, 1, text, fontsize=base_fs, fontweight=weight, va='top', ha='left', wrap=True)
+
+            import tempfile
+            tmp = tempfile.NamedTemporaryFile(delete=False, suffix='.png')
+            tmp_path = tmp.name
+            tmp.close()
+
+            fig.savefig(tmp_path, dpi=300, transparent=True, bbox_inches='tight', pad_inches=0.02)
+            plt.close(fig)
+
+            # Determine rendered image size in points
+            from PIL import Image
+            with Image.open(tmp_path) as im:
+                px_w, px_h = im.size
+                # At 300 dpi, points = pixels * 72 / 300
+                h_pt = px_h * 72.0 / 300.0
+                w_pt = px_w * 72.0 / 300.0
+                # Scale to fit avail_width if slight mismatch
+                scale = min(1.0, self.avail_width / max(w_pt, 1e-3))
+                h_pt *= scale
+            return (tmp_path, h_pt)
+        except Exception:
+            try:
+                plt.close('all')
+            except Exception:
+                pass
+            return None
 
 
 # ==============================================================================
@@ -310,8 +511,9 @@ class PdfGenerator:
     def draw_page(self, page_number, header_image_path, qna_data, section_heading_text: str, *, use_header_image: bool, layout_mode: str):
         self.c.setFillColorRGB(*PAGE_BG_RGB)
         self.c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
-        # Draw centered watermark behind all content
-        self._draw_watermark()
+        # Optional: Draw centered watermark behind all content
+        if WATERMARK_ENABLED:
+            self._draw_watermark()
         header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
         if layout_mode == 'odd' and use_header_image:
             if os.path.isfile(header_image_path):
