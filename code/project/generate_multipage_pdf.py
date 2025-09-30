@@ -118,8 +118,14 @@ class LayoutItem:
         # Detect formatting/LaTeX markers; if present, switch to wrapped paragraph/image flow
         has_complex_math_q = ('$' in self.q_text) or ('\\(' in self.q_text) or ('\\[' in self.q_text)
         has_complex_math_a = ('$' in self.a_text) or ('\\(' in self.a_text) or ('\\[' in self.a_text)
-        has_simple_markup_q = ('\\\\' in self.q_text) or ('\\textbf{' in self.q_text)
-        has_simple_markup_a = ('\\\\' in self.a_text) or ('\\textbf{' in self.a_text)
+        has_simple_markup_q = (
+            ('\\' in self.q_text) or ('\\textbf{' in self.q_text) or ('\\textsuperscript{' in self.q_text)
+            or ('\\textsubscript{' in self.q_text) or ('<sup' in self.q_text.lower()) or ('<sub' in self.q_text.lower())
+        )
+        has_simple_markup_a = (
+            ('\\' in self.a_text) or ('\\textbf{' in self.a_text) or ('\\textsuperscript{' in self.a_text)
+            or ('\\textsubscript{' in self.a_text) or ('<sup' in self.a_text.lower()) or ('<sub' in self.a_text.lower())
+        )
 
         if has_complex_math_q or has_complex_math_a or has_simple_markup_q or has_simple_markup_a:
             self.layout_type = 'WRAPPED_Q_THEN_WRAPPED_A'
@@ -258,7 +264,7 @@ class LayoutItem:
             else:
                 self.p_q.drawOn(self.c, x_text, y_question_bottom)
             
-            if self.p_a:
+            if self.p_a or self.a_img:
                 # THIS IS THE FIX
                 # Calculate the answer's position directly from the original y_top.
                 # This prevents any cascading errors from the question's position calculation.
@@ -303,6 +309,13 @@ class LayoutItem:
             return None
 
     def _convert_simple_latex_to_markup(self, text: str) -> str:
+        r"""Convert lightweight LaTeX/HTML-like constructs to Paragraph-friendly markup.
+        - \\ -> <br/>
+        - \\textbf{...} -> <b>...</b>
+        - \\textsuperscript{...} or <sup>...</sup> -> <super>...</super>
+        - \\textsubscript{...} or <sub>...</sub> -> <sub>...</sub>
+        Leaves complex math for the image renderer.
+        """
         if not text:
             return ""
         out = text.replace('\\\\', '<br/>')
@@ -310,11 +323,15 @@ class LayoutItem:
         try:
             import re as _re
             out = _re.sub(r"\\textbf\{([^}]*)\}", r"<b>\1</b>", out)
+            # Superscript
+            out = _re.sub(r"\\textsuperscript\{([^}]*)\}", r"<super>\1</super>", out)
+            out = _re.sub(r"<\s*sup\s*>\s*(.*?)\s*<\s*/\s*sup\s*>", r"<super>\1</super>", out, flags=_re.IGNORECASE)
+            # Subscript
+            out = _re.sub(r"\\textsubscript\{([^}]*)\}", r"<sub>\1</sub>", out)
+            out = _re.sub(r"<\s*sub\s*>\s*(.*?)\s*<\s*/\s*sub\s*>", r"<sub>\1</sub>", out, flags=_re.IGNORECASE)
         except Exception:
             pass
         return out
-
-
 class ShortLayoutItem:
     """Simplified layout for shorts (even pages):
     - Number and Question on one block (question may wrap)
@@ -415,67 +432,29 @@ class ShortLayoutItem:
             return None
 
     def _convert_simple_latex_to_markup(self, text: str) -> str:
-        """Convert lightweight LaTeX-like constructs to Paragraph-friendly markup.
-        - \\ -> line break
+        r"""Convert lightweight LaTeX/HTML-like constructs to Paragraph-friendly markup.
+        - \\ -> <br/>
         - \textbf{...} -> <b>...</b>
-        Leaves complex math ($...$, \( \), \[ \]) untouched for renderer.
+        - \textsuperscript{...} or <sup>...</sup> -> <super>...</super>
+        - \textsubscript{...} or <sub>...</sub> -> <sub>...</sub>
+        Leaves complex math ($...$, \( ... \), \[ ... \]) untouched for image renderer.
         """
         if not text:
             return ""
-        # Replace double backslash with line break
         out = text.replace('\\\\', '<br/>')
-        # Replace single backslash-n if present from sources
         out = out.replace('\\n', '<br/>')
-        # Replace \textbf{...} with <b>...</b>
         try:
-            out = re.sub(r"\\textbf\{([^}]*)\}", r"<b>\1</b>", out)
+            import re as _re
+            out = _re.sub(r"\\textbf\{([^}]*)\}", r"<b>\1</b>", out)
+            # Superscript
+            out = _re.sub(r"\\textsuperscript\{([^}]*)\}", r"<super>\1</super>", out)
+            out = _re.sub(r"<\s*sup\s*>\s*(.*?)\s*<\s*/\s*sup\s*>", r"<super>\1</super>", out, flags=_re.IGNORECASE)
+            # Subscript
+            out = _re.sub(r"\\textsubscript\{([^}]*)\}", r"<sub>\1</sub>", out)
+            out = _re.sub(r"<\s*sub\s*>\s*(.*?)\s*<\s*/\s*sub\s*>", r"<sub>\1</sub>", out, flags=_re.IGNORECASE)
         except Exception:
             pass
         return out
-
-        try:
-            # Configure font sizes to harmonize with QA_FONT_SIZE (points)
-            base_fs = QA_FONT_SIZE
-            if bold or bold_label:
-                weight = 'bold'
-            else:
-                weight = 'normal'
-
-            # Figure size: width in inches = avail_width/72, height auto via tight bbox
-            fig_w = self.avail_width / 72.0
-            fig = plt.figure(figsize=(fig_w, 0.1), dpi=300)
-            ax = fig.add_axes([0, 0, 1, 1])
-            ax.axis('off')
-
-            # Use mathtext via $...$ inline; matplotlib will render it
-            # Align top-left; y from 1.0 downward
-            ax.text(0, 1, text, fontsize=base_fs, fontweight=weight, va='top', ha='left', wrap=True)
-
-            import tempfile
-            tmp = tempfile.NamedTemporaryFile(delete=False, suffix='.png')
-            tmp_path = tmp.name
-            tmp.close()
-
-            fig.savefig(tmp_path, dpi=300, transparent=True, bbox_inches='tight', pad_inches=0.02)
-            plt.close(fig)
-
-            # Determine rendered image size in points
-            from PIL import Image
-            with Image.open(tmp_path) as im:
-                px_w, px_h = im.size
-                # At 300 dpi, points = pixels * 72 / 300
-                h_pt = px_h * 72.0 / 300.0
-                w_pt = px_w * 72.0 / 300.0
-                # Scale to fit avail_width if slight mismatch
-                scale = min(1.0, self.avail_width / max(w_pt, 1e-3))
-                h_pt *= scale
-            return (tmp_path, h_pt)
-        except Exception:
-            try:
-                plt.close('all')
-            except Exception:
-                pass
-            return None
 
 
 # ==============================================================================
