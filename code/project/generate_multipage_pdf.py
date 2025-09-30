@@ -8,7 +8,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import Paragraph
 from reportlab.lib.styles import ParagraphStyle
-from reportlab.lib.enums import TA_RIGHT, TA_LEFT
+from reportlab.lib.enums import TA_RIGHT, TA_LEFT, TA_JUSTIFY
 
 # ==============================================================================
 # --- CONFIGURATION (No changes here) ---
@@ -17,12 +17,17 @@ from reportlab.lib.enums import TA_RIGHT, TA_LEFT
 # --- Folders & Output ---
 HEADER_FOLDER = "headers"
 QNA_FOLDER = "qna"
+SHORTS_FOLDER = "shorts"
 OUTPUT_FILENAME = "multipage_document_final.pdf"
+WATERMARK_PATH = "logo.png"
+WATERMARK_ALPHA = 0.10  # 0..1 transparency; lower is lighter
+WATERMARK_REL_WIDTH = 0.45  # fraction of usable page width
 
 # --- Static Page Content ---
 FOOTER_CENTER_TEXT = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
 FOOTER_RIGHT_TEXT = "https://dbggurukulam.com"
 SECTION_HEADING_TEXT = "Quick revision: One-liner questions and answers"
+EVEN_SECTION_HEADING_TEXT = "Important questions and answers"
 
 # A fixed, explicit PDF document title to show in viewer tabs (e.g., Chrome)
 DOCUMENT_TITLE = "Quick Revision – One-liner Q&A | Shri Classes & DBG Gurukulam"
@@ -219,6 +224,59 @@ class LayoutItem:
                 self.p_a.drawOn(self.c, x_text, y_answer_bottom)
 
 
+class ShortLayoutItem:
+    """Simplified layout for shorts (even pages):
+    - Number and Question on one block (question may wrap)
+    - Next line: "Answer: <answer>" left-aligned
+    """
+    def __init__(self, c, num_part, q_text, a_text, avail_width):
+        self.c = c
+        self.num_part = num_part
+        self.q_text = q_text
+        self.a_text = a_text or ""
+        self.avail_width = avail_width
+        self.height = 0
+        self.h_q = 0
+        self.h_a = 0
+        self.p_q = None
+        self.p_a = None
+        self._calculate()
+
+    def _calculate(self):
+        # Even pages: Question in bold (not italic); Answer label in bold, answer text regular
+        # Use Helvetica families and justify both blocks to distribute text evenly between margins
+        question_style = ParagraphStyle(
+            name='ShortsQ', fontName="Helvetica-Bold", fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_JUSTIFY
+        )
+        answer_style = ParagraphStyle(
+            name='ShortsA', fontName="Helvetica", fontSize=QA_FONT_SIZE, leading=QA_LEADING, alignment=TA_JUSTIFY
+        )
+
+        self.p_q = Paragraph(self.q_text, question_style)
+        _, self.h_q = self.p_q.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+
+        a_text_only = self.a_text.strip()
+        a_full = f"<b>Answer:</b> {a_text_only}" if a_text_only else "<b>Answer:</b>"
+        self.p_a = Paragraph(a_full, answer_style)
+        _, self.h_a = self.p_a.wrapOn(self.c, self.avail_width, PAGE_HEIGHT)
+
+        self.height = self.h_q + LINE_GAP_BETWEEN_ITEMS + self.h_a
+
+    def draw(self, x_num, x_text, y_top):
+        # Number baseline aligns with first line of question
+        num_baseline = y_top - QA_LEADING
+        self.c.setFont(NIRMALA_FACE, QA_FONT_SIZE)
+        self.c.drawString(x_num, num_baseline, self.num_part)
+
+        # Question block
+        y_q_bottom = y_top - self.h_q
+        self.p_q.drawOn(self.c, x_text, y_q_bottom)
+
+        # Answer block left-aligned on next line
+        y_a_bottom = y_q_bottom - LINE_GAP_BETWEEN_ITEMS - self.h_a
+        self.p_a.drawOn(self.c, x_text, y_a_bottom)
+
+
 # ==============================================================================
 # --- PDF GENERATOR CLASS (No changes here) ---
 # ==============================================================================
@@ -249,22 +307,32 @@ class PdfGenerator:
             except Exception as e: print(f"Font register error for {ttf_path}: {e}")
         return False
 
-    def draw_page(self, page_number, header_image_path, qna_data):
+    def draw_page(self, page_number, header_image_path, qna_data, section_heading_text: str, *, use_header_image: bool, layout_mode: str):
         self.c.setFillColorRGB(*PAGE_BG_RGB)
         self.c.rect(0, 0, PAGE_WIDTH, PAGE_HEIGHT, fill=1, stroke=0)
+        # Draw centered watermark behind all content
+        self._draw_watermark()
         header_y = PAGE_HEIGHT - MARGIN - HEADER_HEIGHT
-        if os.path.isfile(header_image_path):
-            self.c.drawImage(header_image_path, MARGIN, header_y, width=USABLE_WIDTH, height=HEADER_HEIGHT, preserveAspectRatio=True)
+        if layout_mode == 'odd' and use_header_image:
+            if os.path.isfile(header_image_path):
+                self.c.drawImage(header_image_path, MARGIN, header_y, width=USABLE_WIDTH, height=HEADER_HEIGHT, preserveAspectRatio=True)
+            else:
+                print(f"Warning: Header image not found at '{header_image_path}'")
+                self.c.setStrokeColorRGB(0.6,0.6,0.6); self.c.rect(MARGIN, header_y, USABLE_WIDTH, HEADER_HEIGHT)
+
+        # Section heading and rule
+        if layout_mode == 'even':
+            # Apply similar distancing on even pages: start from top margin
+            # then offset by HEADER_TO_HEADING before the heading text
+            heading_y = PAGE_HEIGHT - MARGIN - HEADER_TO_HEADING
         else:
-            print(f"Warning: Header image not found at '{header_image_path}'")
-            self.c.setStrokeColorRGB(0.6,0.6,0.6); self.c.rect(MARGIN, header_y, USABLE_WIDTH, HEADER_HEIGHT)
-        heading_y = header_y - HEADER_TO_HEADING
+            heading_y = header_y - HEADER_TO_HEADING
         self.c.setFont(ALG_FACE, HEADING_FONT_SIZE); self.c.setFillColorRGB(0,0,0)
-        self.c.drawString(MARGIN, heading_y, SECTION_HEADING_TEXT.upper())
+        self.c.drawString(MARGIN, heading_y, section_heading_text.upper())
         hr_y = heading_y - HEADING_TO_HR
         self.c.setStrokeColorRGB(*HR_COLOR); self.c.setLineWidth(HR_THICKNESS_PT)
         self.c.line(MARGIN, hr_y, PAGE_WIDTH - MARGIN, hr_y)
-        self._draw_qna_columns(hr_y - HR_TO_QA, qna_data)
+        self._draw_qna_columns(hr_y - HR_TO_QA, qna_data, layout_mode)
         footer_text_y = FOOTER_SECTION_HEIGHT - (0.12 * cm)
         footer_left_text = f"Page {page_number} of {self.total_pages}"
         self.c.setFont(BADONI_FACE, FOOTER_FONT_SIZE); self.c.setFillColorRGB(0,0,0)
@@ -274,7 +342,32 @@ class PdfGenerator:
         self.c.showPage()
         print(f"Successfully generated Page {page_number}.")
 
-    def _draw_qna_columns(self, start_y, qna_items):
+    def _draw_watermark(self):
+        try:
+            wm_path = WATERMARK_PATH
+            if not os.path.isfile(wm_path):
+                return
+            # Target width as a fraction of usable width; keep aspect ratio
+            target_w = USABLE_WIDTH * WATERMARK_REL_WIDTH
+            target_h = target_w  # square-ish; preserveAspectRatio will keep real aspect
+            x = (PAGE_WIDTH - target_w) / 2.0
+            y = (PAGE_HEIGHT - target_h) / 2.0
+            self.c.saveState()
+            # Attempt to set transparency if supported
+            try:
+                if hasattr(self.c, 'setFillAlpha'):
+                    self.c.setFillAlpha(WATERMARK_ALPHA)
+                    if hasattr(self.c, 'setStrokeAlpha'):
+                        self.c.setStrokeAlpha(WATERMARK_ALPHA)
+            except Exception:
+                pass
+            self.c.drawImage(wm_path, x, y, width=target_w, height=target_h, preserveAspectRatio=True, mask='auto')
+            self.c.restoreState()
+        except Exception:
+            # Watermark is non-critical; ignore errors silently
+            pass
+
+    def _draw_qna_columns(self, start_y, qna_items, layout_mode: str):
         current_y = [start_y, start_y]
         col_x_starts = [MARGIN, MARGIN + COL_WIDTH + COL_SPACING]
         bottom_limit = FOOTER_SECTION_HEIGHT + (0.60 * cm)
@@ -286,11 +379,18 @@ class PdfGenerator:
             q_text = item_data.get("q", "Missing question").strip()
             a_raw = item_data.get("a", "")
             num_part = f"{question_number_counter}."
-            a_text = f"- {a_raw.strip()}" if a_raw else ""
+            if layout_mode == 'odd':
+                a_text = f"- {a_raw.strip()}" if a_raw else ""
+            else:
+                # shorts/even pages use plain answer text; prefix handled in layout
+                a_text = a_raw.strip()
             
             # This is the available width for the text paragraph itself
             avail_width = COL_WIDTH - TEXT_START_INSIDE_COL
-            item = LayoutItem(self.c, num_part, q_text, a_text, avail_width)
+            if layout_mode == 'odd':
+                item = LayoutItem(self.c, num_part, q_text, a_text, avail_width)
+            else:
+                item = ShortLayoutItem(self.c, num_part, q_text, a_text, avail_width)
             
             needed_h = item.height + LINE_GAP_BETWEEN_ITEMS
             if current_y[col] - needed_h < bottom_limit:
@@ -336,7 +436,8 @@ def main():
             [f for f in os.listdir(HEADER_FOLDER) if f.lower().endswith(('.png', '.jpg', '.jpeg'))],
             key=_numeric_key
         )
-        num_pages = len(header_files)
+        # We generate FRONT (odd) and BACK (even) for each header -> total pages = 2x headers
+        num_pages = len(header_files) * 2
     except OSError as e:
         print(f"Error reading header directory '{HEADER_FOLDER}': {e}"); return
     if num_pages == 0:
@@ -345,24 +446,66 @@ def main():
         # Use a fixed, predefined document title (no JSON inference)
         pdf = PdfGenerator(OUTPUT_FILENAME, num_pages, DOCUMENT_TITLE)
         for i, header_filename in enumerate(header_files, 1):
-            page_number = i
             base_name = os.path.splitext(header_filename)[0]
             page_name = base_name.replace('header', 'page', 1)
-            qna_path = os.path.join(QNA_FOLDER, f"{page_name}.json")
             header_path = os.path.join(HEADER_FOLDER, header_filename)
-            if not os.path.isfile(qna_path):
-                print(f"Warning: Skipping page {page_number}. Q&A file '{qna_path}' not found."); continue
+
+            # 1) ODD page (front)
+            odd_page_number = 2 * i - 1
             try:
-                with open(qna_path, 'r', encoding='utf-8') as f:
-                    qna_data = json.load(f)
-                if not isinstance(qna_data, list):
-                    print(f"Error: JSON in '{qna_path}' is not a list. Skipping page."); continue
-                pdf.draw_page(page_number, header_path, qna_data)
-            except json.JSONDecodeError:
-                print(f"Error: Could not parse JSON from '{qna_path}'. Skipping page.")
+                qna_path_front = os.path.join(QNA_FOLDER, f"{page_name}.json")
+                if not os.path.isfile(qna_path_front):
+                    print(f"Warning: Skipping odd page {odd_page_number}. Q&A file '{qna_path_front}' not found.")
+                else:
+                    with open(qna_path_front, 'r', encoding='utf-8') as f:
+                        qna_data_front = json.load(f)
+                    if not isinstance(qna_data_front, list):
+                        print(f"Error: JSON in '{qna_path_front}' is not a list. Skipping odd page {odd_page_number}.")
+                    else:
+                        pdf.draw_page(odd_page_number, header_path, qna_data_front, SECTION_HEADING_TEXT, use_header_image=True, layout_mode='odd')
             except Exception as e:
                 import traceback
-                print(f"An unexpected error occurred while processing page {page_number}: {e}")
+                print(f"An unexpected error occurred while processing odd page {odd_page_number}: {e}")
+                traceback.print_exc()
+
+            # 2) EVEN page (back) for the same header/chapter
+            even_page_number = 2 * i
+            try:
+                # Try multiple common naming patterns for convenience, anchored to this FRONT index
+                candidates = [
+                    os.path.join(SHORTS_FOLDER, f"{page_name}.json"),            # derived from header name -> pageX.json
+                    os.path.join(SHORTS_FOLDER, f"page{odd_page_number}.json"),  # shorts aligned to the front page number
+                    os.path.join(SHORTS_FOLDER, f"page{even_page_number}.json"), # direct even page number
+                    os.path.join(SHORTS_FOLDER, f"ch{i}.json"),                  # chapter index i
+                    os.path.join(SHORTS_FOLDER, f"ch{odd_page_number}.json"),    # alternate mapping
+                ]
+                qna_path_back = next((p for p in candidates if os.path.isfile(p)), None)
+                if not qna_path_back:
+                    # Fallback: use ch1.json as a dummy for all shorts pages when missing
+                    fallback = os.path.join(SHORTS_FOLDER, "ch1.json")
+                    if os.path.isfile(fallback):
+                        print(
+                            f"Info: Using fallback '{os.path.basename(fallback)}' for even page {even_page_number} "
+                            f"(no matching shorts file found for patterns: {', '.join(os.path.basename(p) for p in candidates)})."
+                        )
+                        qna_path_back = fallback
+                    else:
+                        print(
+                            f"Warning: Skipping even page {even_page_number}. No shorts Q&A file found in '{SHORTS_FOLDER}' and fallback 'ch1.json' is missing."
+                        )
+                        continue
+
+                with open(qna_path_back, 'r', encoding='utf-8') as f:
+                    qna_data_back = json.load(f)
+                if not isinstance(qna_data_back, list):
+                    print(f"Error: JSON in '{qna_path_back}' is not a list. Skipping even page {even_page_number}.")
+                    continue
+                pdf.draw_page(even_page_number, header_path, qna_data_back, EVEN_SECTION_HEADING_TEXT, use_header_image=False, layout_mode='even')
+            except json.JSONDecodeError:
+                print(f"Error: Could not parse JSON from shorts for even page {even_page_number}.")
+            except Exception as e:
+                import traceback
+                print(f"An unexpected error occurred while processing even page {even_page_number}: {e}")
                 traceback.print_exc()
         pdf.save()
 
