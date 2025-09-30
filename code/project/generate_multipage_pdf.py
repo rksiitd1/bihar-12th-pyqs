@@ -24,6 +24,9 @@ FOOTER_CENTER_TEXT = "Shri Classes & DBG Gurukulam (by IITian Golu Sir)"
 FOOTER_RIGHT_TEXT = "https://dbggurukulam.com"
 SECTION_HEADING_TEXT = "Quick revision: One-liner questions and answers"
 
+# A fixed, explicit PDF document title to show in viewer tabs (e.g., Chrome)
+DOCUMENT_TITLE = "Quick Revision – One-liner Q&A | Shri Classes & DBG Gurukulam"
+
 # --- Fonts ---
 ALGERIAN_TTF = "Algerian.ttf"
 NIRMALA_TTF = "Nirmala.ttf"
@@ -45,9 +48,9 @@ COL_SPACING = 0.1 * cm
 assert abs((COL_WIDTH * 2 + COL_SPACING) - USABLE_WIDTH) < 1e-4, "Columns don't sum to usable width"
 
 HEADER_HEIGHT = USABLE_WIDTH * (400.0 / 1600.0)
-HEADER_TO_HEADING = 1.0 * cm
+HEADER_TO_HEADING = 0.8 * cm
 HEADING_TO_HR = 0.4 * cm
-HR_TO_QA = 0.4 * cm
+HR_TO_QA = 0.6 * cm
 
 # --- Typography & Colors ---
 QA_FONT_SIZE = 8
@@ -220,10 +223,17 @@ class LayoutItem:
 # --- PDF GENERATOR CLASS (No changes here) ---
 # ==============================================================================
 class PdfGenerator:
-    def __init__(self, output_filename, total_pages):
+    def __init__(self, output_filename, total_pages, doc_title: str | None = None):
         self.c = canvas.Canvas(output_filename, pagesize=A4)
         self.total_pages = total_pages
         self._register_fonts()
+        # Set a browser/tab title (PDF metadata Title) for viewers like Chrome
+        if doc_title:
+            try:
+                self.c.setTitle(doc_title)
+            except Exception:
+                # Fail silently if any environment does not support setting title
+                pass
 
     def _register_fonts(self):
         global ALG_FACE, NIRMALA_FACE, BADONI_FACE
@@ -332,7 +342,8 @@ def main():
     if num_pages == 0:
         print(f"No header images found in '{HEADER_FOLDER}'.")
     else:
-        pdf = PdfGenerator(OUTPUT_FILENAME, num_pages)
+        # Use a fixed, predefined document title (no JSON inference)
+        pdf = PdfGenerator(OUTPUT_FILENAME, num_pages, DOCUMENT_TITLE)
         for i, header_filename in enumerate(header_files, 1):
             page_number = i
             base_name = os.path.splitext(header_filename)[0]
