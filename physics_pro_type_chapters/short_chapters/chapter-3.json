@@ -1,0 +1,300 @@
+{
+  "2009": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.8",
+      "topic_name": "Temperature Dependence of Resistivity",
+      "question": "What is 'resistivity'? Write its SI unit. Show the variation of resistivity with the change in temperature for a typical semiconductor using a graph.",
+      "prashna": "'प्रतिरोधकता' क्या है? इसका SI मात्रक लिखें। किसी प्ररूपी अर्धचालक के लिए तापमान में परिवर्तन के साथ प्रतिरोधकता के बदलाव को ग्राफ द्वारा करें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Write the principle of a potentiometer. Draw the circuit diagram used for the comparative study of the electromotive force of two primary cells.",
+      "prashna": "विभवमापी के सिद्धांत को लिखें। दो प्राथमिक सेलों के विद्युतवाहक बल के तुलनात्मक अध्ययन हेतु प्रयुक्त परिपथ आरेख खींचिए ।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Why is the internal resistance of a storage cell low?",
+      "prashna": "संचायक सेल का आंतरिक प्रतिरोध क्यों कम होता है?"
+    }
+  ],
+  "2010": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "A wire of resistance $12\\Omega$ is stretched to double its length. Find the new resistance of the wire.",
+      "prashna": "एक $12\\Omega$ प्रतिरोध वाले तार को खींचकर उसकी लम्बाई दुगुनी कर दी जाती है, तो तार का नया प्रतिरोध निकालें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "What is the Seebeck effect?",
+      "prashna": "सीवेक प्रभाव क्या होता है?"
+    }
+  ],
+  "2011": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "Write the expression for resistivity for a conductor and explain each component of the expression.",
+      "prashna": "प्रतिरोधकता का व्यंजक किसी चालक के लिए लिखें तथा व्यंजक के प्रत्येक अवयव को समझाइए ।"
+    },
+    {
+      "id": "short_11_1",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Write and explain the Thomson effect or the Seebeck effect.",
+      "prashna": "थामसन या सीवेक प्रभाव को लिखें तथा समझाइए ।"
+    },
+    {
+      "id": "short_11_2",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Write the two factors on which the thermo-electric e.m.f. produced in a thermocouple depends.",
+      "prashna": "उन दो कारकों को लिखें जिसपर तापयुग्मी में उत्पन्न ताप विद्युत वाहक बल निर्भर करता है।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Find the value of 'i' in the given circuit.",
+      "prashna": "दिए गए परिपथ में 'i' का मान ज्ञात करें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Write two special characteristics of a fuse wire.",
+      "prashna": "फ्यूज तार के दो विशेष अभिलक्षण लिखें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "The length of a wire with resistivity $\\rho$ is doubled. What will be the new resistivity of the wire?",
+      "prashna": "$\\rho$ प्रतिरोधकता वाले तार की लंबाई दुगनी कर दी गयी है। तार की नयी प्रतिरोधकता क्या होगी ?"
+    },
+    {
+      "id": "short_33",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "In the given circuit, find the potential at points $X_1$ and $X_2$.",
+      "prashna": "दिखाए गए परिपथ में बिन्दुओं $X_1$ तथा $X_2$ पर विभव ज्ञात करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.11",
+      "topic_name": "Cells in Series and in Parallel",
+      "question": "If two resistors are connected in series, their equivalent resistance is $16\\Omega$. If the same two resistors are connected in parallel, the equivalent resistance is $3\\Omega$. Find their individual resistances.",
+      "prashna": "यदि दो प्रतिरोध श्रेणीक्रम में जोड़े जाते हैं तो उनका तुल्य प्रतिरोध $16\\Omega$ है। यदि उन्हीं दो प्रतिरोधों को समानांतर क्रम में जोड़ा जाता है तो तुल्य प्रतिरोध $3\\Omega$ होता है। उनका अलग-अलग प्रतिरोध निकालें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Write Kirchhoff's two laws for an electrical network.",
+      "prashna": "विद्युतीय नेटवर्क के लिए किरचॉफ के दोनों नियम लिखें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "A wire of resistance $16\\Omega$ is stretched to double its length. Find the new resistance of the wire.",
+      "prashna": "एक $16\\Omega$ प्रतिरोध वाले तार को खींचकर उसकी लंबाई दुगुनी कर दी जाती है तो तार का नया प्रतिरोध निकालें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "What is Peltier effect?",
+      "prashna": "पेल्टियर प्रभाव क्या है ?"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Explain that Kirchhoff's second law is the law of conservation of energy.",
+      "prashna": "समझाएँ कि किरचॉफ का द्वितीय नियम ऊर्जा संरक्षण का नियम है।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "A bulb rated 100 watt, 220V is connected to a 240V supply. Calculate the power loss.",
+      "prashna": "100 watt, 220v रेटिंग का बल्व 240 V के साथ जोड़ा जाता है। विद्युत शक्ति क्षय की गणना करे।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Four $12\\Omega$ resistances are connected in parallel. Three such combinations are connected in series. What will be the total resistance?",
+      "prashna": "$12$ ओम के चार प्रतिरोधकों को समानान्तर क्रम में जोड़ा जाता है। इस प्रकार के तीन संयोजनों को श्रेणी क्रम में जोड़ा जाता है। कुल प्रतिरोध कितना होगा?"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "Using theory of drift velocity, express Ohm's law.",
+      "prashna": "संवहन वेग के सिद्धान्त का प्रयोग करते हुए ओम का नियम व्युत्पन्न करें।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Two resistors of resistance ratio 3:4 are connected in parallel. Compare the magnitude of heat produced in them.",
+      "prashna": "3:4 के अनुपात में दो प्रतिरोध समानान्तर क्रम में जुड़े हैं। इनमें उत्पन्न ऊष्मा के परिमाणों की तुलना करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Write down two uses of potentiometer.",
+      "prashna": "विभवमापी के दो उपयोगों को लिखें।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.4",
+      "topic_name": "Ohm’s law",
+      "question": "Explain parallel grouping of resistors.",
+      "prashna": "प्रतिरोधकों के समांतर क्रम के संयोजन को समझायें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "Write colour code of carbon resistance for orange and yellow colours.",
+      "prashna": "नारंगी और पीला रंगों के लिए कार्बन प्रतिरोध का कलर कोड लिखें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "What is current density ? Discuss.",
+      "prashna": "धारा घनत्व क्या है ? विवेचना करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.6",
+      "topic_name": "Limitations of Ohm’s Law",
+      "question": "What are ohmic and non-ohmic resistances? Write down one example of both.",
+      "prashna": "ओमीय एवं अन-ओमीय प्रतिरोध क्या होते हैं? दोनों का एक-एक उदाहरण दीजिए।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.11",
+      "topic_name": "Cells in Series and in Parallel",
+      "question": "Describe advantage and disadvantage grouping of cells in Parallel.",
+      "prashna": "सेलों के समांतर क्रम में जोडने का लाभ–एवं हानि बताएँ।"
+    }
+  ]
+}

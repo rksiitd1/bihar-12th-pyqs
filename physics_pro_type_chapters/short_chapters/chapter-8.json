@@ -1,0 +1,302 @@
+{
+  "2009": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "The height of a transmitting antenna on top of a building is 64 meters and the height of the receiving antenna is 81 meters. For 'line-of-sight' acceptable transmission, find the maximum distance between the two antennas. (Radius of Earth 6400 km)",
+      "prashna": "किसी भवन के शीर्ष पर लगे सम्प्रेषण एंटीना की ऊँचाई 64 मीटर है तथा ग्राही एंटीना की ऊँचाई 81 मीटर है। 'दिष्ट प्रणाली' में स्वीकार्य संप्रेषण हेतु दोनों एंटीना के बीच की महत्तम दूरी बताइए। (पृथ्वी की त्रिज्या 6400 किलोमीटर)"
+    }
+  ],
+  "2010": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain any two of the following-",
+      "prashna": "निम्नलिखित में से किन्हीं दो की व्याख्या करें-",
+      "sub_questions": {
+        "(i)": "Ground waves",
+        "(ii)": "Sky waves",
+        "(iii)": "Space waves"
+      },
+      "anuprashna": {
+        "(i)": "भू-तरंगें",
+        "(ii)": "व्योम तरंगें",
+        "(iii)": "आकाशीय तरंगें"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain the following-",
+      "prashna": "निम्न की व्याख्या करें-",
+      "sub_questions": {
+        "(i)": "Www",
+        "(ii)": "Fax"
+      },
+      "anuprashna": {
+        "(i)": "Www",
+        "(ii)": "Fax"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Write the expressions for the electric energy density and magnetic energy density associated with an electromagnetic wave and show that their ratio is 1.",
+      "prashna": "किसी विद्युत-चुम्बकीय क्षेत्र तरंग से जुड़े वैद्युत ऊर्जा घनत्व एवं चुम्बकीय ऊर्जा घनत्व का व्यंजक लिखें तथा दर्शाइए कि उनका अनुपात 1 होता है।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "State any two points to increase the transmission range of a T.V. signal.",
+      "prashna": "टी.वी. संकेत के प्रेषण सीमा को बढ़ाने के लिए किन्हीं दो बिन्दुओं को व्यक्त करें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Write any two properties of X-rays.",
+      "prashna": "X-किरणों के किन्हीं दो गुणों को लिखे।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "What is the ionosphere?",
+      "prashna": "आयनमंडल क्या है ?"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "In an electromagnetic wave, between the magnetic field vector $\\vec{B}$ and the electric field vector $\\vec{E}$, which is more effective and why?",
+      "prashna": "विद्युत चुंबकीय तरंग में चुंबकीय क्षेत्र सदिश $\\vec{B}$ एवं विद्युत क्षेत्र सदिश $\\vec{E}$ में कौन ज्यादा प्रभावी होता है एवं क्यों ?"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "What are baseband, bandwidth, and fading?",
+      "prashna": "आधार बैंड, बैंड की चौड़ाई और फेडिंग क्या होते हैं?"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The maximum amplitude of an amplitude-modulated wave is found to be 10 V and the minimum amplitude is 2 V. Determine the value of the modulation index $\\mu$.",
+      "prashna": "किसी आयाम मॉडुलित तरंग का अधिकतम आयाम 10 V तथा न्यूनतम आयाम 2 V पाया जाता है। मॉडुलन सूचकांक $\\mu$ का मान निश्चित कीजिए।"
+    },
+    {
+      "id": "short_32",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Mention three different modes used for transmission in a communication system.",
+      "prashna": "संचार प्रणाली में संचरण के लिए प्रयुक्त तीन विभिन्न विधाओं का उल्लेख कीजिए।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Define modulation. Write its types.",
+      "prashna": "मॉडुलन को परिभाषित करें। इसके प्रकारों को लिखें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Write any two properties of X-rays.",
+      "prashna": "X-किरणों के किन्हीं दो गुणों को लिखें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain sky waves and space waves.",
+      "prashna": "व्योम तरंगों तथा आकाशीय तरंगों की व्याख्या करे।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain modulation and state its types.",
+      "prashna": "मॉडुलेशन समझाएँ और इसके प्रकार बताएँ ।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Write down two properties of electromagnetic wave.",
+      "prashna": "विद्युत - चुंबकीय तरंग के दो गुणों को लिखें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Define modulation. Write its types.",
+      "prashna": "माडुलन को परिभाषित करें। इसके प्रकारों को लिखें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "What will be the wavelength for transmission of 500 MHz wave from a television centre?",
+      "prashna": "दूरदर्शन केन्द्र से प्रसारित होने वाले 500MHz के तरंग की तरंगदैर्ध्य क्या होगी ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Explain frequency modulation.",
+      "prashna": "आवृत्ति मॉडुलन को समझायें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "What is electromagnetic wave ?",
+      "prashna": "विद्युत चुम्बकीय तरंग क्या है ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Define modulation. Write its types.",
+      "prashna": "माडुलन को परिभाषित करें। इसके प्रकारों को लिखें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "What is electromagnetic wave? On which factors does its velocity in vacuum depend?",
+      "prashna": "विद्युत चुम्बकीय तरंगें क्या हैं? निर्वात में इनका वेग किन कारकों पर निर्भर करता है?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain www and Fax.",
+      "prashna": "www तथा Fax की व्याख्या करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "What is the ratio of speeds of infrared rays and ultraviolet rays in vacuum?",
+      "prashna": "निर्वात में अवरक्त किरणों और पराबैंगनी किरणों की चालों का अनुपात क्या होता है?"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.1",
+      "topic_name": "Introduction",
+      "question": "What is Fax? How does it send documents?",
+      "prashna": "फैक्स क्या है? यह दस्तावेज का प्रेषण कैसे करता है?"
+    }
+  ]
+}

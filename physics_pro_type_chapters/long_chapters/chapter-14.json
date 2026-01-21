@@ -1,0 +1,152 @@
+{
+  "2010": [
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "What are energy bands in solids? How are semiconductors, insulators, and conductors classified on the basis of band theory?",
+      "prashna": "ठोसों में ऊर्जा-पट्टी क्या हैं? किस प्रकार पट्टी- सिद्धान्त के आधार पर अर्धचालक, कुचालक व चालक को वर्गीकृत किया जाता है?"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "What is a Zener diode? Explain its use as a voltage regulator.",
+      "prashna": "जेनर डायोड क्या है? वोल्टता नियंत्रक के रूप में इसके उपयोग की व्याख्या करें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "Explain the band theory of solids. On its basis, how are solids classified into conductors, insulators, and semiconductors? Write.",
+      "prashna": "ठोसों के बैण्ड सिद्धांत को समझाइए। इसके आधार पर सुचालक, अचालक तथा अर्धचालक में ठोसों का वर्गीकरण कैसे होता है? लिखें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "A p-n junction is a valve. Explain.\nIn the band structure of a p-type semiconductor, the acceptor energy level is 57 MeV above the valence band. Calculate the maximum wavelength of light that can create a hole. (h = $4.14 \\times 10^{-15}$ eVs, c = $3 \\times 10^8 \\text{ ms}^{-1}$)",
+      "prashna": "p-n जंक्शन एक वाल्व है। व्याख्या करें।\nएक p-टाइप अर्धचालक को बैंड संरचना में संयोजकता बैंड से 57 MeV ऊपर ग्राही ऊर्जा स्तर है। प्रकाश की उस महत्तम तरंग लंबाई की गणना करें, जो एक ग्राही रिक्ति (होल) बना सकेगा। (h = $4.14 \\times 10^{-15}$ eVs, c = $3 \\times 10^8 \\text{ ms}^{-1}$)"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "State the principle of using a transistor as an oscillator circuit. Show with a circuit diagram how feedback amplification occurs through an inductive-capacitive circuit. Explain the operation of the oscillator.",
+      "prashna": "दोलित्र परिपथ के रूप में ट्रांजिस्टर के इस्तेमाल का सिद्धांत बताइए। परिपथ चित्रण के माध्यम से दिखाइए कि प्रेरणिक संधारित्र द्वारा पुनर्भरण प्रवर्धन किस प्रकार होता है। दोलित्र की संक्रिया स्पष्ट करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "What is a rectifier? How is a p-n junction diode used in (i) forward bias and (ii) reverse bias configuration? Show the current-voltage characteristics of a p-n junction diode on a graph.",
+      "prashna": "दिष्टकारी क्या है ? p-n संधि डायोड को ( i) अग्र वायस अभिलक्षण (ii) पश्च वायस अभिलक्षण में कैसे प्रयोग किया जाता है ? p-n संधि डायोड के धारा- विभव अभिलक्षण को ग्राफ पर दर्शाइए।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "Explain -",
+      "prashna": "समझाएँ -",
+      "sub_questions": {
+        "1": "Zener diode",
+        "2": "Light Emitting Diode (LED)"
+      },
+      "anuprashna": {
+        "1": "जेनर डायोड",
+        "2": "लाईट एमीटींग डायोड (LED)"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_18_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "What are Energy Bands? How are these formed? Distinguish between Conductors, Semiconductors and Insulators on the basis of Formation of these bands.",
+      "prashna": "ऊर्जा पट्टी क्या हैं? ये कैसे बनती हैं? चालक, अर्धचालक तथा अचालक को ऊर्जा पट्टियों की संरचना के आधार पर स्पष्ट कीजिए।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "Explain with the help of a labelled diagram the working of a transistor as an oscillator.",
+      "prashna": "एक ट्रांजिस्टर की दोलित्र के रूप में क्रिया का सचित्र वर्णन करे।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "Explain the working of P-N junction diode. Draw the circuit of full wave rectifier and explain its working.",
+      "prashna": "P-N जंक्शन डायोड की क्रिया समझाएँ पूर्ण तरंग दिष्टकारी का परिपथ खींचें एवं इसकी क्रिया समझाएँ।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "Describe with diagram the working method of p-n-p and n-p-n transistors.",
+      "prashna": "p-n-p तथा n-p-n ट्रांजिस्टरों की कार्यविधि का सचित्र वर्णन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "What is a Semiconductor? What do you understand from P-type and N-type semi-conductors?",
+      "prashna": "अर्द्ध चालक क्या है? P-प्रकार तथा N-प्रकार अर्द्धचालकों से क्या समझते हैं?"
+    }
+  ]
+}

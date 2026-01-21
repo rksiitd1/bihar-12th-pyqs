@@ -1,0 +1,1256 @@
+{
+  "2009": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.4",
+      "topic_name": "Potential due to an Electric Dipole",
+      "question": "Find the electric potential and electric field due to an electric dipole using the differential relation between field and potential.",
+      "prashna": "किसी विद्युतीय द्विध्रुव के कारण क्षेत्र एवं विभव के बीच अवकल संबंध द्वारा विद्युत विभव एवं विद्युत क्षेत्र ज्ञात करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.14",
+      "topic_name": "Applications of Gauss’s Law",
+      "question": "State Gauss's law. With its help, derive an expression for the intensity of the electric field at a point due to an infinitely long, uniformly charged thin straight wire.",
+      "prashna": "गॉस के नियम को लिखें। इसकी सहायता से किसी अनन्त विस्तारिक समरूप आवेशित पतले आवेशित सीधे तार के कारण किसी बिन्दु पर विद्युत क्षेत्र की तीव्रता के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Describe a deflection magnetometer. How would you compare the magnetic moments of two given magnets with its help?",
+      "prashna": "विक्षेप चुम्बकत्वमापी का वर्णन करें। इसकी मदद से आप कैसे दो दिए गए चुम्बकों के चुम्बकीय आघूर्ण की तुलना करेंगे?"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "Explain the principle and working of a moving coil galvanometer. Derive an expression for its current sensitivity.",
+        "b": "Compare a moving coil galvanometer and a moving magnet galvanometer."
+      },
+      "anuprashna": {
+        "a": "चल कुण्डली गैल्वेनोमीटर के सिद्धान्त एवं क्रियाविधि समझाइए । धारा सुग्राहिता के लिए व्यंजक प्राप्त करें।",
+        "b": "चल कुण्डली गैल्वेनोमीटर तथा चल चुम्बक गैल्वेनोमीटर की तुलना"
+      }
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With the help of a ray diagram, explain the formation of an image by a compound microscope or an astronomical telescope. Derive an expression for the magnifying power of your instrument and state its uses.",
+      "prashna": "किरण-चित्र की मदद से एक संयुक्त सूक्ष्मदर्शी या खगोलीय दूरबीन द्वारा प्रतिबिम्ब रचना को समझाइए। आपके यंत्र की आवर्धन क्षमता के लिए व्यंजक निकालें तथा उसके उपयोगों को बताइए।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "Explain the structure of a nuclear reactor in detail.",
+      "prashna": "किसी नाभिकीय रिएक्टर की संरचना की विस्तार से व्याख्या करें।"
+    }
+  ],
+  "2010": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.15",
+      "topic_name": "Energy Stored in a Capacitor",
+      "question": "Define capacitance and write its SI unit. Prove that the electrostatic energy stored in a parallel plate capacitor is $1/2 CV^2$. Based on this, derive the expression for the energy density of the electric field within the capacitor.",
+      "prashna": "धारिता को परिभाषित करें तथा उसका SI मात्रक लिखें। सिद्ध करें कि एक समानान्तर प्लेट संधारित्र में स्थिर वैद्युत ऊर्जा $1/2 CV^2$ होती है। इसके आधार पर, संधारित्र के प्लेटों के बीच विद्युतीय क्षेत्र में ऊर्जा घनत्व का व्यंजक ज्ञात करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.12",
+      "topic_name": "The Parallel Plate Capacitor",
+      "question": "Derive an expression for the capacitance of a parallel plate capacitor. If a composite dielectric medium is inserted between the plates of the capacitor, how does the capacitance of the capacitor change?",
+      "prashna": "एक समान्तर प्लेटवाले संधारित्र की धारिता का व्यंजक प्राप्त करें। यदि संधारित्र के प्लेटों के बीच संयुक्त परावैद्युतिक माध्यम डाला जाये तो संधारित्र की धारिता किस प्रकार परिवर्तित हो जाती है ?"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Draw a ray diagram for the refraction of light through a glass prism. Establish the formula used to find the refractive index of the material of the prism.",
+      "prashna": "काँच प्रिज्म से प्रकाश के अपवर्तन का किरण आरेख खींचें। प्रिज्म के पदार्थ का अपवर्तनांक ज्ञात करने के लिए प्रयुक्त सूत्र को स्थापित करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "What do you understand by an equivalent lens? A system of two lenses is placed at some distance from each other, then derive the expression for the equivalent focal length for this system.",
+        "(ii)": "A lens enclosed by two curved surfaces with radii of curvature $R_1$ and $R_2$ is placed as shown in the figure. Prove that $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$."
+      },
+      "anuprashna": {
+        "(i)": "समतुल्य लेंस से आप क्या समझते हैं? दो लेंसों के निकाय को कुछ दूरी पर रखा गया है, तो इस निकाय के लिए समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।",
+        "(ii)": "$R_1$ तथा $R_2$ वक्रता त्रिज्या वाली दो वक्र सतहों से घिरे एक लेंस निम्न प्रदर्शित चित्र के अनुरूप रखा गया है। सिद्ध करें कि $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$।"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "Explain the behavior of a current-carrying loop as a magnetic dipole.",
+        "(ii)": "Find the force and torque acting on a magnet placed in a uniform external magnetic field. Also, calculate the work done in rotating the magnet freely in the magnetic field."
+      },
+      "anuprashna": {
+        "(i)": "किसी धारावाही लूप के चुंबकीय द्विध्रुव के तरह व्यवहार को समझाएँ।",
+        "(ii)": "किसी समरूप वाह्य चुंबकीय क्षेत्र रखे चुंबक पर लगने वाले बल एवं आघूर्ण को ज्ञात करें। साथ ही चुंबकीय क्षेत्र में चुंबक को स्वेच्छ रूप से घुमाने के लिए किए गए कार्य की गणना करें।"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.3",
+      "topic_name": "Motion in a Magnetic Field",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "An electron has a velocity $\\vec{v} = 2\\hat{i} + 3\\hat{j}$. It is released in a uniform magnetic field $\\vec{B} = 4\\hat{k}$. Calculate the time period of the electron's motion.",
+        "(ii)": "Without finding the moment of inertia, how can the magnetic moments of two bar magnets be compared?"
+      },
+      "anuprashna": {
+        "(i)": "एक इलेक्ट्रॉन का वेग $\\vec{v} = 2\\hat{i} + 3\\hat{j}$ है। इसे समरूप चुंबकीय क्षेत्र $\\vec{B} = 4\\hat{k}$ में छोड़ा जाता है, तो इलेक्ट्रॉन के गति के आवर्तकाल की गणना करें।",
+        "(ii)": "बिना जड़त्व आघूर्ण ज्ञात किए हुए किस प्रकार दो दण्ड चुंबकों के चुंबकीय आघूर्ण की तुलना की जा सकती है।"
+      }
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "State Bohr's postulates to explain the spectra of hydrogen-like atoms and derive an expression for the total energy of an electron revolving in the nth stationary orbit of an atom.",
+      "prashna": "हाइड्रोजन समान परमाणुओं के स्पेक्ट्रा की व्याख्या के लिए बोर की मान्यताओं को बताइए तथा किसी परमाणु की n स्थायी कक्षा में घूमने वाले इलेक्ट्रॉन की कुल ऊर्जा का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "What are energy bands in solids? How are semiconductors, insulators, and conductors classified on the basis of band theory?",
+      "prashna": "ठोसों में ऊर्जा-पट्टी क्या हैं? किस प्रकार पट्टी- सिद्धान्त के आधार पर अर्धचालक, कुचालक व चालक को वर्गीकृत किया जाता है?"
+    }
+  ],
+  "2011": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.9",
+      "topic_name": "Electrostatics of Conductors",
+      "question": "Explain the construction and working principle of a Van de Graaff generator with its theory.",
+      "prashna": "सिद्धांत सहित किसी वान-डे-ग्राफ जनित्र की बनावट एवं क्रिया पद्धति की व्याख्या करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.5",
+      "topic_name": "Coulomb’s Law",
+      "question": "Two pith-balls, each of mass 0.2 gram, are suspended by two silk threads of length 50 cm each. Each ball is given an equal charge of the same nature. If they become stationary after repulsion at a distance of 4 cm, calculate the charge on each ball.",
+      "prashna": "दो मज्जा-गुटिकाओं, जिनमें प्रत्येक का द्रव्यमान 0.2 ग्राम है, को प्रत्येक 50 सेमी के दो रेशम-धागे से लटकाया जाता है। प्रत्येक गुटिका को समान प्रकृति का बराबर-बराबर परिमाप का आवेश दिया जाता है। यदि ये गुटिका 4 सेमी की दूरी पर विकर्षण के बाद स्थिर हो जाते हैं, तो प्रत्येक गुटिका पर आवेश की गणना करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "Define the peak value and root-mean-square value of an alternating current. Establish the relationship between them and also derive the expression for the root-mean-square value.",
+      "prashna": "प्रत्यावर्ती धारा उसका महत्तम मान तथा वर्ग -माध्य मूल मान को परिभाषित करें। इनके बीच संबंध स्थापित करें तथा वर्ग-माध्य मूल मान का व्यंजक भी प्राप्त करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.4",
+      "topic_name": "Faraday’s Law of Induction",
+      "question": "Define eddy currents. How are they produced? How are eddy currents undesirable in a transformer and how can they be minimized in a device?",
+      "prashna": "भँवर धारा को परिभाषित करें। ये कैसे उत्पन्न होती है? भँवर धाराएँ किसी ट्रांसफार्मर में कैसे अनावश्यक हैं तथा इसे किसी यंत्र में कैसे कम किया जा सकता है ?"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Explain Huygens' wave theory and on its basis, establish the law of refraction or reflection.",
+      "prashna": "हाइगेंस के तरंग सिद्धांत को समझाइए तथा इसके आधार पर अपवर्तन या परावर्तन के नियम को स्थापित कर दिखाइए।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "A compound microscope has an objective lens with focal length $f_o = 2$ cm and an eyepiece with focal length $f_e = 6.25$ cm. The distance between the two lenses is $d = 15$ cm. Where should the object be placed in front of the objective so that the final image formed by the compound microscope is at (i) the least distance of distinct vision $D = 25$ cm, and (ii) at infinity? Also, calculate the magnifying power in both cases.",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी $f_o$ एवं $f_e$ क्रमशः 2 सेमी तथा 6.25 सेमी के लगे हैं तथा दोनों लेंसों के बीच की दूरी $d = 15$ सेमी है। अभिदृश्यक के सामने वस्तु को कहाँ रखा जाए कि संयुक्त सूक्ष्मदर्शी से बनने वाला अंतिम प्रतिबिंब (i) स्पष्ट देखने की न्यूनतम दूरी $D = 25$ सेमी तथा (ii) अनन्त पर हो ? दोनों अवस्थाओं में आवर्धन क्षमता की भी गणना करें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "If the work function of a metal is 2.14 eV, then calculate -",
+      "prashna": "यदि किसी धातु का कार्य फलन 2.14 eV है, तो परिकलन कीजिए -",
+      "sub_questions": {
+        "i": "The threshold frequency of the metal",
+        "ii": "The wavelength of the incident light, if the ejected electron with maximum kinetic energy is stopped by a stopping potential of 0.60 V."
+      },
+      "anuprashna": {
+        "i": "धातु की देहल आवृत्ति",
+        "ii": "आपतित प्रकाश का तरंगदैर्ध्य, यदि महत्तम गतिज ऊर्जा से निष्कासित इलेक्ट्रॉन को 0.60 V की निरोधी वोल्टता लगाकर रोका जाता है।"
+      }
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "Explain photoelectric emission. What are the laws of the photoelectric effect? State the explanation given by Einstein for it.",
+      "prashna": "प्रकाश-वैद्युत उत्सर्जन को समझाइए । प्रकाश-वैद्युत प्रभाव के नियम क्या-क्या हैं? आइंस्टीन द्वारा की गई इसकी व्याख्या को बताइए।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.13",
+      "topic_name": "Gauss’s Law",
+      "question": "Define electric flux. State and prove Gauss's theorem.",
+      "prashna": "विद्युतीय फ्लक्स को परिभाषित करें। गॉस के प्रमेय को लिखें तथा उसे प्रमाणित करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$.",
+      "prashna": "$\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ सूत्र को स्थापित करे।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Define interference. Find the expression for the fringe width in Young's double-slit experiment.",
+      "prashna": "व्यतिकरण को परिभाषित करें। यंग के द्विक छिद्र प्रयोग में फ्रिंज की चौड़ाई का व्यंजक ज्ञात करें।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.3",
+      "topic_name": "Motion in a Magnetic Field",
+      "question": "Describe the construction, principle, and working of a cyclotron with a diagram.",
+      "prashna": "साइक्लोट्रॉन की बनावट, सिद्धांत तथा कार्यविधि का सचित्र वर्णन करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.4",
+      "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+      "question": "Explain Biot-Savart's law. Obtain the expression for the magnetic field at the center of a current-carrying circular coil.",
+      "prashna": "बायो-सावर्ट के नियम की व्याख्या करें। धारावाही वृत्ताकार कुंडली के केन्द्र पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Define radioactivity. Clarify the nature, properties, and differences of $\\alpha$, $\\beta$, and $\\gamma$ rays.",
+      "prashna": "रेडियोऐक्टिविटी को परिभाषित करें। $\\alpha$, $\\beta$ तथा $\\gamma$ किरणों की प्रकृति, गुण तथा अंतर को स्पष्ट करें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "What is a Zener diode? Explain its use as a voltage regulator.",
+      "prashna": "जेनर डायोड क्या है? वोल्टता नियंत्रक के रूप में इसके उपयोग की व्याख्या करें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Write Huygens' wave theory for light. Prove the laws of reflection or refraction of light on the basis of Huygens' wave theory.",
+      "prashna": "प्रकाश के लिए हाइगेंस का तरंग सिद्धांत लिखें। हाइगेंस के प्रकाश तरंग सिद्धांत के आधार पर प्रकाश के परावर्तन अथवा अपवर्तन के नियम को सिद्ध करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The minimum angular magnification of an astronomical telescope is 10X. The length of its tube is 44 cm. Find the focal length of its objective lens.",
+      "prashna": "एक खगोलीय दूरबीन का न्यूनतम कोणीय आवर्धन 10X है। इसकी नली की लंबाई 44 सेमी है। इसके वस्तु लेंस की फोकस दूरी निकालें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Give a brief introduction to the means of communication.",
+      "prashna": "संचार के साधनों का संक्षिप्त परिचय दें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "What do you understand by analog and digital signals?",
+        "b": "What is amplitude modulation? Explain."
+      },
+      "anuprashna": {
+        "a": "एनालॉग एवं डिजिटल संकेतों से आप क्या समझते हैं?",
+        "b": "आयाम मॉडुलन क्या है ? समझाइए ?"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Explain the working principle of a compound microscope with the help of a neat diagram. Derive the expression for its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र के सहारे यौगिक सूक्ष्मदर्शी की कार्य प्रणाली समझाइये। इसकी आवर्धन क्षमता का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "For a prism, show that for refractive index n, $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$, where the symbols have their usual meanings.",
+      "prashna": "एक प्रिज्म के लिए दिखाइये कि अपवर्तनांक n हेतु $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$ जहाँ संकेतों के सामान्य अर्थ हैं।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "Explain the band theory of solids. On its basis, how are solids classified into conductors, insulators, and semiconductors? Write.",
+      "prashna": "ठोसों के बैण्ड सिद्धांत को समझाइए। इसके आधार पर सुचालक, अचालक तथा अर्धचालक में ठोसों का वर्गीकरण कैसे होता है? लिखें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "A p-n junction is a valve. Explain.\nIn the band structure of a p-type semiconductor, the acceptor energy level is 57 MeV above the valence band. Calculate the maximum wavelength of light that can create a hole. (h = $4.14 \\times 10^{-15}$ eVs, c = $3 \\times 10^8 \\text{ ms}^{-1}$)",
+      "prashna": "p-n जंक्शन एक वाल्व है। व्याख्या करें।\nएक p-टाइप अर्धचालक को बैंड संरचना में संयोजकता बैंड से 57 MeV ऊपर ग्राही ऊर्जा स्तर है। प्रकाश की उस महत्तम तरंग लंबाई की गणना करें, जो एक ग्राही रिक्ति (होल) बना सकेगा। (h = $4.14 \\times 10^{-15}$ eVs, c = $3 \\times 10^8 \\text{ ms}^{-1}$)"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "State the principle of using a transistor as an oscillator circuit. Show with a circuit diagram how feedback amplification occurs through an inductive-capacitive circuit. Explain the operation of the oscillator.",
+      "prashna": "दोलित्र परिपथ के रूप में ट्रांजिस्टर के इस्तेमाल का सिद्धांत बताइए। परिपथ चित्रण के माध्यम से दिखाइए कि प्रेरणिक संधारित्र द्वारा पुनर्भरण प्रवर्धन किस प्रकार होता है। दोलित्र की संक्रिया स्पष्ट करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "What is the photoelectric emission effect? What are the laws of photoelectric emission? Explain this law as given by Einstein.",
+      "prashna": "प्रकाश-वैद्युत उत्सर्जन प्रभाव क्या है? प्रकाश-वैद्युत उत्सर्जन के नियम क्या हैं? आइंसटीन द्वारा दिए गए इस नियम की व्याख्या को समझाइए |"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Define wavefront and secondary wavelets. Verify the law of reflection or refraction on the basis of Huygens' principle.",
+      "prashna": "तरंगाग्र एवं द्वितीय तरंगिकाओं को परिभाषित करें। हाइगेंस के सिद्धांत के आधार पर परावर्तन या अपवर्तन के नियम को सत्यापित करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "(a) Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope? (b) According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits.",
+      "prashna": "(a) 1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ? (b) नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।",
+      "sub_questions": {
+        "A": "Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope?",
+        "B": "According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits."
+      },
+      "anuprashna": {
+        "A": "1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ?",
+        "B": "नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।"
+      }
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.14",
+      "topic_name": "Applications of Gauss’s Law",
+      "question": "Using Gauss's theorem, find the electric field at a point near a charged conductor.",
+      "prashna": "गॉस के प्रमेय का उपयोग करते हुए आवेशित चालक के नजदीक के बिन्दु पर विद्युत क्षेत्र ज्ञात करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.10",
+      "topic_name": "Electric Dipole",
+      "question": "What is called electric field intensity? Derive an expression for the electric field intensity at a point on the axis of an electric dipole.",
+      "prashna": "विद्युत तीव्रता किसे कहते हैं? एक विद्युतीय द्विध्रुव के अक्ष पर स्थित किसी बिन्दु पर विद्युत तीव्रता का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.13",
+      "topic_name": "Gauss’s Law",
+      "question": "Define electric flux. State and prove Gauss's theorem.",
+      "prashna": "विद्युत फ्लक्स को परिभाषित करें। गॉस के प्रमेय को लिखें एवं सिद्ध करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $.",
+      "prashna": "सूत्र $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $ को स्थापित करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Write Huygens' wave theory for light. On the basis of Huygens' principle of light waves, prove the laws of reflection or refraction of light.",
+      "prashna": "प्रकाश के लिए हाइगेंस का तरंग सिंद्धांत लिखें। हाइगेंस के प्रकाश तरंग सिद्धांत के आधार पर प्रकाश के परावर्तन अथवा अपवर्तन के नियम को सिद्ध करें।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.5",
+      "topic_name": "Magnetic Field on the Axis of a Circular Current Loop",
+      "question": "State Biot-Savart law and use it to derive an expression for the magnetic field at a point on the axis of a current-carrying circular loop.",
+      "prashna": "बायो-सावर्ट नियम लिखें और इसका उपयोग करके एक धाराप्रवाही वृत्ताकार लुप के अक्ष के किसी बिन्दु पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "State Kirchhoff's laws for an electrical circuit. Using Kirchhoff's laws, obtain an expression for a balanced Wheatstone bridge.",
+      "prashna": "विद्युतीय परिपथ के लिए किरचॉफ के नियमों को लिखें। किरचॉफ के नियमों का उपयोग कर एक संतुलित हीटस्टोन सेतु का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.5",
+      "topic_name": "The Line Spectra of the Hydrogen Atom",
+      "question": "Write the postulates of Bohr's theory. Explain the hydrogen spectrum on the basis of Bohr's theory.",
+      "prashna": "बोर के सिद्धांत के अभिगृहीतों को लिखें। बोर के सिद्धांत पर हाइड्रोजन स्पेक्ट्रम की व्याख्या करें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "Write Einstein's photoelectric equation and with its help explain the photoelectric effect.",
+      "prashna": "आइंस्टाइन का प्रकाश-विद्युत समीकरण लिखें और उसकी सहायता से प्रकाश-विद्युत प्रभाव की व्याख्या करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.13",
+      "topic_name": "Effect of Dielectric on Capacitance",
+      "question": "Derive an expression for the capacitance of a parallel plate capacitor with a compound dielectric.",
+      "prashna": "यौगिक परावैद्युत वाले एक समानान्तर प्लेट संधारित्र की धारिता के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.6",
+      "topic_name": "Forces between Multiple Charges",
+      "question": "Two charges, $q$ and $-3q$, are located on the X-axis at some distance apart. Where should a third charge, $2q$, be placed so that it experiences no net force? Calculate the potential energy of this configuration of charges.",
+      "prashna": "X- अक्ष पर दूरी पर दो आवेश $q$ एवं $-3q$ अवस्थित हों तो $2q$ आवेश के तीसरे आवेश को कहाँ रखा जाए कि तीसरे आवेश पर कोई बल न लगे। इस संरचना की स्थितिज ऊर्जा की गणना करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Define wavefront and secondary wavelets. Verify the law of reflection or refraction using Huygens' principle.",
+      "prashna": "तरंगाग्र एवं द्वितीय तरंगिकाओं को परिभाषित करें। हाइस के सिद्धांत के परावर्तन या अपवर्तन के नियम को सत्यापित करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "At what distance should an object be placed from a convex lens of focal length 15 cm to obtain a three times magnified image?",
+      "prashna": "15 cm फोकस दूरी वाले उत्तल लेंस से कितनी दूरी पर किसी वस्तु को रखा जाए कि उसका तीन गुना आवर्धित प्रतिविंव प्राप्त हो सके।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain amplitude modulation and frequency modulation. Derive an expression for the height of the transmitting antenna.",
+      "prashna": "आयाम पाटुलेशन एवं आवृत्ति माहुलेशन की व्याख्या करें। प्रेषी एन्टिना की ऊँचाई के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "What is the photoelectric emission effect? What is the law of photoelectric emission? Explain the explanation of this law given by Einstein.",
+      "prashna": "प्रकाश-वैद्युत उत्सर्जन प्रभाव क्या है? प्रकाश वैद्युत उत्सर्जन का नियम क्या है? आइंस्टाइन द्वारा दिए गए इस नियम की व्याख्या को समझाइए।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Define self-inductance and mutual induction. Derive an expression for the mutual inductance of two long co-axial solenoids.",
+      "prashna": "स्व -प्रेरकत्व एवं अन्योन्य प्रेरण को परिभाषित करें। दो लम्बी समाक्षीय परिनालिकाओं का अन्योन्य प्रेरकत्व का व्यंजक निकालें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "What is a rectifier? How is a p-n junction diode used in (i) forward bias and (ii) reverse bias configuration? Show the current-voltage characteristics of a p-n junction diode on a graph.",
+      "prashna": "दिष्टकारी क्या है ? p-n संधि डायोड को ( i) अग्र वायस अभिलक्षण (ii) पश्च वायस अभिलक्षण में कैसे प्रयोग किया जाता है ? p-n संधि डायोड के धारा- विभव अभिलक्षण को ग्राफ पर दर्शाइए।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.14",
+      "topic_name": "Applications of Gauss’s Law",
+      "question": "Derive Coulomb's law using Gauss's theorem.",
+      "prashna": "गॉस नियम का उपयोग कर कुलम्व नियम निकालें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.7",
+      "topic_name": "Potential Energy of a System of Charges",
+      "question": "Explain the potential energy of a system of charges. Calculate the energy spent in placing a charge q on each corner of a square.",
+      "prashna": "आवेश निकाय की स्थितिज ऊर्जा समझाएँ । भुजा वाले वर्ग के प्रत्येक कोनों पर q आवेश रखने पर खर्च ऊर्जा की गणना करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The plane surface of a plano-convex lens is silvered. Explain the formation of the image of an object placed at infinity in front of it and find its focal length.",
+      "prashna": "एक समतलोत्तल लेंस का समतल सतह रजतित है। इसके सामने अनंत पर राखी वस्तु का प्रतिबिंब का बनना समझाएँ और इसकी फोकस दूरी प्राप्त करे।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "What is a biprism? Explain how it is used to determine the wavelength ($\\lambda$) of monochromatic light.",
+      "prashna": "दिवप्रिज़्म क्या है? इसके उपयोग से एकवर्णी प्रकाश का तरंगदैर्ध्य ($\\lambda$) कैसे निकाला जाता है, समझाएँ।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "What is a Wheatstone bridge? Explain its utility in detail.",
+      "prashna": "हीटस्टोन ब्रिज क्या है? इसकी उपयोगिता विस्तार से समझाएँ।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Derive the expression for the time period of oscillation of a bar magnet suspended freely in a uniform magnetic field $B$.",
+      "prashna": "एक समान चुम्बकीय क्षेत्र $B$ में स्वतंत्र रूप से झूलते छड़ चुम्बक के दोलन काल का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "Explain -",
+      "prashna": "समझाएँ -",
+      "sub_questions": {
+        "1": "Zener diode",
+        "2": "Light Emitting Diode (LED)"
+      },
+      "anuprashna": {
+        "1": "जेनर डायोड",
+        "2": "लाईट एमीटींग डायोड (LED)"
+      }
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "1": "Explain the composition of the atomic nucleus.",
+        "2": "Differentiate between nuclear fission and radioactivity."
+      },
+      "anuprashna": {
+        "1": "परमाणु नाभिक की रचना समझाएँ।",
+        "2": "परमाणु नाभिक विखंडन एवं रेडियोसक्रियता में अंतर करें।"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_16_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.15",
+      "topic_name": "Energy Stored in a Capacitor",
+      "question": "Define capacitance of a capacitor. Derive expression for stored energy between plates of parallel plate capacitor. Show that energy-density between plates of the capacitor can be expressed as $\\frac{1}{2} \\epsilon_0 E^2$, when E = Electric field between plates.",
+      "prashna": "किसी संधारित्र की धारिता को परिभाषित कीजिए। किसी समानान्तर प्लेट संधारित्र में संचित ऊर्जा के लिए व्यंजक स्थापित कीजिए। दिखाएँ कि संधारित्र में संचित ऊर्जा का घनत्व $\\frac{1}{2} \\epsilon_0 E^2$ होता है, जहाँ E= प्लेटों के बीच का विद्युत-क्षेत्र है।"
+    },
+    {
+      "id": "long_16_2",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.14",
+      "topic_name": "Combination of Capacitors",
+      "question": "In the given figure, find the equivalent capacitance between P and Q. The circuit is a Wheatstone bridge with arms $C_1, C_3, C_4, C_5$ and bridge capacitor $C_2$. If $C_1=C_3=C_4=C_5=4\\mu F$ and $C_2 = 10\\mu F$.",
+      "prashna": "दिये गये चित्र मे P तथा Q के बीच समतुल्य धारिता ज्ञात कीजिए। यदि $C_1=C_3=C_4=C_5=4\\mu F$ और $C_2 = 10\\mu F$।"
+    },
+    {
+      "id": "long_17_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Explain Huygen's principle of secondary wavelets and on the basis of this principle establish the law of Refraction 'OR' reflection.",
+      "prashna": "हाईगेंस के द्वितीयक तरंगिकाएँ सिद्धान्त की व्याख्या करे तथा इसकी मदद से अपवर्तन 'या' परावर्तन के नियमों को स्थापित करें।"
+    },
+    {
+      "id": "long_17_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "This question has two parts:",
+      "prashna": "इस प्रश्न के दो भाग हैं:",
+      "sub_questions": {
+        "A": "Two thin convex lenses of focal length 15cm and 30cm are placed in contact. What will be power of the combination?",
+        "B": "A glass Prism ($\\mu_g = 1.66$) of Angle of Prism 72°, is placed in Water ($\\mu_w = 1.33$). Calculate the value of minimum deviation produced by Prism for parallel incident ray."
+      },
+      "anuprashna": {
+        "A": "15 से.मी. और 30 से.मी फोकस-दूरी के दो पतले उत्तल लेंसों को एक-दूसरे के सम्पर्क में रखा जाता है। संयोजित तन्त्र की शक्ति क्या होगी?",
+        "B": "काँच के एक प्रिज्म का कोण 72° तथा अपवर्तनांक 1.66 है। इसे 1.33 अपवर्तनांक के द्रव में डुबाया जाता है। प्रिज्म से गुजरने वाले समानान्तर पुंज के लिए न्यूनतम विचलन का मान ज्ञात करें।"
+      }
+    },
+    {
+      "id": "long_18_1",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "What are Energy Bands? How are these formed? Distinguish between Conductors, Semiconductors and Insulators on the basis of Formation of these bands.",
+      "prashna": "ऊर्जा पट्टी क्या हैं? ये कैसे बनती हैं? चालक, अर्धचालक तथा अचालक को ऊर्जा पट्टियों की संरचना के आधार पर स्पष्ट कीजिए।"
+    },
+    {
+      "id": "long_18_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.4",
+      "topic_name": "Mass-Energy and Nuclear Binding Energy",
+      "question": "For a nuclear reaction $A+b \\rightarrow C+d$, the Q-value is defined as $Q = (m_A + m_b - m_C - m_d)c^2$. A radioactive nuclei $^{11}_6C$ decays in following way $^{11}_6C \\rightarrow ^{11}_5B + e^+ + \\nu$; $T_{1/2}=20.3$ minutes. The maximum energy emitted by positron is 0.960 MeV. Following values are given: $m(^{11}_6C) = 11.011434u$, $m(^{11}_5B) = 11.009305u$, $m_e = 0.000548u$. Evaluate Q-value of this reaction and compare it with maximum Energy Emitted by Positron.",
+      "prashna": "किसी नाभिकीय क्रिया $A+b \\rightarrow C+d$ का 'Q' मान निम्नवत् परिभाषित है $Q = (m_A + m_b - m_C - m_d)c^2$. रेडियोएक्टिव न्यूक्लाइड $^{11}_6C$ का क्षय निम्नवत् होता है $^{11}_6C \\rightarrow ^{11}_5B + e^+ + \\nu$; $T_{1/2}=20.3$ मिनट। पोजिट्रॉन द्वारा उत्सर्जित महत्तम ऊर्जा 0.960 MeV है। प्रदत्त मात्रा मान निम्नवत् हैं: $m(^{11}_6C) = 11.011434u$, $m(^{11}_5B) = 11.009305u$, $m_e = 0.000548u$. Q के मान की गणना करते हुए इसकी तुलना पोजिट्रॉन से उत्सर्जित महत्तम ऊर्जा से कीजिए।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.4",
+      "topic_name": "Potential due to an Electric Dipole",
+      "question": "What is electric dipole? Find an expression for electric potential at any point due to an electric dipole.",
+      "prashna": "विद्युत - द्विध्रुव क्या है? विद्युतीय द्विध्रुव के कारण किसी बिंदु पर विद्युतीय - विभव का व्यंजक प्राप्त करे।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "State and explain Kirchhoff's laws. Applying this law, obtain the balanced condition of Wheatstone bridge.",
+      "prashna": "किरचॉफ के नियमों को लिखें तथा समझाएँ। इन नियमों का उपयोग कर व्हीटस्टोन ब्रिज के संतुलन की अवस्था प्राप्त करे।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Describe the principle, construction and working of a transformer.",
+      "prashna": "ट्रांसफार्मर के सिद्धान्त, बनावट एवं क्रियाविधि का वर्णन करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With neat diagram describe the construction and working of an astronomical telescope and find its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शक की रचना एवं क्रिया का वर्णन करें और उसकी आवर्धन - क्षमता की गणना करे।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "What is dispersive power? Find the necessary conditions for obtaining deviation without dispersion by two thin prisms.",
+      "prashna": "वर्ण – विक्षेपण क्षमता क्या है? दो पतले प्रिज्म द्वारा वर्ण - विक्षेपण रहित विचलन प्राप्त करने के लिए आवश्यक शर्त को निकाले।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "Explain with the help of a labelled diagram the working of a transistor as an oscillator.",
+      "prashna": "एक ट्रांजिस्टर की दोलित्र के रूप में क्रिया का सचित्र वर्णन करे।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.13",
+      "topic_name": "Effect of Dielectric on Capacitance",
+      "question": "Derive an expression for capacitance of a paralled plate capacitor when a dielectric is completely filled between the plates.",
+      "prashna": "एक समानान्तर पट्टिका संघारित्र की विद्युत धारिता ज्ञात करें यदि एक परावैधृत पदार्थ की पट्टी प्लेटो के बीच भरी है।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ for a thin lens.",
+      "prashna": "किसी पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ स्थापित करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Define interference of light. Derive an expression for fringe-width in Young's double slit experiment.",
+      "prashna": "प्रकाश के व्यतिकरण की परिभाषा दें। यंग के द्विक छिद्र प्रयोग में फ्रिंज की चौड़ाई के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.5",
+      "topic_name": "Magnetic Field on the Axis of a Circular Current Loop",
+      "question": "Find an expression for the magnetic field at a point on the axis of a circular coil due to a current flowing in it.",
+      "prashna": "एक वृत्ताकार धारावाही कुण्डली के अक्ष पर के किसी बिन्दु पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.5",
+      "topic_name": "The Line Spectra of the Hydrogen Atom",
+      "question": "Write postulates of Bohr's theory. Explain hydrogen spectrum on the basis of Bohr's theory.",
+      "prashna": "बोर के सिद्धांत के अभिगृहीतों को लिखें। बोर के सिद्धांत पर हाइड्रोजन स्पेक्ट्रम की व्याख्या करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The height of a TV tower is 235m. If the average population density around TV tower is $1000 \\text{ (km)}^{-2}$ then up to how many people can the transmission reach ? (Radius of the earth = $6.37 \\times 10^6$m)",
+      "prashna": "एक टी० वी० टावर की ऊँचाई 235 मीटर है। यदि टावर के आस-पास औसत जनसंख्या घनत्व $1000 \\text{ (किमी)}^{-2}$ हो तो टी० वी० प्रसारण कितने व्यक्तियों तक पहुँचेगा ? (पृथ्वी की त्रिज्या = $6.37 \\times 10^6$ मी)"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula for thin lens given below : $\\frac{1}{f} = (\\mu - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$",
+      "prashna": "पतले लेन्स के लिए नीचे दिया हुआ सूत्र स्थापित करें : $\\frac{1}{f} = (\\mu - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Find out the expression for magnifying power of compound microscope.",
+      "prashna": "संयुक्त सूक्ष्मदर्शी की आवर्धन क्षमता के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.4",
+      "topic_name": "Potential due to an Electric Dipole",
+      "question": "Establish the expression for electric potential at a point due to a small electric dipole.",
+      "prashna": "छोटे विद्युतीय-द्विध्रुव के कारण एक बिन्दु पर विद्युत विभव के व्यंजक स्थापित करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "Find out an expression for root mean square value of an alternating current.",
+      "prashna": "प्रत्यावर्ती धारा के वर्ग-माध्य-मूल के लिए व्यंजक ज्ञात करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Write properties of diamagnetic, paramagnetic and ferromagnetic materials.",
+      "prashna": "प्रतिचुम्बकीय, अनुचुम्बकीय और लौह चुम्बकीय पदार्थों के गुणों को लिखें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "What do you mean by half-life and average life of a radioactive substance ? Establish disintegration formula ($N = N_0 e^{-\\lambda t}$) for radioactive substance.",
+      "prashna": "रेडियोऐक्टिव पदार्थ की अर्द्ध-आयु और औसत आयु से आप क्या समझते हैं ? रेडियोऐक्टिव पदार्थ के लिए विघटन सूत्र ($N = N_0 e^{-\\lambda t}$) स्थापित करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Find out the expression for equivalent focal length of two lenses in contact.",
+      "prashna": "संपर्क में रखे दो लेंसों की समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Establish expression for the width of the interference fringe.",
+      "prashna": "व्यतिकरण फ्रिंज की चौड़ाई का व्यंजक स्थापित करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Explain construction, working and uses of a transformer.",
+      "prashna": "ट्रांसफार्मर की बनावट, क्रिया और उपयोगों को समझायें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Establish expression for heat produced in a conductor due to flow of current. What do you mean by electric power and electric energy ?",
+      "prashna": "धारा के प्रवाह के कारण चालक में उत्पन्न ऊष्मा के लिए व्यंजक स्थापित करें। विद्युत-शक्ति और विद्युत-ऊर्जा से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Establish expression for magnetic field at equatorial position of a magnet.",
+      "prashna": "निरक्षीय स्थिति में किसी चुम्बक का चुम्बकीय क्षेत्र के लिए व्यंजक स्थापित करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.13",
+      "topic_name": "Gauss’s Law",
+      "question": "Write down Gauss's theorem and prove it.",
+      "prashna": "गॉस के प्रमेय को लिखें और इसे प्रमाणित करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.11",
+      "topic_name": "Capacitors and Capacitance",
+      "question": "What do you understand by capacity of any conductor? Find an expression for the capacity of a cylindrical condenser.",
+      "prashna": "किसी चालक की धारिता से आप क्या समझते हैं ? बेलनाकार संधारित्र की धारिता का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "State and explain Kirchhoff's laws. Applying these laws, obtain the balanced condition of Wheatstone bridge.",
+      "prashna": "किरचॉफ के नियमों को लिखें तथा समझाएँ। इन नियमों का उपयोग कर व्हीटस्टोन ब्रिज के संतुलन की अवस्था प्राप्त करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With neat diagram describe the construction and working of an astronomical telescope. Find its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शी की रचना एवं क्रिया का वर्णन करें। इसके आवर्धन क्षमता की गणना करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "Derive the condition for resonance in the L-C-R series alternating current circuit. Find the expression for resonant frequency.",
+      "prashna": "L-C-R प्रत्यावर्ती धारा श्रेणी परिपथ में अनुनाद के लिए शर्त निकालें। अनुनाद आवृत्ति के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "Explain the working of P-N junction diode. Draw the circuit of full wave rectifier and explain its working.",
+      "prashna": "P-N जंक्शन डायोड की क्रिया समझाएँ पूर्ण तरंग दिष्टकारी का परिपथ खींचें एवं इसकी क्रिया समझाएँ।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "For a thin lens find the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$, where the meaning of symbols is general",
+      "prashna": "पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ प्राप्त करें, जहाँ संकेतों के अर्थ सामान्य हैं।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Electrostatic Potential and Capacitance",
+      "topic": "2.4",
+      "topic_name": "Potential due to an Electric Dipole",
+      "question": "What is electric dipole? Find an expression for electric potential at any point due to an electric dipole.",
+      "prashna": "विद्युत द्विध्रुव क्या है? विद्युतीय द्विध्रुव के कारण किसी बिन्दु पर विद्युतीय विभव का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "What is interference of light? Find an expression for fringe width in Young's double slit experiment.",
+      "prashna": "प्रकाश का व्यतिकरण क्या है? यंग के द्विक रेखा छिद्र प्रयोग में फ्रिंज की चौड़ाई का व्यंजक प्राप्त कीजिए।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Mention the defects of human vision and describe the method to remove them.",
+      "prashna": "मनुष्य के दृष्टि दोषों का उल्लेख करें तथा उन्हें दूर करने के उपाय का वर्णन करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Write the properties of diamagnetic, paramagnetic and ferromagnetic materials.",
+      "prashna": "प्रतिचुम्बकीय, अनुचुम्बकीय तथा लौहचुम्बकीय पदार्थों के गुणों को लिखें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Define self-inductance and write its S.I. unit. Find the self-inductance for a solenoid of N turns, length l and radius r.",
+      "prashna": "स्वप्रेरकत्व को परिभाषित करें तथा इसका S.I. मात्रक लिखें। N फेरों वाली, l लम्बाई तथा r त्रिज्या की परिनालिका के लिए स्वप्रेरकत्व की गणना करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "Describe with diagram the working method of p-n-p and n-p-n transistors.",
+      "prashna": "p-n-p तथा n-p-n ट्रांजिस्टरों की कार्यविधि का सचित्र वर्णन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.14",
+      "topic_name": "Applications of Gauss’s Law",
+      "question": "State and prove Gauss theorem. With its help, obtain an expression for electric intensity at a point outside a charged sphere.",
+      "prashna": "गॉस की प्रमेय को लिखें और सत्यापित करें। इसकी मदद से आवेशित-गोले के बाहरी बिंदु पर विद्युत-तीव्रता के लिये व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.4",
+      "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+      "question": "Write down Biot-Savart law. Obtain an expression for magnetic field near a straight wire carrying a current.",
+      "prashna": "बायो-सावर्त नियम लिखें। सीधे तार से बहती हुई धारा के कारण किसी बिंदु पर चुंबकीय क्षेत्र के लिये व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Explain in short the principle, construction and working of a transformer.",
+      "prashna": "ट्रांसफॉर्मर के सिद्धान्त, बनावट एवं क्रियाविधि का संक्षेप में वर्णन करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Explain working of a compound microscope and obtain expression for its magnifying power.",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी की क्रिया समझायें तथा इसके अवर्द्धन क्षमता के लिये व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Obtain expression for fringe-width in the young's double slit experiment.",
+      "prashna": "यंग के द्विक-छिद्र प्रयोग में फ्रिंज-चौड़ाई के लिए व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "What is a Semiconductor? What do you understand from P-type and N-type semi-conductors?",
+      "prashna": "अर्द्ध चालक क्या है? P-प्रकार तथा N-प्रकार अर्द्धचालकों से क्या समझते हैं?"
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "2009": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.3",
+      "topic_name": "Size of the Nucleus",
+      "question": "As the mass number A increases, which of the following quantities related to the nucleus does not change?",
+      "prashna": "जैसे-जैसे द्रव्यमान संख्या A बढ़ती है, उसी के साथ-साथ निम्न में से नाभिक से संबंधित किस राशि का परिवर्तन नहीं होता है?",
+      "options": {
+        "A": "Mass",
+        "B": "Volume",
+        "C": "Density",
+        "D": "Binding energy"
+      },
+      "vikalpa": {
+        "A": "द्रव्यमान",
+        "B": "आयतन",
+        "C": "घनत्व",
+        "D": "बंधक उर्जा"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Statement-I: A free neutron is not stable. \nStatement-II: Outside the nucleus, a $\\beta$-neutron decays into a proton, an electron, and an antineutrino.",
+      "prashna": "कथन-I मुक्त न्यूट्रॉन स्थायी नहीं होता है। \nकथन-II: नाभिक के बाहर $\\beta$ न्यूट्रॉन, एक प्रोटॉन, एक इलेक्ट्रॉन एवं एक ऐन्टीन्यूट्रीनों में विघटित होता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is false.",
+        "D": "Statement-I is false, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Radioactivity",
+      "prashna": "रेडियोधर्मिता",
+      "options": {
+        "A": "Roentgen",
+        "B": "Rutherford",
+        "C": "Einstein",
+        "D": "Moseley"
+      },
+      "vikalpa": {
+        "A": "रूण्टगन",
+        "B": "रदरफोर्ड",
+        "C": "आइन्स्टीन",
+        "D": "मौजल"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "Statement-I: Energy is released in nuclear fusion.\nStatement-II: The total binding energy of the products after the nuclear fusion process is less than the total binding energy of the original reactants.",
+      "prashna": "कथन-I: नाभिकीय संलयन में ऊर्जा मुक्त होती है।\nकथन-II: नाभिकीय संलयन की प्रक्रिया के बाद उत्पाद की कुल बंधन ऊर्जा मूल अभिकारकों की कुल बंधन ऊर्जा से कम होती है।",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "The number of neutrons in an atom of $^{230}_{90}Th$ is",
+      "prashna": "$^{230}_{90}Th$ के एक परमाणु में न्यूट्रॉनों की संख्या है",
+      "options": {
+        "A": "90",
+        "B": "140",
+        "C": "230",
+        "D": "320"
+      },
+      "vikalpa": {
+        "A": "90",
+        "B": "140",
+        "C": "230",
+        "D": "320"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.3",
+      "topic_name": "Size of the Nucleus",
+      "question": "Statement-I: All nuclei are not of the same size.\nStatement-II: The size of the nucleus depends on the atomic mass.",
+      "prashna": "कथन-। : सभी नाभिक समान आकार के नहीं होते हैं।\nकथन- II: नाभिक का आकार परमाणु द्रव्यमान पर निर्भर करता है।",
+      "options": {
+        "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+        "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+        "C": "Statement-I is correct, but statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+        "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+        "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following rays are not deflected by an electric field?",
+      "prashna": "निम्नांकित में कौन-सी किरणें विद्युत क्षेत्र द्वारा विक्षेपित नहीं होती हैं?",
+      "options": {
+        "A": "X-rays",
+        "B": "$\\gamma$-rays",
+        "C": "$\\alpha$-rays",
+        "D": "Cathode rays"
+      },
+      "vikalpa": {
+        "A": "X-किरण",
+        "B": "$\\gamma$-किरण",
+        "C": "$\\alpha$-किरण",
+        "D": "कैथोड किरण"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "Which of the following does not have a mass equal to the mass of an electron?",
+      "prashna": "निम्नांकित में किसका द्रव्यमान इलेक्ट्रॉन के द्रव्यमान के बराबर नहीं होता है?",
+      "options": {
+        "A": "Proton",
+        "B": "Hydrogen",
+        "C": "Positron",
+        "D": "Neutron"
+      },
+      "vikalpa": {
+        "A": "प्रोटॉन",
+        "B": "हाइड्रोजन",
+        "C": "पाजिट्रॉन",
+        "D": "न्यूट्रॉन"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "$\\beta$-rays are deflected in",
+      "prashna": "$\\beta$-किरणें विक्षेपित होती है।",
+      "options": {
+        "A": "Gravitational field",
+        "B": "Only in magnetic field",
+        "C": "Only in electric field",
+        "D": "Both in magnetic and electric fields"
+      },
+      "vikalpa": {
+        "A": "गुरुत्वाकर्षण क्षेत्र में",
+        "B": "केवल चुम्बकीय क्षेत्र में",
+        "C": "केवल विद्युतीय क्षेत्र में",
+        "D": "चुम्बकीय एवं विद्युतीय क्षेत्र दोनों में"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following has the maximum penetrating power?",
+      "prashna": "निम्नांकित में किसे महत्तम बेधन क्षमता है ?",
+      "options": {
+        "A": "X-rays",
+        "B": "Cathode rays",
+        "C": "$\\alpha$-rays",
+        "D": "$\\gamma$-rays"
+      },
+      "vikalpa": {
+        "A": "X-किरणें",
+        "B": "कैथोड किरणें",
+        "C": "$\\alpha$-किरणें",
+        "D": "$\\gamma$-किरणें"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "The time in which the amount of a radioactive substance becomes half of its initial amount is called.",
+      "prashna": "जितने समय में किसी रेडियोएक्टिव पदार्थ की राशि अपने प्रारंभिक परिणाम की आधी हो जाती है उसे कहते हैं",
+      "options": {
+        "A": "Average life",
+        "B": "Half-life",
+        "C": "Decay constant",
+        "D": "Time period"
+      },
+      "vikalpa": {
+        "A": "औसत आयु",
+        "B": "अर्ध आयु",
+        "C": "क्षय नियतांक",
+        "D": "आवर्त काल"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "$\\beta$-rays are deflected in.",
+      "prashna": "$\\beta$-किरणें विक्षेपित होती हैं।",
+      "options": {
+        "A": "In gravitational field",
+        "B": "In magnetic field only",
+        "C": "In electric field only",
+        "D": "In magnetic and electric fields"
+      },
+      "vikalpa": {
+        "A": "गुरुत्वाकर्षण क्षेत्र में",
+        "B": "केवल चुम्बकीय क्षेत्र में",
+        "C": "केवल विद्युतीय क्षेत्र में",
+        "D": "चुम्बकीय एवं विद्युतीय क्षेत्र में"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "The atomic number and mass number for a specimen are Z and A respectively. The number of neutrons in the atom will be -",
+      "prashna": "किसी नमूना का परमाणु क्रमांक Z तथा द्रव्यमान संख्या A है। इसके परमाणु में न्यूट्रॉन्स की संख्या होगी-",
+      "options": {
+        "A": "A",
+        "B": "Z",
+        "C": "A+Z",
+        "D": "A-Z"
+      },
+      "vikalpa": {
+        "A": "A",
+        "B": "Z",
+        "C": "A+Z",
+        "D": "A-Z"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "The quantities, which remain conserved in a nuclear reaction-",
+      "prashna": "नाभिकीय अभिक्रिया में संरक्षित भौतिक राशियाँ हैं-",
+      "options": {
+        "A": "Total Charge",
+        "B": "Angular momentum",
+        "C": "Linear momentum",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "कुल आवेश",
+        "B": "रेखीय संवेग",
+        "C": "कोणीय संवेग",
+        "D": "उपरोक्त सभी"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "The time in which radioactive substance becomes half of its initial amount is called -",
+      "prashna": "जितने समय में किसी रेडियो ऐक्टिव पदार्थ की राशि अपने प्रारम्भिक परिमाण से आधी हो जाती है, उसे कहते हैं -",
+      "options": {
+        "A": "average life",
+        "B": "half-life",
+        "C": "time-period",
+        "D": "decay constant"
+      },
+      "vikalpa": {
+        "A": "औसत आयु",
+        "B": "अर्ध - आयु",
+        "C": "आवर्त काल",
+        "D": "अपक्षय नियतांक"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "$\\beta$-decay produces",
+      "prashna": "$\\beta$-क्षय उत्पन्न करता है",
+      "options": {
+        "A": "isobars",
+        "B": "isotopes",
+        "C": "Isotones",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "समभारिक",
+        "B": "समस्थानिक",
+        "C": "आइसोटोन्स",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.3",
+      "topic_name": "Size of the Nucleus",
+      "question": "The ratio of the atomic numbers of two atoms is 1 : 27. Ratio of their nuclear radius is",
+      "prashna": "दो परमाणुओं की परमाणु संख्या का अनुपात 1 : 27 है। उनकी नाभिकीय त्रिज्याओं का अनुपात है",
+      "options": {
+        "A": "1 : 3",
+        "B": "1 : 1",
+        "C": "1 : 9",
+        "D": "1 : $2\\sqrt{3}$"
+      },
+      "vikalpa": {
+        "A": "1 : 3",
+        "B": "1 : 1",
+        "C": "1 : 9",
+        "D": "1 : $2\\sqrt{3}$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following has maximum penetrating power?",
+      "prashna": "निम्नांकित में किसकी बेधन क्षमता महत्तम है ?",
+      "options": {
+        "A": "X-rays",
+        "B": "$\\alpha$-rays",
+        "C": "Cathode rays",
+        "D": "$\\gamma$-rays"
+      },
+      "vikalpa": {
+        "A": "X-किरणें",
+        "B": "$\\alpha$-किरणें",
+        "C": "कैथोड किरणें",
+        "D": "$\\gamma$-किरणें"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "A nucleus of element $_{84}^{202}X$ first emits $\\alpha$-particle and then $\\beta$-particle. The atomic number of resultant nucleus is",
+      "prashna": "तत्व $_{84}^{202}X$ का एक नाभिक पहले $\\alpha$-कण और फिर $\\beta$-कण उत्सर्जित करता है। परिणामी नाभिक की परमाणु संख्या होगी",
+      "options": {
+        "A": "82",
+        "B": "83",
+        "C": "80",
+        "D": "198"
+      },
+      "vikalpa": {
+        "A": "82",
+        "B": "83",
+        "C": "80",
+        "D": "198"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "The source of solar energy is",
+      "prashna": "सौर ऊर्जा का स्रोत होता है",
+      "options": {
+        "A": "nuclear fission",
+        "B": "chemical reaction",
+        "C": "annihilation of elementary particles",
+        "D": "nuclear fusion"
+      },
+      "vikalpa": {
+        "A": "नाभिकीय विखण्डन",
+        "B": "रासायनिक अभिक्रिया",
+        "C": "मूल कणों का विलोपन",
+        "D": "नाभिकीय संलयन"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following represents the $\\alpha$-decay of $_Z^A X$ ?",
+      "prashna": "$_Z^A X$ का $\\alpha$-क्षय निम्नलिखित में कौन निरूपित करता है ?",
+      "options": {
+        "A": "$_Z^A X \\rightarrow _{Z-2}^{A-4} Y + _2^4 He$",
+        "B": "$_Z^A X \\rightarrow _{Z+2}^{A-4} Y + _2^4 He$",
+        "C": "$_Z^A X \\rightarrow _{Z-2}^{A+4} Y + _2^4 He$",
+        "D": "$_Z^A X \\rightarrow _{Z+2}^{A+4} Y + _2^4 He$"
+      },
+      "vikalpa": {
+        "A": "$_Z^A X \\rightarrow _{Z-2}^{A-4} Y + _2^4 He$",
+        "B": "$_Z^A X \\rightarrow _{Z+2}^{A-4} Y + _2^4 He$",
+        "C": "$_Z^A X \\rightarrow _{Z-2}^{A+4} Y + _2^4 He$",
+        "D": "$_Z^A X \\rightarrow _{Z+2}^{A+4} Y + _2^4 He$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "Which of the following is not a fundamental particle ?",
+      "prashna": "निम्नलिखित में कौन मौलिक कण नहीं है ?",
+      "options": {
+        "A": "Neutron",
+        "B": "Proton",
+        "C": "$\\alpha$-particle",
+        "D": "Electron"
+      },
+      "vikalpa": {
+        "A": "न्यूट्रान",
+        "B": "प्रोटॉन",
+        "C": "$\\alpha$-कण",
+        "D": "इलेक्ट्रान"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following is correct for radioactive element ?",
+      "prashna": "रेडियोऐक्टिव तत्व के लिए निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "$T_a = \\frac{\\lambda}{0.6931}$",
+        "B": "$T_a = \\frac{1}{\\lambda}$",
+        "C": "$T_a = (0.6931)\\lambda$",
+        "D": "$T_a = \\frac{1}{\\lambda^2}$"
+      },
+      "vikalpa": {
+        "A": "$T_a = \\frac{\\lambda}{0.6931}$",
+        "B": "$T_a = \\frac{1}{\\lambda}$",
+        "C": "$T_a = (0.6931)\\lambda$",
+        "D": "$T_a = \\frac{1}{\\lambda^2}$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.4",
+      "topic_name": "Mass-Energy and Nuclear Binding Energy",
+      "question": "Which of the following relations is correct for mass and energy?",
+      "prashna": "निम्नलिखित में कौन संबंध द्रव्यमान और ऊर्जा के लिए सही है?",
+      "options": {
+        "A": "$m = E$",
+        "B": "$m^2 = E$",
+        "C": "$mc^2 = E$",
+        "D": "$m = \\frac{\\sqrt{E}}{2}$"
+      },
+      "vikalpa": {
+        "A": "$m = E$",
+        "B": "$m^2 = E$",
+        "C": "$mc^2 = E$",
+        "D": "$m = \\frac{\\sqrt{E}}{2}$"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "The relation between half-life time $T_{1/2}$ and decay constant is",
+      "prashna": "अर्द्ध-आयु काल $T_{1/2}$ एवं क्षय नियतांक में सम्बन्ध होता है",
+      "options": {
+        "A": "$T_{1/2} = 0.693/\\lambda$",
+        "B": "$T_{1/2} = \\lambda/0.693$",
+        "C": "$T_{1/2} = 0.693\\lambda$",
+        "D": "$T_{1/2} = 0.693\\lambda^2$"
+      },
+      "vikalpa": {
+        "A": "$T_{1/2} = 0.693/\\lambda$",
+        "B": "$T_{1/2} = \\lambda/0.693$",
+        "C": "$T_{1/2} = 0.693\\lambda$",
+        "D": "$T_{1/2} = 0.693\\lambda^2$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following is correct for $\\alpha$-particle ?",
+      "prashna": "निम्नलिखित में कौन $\\alpha$-कण के लिए सही है ?",
+      "options": {
+        "A": "electron",
+        "B": "electromagnetic radiation",
+        "C": "helium nucleus",
+        "D": "hydrogen nucleus"
+      },
+      "vikalpa": {
+        "A": "इलेक्ट्रॉन",
+        "B": "विद्युत-चुम्बकीय विकिरण",
+        "C": "हीलियम नाभिक",
+        "D": "हाइड्रोजन नाभिक"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following equations is correct ?",
+      "prashna": "निम्नलिखित में कौन समीकरण सही है ?",
+      "options": {
+        "A": "$^{238}_{92}U \\rightarrow ^{234}_{90}U + ^4_2He$",
+        "B": "$^{238}_{92}U \\rightarrow ^{234}_{90}Th + ^4_2He$",
+        "C": "$^{238}_{92}U \\rightarrow ^{239}_{90}Th + ^4_2He$",
+        "D": "$^{238}_{92}U \\rightarrow ^{242}_{90}Th + ^4_2He$"
+      },
+      "vikalpa": {
+        "A": "$^{238}_{92}U \\rightarrow ^{234}_{90}U + ^4_2He$",
+        "B": "$^{238}_{92}U \\rightarrow ^{234}_{90}Th + ^4_2He$",
+        "C": "$^{238}_{92}U \\rightarrow ^{239}_{90}Th + ^4_2He$",
+        "D": "$^{238}_{92}U \\rightarrow ^{242}_{90}Th + ^4_2He$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "Number of neutrons in nucleus is",
+      "prashna": "नाभिक में न्यूट्रॉनों की संख्या होती है",
+      "options": {
+        "A": "A+Z",
+        "B": "A-Z",
+        "C": "$Z + A/2$",
+        "D": "Z"
+      },
+      "vikalpa": {
+        "A": "A+Z",
+        "B": "A-Z",
+        "C": "$Z + A/2$",
+        "D": "Z"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "The nucleus of any atom is made up of",
+      "prashna": "किसी परमाणु का नाभिक बना होता है",
+      "options": {
+        "A": "proton",
+        "B": "proton and electron",
+        "C": "$\\alpha$-particle",
+        "D": "proton and neutron"
+      },
+      "vikalpa": {
+        "A": "प्रोटॉन से",
+        "B": "प्रोटॉन एवं इलेक्ट्रॉन से",
+        "C": "अल्फा कण से",
+        "D": "प्रोटॉन और न्यूट्रॉन से"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "The function of moderator in nuclear reactor is to",
+      "prashna": "नाभिकीय रियेक्टर में मंदक का कार्य है।",
+      "options": {
+        "A": "Slow the speed of neutrons",
+        "B": "Fast the speed of neutrons",
+        "C": "Slow the speed of electrons",
+        "D": "Fast the speed of electrons"
+      },
+      "vikalpa": {
+        "A": "न्यूट्रॉनों की गति मन्द करना",
+        "B": "न्यूट्रॉनों की गति तीव्र करना",
+        "C": "इलेक्ट्रॉनों की गति कम करना",
+        "D": "इलेक्ट्रॉनों की गति तीव्र करना"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "The unit of radioactivity is",
+      "prashna": "रेडियो सक्रियता का मात्रक है।",
+      "options": {
+        "A": "MeV",
+        "B": "curie",
+        "C": "a.m.u.",
+        "D": "joule"
+      },
+      "vikalpa": {
+        "A": "MeV",
+        "B": "क्यूरी",
+        "C": "a.m.u.",
+        "D": "जूल"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following has the highest penetrating power?",
+      "prashna": "निम्नलिखित में से किसकी वेधन-क्षमता सबसे ज्यादा होती है ?",
+      "options": {
+        "A": "$\\alpha$-rays",
+        "B": "$\\beta$-rays",
+        "C": "$\\gamma$-rays",
+        "D": "Cathode rays"
+      },
+      "vikalpa": {
+        "A": "$\\alpha$-किरण",
+        "B": "$\\beta$-किरणें",
+        "C": "$\\gamma$-किरणें",
+        "D": "कैथोड किरणें"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "The half-life of a radioactive isotope $(^{210}\\text{Bi})$ is 5 days. The fraction of the nuclei undecayed at the end of 20 days will be",
+      "prashna": "एक रेडियो समस्थानिक $(^{210}\\text{Bi})$ की अर्ध आयु 5 दिन है। 20 दिनों के बाद लिए गये नाभिकों का अविघटित अंश होगा",
+      "options": {
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{1}{4}$",
+        "C": "$\\frac{1}{5}$",
+        "D": "$\\frac{1}{16}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{1}{4}$",
+        "C": "$\\frac{1}{5}$",
+        "D": "$\\frac{1}{16}$"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Half-life of radioactive substance is",
+      "prashna": "रेडियोसक्रिय पदार्थ की अर्ध-आयु है",
+      "options": {
+        "A": "$0.6931 \\times \\lambda$",
+        "B": "$\\frac{\\log_{10}2}{\\lambda}$",
+        "C": "$\\frac{0.6931}{\\lambda}$",
+        "D": "$\\frac{\\text{Average age}}{0.6931}$"
+      },
+      "vikalpa": {
+        "A": "$0.6931 \\times \\lambda$",
+        "B": "$\\frac{\\log_{10}2}{\\lambda}$",
+        "C": "$\\frac{0.6931}{\\lambda}$",
+        "D": "$\\frac{\\text{औसत आयु}}{0.6931}$"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "S.I. unit of decay constant is",
+      "prashna": "क्षय गुणांक की S.I. इकाई है",
+      "options": {
+        "A": "metre",
+        "B": "hertz",
+        "C": "per metre",
+        "D": "$\\text{metre}^2$"
+      },
+      "vikalpa": {
+        "A": "मीटर",
+        "B": "हर्ट्ज़",
+        "C": "प्रति मीटर",
+        "D": "मीटर$^2$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "Number of neutrons in an atom of $^{230}_{90}\\text{Th}$ is",
+      "prashna": "$^{230}_{90}\\text{Th}$ के एक परमाणु में न्यूट्रॉनों की संख्या है",
+      "options": {
+        "A": "320",
+        "B": "230",
+        "C": "140",
+        "D": "90"
+      },
+      "vikalpa": {
+        "A": "320",
+        "B": "230",
+        "C": "140",
+        "D": "90"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Which of the following is not of electromagnetic nature?",
+      "prashna": "निम्नलिखित में कौन विद्युत-चुम्बकीय प्रकृति की नहीं है?",
+      "options": {
+        "A": "X-rays",
+        "B": "Light ray",
+        "C": "$\\gamma$-rays",
+        "D": "$\\beta$-rays"
+      },
+      "vikalpa": {
+        "A": "X - किरणें",
+        "B": "प्रकाश किरण",
+        "C": "$\\gamma$ – किरणें",
+        "D": "$\\beta$ – किरणें"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "The process of combining nuclei to form a new nucleus and release energy is called",
+      "prashna": "नाभिकों के मिलने और नये नाभिक के बनने तथा ऊर्जा मुक्त होने की घटना को कहा जाता है?",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Nuclear fission",
+        "C": "Chain reaction",
+        "D": "Transmutation"
+      },
+      "vikalpa": {
+        "A": "नाभकीय संलयन",
+        "B": "नाभिकीय विखंडन",
+        "C": "श्रृंखला अभिक्रिया",
+        "D": "तत्वांतरण"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "The process of combination of nucleus and formation of nucleus and release of energy is called as",
+      "prashna": "नाभिक के संयोजन और नाभिक के गठन और ऊर्जा की रिहाई की प्रक्रिया को क्या कहा जाता है?",
+      "options": {
+        "A": "Fusion",
+        "B": "Fission",
+        "C": "Chain reaction",
+        "D": "Transmutation"
+      },
+      "vikalpa": {
+        "A": "संलयन",
+        "B": "विखंडन",
+        "C": "श्रृंखला अभिक्रिया",
+        "D": "रूपांतरण"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.4",
+      "topic_name": "Mass-Energy and Nuclear Binding Energy",
+      "question": "The correct relation between mass and energy is",
+      "prashna": "द्रव्यमान और ऊर्जा के बीच सही संबंध है",
+      "options": {
+        "A": "$m=E$",
+        "B": "$m^2=E$",
+        "C": "$E=mc^2$",
+        "D": "$E=mc$"
+      },
+      "vikalpa": {
+        "A": "$m=E$",
+        "B": "$m^2=E$",
+        "C": "$E=mc^2$",
+        "D": "$E=mc$"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Half-life period of a radioactive element is 1000 years. In how much time $\\frac{1}{18}$ part of the element will remain",
+      "prashna": "एक रेडियो एक्टिव तत्व की अर्द्ध आयु 1000 वर्ष है। कितने समय के बाद तत्व के नमूने का $\\frac{1}{18}$ भाग रह जाएगा?",
+      "options": {
+        "A": "3000 Years",
+        "B": "30000 Years",
+        "C": "300 Years",
+        "D": "300000 Years"
+      },
+      "vikalpa": {
+        "A": "3000 वर्ष",
+        "B": "30000 वर्ष",
+        "C": "300 वर्ष",
+        "D": "300000 वर्ष"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "In atom $^{88}_{38}Sr$, number of protons, neutrons and electrons will be",
+      "prashna": "$^{88}_{38}Sr$ परमाणु में, प्रोटॉन, न्यूट्रॉन और इलेक्ट्रॉनों की संख्या क्या होगी?",
+      "options": {
+        "A": "38, 50, 38",
+        "B": "50, 38, 38",
+        "C": "88, 50, 38",
+        "D": "38, 50, 88"
+      },
+      "vikalpa": {
+        "A": "38, 50, 38",
+        "B": "50, 38, 38",
+        "C": "88, 50, 38",
+        "D": "38, 50, 88"
+      }
+    }
+  ]
+}

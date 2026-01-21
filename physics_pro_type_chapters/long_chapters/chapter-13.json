@@ -1,0 +1,70 @@
+{
+  "2009": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.7",
+      "topic_name": "Nuclear Energy",
+      "question": "Explain the structure of a nuclear reactor in detail.",
+      "prashna": "किसी नाभिकीय रिएक्टर की संरचना की विस्तार से व्याख्या करें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "Define radioactivity. Clarify the nature, properties, and differences of $\\alpha$, $\\beta$, and $\\gamma$ rays.",
+      "prashna": "रेडियोऐक्टिविटी को परिभाषित करें। $\\alpha$, $\\beta$ तथा $\\gamma$ किरणों की प्रकृति, गुण तथा अंतर को स्पष्ट करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.2",
+      "topic_name": "Atomic Masses and Composition of Nucleus",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "1": "Explain the composition of the atomic nucleus.",
+        "2": "Differentiate between nuclear fission and radioactivity."
+      },
+      "anuprashna": {
+        "1": "परमाणु नाभिक की रचना समझाएँ।",
+        "2": "परमाणु नाभिक विखंडन एवं रेडियोसक्रियता में अंतर करें।"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_18_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.4",
+      "topic_name": "Mass-Energy and Nuclear Binding Energy",
+      "question": "For a nuclear reaction $A+b \\rightarrow C+d$, the Q-value is defined as $Q = (m_A + m_b - m_C - m_d)c^2$. A radioactive nuclei $^{11}_6C$ decays in following way $^{11}_6C \\rightarrow ^{11}_5B + e^+ + \\nu$; $T_{1/2}=20.3$ minutes. The maximum energy emitted by positron is 0.960 MeV. Following values are given: $m(^{11}_6C) = 11.011434u$, $m(^{11}_5B) = 11.009305u$, $m_e = 0.000548u$. Evaluate Q-value of this reaction and compare it with maximum Energy Emitted by Positron.",
+      "prashna": "किसी नाभिकीय क्रिया $A+b \\rightarrow C+d$ का 'Q' मान निम्नवत् परिभाषित है $Q = (m_A + m_b - m_C - m_d)c^2$. रेडियोएक्टिव न्यूक्लाइड $^{11}_6C$ का क्षय निम्नवत् होता है $^{11}_6C \\rightarrow ^{11}_5B + e^+ + \\nu$; $T_{1/2}=20.3$ मिनट। पोजिट्रॉन द्वारा उत्सर्जित महत्तम ऊर्जा 0.960 MeV है। प्रदत्त मात्रा मान निम्नवत् हैं: $m(^{11}_6C) = 11.011434u$, $m(^{11}_5B) = 11.009305u$, $m_e = 0.000548u$. Q के मान की गणना करते हुए इसकी तुलना पोजिट्रॉन से उत्सर्जित महत्तम ऊर्जा से कीजिए।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Nuclei",
+      "topic": "13.6",
+      "topic_name": "Radioactivity",
+      "question": "What do you mean by half-life and average life of a radioactive substance ? Establish disintegration formula ($N = N_0 e^{-\\lambda t}$) for radioactive substance.",
+      "prashna": "रेडियोऐक्टिव पदार्थ की अर्द्ध-आयु और औसत आयु से आप क्या समझते हैं ? रेडियोऐक्टिव पदार्थ के लिए विघटन सूत्र ($N = N_0 e^{-\\lambda t}$) स्थापित करें।"
+    }
+  ]
+}

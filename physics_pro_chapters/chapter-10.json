@@ -1,0 +1,1148 @@
+{
+  "2009": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "What is a Polaroid? Write its uses.",
+      "prashna": "पोलारॉयड क्या है? इसके उपयोगों को लिखें।"
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.6",
+      "topic_name": "Diffraction",
+      "question": "Statement-I: Light travels in a straight line in a homogeneous medium.\nStatement-II: In diffraction, the direction of propagation of light changes without any change in the medium.",
+      "prashna": "कथन-I: प्रकाश किसी समरूपीय माध्यम में सीधी रेखा में गमन करती है।\nकथन-II: विवर्तन में बिना माध्यम परिवर्तन के ही प्रकाश के गमन की दिशा बदल जाती है।",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Calculate the angle of refraction, when a light ray is incident on a glass plate at the polarizing angle. ($\\mu_g = 3/2$)",
+      "prashna": "अपवर्तन कोण की गणना करें, जब किसी काँच के प्लेट पर प्रकाश किरण ध्रुवण कोण पर आपतित हो। ($\\mu_g = 3/2$)"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Explain Huygens' wave theory and on its basis, establish the law of refraction or reflection.",
+      "prashna": "हाइगेंस के तरंग सिद्धांत को समझाइए तथा इसके आधार पर अपवर्तन या परावर्तन के नियम को स्थापित कर दिखाइए।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Brewster's Law",
+      "prashna": "बुस्टर का नियम",
+      "options": {
+        "A": "Interference",
+        "B": "Aberration of image",
+        "C": "Polarization",
+        "D": "Human eye"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "प्रतिबिंब की त्रुटि",
+        "C": "धुवण",
+        "D": "मानवीय आँख"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Young's double-slit experiment",
+      "prashna": "यंग का द्विछिद्र प्रयोग",
+      "options": {
+        "A": "Interference",
+        "B": "Aberration of image",
+        "C": "Polarization",
+        "D": "Human eye"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "प्रतिबिंब की त्रुटि",
+        "C": "धुवण",
+        "D": "मानवीय आँख"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "The ratio of maximum (maxima) to minimum (minima) in the interference pattern is",
+      "prashna": "व्यतिकरण पैटर्न में अधिकतम (maxima) तथा न्यूनतम (minima) का अनुपात है",
+      "options": {
+        "A": "9 : 1",
+        "B": "81 : 1",
+        "C": "25 : 16",
+        "D": "16 : 25"
+      },
+      "vikalpa": {
+        "A": "9 : 1",
+        "B": "81 : 1",
+        "C": "25 : 16",
+        "D": "16 : 25"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "The ratio of the amplitudes of the light waves from the two sources is.",
+      "prashna": "दोनों स्रोतों के प्रकाश तरंगों के आयाम का अनुपात है।",
+      "options": {
+        "A": "9 : 1",
+        "B": "81 : 1",
+        "C": "1 : 9",
+        "D": "1 : 81"
+      },
+      "vikalpa": {
+        "A": "9 : 1",
+        "B": "81 : 1",
+        "C": "1 : 9",
+        "D": "1 : 81"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.4",
+      "topic_name": "Coherent and Incoherent Addition of Waves",
+      "question": "For maximum intensity, the value of $\\cos \\phi$ is.",
+      "prashna": "महत्तम तीव्रता के लिए $\\cos \\phi$ का मान है।",
+      "options": {
+        "A": "- 1",
+        "B": "+ 1",
+        "C": "$\\infty$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "- 1",
+        "B": "+ 1",
+        "C": "$\\infty$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "What is a Polaroid? Write its uses.",
+      "prashna": "पोलेरायड क्या है? इसके उपयोग को लिखें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Define interference. Find the expression for the fringe width in Young's double-slit experiment.",
+      "prashna": "व्यतिकरण को परिभाषित करें। यंग के द्विक छिद्र प्रयोग में फ्रिंज की चौड़ाई का व्यंजक ज्ञात करें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Write Huygens' wave theory for light. Prove the laws of reflection or refraction of light on the basis of Huygens' wave theory.",
+      "prashna": "प्रकाश के लिए हाइगेंस का तरंग सिद्धांत लिखें। हाइगेंस के प्रकाश तरंग सिद्धांत के आधार पर प्रकाश के परावर्तन अथवा अपवर्तन के नियम को सिद्ध करें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Write the expression for the width of interference fringes.",
+      "prashna": "व्यतिकरण फ्रिजों की चौड़ाई का व्यंजक लिखें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "State Brewster's law.",
+      "prashna": "ब्रूस्टर का नियम बताइए।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Can't transverse waves be polarized?",
+      "prashna": "क्षैतिज तरंगें क्या नहीं ध्रुवित की जा सकती हैं?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Define wavefront and secondary wavelets. Verify the law of reflection or refraction on the basis of Huygens' principle.",
+      "prashna": "तरंगाग्र एवं द्वितीय तरंगिकाओं को परिभाषित करें। हाइगेंस के सिद्धांत के आधार पर परावर्तन या अपवर्तन के नियम को सत्यापित करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "The transverse wave nature of light is confirmed by:",
+      "prashna": "प्रकाश की अनुप्रस्थ तरंग प्रकृति पुष्टि करता है:",
+      "options": {
+        "A": "Interference",
+        "B": "Reflection",
+        "C": "Polarization",
+        "D": "Dispersion"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण को",
+        "B": "परावर्तन को",
+        "C": "ध्रुवण को",
+        "D": "वर्ण-विक्षेपण को"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "The color of a thin film is due to:",
+      "prashna": "एक पतले फिल्म के रंग का कारण है:",
+      "options": {
+        "A": "Scattering",
+        "B": "Interference",
+        "C": "Dispersion",
+        "D": "Diffraction"
+      },
+      "vikalpa": {
+        "A": "प्रकीर्णन",
+        "B": "व्यतिकरण",
+        "C": "वर्ण-विक्षेपण",
+        "D": "विवर्तन"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Brewster's law is:",
+      "prashna": "वुस्टर का नियम है:",
+      "options": {
+        "A": "$\\mu = \\sin(i_p)$",
+        "B": "$\\mu = \\cos(i_p)$",
+        "C": "$\\mu = \\tan(i_p)$",
+        "D": "$\\mu = \\tan^2(i_p)$"
+      },
+      "vikalpa": {
+        "A": "$\\mu = \\sin(i_p)$",
+        "B": "$\\mu = \\cos(i_p)$",
+        "C": "$\\mu = \\tan(i_p)$",
+        "D": "$\\mu = \\tan^2(i_p)$"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Write Huygens' wave theory for light. On the basis of Huygens' principle of light waves, prove the laws of reflection or refraction of light.",
+      "prashna": "प्रकाश के लिए हाइगेंस का तरंग सिंद्धांत लिखें। हाइगेंस के प्रकाश तरंग सिद्धांत के आधार पर प्रकाश के परावर्तन अथवा अपवर्तन के नियम को सिद्ध करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Define wavefront and secondary wavelets. Verify the law of reflection or refraction using Huygens' principle.",
+      "prashna": "तरंगाग्र एवं द्वितीय तरंगिकाओं को परिभाषित करें। हाइस के सिद्धांत के परावर्तन या अपवर्तन के नियम को सत्यापित करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "The transverse wave nature of light is confirmed by.",
+      "prashna": "प्रकाश के अनुप्रस्थ तरंग प्रकृति की पुष्टि करता है",
+      "options": {
+        "A": "Interference",
+        "B": "Reflection",
+        "C": "Polarization",
+        "D": "Dispersion"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "परावर्तन",
+        "C": "ध्रुवण",
+        "D": "वर्ण विक्षेपण"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Write Brewster's law of polarization of light.",
+      "prashna": "व्यूस्टर का प्रकाश के ध्रुवण का नियम लिखें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "What is a biprism? Explain how it is used to determine the wavelength ($\\lambda$) of monochromatic light.",
+      "prashna": "दिवप्रिज़्म क्या है? इसके उपयोग से एकवर्णी प्रकाश का तरंगदैर्ध्य ($\\lambda$) कैसे निकाला जाता है, समझाएँ।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.4",
+      "topic_name": "Coherent and Incoherent Addition of Waves",
+      "question": "The value of maximum amplitude produced due to interference of two waves is given by - $y_1 = 4 \\sin(\\omega t)$ and $y_2= 3 \\cos(\\omega t)$",
+      "prashna": "दो उन तरंगों के व्यतिकरण से उत्पन्न अधिकतम परिणामी आयाम का मान होगा, जिसे प्रकट किया जाता है - $y_1 = 4 \\sin(\\omega t)$ और $y_2= 3 \\cos(\\omega t)$",
+      "options": {
+        "A": "7",
+        "B": "5",
+        "C": "1",
+        "D": "25"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "5",
+        "C": "1",
+        "D": "25"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "The phase difference $\\phi$ is related to Path difference $\\Delta x$ by -",
+      "prashna": "तरंग का कलान्तर $\\phi$ का पथान्तर $\\Delta x$ से सम्बद्ध है -",
+      "options": {
+        "A": "$\\frac{\\lambda}{\\pi} \\phi$",
+        "B": "$\\frac{\\pi}{\\lambda} \\phi$",
+        "C": "$\\frac{\\lambda}{2\\pi} \\phi$",
+        "D": "$\\frac{2\\pi}{\\lambda} \\phi$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\lambda}{\\pi} \\phi$",
+        "B": "$\\frac{\\pi}{\\lambda} \\phi$",
+        "C": "$\\frac{\\lambda}{2\\pi} \\phi$",
+        "D": "$\\frac{2\\pi}{\\lambda} \\phi$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.6",
+      "topic_name": "Diffraction",
+      "question": "The resolving power of human eye (in minute) is.",
+      "prashna": "मानव नेत्र की विभेदन क्षमता (मिनट में) होती है",
+      "options": {
+        "A": "$\\frac{1}{60}$",
+        "B": "1",
+        "C": "10",
+        "D": "$\\frac{1}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{60}$",
+        "B": "1",
+        "C": "10",
+        "D": "$\\frac{1}{2}$"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.1",
+      "topic_name": "Introduction",
+      "question": "Why Red Signals are used as danger sign? Explain.",
+      "prashna": "खतरे का संकेत लाल क्यों होता है? समझाएँ।"
+    },
+    {
+      "id": "long_17_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.3",
+      "topic_name": "Refraction and Reflection of Plane Waves using Huygens Principle",
+      "question": "Explain Huygen's principle of secondary wavelets and on the basis of this principle establish the law of Refraction 'OR' reflection.",
+      "prashna": "हाईगेंस के द्वितीयक तरंगिकाएँ सिद्धान्त की व्याख्या करे तथा इसकी मदद से अपवर्तन 'या' परावर्तन के नियमों को स्थापित करें।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.1",
+      "topic_name": "Introduction",
+      "question": "Light owes its colour to its -",
+      "prashna": "प्रकाश के रंग का कारण है -",
+      "options": {
+        "A": "frequency",
+        "B": "velocity",
+        "C": "phase",
+        "D": "amplitude"
+      },
+      "vikalpa": {
+        "A": "इसकी आवृति",
+        "B": "इसका वेग",
+        "C": "इसकी कला",
+        "D": "इसका आयाम"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.2",
+      "topic_name": "Huygens Principle",
+      "question": "The wave front due to a point source at a finite distance from the source is -",
+      "prashna": "किसी बिंदुवत स्त्रोत से परिमित दूरी पर तरंगाग्र होता है -",
+      "options": {
+        "A": "Spherical",
+        "B": "Cylindrical",
+        "C": "Plane",
+        "D": "Circular"
+      },
+      "vikalpa": {
+        "A": "गोलाकार",
+        "B": "बेलनाकार",
+        "C": "समतल",
+        "D": "वृत्ताकार"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.6",
+      "topic_name": "Diffraction",
+      "question": "The phenomenon of bending of light ray at sharp edge is called",
+      "prashna": "प्रकाश किरण के तीखे कोर पर मुड़ने की घटना को कहते हैं",
+      "options": {
+        "A": "Diffraction",
+        "B": "Polarisation",
+        "C": "Refraction",
+        "D": "Interference"
+      },
+      "vikalpa": {
+        "A": "विवर्त्तन",
+        "B": "ध्रुवण",
+        "C": "अपवर्त्तन",
+        "D": "व्यतिकरण"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "In young's double slit experiment, if the wavelength of light is doubled then fringe-width will be",
+      "prashna": "यंग के द्विक छिद्र प्रयोग में यदि प्रकाश का तरंगदैर्ध्य दुगुना कर दिया जाए, तो फ्रिंज की चौड़ाई हो जायगी।",
+      "options": {
+        "A": "equal",
+        "B": "double",
+        "C": "half",
+        "D": "one fourth"
+      },
+      "vikalpa": {
+        "A": "बराबर",
+        "B": "दुगुनी",
+        "C": "आधी",
+        "D": "चौथाई"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Brewster's law is",
+      "prashna": "बूस्टर का नियम है",
+      "options": {
+        "A": "$\\mu = \\sin(i_p)$",
+        "B": "$\\mu = \\cos(i_p)$",
+        "C": "$\\mu = \\tan(i_p)$",
+        "D": "$\\mu = \\tan^2(i_p)$"
+      },
+      "vikalpa": {
+        "A": "$\\mu = \\sin(i_p)$",
+        "B": "$\\mu = \\cos(i_p)$",
+        "C": "$\\mu = \\tan(i_p)$",
+        "D": "$\\mu = \\tan^2(i_p)$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "In transmission of light waves, the angle between plane of oscillation and plane of polarisation is.",
+      "prashna": "प्रकाश तरंगो के संचरण में दोलन तल की दिशा तथा ध्रुवण तल दिशा के बीच कोण है।",
+      "options": {
+        "A": "$0^\\circ$",
+        "B": "$90^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$80^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$0^\\circ$",
+        "B": "$90^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$80^\\circ$"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Define linearly polarised light.",
+      "prashna": "'रेखीय ध्रुवित प्रकाश' की परिभाषा कीजिए।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Define interference of light. Derive an expression for fringe-width in Young's double slit experiment.",
+      "prashna": "प्रकाश के व्यतिकरण की परिभाषा दें। यंग के द्विक छिद्र प्रयोग में फ्रिंज की चौड़ाई के लिए व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Interference of light is the redistribution of which of the following physical quantities ?",
+      "prashna": "निम्नलिखित में किस भौतिक राशि का पुनर्वितरण प्रकाश का व्यतिकरण होता है ?",
+      "options": {
+        "A": "Frequency",
+        "B": "Intensity",
+        "C": "Wavelength",
+        "D": "Speed"
+      },
+      "vikalpa": {
+        "A": "आवृत्ति",
+        "B": "तीव्रता",
+        "C": "तरंगदैर्ध्य",
+        "D": "चाल"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Write Brewster's law.",
+      "prashna": "ब्रूस्टर का नियम लिखें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Write two essential conditions of constructive interference.",
+      "prashna": "संपोषी व्यतिकरण की दो आवश्यक शर्तों को लिखें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.1",
+      "topic_name": "Introduction",
+      "question": "Which of the following relations is correct for intensity of scattered light (I) and wavelength of light ($\\lambda$) ?",
+      "prashna": "निम्नलिखित में कौन संबंध प्रकीर्णित प्रकाश की तीव्रता (I) और प्रकाश के तरंगदैर्ध्य ($\\lambda$) के लिए सही है ?",
+      "options": {
+        "A": "$I \\propto 1/\\lambda$",
+        "B": "$I \\propto 1/\\lambda^2$",
+        "C": "$I \\propto 1/\\lambda^3$",
+        "D": "$I \\propto 1/\\lambda^4$"
+      },
+      "vikalpa": {
+        "A": "$I \\propto 1/\\lambda$",
+        "B": "$I \\propto 1/\\lambda^2$",
+        "C": "$I \\propto 1/\\lambda^3$",
+        "D": "$I \\propto 1/\\lambda^4$"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.2",
+      "topic_name": "Huygens Principle",
+      "question": "Write the definition of wavefront.",
+      "prashna": "तरंगाग्र की परिभाषा लिखें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.6",
+      "topic_name": "Diffraction",
+      "question": "What do you mean by diffraction of light ?",
+      "prashna": "प्रकाश के विवर्तन से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Establish expression for the width of the interference fringe.",
+      "prashna": "व्यतिकरण फ्रिंज की चौड़ाई का व्यंजक स्थापित करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.2",
+      "topic_name": "Huygens Principle",
+      "question": "The concept of secondary wavelets was given by",
+      "prashna": "द्वितीयक तरंगिकाओं की अवधारणा किसके द्वारा दी गई थी ?",
+      "options": {
+        "A": "Fresnel",
+        "B": "Maxwell",
+        "C": "Huygens",
+        "D": "Newton"
+      },
+      "vikalpa": {
+        "A": "फ्रेनेल",
+        "B": "मैक्सवेल",
+        "C": "हाइगेंस",
+        "D": "न्यूटन"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.6",
+      "topic_name": "Diffraction",
+      "question": "The width of diffraction fringes is .......... to the width of interference fringes.",
+      "prashna": "विवर्तन- फ्रिंजों की चौड़ाई व्यतिकरण- फ्रिंजों",
+      "options": {
+        "A": "equal",
+        "B": "unequal",
+        "C": "similar",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "के समान होती है",
+        "B": "के समान नहीं होती है",
+        "C": "जैसी होती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "When the distance between source of light and screen is increased, then fringe width",
+      "prashna": "जब प्रकाश स्रोत और पर्दे के बीच की दूरी बढ़ा दिया जाए तो फ्रिंज की चौड़ाई",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains same",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ती है",
+        "B": "घटती है",
+        "C": "अपरिवर्तित रहती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Light is a transverse wave because it shows",
+      "prashna": "प्रकाश अनुप्रस्थ तरंग है क्योंकि यह प्रदर्शित करता है",
+      "options": {
+        "A": "Reflection",
+        "B": "Polarization",
+        "C": "Interference",
+        "D": "Diffraction"
+      },
+      "vikalpa": {
+        "A": "परावर्तन",
+        "B": "ध्रुवण",
+        "C": "व्यतिकरण",
+        "D": "विवर्तन"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.4",
+      "topic_name": "Coherent and Incoherent Addition of Waves",
+      "question": "The value of maximum amplitude produced due to interference of two waves given by $Y_1 = 4\\sin\\omega t$ and $Y_2 = 3\\cos\\omega t$ is",
+      "prashna": "दो तरंगों $Y_1 = 4\\sin\\omega t$ एवं $Y_2 = 3\\cos\\omega t$ से उत्पन्न व्यतिकरण के आयाम का महत्तम मान होता है।",
+      "options": {
+        "A": "7",
+        "B": "5",
+        "C": "1",
+        "D": "25"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "5",
+        "C": "1",
+        "D": "25"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "The reason for the phenomenon of interference is",
+      "prashna": "व्यतिकरण की घटना का कारण है।",
+      "options": {
+        "A": "Phase difference",
+        "B": "Change in amplitude",
+        "C": "Velocity change",
+        "D": "Intensity change"
+      },
+      "vikalpa": {
+        "A": "कलान्तर",
+        "B": "आयाम परिवर्तन",
+        "C": "वेग परिवर्तन",
+        "D": "तीव्रता परिवर्तन"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Which is used to produce polarised light?",
+      "prashna": "ध्रुवित प्रकाश उत्पन्न करने के लिए किसको प्रयुक्त किया जाता है ?",
+      "options": {
+        "A": "Prism of flint glass",
+        "B": "NaCl prism",
+        "C": "Nicol prism",
+        "D": "Biprism"
+      },
+      "vikalpa": {
+        "A": "फ्लिण्ट काँच का प्रिज्म",
+        "B": "NaCl का प्रिज्म",
+        "C": "निकॉल प्रिज्म",
+        "D": "बाईप्रिज्म"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Write down two necessary conditions for interference of light.",
+      "prashna": "प्रकाश के व्यतिकरण की आवश्यक दो शर्तें लिखें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "The fringe width in interference of light due to two coherent sources is",
+      "prashna": "दो कला-संबद्ध स्रोतों के कारण प्रकाश के व्यतिकरण में फ्रिंज की चौड़ाई होती है",
+      "options": {
+        "A": "proportional to wavelength",
+        "B": "inversely proportional to wavelength",
+        "C": "proportional to square of wavelength",
+        "D": "inversely proportional to square of wavelength"
+      },
+      "vikalpa": {
+        "A": "तरंगदैर्ध्य के समानुपाती",
+        "B": "तरंगदैर्ध्य के व्युत्क्रमानुपाती",
+        "C": "तरंगदैर्ध्य के वर्ग के समानुपाती",
+        "D": "तरंगदैर्ध्य के वर्ग के व्युत्क्रमानुपाती"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.4",
+      "topic_name": "Coherent and Incoherent Addition of Waves",
+      "question": "Two sources of monochromatic light is coherent, when their",
+      "prashna": "एकवर्णी प्रकाश के दो स्रोत कला-संबन्ध कहे जाते हैं, जब उनकी",
+      "options": {
+        "A": "intensities are equal",
+        "B": "amplitudes are equal",
+        "C": "phases are equal",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "तीव्रताएँ समान हों",
+        "B": "आयाम समान हों",
+        "C": "कलाएँ समान हों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.7",
+      "topic_name": "Polarisation",
+      "question": "Explain polarisation of light.",
+      "prashna": "प्रकाश के ध्रुवीकरण को समझायें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "What is interference of light? Find an expression for fringe width in Young's double slit experiment.",
+      "prashna": "प्रकाश का व्यतिकरण क्या है? यंग के द्विक रेखा छिद्र प्रयोग में फ्रिंज की चौड़ाई का व्यंजक प्राप्त कीजिए।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.1",
+      "topic_name": "Introduction",
+      "question": "According to principle of wave theory of light, colour of light is decided by",
+      "prashna": "प्रकाश के तरंग गति सिद्धान्त के अनुसार प्रकाश के वर्ण का निर्णायक है",
+      "options": {
+        "A": "Amplitude",
+        "B": "Speed of wave",
+        "C": "Frequency",
+        "D": "Phase"
+      },
+      "vikalpa": {
+        "A": "आयाम",
+        "B": "तरंग की चाल",
+        "C": "आवृत्ति",
+        "D": "कला"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.2",
+      "topic_name": "Huygens Principle",
+      "question": "Wave front of light coming from a source of unknown size situated at a distant point is approximately",
+      "prashna": "अज्ञात आकार वाले एक सुदूर स्थित स्त्रोत से आनेवाले प्रकाश का तरंगाग्र होगा लगभग",
+      "options": {
+        "A": "Plane",
+        "B": "Parabolic",
+        "C": "Cylindrical",
+        "D": "Spherical"
+      },
+      "vikalpa": {
+        "A": "समतल",
+        "B": "दीर्घवृतीय",
+        "C": "बेलनाकार",
+        "D": "गोलीय"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.4",
+      "topic_name": "Coherent and Incoherent Addition of Waves",
+      "question": "Two sources are called coherent when their",
+      "prashna": "दो स्त्रोतों को कला-संबद्ध तब कहा जाता है, यदि जब उनके",
+      "options": {
+        "A": "Phase difference changes regularly",
+        "B": "Phase difference is constant",
+        "C": "Phase difference changes periodically",
+        "D": "Phase difference changes irregularly"
+      },
+      "vikalpa": {
+        "A": "कलांतर में बराबर परिवर्तन हो रहा है",
+        "B": "कलांतर नियत है",
+        "C": "कलांतर में आवर्ती परिवर्त्तन होता है।",
+        "D": "कलांतर में अनियमित परिवर्तन होता है।"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "For constructive interference, the phase difference between two waves reaching at a point is",
+      "prashna": "रचनात्मक व्यतिकरण के लिये किसी बिंदु पर पहुँचने वाली दो तरंगों के बीच कलांतर होना चाहिए",
+      "options": {
+        "A": "Zero",
+        "B": "$\\pi$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$\\frac{3\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "$\\pi$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$\\frac{3\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Fringe width is distance",
+      "prashna": "फ्रिंज की चौड़ाई, दूरी है",
+      "options": {
+        "A": "Between only two dark fringes",
+        "B": "Between two bright fringes",
+        "C": "Between two consecutive dark or bright fringes",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "केवल दो काली फ्रिंजों के बीच",
+        "B": "केवल दो चमकीली फ्रिजों के बीच",
+        "C": "किन्ही दो क्रमवर्ती काली या चमकीली फ्रिजों के बीच",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "In young double slit experiment, the path difference between waves producing constructive interference is not equal to",
+      "prashna": "यंग के द्वि-स्लिट प्रयोग में रचनात्मक व्यतिकरण उत्पन्न करने वाली तरंगों के बीच पथांतर का मान नहीं होता है?",
+      "options": {
+        "A": "$n\\lambda$",
+        "B": "$(n + 1)\\lambda$",
+        "C": "$(2n+1) \\lambda$",
+        "D": "$(2n+1) \\frac{\\lambda}{2}$"
+      },
+      "vikalpa": {
+        "A": "$n\\lambda$",
+        "B": "$(n + 1)\\lambda$",
+        "C": "$(2n+1) \\lambda$",
+        "D": "$(2n+1) \\frac{\\lambda}{2}$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.6",
+      "topic_name": "Diffraction",
+      "question": "The value of Fresnel distance $Z_F$ is, where 'a' is the width of the light ray and $\\lambda$ is the wavelength of light.",
+      "prashna": "फ्रेजनेल दूरी $Z_F$ का मान होता है, जहाँ a प्रकाश किरण की चौड़ाई और $\\lambda$ प्रकाश का तरंगदैर्ध्य है।",
+      "options": {
+        "A": "$\\frac{a}{\\lambda}$",
+        "B": "$\\frac{a^2}{\\lambda}$",
+        "C": "$\\frac{\\lambda}{a}$",
+        "D": "$\\frac{\\lambda}{a^2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{a}{\\lambda}$",
+        "B": "$\\frac{a^2}{\\lambda}$",
+        "C": "$\\frac{\\lambda}{a}$",
+        "D": "$\\frac{\\lambda}{a^2}$"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.1",
+      "topic_name": "Introduction",
+      "question": "What is Doppler Effect in light?",
+      "prashna": "प्रकाश में डॉप्लर प्रभाव क्या है?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.4",
+      "topic_name": "Coherent and Incoherent Addition of Waves",
+      "question": "Light coming from two lamps does not produce interference. Explain why.",
+      "prashna": "दो लैंप से आने वाला प्रकाश व्यतिकरण उत्पन्न नहीं कर पाता। व्याख्या करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.2",
+      "topic_name": "Huygens Principle",
+      "question": "Explain Huygen's wave theory.",
+      "prashna": "हाइगेंस के तरंग सिद्धांत का वर्णन करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Wave Optics",
+      "topic": "10.5",
+      "topic_name": "Interference of Light Waves and Young’s Experiment",
+      "question": "Obtain expression for fringe-width in the young's double slit experiment.",
+      "prashna": "यंग के द्विक-छिद्र प्रयोग में फ्रिंज-चौड़ाई के लिए व्यंजक प्राप्त करें।"
+    }
+  ]
+}

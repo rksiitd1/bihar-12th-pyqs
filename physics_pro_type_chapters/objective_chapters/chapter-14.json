@@ -1,0 +1,1154 @@
+{
+  "2009": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "The basic gate is",
+      "prashna": "मूल गेट (बेसिक गेट) है",
+      "options": {
+        "A": "AND, OR",
+        "B": "NAND, NOR",
+        "C": "NAND,NOR",
+        "D": "AND, OR, NOT"
+      },
+      "vikalpa": {
+        "A": "AND, OR",
+        "B": "NAND, NOR",
+        "C": "NAND,NOR",
+        "D": "AND, OR, NOT"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "Statement-I: The diode shown in the figure is a Zener diode.\nStatement-II: Zener diode works on the principle of reverse bias.",
+      "prashna": "कथन -I : चित्र में दिखाया गया डायोड एक जीनर डायोड है।\nकथन- II : जीनर डायोड पश्च अभिनति (रिवर्स बायस) के सिद्धांत पर काम करता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is false.",
+        "D": "Statement-I is false, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+        "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+        "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "AND",
+      "prashna": "AND",
+      "options": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      },
+      "vikalpa": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "OR",
+      "prashna": "OR",
+      "options": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      },
+      "vikalpa": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "NAND",
+      "prashna": "NAND",
+      "options": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      },
+      "vikalpa": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "NOR",
+      "prashna": "NOR",
+      "options": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      },
+      "vikalpa": {
+        "A": "$A + B$",
+        "B": "$\\overline{A \\cdot B}$",
+        "C": "$\\overline{A+B}$",
+        "D": "$A.B$"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "In an n-p-n transistor, the relation between emitter current $i_E$, base current $i_B$ and collector current $i_c$ is:",
+      "prashna": "n-p-n ट्रांजिस्टर में उत्सर्जक धारा $i_E$, आधार धारा $i_B$ तथा संग्राहक धारा $i_c$ में संबंध है।",
+      "options": {
+        "A": "$i_c = i_E - i_B$",
+        "B": "$i_B = i_E - i_c$",
+        "C": "$i_E = i_c - i_B$",
+        "D": "$i_B = i_E + i_c$"
+      },
+      "vikalpa": {
+        "A": "$i_c = i_E - i_B$",
+        "B": "$i_B = i_E - i_c$",
+        "C": "$i_E = i_c - i_B$",
+        "D": "$i_B = i_E + i_c$"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "The logic gate shown in the figure is",
+      "prashna": "चित्र में दिखाया गया लॉजिक गेट है",
+      "options": {
+        "A": "OR",
+        "B": "NOR",
+        "C": "NAND",
+        "D": "AND"
+      },
+      "vikalpa": {
+        "A": "OR",
+        "B": "NOR",
+        "C": "NAND",
+        "D": "AND"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Write the decimal number 25 in binary.",
+      "prashna": "दशमिक संख्या 25 को द्विआधारी में लिखें।",
+      "options": {
+        "A": "$(1100)_2$",
+        "B": "$(1001)_2$",
+        "C": "$(11001)_2$",
+        "D": "$(11101)_2$"
+      },
+      "vikalpa": {
+        "A": "$(1100)_2$",
+        "B": "$(1001)_2$",
+        "C": "$(11001)_2$",
+        "D": "$(11101)_2$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "Statement-I: The conductivity of a semiconductor increases on doping with impurities.\nStatement-II: The temperature of a semiconductor increases on doping with impurities.",
+      "prashna": "कथन-I: अपद्रव्यों से मादित करने पर अर्धचालक की चालकता बढ़ जाती है।\nकथन-II : अपद्रव्यों से मादित करने पर अर्धचालक का ताप बढ़ जाता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "Statement-I: The diode shown in the figure is a Zener diode.\nStatement-II: A Zener diode works in reverse bias.",
+      "prashna": "कथन I: चित्र में दिखाया गया डायोड एक जीनर डायोड है।\nकथन- II: जीनर डायोड पश्च-अभिनति में कार्य करता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "The Boolean expression for a NOR gate is:",
+      "prashna": "NOR गेट के लिए बुलियन व्यंजक है:",
+      "options": {
+        "A": "$\\overline{A.B} = Y$",
+        "B": "$A.B = Y$",
+        "C": "$A.B. = Y$",
+        "D": "$\\overline{A+B} = Y$"
+      },
+      "vikalpa": {
+        "A": "$\\overline{A.B} = Y$",
+        "B": "$A.B = Y$",
+        "C": "$A.B. = Y$",
+        "D": "$\\overline{A+B} = Y$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.3",
+      "topic_name": "Intrinsic Semiconductor",
+      "question": "With the increase in temperature, the resistance of a semiconductor:",
+      "prashna": "ताप बढ़ने के साथ अर्धचालक का प्रतिरोध:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Sometimes increases and sometimes decreases",
+        "D": "Remains unchanged"
+      },
+      "vikalpa": {
+        "A": "बढ़ता है",
+        "B": "घटता है",
+        "C": "कभी बढ़ता है और कभी घटता हैं।",
+        "D": "अपरिवर्ति होता है।"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "The Boolean expression for NOR gate is",
+      "prashna": "NOR गेट के लिए बूलियन व्यंजक है।",
+      "options": {
+        "A": "$\\overline{A \\cdot B} = Y$",
+        "B": "$\\overline{A + B} = Y$",
+        "C": "$A \\cdot B = Y$",
+        "D": "$A + B = Y$"
+      },
+      "vikalpa": {
+        "A": "$\\overline{A.B} = Y$",
+        "B": "$\\overline{A+B} = Y$",
+        "C": "$A.B = Y$",
+        "D": "$A+B = Y$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "The main current carrier in a p-type semiconductor is",
+      "prashna": "p- टाइप के अर्धचालक में मुख्य धारा वाहक होता है",
+      "options": {
+        "A": "Electron",
+        "B": "Hole",
+        "C": "Photon",
+        "D": "Proton"
+      },
+      "vikalpa": {
+        "A": "इलेक्ट्रॉन",
+        "B": "होल",
+        "C": "फोटॉन",
+        "D": "प्रोटॉन"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "To obtain n-type germanium, the impurity doped in germanium should be-",
+      "prashna": "n-टाइप का जर्मेनियम प्राप्त करने के लिए जर्मेनियम में मिलाया गया अपद्रव्य होना चाहिए-",
+      "options": {
+        "A": "Trivalent",
+        "B": "Tetravalent",
+        "C": "Pentavalent",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "त्रिसंयोजक",
+        "B": "चतुः संयोजक",
+        "C": "पंच संयोजक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "A diode is used as a-",
+      "prashna": "डायोड का उपयोग करते हैं एक-",
+      "options": {
+        "A": "Amplifier",
+        "B": "Oscillator",
+        "C": "Modulator",
+        "D": "Rectifier"
+      },
+      "vikalpa": {
+        "A": "प्रवर्धक",
+        "B": "दोलक",
+        "C": "मॉडुलेटर",
+        "D": "रेक्टिफायर"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "The Boolean expression for a NAND gate is.",
+      "prashna": "NAND ग्रेट के लिए बूलियन व्यंजक है।",
+      "options": {
+        "A": "$\\overline{A.B} = y$",
+        "B": "$\\overline{A+B} = y$",
+        "C": "$A.B = y$",
+        "D": "$A+B = y$"
+      },
+      "vikalpa": {
+        "A": "$\\overline{A.B} = y$",
+        "B": "$\\overline{A+B} = y$",
+        "C": "$A.B = y$",
+        "D": "$A+B = y$"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "A semiconductor is cooled from $T_1$K to $T_2$K, then its resistance will -",
+      "prashna": "एक अर्धचालक को $T_1$K से $T_2$K ताप पर ठंडा किया जाता है तो इसका प्रतिरोध -",
+      "options": {
+        "A": "increase",
+        "B": "decrease",
+        "C": "remain constant",
+        "D": "First decrease then increase"
+      },
+      "vikalpa": {
+        "A": "बढ़ेगा",
+        "B": "घटेगा",
+        "C": "नियत रहेगा",
+        "D": "पहले घटेगा फिर बढ़ेगा"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "If the current constant for a transistor are $\\alpha$ & $\\beta$ then -",
+      "prashna": "यदि ट्रांजिस्टर के धारा नियतांक $\\alpha$ तथा $\\beta$ हैं तो-",
+      "options": {
+        "A": "$\\alpha\\beta = 1$",
+        "B": "$\\beta > 1, \\alpha < 1$",
+        "C": "$\\alpha = \\beta$",
+        "D": "$\\beta < 1, \\alpha > 1$"
+      },
+      "vikalpa": {
+        "A": "$\\alpha\\beta = 1$",
+        "B": "$\\beta > 1, \\alpha < 1$",
+        "C": "$\\alpha = \\beta$",
+        "D": "$\\beta < 1, \\alpha > 1$"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.3",
+      "topic_name": "Intrinsic Semiconductor",
+      "question": "With the increase of temperature the resistivity of semiconductor -",
+      "prashna": "ताप बढ़ने से अर्धचालक का विशिष्ट प्रतिरोध -",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains constant",
+        "D": "becomes zero"
+      },
+      "vikalpa": {
+        "A": "बढ़ता है।",
+        "B": "घटता है।",
+        "C": "अपरिवर्तित रहता है।",
+        "D": "शून्य हो जाता है"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "The Boolean expression for NAND gate is -",
+      "prashna": "NAND गेट का बूलियन व्यंजक है -",
+      "options": {
+        "A": "$Y = A + B$",
+        "B": "$Y = A \\cdot B$",
+        "C": "$Y = \\overline{A+B}$",
+        "D": "$Y = \\overline{A \\cdot B}$"
+      },
+      "vikalpa": {
+        "A": "$Y = A + B$",
+        "B": "$Y = A \\cdot B$",
+        "C": "$Y = \\overline{A+B}$",
+        "D": "$Y = \\overline{A \\cdot B}$"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "The decimal number 25 in binary will be",
+      "prashna": "दशमिक संख्या 25 को द्विआधारी में लिखने पर उत्तर होगा",
+      "options": {
+        "A": "$(1001)_2$",
+        "B": "$(11001)_2$",
+        "C": "$(11101)_2$",
+        "D": "$(1100)_2$"
+      },
+      "vikalpa": {
+        "A": "$(1001)_2$",
+        "B": "$(11001)_2$",
+        "C": "$(11101)_2$",
+        "D": "$(1100)_2$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "The majority current-carrier in n-type semiconductor is",
+      "prashna": "n-टाइप के अर्धचालक में मुख्य धारा-वाहक होते है",
+      "options": {
+        "A": "hole",
+        "B": "$\\alpha$-particle",
+        "C": "electron",
+        "D": "proton"
+      },
+      "vikalpa": {
+        "A": "होल (छिद्र)",
+        "B": "$\\alpha$-कण",
+        "C": "इलेक्ट्रॉन",
+        "D": "प्रोटोन"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "In full wave rectification, if input frequency is 50Hz, then output frequency will be",
+      "prashna": "पूर्ण तरंगी दिष्टकरण में यदि निवेश आवृत्ति 50Hz है तो निर्गम आवृत्ति होगी",
+      "options": {
+        "A": "50 Hz",
+        "B": "25 Hz",
+        "C": "100 Hz",
+        "D": "200 Hz"
+      },
+      "vikalpa": {
+        "A": "50 Hz",
+        "B": "25 Hz",
+        "C": "100 Hz",
+        "D": "200 Hz"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Boolean expression for NOR gate is",
+      "prashna": "NOR-द्वारक का बूलियन व्यंजक होता है",
+      "options": {
+        "A": "$A + B = Y$",
+        "B": "$\\overline{A.B} = Y$",
+        "C": "$A.B = Y$",
+        "D": "$\\overline{A+B} = Y$"
+      },
+      "vikalpa": {
+        "A": "$A + B = Y$",
+        "B": "$\\overline{A.B} = Y$",
+        "C": "$A.B = Y$",
+        "D": "$\\overline{A+B} = Y$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "The decimal number of binary number $(1001)_2$ is",
+      "prashna": "द्वि-आधारी संख्या $(1001)_2$ की दशमिक संख्या होती है",
+      "options": {
+        "A": "$(12)_{10}$",
+        "B": "$(18)_{10}$",
+        "C": "$(9)_{10}$",
+        "D": "$(25)_{10}$"
+      },
+      "vikalpa": {
+        "A": "$(12)_{10}$",
+        "B": "$(18)_{10}$",
+        "C": "$(9)_{10}$",
+        "D": "$(25)_{10}$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "A p-type semiconductor is",
+      "prashna": "एक p-प्रकार अर्द्ध-चालक होता है",
+      "options": {
+        "A": "positively charged",
+        "B": "negatively charged",
+        "C": "uncharged",
+        "D": "uncharged at absolute zero temperature but charged at higher temperatures"
+      },
+      "vikalpa": {
+        "A": "धनावेशित",
+        "B": "ऋणावेशित",
+        "C": "अनावेशित",
+        "D": "परम शून्य ताप पर अनावेशित लेकिन उच्च तापमानों पर आवेशित"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "Donor impurity atom has valency",
+      "prashna": "दाता अपद्रव्य परमाणु की संयोजकता होती है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Which of the following is correct ?",
+      "prashna": "निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "$(1100)_2 = (12)_{10}$",
+        "B": "$(1001)_2 = (12)_{10}$",
+        "C": "$(1111)_2 = (12)_{10}$",
+        "D": "$(1011)_2 = (12)_{10}$"
+      },
+      "vikalpa": {
+        "A": "$(1100)_2 = (12)_{10}$",
+        "B": "$(1001)_2 = (12)_{10}$",
+        "C": "$(1111)_2 = (12)_{10}$",
+        "D": "$(1011)_2 = (12)_{10}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Which of the following is correct for fundamental gate ?",
+      "prashna": "मूल गेट के लिए निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "AND, OR, NOT",
+        "B": "AND, OR",
+        "C": "NAND, NOR",
+        "D": "OR, NOT"
+      },
+      "vikalpa": {
+        "A": "AND, OR, NOT",
+        "B": "AND, OR",
+        "C": "NAND, NOR",
+        "D": "OR, NOT"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Binary number of decimal number $(8)_{10}$ is",
+      "prashna": "दशमिक संख्या $(8)_{10}$ की द्विआधारी संख्या होती है",
+      "options": {
+        "A": "$(1000)_2$",
+        "B": "$(1001)_2$",
+        "C": "$(111)_2$",
+        "D": "$(110)_2$"
+      },
+      "vikalpa": {
+        "A": "$(1000)_2$",
+        "B": "$(1001)_2$",
+        "C": "$(111)_2$",
+        "D": "$(110)_2$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Symbol of NAND gate is",
+      "prashna": "NAND गेट का संकेत होता है",
+      "options": {
+        "A": "AND gate symbol",
+        "B": "OR gate symbol",
+        "C": "NOT gate symbol",
+        "D": "NAND gate symbol"
+      },
+      "vikalpa": {
+        "A": "AND गेट का प्रतीक",
+        "B": "OR गेट का प्रतीक",
+        "C": "NOT गेट का प्रतीक",
+        "D": "NAND गेट का प्रतीक"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "The binary equivalent of 25 is",
+      "prashna": "25 का द्विआधारी समतुल्य है",
+      "options": {
+        "A": "$(1100)_2$",
+        "B": "$(1001)_2$",
+        "C": "$(11001)_2$",
+        "D": "$(11101)_2$"
+      },
+      "vikalpa": {
+        "A": "$(1100)_2$",
+        "B": "$(1001)_2$",
+        "C": "$(11001)_2$",
+        "D": "$(11101)_2$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "The temperature coefficient of a semi-conductor is",
+      "prashna": "किसी अर्धचालक का तापमान गुणांक का मान होता है",
+      "options": {
+        "A": "positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinity"
+      },
+      "vikalpa": {
+        "A": "धनात्मक",
+        "B": "ऋणात्मक",
+        "C": "शून्य",
+        "D": "अनन्त"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.4",
+      "topic_name": "Extrinsic Semiconductor",
+      "question": "The impurity element used for p-type semiconductor is",
+      "prashna": "p-प्रकार के अर्धचालकों के लिए अशुद्ध तत्व के रूप में प्रयोग किया जाता है",
+      "options": {
+        "A": "Boron",
+        "B": "Bismuth",
+        "C": "Arsenic",
+        "D": "Phosphorus"
+      },
+      "vikalpa": {
+        "A": "बोरॉन",
+        "B": "बिस्मथ",
+        "C": "आर्सेनिक",
+        "D": "फॉस्फोरस"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "Diode is used as",
+      "prashna": "डायोड का उपयोग किया जाता है।",
+      "options": {
+        "A": "Amplifier",
+        "B": "Oscillator",
+        "C": "Modulator",
+        "D": "Rectifier"
+      },
+      "vikalpa": {
+        "A": "प्रवर्धक की तरह",
+        "B": "दोलक की तरह",
+        "C": "मॉडुलेटर की तरह",
+        "D": "दिष्टकारी की तरह"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.6",
+      "topic_name": "Semiconductor Diode",
+      "question": "→| is the symbol of",
+      "prashna": "→| किसका प्रतीक है?",
+      "options": {
+        "A": "diode",
+        "B": "n-type",
+        "C": "p-type",
+        "D": "transistor"
+      },
+      "vikalpa": {
+        "A": "डायोड",
+        "B": "n-टाइप",
+        "C": "p-टाइप",
+        "D": "ट्रांजिस्टर"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Unit of amplification factor of transistor is",
+      "prashna": "ट्रांजिस्टर के प्रवर्धन गुणांक की इकाई होती है।",
+      "options": {
+        "A": "volt",
+        "B": "ampere",
+        "C": "ohm",
+        "D": "no unit"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "ऐम्पियर",
+        "C": "ओम",
+        "D": "कोई इकाई नहीं"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Which one of the following logic gates is universal logic gate?",
+      "prashna": "निम्न में से कौन-सा तर्क द्वार सार्वजनिक तर्क द्वार है ?",
+      "options": {
+        "A": "OR",
+        "B": "AND",
+        "C": "NOT",
+        "D": "NAND"
+      },
+      "vikalpa": {
+        "A": "OR",
+        "B": "AND",
+        "C": "NOT",
+        "D": "NAND"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "P-N junction diode is used as",
+      "prashna": "P-N संधि डायोड का उपयोग करते हैं एक",
+      "options": {
+        "A": "an amplifier",
+        "B": "an oscillator",
+        "C": "a modulator",
+        "D": "a rectifier"
+      },
+      "vikalpa": {
+        "A": "प्रवर्धक की तरह",
+        "B": "दोलक की तरह",
+        "C": "माडुलेटर की तरह",
+        "D": "दिष्टकारी की तरह"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "Instrument used to increase input voltage/current is called",
+      "prashna": "निवेशी वोल्टेज / धारा को बढ़ाने वाले यंत्र को कहते हैं",
+      "options": {
+        "A": "oscillator",
+        "B": "amplifier",
+        "C": "diode",
+        "D": "rectifier"
+      },
+      "vikalpa": {
+        "A": "दोलित्र",
+        "B": "प्रवर्धक",
+        "C": "डायोड",
+        "D": "दिष्टकारी"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "If in a logic gate output (Y) is obtained by the product of its both inputs ($A \\cdot B$), then the gate is",
+      "prashna": "यदि किसी तर्क द्वार का निर्गम (Y) का मान उसके दोनों निवेशों के गुना ($A \\cdot B$) से प्राप्त होता है तो वह द्वार है",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NOR",
+        "D": "NOT"
+      },
+      "vikalpa": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NOR",
+        "D": "NOT"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.2",
+      "topic_name": "Classification of Metals, Conductors and Semiconductors",
+      "question": "The width of forbidden energy gap in the semiconductor is approximately",
+      "prashna": "अर्द्धचालक में वर्जित ऊर्जा अंतराल की चौड़ाई लगभग होती है",
+      "options": {
+        "A": "1 eV",
+        "B": "10 eV",
+        "C": "100 eV",
+        "D": "0.01 eV"
+      },
+      "vikalpa": {
+        "A": "1 eV",
+        "B": "10 eV",
+        "C": "100 eV",
+        "D": "0.01 eV"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "The equivalent number of decimal number 27 into binary number system will be",
+      "prashna": "दशमलव अंक पद्धति की संख्या 27 की द्विआधारी पद्धति में समतुल्य संख्या होगी",
+      "options": {
+        "A": "$(10011)_2$",
+        "B": "$(10111)_2$",
+        "C": "$(11001)_2$",
+        "D": "$(11011)_2$"
+      },
+      "vikalpa": {
+        "A": "$(10011)_2$",
+        "B": "$(10111)_2$",
+        "C": "$(11001)_2$",
+        "D": "$(11011)_2$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "In full wave rectifier, if input frequency is 50 Hz, then output frequency will be",
+      "prashna": "पूर्ण तरंग दिष्टकारी में, यदि निवेश आवृत्ति 50 Hz है, तो निर्गम आवृत्ति होगी",
+      "options": {
+        "A": "25 Hz",
+        "B": "50 Hz",
+        "C": "100 Hz",
+        "D": "200 Hz"
+      },
+      "vikalpa": {
+        "A": "25 Hz",
+        "B": "50 Hz",
+        "C": "100 Hz",
+        "D": "200 Hz"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.5",
+      "topic_name": "p-n Junction",
+      "question": "A P-n Junction consists",
+      "prashna": "एक p-n जंक्शन में होते है",
+      "options": {
+        "A": "Two semiconductor junction",
+        "B": "Two metal Junction",
+        "C": "Metal-semiconductor Junction",
+        "D": "Metal-superconductor Junction"
+      },
+      "vikalpa": {
+        "A": "दो अर्द्ध चालक जंक्शन",
+        "B": "दो धातु-जंक्शन",
+        "C": "धातु-अर्द्धचालक जंक्शन",
+        "D": "धातु-अतिचालक जंक्शन"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "The name of machine producing direct current on applying alternating Potential is",
+      "prashna": "प्रत्यावर्ती विभव लगाने पर प्रत्यक्ष धारा उत्पन्न करने वाली मशीन का नाम क्या है?",
+      "options": {
+        "A": "Rectifier",
+        "B": "Transformer",
+        "C": "Oscillator",
+        "D": "Filter"
+      },
+      "vikalpa": {
+        "A": "दिष्टकारी",
+        "B": "ट्रांसफार्मर",
+        "C": "दोलक",
+        "D": "फिल्टर"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.7",
+      "topic_name": "Application of Junction Diode as a Rectifier",
+      "question": "If in a full wave rectifier input frequency is 50Hz then output frequency is",
+      "prashna": "यदि एक पूर्ण-तरंगी दिष्टकरण में यदि निवेश आवृत्ति 50Hz है तो निर्गम आवृत्ति है?",
+      "options": {
+        "A": "50Hz",
+        "B": "25Hz",
+        "C": "100Hz",
+        "D": "200Hz"
+      },
+      "vikalpa": {
+        "A": "50 हर्ट्ज",
+        "B": "25 हर्ट्ज",
+        "C": "100 हर्ट्ज",
+        "D": "200 हर्ट्ज"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Boolean expression for NOR gate is",
+      "prashna": "NOR गेट के लिए बूलियन व्यंजक है",
+      "options": {
+        "A": "$\\overline{A \\cdot B} = Y$",
+        "B": "$\\overline{A+B} = Y$",
+        "C": "$A \\cdot B = Y$",
+        "D": "$\\overline{A} \\cdot \\overline{B} = Y$"
+      },
+      "vikalpa": {
+        "A": "$\\overline{A \\cdot B} = Y$",
+        "B": "$\\overline{A+B} = Y$",
+        "C": "$A \\cdot B = Y$",
+        "D": "$\\overline{A} \\cdot \\overline{B} = Y$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+      "topic": "14.1",
+      "topic_name": "Introduction",
+      "question": "Sum of binary numbers 0110 and 0101 is",
+      "prashna": "द्विआधारी संख्या 0110 और 0101 का योगफल होगा",
+      "options": {
+        "A": "$(1011)_2$",
+        "B": "$(1101)_2$",
+        "C": "$(1110)_2$",
+        "D": "$(0111)_2$"
+      },
+      "vikalpa": {
+        "A": "$(1011)_2$",
+        "B": "$(1101)_2$",
+        "C": "$(1110)_2$",
+        "D": "$(0111)_2$"
+      }
+    }
+  ]
+}

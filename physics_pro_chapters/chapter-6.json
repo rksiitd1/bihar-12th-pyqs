@@ -1,0 +1,862 @@
+{
+  "2009": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "To convert mechanical energy into electrical energy, we have to use:",
+      "prashna": "यांत्रिकीय ऊर्जा को वैद्युतिक ऊर्जा में बदलने के लिए, हमें प्रयोग करना है।",
+      "options": {
+        "A": "DC dynamo",
+        "B": "AC dynamo",
+        "C": "Motor",
+        "D": "Transformer"
+      },
+      "vikalpa": {
+        "A": "दिष्ट धारा डायनेमो",
+        "B": "प्रत्यावर्ती धरा डायनेमो",
+        "C": "मोटर",
+        "D": "ट्रांसफॉर्मर"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.4",
+      "topic_name": "Faraday’s Law of Induction",
+      "question": "Define eddy currents. How are they produced? How are eddy currents undesirable in a transformer and how can they be minimized in a device?",
+      "prashna": "भँवर धारा को परिभाषित करें। ये कैसे उत्पन्न होती है? भँवर धाराएँ किसी ट्रांसफार्मर में कैसे अनावश्यक हैं तथा इसे किसी यंत्र में कैसे कम किया जा सकता है ?"
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.3",
+      "topic_name": "Magnetic Flux",
+      "question": "Statement-I: Magnetic flux is a vector quantity.\nStatement-II: The value of magnetic flux can be positive, negative or zero.",
+      "prashna": "कथन-1 चुम्बकीय फ्लक्स एक सदिश राशि है।\nकथन- II : चुम्बकीय फ्लक्स का मान धनात्मक ऋणात्मक अथवा शून्य हो सकता है।",
+      "options": {
+        "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+        "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+        "C": "Statement-I is correct, but statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+        "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+        "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Write Lenz's law of electromagnetic induction.",
+      "prashna": "विद्युत चुंबकीय प्रेरण के लेंज नियम लिखें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.4",
+      "topic_name": "Faraday’s Law of Induction",
+      "question": "What do you understand by eddy current?",
+      "prashna": "भँवर धारा से आप क्या समझते हैं?"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "What is an inductor?",
+      "prashna": "प्रेरणिक क्या होता है?"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Derive the self-inductance of an ideal solenoid.",
+      "prashna": "एक आदर्श परिनालिका का स्वप्रेरकत्व प्राप्त करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Lenz's law is associated with:",
+      "prashna": "लेंज का नियम संबद्ध है।",
+      "options": {
+        "A": "Charge",
+        "B": "Mass",
+        "C": "Energy",
+        "D": "Principle of conservation of momentum"
+      },
+      "vikalpa": {
+        "A": "आवेश से",
+        "B": "द्रव्यमान से",
+        "C": "ऊर्जा से",
+        "D": "संवेग के संरक्षण सिद्धांत से"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "The unit of self-inductance is:",
+      "prashna": "स्वप्रेरकत्व का मात्रक है:",
+      "options": {
+        "A": "Weber",
+        "B": "Ohm",
+        "C": "Henry",
+        "D": "Gauss"
+      },
+      "vikalpa": {
+        "A": "बेबर",
+        "B": "ओम",
+        "C": "हेनरी",
+        "D": "गॉस"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "The working principle of a dynamo is based on:",
+      "prashna": "डायनेमो के कार्य का सिद्धांत आधारित है:",
+      "options": {
+        "A": "Heating effect of current",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic induction",
+        "D": "Electric induction"
+      },
+      "vikalpa": {
+        "A": "धारा के ऊष्मीय प्रभाव पर",
+        "B": "विद्युत-चुंबकीय प्रेरण पर",
+        "C": "चुम्बकीय प्रेरण पर",
+        "D": "विद्युतीय प्रेरण पर"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Lenz's law is related to",
+      "prashna": "लेंज का नियम् संबद्ध है",
+      "options": {
+        "A": "Charge",
+        "B": "Mass",
+        "C": "Energy",
+        "D": "Principle of conservation of momentum"
+      },
+      "vikalpa": {
+        "A": "आवेश से",
+        "B": "द्रव्यमान से",
+        "C": "ऊर्जा से",
+        "D": "संवेग के संरक्षण सिद्धांत से"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "The SI unit of self-inductance is",
+      "prashna": "स्वप्रेरकत्व (self-inductance) का SI मात्रक है",
+      "options": {
+        "A": "Coulomb (C)",
+        "B": "Volt (V)",
+        "C": "Ohm ($\\Omega$)",
+        "D": "Henry (H)"
+      },
+      "vikalpa": {
+        "A": "कूलॉम (C)",
+        "B": "वोल्ट (V)",
+        "C": "ओम ($\\Omega$)",
+        "D": "हेनरी (H)"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "The working principle of a dynamo is based on",
+      "prashna": "डायनेमो के कार्य का सिद्धांत आधारित है",
+      "options": {
+        "A": "Heating effect of current",
+        "B": "Electromagnetic induction",
+        "C": "Induced magnetism",
+        "D": "Induced electricity"
+      },
+      "vikalpa": {
+        "A": "धारा के ऊष्मीय प्रभाव पर",
+        "B": "विद्युत-चुंबकीय प्रेरण पर",
+        "C": "प्रेरित चुम्बकत्व पर",
+        "D": "प्रेरित विद्युत पर"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.3",
+      "topic_name": "Magnetic Flux",
+      "question": "State the dimension and SI unit of magnetic flux.",
+      "prashna": "चुम्बकीय फ्लक्स के विमा एवं SI मात्रक बताइए।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Write Lenz's law of electromagnetic induction.",
+      "prashna": "विद्युत चुम्बकीय प्रेरण के लेंज का नियम लिखें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Define self-inductance and mutual induction. Derive an expression for the mutual inductance of two long co-axial solenoids.",
+      "prashna": "स्व -प्रेरकत्व एवं अन्योन्य प्रेरण को परिभाषित करें। दो लम्बी समाक्षीय परिनालिकाओं का अन्योन्य प्रेरकत्व का व्यंजक निकालें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.4",
+      "topic_name": "Faraday’s Law of Induction",
+      "question": "In a closed circuit of resistance $10\\Omega$, the linked flux varies with time according to relation $\\phi = 6t^2 - 5t + 1$. At t = 0.25 second, the current (in Ampere) flowing through the circuit is:",
+      "prashna": "किसी बन्द परिपथ का प्रतिरोध 10 ओम है। इस परिपथ से t समय (सेकेण्ड) में, चुम्बकीय फ्लक्स (वेबर में) $\\phi = 6t^2 - 5t + 1$ से परिवर्तित होता है। t = 0.25 सेकेण्ड पर परिपथ में प्रवाहित धारा (एम्पियर में) होगी:",
+      "options": {
+        "A": "0.4",
+        "B": "0.2",
+        "C": "2.0",
+        "D": "4.0"
+      },
+      "vikalpa": {
+        "A": "0.4",
+        "B": "0.2",
+        "C": "2.0",
+        "D": "4.0"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.4",
+      "topic_name": "Faraday’s Law of Induction",
+      "question": "What are Eddy currents? Give its two uses.",
+      "prashna": "भँवर धाराएँ क्या हैं? इनके दो अनुप्रयोग दीजिए।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "When a magnet is moved towards a suspended wire loop as shown in figure then evaluate the direction of induced current in loop. State the law used by you for this evaluation.",
+      "prashna": "जब कोई चुम्बक चित्र में दर्शाए अनुसार किसी तार के लूप की ओर गति करता है, तो लूप में प्रेरित धारा की दिशा बताइये तथा आपके द्वारा उपयोग किये गए नियम को लिखें।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "The working of dynamo is based on the principle of -",
+      "prashna": "डायनेमो के कार्य का सिद्धान्त आधारित है -",
+      "options": {
+        "A": "Heating effect of current",
+        "B": "Electro-magnetic induction",
+        "C": "Induced magnetism",
+        "D": "Induced electricity"
+      },
+      "vikalpa": {
+        "A": "धारा के ऊष्मीय प्रभाव पर",
+        "B": "विद्युत-चुंबकीय प्रेरण पर",
+        "C": "प्रेरित चुंबकत्व पर",
+        "D": "प्रेरित विद्युत पर"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Lenz's law of electromagnetic induction follows the principle of conservation of energy. Discuss it.",
+      "prashna": "विद्युत चुंबकीय प्रेरण का लेंज का नियम, ऊर्जा के संरक्षण के सिद्धान्त का पालन करता है। इसकी विवेचना करे।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Lenz's law is associated with the principle of conservation of",
+      "prashna": "लेंज का नियम किस संरक्षण सिद्धान्त से सम्बन्धित है ?",
+      "options": {
+        "A": "Charge",
+        "B": "mass",
+        "C": "energy",
+        "D": "momentum"
+      },
+      "vikalpa": {
+        "A": "आवेश के",
+        "B": "द्रव्यमान के",
+        "C": "ऊर्जा के",
+        "D": "संवेग के"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "The working principle of dynamo depends upon",
+      "prashna": "डायनेमो के कार्य का सिद्धांत आधारित है",
+      "options": {
+        "A": "Heating effect of current",
+        "B": "Electro-magnetic induction",
+        "C": "Induced magnetism",
+        "D": "Induced electricity"
+      },
+      "vikalpa": {
+        "A": "धारा के ऊष्मीय प्रभाव पर",
+        "B": "विद्युत-चुंबकीय प्रेरण पर",
+        "C": "प्रेरित चुम्बकत्व पर",
+        "D": "प्रेरित विद्युत पर"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Write lenz's law of electromagnetic induction.",
+      "prashna": "विद्युत चुम्बकीय प्रेरण के लेंज नियम लिखें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.3",
+      "topic_name": "Magnetic Flux",
+      "question": "Magnetic field of 5 tesla is equal to",
+      "prashna": "5 tesla (टेसला) का चुंबकीय क्षेत्र बराबर होता है",
+      "options": {
+        "A": "$5 \\times \\frac{\\text{weber}}{(\\text{metre})^2}$",
+        "B": "$5 \\times 10^5 \\frac{\\text{weber}}{(\\text{metre})^2}$",
+        "C": "$5 \\times 10^2 \\frac{\\text{weber}}{(\\text{metre})^2}$",
+        "D": "$5 \\times 10^2 \\text{ weber} \\times (\\text{metre})^2$"
+      },
+      "vikalpa": {
+        "A": "$5 \\times \\frac{\\text{वेबर}}{(\\text{मीटर})^2}$",
+        "B": "$5 \\times 10^5 \\frac{\\text{वेबर}}{(\\text{मीटर})^2}$",
+        "C": "$5 \\times 10^2 \\frac{\\text{वेबर}}{(\\text{मीटर})^2}$",
+        "D": "$5 \\times 10^2 \\text{ वेबर } (\\text{मीटर})^2$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "One henry is equal to",
+      "prashna": "एक हेनरी बराबर होता है",
+      "options": {
+        "A": "$10^3 \\text{ mH}$",
+        "B": "$10^6 \\text{ mH}$",
+        "C": "$10^{-3} \\text{ mH}$",
+        "D": "$10^{-6} \\text{ mH}$"
+      },
+      "vikalpa": {
+        "A": "$10^3 \\text{ mH}$",
+        "B": "$10^6 \\text{ mH}$",
+        "C": "$10^{-3} \\text{ mH}$",
+        "D": "$10^{-6} \\text{ mH}$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.3",
+      "topic_name": "Magnetic Flux",
+      "question": "S.I. unit of magnetic flux is",
+      "prashna": "चुम्बकीय फ्लक्स का S.I. मात्रक होता है",
+      "options": {
+        "A": "weber",
+        "B": "watt",
+        "C": "tesla",
+        "D": "joule"
+      },
+      "vikalpa": {
+        "A": "वेबर",
+        "B": "वाट",
+        "C": "टेसला",
+        "D": "जूल"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Lenz's law is the result of which principle of conservation ?",
+      "prashna": "लेंज का नियम किसके संरक्षण के सिद्धान्त का परिणाम है ?",
+      "options": {
+        "A": "Current",
+        "B": "Momentum",
+        "C": "Energy",
+        "D": "Charge"
+      },
+      "vikalpa": {
+        "A": "धारा",
+        "B": "संवेग",
+        "C": "ऊर्जा",
+        "D": "आवेश"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.3",
+      "topic_name": "Magnetic Flux",
+      "question": "Write down the definition and S.I. unit of magnetic flux.",
+      "prashna": "चुम्बकीय फ्लक्स की परिभाषा एवं S.I. मात्रक लिखें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "When current in a coil changes from 5A to 2A in 0.1s then average voltage of 50V is produced. The self-inductance of the coil is",
+      "prashna": "जब किसी कुण्डली में धारा 0.1s में 5A से 2 A में परिवर्तित होती है तो 50V का औसत वोल्टेज उत्पन्न होता है। कुण्डली का स्वप्रेरकत्व है",
+      "options": {
+        "A": "1.67 henry",
+        "B": "6 henry",
+        "C": "3 henry",
+        "D": "0.67 henry"
+      },
+      "vikalpa": {
+        "A": "1.67 हेनरी",
+        "B": "6 हेनरी",
+        "C": "3 हेनरी",
+        "D": "0.67 हेनरी"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "The self-inductance of a choke coil is 5 henry. The current through it is increasing at a rate of $2 AS^{-1}$. The self-induced emf in the choke coil will be",
+      "prashna": "एक चोक- कुण्डली का स्वप्रेरकत्व 5 हेनरी है। इससे बहती धारा $2 AS^{-1}$ की दर से बढ़ रही हैं। चोक- कुण्डली का प्रेरित विद्युत वाहक बल होगा",
+      "options": {
+        "A": "2.5 V",
+        "B": "5 V",
+        "C": "- 10 V",
+        "D": "10 V"
+      },
+      "vikalpa": {
+        "A": "2.5 V",
+        "B": "5 V",
+        "C": "- 10 V",
+        "D": "10 V"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "The formula for magnetic energy density for a solenoid is",
+      "prashna": "परिनालिका में चुम्बकीय ऊर्जा घनत्व का सूत्र है",
+      "options": {
+        "A": "$\\frac{B^2}{2\\mu_0}$",
+        "B": "$\\frac{B}{2\\mu_0}$",
+        "C": "$\\frac{2\\mu_0}{B^2}$",
+        "D": "$\\frac{B}{4\\pi\\mu_0}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{B^2}{2\\mu_0}$",
+        "B": "$\\frac{B}{2\\mu_0}$",
+        "C": "$\\frac{2\\mu_0}{B^2}$",
+        "D": "$\\frac{B}{4\\pi\\mu_0}$"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "Lenz's law follows the law of conservation of energy. Explain.",
+      "prashna": "लेंज का नियम ऊर्जा संरक्षण सिद्धांत का पालन करता है, समझायें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "S.I. unit of self-induction is",
+      "prashna": "स्वप्रेरकत्व का S.I. मात्रक है",
+      "options": {
+        "A": "coulomb (C)",
+        "B": "volt (V)",
+        "C": "ohm ($\\Omega$)",
+        "D": "henry (H)"
+      },
+      "vikalpa": {
+        "A": "कूलॉम (C)",
+        "B": "वोल्ट (V)",
+        "C": "ओम ($\\Omega$)",
+        "D": "हेनरी (H)"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "On oscillating any metallic sphere in the magnetic field, its oscillatory motion is",
+      "prashna": "धातु के बने किसी गोलक की चुम्बकीय क्षेत्र में दोलन करने पर उसकी दोलन गति होती है",
+      "options": {
+        "A": "Accelerated",
+        "B": "Damping",
+        "C": "Uniform",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "त्वरित",
+        "B": "अवमंदित",
+        "C": "एकसमान",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "The working principle of dynamo is based on",
+      "prashna": "डायनेमो के कार्य का सिद्धांत आधारित है",
+      "options": {
+        "A": "heating effect of current",
+        "B": "electromagnetic induction",
+        "C": "induced magnetism",
+        "D": "induced current"
+      },
+      "vikalpa": {
+        "A": "धारा के ऊष्मीय प्रभाव पर",
+        "B": "विद्युत-चुम्बकीय प्रेरण पर",
+        "C": "प्रेरित चुंबकत्व पर",
+        "D": "प्रेरित धारा पर"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.2",
+      "topic_name": "The Experiments of Faraday and Henry",
+      "question": "A magnet is situated near a closed conductor. Current can be produced in the conductor, if",
+      "prashna": "एक बंद चालक के निकट एक चुंबक स्थित है। चालक में धारा उत्पन्न की जा सकती है, यदि",
+      "options": {
+        "A": "only magnet is in motion",
+        "B": "only conductor is in motion",
+        "C": "both magnet and conductor are in motion",
+        "D": "there is relative motion between magnet and conductor"
+      },
+      "vikalpa": {
+        "A": "केवल चुंबक गतिशील हो",
+        "B": "केवल चालक गतिशील हो",
+        "C": "चुंबक और चालक दोनों गतिशील हों",
+        "D": "चुंबक और चालक के बीच आपेक्षिक गति हो"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "What is produced by induction coil ?",
+      "prashna": "प्रेरण कुंडली क्या उत्पन्न करता है ?",
+      "options": {
+        "A": "High current",
+        "B": "High voltage",
+        "C": "Low current",
+        "D": "Low voltage"
+      },
+      "vikalpa": {
+        "A": "उच्च धारा",
+        "B": "उच्च वोल्टता",
+        "C": "अल्प धारा",
+        "D": "अल्प वोल्टता"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "The energy density of magnetic field $\\vec{B}$ is",
+      "prashna": "चुम्बकीय क्षेत्र $\\vec{B}$ का ऊर्जा घनत्व होता है",
+      "options": {
+        "A": "$\\frac{B^2}{2\\mu_0}$",
+        "B": "$\\frac{B^2}{\\mu_0}$",
+        "C": "$\\frac{B^2}{4\\mu_0}$",
+        "D": "$\\frac{B^2}{3\\mu_0}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{B^2}{2\\mu_0}$",
+        "B": "$\\frac{B^2}{\\mu_0}$",
+        "C": "$\\frac{B^2}{4\\mu_0}$",
+        "D": "$\\frac{B^2}{3\\mu_0}$"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.3",
+      "topic_name": "Magnetic Flux",
+      "question": "If magnetic field $\\vec{B}$ is perpendicular to surface area vector $\\vec{ds}$, then the magnetic flux on ds area will be",
+      "prashna": "यदि $\\vec{ds}$ क्षेत्रफल सदिश पर चुम्बकीय क्षेत्र $\\vec{B}$ लंबवत् हो, तब ds क्षेत्र पर चुम्बकीय फ्लक्स होगा",
+      "options": {
+        "A": "$B ds \\cos\\theta$",
+        "B": "$B ds \\sin\\theta$",
+        "C": "$B ds \\tan\\theta$",
+        "D": "zero"
+      },
+      "vikalpa": {
+        "A": "$B ds \\cos\\theta$",
+        "B": "$B ds \\sin\\theta$",
+        "C": "$B ds \\tan\\theta$",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "What is eddy current? Write down its utilities.",
+      "prashna": "भँवर धारा क्या है? इसकी उपयोगिताएँ लिखिए।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Define self-inductance and write its S.I. unit. Find the self-inductance for a solenoid of N turns, length l and radius r.",
+      "prashna": "स्वप्रेरकत्व को परिभाषित करें तथा इसका S.I. मात्रक लिखें। N फेरों वाली, l लम्बाई तथा r त्रिज्या की परिनालिका के लिए स्वप्रेरकत्व की गणना करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.5",
+      "topic_name": "Lenz’s Law and Conservation of Energy",
+      "question": "When a metal sphere is allowed to move in a magnetic field then it becomes hot because",
+      "prashna": "जब एक चुम्बकीय क्षेत्र में धातु का गोला गतिमान कराया जाता है, तब यह गर्म हो जाता है, क्योंकि",
+      "options": {
+        "A": "Alternating current is produced",
+        "B": "Direct current is produced",
+        "C": "Eddy current is produced",
+        "D": "Extra current is produced"
+      },
+      "vikalpa": {
+        "A": "प्रत्यावर्ती धारा उत्पन्न होती है",
+        "B": "दिष्ट धारा उत्पन्न होती है",
+        "C": "भँवर धारा उत्पन्न होती है",
+        "D": "अतिरिक्त धारा उत्पन्न होती है"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Magnetic energy (U) and current flowing (I) associated with a current carrying inductor are related in proportionality as",
+      "prashna": "किसी धारावाही प्रेरित्र से संबद्ध चुंबकीय ऊर्जा (U) तथा प्रवाहित धारा (I) के समानुपातिकता में संबंध होता हैं।",
+      "options": {
+        "A": "$U \\propto \\frac{1}{I}$",
+        "B": "$U \\propto \\frac{1}{I^2}$",
+        "C": "$U \\propto I$",
+        "D": "$U \\propto I^2$"
+      },
+      "vikalpa": {
+        "A": "$U \\propto \\frac{1}{I}$",
+        "B": "$U \\propto \\frac{1}{I^2}$",
+        "C": "$U \\propto I$",
+        "D": "$U \\propto I^2$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Self-Inductance of a coil is 5 mH. If 2A of current flow through this coil then magnetic flux linked with coil will be",
+      "prashna": "एक कुण्डली का स्वप्रेरण-गुणांक 5 mH है। यदि इस कुंडली से 2A की धारा बहाई जाय तो इस कुंडली से संबंध चुंबकीय फ्लक्स होगा?",
+      "options": {
+        "A": "1 Wb",
+        "B": "0.1 Wb",
+        "C": "0.01 Wb",
+        "D": "0.001 Wb"
+      },
+      "vikalpa": {
+        "A": "1 Wb",
+        "B": "0.1 Wb",
+        "C": "0.01 Wb",
+        "D": "0.001 Wb"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.8",
+      "topic_name": "AC Generator",
+      "question": "The machine which converts mechanical energy to electrical energy is called as",
+      "prashna": "वह यंत्र जो यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलता है, कहा जाता है",
+      "options": {
+        "A": "Transformer",
+        "B": "Induction coil",
+        "C": "Dynamo",
+        "D": "Motor"
+      },
+      "vikalpa": {
+        "A": "ट्रांसफॉर्मर",
+        "B": "प्रेरण कुंडली",
+        "C": "डायनेमो",
+        "D": "मोटर"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Write down definition of mutual inductance.",
+      "prashna": "अन्योन्य प्रेकत्व की परिभाषा लिखे।"
+    }
+  ]
+}

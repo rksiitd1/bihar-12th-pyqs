@@ -1,0 +1,332 @@
+{
+  "2010": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "From Bohr's theory for the hydrogen atom, for an electron in the nth orbit",
+      "prashna": "बोर के हाइड्रोजन परमाणु के सिद्धान्त से, n-वीं कक्षा में विद्यमान इलेक्ट्रॉन के लिए",
+      "options": {
+        "A": "Linear momentum $\\propto \\frac{1}{n}$",
+        "B": "Radius $\\propto n$",
+        "C": "Kinetic energy $\\propto \\frac{1}{n^2}$",
+        "D": "Angular momentum $\\propto n$"
+      },
+      "vikalpa": {
+        "A": "रेखीय संवेग $\\propto \\frac{1}{n}$",
+        "B": "त्रिज्या $\\propto n$",
+        "C": "गतिज ऊर्जा $\\propto \\frac{1}{n^2}$",
+        "D": "कोणीय संवेग $\\propto n$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.3",
+      "topic_name": "Atomic Spectra",
+      "question": "Of characteristic X-ray",
+      "prashna": "अभिलाक्षणिक X-किरण का",
+      "options": {
+        "A": "Roentgen",
+        "B": "Rutherford",
+        "C": "Einstein",
+        "D": "Moseley"
+      },
+      "vikalpa": {
+        "A": "रूण्टगन",
+        "B": "रदरफोर्ड",
+        "C": "आइन्स्टीन",
+        "D": "मौजल"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.3",
+      "topic_name": "Atomic Spectra",
+      "question": "In a laser beam, if one photon stimulates another photon for emission, then both photons are:",
+      "prashna": "लेजर किरण में एक फोटॉन, दूसरे फोटॉन को उत्सर्जन के लिए प्रेरित करता है, तो दोनों फोटॉन होती है।",
+      "options": {
+        "A": "Of same energy",
+        "B": "In same direction",
+        "C": "Of same amplitude",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "समान ऊर्जा",
+        "B": "समान दिशा",
+        "C": "समान आयाम",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.5",
+      "topic_name": "The Line Spectra of the Hydrogen Atom",
+      "question": "Statement-I: Balmer series lies in the infrared region. \nStatement-II: Lyman series lies in the ultraviolet region.",
+      "prashna": "कथन-I: बामर श्रेणी अवरक्त क्षेत्र में स्थित है।\nकथन- II : लाइमेन श्रेणी पराबैंगनी क्षेत्र में स्थित है।",
+      "options": {
+        "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+        "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+        "C": "Statement-I is correct, but statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+        "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+        "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.5",
+      "topic_name": "The Line Spectra of the Hydrogen Atom",
+      "question": "Which series of the hydrogen spectrum lies in the visible region?",
+      "prashna": "हाइड्रोजन स्पेक्ट्रम की कौन-सी श्रेणी दृश्य भाग में पड़ती है?",
+      "options": {
+        "A": "Lyman series",
+        "B": "Balmer series",
+        "C": "Paschen series",
+        "D": "Brackett series"
+      },
+      "vikalpa": {
+        "A": "लाइमन श्रेणी",
+        "B": "बामर श्रेणी",
+        "C": "पाश्चन श्रेणी",
+        "D": "ब्रैकट श्रेणी"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.5",
+      "topic_name": "The Line Spectra of the Hydrogen Atom",
+      "question": "Which series of the hydrogen spectrum does not lie in the infrared region?",
+      "prashna": "हाइड्रोजन स्पेक्ट्रम की कौन-सी श्रेणी अवरक्त भाग में नही पड़ती है ?",
+      "options": {
+        "A": "Humphreys series",
+        "B": "Pfund series",
+        "C": "Brackett series",
+        "D": "Lyman series"
+      },
+      "vikalpa": {
+        "A": "हम्फ्रीस श्रेणी",
+        "B": "कुंड श्रेणी",
+        "C": "ब्रैकेट श्रेणी",
+        "D": "लाइमन श्रेणी"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "The energy of an electron in the first Bohr orbit of a hydrogen atom is 13.6 eV. The energy of the electron in its second Bohr orbit will be.",
+      "prashna": "हाइड्रोजन परमाणु के प्रथम बोर कक्षा में इलेक्ट्रॉन की ऊर्जा 13.6eV है। उसके दूसरी बोर कक्षा में इलेक्ट्रान की ऊर्जा होगी",
+      "options": {
+        "A": "- 3.4 eV",
+        "B": "- 6.8eV",
+        "C": "- 27.2 eV",
+        "D": "+ 3.4 eV"
+      },
+      "vikalpa": {
+        "A": "- 3.4 eV",
+        "B": "- 6.8eV",
+        "C": "- 27.2 eV",
+        "D": "+ 3.4 eV"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "The minimum angular momentum of electron in Hydrogen atom will be -",
+      "prashna": "हाइड्रोजन परमाणु में इलेक्ट्रॉन का न्यूनतम कोणीय संवेग होगा -",
+      "options": {
+        "A": "$\\frac{h}{\\pi} Js$",
+        "B": "$\\frac{h}{2\\pi} Js$",
+        "C": "$h\\pi Js$",
+        "D": "$2\\pi h Js$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{h}{\\pi} Js$",
+        "B": "$\\frac{h}{2\\pi} Js$",
+        "C": "$h\\pi Js$",
+        "D": "$2\\pi h Js$"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.3",
+      "topic_name": "Atomic Spectra",
+      "question": "The solar spectrum is -",
+      "prashna": "सूर्य के प्रकाश का स्पेक्ट्रम होता है -",
+      "options": {
+        "A": "Continuous",
+        "B": "Line spectrum",
+        "C": "Spectrum of black lines",
+        "D": "Spectrum of black bands"
+      },
+      "vikalpa": {
+        "A": "सतत",
+        "B": "रैखिक स्पेक्ट्रम",
+        "C": "काली रेखा का स्पेक्ट्रम",
+        "D": "काली पट्टी का स्पेक्ट्रम"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.5",
+      "topic_name": "The Line Spectra of the Hydrogen Atom",
+      "question": "Which series falls in visible region of hydrogen spectrum?",
+      "prashna": "हाइड्रोजन स्पेक्ट्रम की कौन-सी श्रेणी दृश्य भाग में पड़ती है?",
+      "options": {
+        "A": "Brackett series",
+        "B": "Paschen series",
+        "C": "Lyman series",
+        "D": "Balmer series"
+      },
+      "vikalpa": {
+        "A": "ब्रेकट श्रेणी",
+        "B": "पाश्चन श्रेणी",
+        "C": "लाइमन श्रेणी",
+        "D": "बामर श्रेणी"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "Bohr's frequency condition is",
+      "prashna": "बोर का आवृत्ति शर्त होता है",
+      "options": {
+        "A": "$E_1 - E_2 = \\frac{1}{2}h\\nu$",
+        "B": "$E_1 - E_2 = h\\nu$",
+        "C": "$E_1 - E_2 = 3h\\nu$",
+        "D": "$E_1 - E_2 = \\frac{3}{2}h\\nu$"
+      },
+      "vikalpa": {
+        "A": "$E_1 - E_2 = \\frac{1}{2}h\\nu$",
+        "B": "$E_1 - E_2 = h\\nu$",
+        "C": "$E_1 - E_2 = 3h\\nu$",
+        "D": "$E_1 - E_2 = \\frac{3}{2}h\\nu$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "The minimum orbital angular momentum of an electron in a hydrogen atom is",
+      "prashna": "हाइड्रोजन परमाणु में इलेक्ट्रॉन की न्यूनतम कक्षीय कोणीय संवेग होता है",
+      "options": {
+        "A": "h",
+        "B": "$\\frac{h}{2}$",
+        "C": "$\\frac{h}{2\\pi}$",
+        "D": "$\\frac{h}{\\lambda}$"
+      },
+      "vikalpa": {
+        "A": "h",
+        "B": "$\\frac{h}{2}$",
+        "C": "$\\frac{h}{2\\pi}$",
+        "D": "$\\frac{h}{\\lambda}$"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "LASER action needs",
+      "prashna": "लेजर क्रिया के लिए आवश्यक है।",
+      "options": {
+        "A": "High temperature",
+        "B": "Semiconductor",
+        "C": "High pressure",
+        "D": "Number inversion"
+      },
+      "vikalpa": {
+        "A": "उच्च ताप",
+        "B": "अर्धचालक",
+        "C": "उच्च दाब",
+        "D": "संख्या परिवर्तन"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Atoms",
+      "topic": "12.4",
+      "topic_name": "Bohr Model of the Hydrogen Atom",
+      "question": "In Bohr orbit of hydrogen atom, ratio of Kinetic energy of electron to the Potential energy of atom is",
+      "prashna": "हाइड्रोजन परमाणु के बोर कक्षा में, इलेक्ट्रॉन की गतिज ऊर्जा और परमाणु की स्थितिज ऊर्जा का अनुपात क्या है?",
+      "options": {
+        "A": "$\\frac{1}{2}$",
+        "B": "2",
+        "C": "$-\\frac{1}{2}$",
+        "D": "-2"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}$",
+        "B": "2",
+        "C": "$-\\frac{1}{2}$",
+        "D": "-2"
+      }
+    }
+  ]
+}

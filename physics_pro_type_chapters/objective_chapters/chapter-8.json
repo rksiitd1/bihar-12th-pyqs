@@ -1,0 +1,1020 @@
+{
+  "2009": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "In an electromagnetic wave, the phase difference between the electric and magnetic fields is",
+      "prashna": "विद्युत चुम्बकीय तरंग में विद्युतीय एवं चुम्बकीय क्षेत्रों के बीच कलान्तर होता है",
+      "options": {
+        "A": "0",
+        "B": "$\\pi/2$",
+        "C": "$\\pi$",
+        "D": "some"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\\pi/2$",
+        "C": "$\\pi$",
+        "D": "कुछ भी"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Sky wave communication is based on",
+      "prashna": "स्काई तरंग संचार आधारित है",
+      "options": {
+        "A": "reflection by the ionosphere",
+        "B": "absorption by the ionosphere",
+        "C": "transmission through the ionosphere",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आयनमण्डल द्वारा परावर्तन पर",
+        "B": "आयनमण्डल द्वारा अवशोषण पर",
+        "C": "आयनमण्डल में से संचरण पर",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Choose the correct pair for modulation.\n(a) Amplitude Modulation -> (i) Amplitude: Modulating signal\n(b) Frequency Modulation -> (ii) Initial phase: Modulating signal\n(c) Phase Modulation -> (iii) Frequency: Modulating signal\n(d) Pulse Modulation -> (iv) Pulse position: Modulating signal",
+      "prashna": "मॉडुलन का सही जोड़ा चुनें।\n(a) आयाम मॉडुलन -> (i) आयामः मॉडुलक संकेत\n(b) आवृत्ति मॉडुलन -> (ii) आरंभिक कला : मॉडुलक संकेत\n(c) कला मॉडुलन -> (iii) आवृत्ति : मॉडुलक संकेत\n(d) पल्स मॉडुलन -> (iv) पल्स स्थिति : मॉडुलक संकेत",
+      "options": {
+        "A": "a - i, b - ii, d - iii, c - iv",
+        "B": "a - i, b - ii, c - iii, d - iv",
+        "C": "d - i, c - ii, b - iii, a - iv",
+        "D": "b - i, a - ii, d - iii, c - iv"
+      },
+      "vikalpa": {
+        "A": "a - i, b - ii, d - iii, c - iv",
+        "B": "a - i, b - ii, c - iii, d - iv",
+        "C": "d - i, c - ii, b - iii, a - iv",
+        "D": "b - i, a - ii, d - iii, c - iv"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Statement-I: In electromagnetic waves, the strength of the electric field (E) is much greater than the strength of the magnetic field (B).\nStatement-II: An electromagnetic wave is deflected in a perpendicular electric field, but remains undeflected in a perpendicular magnetic field.",
+      "prashna": "कथन- I विद्युत चुम्बकीय तरंगों में विद्युत क्षेत्र (E) का सामर्थ्य चुम्बकीय क्षेत्र (B) से काफी अधिक रहता है।\nकथन- II: विद्युत-चुम्बकीय तरंग लम्बवत् विद्युत क्षेत्र में विक्षेपित होती है, लेकिन लम्बवत् चुम्बकीय क्षेत्र अविक्षेपित रहती है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is false.",
+        "D": "Statement-I is false, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+        "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+        "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "In amplitude modulation, the modulation index",
+      "prashna": "आयाम मॉडुलन में मॉडुलन सूचनांक",
+      "options": {
+        "A": "is always zero",
+        "B": "is between 0 and 1",
+        "C": "is between 1 and 0",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सदा शून्य होता है",
+        "B": "0 से 1 के बीच होता है।",
+        "C": "1 तथा 0 के बीच होता है।",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "An antenna is",
+      "prashna": "ऐण्टीना होता है",
+      "options": {
+        "A": "Inductive",
+        "B": "Capacitive",
+        "C": "Resistive at resonant frequency",
+        "D": "Above resonant frequency"
+      },
+      "vikalpa": {
+        "A": "प्रेरणिक",
+        "B": "धारितात्मक",
+        "C": "अनुनादी आवृत्ति पर प्रतिरोधक",
+        "D": "अनुनादी आवृत्ति के ऊपर"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "X-ray",
+      "prashna": "X-किरण",
+      "options": {
+        "A": "Roentgen",
+        "B": "Rutherford",
+        "C": "Einstein",
+        "D": "Moseley"
+      },
+      "vikalpa": {
+        "A": "रूण्टगन",
+        "B": "रदरफोर्ड",
+        "C": "आइन्स्टीन",
+        "D": "मौजल"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Statement-I: The nature of electromagnetic waves is transverse.\nStatement-II: Electromagnetic waves can be polarized.",
+      "prashna": "कथन-। : विद्युत चुम्बकीय तरंगों की प्रकृति अनुप्रस्थ होती है।\nकथन- II : विद्युत चुम्बकीय तरंगों को ध्रुवित किया जा सकता है।",
+      "options": {
+        "A": "Both statements are correct and statement-II is the correct explanation of statement-I.",
+        "B": "Both statements are correct but statement-II is not the correct explanation of statement-I.",
+        "C": "Statement-I is correct, but statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन- । की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन- । की सही व्याख्या नहीं है।",
+        "C": "कथन-। सही है, परन्तु कथन- ।। असत्य है।",
+        "D": "कथन-। असत्य है, परन्तु कथन-॥ सही है।"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The value of amplitude modulation index is",
+      "prashna": "आयाम मोडूलन सूचकांक का मान होता है",
+      "options": {
+        "A": "Always 0",
+        "B": "Between 1 and $\\infty$",
+        "C": "Between 0 and 1",
+        "D": "Always $\\infty$"
+      },
+      "vikalpa": {
+        "A": "हमेशा 0",
+        "B": "1 तथा $\\infty$ के बीच",
+        "C": "0 तथा 1 के बीच",
+        "D": "हमेशा $\\infty$"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The direction of propagation of an electromagnetic wave is:",
+      "prashna": "विद्युतचुंबकीय तरंग के संचरण की दिशा होती है:",
+      "options": {
+        "A": "Parallel to $\\vec{B}$",
+        "B": "Parallel to $\\vec{E}$",
+        "C": "Parallel to $\\vec{B} \\times \\vec{E}$",
+        "D": "Parallel to $\\vec{E} \\times \\vec{B}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{B}$ के समानान्तर",
+        "B": "$\\vec{E}$ के समानान्तर",
+        "C": "$\\vec{B} \\times \\vec{E}$ के समानान्तर",
+        "D": "$\\vec{E} \\times \\vec{B}$ के समानान्तर"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "The value of amplitude modulation index is:",
+      "prashna": "आयाम माडुलन सूचकांक का मान होता है।",
+      "options": {
+        "A": "Always 0",
+        "B": "Between 1 and ∞",
+        "C": "Between 0 and 1",
+        "D": "Always ∞"
+      },
+      "vikalpa": {
+        "A": "हमेशा 0",
+        "B": "1 तथा ∞ के बीच",
+        "C": "0 तथा 1 के बीच",
+        "D": "हमेशा ∞"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which frequency range is used for TV broadcasting?",
+      "prashna": "TV प्रसारण के लिए किस आवृत्ति परास का उपयोग होता है ?",
+      "options": {
+        "A": "30 Hz - 300 Hz",
+        "B": "30 kHz - 300 kHz",
+        "C": "30 MHz - 300 MHz",
+        "D": "30 GHz - 300 GHz"
+      },
+      "vikalpa": {
+        "A": "30 Hz-300 Hz",
+        "B": "30 kHz-300 kHz",
+        "C": "30MHz-300MHz",
+        "D": "30 GHz-300 GHz"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The direction of propagation of an electromagnetic wave is.",
+      "prashna": "विद्युत चुम्बकीय तरंग के संचरण की दिशा है।",
+      "options": {
+        "A": "Parallel to $\\vec{E}$",
+        "B": "Parallel to $\\vec{B}$",
+        "C": "Parallel to $\\vec{B} \\times \\vec{E}$",
+        "D": "Parallel to $\\vec{E} \\times \\vec{B}$"
+      },
+      "vikalpa": {
+        "A": "E के समानान्तर",
+        "B": "B के समानान्तर",
+        "C": "B x E के समानान्तर",
+        "D": "E x B के समानान्तर"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The unit of the ratio of magnetic field (B) and electric field (E) i.e., (B/E) is.",
+      "prashna": "चुम्बकीय क्षेत्र (B) तथा विद्युत क्षेत्र E के अनुपात (B/E) का मात्रक होता है",
+      "options": {
+        "A": "$ms^{-1}$",
+        "B": "$sm^{-1}$",
+        "C": "ms",
+        "D": "$ms^{-2}$"
+      },
+      "vikalpa": {
+        "A": "$ms^{-1}$",
+        "B": "$sm^{-1}$",
+        "C": "ms",
+        "D": "$ms^{-2}$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The height of a TV transmission tower at a certain place on Earth is 245 m. The maximum distance up to which the transmission from this tower will reach is.",
+      "prashna": "पृथ्वी के किसी स्थान पर एक TV प्रेषण टावर की ऊँचाई 245 मी है। जितनी अधिकतम दूरी तक इस टावर का प्रसारण पहुँचेगा, वह है",
+      "options": {
+        "A": "245m",
+        "B": "245km",
+        "C": "56km",
+        "D": "112 km"
+      },
+      "vikalpa": {
+        "A": "245m",
+        "B": "245km",
+        "C": "56km",
+        "D": "112 km"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The dimensional formula for $\\frac{1}{2} \\epsilon_0 E^2$ is identical to that of:",
+      "prashna": "$\\frac{1}{2} \\epsilon_0 E^2$ के विमीय सूत्र के समतुल्य विमा की राशि है:",
+      "options": {
+        "A": "$\\frac{B^2}{2\\mu_0}$",
+        "B": "$\\frac{1}{2}B^2\\mu_0$",
+        "C": "$\\frac{\\mu_0^2}{2B}$",
+        "D": "$\\frac{1}{2}B\\mu_0^2$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{B^2}{2\\mu_0}$",
+        "B": "$\\frac{1}{2}B^2\\mu_0$",
+        "C": "$\\frac{\\mu_0^2}{2B}$",
+        "D": "$\\frac{1}{2}B\\mu_0^2$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "The energy of an electromagnetic radiation is 13.2keV. This radiation is related to which region of spectrum?",
+      "prashna": "किसी विद्युत चुम्बकीय विकिरण की ऊर्जा 13.2keV है। यह विकिरण जिस क्षेत्र से संबंधित है, वह है:",
+      "options": {
+        "A": "Visible",
+        "B": "X-rays",
+        "C": "Ultra violet",
+        "D": "Infrared"
+      },
+      "vikalpa": {
+        "A": "दृश्य प्रकाश",
+        "B": "X - किरण",
+        "C": "पराबैगनी",
+        "D": "अवरक्त"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Meaning of \"FAX\" is -",
+      "prashna": "\"फैक्स\" (FAX) का अर्थ है -",
+      "options": {
+        "A": "Full Access Transmission",
+        "B": "Facsimile Telegraphy",
+        "C": "Factual Auto Access",
+        "D": "Feed Auto Exchange"
+      },
+      "vikalpa": {
+        "A": "फुल एक्सेस ट्रांसमिशन",
+        "B": "फैक्सीमाइल टेलीग्राफी",
+        "C": "फैक्चुअल ऑटो एक्सेस",
+        "D": "फीड ऑटो एक्सचेंज"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The direction of propagation of electromagnetic wave is -",
+      "prashna": "विद्युत - चुंबकीय तरंग के संचरण की दिशा होती है -",
+      "options": {
+        "A": "Parallel to $\\vec{B}$",
+        "B": "Parallel to $\\vec{E}$",
+        "C": "Parallel to $\\vec{B} \\times \\vec{E}$",
+        "D": "Parallel to $\\vec{E} \\times \\vec{B}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{B}$ के समांतर",
+        "B": "$\\vec{E}$ के समांतर",
+        "C": "$\\vec{B} \\times \\vec{E}$ के समांतर",
+        "D": "$\\vec{E} \\times \\vec{B}$ के समांतर"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The modulation index in amplitude modulation -",
+      "prashna": "आयाम अधिमिश्रण में अधिमिश्रित सूचनांक होता है -",
+      "options": {
+        "A": "is always zero",
+        "B": "lies between 0 and 1",
+        "C": "lies between 1 and $\\infty$",
+        "D": "Can never exceed 0.5"
+      },
+      "vikalpa": {
+        "A": "हमेशा शून्य।",
+        "B": "0 से 1 के बीच।",
+        "C": "1 तथा $\\infty$ के बीच।",
+        "D": "0.5 से ज्यादा नहीं।"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The height of TV tower at a certain place is 245 m. The maximum distance up to which its programme can be received is -",
+      "prashna": "पृथ्वी के किसी स्थान पर एक TV प्रेषण टावर की ऊंचाई 245 m है। जितनी अधिकतम दूरी तक इस टावर का प्रसारण पहुँचेगा, वह है -",
+      "options": {
+        "A": "245 m",
+        "B": "245 km",
+        "C": "56 km",
+        "D": "112 km"
+      },
+      "vikalpa": {
+        "A": "245 m",
+        "B": "245 km",
+        "C": "56 km",
+        "D": "112 km"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which of the following has the shortest wavelength?",
+      "prashna": "निम्नलिखित विद्युत चुंबकीय तरंगों में किसका तरंगदैर्ध्य सबसे कम है",
+      "options": {
+        "A": "X-rays",
+        "B": "Radio waves",
+        "C": "$\\gamma$-rays",
+        "D": "Television waves"
+      },
+      "vikalpa": {
+        "A": "एक्स किरण",
+        "B": "रेडियो तरंग",
+        "C": "गामा किरण",
+        "D": "टेलीविजन तरंग"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Frequency range for ground wave should be",
+      "prashna": "भू-तरंगों के लिए आवृत्ति होनी चाहिए",
+      "options": {
+        "A": "less than 0 MHz",
+        "B": "less than 1500 KHz",
+        "C": "more than $10^5$ MHz",
+        "D": "more than 100 MHz"
+      },
+      "vikalpa": {
+        "A": "0 MHz से कम",
+        "B": "1500 KHz से कम",
+        "C": "$10^5$ MHz से अधिक",
+        "D": "100 MHz से अधिक"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The direction of propagation of electromagnetic wave is",
+      "prashna": "विद्युत-चुम्बकीय तरंग के संचरण की दिशा होती है",
+      "options": {
+        "A": "parallel to $\\vec{E}$",
+        "B": "parallel to $\\vec{B}$",
+        "C": "parallel to $(\\vec{B} \\times \\vec{E})$",
+        "D": "parallel to $(\\vec{E} \\times \\vec{B})$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{E}$ के समांतर",
+        "B": "$\\vec{B}$ के समांतर",
+        "C": "$(\\vec{B} \\times \\vec{E})$ के समांतर",
+        "D": "$(\\vec{E} \\times \\vec{B})$ के समांतर"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which of the following is the frequency range for TV broadcasting ?",
+      "prashna": "TV प्रसारण के लिए निम्नलिखित में कौन आवृत्ति-परास है ?",
+      "options": {
+        "A": "30-300 Hz",
+        "B": "30-300 kHz",
+        "C": "30-300 MHz",
+        "D": "30-300 GHz"
+      },
+      "vikalpa": {
+        "A": "30-300 Hz",
+        "B": "30-300 kHz",
+        "C": "30-300 MHz",
+        "D": "30-300 GHz"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which of the following units is correct to measure attenuation ?",
+      "prashna": "क्षीणता को मापने के लिए निम्नलिखित में कौन मात्रक सही है ?",
+      "options": {
+        "A": "decibel",
+        "B": "ohm",
+        "C": "ampere",
+        "D": "volt"
+      },
+      "vikalpa": {
+        "A": "डेसीबेल",
+        "B": "ओम",
+        "C": "ऐम्पियर",
+        "D": "वोल्ट"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which of the following is not electromagnetic wave?",
+      "prashna": "निम्नलिखित में कौन विद्युत-चुम्बकीय तरंग नहीं है ?",
+      "options": {
+        "A": "Light waves",
+        "B": "X-rays",
+        "C": "Sound waves",
+        "D": "Infrared rays"
+      },
+      "vikalpa": {
+        "A": "प्रकाश तरंगें",
+        "B": "X-किरणें",
+        "C": "ध्वनि तरंगें",
+        "D": "अवरक्त किरणें"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Which of the following is correct for speed of electromagnetic wave in vacuum ?",
+      "prashna": "निम्नलिखित में कौन निर्वात में विद्युत चुम्बकीय तरंग की चाल के लिए सही है ?",
+      "options": {
+        "A": "$c = \\sqrt{\\mu_0 \\epsilon_0}$",
+        "B": "$c = \\frac{1}{\\sqrt{\\mu_0 \\epsilon_0}}$",
+        "C": "$c = \\sqrt{\\frac{\\mu_0}{\\epsilon_0}}$",
+        "D": "$c = \\sqrt{\\frac{\\epsilon_0}{\\mu_0}}$"
+      },
+      "vikalpa": {
+        "A": "$c = \\sqrt{\\mu_0 \\epsilon_0}$",
+        "B": "$c = \\frac{1}{\\sqrt{\\mu_0 \\epsilon_0}}$",
+        "C": "$c = \\sqrt{\\frac{\\mu_0}{\\epsilon_0}}$",
+        "D": "$c = \\sqrt{\\frac{\\epsilon_0}{\\mu_0}}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Nature of electromagnetic waves is",
+      "prashna": "विद्युत-चुंबकीय तरंगों की प्रकृति होती है",
+      "options": {
+        "A": "transverse",
+        "B": "longitudinal",
+        "C": "both (A) and (B)",
+        "D": "electrical"
+      },
+      "vikalpa": {
+        "A": "अनुप्रस्थ",
+        "B": "अनुदैर्ध्य",
+        "C": "(A) और (B) दोनों",
+        "D": "विद्युतीय"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "In visible spectrum, which colour has larger wavelength ?",
+      "prashna": "दृश्य स्पेक्ट्रम के रंगों में किसका अधिक तरंगदैर्ध्य होता है ?",
+      "options": {
+        "A": "Red",
+        "B": "Yellow",
+        "C": "Blue",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल का",
+        "B": "पीला का",
+        "C": "नीला का",
+        "D": "बैंगनी का"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which one of the following electromagnetic radiations has minimum wavelength ?",
+      "prashna": "निम्नलिखित में से किस वैद्युत चुम्बकीय विकिरण का तरंगदैर्ध्य न्यूनतम है ?",
+      "options": {
+        "A": "Ultraviolet",
+        "B": "X-rays",
+        "C": "Microwaves",
+        "D": "$\\gamma$-rays"
+      },
+      "vikalpa": {
+        "A": "पराबैंगनी",
+        "B": "एक्स-किरणें",
+        "C": "सूक्ष्म तरंगें",
+        "D": "गामा किरणें"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The phase difference between electric wave and magnetic wave in the electromagnetic wave is",
+      "prashna": "विद्युत चुम्बकीय तरंग में विद्युतीय तरंग तथा चुम्बकीय तरंग के बीच कलान्तर होता है",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "Zero"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which range of frequency is used in TV transmission?",
+      "prashna": "TV प्रसारण के लिए किस आवृत्ति परास का उपयोग होता है ?",
+      "options": {
+        "A": "30 Hz - 300 Hz",
+        "B": "30 kHz - 300 kHz",
+        "C": "30 MHz - 300 MHz",
+        "D": "30 GHz - 300 GHz"
+      },
+      "vikalpa": {
+        "A": "30 Hz - 300 Hz",
+        "B": "30 kHz - 300 kHz",
+        "C": "30 MHz - 300 MHz",
+        "D": "30 GHz - 300 GHz"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Waves of UHF frequency are generally transmitted as",
+      "prashna": "UHF आवृत्ति की तरंगें प्रायः कैसे संचारित होती हैं ?",
+      "options": {
+        "A": "ground waves",
+        "B": "sky waves",
+        "C": "surface waves",
+        "D": "space waves"
+      },
+      "vikalpa": {
+        "A": "भू-तरंगें",
+        "B": "आकाश तरंगें",
+        "C": "सतह तरंगें",
+        "D": "अन्तरिक्ष तरंगें"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "X-rays are",
+      "prashna": "X-किरणें हैं",
+      "options": {
+        "A": "moving electron",
+        "B": "moving positive ion",
+        "C": "moving negative ion",
+        "D": "electromagnetic waves"
+      },
+      "vikalpa": {
+        "A": "गतिमान इलेक्ट्रॉन",
+        "B": "गतिमान धनात्मक आयन",
+        "C": "गतिमान ऋणात्मक आयन",
+        "D": "विद्युत चुम्बकीय तरंगे"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The value of $(\\mu_0 \\epsilon_0)^{-1/2}$ is",
+      "prashna": "$(\\mu_0 \\epsilon_0)^{-1/2}$ का मान है",
+      "options": {
+        "A": "$3 \\times 10^8$ cm/second",
+        "B": "$3 \\times 10^{10}$ cm/second",
+        "C": "$3 \\times 10^9$ cm/second",
+        "D": "$3 \\times 10^8$ km/second"
+      },
+      "vikalpa": {
+        "A": "$3 \\times 10^8$ सेमी/सेकण्ड",
+        "B": "$3 \\times 10^{10}$ सेमी/सेकण्ड",
+        "C": "$3 \\times 10^9$ सेमी/सेकण्ड",
+        "D": "$3 \\times 10^8$ किमी/सेकण्ड"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The device which works of both modulation and demodulation is called",
+      "prashna": "वैसी युक्ति जो मॉडुलन तथा डिमॉडुलन दोनों का कार्य करती है, उसे कहते हैं",
+      "options": {
+        "A": "Laser",
+        "B": "Radar",
+        "C": "Modem",
+        "D": "Fax"
+      },
+      "vikalpa": {
+        "A": "लेसर",
+        "B": "रडार",
+        "C": "मोडेम",
+        "D": "फैक्स"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Distance of communication satellite from the surface of the earth is",
+      "prashna": "संचार उपग्रह की पृथ्वी की सतह से दूरी है",
+      "options": {
+        "A": "36000 km",
+        "B": "36000 mile",
+        "C": "3600 km",
+        "D": "36000 metre"
+      },
+      "vikalpa": {
+        "A": "36000 किमी",
+        "B": "36000 मील",
+        "C": "3600 किमी",
+        "D": "36000 मीटर"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Attenuation is measured in",
+      "prashna": "संकीर्णन का मापन किया जाता है",
+      "options": {
+        "A": "ohm",
+        "B": "decibel",
+        "C": "mho",
+        "D": "siemen"
+      },
+      "vikalpa": {
+        "A": "ओम में",
+        "B": "डेसीबेल में",
+        "C": "म्हो में",
+        "D": "सीमेन में"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.4",
+      "topic_name": "Electromagnetic Spectrum",
+      "question": "Which of the following is used in plant houses (greenhouses)?",
+      "prashna": "निम्नलिखित में से किसका उपयोग पौधा घरों में होता है?",
+      "options": {
+        "A": "Gamma rays",
+        "B": "X-rays",
+        "C": "Ultraviolet rays",
+        "D": "Infrared rays"
+      },
+      "vikalpa": {
+        "A": "गामा किरणों का",
+        "B": "X- किरणों का",
+        "C": "पराबैंगनी किरणों का",
+        "D": "अवरक्त किरणों का"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "$\\vec{E}$ Vector of any electromagnetic wave is along x-axis and $\\vec{H}$ vector is along z-axis. Velocity of this wave is",
+      "prashna": "किसी विद्युत-चुंबकीय तरंग का $\\vec{E}$ सदिश X-अक्ष के अनुदिश तथा $\\vec{H}$ सदिश Z-अक्ष के अनुदिश है। उस तरंग का गति की दिशा होगी",
+      "options": {
+        "A": "along X-axis",
+        "B": "along Y-axis",
+        "C": "along Z-axis",
+        "D": "along any direction"
+      },
+      "vikalpa": {
+        "A": "X-अक्ष के अनुदिश",
+        "B": "Y-अक्ष के अनुदिश",
+        "C": "Z-अक्ष के अनुदिश",
+        "D": "किसी भी दिशा में"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.1",
+      "topic_name": "Introduction",
+      "question": "The invention of wireless telegraphy is done by",
+      "prashna": "बेतारी-तार-संचार का अविष्कार किसने किया?",
+      "options": {
+        "A": "Maxwell",
+        "B": "Hertz",
+        "C": "Marconi",
+        "D": "Jagdesh chandra Basu"
+      },
+      "vikalpa": {
+        "A": "मैक्सवेल ने",
+        "B": "हर्ट्ज ने",
+        "C": "मार्कोनी ने",
+        "D": "जगदीशचंद्र बसु ने"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Which of the following frequency will be suitable for propogation across the horizon by using space waves",
+      "prashna": "व्योम तरंगों के उपयोग द्वारा क्षितिज के पार संचार के लिये निम्नलिखित आवृत्तियों में कौन आवृत्ति उपयुक्त होगी?",
+      "options": {
+        "A": "10 KHz",
+        "B": "10 MHz",
+        "C": "16 MHz",
+        "D": "1000 GHz"
+      },
+      "vikalpa": {
+        "A": "10 KHz",
+        "B": "10 MHz",
+        "C": "16 MHz",
+        "D": "1000 GHz"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Propogation of UHF range frequencies takes place due to which?",
+      "prashna": "UHF परिसर के आवृत्तियों का प्रसारण प्रायः किसके द्वारा होता है?",
+      "options": {
+        "A": "Earth waves",
+        "B": "Space waves",
+        "C": "Surfacial waves",
+        "D": "Sky waves"
+      },
+      "vikalpa": {
+        "A": "भू-तरंगें",
+        "B": "व्योम तरंगें",
+        "C": "पृष्ठीय तरंगें",
+        "D": "आकाश तरंगें"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The direction of Propagation of electromagnetic wave is",
+      "prashna": "विद्युत-चुंबकीय तरंग के संचार की दिशा होती है",
+      "options": {
+        "A": "Parallel to $\\vec{E}$",
+        "B": "Parallel to $\\vec{B}$",
+        "C": "Parallel to $\\vec{B} \\times \\vec{E}$",
+        "D": "Parallel to $\\vec{E} \\times \\vec{B}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{E}$ के समांतर",
+        "B": "$\\vec{B}$ के समांतर",
+        "C": "$\\vec{B} \\times \\vec{E}$ के समांतर",
+        "D": "$\\vec{E} \\times \\vec{B}$ के समांतर"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1132 @@
+{
+  "2009": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "For a magnet in tan A and tan B positions, if the magnetic fields at a distance d are $B_1$ and $B_2$ respectively, then",
+      "prashna": "चुम्बक के tan A तथा tan B स्थिति में दूरी d पर चुम्बकीय क्षेत्र क्रमशः $B_1$ तथा $B_2$ हो, तो",
+      "options": {
+        "A": "$B_1 = \\frac{\\mu_0}{4\\pi} \\cdot \\frac{2Md}{(d^2-l^2)^2}, B_2 = \\frac{\\mu_0}{4\\pi} \\cdot \\frac{M}{(d^2+l^2)^{3/2}}$",
+        "B": "$B_1 + B_2; d >> l$",
+        "C": "$B_1 = 2B_2; d >> l$",
+        "D": "Both (A) and (C)"
+      },
+      "vikalpa": {
+        "A": "$B_1 = \\frac{\\mu}{4\\pi} \\cdot \\frac{2Md}{(d^2-l^2)^2}, B_2 = \\frac{\\mu_0}{4\\pi} \\cdot \\frac{M}{(d^2+l^2)^{3/2}}$",
+        "B": "$B_1 + B_2; d >> l$",
+        "C": "$B_1 = 2B_2; d >> l$",
+        "D": "दोनों (A) और (C)"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "When two samples X and Y are placed in a uniform magnetic field, the distortion produced in the magnetic field is shown in the figure.",
+      "prashna": "जब दो प्रतिरूप X एवं Y को एक समरूप चुम्बकीय क्षेत्र में रखा जाता है, तो चुम्बकीय क्षेत्र में उत्पन्न विकृति को चित्र में दर्शाया गया है।",
+      "sub_questions": {
+        "i": "Identify the two samples X and Y.",
+        "ii": "Explain the reason for the distortion of the lines of force in X and Y."
+      },
+      "anuprashna": {
+        "i": "दो नमूने X तथा Y की पहचान करें।",
+        "ii": "X एवं Y में बल रेखा की विकृति के कारण को स्पष्ट करें।"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Describe a deflection magnetometer. How would you compare the magnetic moments of two given magnets with its help?",
+      "prashna": "विक्षेप चुम्बकत्वमापी का वर्णन करें। इसकी मदद से आप कैसे दो दिए गए चुम्बकों के चुम्बकीय आघूर्ण की तुलना करेंगे?"
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The S.I. unit of pole strength is-",
+      "prashna": "ध्रुव प्रबलता का S.I. मात्रक है-",
+      "options": {
+        "A": "N",
+        "B": "N/Am",
+        "C": "Am",
+        "D": "T"
+      },
+      "vikalpa": {
+        "A": "N",
+        "B": "N/Am",
+        "C": "Am",
+        "D": "T"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "What is a hysteresis loop? With its help, explain 'retentivity' and 'coercivity'.",
+      "prashna": "शैथिल्य पाश क्या है? इसकी सहायता से 'धारणशीलता' एवं 'निग्राहिता' को समझाइए।"
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Nickel is",
+      "prashna": "निकेल है",
+      "options": {
+        "A": "Diamagnetic",
+        "B": "Paramagnetic",
+        "C": "Ferromagnetic",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिचुम्बकीय",
+        "B": "अनुचुम्बकीय",
+        "C": "लौहचुम्बकीय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "At a certain place on Earth, the value of $B_H$ is 0.1732 Oersted and the angle of dip is $30^\\circ$. Calculate the total intensity $B$ of the Earth's magnetism at that place.",
+      "prashna": "पृथ्वी के किसी स्थान पर $B_H$ का मान 0.1732 ओरस्टेड तथा नमन कोण $30^\\circ$ है। उस स्थान पर पृथ्वी के चुम्बकत्व की सम्पूर्ण तीव्रता B की गणना करें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "The magnetic permeability ($\\mu$) of a ferromagnetic substance is",
+      "prashna": "एक लौहचुम्बकीय पदार्थ की चुम्बकशीलता ($\\mu$) है",
+      "options": {
+        "A": "$\\mu > 1$",
+        "B": "$\\mu = 1$",
+        "C": "$\\mu < 1$",
+        "D": "$\\mu = 0$"
+      },
+      "vikalpa": {
+        "A": "$\\mu > 1$",
+        "B": "$\\mu = 1$",
+        "C": "$\\mu < 1$",
+        "D": "$\\mu = 0$"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Write two differences between an electromagnet and a permanent magnet.",
+      "prashna": "विद्युत चुम्बक तथा स्थायी चुम्बक के बीच दो अंतर लिखें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Mention two characteristic properties of paramagnetic and diamagnetic substances that differentiate the behavior of these two types of materials.",
+      "prashna": "अनुचंबकीय तथा प्रतिचुंबकीय पदार्थों के उन दो अभिलाक्षणिक गुणधर्मों का उल्लेख कीजिए, जो इन दो प्रकार के पदार्थ के व्यवहार में भेद दर्शाते हैं।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Nickel is:",
+      "prashna": "निकेल है:",
+      "options": {
+        "A": "Diamagnetic",
+        "B": "Paramagnetic",
+        "C": "Ferromagnetic",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिचुम्बकीय",
+        "B": "अनुचुम्बकीय",
+        "C": "लौहचुम्बकीय",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "When the intensity of the magnetic field is increased four times, the time period of a suspended magnetic needle becomes",
+      "prashna": "जब चुम्बकीय क्षेत्र की तीव्रता को चौगुना बढ़ा दिया जाता है, तो लटकती हुई चुंबकीय सूई का आवर्तकाल होता है",
+      "options": {
+        "A": "Double",
+        "B": "Half",
+        "C": "Four times",
+        "D": "One-fourth less"
+      },
+      "vikalpa": {
+        "A": "दुगुना",
+        "B": "आधा",
+        "C": "चौगुना",
+        "D": "एक-चौथाई कम"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "The permeability ($\\mu$) of a ferromagnetic substance is",
+      "prashna": "एक लौह चुम्बकीय पदार्थ की चुम्बक शीलता (Permeability) $\\mu$ है",
+      "options": {
+        "A": "$\\mu \\gg 1$",
+        "B": "$\\mu = 1$",
+        "C": "$\\mu < 1$",
+        "D": "$\\mu = 0$"
+      },
+      "vikalpa": {
+        "A": "$\\mu \\gg 1$",
+        "B": "$\\mu = 1$",
+        "C": "$\\mu < 1$",
+        "D": "$\\mu = 0$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The S.I. unit of pole strength is.",
+      "prashna": "ध्रुव प्रवलता का SI मात्रक है।",
+      "options": {
+        "A": "N",
+        "B": "$N A^{-1} m^{-1}$",
+        "C": "$A \\cdot m$",
+        "D": "T"
+      },
+      "vikalpa": {
+        "A": "N",
+        "B": "N/A-m",
+        "C": "A-m",
+        "D": "T"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Write the expression for the magnitude and direction of the magnetic field B at axial and equatorial points of a short bar magnet.",
+      "prashna": "एक छोटे छड़ चुम्बक के अक्षीय और निरक्षीय चुम्बकीय क्षेत्र B के मान और दिशा का व्यंजक लिखें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Derive the expression for the time period of oscillation of a bar magnet suspended freely in a uniform magnetic field $B$.",
+      "prashna": "एक समान चुम्बकीय क्षेत्र $B$ में स्वतंत्र रूप से झूलते छड़ चुम्बक के दोलन काल का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "A bar magnet of magnetic moment M is cut into two parts of equal length. The magnetic moment of either part is:",
+      "prashna": "M चुम्बकीय आघूर्ण वाले छड़ चुम्बक को दो समान टुकड़ों में तोड़ा जाता है तो प्रत्येक नये टुकड़े का चुम्बकीय आघूर्ण है:",
+      "options": {
+        "A": "M",
+        "B": "M/2",
+        "C": "2M",
+        "D": "Zero"
+      },
+      "vikalpa": {
+        "A": "M",
+        "B": "M/2",
+        "C": "2M",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Magnetic dipole moment is a vector quantity directed from:",
+      "prashna": "चुम्बकीय द्विध्रुव आघूर्ण एक सदिश राशि है, जो निर्दिष्ट होती है:",
+      "options": {
+        "A": "South to North Pole",
+        "B": "North to South Pole",
+        "C": "East to West direction",
+        "D": "West to East direction"
+      },
+      "vikalpa": {
+        "A": "दक्षिण से उत्तर ध्रुव",
+        "B": "उत्तर से दक्षिण ध्रुव",
+        "C": "पूरब से पश्चिम दिशा",
+        "D": "पश्चिम से पूरब दिशा"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "A wire of magnetic dipole moment M and L is bent into shape of a semicircle of radius r. What will be its new dipole moment?",
+      "prashna": "एक तार जिसका चुम्बकीय द्विध्रुव आघूर्ण M तथा लम्बाई L है, को त्रिज्या r के अर्धवृत्त के आकार में मोड़ा जाता है। नया द्विध्रुव आघूर्ण क्या होगा?",
+      "options": {
+        "A": "M",
+        "B": "$\\frac{M}{2\\pi}$",
+        "C": "$\\frac{M}{\\pi}$",
+        "D": "$\\frac{2M}{\\pi}$"
+      },
+      "vikalpa": {
+        "A": "M",
+        "B": "$\\frac{M}{2\\pi}$",
+        "C": "$\\frac{M}{\\pi}$",
+        "D": "$\\frac{2M}{\\pi}$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "At a place Horizontal Component of Earth's magnetic field is $\\sqrt{3}$ times its Vertical Component value. What is the value of 'Angle of Dip' at that place?",
+      "prashna": "किसी स्थान पर पृथ्वी के चुम्बकीय क्षेत्र के क्षैतिज घटक का मान उदग्र घटक के मान का $\\sqrt{3}$ गुणा है। उस स्थान पर 'नमन कोण' का मान क्या होगा?"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "The susceptibility of paramagnetic substance is -",
+      "prashna": "अनुचुम्बकीय पदार्थ की प्रवृत्ति है -",
+      "options": {
+        "A": "Constant",
+        "B": "Zero",
+        "C": "Infinity",
+        "D": "Depends on magnetic field"
+      },
+      "vikalpa": {
+        "A": "स्थिर",
+        "B": "शून्य",
+        "C": "अनंत",
+        "D": "चुंबकीय क्षेत्र पर निर्भर"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "In earth's magnetic field $B_H$, if the frequency of oscillation of a magnetic needle is n, then -",
+      "prashna": "पृथ्वी के चुम्बकीय क्षेत्र $B_H$ में यदि किसी चुंबकीय सूई के दोलन की आवृत्ति n हो, तो -",
+      "options": {
+        "A": "$n \\propto B_H$",
+        "B": "$n^2 \\propto B_H$",
+        "C": "$n \\propto B_H^2$",
+        "D": "$n^2 \\propto \\frac{1}{B_H}$"
+      },
+      "vikalpa": {
+        "A": "$n \\propto B_H$",
+        "B": "$n^2 \\propto B_H$",
+        "C": "$n \\propto B_H^2$",
+        "D": "$n^2 \\propto \\frac{1}{B_H}$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The value of angle of dip at the earth's magnetic pole is -",
+      "prashna": "पृथ्वी के चुंबकीय ध्रुव पर नमन-कोण का मान होता हैं -",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "vikalpa": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The relationship between geometrical length ($L_g$) and magnetic length ($L_m$) is",
+      "prashna": "चुम्बक की ज्यामितीय लंबाई ($L_g$) एवं चुम्बकीय लंबाई ($L_m$) में संबंध होता है",
+      "options": {
+        "A": "$L_m = \\frac{6}{5} L_g$",
+        "B": "$L_m = L_g$",
+        "C": "$L_m = 2L_g$",
+        "D": "$L_m = \\frac{5}{6} L_g$"
+      },
+      "vikalpa": {
+        "A": "$L_m = \\frac{6}{5} L_g$",
+        "B": "$L_m = L_g$",
+        "C": "$L_m = 2L_g$",
+        "D": "$L_m = \\frac{5}{6} L_g$"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Write down two differences between diamagnetic and paramagmnetic materials.",
+      "prashna": "प्रतिचुम्बकीय एवं अनुचुम्बकीय पदार्थों में दो अंतर बतावें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "S.I. unit of magnetic pole strength is",
+      "prashna": "चुम्बकीय ध्रुव प्राबल्य का S.I. मात्रक है",
+      "options": {
+        "A": "N",
+        "B": "$\\frac{N}{A.m}$",
+        "C": "A.m",
+        "D": "$\\frac{A.m}{N}$"
+      },
+      "vikalpa": {
+        "A": "N",
+        "B": "$\\frac{N}{A.m}$",
+        "C": "A.m",
+        "D": "$\\frac{A.m}{N}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The value of angle of dip at magnetic pole of the earth is",
+      "prashna": "पृथ्वी के चुम्बकीय ध्रुव पर नमन कोण का मान होता है",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "45°",
+        "D": "180°"
+      },
+      "vikalpa": {
+        "A": "0°",
+        "B": "90°",
+        "C": "45°",
+        "D": "180°"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "The value of magnetic susceptibility of vacuum is",
+      "prashna": "निर्वात की चुम्बकीय प्रवृत्ति का मान होता है",
+      "options": {
+        "A": "equal to 0.5",
+        "B": "infinite",
+        "C": "equal to one",
+        "D": "zero"
+      },
+      "vikalpa": {
+        "A": "0.5 के बराबर",
+        "B": "अनन्त",
+        "C": "1 के बराबर",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "Which of the following relations is correct for permeability ?",
+      "prashna": "चुम्बकशीलता ($\\mu$) के लिए निम्नलिखित में कौन सम्बन्ध सही है ?",
+      "options": {
+        "A": "$\\mu = \\frac{H}{B}$",
+        "B": "$\\mu = \\frac{B}{H}$",
+        "C": "$\\mu = B.H$",
+        "D": "$\\mu = (B+H)$"
+      },
+      "vikalpa": {
+        "A": "$\\mu = \\frac{H}{B}$",
+        "B": "$\\mu = \\frac{B}{H}$",
+        "C": "$\\mu = B.H$",
+        "D": "$\\mu = (B+H)$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "If B is earth's magnetic field in magnetic meridian, $\\delta$ is angle of dip, $B_H$ is horizontal component of $\\vec{B}$ and $B_V$ is vertical component of $\\vec{B}$, then which of the following relations is correct ?",
+      "prashna": "चुम्बकीय याम्योत्तर में पार्थिव चुम्बकीय क्षेत्र B, नमन कोण $\\delta$, B का क्षैतिज घटक $B_H$ और B का उदग्र घटक $B_V$ हो तो निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "$B_H = B \\cos\\delta$",
+        "B": "$B_V = B \\cos\\delta$",
+        "C": "$B_H = B \\sin\\delta$",
+        "D": "$B_V = B_H \\sin\\delta$"
+      },
+      "vikalpa": {
+        "A": "$B_H = B \\cos\\delta$",
+        "B": "$B_V = B \\cos\\delta$",
+        "C": "$B_H = B \\sin\\delta$",
+        "D": "$B_V = B_H \\sin\\delta$"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "What do you mean by apparent angle of dip at any place?",
+      "prashna": "किसी स्थान पर के आभासी नमन कोण से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Write properties of diamagnetic, paramagnetic and ferromagnetic materials.",
+      "prashna": "प्रतिचुम्बकीय, अनुचुम्बकीय और लौह चुम्बकीय पदार्थों के गुणों को लिखें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "S.I. unit of pole strength is",
+      "prashna": "ध्रुव प्राबल्य का S.I. मात्रक होता है",
+      "options": {
+        "A": "$Am^{-1}$",
+        "B": "$Am^{-2}$",
+        "C": "Am",
+        "D": "Fm"
+      },
+      "vikalpa": {
+        "A": "$Am^{-1}$",
+        "B": "$Am^{-2}$",
+        "C": "Am",
+        "D": "Fm"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Work done in the deflection of a magnet in a uniform magnetic field is",
+      "prashna": "एकसमान चुम्बकीय क्षेत्र में चुम्बक के विक्षेपण में किया गया कार्य होता है",
+      "options": {
+        "A": "$W = MB(1 - \\sin\\theta)$",
+        "B": "$W = MB \\sin\\theta$",
+        "C": "$W = MB(1 - \\cos\\theta)$",
+        "D": "$W = MB \\cos\\theta$"
+      },
+      "vikalpa": {
+        "A": "$W = MB(1 - \\sin\\theta)$",
+        "B": "$W = MB \\sin\\theta$",
+        "C": "$W = MB(1 - \\cos\\theta)$",
+        "D": "$W = MB \\cos\\theta$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "Intensity of a magnetising field (H) is equal to",
+      "prashna": "चुम्बकन क्षेत्र की तीव्रता (H) के बराबर होता है",
+      "options": {
+        "A": "$B_0 / \\mu_0$",
+        "B": "$\\mu_0 / B_0$",
+        "C": "$B_0\\mu_0$",
+        "D": "$\\sqrt{B_0\\mu_0}$"
+      },
+      "vikalpa": {
+        "A": "$B_0 / \\mu_0$",
+        "B": "$\\mu_0 / B_0$",
+        "C": "$B_0\\mu_0$",
+        "D": "$\\sqrt{B_0\\mu_0}$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Which of the following is correct for short magnet ?",
+      "prashna": "निम्नलिखित में छोटे चुम्बक के लिए कौन सही है ?",
+      "options": {
+        "A": "$(B)_{axial} = (B)_{equatorial}$",
+        "B": "$(B)_{axial} = 2(B)_{equatorial}$",
+        "C": "$(B)_{equatorial} = 2(B)_{axial}$",
+        "D": "$(B)_{axial} = 3(B)_{equatorial}$"
+      },
+      "vikalpa": {
+        "A": "$(B)_{अक्षीय} = (B)_{निरक्षीय}$",
+        "B": "$(B)_{अक्षीय} = 2(B)_{निरक्षीय}$",
+        "C": "$(B)_{निरक्षीय} = 2(B)_{अक्षीय}$",
+        "D": "$(B)_{अक्षीय} = 3(B)_{निरक्षीय}$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Expression for the time-period of a magnet oscillating in a uniform magnetic field is",
+      "prashna": "एकसमान चुम्बकीय क्षेत्र में दोलनशील चुम्बक के आवर्तकाल का व्यंजक होता है",
+      "options": {
+        "A": "$T = 2\\pi\\sqrt{\\frac{I}{B_H}}$",
+        "B": "$T = 2\\pi\\sqrt{\\frac{I}{MB_H}}$",
+        "C": "$T = 2\\pi\\sqrt{\\frac{MB_H}{I}}$",
+        "D": "$T = 2\\pi\\sqrt{MB_H}$"
+      },
+      "vikalpa": {
+        "A": "$T = 2\\pi\\sqrt{\\frac{I}{B_H}}$",
+        "B": "$T = 2\\pi\\sqrt{\\frac{I}{MB_H}}$",
+        "C": "$T = 2\\pi\\sqrt{\\frac{MB_H}{I}}$",
+        "D": "$T = 2\\pi\\sqrt{MB_H}$"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Which of the following relations is correct for earth's magnetic field ($B_H$) and frequency of magnetic needle (n) ?",
+      "prashna": "निम्नलिखित में कौन सम्बन्ध पृथ्वी के चुम्बकीय क्षेत्र ($B_H$) और चुम्बकीय सूई की आवृत्ति (n) के लिए सही है ?",
+      "options": {
+        "A": "$n^2 \\propto B_H$",
+        "B": "$n \\propto B_H$",
+        "C": "$n \\propto B_H^2$",
+        "D": "$n^2 \\propto \\frac{1}{B_H}$"
+      },
+      "vikalpa": {
+        "A": "$n^2 \\propto B_H$",
+        "B": "$n \\propto B_H$",
+        "C": "$n \\propto B_H^2$",
+        "D": "$n^2 \\propto \\frac{1}{B_H}$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Which of the following is correct for tangent law ?",
+      "prashna": "निम्नलिखित में कौन टैंजेंट नियम के लिए सही है ?",
+      "options": {
+        "A": "$B = B_H \\tan\\theta$",
+        "B": "$B = B_H^2 \\tan\\theta$",
+        "C": "$B = \\sqrt{B_H \\tan\\theta}$",
+        "D": "$B = B_H \\tan^2\\theta$"
+      },
+      "vikalpa": {
+        "A": "$B = B_H \\tan\\theta$",
+        "B": "$B = B_H^2 \\tan\\theta$",
+        "C": "$B = \\sqrt{B_H \\tan\\theta}$",
+        "D": "$B = B_H \\tan^2\\theta$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "Relative permeability is equal to",
+      "prashna": "आपेक्षिक चुम्बकशीलता बराबर होता है",
+      "options": {
+        "A": "$\\mu_r = \\mu / \\mu_0$",
+        "B": "$\\mu_r = \\mu_0 / \\mu$",
+        "C": "$\\mu_r = \\mu \\cdot \\mu_0$",
+        "D": "$\\sqrt{\\mu_0\\mu} = \\mu_r$"
+      },
+      "vikalpa": {
+        "A": "$\\mu_r = \\mu / \\mu_0$",
+        "B": "$\\mu_r = \\mu_0 / \\mu$",
+        "C": "$\\mu_r = \\mu \\cdot \\mu_0$",
+        "D": "$\\sqrt{\\mu_0\\mu} = \\mu_r$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Which of the following relations is correct?",
+      "prashna": "निम्नलिखित में कौन सम्बन्ध सही है।",
+      "options": {
+        "A": "$B^2 = B_H^2 + B_V^2$",
+        "B": "$B^2 = B_H^2 - B_V^2$",
+        "C": "$B^2 = B_V^2 - B_H^2$",
+        "D": "$B = B_V / B_H$"
+      },
+      "vikalpa": {
+        "A": "$B^2 = B_H^2 + B_V^2$",
+        "B": "$B^2 = B_H^2 - B_V^2$",
+        "C": "$B^2 = B_V^2 - B_H^2$",
+        "D": "$B = B_V / B_H$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The value of $\\vec{B}$ on the surface of the earth is",
+      "prashna": "पृथ्वी के पृष्ठ पर $\\vec{B}$ का मान होता है",
+      "options": {
+        "A": "$10^{-1}$ tesla",
+        "B": "$10^{-2}$ tesla",
+        "C": "$10^{-3}$ tesla",
+        "D": "$10^{-5}$ tesla"
+      },
+      "vikalpa": {
+        "A": "$10^{-1}$ टेसला",
+        "B": "$10^{-2}$ टेसला",
+        "C": "$10^{-3}$ टेसला",
+        "D": "$10^{-5}$ टेसला"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "What do you mean by end-on-position of a magnet ?",
+      "prashna": "चुम्बक की अक्षीय स्थिति से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Write the definition of angle of dip.",
+      "prashna": "नमन कोण की परिभाषा लिखें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "What do you mean by apparent dip ?",
+      "prashna": "आभासी नमन से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Establish expression for magnetic field at equatorial position of a magnet.",
+      "prashna": "निरक्षीय स्थिति में किसी चुम्बक का चुम्बकीय क्षेत्र के लिए व्यंजक स्थापित करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Nickel is",
+      "prashna": "निकेल है",
+      "options": {
+        "A": "Paramagnetic",
+        "B": "Diamagnetic",
+        "C": "Ferromagnetic",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अनुचुम्बकीय",
+        "B": "प्रतिचुम्बकीय",
+        "C": "लौह चुम्बकीय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The angle between magnetic meridian and geographical meridian is called",
+      "prashna": "चुम्बकीय याम्योत्तर एवं भौगोलिक याम्योत्तर के बीच का कोण कहलाता है",
+      "options": {
+        "A": "angle of dip",
+        "B": "declination",
+        "C": "horizontal component of magnetic field",
+        "D": "apparent angle of dip"
+      },
+      "vikalpa": {
+        "A": "नमन कोण",
+        "B": "दिकपात",
+        "C": "चुम्बकीय क्षेत्र का क्षैतिज घटक",
+        "D": "आभासी नमन कोण"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "Magnetic moment of the earth is",
+      "prashna": "पृथ्वी का चुम्बकीय आघूर्ण है",
+      "options": {
+        "A": "$8.0 \\text{ JT}^{-1}$",
+        "B": "$11.5 \\text{ JT}^{-1}$",
+        "C": "$\\pi \\text{JT}^{-1}$",
+        "D": "$8.0 \\times 10^{22} \\text{ JT}^{-1}$"
+      },
+      "vikalpa": {
+        "A": "$8.0 \\text{ JT}^{-1}$",
+        "B": "$11.5 \\text{ JT}^{-1}$",
+        "C": "$\\pi \\text{JT}^{-1}$",
+        "D": "$8.0 \\times 10^{22} \\text{ JT}^{-1}$"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "What is Curie law?",
+      "prashna": "क्यूरी नियम क्या है ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The horizontal component of earth's magnetic field at any place is $\\sqrt{3}$ times its vertical component. What will be the value of angle of dip at that place?",
+      "prashna": "किसी स्थान पर पृथ्वी के चुम्बकीय क्षेत्र का क्षैतिज घटक इसके ऊर्ध्वाधर घटक का $\\sqrt{3}$ गुना है। इस स्थान पर नति कोण का मान क्या होगा ?"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "On dividing any magnet of magnetic moment ( M ) parallel to its length into n equal pieces, the moment of each piece will be",
+      "prashna": "किसी ( M ) चुम्बकीय आघूर्ण वाले चुम्बक की लम्बाई के समानान्तर n बराबर टुकड़ों में काटने पर प्रत्येक टुकड़े का आघूर्ण होगा",
+      "options": {
+        "A": "$\\frac{M}{n}$",
+        "B": "$\\frac{M}{n^2}$",
+        "C": "$\\frac{M}{2n}$",
+        "D": "$M \\times n$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{M}{n}$",
+        "B": "$\\frac{M}{n^2}$",
+        "C": "$\\frac{M}{2n}$",
+        "D": "$M \\times n$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Which of the following shows hysteresis ?",
+      "prashna": "निम्नलिखित में से कौन शैथिल्य प्रदर्शित करते हैं ?",
+      "options": {
+        "A": "Paramagnetic materials",
+        "B": "Ferromagnetic materials",
+        "C": "Diamagnetic materials",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अनुचुम्बकीय पदार्थ",
+        "B": "लौहचुम्बकीय पदार्थ",
+        "C": "प्रतिचुम्बकीय पदार्थ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The value of magnetic potential at a distance r from a pole strength m is",
+      "prashna": "ध्रुव प्रबलता m से r दूरी पर चुम्बकीय विभव का मान होता है",
+      "options": {
+        "A": "$\\frac{\\mu_0 m}{4\\pi r}$",
+        "B": "$\\frac{\\mu_0 m}{4\\pi r^2}$",
+        "C": "$\\frac{\\mu_0 m}{4\\pi r^3}$",
+        "D": "zero"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\mu_0 m}{4\\pi r}$",
+        "B": "$\\frac{\\mu_0 m}{4\\pi r^2}$",
+        "C": "$\\frac{\\mu_0 m}{4\\pi r^3}$",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "Define two magnetic elements of the earth.",
+      "prashna": "पृथ्वी के दो चुम्बकीय तत्व को परिभाषित करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Write the properties of diamagnetic, paramagnetic and ferromagnetic materials.",
+      "prashna": "प्रतिचुम्बकीय, अनुचुम्बकीय तथा लौहचुम्बकीय पदार्थों के गुणों को लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "With decrease in value of magnetic field, the time period of magnetic needle",
+      "prashna": "चुंबकीय क्षेत्र का मान घटने से चुंबकीय सूई का आवर्त्तकाल",
+      "options": {
+        "A": "decreases",
+        "B": "Increases",
+        "C": "Remains unchanged",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "घटता है",
+        "B": "बढ़ता है",
+        "C": "अपरिवर्तित रहता है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.4",
+      "topic_name": "Magnetisation and Magnetic Intensity",
+      "question": "The relation between magnetic field $\\vec{B}$ and magnetisation $\\vec{M}$ is",
+      "prashna": "चुंबकीय क्षेत्र $\\vec{B}$ और चुंबकन $\\vec{M}$ के बीच संबंध है?",
+      "options": {
+        "A": "$\\vec{B} = 4\\pi\\vec{M}$",
+        "B": "$\\vec{B} = 4\\pi\\vec{H} + \\vec{M}$",
+        "C": "$\\vec{B} = 4\\pi\\vec{H} - \\vec{M}$",
+        "D": "$\\mu_0(\\vec{H} - \\vec{M})$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{B} = 4\\pi\\vec{M}$",
+        "B": "$\\vec{B} = 4\\pi\\vec{H} + \\vec{M}$",
+        "C": "$\\vec{B} = 4\\pi\\vec{H} - \\vec{M}$",
+        "D": "$\\mu_0(\\vec{H} - \\vec{M})$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The value of magnetic dip is zero at",
+      "prashna": "चुंबकीय नमन का मान शून्य होता है",
+      "options": {
+        "A": "Magnetic axis",
+        "B": "Poles",
+        "C": "$45^{\\circ}$ north latitude",
+        "D": "$45^{\\circ}$ south latitude"
+      },
+      "vikalpa": {
+        "A": "चुंबकीय अक्ष पर",
+        "B": "ध्रुव पर",
+        "C": "$45^{\\circ}$ उत्तरी अक्षांश पर",
+        "D": "$45^{\\circ}$ दक्षिणी अक्षांश पर"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.2",
+      "topic_name": "The Bar Magnet",
+      "question": "The value of Potential energy in stable equilibrium of a dipole moment 'm' in an uniform magnetic field $\\vec{B}$ is",
+      "prashna": "एक समान चुंबकीय क्षेत्र $\\vec{B}$ में द्विध्रुव आघूर्ण m के स्थायी संतुलन में स्थितिज ऊर्जा का मान होगा",
+      "options": {
+        "A": "$mB$",
+        "B": "$-mB$",
+        "C": "$2mB$",
+        "D": "$-2mB$"
+      },
+      "vikalpa": {
+        "A": "$mB$",
+        "B": "$-mB$",
+        "C": "$2mB$",
+        "D": "$-2mB$"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Magnetism and Matter",
+      "topic": "5.5",
+      "topic_name": "Magnetic Properties of Materials",
+      "question": "Why, in formation of a permanent electromagnet, is steel used?",
+      "prashna": "विद्युत चुंबक बनाने में इस्पात का उपयोग किया जाता है, क्यों?"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "2013": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Give a brief introduction to the means of communication.",
+      "prashna": "संचार के साधनों का संक्षिप्त परिचय दें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "a": "What do you understand by analog and digital signals?",
+        "b": "What is amplitude modulation? Explain."
+      },
+      "anuprashna": {
+        "a": "एनालॉग एवं डिजिटल संकेतों से आप क्या समझते हैं?",
+        "b": "आयाम मॉडुलन क्या है ? समझाइए ?"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "Explain amplitude modulation and frequency modulation. Derive an expression for the height of the transmitting antenna.",
+      "prashna": "आयाम पाटुलेशन एवं आवृत्ति माहुलेशन की व्याख्या करें। प्रेषी एन्टिना की ऊँचाई के लिए व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Electromagnetic Waves",
+      "topic": "8.3",
+      "topic_name": "Electromagnetic Waves",
+      "question": "The height of a TV tower is 235m. If the average population density around TV tower is $1000 \\text{ (km)}^{-2}$ then up to how many people can the transmission reach ? (Radius of the earth = $6.37 \\times 10^6$m)",
+      "prashna": "एक टी० वी० टावर की ऊँचाई 235 मीटर है। यदि टावर के आस-पास औसत जनसंख्या घनत्व $1000 \\text{ (किमी)}^{-2}$ हो तो टी० वी० प्रसारण कितने व्यक्तियों तक पहुँचेगा ? (पृथ्वी की त्रिज्या = $6.37 \\times 10^6$ मी)"
+    }
+  ]
+}

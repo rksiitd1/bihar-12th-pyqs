@@ -1,0 +1,290 @@
+{
+  "2009": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With the help of a ray diagram, explain the formation of an image by a compound microscope or an astronomical telescope. Derive an expression for the magnifying power of your instrument and state its uses.",
+      "prashna": "किरण-चित्र की मदद से एक संयुक्त सूक्ष्मदर्शी या खगोलीय दूरबीन द्वारा प्रतिबिम्ब रचना को समझाइए। आपके यंत्र की आवर्धन क्षमता के लिए व्यंजक निकालें तथा उसके उपयोगों को बताइए।"
+    }
+  ],
+  "2010": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Draw a ray diagram for the refraction of light through a glass prism. Establish the formula used to find the refractive index of the material of the prism.",
+      "prashna": "काँच प्रिज्म से प्रकाश के अपवर्तन का किरण आरेख खींचें। प्रिज्म के पदार्थ का अपवर्तनांक ज्ञात करने के लिए प्रयुक्त सूत्र को स्थापित करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "What do you understand by an equivalent lens? A system of two lenses is placed at some distance from each other, then derive the expression for the equivalent focal length for this system.",
+        "(ii)": "A lens enclosed by two curved surfaces with radii of curvature $R_1$ and $R_2$ is placed as shown in the figure. Prove that $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$."
+      },
+      "anuprashna": {
+        "(i)": "समतुल्य लेंस से आप क्या समझते हैं? दो लेंसों के निकाय को कुछ दूरी पर रखा गया है, तो इस निकाय के लिए समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।",
+        "(ii)": "$R_1$ तथा $R_2$ वक्रता त्रिज्या वाली दो वक्र सतहों से घिरे एक लेंस निम्न प्रदर्शित चित्र के अनुरूप रखा गया है। सिद्ध करें कि $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$।"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "A compound microscope has an objective lens with focal length $f_o = 2$ cm and an eyepiece with focal length $f_e = 6.25$ cm. The distance between the two lenses is $d = 15$ cm. Where should the object be placed in front of the objective so that the final image formed by the compound microscope is at (i) the least distance of distinct vision $D = 25$ cm, and (ii) at infinity? Also, calculate the magnifying power in both cases.",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी $f_o$ एवं $f_e$ क्रमशः 2 सेमी तथा 6.25 सेमी के लगे हैं तथा दोनों लेंसों के बीच की दूरी $d = 15$ सेमी है। अभिदृश्यक के सामने वस्तु को कहाँ रखा जाए कि संयुक्त सूक्ष्मदर्शी से बनने वाला अंतिम प्रतिबिंब (i) स्पष्ट देखने की न्यूनतम दूरी $D = 25$ सेमी तथा (ii) अनन्त पर हो ? दोनों अवस्थाओं में आवर्धन क्षमता की भी गणना करें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$.",
+      "prashna": "$\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ सूत्र को स्थापित करे।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The minimum angular magnification of an astronomical telescope is 10X. The length of its tube is 44 cm. Find the focal length of its objective lens.",
+      "prashna": "एक खगोलीय दूरबीन का न्यूनतम कोणीय आवर्धन 10X है। इसकी नली की लंबाई 44 सेमी है। इसके वस्तु लेंस की फोकस दूरी निकालें।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Explain the working principle of a compound microscope with the help of a neat diagram. Derive the expression for its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र के सहारे यौगिक सूक्ष्मदर्शी की कार्य प्रणाली समझाइये। इसकी आवर्धन क्षमता का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "For a prism, show that for refractive index n, $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$, where the symbols have their usual meanings.",
+      "prashna": "एक प्रिज्म के लिए दिखाइये कि अपवर्तनांक n हेतु $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$ जहाँ संकेतों के सामान्य अर्थ हैं।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "(a) Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope? (b) According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits.",
+      "prashna": "(a) 1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ? (b) नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।",
+      "sub_questions": {
+        "A": "Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope?",
+        "B": "According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits."
+      },
+      "anuprashna": {
+        "A": "1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ?",
+        "B": "नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $.",
+      "prashna": "सूत्र $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $ को स्थापित करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "At what distance should an object be placed from a convex lens of focal length 15 cm to obtain a three times magnified image?",
+      "prashna": "15 cm फोकस दूरी वाले उत्तल लेंस से कितनी दूरी पर किसी वस्तु को रखा जाए कि उसका तीन गुना आवर्धित प्रतिविंव प्राप्त हो सके।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The plane surface of a plano-convex lens is silvered. Explain the formation of the image of an object placed at infinity in front of it and find its focal length.",
+      "prashna": "एक समतलोत्तल लेंस का समतल सतह रजतित है। इसके सामने अनंत पर राखी वस्तु का प्रतिबिंब का बनना समझाएँ और इसकी फोकस दूरी प्राप्त करे।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_17_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "This question has two parts:",
+      "prashna": "इस प्रश्न के दो भाग हैं:",
+      "sub_questions": {
+        "A": "Two thin convex lenses of focal length 15cm and 30cm are placed in contact. What will be power of the combination?",
+        "B": "A glass Prism ($\\mu_g = 1.66$) of Angle of Prism 72°, is placed in Water ($\\mu_w = 1.33$). Calculate the value of minimum deviation produced by Prism for parallel incident ray."
+      },
+      "anuprashna": {
+        "A": "15 से.मी. और 30 से.मी फोकस-दूरी के दो पतले उत्तल लेंसों को एक-दूसरे के सम्पर्क में रखा जाता है। संयोजित तन्त्र की शक्ति क्या होगी?",
+        "B": "काँच के एक प्रिज्म का कोण 72° तथा अपवर्तनांक 1.66 है। इसे 1.33 अपवर्तनांक के द्रव में डुबाया जाता है। प्रिज्म से गुजरने वाले समानान्तर पुंज के लिए न्यूनतम विचलन का मान ज्ञात करें।"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With neat diagram describe the construction and working of an astronomical telescope and find its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शक की रचना एवं क्रिया का वर्णन करें और उसकी आवर्धन - क्षमता की गणना करे।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "What is dispersive power? Find the necessary conditions for obtaining deviation without dispersion by two thin prisms.",
+      "prashna": "वर्ण – विक्षेपण क्षमता क्या है? दो पतले प्रिज्म द्वारा वर्ण - विक्षेपण रहित विचलन प्राप्त करने के लिए आवश्यक शर्त को निकाले।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ for a thin lens.",
+      "prashna": "किसी पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ स्थापित करें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula for thin lens given below : $\\frac{1}{f} = (\\mu - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$",
+      "prashna": "पतले लेन्स के लिए नीचे दिया हुआ सूत्र स्थापित करें : $\\frac{1}{f} = (\\mu - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Find out the expression for magnifying power of compound microscope.",
+      "prashna": "संयुक्त सूक्ष्मदर्शी की आवर्धन क्षमता के लिए व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Find out the expression for equivalent focal length of two lenses in contact.",
+      "prashna": "संपर्क में रखे दो लेंसों की समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With neat diagram describe the construction and working of an astronomical telescope. Find its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शी की रचना एवं क्रिया का वर्णन करें। इसके आवर्धन क्षमता की गणना करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "For a thin lens find the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$, where the meaning of symbols is general",
+      "prashna": "पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ प्राप्त करें, जहाँ संकेतों के अर्थ सामान्य हैं।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Mention the defects of human vision and describe the method to remove them.",
+      "prashna": "मनुष्य के दृष्टि दोषों का उल्लेख करें तथा उन्हें दूर करने के उपाय का वर्णन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Explain working of a compound microscope and obtain expression for its magnifying power.",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी की क्रिया समझायें तथा इसके अवर्द्धन क्षमता के लिये व्यंजक प्राप्त करें।"
+    }
+  ]
+}

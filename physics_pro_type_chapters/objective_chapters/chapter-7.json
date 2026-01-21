@@ -1,0 +1,1288 @@
+{
+  "2009": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "If L is inductance, R is resistance and C is capacitance of a capacitor, then the dimensional formula of $L/R$ and RC are",
+      "prashna": "यदि L प्रेरकत्व, R प्रतिरोध तथा C संघारित्र की धारिता हो, तो $L/R$ एवं RC का विभव सूत्र है",
+      "options": {
+        "A": "$M^0LT^{-1}$, $ML^0T^{-1}$",
+        "B": "$M^0L^0T$, $MLT^0$",
+        "C": "$M^0L^0T$, 1",
+        "D": "$M^0L^0T$, $M^0L^0T$"
+      },
+      "vikalpa": {
+        "A": "$M^0LT^{-1}$, $ML^0T^{-1}$",
+        "B": "$M^0L^0T$, $MLT^0$",
+        "C": "$M^0L^0T$, 1",
+        "D": "$M^0L^0T$, $M^0L^0T$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The alternating current voltage across a resistor can be measured:",
+      "prashna": "एक प्रतिरोधक के आसपास प्रत्यावर्ती धारा वोल्टता मापी जा सकती है।",
+      "options": {
+        "A": "by using a potentiometer",
+        "B": "by using a hot wire voltmeter",
+        "C": "by using a moving coil galvanometer",
+        "D": "by using a moving magnet galvanometer"
+      },
+      "vikalpa": {
+        "A": "एक विभवमापी के प्रयोग द्वारा",
+        "B": "एक तप्त तार वोल्टमापी के प्रयोग द्वारा",
+        "C": "एक चल-कुंडली गैल्वेनोमापी के प्रयोग द्वारा",
+        "D": "एक चल-चुम्बक गेल्वेनोमापी द्वारा"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "An A.C. source of angular frequency $\\omega$ is connected to an LCR series circuit. The peak value of the current will be maximum, if",
+      "prashna": "LCR श्रेणीक्रम परिपथ में $\\omega$ कोणीय आवृत्ति का एक A.C. स्रोत जुड़ा है। धारा का शिखर मान महत्तम होगा, यदि",
+      "options": {
+        "A": "$\\omega < 1/\\sqrt{LC}$",
+        "B": "$\\omega > 1/\\sqrt{LC}$",
+        "C": "$\\omega = 1/\\sqrt{LC}$",
+        "D": "$\\omega > 1/\\sqrt{LC}$"
+      },
+      "vikalpa": {
+        "A": "$\\omega < 1/\\sqrt{LC}$",
+        "B": "$\\omega > 1/\\sqrt{LC}$",
+        "C": "$\\omega = 1/\\sqrt{LC}$",
+        "D": "$\\omega > 1/\\sqrt{LC}$"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "Choke coil",
+      "prashna": "चोक कुण्डली",
+      "options": {
+        "A": "Reduces alternating current",
+        "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "C": "Infinite",
+        "D": "$3.6 \\times 10^6$ J"
+      },
+      "vikalpa": {
+        "A": "प्रत्यावर्ती धारा को कम करता है",
+        "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "C": "अनन्त",
+        "D": "$3.6 \\times 10^6$ J"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The peak voltage of an alternating current is 440 V. Its virtual voltage is",
+      "prashna": "एक प्रत्यावर्ती धारा की शिखर वोल्टता 440 V है। इसकी आभासी वोल्टता है",
+      "options": {
+        "A": "220 V",
+        "B": "440 V",
+        "C": "$220\\sqrt{2}$ V",
+        "D": "$440\\sqrt{V}$"
+      },
+      "vikalpa": {
+        "A": "220 V",
+        "B": "440 V",
+        "C": "$220\\sqrt{2}$ V",
+        "D": "$440\\sqrt{V}$"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "The unit of reactance is",
+      "prashna": "प्रतिघात का मात्रक है",
+      "options": {
+        "A": "mho",
+        "B": "ohm",
+        "C": "faraday",
+        "D": "ampere"
+      },
+      "vikalpa": {
+        "A": "म्हो",
+        "B": "ओम",
+        "C": "फैराडे",
+        "D": "एम्पियर"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "The impedance of an L-R circuit is:",
+      "prashna": "L-R परिपथ की प्रतिबाधा होती है:",
+      "options": {
+        "A": "$R^2 + \\omega^2L^2$",
+        "B": "$\\sqrt{R} + \\omega L$",
+        "C": "$R + \\omega L$",
+        "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+      },
+      "vikalpa": {
+        "A": "$R^2 + \\omega^2L^2$",
+        "B": "$\\sqrt{R} + \\omega L$",
+        "C": "$R + \\omega L$",
+        "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "If the phase difference between the alternating current and the electromotive force is $\\phi$, then the value of the power factor is:",
+      "prashna": "यदि प्रत्यावर्ती धारा तथा विद्युत वाहक बल के बीच $\\phi$ कोण का कलांतर हो, तो शक्ति गुणांक का मान होता है:",
+      "options": {
+        "A": "$\\tan \\phi$",
+        "B": "$\\cos^2 \\phi$",
+        "C": "$\\sin \\phi$",
+        "D": "$\\cos \\phi$"
+      },
+      "vikalpa": {
+        "A": "$\\tan \\phi$",
+        "B": "$\\cos^2 \\phi$",
+        "C": "$\\sin \\phi$",
+        "D": "$\\cos \\phi$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "An alternating current is represented by the equation $I = 0.6 \\sin(100\\pi t)$. The frequency of the electric current is:",
+      "prashna": "एक प्रत्यावर्ती विद्युत धारा का समीकरण $I = 0.6 \\sin(100\\pi t)$ से निरूपित है। विद्युत धारा की आवृत्ति है:",
+      "options": {
+        "A": "$50\\pi$",
+        "B": "50",
+        "C": "$100\\pi$",
+        "D": "100"
+      },
+      "vikalpa": {
+        "A": "$50\\pi$",
+        "B": "50",
+        "C": "$100\\pi$",
+        "D": "100"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The ratio of the peak value and the root mean square value of an alternating current is:",
+      "prashna": "प्रत्यावर्ती धारा के शिखर मान तथा वर्ग माध्य मूल मान का अनुपात हैं:",
+      "options": {
+        "A": "2",
+        "B": "$\\sqrt{2}$",
+        "C": "$1/\\sqrt{2}$",
+        "D": "1/2"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "$\\sqrt{2}$",
+        "C": "$1/\\sqrt{2}$",
+        "D": "1/2"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "The power factor of an L-R circuit is",
+      "prashna": "L-R परिपथ का शक्ति गुणांक होता है",
+      "options": {
+        "A": "$R+\\omega L$",
+        "B": "$R / \\sqrt{R^2+\\omega^2L^2}$",
+        "C": "$R\\sqrt{R^2 + \\omega^2L^2}$",
+        "D": "$\\omega L / R$"
+      },
+      "vikalpa": {
+        "A": "$R+WL$",
+        "B": "$R / \\sqrt{R^2+W^2L^2}$",
+        "C": "$R\\sqrt{R^2 + W^2L^2}$",
+        "D": "$WL / R$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "The unit of reactance is",
+      "prashna": "प्रतिघात का मात्रक है",
+      "options": {
+        "A": "Mho",
+        "B": "Ohm",
+        "C": "Farad",
+        "D": "Ampere"
+      },
+      "vikalpa": {
+        "A": "म्हो",
+        "B": "ओम",
+        "C": "फैराड",
+        "D": "एम्पियर"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "A hot wire ammeter measures of an alternating current",
+      "prashna": "तप्त तार ऐमीटर मापता है प्रत्यावर्ती धारा का",
+      "options": {
+        "A": "Peak value",
+        "B": "Average value",
+        "C": "Root mean square current",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उच्चतम मान",
+        "B": "औसत मान",
+        "C": "मूल औसत वर्ग धारा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "In a step-up transformer, the number of turns in the primary and secondary are $N_1$ and $N_2$ respectively, then",
+      "prashna": "किसी उच्चायी (step-up) ट्रॉसफार्मर के प्राइमरी और सेकंडरी में क्रमशः $N_1$ और $N_2$ लपेट हैं, तब",
+      "options": {
+        "A": "$N_1 > N_2$",
+        "B": "$N_2 > N_1$",
+        "C": "$N_1 = N_2$",
+        "D": "$N_1 = 0$"
+      },
+      "vikalpa": {
+        "A": "$N_1 > N_2$",
+        "B": "$N_2 > N_1$",
+        "C": "$N_1 = N_2$",
+        "D": "$N_1 = 0$"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "An electric current is represented by the equation $I = 0.6 \\sin(100\\pi t)$. The frequency of the electric current is.",
+      "prashna": "एक विद्युत धारा का समीकरण $I = 0.6 \\sin(100\\pi t)$ से निरूपित होता है। विद्युत धारा की आवृत्ति है",
+      "options": {
+        "A": "$50\\pi$",
+        "B": "50",
+        "C": "$100\\pi$",
+        "D": "100"
+      },
+      "vikalpa": {
+        "A": "$50\\pi$",
+        "B": "50",
+        "C": "$100\\pi$",
+        "D": "100"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "The unit of reactance is.",
+      "prashna": "प्रतिघात का मात्रक है।",
+      "options": {
+        "A": "Ohm",
+        "B": "Farad",
+        "C": "Ampere",
+        "D": "Mho"
+      },
+      "vikalpa": {
+        "A": "ओम",
+        "B": "फैराड",
+        "C": "एम्पेयर",
+        "D": "म्हो"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The relation between peak current $I_o$ and root mean square current $I_{rms}$ is",
+      "prashna": "शीर्ष धारा $I_o$ और वर्ग मूल धारा $I_{rms}$ मे संबंध है",
+      "options": {
+        "A": "$I_o = \\sqrt{2} I_{rms}$",
+        "B": "$I_o = I_{rms}$",
+        "C": "$I_o = 2 I_{rms}$",
+        "D": "$I_o = \\frac{I_{rms}}{\\sqrt{2}}$"
+      },
+      "vikalpa": {
+        "A": "$I_o = \\sqrt{2} I_{rms}$",
+        "B": "$I_o = I_{rms}$",
+        "C": "$I_o = 2 I_{rms}$",
+        "D": "$I_o = \\frac{I_{rms}}{\\sqrt{2}}$"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "In A.C. circuit, the current and voltage are given by $i = 5 \\cos(\\omega t)$, and $V = 200 \\sin(\\omega t)$ respectively. Power loss in the circuit is:",
+      "prashna": "किसी प्रत्यावर्ती परिपथ में धारा $i = 5 \\cos(\\omega t)$ एम्पियर तथा विभव $V = 200 \\sin(\\omega t)$ वोल्ट है। परिपथ में शक्ति हानि है:",
+      "options": {
+        "A": "20W",
+        "B": "40W",
+        "C": "1000W",
+        "D": "zero"
+      },
+      "vikalpa": {
+        "A": "20W",
+        "B": "40W",
+        "C": "1000W",
+        "D": "शून्य"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "In a step - up transformer, no. of turns in primary and secondary coils are $N_1$ and $N_2$, then -",
+      "prashna": "यदि किसी उच्चायी ट्रांसफार्मर के प्राथमिक एवं द्वितीयक में क्रमशः $N_1$ और $N_2$ लपेटे हैं, तो -",
+      "options": {
+        "A": "$N_1 > N_2$",
+        "B": "$N_2 > N_1$",
+        "C": "$N_1 = N_2$",
+        "D": "$N_1 = 0$"
+      },
+      "vikalpa": {
+        "A": "$N_1 > N_2$",
+        "B": "$N_2 > N_1$",
+        "C": "$N_1 = N_2$",
+        "D": "$N_1 = 0$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "The power factor of L - R circuit is -",
+      "prashna": "L – R परिपथ का शक्ति गुणांक होता है -",
+      "options": {
+        "A": "$R + \\omega L$",
+        "B": "$\\frac{R}{\\sqrt{R^2 + \\omega^2 L^2}}$",
+        "C": "$R\\sqrt{R^2 + \\omega^2 L^2}$",
+        "D": "$\\frac{\\omega L}{R}$"
+      },
+      "vikalpa": {
+        "A": "$R + \\omega L$",
+        "B": "$\\frac{R}{\\sqrt{R^2 + \\omega^2 L^2}}$",
+        "C": "$R\\sqrt{R^2 + \\omega^2 L^2}$",
+        "D": "$\\frac{\\omega L}{R}$"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "In an alternating current circuit, the phase difference between current I and voltage is $\\phi$, then the Wattless component of current will be -",
+      "prashna": "प्रत्यावर्ती धारा परिपथ में यदि धारा I एवं वोल्टेज के बीच कलांतर $\\phi$ हो, तो धारा का वाटहीन घटक होगा -",
+      "options": {
+        "A": "$I \\cos \\phi$",
+        "B": "$I \\tan \\phi$",
+        "C": "$I \\sin \\phi$",
+        "D": "$I \\cos^2 \\phi$"
+      },
+      "vikalpa": {
+        "A": "$I \\cos \\phi$",
+        "B": "$I \\tan \\phi$",
+        "C": "$I \\sin \\phi$",
+        "D": "$I \\cos^2 \\phi$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The ratio of root mean square (rms) value and peak value of an alternating current is -",
+      "prashna": "प्रत्यावर्ती धारा के वर्गमूल माध्य मान और शिखर मान का अनुपात है -",
+      "options": {
+        "A": "$\\sqrt{2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
+        "D": "$2\\sqrt{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
+        "D": "$2\\sqrt{2}$"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "The unit of reactance is",
+      "prashna": "प्रतिघात का मात्रक है",
+      "options": {
+        "A": "mho",
+        "B": "ohm",
+        "C": "ampere",
+        "D": "farad"
+      },
+      "vikalpa": {
+        "A": "म्हो",
+        "B": "ओम",
+        "C": "एम्पियर",
+        "D": "फैराड"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "The necessary condition for resonance in L-C-R Circuit is",
+      "prashna": "श्रेणीक्रम बद्ध L-C-R परिपथ में अनुनाद होने के लिए आवश्यक शर्त है",
+      "options": {
+        "A": "$\\omega L = \\frac{1}{\\omega C}$",
+        "B": "$L = \\omega C$",
+        "C": "$\\omega L = C$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\omega L = \\frac{1}{\\omega C}$",
+        "B": "$L = \\omega C$",
+        "C": "$\\omega L = C$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.3",
+      "topic_name": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+      "question": "An alternating current in a circuit is represented by $I=50\\cos(100\\pi t)$. The frequency of alternating current is",
+      "prashna": "एक परिपथ के प्रत्यावर्ती धारा का व्यंजक $I=50\\cos(100\\pi t)$ है। इस प्रत्यावर्ती धारा की आवृत्ति है",
+      "options": {
+        "A": "100 Hz",
+        "B": "50 Hz",
+        "C": "25 Hz",
+        "D": "200 Hz"
+      },
+      "vikalpa": {
+        "A": "100 Hz",
+        "B": "50 Hz",
+        "C": "25 Hz",
+        "D": "200 Hz"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Core of a transformer is made of",
+      "prashna": "ट्रांसफॉर्मर का क्रोड़ बनता है",
+      "options": {
+        "A": "Soft Iron",
+        "B": "Hard iron",
+        "C": "Copper",
+        "D": "Zinc"
+      },
+      "vikalpa": {
+        "A": "नरम लोहा से",
+        "B": "कठोर लोहा से",
+        "C": "ताबाँ से",
+        "D": "जस्ता से"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "The resistance and impedance of any circuit is $12\\Omega$ and $15\\Omega$ respectively. The power factor of the circuit will be",
+      "prashna": "किसी परिपथ का प्रतिरोध $12\\Omega$ तथा प्रतिबाधा $15\\Omega$ है, परिपथ का शक्ति गुणांक होगा",
+      "options": {
+        "A": "0.4",
+        "B": "0.8",
+        "C": "0.125",
+        "D": "1.25"
+      },
+      "vikalpa": {
+        "A": "0.4",
+        "B": "0.8",
+        "C": "0.125",
+        "D": "1.25"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The relation between r.m.s. value of alternating current ($I_{r.m.s.}$) and peak value of alternating current ($I_0$) is",
+      "prashna": "प्रत्यावर्ती धारा का r.m.s. मान ($I_{r.m.s.}$) और प्रत्यावर्ती धारा का शिखर मान ($I_0$) के बीच सम्बन्ध होता है",
+      "options": {
+        "A": "$I_{r.m.s.} = 0.505 I_0$",
+        "B": "$I_{r.m.s.} = 0.606 I_0$",
+        "C": "$I_{r.m.s.} = 0.707 I_0$",
+        "D": "$I_{r.m.s.} = 0.808 I_0$"
+      },
+      "vikalpa": {
+        "A": "$I_{r.m.s.} = 0.505 I_0$",
+        "B": "$I_{r.m.s.} = 0.606 I_0$",
+        "C": "$I_{r.m.s.} = 0.707 I_0$",
+        "D": "$I_{r.m.s.} = 0.808 I_0$"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "Inductive reactance offered by an inductor of inductance L in ac circuit of angular frequency $\\omega$ is",
+      "prashna": "कोणीय आवृत्ति $\\omega$ वाले प्रत्यावर्ती धारा परिपथ में L प्रेरकत्व वाले प्रेरक द्वारा उत्पन्न प्रेरणिक प्रतिघात का मान होता है",
+      "options": {
+        "A": "$\\frac{\\omega}{L}$",
+        "B": "$\\omega.L$",
+        "C": "$\\frac{1}{\\omega.L}$",
+        "D": "$\\frac{L}{\\omega}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\omega}{L}$",
+        "B": "$\\omega.L$",
+        "C": "$\\frac{1}{\\omega.L}$",
+        "D": "$\\frac{L}{\\omega}$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "Which of the following relations is correct for power factor ?",
+      "prashna": "शक्ति गुणांक के लिए निम्नलिखित में कौन सम्बन्ध सही है ?",
+      "options": {
+        "A": "Power factor = True average power × Apparent average power",
+        "B": "Power factor = $\\frac{\\text{Apparent average power}}{\\text{True average power}}$",
+        "C": "Power factor = $\\frac{\\text{True average power}}{\\text{Apparent average power}}$",
+        "D": "Power factor = $\\frac{1}{2}$ [ True average power × Apparent average power ]"
+      },
+      "vikalpa": {
+        "A": "शक्ति गुणांक = यथार्थ माध्य शक्ति × आभासी माध्य शक्ति",
+        "B": "शक्ति गुणांक = $\\frac{\\text{आभासी माध्य शक्ति}}{\\text{यथार्थ माध्य शक्ति}}$",
+        "C": "शक्ति गुणांक = $\\frac{\\text{यथार्थ माध्य शक्ति}}{\\text{आभासी माध्य शक्ति}}$",
+        "D": "शक्ति गुणांक = $\\frac{1}{2}$ [ यथार्थ माध्य शक्ति × आभासी माध्य शक्ति ]"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Which of the following is correct for transformer ?",
+      "prashna": "ट्रांसफॉर्मर के लिए निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "It converts A.C. into D.C.",
+        "B": "It converts D.C. into A.C.",
+        "C": "It increases or decreases D.C. voltage",
+        "D": "It increases or decreases A.C. voltage"
+      },
+      "vikalpa": {
+        "A": "यह A.C. को D.C. में बदलता है",
+        "B": "यह D.C. को A.C. में बदलता है",
+        "C": "यह D.C. वोल्टता को बढ़ाता या घटाता है",
+        "D": "यह A.C. वोल्टता को बढ़ाता या घटाता है"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.5",
+      "topic_name": "AC Voltage Applied to a Capacitor",
+      "question": "Capacitive reactance is",
+      "prashna": "धारितीय प्रतिघात होता है",
+      "options": {
+        "A": "$\\frac{\\omega}{c}$",
+        "B": "$\\frac{c}{\\omega}$",
+        "C": "$\\omega.c$",
+        "D": "$\\frac{1}{\\omega c}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\omega}{c}$",
+        "B": "$\\frac{c}{\\omega}$",
+        "C": "$\\omega.c$",
+        "D": "$\\frac{1}{\\omega c}$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "The expression for real average power in an alternating current circuit is",
+      "prashna": "प्रत्यावर्ती धारा परिपथ में यथार्थ माध्य शक्ति का व्यंजक होता है",
+      "options": {
+        "A": "$P_{av} = E_{rms} \\cos\\phi$",
+        "B": "$P_{av} = I_{rms} \\cos\\phi$",
+        "C": "$P_{av} = E_{rms} I_{rms} \\sin\\phi$",
+        "D": "$P_{av} = E_{rms} I_{rms} \\cos\\phi$"
+      },
+      "vikalpa": {
+        "A": "$P_{av} = E_{rms} \\cos\\phi$",
+        "B": "$P_{av} = I_{rms} \\cos\\phi$",
+        "C": "$P_{av} = E_{rms} I_{rms} \\sin\\phi$",
+        "D": "$P_{av} = E_{rms} I_{rms} \\cos\\phi$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "Power factor is equal to",
+      "prashna": "शक्ति गुणांक के बराबर होता है",
+      "options": {
+        "A": "$R/Z$",
+        "B": "$Z/R$",
+        "C": "$R.Z$",
+        "D": "$\\omega.L$"
+      },
+      "vikalpa": {
+        "A": "$R/Z$",
+        "B": "$Z/R$",
+        "C": "$R.Z$",
+        "D": "$\\omega.L$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "Phase difference in (L-R) circuit is",
+      "prashna": "(L R) परिपथ में कलांतर होता है",
+      "options": {
+        "A": "$\\sin^{-1}(\\frac{\\omega L}{R})$",
+        "B": "$\\cos^{-1}(\\frac{\\omega L}{R})$",
+        "C": "$\\tan^{-1}(\\frac{\\omega L}{R})$",
+        "D": "$\\tan^{-1}(\\frac{R}{\\omega L})$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1}(\\frac{\\omega L}{R})$",
+        "B": "$\\cos^{-1}(\\frac{\\omega L}{R})$",
+        "C": "$\\tan^{-1}(\\frac{\\omega L}{R})$",
+        "D": "$\\tan^{-1}(\\frac{R}{\\omega L})$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Transformation ratio in transformer is",
+      "prashna": "ट्रांसफॉर्मर में परिणमन अनुपात होता है",
+      "options": {
+        "A": "$V_s / V_p$",
+        "B": "$V_p / V_s$",
+        "C": "$1 / (V_s \\cdot V_p)$",
+        "D": "$1 / (I_s \\cdot I_p)$"
+      },
+      "vikalpa": {
+        "A": "$V_s / V_p$",
+        "B": "$V_p / V_s$",
+        "C": "$1 / (V_s \\cdot V_p)$",
+        "D": "$1 / (I_s \\cdot I_p)$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Which of the following is correct for step-up transformer ?",
+      "prashna": "निम्नलिखित में कौन उच्चायी ट्रान्सफॉर्मर के लिए सही है ?",
+      "options": {
+        "A": "$V_s < V_p$",
+        "B": "$V_s > V_p$",
+        "C": "$V_s = V_p$",
+        "D": "$V_s << V_p$"
+      },
+      "vikalpa": {
+        "A": "$V_s < V_p$",
+        "B": "$V_s > V_p$",
+        "C": "$V_s = V_p$",
+        "D": "$V_s << V_p$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "Inductive reactance for direct current is",
+      "prashna": "दिष्ट धारा के लिए प्रेरणिक प्रतिघात होता है",
+      "options": {
+        "A": "zero",
+        "B": "infinity",
+        "C": "$\\omega L$",
+        "D": "$1/(\\omega L)$"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "अनन्त",
+        "C": "$\\omega L$",
+        "D": "$1/(\\omega L)$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "Inductive reactance is",
+      "prashna": "प्रेरणिक प्रतिघात होता है",
+      "options": {
+        "A": "$X_L = 2\\pi fL$",
+        "B": "$X_L = 2\\pi f^2L$",
+        "C": "$X_L = 2\\pi fL^2$",
+        "D": "$X_L = 2\\pi f^2L^2$"
+      },
+      "vikalpa": {
+        "A": "$X_L = 2\\pi fL$",
+        "B": "$X_L = 2\\pi f^2L$",
+        "C": "$X_L = 2\\pi fL^2$",
+        "D": "$X_L = 2\\pi f^2L^2$"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.5",
+      "topic_name": "AC Voltage Applied to a Capacitor",
+      "question": "The phase-difference between current and voltage in only capacitive alternating current circuit is",
+      "prashna": "केवल धारिता युक्त प्रत्यावर्ती धारा परिपथ में धारा एवं वोल्टता के बीच कलान्तर होता है",
+      "options": {
+        "A": "$0^{\\circ}$",
+        "B": "$90^{\\circ}$",
+        "C": "$180^{\\circ}$",
+        "D": "$45^{\\circ}$"
+      },
+      "vikalpa": {
+        "A": "$0^{\\circ}$",
+        "B": "$90^{\\circ}$",
+        "C": "$180^{\\circ}$",
+        "D": "$45^{\\circ}$"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.3",
+      "topic_name": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+      "question": "The root mean square (r.m.s) value of alternating current equation $I = 60 \\sin 100 \\pi t$ is",
+      "prashna": "एक प्रत्यावर्ती धारा का समीकरण $I = 60 \\sin 100 \\pi t$ में धारा के मूल माध्य वर्ग का मान होगा.",
+      "options": {
+        "A": "$60\\sqrt{2}$",
+        "B": "30",
+        "C": "100",
+        "D": "Zero"
+      },
+      "vikalpa": {
+        "A": "$60\\sqrt{2}$",
+        "B": "30",
+        "C": "100",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "The impedance of L-R circuit is",
+      "prashna": "L-R परिपथ की प्रतिबाधा होती है",
+      "options": {
+        "A": "$R^2 + \\omega^2L^2$",
+        "B": "$R + \\omega L$",
+        "C": "$\\sqrt{R} + \\omega L$",
+        "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+      },
+      "vikalpa": {
+        "A": "$R^2 + \\omega^2L^2$",
+        "B": "$R + \\omega L$",
+        "C": "$\\sqrt{R} + \\omega L$",
+        "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "For resonance condition in any L-C-R circuit, the phase-difference between applied voltage and current is",
+      "prashna": "किसी L-C-R परिपथ में अनुनाद की स्थिति में आरोपित वोल्टेज तथा धारा के बीच कलान्तर होता है",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "zero"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "In step-up transformer, the value of current in secondary coil compared to primary coil is",
+      "prashna": "एक उच्चायी ट्रान्सफार्मर की द्वितीयक कुण्डली में धारा का मान प्राथमिक कुण्डली की तुलना में होता है",
+      "options": {
+        "A": "equal",
+        "B": "less",
+        "C": "more",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बराबर",
+        "B": "कम",
+        "C": "अधिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.3",
+      "topic_name": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+      "question": "What value of alternating current is measured by hot wire ammeter ?",
+      "prashna": "तप्त तार ऐमीटर द्वारा प्रत्यावर्ती धारा का कौन मान मापा जाता है ?",
+      "options": {
+        "A": "High value",
+        "B": "Average value",
+        "C": "Root mean square value",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उच्च मान",
+        "B": "औसत मान",
+        "C": "मूल औसत वर्ग मान",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "Unit of reactance is",
+      "prashna": "प्रतिबाधा का मात्रक होता है",
+      "options": {
+        "A": "ohm",
+        "B": "tesla",
+        "C": "henry",
+        "D": "farad"
+      },
+      "vikalpa": {
+        "A": "ओम",
+        "B": "टेस्ला",
+        "C": "हेनरी",
+        "D": "फैराड"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.3",
+      "topic_name": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+      "question": "Mean value of alternating current in a full cycle is",
+      "prashna": "एक पूरे चक्र में प्रत्यावर्ती धारा का माध्य मान होता है",
+      "options": {
+        "A": "I",
+        "B": "$\\frac{I}{2}$",
+        "C": "2I",
+        "D": "zero"
+      },
+      "vikalpa": {
+        "A": "I",
+        "B": "$\\frac{I}{2}$",
+        "C": "2I",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "If the phase difference between alternating current and e.m.f. is $\\phi$, then the value of power factor is",
+      "prashna": "यदि प्रत्यावर्ती धारा तथा वि.वा. बल के बीच कलान्तर $\\phi$ हो, तो शक्ति गुणांक का मान होता है",
+      "options": {
+        "A": "$\\cos\\phi$",
+        "B": "$\\cos^2\\phi$",
+        "C": "$\\sin\\phi$",
+        "D": "$\\tan\\phi$"
+      },
+      "vikalpa": {
+        "A": "$\\cos\\phi$",
+        "B": "$\\cos^2\\phi$",
+        "C": "$\\sin\\phi$",
+        "D": "$\\tan\\phi$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "In AC circuit, power is lost in only",
+      "prashna": "AC परिपथ में शक्ति केवल व्यय होती है",
+      "options": {
+        "A": "resistance",
+        "B": "inductance",
+        "C": "capacitance",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिरोध में",
+        "B": "प्रेरकत्व में",
+        "C": "धारित्व में",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.3",
+      "topic_name": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+      "question": "An alternating electric current is represented by equation $I = 0.6 \\sin(100\\pi t)$. The frequency of alternating current is",
+      "prashna": "एक प्रत्यावर्ती विद्युत धारा का समीकरण $I = 0.6 \\sin(100\\pi t)$ से निरूपित है। प्रत्यावर्ती धारा की आवृत्ति है",
+      "options": {
+        "A": "$50 \\pi$",
+        "B": "50",
+        "C": "$100 \\pi$",
+        "D": "100"
+      },
+      "vikalpa": {
+        "A": "$50 \\pi$",
+        "B": "50",
+        "C": "$100 \\pi$",
+        "D": "100"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The ratio of root-mean square value and peak value of an alternating current is",
+      "prashna": "प्रत्यावर्ती धारा के मूल-माध्य वर्ग मान और इसके शिखर मान का अनुपात होता है?",
+      "options": {
+        "A": "$\\sqrt{2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
+        "D": "$2\\sqrt{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
+        "D": "$2\\sqrt{2}$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "Impedance of L-R circuit is",
+      "prashna": "L-R परिपथ की प्रतिबाधा होती है",
+      "options": {
+        "A": "$R + \\omega L$",
+        "B": "$R^2 + \\omega^2 L^2$",
+        "C": "$\\sqrt{R + \\omega L}$",
+        "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+      },
+      "vikalpa": {
+        "A": "$R + \\omega L$",
+        "B": "$R^2 + \\omega^2 L^2$",
+        "C": "$\\sqrt{R + \\omega L}$",
+        "D": "$\\sqrt{R^2 + \\omega^2L^2}$"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "Equation of an alternating current is $I = 60 \\sin(100\\pi t)$, root mean square value of current will be",
+      "prashna": "एक प्रत्यावर्ती धारा का समीकरण है $I = 60 \\sin(100\\pi t)$, धारा के मूल-माध्य वर्ग का मान होगा?",
+      "options": {
+        "A": "$\\frac{60}{\\sqrt{2}}$",
+        "B": "30",
+        "C": "100",
+        "D": "Zero"
+      },
+      "vikalpa": {
+        "A": "$\\frac{60}{\\sqrt{2}}$",
+        "B": "30",
+        "C": "100",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "The phase difference between current and electromotive force in alternating current circuit in condition of resonance is",
+      "prashna": "प्रत्यावर्ती धारा परिपथ में अनुनाद की अवस्था में धारा और विद्युत-वाहक बल के बीच कलांतर होता है?",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "शून्य",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "If real and virtual Powers of any alternating current circuit are $P_T$ and $P_A$ respectively, then Power factor is",
+      "prashna": "यदि किसी प्रत्यावर्ती धारा परिपथ की यथार्थ एवं आभासी शक्तियाँ क्रमशः $P_T$ और $P_A$ है, तो शक्ति गुणांक क्या है?",
+      "options": {
+        "A": "$\\frac{P_T}{P_A}$",
+        "B": "$P_T \\cdot P_A$",
+        "C": "$\\frac{P_A}{P_T}$",
+        "D": "$P_A + P_T$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{P_T}{P_A}$",
+        "B": "$P_T \\cdot P_A$",
+        "C": "$\\frac{P_A}{P_T}$",
+        "D": "$P_A + P_T$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.1",
+      "topic_name": "Introduction",
+      "question": "In alternating electromotive force $E = E_o \\sin(\\omega t)$. Peak value and frequency are 10 V and 50 Hz respectively. At time $t = \\frac{1}{600}$ s instantaneous electromotive force is",
+      "prashna": "प्रत्यावर्ती विधुत-बाहक बल $E = E_o \\sin(\\omega t)$ में शिखर मान 10 V तथा 50 Hz हैं। समय $t = \\frac{1}{600}$ s पर तात्कालिक विधुत-बाहक बल है",
+      "options": {
+        "A": "10 V",
+        "B": "$5\\sqrt{3}$ V",
+        "C": "5 V",
+        "D": "1 V"
+      },
+      "vikalpa": {
+        "A": "10 V",
+        "B": "$5\\sqrt{3}$ V",
+        "C": "5 V",
+        "D": "1 V"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "If the phase difference between current I and voltage in alternating current circuit is $\\phi$, then component of wattless current is",
+      "prashna": "प्रत्यावर्ती धारा परिपथ में धारा I एवं वोल्टेज के बीच कलांतर $\\phi$ है, तो धारा का वाटहीन घटक होगा",
+      "options": {
+        "A": "$I \\cos \\phi$",
+        "B": "$I \\sin \\phi$",
+        "C": "$I \\tan \\phi$",
+        "D": "$I \\cos^2 \\phi$"
+      },
+      "vikalpa": {
+        "A": "$I \\cos \\phi$",
+        "B": "$I \\sin \\phi$",
+        "C": "$I \\tan \\phi$",
+        "D": "$I \\cos^2 \\phi$"
+      }
+    }
+  ]
+}

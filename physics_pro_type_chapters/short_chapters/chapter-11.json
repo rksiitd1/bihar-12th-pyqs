@@ -1,0 +1,162 @@
+{
+  "2009": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.8",
+      "topic_name": "Wave Nature of Matter",
+      "question": "Show relationships for the following:",
+      "prashna": "निम्नलिखित के लिए संबंध दिखाएं:",
+      "sub_questions": {
+        "a": "Show that the de Broglie wavelength for an electron with energy E is related by $\\lambda = \\frac{h}{\\sqrt{2mE}}$",
+        "b": "Why is the belt of a Van de Graaff generator made of an insulating material?"
+      },
+      "anuprashna": {
+        "a": "दिखाइए कि E ऊर्जा वाले इलेक्ट्रॉन को दि ब्रॉग्ली तरंगदैर्ध्य के लिए संबंध है। $\\lambda = \\frac{h}{\\sqrt{2mE}}$",
+        "b": "वान डी ग्राफ जेनरेटर का बेल्ट क्यों विद्युतरोधी पदार्थ का बना रहता है।"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.4",
+      "topic_name": "Experimental Study of Photoelectric Effect",
+      "question": "Draw graphs showing the variation of photoelectric current with the change in anode potential of a photocell for the following situations:",
+      "prashna": "किसी प्रकाश सेल एनोड विभव में परिवर्तन के साथ प्रकाश-विद्युत धारा पर होनेवाले परिवर्तन के ग्राफ निम्नलिखित परिस्थितियों के लिए प्रदर्शित करें।",
+      "sub_questions": {
+        "i": "For different frequencies at a constant intensity.",
+        "ii": "For different intensities at a constant frequency."
+      },
+      "anuprashna": {
+        "i": "एक नियत तीव्रता पर अलग-अलग आवृत्ति के लिए।",
+        "ii": "एक नियत आवृत्ति पर अलग-अलग तीव्रता के लिए।"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.2",
+      "topic_name": "Electron Emission",
+      "question": "Why does the process of thermionic emission occur only at the surface?",
+      "prashna": "तापायनिक उत्सर्जन की प्रक्रिया सिर्फ सतह पर क्यों घटती है ?"
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.8",
+      "topic_name": "Wave Nature of Matter",
+      "question": "What is de Broglie wave? Write the expression for its wavelength.",
+      "prashna": "दे ब्रॉग्ली तरंग क्या है? इसकी तरंगदैर्ध्य का व्यंजक लिखें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.4",
+      "topic_name": "Experimental Study of Photoelectric Effect",
+      "question": "Define stopping potential.",
+      "prashna": "निरोधी विभव की परिभाषा दें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.8",
+      "topic_name": "Wave Nature of Matter",
+      "question": "An electron has a kinetic energy of 120eV. What is its (a) momentum, (b) de Broglie wavelength?",
+      "prashna": "एक इलेक्ट्रॉन जिसकी गतिज ऊर्जा 120eV है उसका (a) संवेग, (b) दे ब्रॉग्ली तरंगदैर्ध्य क्या है ?",
+      "sub_questions": {
+        "A": "momentum",
+        "B": "de Broglie wavelength"
+      },
+      "anuprashna": {
+        "A": "संवेग",
+        "B": "दे ब्रॉग्ली तरंगदैर्ध्य"
+      }
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "In the context of the photoelectric effect, define threshold frequency, work function, and stopping potential.",
+      "prashna": "प्रकाश विद्युत प्रभाव के संदर्भ में देहली आवृत्ति, कार्य फलन और निरोधी विभव को परिभाषित करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.6",
+      "topic_name": "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+      "question": "Light of wavelength $6000\\AA$ is incident on a metal with a work function of 2eV. Will electrons be emitted from the metal or not? If yes, what will be the maximum energy of the emitted electrons?",
+      "prashna": "$2eV$ कार्यफलन के धातु पर $6000\\AA$ तरंग्दैघर्य का प्रकाश आपतित कराया जाता है। धातु से इलेक्ट्रॉन उत्सर्जित होगा कि नहीं? यदि हाँ तो उत्सर्जित इलेक्ट्रॉन की महत्तम ऊर्जा क्या होगी?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.7",
+      "topic_name": "Particle Nature of Light: The Photon",
+      "question": "Find out the energy of photon of light of wavelength $6000\\AA$.",
+      "prashna": "$6000\\AA$ तरंगदैर्ध्य वाले प्रकाश के फोटॉन की ऊर्जा ज्ञात करें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.3",
+      "topic_name": "Photoelectric Effect",
+      "question": "What is photoelectric effect ?",
+      "prashna": "प्रकाश विद्युत प्रभाव क्या है ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.3",
+      "topic_name": "Photoelectric Effect",
+      "question": "What is photo-cell ? Write down its two applications.",
+      "prashna": "फोटो सेल क्या है ? इसके दो उपयोगों को लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Dual Nature of Radiation and Matter",
+      "topic": "11.3",
+      "topic_name": "Photoelectric Effect",
+      "question": "Explain photoelectric cell.",
+      "prashna": "प्रकाश-विद्युत सेल की व्याख्या करें।"
+    }
+  ]
+}

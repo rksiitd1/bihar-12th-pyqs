@@ -1,0 +1,1530 @@
+{
+  "2009": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "To increase the sensitivity of a potentiometer",
+      "prashna": "किसी विभवमापी की संवेदनशीलता को बढ़ाने के लिए",
+      "options": {
+        "A": "its cross-sectional area should be increased",
+        "B": "its current should be decreased",
+        "C": "its current should be increased",
+        "D": "its length should be decreased"
+      },
+      "vikalpa": {
+        "A": "इसका अनुप्रस्थ क्षेत्रफल बढ़ाना चाहिए",
+        "B": "इसकी धारा को घटाना चाहिए",
+        "C": "इसकी धारा को बढ़ाना चाहिए",
+        "D": "इसकी लम्बाई को घटाना चाहिए"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "An ammeter of resistance $0.05\\Omega$ is connected to a cell of e.m.f. $1.5V$. If a current of $2.0 A$ flows in the circuit, then the internal resistance of the cell is",
+      "prashna": "एक $0.05\\Omega$ प्रतिरोध वाले एमीटर को $1.5V$ वि. वा. बल के सेल से जोड़ा जाता है। अगर $2.0 A$ की धारा परिपथ में बहती है, तो सेल का आंतरिक प्रतिरोध है",
+      "options": {
+        "A": "$1.0\\Omega$",
+        "B": "$0.9 \\Omega$",
+        "C": "$0.8 \\Omega$",
+        "D": "$0.7 \\Omega$"
+      },
+      "vikalpa": {
+        "A": "$1.0\\Omega$",
+        "B": "$0.9 \\Omega$",
+        "C": "$0.8 \\Omega$",
+        "D": "$0.7 \\Omega$"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Kilowatt-hour (kWh) is the unit of",
+      "prashna": "किलोवाट घंटा (kWh) मात्रक है",
+      "options": {
+        "A": "Power",
+        "B": "Energy",
+        "C": "Torque",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "शक्ति का",
+        "B": "ऊर्जा का",
+        "C": "बलाघूर्ण का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.8",
+      "topic_name": "Temperature Dependence of Resistivity",
+      "question": "Statement-I: The temperature coefficient of resistance is always positive. \nStatement-II: The resistance of a metal and its alloy increases with temperature.",
+      "prashna": "कथन-I : प्रतिरोध के ताप गुणांक हमेशा धनात्मक होता है। \nकथन-II : धातु एवं उसके मिश्रधातु का प्रतिरोध ताप के साथ बढ़ता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is false.",
+        "D": "Statement-I is false, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Statement-I: A potentiometer measures electromotive force. \nStatement-II: A voltmeter measures potential difference.",
+      "prashna": "कथन-I: विभवमापी विद्युत-वाहक बल मापता है। \nकथन-II : वोल्टमीटर विभवान्तर मापता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is false.",
+        "D": "Statement-I is false, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Two bulbs rated at $200 V$ and $300 V$ respectively use the same power. Both bulbs are connected in series with a $500 V$ DC source, then across the two resistive bulbs",
+      "prashna": "दो बल्व क्रमशः $200 V$ एवं $300 V$ पर समान शक्ति का उपयोग करते हैं। इन दोनों वल्वों को $500$ वोल्ट के दिष्ट धारा विद्युत स्रोत के साथ श्रेणीक्रम में जोड़ा जाता है, तो दोनों प्रतिरोधक बल्बों के दोनों छोरों पर",
+      "options": {
+        "A": "The ratio of potential differences will be 3/2",
+        "B": "The ratio of potential differences will be 4/9",
+        "C": "The ratio of consumed powers will be 4/9",
+        "D": "The ratio of consumed powers will be 2/3"
+      },
+      "vikalpa": {
+        "A": "विभवान्तर का अनुपात 3/2 होगा",
+        "B": "विभवान्तर का अनुपात 4/9 होगा",
+        "C": "उपयुक्त शक्तियों का अनुपात 4/9 होगा",
+        "D": "उपयुक्त शक्तियों का अनुपात 2/3 होगा"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "The electrical resistance of a healthy human body is",
+      "prashna": "स्वस्थ मनुष्य के शरीर का विद्युत प्रतिरोध है",
+      "options": {
+        "A": "$50,000 \\Omega$",
+        "B": "$10,000 \\Omega$",
+        "C": "$1,000 \\Omega$",
+        "D": "$10 \\Omega$"
+      },
+      "vikalpa": {
+        "A": "$50,000 \\Omega$",
+        "B": "$10,000 \\Omega$",
+        "C": "$1,000 \\Omega$",
+        "D": "$10 \\Omega$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "Statement-I: An electric bulb lights up instantly when switched on.\nStatement-II: The free electrons present in the wire move with the speed of light.",
+      "prashna": "कथन-I: किसी विद्युत बल्ब को संचालित करने पर बल्ब तत्काल प्रज्वलित हो जाता है।\nकथन-II: तार में उपस्थित मुक्त इलेक्ट्रॉन प्रकाश के वेग से चलता है।",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Statement-I: The e.m.f. of a large dry cell is high.\nStatement-II: The e.m.f. of a cell is proportional to its size.",
+      "prashna": "कथन-I: एक बड़े सूख सेल का वि.वा. बल उच्च होता है।\nकथन-II: किसी सेल का वि०वा० बल इसके आकार के समानुपाती होता है।",
+      "options": {
+        "A": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन-II सही है।"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "Frequency of direct current",
+      "prashna": "दिष्ट धारा की आवृत्ति",
+      "options": {
+        "A": "Reduces alternating current",
+        "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "C": "Infinite",
+        "D": "$3.6 \\times 10^6$ J"
+      },
+      "vikalpa": {
+        "A": "प्रत्यावर्ती धारा को कम करता है",
+        "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "C": "अनन्त",
+        "D": "$3.6 \\times 10^6$ J"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "1 kWh",
+      "prashna": "1 kWh",
+      "options": {
+        "A": "Reduces alternating current",
+        "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "C": "Infinite",
+        "D": "$3.6 \\times 10^6$ J"
+      },
+      "vikalpa": {
+        "A": "प्रत्यावर्ती धारा को कम करता है",
+        "B": "$\\frac{1}{2} \\epsilon_0 E^2$",
+        "C": "अनन्त",
+        "D": "$3.6 \\times 10^6$ J"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "A current of 10 amperes flows through a wire for 10 seconds. If the potential difference across the wire is 15 volts, the work done will be",
+      "prashna": "10 एम्पियर की धारा एक तार से 10 सेकेण्ड तक प्रवाहित होती है। यदि तार का विभवांतर 15 वोल्ट हो, तो किया गया कार्य होगा",
+      "options": {
+        "A": "150J",
+        "B": "75J",
+        "C": "1500J",
+        "D": "750J"
+      },
+      "vikalpa": {
+        "A": "150J",
+        "B": "75J",
+        "C": "1500J",
+        "D": "750J"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "A current flows through a wire of $5\\Omega$ resistance having a potential difference of 7 volts for 20 minutes. The heat produced is",
+      "prashna": "$5\\Omega$ प्रतिरोध के एक तार से जिसका विभवांतर 7 वोल्ट है 20 मिनट तक धारा प्रवाहित होती है। उत्पन्न ऊष्मा है",
+      "options": {
+        "A": "140 calories",
+        "B": "280 calories",
+        "C": "700 calories",
+        "D": "2800 calories"
+      },
+      "vikalpa": {
+        "A": "140 कैलोरी",
+        "B": "280 कैलोरी",
+        "C": "700 कैलोरी",
+        "D": "2800 कैलोरी"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.4",
+      "topic_name": "Ohm’s law",
+      "question": "Ohm's Law",
+      "prashna": "ओम का नियम",
+      "options": {
+        "A": "Potential difference x current",
+        "B": "Potential difference x current x time",
+        "C": "Potential difference/current = constant",
+        "D": "Conservation of energy"
+      },
+      "vikalpa": {
+        "A": "विभवांतर x धारा",
+        "B": "विभवांतर x धारा x समय",
+        "C": "विभवांतर/धारा = अचर",
+        "D": "ऊर्जा संरक्षण"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Kirchhoff's Law",
+      "prashna": "किरचॉफ का नियम",
+      "options": {
+        "A": "Potential difference x current",
+        "B": "Potential difference x current x time",
+        "C": "Potential difference/current = constant",
+        "D": "Conservation of energy"
+      },
+      "vikalpa": {
+        "A": "विभवांतर x धारा",
+        "B": "विभवांतर x धारा x समय",
+        "C": "विभवांतर/धारा = अचर",
+        "D": "ऊर्जा संरक्षण"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Force x velocity",
+      "prashna": "बल x वेग",
+      "options": {
+        "A": "Potential difference x current",
+        "B": "Potential difference x current x time",
+        "C": "Potential difference/current = constant",
+        "D": "Conservation of energy"
+      },
+      "vikalpa": {
+        "A": "विभवांतर x धारा",
+        "B": "विभवांतर x धारा x समय",
+        "C": "विभवांतर/धारा = अचर",
+        "D": "ऊर्जा संरक्षण"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Kilowatt-hour (kWh)",
+      "prashna": "किलोवाट-घंटा (kWh)",
+      "options": {
+        "A": "Potential difference x current",
+        "B": "Potential difference x current x time",
+        "C": "Potential difference/current = constant",
+        "D": "Conservation of energy"
+      },
+      "vikalpa": {
+        "A": "विभवांतर x धारा",
+        "B": "विभवांतर x धारा x समय",
+        "C": "विभवांतर/धारा = अचर",
+        "D": "ऊर्जा संरक्षण"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Kilowatt-hour (kWh) is the unit of:",
+      "prashna": "किलोवाट घंटा (kWh) मात्रक है:",
+      "options": {
+        "A": "Energy",
+        "B": "Power",
+        "C": "Torque",
+        "D": "Force"
+      },
+      "vikalpa": {
+        "A": "ऊर्जा का",
+        "B": "शक्ति का",
+        "C": "बल आघूर्ण का",
+        "D": "बल का"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "The algebraic sum of all currents at any point in an electrical circuit is:",
+      "prashna": "विद्युतीय परिपथ के किसी बिन्दु पर सभी धाराओं का बीजगणितीय योग:",
+      "options": {
+        "A": "Infinite",
+        "B": "Positive",
+        "C": "Zero",
+        "D": "Negative"
+      },
+      "vikalpa": {
+        "A": "अनंत होता है",
+        "B": "धनात्मक होता है",
+        "C": "शून्य होता है",
+        "D": "ऋणात्मक होता है"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "The power of an electric circuit is:",
+      "prashna": "विद्युत परिपथ की शक्ति होती है:",
+      "options": {
+        "A": "$V.R$",
+        "B": "$V^2.R$",
+        "C": "$V^2/R$",
+        "D": "$V^2.R.I$"
+      },
+      "vikalpa": {
+        "A": "$V.R$",
+        "B": "$V^2.R$",
+        "C": "$V^2/R$",
+        "D": "$V^2.R.I$"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "The power of an electric circuit is",
+      "prashna": "विद्युत परिपथ की शक्ति होती है",
+      "options": {
+        "A": "$V \\cdot R$",
+        "B": "$V^2 \\cdot R$",
+        "C": "$V^2 / R$",
+        "D": "$V^2 \\cdot RI$"
+      },
+      "vikalpa": {
+        "A": "$V \\cdot R$",
+        "B": "$V^2 \\cdot R$",
+        "C": "$V^2 / R$",
+        "D": "$V^2 \\cdot RI$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "The algebraic sum of all currents at any point in an electrical circuit is",
+      "prashna": "विद्युतीय परिपथ के किसी बिन्दु पर सभी धाराओं का बीजगणितीय योग",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite",
+        "C": "Positive",
+        "D": "Negative"
+      },
+      "vikalpa": {
+        "A": "शून्य होता है",
+        "B": "अनंत होता है",
+        "C": "धनात्मक होता है",
+        "D": "ऋणात्मक होता है"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "The dimension of electromotive force is",
+      "prashna": "विद्युत वाहक बल की विमा है।",
+      "options": {
+        "A": "$ML^2T^{-2}$",
+        "B": "$ML^2T^{-2}I^{-1}$",
+        "C": "$MLT^{-2}$",
+        "D": "$ML^2T^{-3}A^{-1}$"
+      },
+      "vikalpa": {
+        "A": "$ML^2T^{-2}$",
+        "B": "$ML^2T^{-2}I^{-1}$",
+        "C": "$MLT^{-2}$",
+        "D": "$ML^2T^{-3}A^{-1}$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "Ampere-hour is the unit of",
+      "prashna": "एम्पियर-घंटा मात्रक है",
+      "options": {
+        "A": "Power",
+        "B": "Charge",
+        "C": "Energy",
+        "D": "Potential difference"
+      },
+      "vikalpa": {
+        "A": "शक्ति का",
+        "B": "आवेश का",
+        "C": "ऊर्जा का",
+        "D": "विभवांतर का"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.11",
+      "topic_name": "Cells in Series and in Parallel",
+      "question": "Two cells, having e.m.f. $\\epsilon_1$ and $\\epsilon_2$ and internal resistance $r_1$ and $r_2$, are connected in parallel. Its equivalent e.m.f. will be",
+      "prashna": "दो सेलों को, जिनके विद्युत वाहक बल $\\epsilon_1$ और $\\epsilon_2$ तथा आन्तरिक प्रतिरोध $r_1$ और $r_2$ हैं, समानान्तर क्रम में जोड़ा गया है। इसका समतुल्य वि०वा० वल होगा",
+      "options": {
+        "A": "$\\frac{\\epsilon_1 r_1 + \\epsilon_2 r_2}{r_1 + r_2}$",
+        "B": "$\\frac{\\epsilon_1 r_2 + \\epsilon_2 r_1}{r_1 + r_2}$",
+        "C": "$\\sqrt{\\epsilon_1 \\times \\epsilon_2}$",
+        "D": "$\\frac{\\epsilon_1 + \\epsilon_2}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\epsilon_1 r_1 + \\epsilon_2 r_2}{r_1 + r_2}$",
+        "B": "$\\frac{\\epsilon_1 r_2 + \\epsilon_2 r_1}{r_1 + r_2}$",
+        "C": "$\\sqrt{\\epsilon_1 \\times \\epsilon_2}$",
+        "D": "$\\frac{\\epsilon_1 + \\epsilon_2}{2}$"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "The element used in an electric heater is.",
+      "prashna": "विद्युत हीटर में जिस तत्त्व का व्यवहार किया जाता है वह है।",
+      "options": {
+        "A": "Copper",
+        "B": "Platinum",
+        "C": "Tungsten",
+        "D": "Nichrome"
+      },
+      "vikalpa": {
+        "A": "ताम्बा",
+        "B": "प्लेटिनम",
+        "C": "टंगस्टन",
+        "D": "निक्रोम"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Absorbed electrical energy is.",
+      "prashna": "शोषित विद्युत ऊर्जा",
+      "options": {
+        "A": "proportional to the potential difference.",
+        "B": "inversely proportional to the potential difference.",
+        "C": "proportional to the square of the potential difference.",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "विभवांतर के समानुपाती होती है।",
+        "B": "विभवान्तर के व्युत्क्रमानुपाती है।",
+        "C": "विभवांतर के वर्ग के समानुपाती होती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "Wheatstone bridge is used to measure.",
+      "prashna": "व्हीटस्टोन ब्रिज से मापा जाता है।",
+      "options": {
+        "A": "High resistance",
+        "B": "Low resistance",
+        "C": "High and low resistance",
+        "D": "Potential difference"
+      },
+      "vikalpa": {
+        "A": "उच्च प्रतिरोध",
+        "B": "निम्न प्रतिरोध",
+        "C": "उच्च तथा निम्न प्रतिरोध",
+        "D": "विभवान्तर"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.8",
+      "topic_name": "Temperature Dependence of Resistivity",
+      "question": "The specific resistance of a conductor increases with:",
+      "prashna": "किसी चालक का विशिष्ट प्रतिरोध बढ़ता है:",
+      "options": {
+        "A": "increase of temperature",
+        "B": "increase of cross-sectional area",
+        "C": "decrease in length",
+        "D": "decrease of cross-sectional area"
+      },
+      "vikalpa": {
+        "A": "तापमान बढ़ने से",
+        "B": "अनुप्रस्थ काट क्षेत्रफल बढ़ने से",
+        "C": "लम्बाई घटने से",
+        "D": "अनुप्रस्थ काट क्षेत्रफल घटने से"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "The Drift velocity ($v_d$) and applied electric field (E) of a conductor are related as:",
+      "prashna": "किसी चालक के संवहन वेग ($v_d$) तथा आरोपित विद्युत क्षेत्र (E) के बीच सम्बन्ध है:",
+      "options": {
+        "A": "$v_d \\propto \\sqrt{E}$",
+        "B": "$v_d \\propto E$",
+        "C": "$v_d \\propto E^2$",
+        "D": "$v_d$ = Constant"
+      },
+      "vikalpa": {
+        "A": "$v_d \\propto \\sqrt{E}$",
+        "B": "$v_d \\propto E$",
+        "C": "$v_d \\propto E^2$",
+        "D": "$v_d$ = नियतांक"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "At constant potential difference, the resistance of any electric circuit is halved, the value of heat produced will be -",
+      "prashna": "स्थिर विभवांतर पर किसी विद्युत परिपथ का प्रतिरोध आधा कर दिया जाता है, उत्पन्न ऊष्मा का मान होगा -",
+      "options": {
+        "A": "half",
+        "B": "double",
+        "C": "four times",
+        "D": "same"
+      },
+      "vikalpa": {
+        "A": "आधा",
+        "B": "दुगुना",
+        "C": "चौगुना",
+        "D": "स्थिर रहता है"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "When two bulbs of power 60 W and 40 W are connected in series, then the power of their combination will be -",
+      "prashna": "60 W तथा 40 W के दो बल्ब यदि श्रेणीक्रम में जोड़े जाएँ, तो उनकी सम्मिलित शक्ति होगी -",
+      "options": {
+        "A": "100 W",
+        "B": "2400 W",
+        "C": "30 W",
+        "D": "24 W"
+      },
+      "vikalpa": {
+        "A": "100 W",
+        "B": "2400 W",
+        "C": "30 W",
+        "D": "24 W"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Power of an electric-circuit is -",
+      "prashna": "विद्युत - परिपथ की शक्ति होती है -",
+      "options": {
+        "A": "$V \\cdot R$",
+        "B": "$V^2 R$",
+        "C": "$V^2/R$",
+        "D": "$V^2 R t$"
+      },
+      "vikalpa": {
+        "A": "$V \\cdot R$",
+        "B": "$V^2 R$",
+        "C": "$V^2/R$",
+        "D": "$V^2 R t$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "The current flowing in a wire is 1 A. If the charge of an electron is $1.6 \\times 10^{-19} C$, then the number of electrons flowing through the wire per second is -",
+      "prashna": "एक तार में 1 A धारा प्रवाहित हो रही है। यदि इलेक्ट्रॉन का आवेश $1.6 \\times 10^{-19} C$ हो, तो प्रति सेकण्ड तार में प्रवाहित इलेक्ट्रॉनों की संख्या है -",
+      "options": {
+        "A": "$0.625 \\times 10^{19}$",
+        "B": "$6.25 \\times 10^{18}$",
+        "C": "$1.6 \\times 10^{19}$",
+        "D": "$1.6 \\times 10^{-19}$"
+      },
+      "vikalpa": {
+        "A": "$0.625 \\times 10^{19}$",
+        "B": "$6.25 \\times 10^{18}$",
+        "C": "$1.6 \\times 10^{19}$",
+        "D": "$1.6 \\times 10^{-19}$"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "The motion of electron inside a current carrying conductor is",
+      "prashna": "धारावाही चालक के अंदर इलेक्ट्रॉन की गति होती है",
+      "options": {
+        "A": "Uniform",
+        "B": "Accelerated",
+        "C": "Drifting",
+        "D": "Decelerated"
+      },
+      "vikalpa": {
+        "A": "समरूप",
+        "B": "त्वरित",
+        "C": "अपसरित",
+        "D": "अवमंदित"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Kilowatt-hour (Kwh) is unit of",
+      "prashna": "किलोवाट-घंटा (Kwh) मात्रक है",
+      "options": {
+        "A": "Electric Power",
+        "B": "Electric Energy",
+        "C": "Torque",
+        "D": "Electric Current"
+      },
+      "vikalpa": {
+        "A": "विद्युत शक्ति का",
+        "B": "विद्युत ऊर्जा का",
+        "C": "बल-आघूर्ण का",
+        "D": "विद्युत धारा का"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "The current flowing through a wire is 1A. If the charge of an electron is $1.6 \\times 10^{-19}C$, then the number of electrons flowing through any section of the wire per second is",
+      "prashna": "एक तार में 1A धारा प्रवाहित हो रही है। यदि इलेक्ट्रॉन का आवेश $1.6 \\times 10^{-19}C$ हो, तो तार के किसी काट से प्रति सेकेन्ड प्रवाहित इलेक्ट्रॉनों की संख्या है",
+      "options": {
+        "A": "$0.625 \\times 10^{13}$",
+        "B": "$6.25 \\times 10^{18}$",
+        "C": "$1.6 \\times 10^{-19}$",
+        "D": "$1.6 \\times 10^{19}$"
+      },
+      "vikalpa": {
+        "A": "$0.625 \\times 10^{13}$",
+        "B": "$6.25 \\times 10^{18}$",
+        "C": "$1.6 \\times 10^{-19}$",
+        "D": "$1.6 \\times 10^{19}$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "A current flows in a wire of resistance $5\\Omega$ having potential difference 7 Volt, for 20 minutes. The heat produced will be",
+      "prashna": "$5\\Omega$ प्रतिरोध के एक तार से जिसका विभवान्तर 7 वोल्ट है 20 मिनट तक धारा प्रवाहित होती है। उत्पन्न ऊष्मा होगी",
+      "options": {
+        "A": "280 Cal",
+        "B": "140 Cal",
+        "C": "1400 Cal",
+        "D": "2800 Cal"
+      },
+      "vikalpa": {
+        "A": "280 कैलोरी",
+        "B": "140 कैलोरी",
+        "C": "1400 कैलोरी",
+        "D": "2800 कैलोरी"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "One ampere is equal to",
+      "prashna": "एक ऐम्पियर बराबर होता है",
+      "options": {
+        "A": "$\\frac{1 \\text{ coulomb}}{1 \\text{ second}}$",
+        "B": "1 coulomb × 1 second",
+        "C": "1 volt × 1 ohm",
+        "D": "$\\frac{1 \\text{ ohm}}{1 \\text{ volt}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1 \\text{ कूलॉम}}{1 \\text{ सेकेण्ड}}$",
+        "B": "1 कूलॉम × 1 सेकेण्ड",
+        "C": "1 वोल्ट × 1 ओम",
+        "D": "$\\frac{1 \\text{ ओम}}{1 \\text{ वोल्ट}}$"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Unit of electromotive force is",
+      "prashna": "विद्युत वाहक बल की इकाई है",
+      "options": {
+        "A": "newton",
+        "B": "joule",
+        "C": "volt",
+        "D": "newton/ampere"
+      },
+      "vikalpa": {
+        "A": "न्यूटन",
+        "B": "जूल",
+        "C": "वोल्ट",
+        "D": "न्यूटन प्रति एम्पीयर"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "The heat produced in a conductor of resistance R due to flow of current I for time t is",
+      "prashna": "t समय तक धारा I के प्रवाह के कारण R प्रतिरोध के चालक में उत्पन्न ऊष्मा होती है",
+      "options": {
+        "A": "$I.R.t$",
+        "B": "$I.R^2.t$",
+        "C": "$I^2.R.t$",
+        "D": "$I^2.R^2.t$"
+      },
+      "vikalpa": {
+        "A": "$I.R.t$",
+        "B": "$I.R^2.t$",
+        "C": "$I^2.R.t$",
+        "D": "$I^2.R^2.t$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "Value of green colour code on carbon resistance is",
+      "prashna": "कार्बन प्रतिरोध के हरे रंग के कोड का मान है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "Which of the following is the best conductor of electricity ?",
+      "prashna": "विद्युत का सबसे अच्छा चालक निम्नलिखित में कौन है ?",
+      "options": {
+        "A": "Silver",
+        "B": "Copper",
+        "C": "Gold",
+        "D": "Zinc"
+      },
+      "vikalpa": {
+        "A": "चाँदी",
+        "B": "ताँबा",
+        "C": "सोना",
+        "D": "जस्ता"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.4",
+      "topic_name": "Ohm’s law",
+      "question": "Voltameter measures",
+      "prashna": "वोल्टामीटर मापता है",
+      "options": {
+        "A": "resistance",
+        "B": "potential difference",
+        "C": "current",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिरोध",
+        "B": "विभवान्तर",
+        "C": "धारा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Which of the following is the same in parallel connection of resistances ?",
+      "prashna": "प्रतिरोधों के समांतर क्रम में निम्नलिखित में कौन राशि समान रहती है ?",
+      "options": {
+        "A": "Potential difference",
+        "B": "Current",
+        "C": "Both Potential difference and current",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "विभवांतर",
+        "B": "धारा",
+        "C": "विभवांतर और धारा दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "The value of yellow colour in colour code of carbon resistance is",
+      "prashna": "कार्बन प्रतिरोध का रंग-कोड में पीला रंग का मान होता है",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "Which of the following is correct for resistivity of a material ?",
+      "prashna": "पदार्थ की प्रतिरोधकता के लिए निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "$\\rho = \\frac{RA}{L}$",
+        "B": "$\\rho = \\frac{L}{RA}$",
+        "C": "$\\rho = \\frac{RL}{A}$",
+        "D": "$\\rho = R.L.A$"
+      },
+      "vikalpa": {
+        "A": "$\\rho = \\frac{RA}{L}$",
+        "B": "$\\rho = \\frac{L}{RA}$",
+        "C": "$\\rho = \\frac{RL}{A}$",
+        "D": "$\\rho = R.L.A$"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Power of electric circuit is",
+      "prashna": "विद्युत-परिपथ की शक्ति होती है",
+      "options": {
+        "A": "$V.R$",
+        "B": "$V^2.R$",
+        "C": "$\\frac{V^2}{R}$",
+        "D": "$V^2.R.I$"
+      },
+      "vikalpa": {
+        "A": "$V.R$",
+        "B": "$V^2.R$",
+        "C": "$\\frac{V^2}{R}$",
+        "D": "$V^2.R.I$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.3",
+      "topic_name": "Electric Currents in Conductors",
+      "question": "Which of the following is correct for current density ?",
+      "prashna": "निम्नलिखित में धारा-घनत्व के लिए कौन सही है ?",
+      "options": {
+        "A": "$J = I \\cdot A$",
+        "B": "$J = I/A$",
+        "C": "$J = A/I$",
+        "D": "$J = I^2A$"
+      },
+      "vikalpa": {
+        "A": "$J = I \\cdot A$",
+        "B": "$J = I/A$",
+        "C": "$J = A/I$",
+        "D": "$J = I^2A$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "Which of the following is correct for mobility ?",
+      "prashna": "निम्नलिखित में गतिशीलता के लिए कौन सही है ?",
+      "options": {
+        "A": "$\\mu = V_d / E$",
+        "B": "$\\mu = E / V_d$",
+        "C": "$\\mu = V_d \\cdot E$",
+        "D": "$\\mu = E^2 \\cdot V_d$"
+      },
+      "vikalpa": {
+        "A": "$\\mu = V_d / E$",
+        "B": "$\\mu = E / V_d$",
+        "C": "$\\mu = V_d \\cdot E$",
+        "D": "$\\mu = E^2 \\cdot V_d$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Which of the following is correct ?",
+      "prashna": "निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "1 watt = 1 $Js^{-1}$",
+        "B": "1 watt = 1 $Vs^{-1}$",
+        "C": "1 watt = 1 $sV^{-1}$",
+        "D": "1 watt = 1 $Fs^{-1}$"
+      },
+      "vikalpa": {
+        "A": "1 वाट = 1 $Js^{-1}$",
+        "B": "1 वाट = 1 $Vs^{-1}$",
+        "C": "1 वाट = 1 $sV^{-1}$",
+        "D": "1 वाट = 1 $Fs^{-1}$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.7",
+      "topic_name": "Resistivity of Various Materials",
+      "question": "Colour code of carbon resistance for blue colour is",
+      "prashna": "नीला रंग के लिए कार्बन प्रतिरोध का कलर कोड होता है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.10",
+      "topic_name": "Cells, emf, Internal Resistance",
+      "question": "Ampere-hour is the unit of",
+      "prashna": "एम्पियर-घंटा मात्रक होता है",
+      "options": {
+        "A": "power",
+        "B": "charge",
+        "C": "energy",
+        "D": "potential difference"
+      },
+      "vikalpa": {
+        "A": "शक्ति का",
+        "B": "आवेश का",
+        "C": "ऊर्जा का",
+        "D": "विभवान्तर का"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "The motion of electron inside the conductor is",
+      "prashna": "चालक के अंदर इलेक्ट्रॉन की गति होती है।",
+      "options": {
+        "A": "Uniform",
+        "B": "Accelerated",
+        "C": "Drifting",
+        "D": "Decelerated"
+      },
+      "vikalpa": {
+        "A": "समरूप",
+        "B": "त्वरित",
+        "C": "आपसरित",
+        "D": "अवमंदित"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.5",
+      "topic_name": "Drift of Electrons and the Origin of Resistivity",
+      "question": "The relation between the drift velocity ($V_d$) and applied electric field (E) of a conductor is",
+      "prashna": "किसी चालक के संवहन वेग ($V_d$) तथा आरोपित विद्युत क्षेत्र (E) के बीच संबंध है",
+      "options": {
+        "A": "$V_d \\propto E$",
+        "B": "$V_d \\propto \\sqrt{E}$",
+        "C": "$V_d \\propto E^2$",
+        "D": "$V_d \\propto \\sqrt{E^3}$"
+      },
+      "vikalpa": {
+        "A": "$V_d \\propto E$",
+        "B": "$V_d \\propto \\sqrt{E}$",
+        "C": "$V_d \\propto E^2$",
+        "D": "$V_d \\propto \\sqrt{E^3}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "What is mainly measured by potentiometer?",
+      "prashna": "विभवमापी से मुख्यतः क्या मापा जाता है ?",
+      "options": {
+        "A": "Current",
+        "B": "Resistance",
+        "C": "Potential difference",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "धारा",
+        "B": "प्रतिरोध",
+        "C": "विभवान्तर",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Two resistors R and 2R are connected in series in an electric circuit. The thermal energy developed in R and 2R will be in ratio",
+      "prashna": "दो प्रतिरोध R एवं 2R को एक विद्युत परिपथ में श्रेणीक्रम में जोड़ा जाता है। R तथा 2R में उत्पन्न ऊष्मीय ऊर्जा का अनुपात होगा",
+      "options": {
+        "A": "1:2",
+        "B": "1:4",
+        "C": "2:1",
+        "D": "4:1"
+      },
+      "vikalpa": {
+        "A": "1:2",
+        "B": "1:4",
+        "C": "2:1",
+        "D": "4:1"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "Two bulbs of 40 W and 60 W are connected to 220 V source. The ratio of their resistances will be",
+      "prashna": "40 W तथा 60 W के दो बल्ब 220 V स्रोत से जोड़े जाते हैं। उनके प्रतिरोध में अनुपात होगा",
+      "options": {
+        "A": "4:3",
+        "B": "3:4",
+        "C": "2:3",
+        "D": "3:2"
+      },
+      "vikalpa": {
+        "A": "4:3",
+        "B": "3:4",
+        "C": "2:3",
+        "D": "3:2"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.4",
+      "topic_name": "Ohm’s law",
+      "question": "The resistance of any wire is 500 $\\Omega$. Its electrical conductivity will be",
+      "prashna": "किसी तार का प्रतिरोध 500 $\\Omega$ है। उसकी विद्युत चालकता होगी",
+      "options": {
+        "A": "0.002 $\\text{ohm}^{-1}$",
+        "B": "0.02 $\\text{ohm}^{-1}$",
+        "C": "50 $\\text{ohm}^{-1}$",
+        "D": "500 $\\text{ohm}^{-1}$"
+      },
+      "vikalpa": {
+        "A": "0.002 ओम$^{-1}$",
+        "B": "0.02 ओम$^{-1}$",
+        "C": "50 ओम$^{-1}$",
+        "D": "500 ओम$^{-1}$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.4",
+      "topic_name": "Ohm’s law",
+      "question": "n equal resistors are first connected in series and then in parallel. The ratio of maximum and minimum resistances will be",
+      "prashna": "n समान प्रतिरोधक पहले श्रेणीक्रम में तथा उसके बाद समानान्तर क्रम में जोड़े जाते हैं। अधिकतम तथा न्यूनतम प्रतिरोध का अनुपात होगा",
+      "options": {
+        "A": "$\\frac{1}{n}$",
+        "B": "n",
+        "C": "$\\frac{1}{n^2}$",
+        "D": "$n^2$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{n}$",
+        "B": "n",
+        "C": "$\\frac{1}{n^2}$",
+        "D": "$n^2$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "To increase the sensitivity of a potentiometer",
+      "prashna": "विभवमापी की सुग्राह्यता को बढ़ाने के लिए",
+      "options": {
+        "A": "the cross-section area of its wire will have to be increased",
+        "B": "current in its wire will have to be decreased",
+        "C": "current in its wire will have to be increased",
+        "D": "length of its wire will have to be increased"
+      },
+      "vikalpa": {
+        "A": "इसके तार का अनुप्रस्थ परिच्छेद बढ़ाना होगा",
+        "B": "इसके तार में धारा को घटाना होगा",
+        "C": "इसके तार में धारा को बढ़ाना होगा",
+        "D": "इसके तार की लंबाई बढ़ानी होगी"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Kirchhoff's second law of electricity is related to",
+      "prashna": "वैद्युत सम्बन्धित किरचॉफ का द्वितीय नियम सम्बन्ध रखता है",
+      "options": {
+        "A": "conservation of mass",
+        "B": "conservation of charge",
+        "C": "conservation of energy",
+        "D": "conservation of momentum"
+      },
+      "vikalpa": {
+        "A": "द्रव्यमान संरक्षण से",
+        "B": "आवेश संरक्षण से",
+        "C": "ऊर्जा संरक्षण से",
+        "D": "संवेग संरक्षण से"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "Current used in electroplating is",
+      "prashna": "विद्युत लेपन में व्यवहार आनेवाली धारा होती है",
+      "options": {
+        "A": "DC",
+        "B": "AC",
+        "C": "both DC and AC",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "DC",
+        "B": "AC",
+        "C": "DC तथा AC दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Kirchoff's Point-rule obeys which of the following rule",
+      "prashna": "किरचॉफ का बिंदु-नियम निम्नलिखित में से किस नियम का पालन करता है?",
+      "options": {
+        "A": "Principle of conservation of energy",
+        "B": "Principle of conservation of charge",
+        "C": "Principle of conservation of momentum",
+        "D": "Principle of conservation of mass."
+      },
+      "vikalpa": {
+        "A": "ऊर्जा संरक्षणता का सिद्धांत",
+        "B": "आवेश के संरक्षणता का सिद्धांत",
+        "C": "संवेग के संरक्षणता का सिद्धांत",
+        "D": "द्रव्यमान के संरक्षणता का सिद्धांत।"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.12",
+      "topic_name": "Kirchhoff’s Rules",
+      "question": "Algebraic sum of currents meeting at any point in electric circuit is",
+      "prashna": "विद्युतीय परिपथ के किसी बिंदु पर सभी धाराओं का बीजगणितीय योग होता है",
+      "options": {
+        "A": "Zero",
+        "B": "Infinity",
+        "C": "Positive",
+        "D": "Negative"
+      },
+      "vikalpa": {
+        "A": "शून्य होता है",
+        "B": "अनंत होता है",
+        "C": "धनात्मक होता है",
+        "D": "ऋणात्मक होता है"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.13",
+      "topic_name": "Wheatstone Bridge",
+      "question": "Wheatstone bridge is used to measure",
+      "prashna": "व्हीटस्टोन ब्रिज का उपयोग किसे मापने में किया जाता है?",
+      "options": {
+        "A": "Electromotive force",
+        "B": "Current",
+        "C": "Resistance",
+        "D": "Charge"
+      },
+      "vikalpa": {
+        "A": "विद्युत वाहक बल मापने में",
+        "B": "धारा मापने में",
+        "C": "प्रतिरोध मापने में",
+        "D": "आवेश मापने में"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.2",
+      "topic_name": "Electric Current",
+      "question": "A current of $1\\mu A$ is flowing in a wire. If charge on electron is $1.6 \\times 10^{-19}$ c then number of electrons flowing per second through the wire is",
+      "prashna": "एक तार में $1\\mu A$ धारा प्रवाहित होती है। यदि इलेक्ट्रॉन पर आवेश $1.6 \\times 10^{-19}$ c हो, तो प्रति सेकंड तार से प्रवाहित इलेक्ट्रॉनों की संख्या है?",
+      "options": {
+        "A": "$0.625 \\times 10^{13}$",
+        "B": "$0.625 \\times 10^{19}$",
+        "C": "$1.6 \\times 10^{19}$",
+        "D": "$1.6 \\times 10^{-19}$"
+      },
+      "vikalpa": {
+        "A": "$0.625 \\times 10^{13}$",
+        "B": "$0.625 \\times 10^{19}$",
+        "C": "$1.6 \\times 10^{19}$",
+        "D": "$1.6 \\times 10^{-19}$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Current Electricity",
+      "topic": "3.9",
+      "topic_name": "Electrical Energy, Power",
+      "question": "The element used for electric heater is",
+      "prashna": "विधुत हीटर में जिस तत्व का व्यवहार किया जाता है वह है",
+      "options": {
+        "A": "Copper",
+        "B": "Platinum",
+        "C": "Tungsten",
+        "D": "Nichrome"
+      },
+      "vikalpa": {
+        "A": "तांबा",
+        "B": "प्लेटिनम",
+        "C": "टंगस्टन",
+        "D": "निक्रोम"
+      }
+    }
+  ]
+}

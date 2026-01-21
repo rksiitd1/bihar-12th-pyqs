@@ -1,0 +1,728 @@
+{
+  "2009": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "The magnetic field at the center of a circular loop of area A is B. Then the magnetic moment of that loop will be",
+      "prashna": "क्षेत्रफल A के वृत्तीय पाश के केन्द्र पर चुम्बकीय क्षेत्र B है। तो उस पाश का चुम्बकीय आघूर्ण होगा",
+      "options": {
+        "A": "$\\frac{BA^2}{\\mu_0 \\pi}$",
+        "B": "$\\frac{BA^{3/2}}{\\mu_0}$",
+        "C": "$\\frac{BA^{3/2}}{\\mu_0 \\pi}$",
+        "D": "$\\frac{2BA^{3/2}}{\\mu_0 \\sqrt{\\pi}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{BA^2}{\\mu_0 \\pi}$",
+        "B": "$\\frac{BA^{3/2}}{\\mu_0}$",
+        "C": "$\\frac{BA^{3/2}}{\\mu_0 \\pi}$",
+        "D": "$\\frac{2BA^{3/2}}{\\mu_0 \\sqrt{\\pi}}$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "Statement-I: Among galvanometer, ammeter and voltmeter, the voltmeter has the highest resistance, and the ammeter has the lowest.\nStatement-II: In any circuit, the ammeter is always connected in series and the voltmeter is connected in parallel.",
+      "prashna": "कथन- I: गैल्वेनोमीटर, ऐमीटर तथा वोल्टमीटर में सबसे अधिक प्रतिरोध वोल्टमीटर का होता है, तथा सबसे कम एमीटर का ।\nकथन- II: किसी परिपथ में एमीटर को सर्वदा श्रेणीक्रम में तथा वोल्टमीटर को समानान्तर क्रम में जोड़ा जाता है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is false.",
+        "D": "Statement-I is false, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-। की सही व्याख्या नहीं है।",
+        "C": "कथन सही है, परन्तु कथन-॥ असत्य है।",
+        "D": "कथन असत्य है, परन्तु कथन- । सही है।"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.1",
+      "topic_name": "Introduction",
+      "question": "A charge moving with uniform velocity produces",
+      "prashna": "समरूप वेग से चलायमान आवेश उत्पन्न करता है",
+      "options": {
+        "A": "Only electric field",
+        "B": "Only magnetic field",
+        "C": "Electromagnetic field",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "केवल विद्युतीय क्षेत्र",
+        "B": "केवल चुम्बकीय क्षेत्र",
+        "C": "विद्युत चुम्बकीय क्षेत्र",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.4",
+      "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+      "question": "The dimension of permeability is:",
+      "prashna": "चुम्बकशीलता की विमा है:",
+      "options": {
+        "A": "$MLT^2 I^{-2}$",
+        "B": "$MLT^{-2}I^{-2}$",
+        "C": "$MLT^2 I^2$",
+        "D": "$MLT^{-2}I$"
+      },
+      "vikalpa": {
+        "A": "$MLT^2 I^{-2}$",
+        "B": "$MLT^{-2}I^{-2}$",
+        "C": "$MLT^2 I^2$",
+        "D": "$MLT^{-2}I$"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "The dimension of a magnetic field is",
+      "prashna": "चुम्बकीय क्षेत्र की विमा है",
+      "options": {
+        "A": "$I^1ML^0T^{-2}$",
+        "B": "$I^0MLT^{-2}$",
+        "C": "$IMLT^{-1}$",
+        "D": "$IM^{-1}L^{-1}T^{-2}$"
+      },
+      "vikalpa": {
+        "A": "$I^1ML^0T^{-2}$",
+        "B": "$I^0MLT^{-2}$",
+        "C": "$IMLT^{-1}$",
+        "D": "$IM^{-1}L^{-1}T^{-2}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "When an ammeter is shunted, its measuring range",
+      "prashna": "जब किसी ऐमीटर को शंट किया जाता है तो इसकी माप सीमा",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ती है",
+        "B": "घटती है",
+        "C": "स्थिर रहती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "The SI unit of magnetic moment is",
+      "prashna": "चुंबकीय आघूर्ण पर SI मात्रक होता है",
+      "options": {
+        "A": "$JT^2$",
+        "B": "$Am^2$",
+        "C": "$JT$",
+        "D": "$Am^{-1}$"
+      },
+      "vikalpa": {
+        "A": "$JT^2$",
+        "B": "$Am^2$",
+        "C": "$JT$",
+        "D": "$Am^{-1}$"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "A charge 'q' moves in a region where electric field 'E' and magnetic field 'B' both exist, then force on it is:",
+      "prashna": "एक आवेश 'q', विद्युत क्षेत्र 'E' तथा चुम्बकीय क्षेत्र 'B' की संयुक्त उपस्थिति में गतिमान हो तो, उस पर लगने वाला बल होगा:",
+      "options": {
+        "A": "$q(\\vec{v} \\times \\vec{B})$",
+        "B": "$q\\vec{E}$",
+        "C": "$q\\{\\vec{E}+(\\vec{v} \\times \\vec{B})\\}$",
+        "D": "$q\\{\\vec{B}+(\\vec{v} \\times \\vec{E})\\}$"
+      },
+      "vikalpa": {
+        "A": "$q(\\vec{v} \\times \\vec{B})$",
+        "B": "$q\\vec{E}$",
+        "C": "$q\\{\\vec{E}+(\\vec{v} \\times \\vec{B})\\}$",
+        "D": "$q\\{\\vec{B}+(\\vec{v} \\times \\vec{E})\\}$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.5",
+      "topic_name": "Magnetic Field on the Axis of a Circular Current Loop",
+      "question": "A circular coil of radius R carries a current I. The magnetic field at its center is B. At what distance from the center, on the axis of the coil, the magnetic field will be B/8:",
+      "prashna": "एक वृत्ताकार लूप की त्रिज्या R है, जिसमें I धारा प्रवाहित हो रही है, तथा जिसके केन्द्र पर चुम्बकीय क्षेत्र B है। वृत्त के अक्ष पर उसके केन्द्र से कितनी दूरी पर चुम्बकीय क्षेत्र का मान B/8 होगा:",
+      "options": {
+        "A": "$\\sqrt{2}R$",
+        "B": "2R",
+        "C": "$\\sqrt{3}R$",
+        "D": "3R"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{2}R$",
+        "B": "2R",
+        "C": "$\\sqrt{3}R$",
+        "D": "3R"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "The resistance of ideal ammeter is -",
+      "prashna": "आदर्श एमीटर का प्रतिरोध होता है -",
+      "options": {
+        "A": "Zero",
+        "B": "very small",
+        "C": "very large",
+        "D": "infinite"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "बहुत कम",
+        "C": "बहुत अधिक",
+        "D": "अनन्त"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "The torque ($\\vec{\\tau}$) experienced by a current - loop of magnetic moment ($\\vec{M}$) placed in magnetic field $\\vec{B}$ is -",
+      "prashna": "चुम्बकीय क्षेत्र $\\vec{B}$ में अवस्थित $\\vec{M}$ चुंबकीय आघूर्ण वाले धारा - पाश द्वारा अनुभूत बल आघूर्ण ($\\vec{\\tau}$) का मान होता है -",
+      "options": {
+        "A": "$\\vec{\\tau} = \\vec{M} \\times \\vec{B}$",
+        "B": "$\\vec{\\tau} = \\vec{B} \\times \\vec{M}$",
+        "C": "$\\vec{\\tau} = \\frac{\\vec{M}}{\\vec{B}}$",
+        "D": "$\\vec{\\tau} = \\vec{M} \\cdot \\vec{B}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{\\tau} = \\vec{M} \\times \\vec{B}$",
+        "B": "$\\vec{\\tau} = \\vec{B} \\times \\vec{M}$",
+        "C": "$\\vec{\\tau} = \\frac{\\vec{M}}{\\vec{B}}$",
+        "D": "$\\vec{\\tau} = \\vec{M} \\cdot \\vec{B}$"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "Expression of force on a charge q moving with velocity $\\vec{v}$ in a magnetic field $\\vec{B}$ is",
+      "prashna": "चुम्बकीय क्षेत्र $\\vec{B}$ में वेग $\\vec{v}$ से गतिशील आवेश (q) पर लगने वाले बल का व्यंजक है",
+      "options": {
+        "A": "$\\vec{F_m} = q(\\vec{v} \\times \\vec{B})$",
+        "B": "$\\vec{F_m} = q(\\vec{B} \\times \\vec{v})$",
+        "C": "$\\vec{F_m} = \\frac{(\\vec{B} \\times \\vec{v})}{q}$",
+        "D": "$\\vec{F_m} = \\frac{(\\vec{v} \\times \\vec{B})}{q}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{F_m} = q(\\vec{v} \\times \\vec{B})$",
+        "B": "$\\vec{F_m} = q(\\vec{B} \\times \\vec{v})$",
+        "C": "$\\vec{F_m} = \\frac{(\\vec{B} \\times \\vec{v})}{q}$",
+        "D": "$\\vec{F_m} = \\frac{(\\vec{v} \\times \\vec{B})}{q}$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.4",
+      "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+      "question": "Which of the following is the correct vector form of the equation of Biot-Savart law ?",
+      "prashna": "निम्नलिखित में कौन बायो-सावर्ट नियम के सदिश समीकरण का सही रूप है ?",
+      "options": {
+        "A": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\hat{r})}{r^2}$",
+        "B": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\hat{l})}{r^2}$",
+        "C": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\vec{r})}{r^3}$",
+        "D": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I \\hat{r}}{r^2}$"
+      },
+      "vikalpa": {
+        "A": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\hat{r})}{r^2}$",
+        "B": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l})}{r^2}$",
+        "C": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I(d\\vec{l} \\times \\vec{r})}{r^3}$",
+        "D": "$d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I \\hat{r}}{r^2}$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "Electromagnetic moment of current carrying coil is",
+      "prashna": "धारावाही कुंडली का विद्युत-चुम्बकीय आघूर्ण होता है",
+      "options": {
+        "A": "$NI\\vec{A}$",
+        "B": "$N\\vec{A}/I$",
+        "C": "$N / (I\\vec{A})$",
+        "D": "$I\\vec{A}/N$"
+      },
+      "vikalpa": {
+        "A": "$NI\\vec{A}$",
+        "B": "$N\\vec{A}/I$",
+        "C": "$N / (I\\vec{A})$",
+        "D": "$I\\vec{A}/N$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "Which of the following is correct for Lorentz force ?",
+      "prashna": "निम्नलिखित में लॉरेंट्ज बल के लिए कौन सही है ?",
+      "options": {
+        "A": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$",
+        "B": "$\\vec{F} = q(\\vec{E} + \\vec{V})$",
+        "C": "$\\vec{F} = (\\vec{E} + \\vec{v} \\times \\vec{B})$",
+        "D": "$\\vec{F} = q(\\vec{E} + \\vec{B} \\times \\vec{v})$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$",
+        "B": "$\\vec{F} = q(\\vec{E} + \\vec{V})$",
+        "C": "$\\vec{F} = (\\vec{E} + \\vec{v} \\times \\vec{B})$",
+        "D": "$\\vec{F} = q(\\vec{E} + \\vec{B} \\times \\vec{v})$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "Electromagnetic moment of current carrying coil is",
+      "prashna": "धारावाही कुंडली का विद्युत-चुम्बकीय आघूर्ण होता है",
+      "options": {
+        "A": "$\\vec{m} = \\frac{N\\vec{A}}{I}$",
+        "B": "$\\vec{m} = \\frac{\\vec{A}}{NI}$",
+        "C": "$\\vec{m} = NI\\vec{A}$",
+        "D": "$\\vec{m} = \\frac{I\\vec{A}}{N}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{m} = \\frac{N\\vec{A}}{I}$",
+        "B": "$\\vec{m} = \\frac{\\vec{A}}{NI}$",
+        "C": "$\\vec{m} = NI\\vec{A}$",
+        "D": "$\\vec{m} = \\frac{I\\vec{A}}{N}$"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "Which of the following is correct for galvanometer constant ?",
+      "prashna": "निम्नलिखित में कौन गैलवेनोमीटर नियतांक के लिए सही है ?",
+      "options": {
+        "A": "$C / (NAB)$",
+        "B": "$C(B) / (NA)$",
+        "C": "$C(A/NB)$",
+        "D": "$C(N/AB)$"
+      },
+      "vikalpa": {
+        "A": "$C / (NAB)$",
+        "B": "$C(B) / (NA)$",
+        "C": "$C(A/NB)$",
+        "D": "$C(N/AB)$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "Resistance of ideal ammeter is",
+      "prashna": "आदर्श ऐमीटर का प्रतिरोध होता है",
+      "options": {
+        "A": "infinity",
+        "B": "zero",
+        "C": "100 ohm",
+        "D": "50 ohm"
+      },
+      "vikalpa": {
+        "A": "अनन्त",
+        "B": "शून्य",
+        "C": "100 ओम",
+        "D": "50 ओम"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "If any ammeter is shunted, then the total resistance of the circuit",
+      "prashna": "जब किसी ऐमीटर को शंट किया जाता है, तब परिपथ का कुल प्रतिरोध",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains same",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ता है",
+        "B": "घटता है",
+        "C": "स्थिर रहता है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.3",
+      "topic_name": "Motion in a Magnetic Field",
+      "question": "If T is time period and V is maximum speed of a charged particle in cyclotron, then",
+      "prashna": "यदि साइक्लोट्रॉन में आवेशित कण का आवर्त्तकाल T तथा महत्तम चाल V हो तो",
+      "options": {
+        "A": "$T \\propto V$",
+        "B": "$T \\propto V^2$",
+        "C": "$T \\propto 1/V$",
+        "D": "$T \\propto 1/V^2$"
+      },
+      "vikalpa": {
+        "A": "$T \\propto V$",
+        "B": "$T \\propto V^2$",
+        "C": "$T \\propto 1/V$",
+        "D": "$T \\propto 1/V^2$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "The radius of a circular current loop is made double and the current is made half. The magnetic moment of the loop will become",
+      "prashna": "एक वृत्तीय धारावाही लूप की त्रिज्या दुगुनी तथा धारा आधी कर दी जाती है। इसका चुम्बकीय आघूर्ण हो जाएगा",
+      "options": {
+        "A": "Halved",
+        "B": "Doubled",
+        "C": "Four times large",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आधा",
+        "B": "दुगुना",
+        "C": "चौगुना",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "Which one of the following is not a unit of magnetic field ?",
+      "prashna": "निम्नलिखित में से कौन चुम्बकीय क्षेत्र की तीव्रता का मात्रक नहीं है ?",
+      "options": {
+        "A": "tesla",
+        "B": "weber/$\\text{metre}^2$",
+        "C": "newton/ampere-metre",
+        "D": "newton/$\\text{ampere}^2$"
+      },
+      "vikalpa": {
+        "A": "टेस्ला",
+        "B": "वेबर/मीटर$^2$",
+        "C": "न्यूटन/ऐम्पियर-मीटर",
+        "D": "न्यूटन/ऐम्पियर$^2$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "An electron of charge e moves parallel to uniform lines of force in magnetic field B with velocity v. Force acting on electron is",
+      "prashna": "एक समान चुम्बकीय क्षेत्र B में बल रेखाओं के समानान्तर एक इलेक्ट्रॉन जिसका आवेश e है, वेग v से चलता है। इलेक्ट्रॉन पर लगने वाला बल है",
+      "options": {
+        "A": "evB",
+        "B": "ev/B",
+        "C": "zero",
+        "D": "Bv/e"
+      },
+      "vikalpa": {
+        "A": "evB",
+        "B": "ev/B",
+        "C": "शून्य",
+        "D": "Bv/e"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.8",
+      "topic_name": "Force between Two Parallel Currents, the Ampere",
+      "question": "The nature of electron beams moving with uniform velocity in the same direction will be",
+      "prashna": "समान दिशा में समान वेग से गतिमान इलेक्ट्रॉन किरण पुंज की प्रकृति होगी",
+      "options": {
+        "A": "converging",
+        "B": "diverging",
+        "C": "parallel",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अभिसारी",
+        "B": "अपसारी",
+        "C": "समानान्तर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "The value of torque ($\\vec{\\tau}$) experienced by current loop of magnetic moment ($\\vec{m}$) placed in magnetic field ($\\vec{B}$) is",
+      "prashna": "चुम्बकीय क्षेत्र ($\\vec{B}$) में स्थित ($\\vec{m}$) चुम्बकीय आघूर्ण वाले धारा पाश द्वारा अनुभूत बल-आघूर्ण ($\\vec{\\tau}$) का मान होता है",
+      "options": {
+        "A": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+        "B": "$\\vec{\\tau} = \\vec{B} \\times \\vec{m}$",
+        "C": "$\\vec{\\tau} = \\frac{\\vec{m}}{\\vec{B}}$",
+        "D": "$\\vec{\\tau} = \\frac{\\vec{B}}{\\vec{m}}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+        "B": "$\\vec{\\tau} = \\vec{B} \\times \\vec{m}$",
+        "C": "$\\vec{\\tau} = \\frac{\\vec{m}}{\\vec{B}}$",
+        "D": "$\\vec{\\tau} = \\frac{\\vec{B}}{\\vec{m}}$"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "The value of current obtained in a moving coil galvanometer is proportional to",
+      "prashna": "चल कुंडली गैलवेनोमीटर में प्राप्त धारा का मान समानुपाती है",
+      "options": {
+        "A": "deflection ($\\theta$)",
+        "B": "resistance (R)",
+        "C": "magnetic field (B)",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "विक्षेप ($\\theta$) के",
+        "B": "प्रतिरोध (R) के",
+        "C": "चुम्बकीय क्षेत्र (B) के",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "A galvanometer is converted into ammeter by adding",
+      "prashna": "एक गैलवेनोमीटर की आमीटर में बदलने में जोड़ा जाता है",
+      "options": {
+        "A": "low resistance in parallel",
+        "B": "high resistance in series",
+        "C": "low resistance in series",
+        "D": "high resistance in parallel"
+      },
+      "vikalpa": {
+        "A": "समानांतर में निम्न प्रतिरोध",
+        "B": "श्रेणी में उच्च प्रतिरोध",
+        "C": "श्रेणी में निम्न प्रतिरोध",
+        "D": "समानांतर में उच्च प्रतिरोध"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.5",
+      "topic_name": "Magnetic Field on the Axis of a Circular Current Loop",
+      "question": "The magnetic field produced at the centre of current carrying circular coil is",
+      "prashna": "धारावाही वृत्तीय कुंडली के केन्द्र पर उत्पन्न चुम्बकीय क्षेत्र रहता है",
+      "options": {
+        "A": "on the plane of coil",
+        "B": "perpendicular to the plane of coil",
+        "C": "at 45° to the plane of coil",
+        "D": "at 180° to the plane of coil"
+      },
+      "vikalpa": {
+        "A": "कुण्डली के तल में",
+        "B": "कुण्डली के तल के लंबवत्",
+        "C": "कुण्डली के तल से 45° पर",
+        "D": "कुण्डली के तल से 180° पर"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "The value of torque $\\vec{\\tau}$ experienced by a current loop of magnetic moment $\\vec{m}$ in magnetic field $\\vec{B}$ is",
+      "prashna": "चुंबकीय क्षेत्र $\\vec{B}$ में स्थित $\\vec{m}$ चुंबकीय अधर्ण वाले धारा-पाश (Current loop) द्वारा अनुभूत बल-आघूर्ण $\\vec{\\tau}$ का मान होता है",
+      "options": {
+        "A": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+        "B": "$\\vec{\\tau} = \\vec{B} \\times \\vec{m}$",
+        "C": "$\\vec{\\tau} = \\frac{\\vec{m}}{\\vec{B}}$",
+        "D": "$\\vec{\\tau} = \\frac{\\vec{B}}{\\vec{m}}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+        "B": "$\\vec{\\tau} = \\vec{B} \\times \\vec{m}$",
+        "C": "$\\vec{\\tau} = \\frac{\\vec{m}}{\\vec{B}}$",
+        "D": "$\\vec{\\tau} = \\frac{\\vec{B}}{\\vec{m}}$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "Magnetic dipole moment of electron moving on a circular path of radius R with uniform speed V is equal to",
+      "prashna": "R त्रिज्या के वृत्तीय पथ पर एक समान चाल V से घूमते हुए इलेक्ट्रॉन का चुंबकीय द्विध्रुव आघूर्ण बराबर होगा",
+      "options": {
+        "A": "$\\frac{eVR}{2}$",
+        "B": "$eVR$",
+        "C": "$\\frac{eR}{2V}$",
+        "D": "None of them"
+      },
+      "vikalpa": {
+        "A": "$\\frac{eVR}{2}$",
+        "B": "$eVR$",
+        "C": "$\\frac{eR}{2V}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.2",
+      "topic_name": "Magnetic Force",
+      "question": "A straight current carrying wire is placed vertically with current flowing upwards. A horizontally projected electron will be deflected:",
+      "prashna": "एक सीधे धारावाही तार को उर्ध्वाधर रखा गया है जिसमें धारा ऊपर की ओर बह रही है। क्षैतिज रूप से प्रक्षेपित एक इलेक्ट्रॉन किस ओर विक्षेपित होगा?",
+      "options": {
+        "A": "Along right side",
+        "B": "Along left side",
+        "C": "Upwards",
+        "D": "Downwards"
+      },
+      "vikalpa": {
+        "A": "दाहिनी ओर",
+        "B": "बायीं ओर",
+        "C": "ऊपर की ओर",
+        "D": "नीचे की ओर"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "A voltmeter can be converted in ammeter by adding",
+      "prashna": "एक वोल्टमीटर को ऐमीटर में बदला जा सकता है",
+      "options": {
+        "A": "High resistance in parallel",
+        "B": "High resistance in series",
+        "C": "Low resistance in parallel",
+        "D": "Low resistance in series"
+      },
+      "vikalpa": {
+        "A": "इसके समांतर में उच्च प्रतिरोध जोड़कर",
+        "B": "इसके श्रेणी क्रम में उच्च प्रतिरोध जोड़कर",
+        "C": "इसके समांतर क्रम में निम्न प्रतिरोध जोड़कर",
+        "D": "इसके श्रेणी में निम्न प्रतिरोध जोड़कर"
+      }
+    }
+  ]
+}

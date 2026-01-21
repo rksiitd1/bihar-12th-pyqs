@@ -1,0 +1,224 @@
+{
+  "2010": [
+    {
+      "id": "short_1_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.5",
+      "topic_name": "Coulomb’s Law",
+      "question": "What are the limitations of Coulomb's law?",
+      "prashna": "कूलॉम के नियम की सीमाएँ क्या हैं?"
+    },
+    {
+      "id": "short_1_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.7",
+      "topic_name": "Electric Field",
+      "question": "Write and explain the principle of superposition for the electric field.",
+      "prashna": "विद्युतीय क्षेत्र के लिए अध्यारोपन सिद्धान्त को लिखें और समझाइए।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.4",
+      "topic_name": "Basic Properties of Electric Charge",
+      "question": "Write two fundamental properties of electric charge.",
+      "prashna": "विद्युत आवेश के दो मौलिक गुणों को लिखें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.10",
+      "topic_name": "Electric Dipole",
+      "question": "What is the S.I. unit of electric dipole moment?",
+      "prashna": "वैद्युत द्विध्रुव आघूर्ण का S.I मात्रक क्या है?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.8",
+      "topic_name": "Electric Field Lines",
+      "question": "Why can two electric field lines not intersect each other? Can two equipotential surfaces intersect?",
+      "prashna": "दो विद्युत क्षेत्र रेखाएँ क्यों एक-दूसरे को काट नहीं सकती है ? क्या दो समविभव सतह काट सकती हैं।"
+    },
+    {
+      "id": "short_34",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.11",
+      "topic_name": "Dipole in a Uniform External Field",
+      "question": "Derive an expression for the torque acting on an electric dipole placed in an external electric field.",
+      "prashna": "बाहरी विद्युत क्षेत्र में रखे विद्युत द्विध्रुव पर लगे बल-आघूर्ण के लिए व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.10",
+      "topic_name": "Electric Dipole",
+      "question": "Define electric dipole moment and write its SI unit.",
+      "prashna": "विद्युत द्विध्रुव-आघूर्ण को परिभाषित करें तथा इसका SI मात्रक लिखें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.8",
+      "topic_name": "Electric Field Lines",
+      "question": "Draw the electric lines of force for a system of two equal positive point charges.",
+      "prashna": "दो समान धन विद्युत आवेश के निकाय के बगल में विद्युतीय बल रेखाएँ खींचे।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.13",
+      "topic_name": "Gauss’s Law",
+      "question": "This question has two parts:",
+      "prashna": "इस प्रश्न के दो भाग हैं:",
+      "sub_questions": {
+        "A": "Write down unit and dimension of permittivity of free space.",
+        "B": "A Gaussian surface contains three charges ($-q$), ($+2q$) and ($-q$). Evaluate net electric flux through the surface."
+      },
+      "anuprashna": {
+        "A": "मुक्त आकाश की विद्युतशीलता का मात्रक तथा विमीय सूत्र लिखें।",
+        "B": "किसी गाउसीय पृष्ठ में ($-q$), ($+2q$) तथा ($-q$) आवेश हैं। पृष्ठ में से परिणामी विद्युत फ्लक्स की गणना करें।"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.9",
+      "topic_name": "Electric Flux",
+      "question": "Define electric flux. Write its SI unit.",
+      "prashna": "विद्युत फ्लक्स को परिभाषित करें। इसके SI मात्रक को लिखें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.9",
+      "topic_name": "Electric Flux",
+      "question": "Define flux of electric field on a surface.",
+      "prashna": "किसी सतह पर विद्युत फ्लक्स की परिभाषा दें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.9",
+      "topic_name": "Electric Flux",
+      "question": "Define electric flux on a surface.",
+      "prashna": "किसी सतह पर विद्युत फ्लक्स की परिभाषा दें।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.12",
+      "topic_name": "Continuous Charge Distribution",
+      "question": "Define volume density of charge. Write its S.I. unit.",
+      "prashna": "आवेश के आयतन घनत्व की परिभाषा दें। इसके S.I. मात्रक को लिखें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.4",
+      "topic_name": "Basic Properties of Electric Charge",
+      "question": "What is the principle of conservation of charge ?",
+      "prashna": "आवेश संरक्षण का सिद्धान्त क्या है ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.12",
+      "topic_name": "Continuous Charge Distribution",
+      "question": "A sphere of radius 5 cm has a charge of $31.41 \\mu C$. Calculate the surface density of charge.",
+      "prashna": "5 सेमी त्रिज्या के गोले पर $31.41 \\mu C$ आवेश है। आवेश के पृष्ठ घनत्व की गणना करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.7",
+      "topic_name": "Electric Field",
+      "question": "Define intensity of electric field at any point. Write down its S.I. unit.",
+      "prashna": "किसी बिन्दु पर विद्युत क्षेत्र की तीव्रता की परिभाषा दीजिए। इसका S.I. मात्रक लिखें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.13",
+      "topic_name": "Gauss’s Law",
+      "question": "An electric dipole of dipole moment $2 \\times 10^{-6}$ cm is kept inside a closed surface. What will be the net flux coming out from the surface?",
+      "prashna": "किसी बंद पृष्ठ के अंदर $2 \\times 10^{-6}$ cm द्विध्रुव आघूर्ण का एक वैद्युत द्विध्रुव रखा गया है। पृष्ठ से निर्गत नेट फ्लक्स कितना होगा?"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.4",
+      "topic_name": "Basic Properties of Electric Charge",
+      "question": "$10^{19}$ electrons are placed on an uncharged body. Calculate the charge produced on the body.",
+      "prashna": "किसी अनाविष्ट वस्तु पर $10^{19}$ इलेक्ट्रॉन दिया जाता है। उस वस्तु पर उत्पन्न आबेश की गणना करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Electric Charges and Fields",
+      "topic": "1.14",
+      "topic_name": "Applications of Gauss’s Law",
+      "question": "Write down Coulomb's theorem.",
+      "prashna": "कूलॉम की प्रमेय लिखे।"
+    }
+  ]
+}

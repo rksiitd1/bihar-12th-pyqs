@@ -1,0 +1,38 @@
+{
+  "2011": [
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.4",
+      "topic_name": "Faraday’s Law of Induction",
+      "question": "Define eddy currents. How are they produced? How are eddy currents undesirable in a transformer and how can they be minimized in a device?",
+      "prashna": "भँवर धारा को परिभाषित करें। ये कैसे उत्पन्न होती है? भँवर धाराएँ किसी ट्रांसफार्मर में कैसे अनावश्यक हैं तथा इसे किसी यंत्र में कैसे कम किया जा सकता है ?"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Define self-inductance and mutual induction. Derive an expression for the mutual inductance of two long co-axial solenoids.",
+      "prashna": "स्व -प्रेरकत्व एवं अन्योन्य प्रेरण को परिभाषित करें। दो लम्बी समाक्षीय परिनालिकाओं का अन्योन्य प्रेरकत्व का व्यंजक निकालें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Electromagnetic Induction",
+      "topic": "6.7",
+      "topic_name": "Inductance",
+      "question": "Define self-inductance and write its S.I. unit. Find the self-inductance for a solenoid of N turns, length l and radius r.",
+      "prashna": "स्वप्रेरकत्व को परिभाषित करें तथा इसका S.I. मात्रक लिखें। N फेरों वाली, l लम्बाई तथा r त्रिज्या की परिनालिका के लिए स्वप्रेरकत्व की गणना करें।"
+    }
+  ]
+}

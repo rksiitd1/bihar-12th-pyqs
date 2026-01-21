@@ -1,0 +1,232 @@
+{
+  "2012": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Why is the core of a transformer laminated?",
+      "prashna": "ट्रांसफॉर्मर का क्रोड परतदार क्यों होता है ?"
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "Define the mean value and root mean square (RMS) value of an alternating current.",
+      "prashna": "प्रत्यावर्ती धारा का मध्य मान एवं वर्ग माध्य मूल मान को परिभाषित करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "What is a transformer? What do you understand by its efficiency?",
+      "prashna": "ट्रांसफॉर्मर क्या है? इसकी दक्षता से आप क्या समझते हैं?"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "What is a transformer? What is meant by the transformation ratio?",
+      "prashna": "ट्रांसफार्मर क्या है? परिणमन अनुपात से क्या तात्पर्य है ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "In an L-C-R circuit, when $X_L > X_C$ or when the circuit is inductive, write the equation for the current flowing through the inductor at any given time.",
+      "prashna": "L-C-R परिपथ में जब $X_L > X_C$ या जब परिपथ प्रेरणिक है तब किसी नियम समय में प्रवाहित प्रेरक धारा का समीकरण लिखें।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "For what reasons does the efficiency of a transformer decrease?",
+      "prashna": "किन कारणों से ट्रांसफार्मर की दक्षता घटती है ?"
+    },
+    {
+      "id": "short_31",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "An electric bulb of 100 W works on a 220V and 50 Hz a.c. power supply. Calculate - (i) the resistance of the bulb (ii) the root mean square electric current flowing through the bulb.",
+      "prashna": "एक 100 W का विद्युत बल्ब 220V तथा 50 Hz की a.c. विद्युत आपूर्ति पर कार्य करता है। परिकलित कीजिए - (i) वल्व का प्रतिरोध (ii) बल्ब से प्रवाहित वर्ग माध्य मूल विद्युत धारा ।",
+      "sub_questions": {
+        "i": "the resistance of the bulb",
+        "ii": "the root mean square electric current flowing through the bulb"
+      },
+      "anuprashna": {
+        "i": "वल्व का प्रतिरोध",
+        "ii": "बल्ब से प्रवाहित वर्ग माध्य मूल विद्युत धारा"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Name the energy losses in a transformer.",
+      "prashna": "एक ट्रांसफार्मर में ऊर्जा क्षय को नामांकित करें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "The equation of an alternating current is $I = 20 \\sin(200\\pi t)$. Find the frequency, peak value, and root mean square value of the current.",
+      "prashna": "एक प्रत्यावर्ती धारा का समीकरण $I = 20 \\sin(200\\pi t)$ है। धारा की आवृत्ति, शिखर मान तथा वर्ग माध्य मूल मान निकालें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.4",
+      "topic_name": "AC Voltage Applied to an Inductor",
+      "question": "Explain the use of a choke coil or motor starter.",
+      "prashna": "चोक कुण्डली अथवा मोटर प्रवर्तक के उपयोग समझाइए ।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "Establish the relation between mean value and peak value of AC.",
+      "prashna": "माध्य मान तथा धारा के शिखर मान में संबंध स्थापित करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "What are reactance and impedance in alternating current circuit?",
+      "prashna": "प्रत्यावर्ती धारा परिपथ में प्रतिघात एवं प्रतिबाधा क्या है?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "What is action of a transformer? What do you mean by its efficiency.",
+      "prashna": "ट्रांसफार्मर क्या करता है? इसकी दक्षता से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.3",
+      "topic_name": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+      "question": "The root mean square value of potential difference of an alternating current in a circuit is $100\\sqrt{2}$ volt. Find out peak value of potential difference and average value of potential difference over a full cycle.",
+      "prashna": "एक प्रत्यावर्ती धारा परिपथ में विभवान्तर का वर्ग माध्य मूल मान $100\\sqrt{2}$ वोल्ट है। विभवान्तर का शिखर मान एवं पूरे चक्र के लिए विभवान्तर का औसत मान ज्ञात करे।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.6",
+      "topic_name": "AC Voltage Applied to a Series LCR Circuit",
+      "question": "Explain electrical resonance.",
+      "prashna": "विद्युत अनुनाद को समझायें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Explain copper-loss in a transformer.",
+      "prashna": "ट्रांसफार्मर में ताम्र-क्षय को समझायें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.5",
+      "topic_name": "AC Voltage Applied to a Capacitor",
+      "question": "Explain capacitive reactance.",
+      "prashna": "धारितीय प्रतिघात को समझायें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.8",
+      "topic_name": "Transformers",
+      "question": "Write down energy-losses in transformer.",
+      "prashna": "ट्रान्सफॉर्मर में होनेवाली ऊर्जा-हानियों को लिखें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.7",
+      "topic_name": "Power in AC Circuit: The Power Factor",
+      "question": "What is wattless current?",
+      "prashna": "वाटहीन धारा क्या है?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Alternating Current",
+      "topic": "7.2",
+      "topic_name": "AC Voltage Applied to a Resistor",
+      "question": "How alternating current is measured with the help of hot-wire ammeter?",
+      "prashna": "तप्त तार ऐमीटर से प्रत्यावर्ती धारा को किस तरह मापा जाता है?"
+    }
+  ]
+}

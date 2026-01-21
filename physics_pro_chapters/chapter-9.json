@@ -1,0 +1,2904 @@
+{
+  "2009": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "In a normal defect-free eye, at what distance from the cornea should the retina be?",
+      "prashna": "सामान्य दोषमुक्त आँखों में कॉर्निया से कितनी दूरी पर रेटिना होना चाहिए?",
+      "options": {
+        "A": "1.0cm",
+        "B": "2.0cm",
+        "C": "4.0 cm",
+        "D": "0.5 cm"
+      },
+      "vikalpa": {
+        "A": "1.0cm (सेमी)",
+        "B": "2.0cm (सेमी)",
+        "C": "4.0 cm (सेमी)",
+        "D": "0.5 cm (सेमी)"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "To correct near-sightedness and far-sightedness, what nature of lens should be used respectively? (Assume $f_e = x$)",
+      "prashna": "निकट दृष्टि एवं दूर दृष्टि दोष को दूर करने के लिए क्रमशः किस प्रकृति का लेंस उपयोग किया जाना चाहिए? (मान लें कि $f_e = x$)",
+      "options": {
+        "A": "convex, convex",
+        "B": "concave, convex",
+        "C": "convex, concave",
+        "D": "concave, concave"
+      },
+      "vikalpa": {
+        "A": "उत्तल, उत्तल",
+        "B": "अवतल, उत्तल",
+        "C": "उत्तल, अवतल",
+        "D": "अवतल, अवतल"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The focal length of a person's cornea is 1.8 cm, and to be free from visual impairment, he uses a corrective lens of $f = -16.5$ cm at a distance of $x = 15$ cm from the cornea of the eye. In this situation, the image distance from the cornea for rays coming from a distant object will be",
+      "prashna": "एक व्यक्ति के कॉर्निया की फोकस दूरी 1.8 सेमी है, तथा वह दृष्टिदोष से मुक्ति हेतु एक $f = -16.5$ सेमी के संशोधी लेंस को आँख के कॉर्निया से $x = 15$ सेमी की दूरी पर उपयोग करता है। ऐसी स्थिति में दूरस्थ वस्तु से आनेवाली किरणों को कॉर्निया से प्रतिविम्ब दूरी होगी",
+      "options": {
+        "A": "1.0cm",
+        "B": "1.5 cm",
+        "C": "2.5 cm",
+        "D": "2.0 cm"
+      },
+      "vikalpa": {
+        "A": "1.0cm (सेमी)",
+        "B": "1.5 cm (सेमी)",
+        "C": "2.5 cm (सेमी)",
+        "D": "2.0 cm (सेमी)"
+      }
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With the help of a ray diagram, explain the formation of an image by a compound microscope or an astronomical telescope. Derive an expression for the magnifying power of your instrument and state its uses.",
+      "prashna": "किरण-चित्र की मदद से एक संयुक्त सूक्ष्मदर्शी या खगोलीय दूरबीन द्वारा प्रतिबिम्ब रचना को समझाइए। आपके यंत्र की आवर्धन क्षमता के लिए व्यंजक निकालें तथा उसके उपयोगों को बताइए।"
+    }
+  ],
+  "2010": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "For a biconvex lens, the magnitude of the radius of curvature of each surface is $|r_1| = |r_2| = 40$ cm and the refractive index of the lens material is $n = 3/2$. Then its power will be",
+      "prashna": "किसी द्वि- उत्तल लेंस के प्रत्येक सतह की वक्रता त्रिज्या का मान $|r_1| = |r_2| = 40$ सेमी तथा लेंस के पदार्थ का अपवर्तनांक $n = 3/2$ है, तो इसकी क्षमता होगी",
+      "options": {
+        "A": "2.5 D",
+        "B": "2.25 D",
+        "C": "25 D",
+        "D": "0.025 D"
+      },
+      "vikalpa": {
+        "A": "2.5 D",
+        "B": "2.25 D",
+        "C": "25 D",
+        "D": "0.025 D"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "To obtain a real image of double the size of the object from a converging lens of focal length 20 cm, the object must be placed at a distance of ...... from the lens.",
+      "prashna": "$20$ सेमी फोकस दूरी वाले अभिसारी लेंस से वस्तु के दुगुने आकार का वास्तविक प्रतिविम्ब प्राप्त करने के लिए वस्तु को लेंस से ...... दूरी पर रखना होगा।",
+      "options": {
+        "A": "u = 20 cm",
+        "B": "u = -50 cm",
+        "C": "u = -30 cm",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "u = 20 cm",
+        "B": "u = -50 cm",
+        "C": "u = -30 cm",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "When a converging lens is immersed in a liquid whose refractive index is equal to the refractive index of the lens material ($n_{\\text{liquid}} = n_{\\text{lens}}$), the focal length of the lens",
+      "prashna": "जब एक अभिसारी लेंस को एक ऐसे द्रव में डुबाया जाता है, जिसका अपवर्तनांक लेंस के पदार्थ के अपवर्तनांक के बराबर होता है ($n_{\\text{द्रव}} = n_{\\text{लेंस}}$) तो लेंस की फोकस दूरी",
+      "options": {
+        "A": "will be infinite",
+        "B": "will be small but non-zero",
+        "C": "will remain unchanged",
+        "D": "will become zero"
+      },
+      "vikalpa": {
+        "A": "अनंत होगी",
+        "B": "छोटी परन्तु अशून्य होगी",
+        "C": "अपरिवर्तित रहती है",
+        "D": "शून्य हो जायेगी"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "How is chromatic aberration (error) reduced?",
+      "prashna": "रंगीय विपथन (त्रुटि) को कैसे कम किया जाता है ?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "What is the difference between magnification and magnifying power?",
+      "prashna": "आवर्धन एवं आवर्धन क्षमता में क्या अंतर है?"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Draw a ray diagram for the refraction of light through a glass prism. Establish the formula used to find the refractive index of the material of the prism.",
+      "prashna": "काँच प्रिज्म से प्रकाश के अपवर्तन का किरण आरेख खींचें। प्रिज्म के पदार्थ का अपवर्तनांक ज्ञात करने के लिए प्रयुक्त सूत्र को स्थापित करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "What do you understand by an equivalent lens? A system of two lenses is placed at some distance from each other, then derive the expression for the equivalent focal length for this system.",
+        "(ii)": "A lens enclosed by two curved surfaces with radii of curvature $R_1$ and $R_2$ is placed as shown in the figure. Prove that $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$."
+      },
+      "anuprashna": {
+        "(i)": "समतुल्य लेंस से आप क्या समझते हैं? दो लेंसों के निकाय को कुछ दूरी पर रखा गया है, तो इस निकाय के लिए समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।",
+        "(ii)": "$R_1$ तथा $R_2$ वक्रता त्रिज्या वाली दो वक्र सतहों से घिरे एक लेंस निम्न प्रदर्शित चित्र के अनुरूप रखा गया है। सिद्ध करें कि $\\frac{n_3}{v} - \\frac{n_1}{u} = \\frac{n_2-n_1}{R_1} + \\frac{n_3-n_2}{R_2}$।"
+      }
+    }
+  ],
+  "2011": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "The equivalent path length in vacuum for a path of length t in a glass slab of refractive index n is .......... path length.",
+      "prashna": "n अपवर्तनांक वाले शीशे की पट्टी में पथ की लम्बाई का समतुल्यांक निर्वात में ......... पथ की लम्बाई है।",
+      "options": {
+        "A": "$(n - 1)t$",
+        "B": "$nt$",
+        "C": "$(n/t - 1)$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$(n - 1)t$",
+        "B": "$nt$",
+        "C": "$(n/t - 1)$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.2",
+      "topic_name": "Reflection of Light by Spherical Mirrors",
+      "question": "The radius of curvature of a plane mirror is",
+      "prashna": "समतल दर्पण की वक्रता त्रिज्या होती है",
+      "options": {
+        "A": "Infinite",
+        "B": "Zero",
+        "C": "+ 5 cm",
+        "D": "- 5 cm"
+      },
+      "vikalpa": {
+        "A": "अनन्त",
+        "B": "शून्य",
+        "C": "+ 5 सेमी",
+        "D": "- 5 सेमी"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The SI unit of power of a lens is",
+      "prashna": "लेंस की क्षमता का SI मात्रक होता है",
+      "options": {
+        "A": "Joule",
+        "B": "Dioptre",
+        "C": "Candela",
+        "D": "Watt"
+      },
+      "vikalpa": {
+        "A": "जूल",
+        "B": "डायोप्टर",
+        "C": "कैण्डेला",
+        "D": "वाट"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The image formed on the retina of a human eye is",
+      "prashna": "मनुष्य के आँख के रेटिना पर बना प्रतिबिम्ब होता है",
+      "options": {
+        "A": "Virtual",
+        "B": "Inverted",
+        "C": "Erect",
+        "D": "Real"
+      },
+      "vikalpa": {
+        "A": "काल्पनिक",
+        "B": "उल्टा",
+        "C": "सीधा",
+        "D": "वास्तविक"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "If the angle of incidence is $i' > i$, then the angle of refraction will be",
+      "prashna": "यदि आपतन का कोण $i' > i$ हो, तो अपवर्तन का कोण होगा",
+      "options": {
+        "A": "$i'$",
+        "B": "$> i'$",
+        "C": "$< i'$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$i'$",
+        "B": "$> i'$",
+        "C": "$< i'$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "If the angle of incidence is $i > 2i$, then the angle of refraction will be",
+      "prashna": "यदि आपतन का कोण $i > 2i$ हो, तो अपवर्तन का कोण होगा",
+      "options": {
+        "A": "$2i$",
+        "B": "$> 2i$",
+        "C": "$< 2i$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$2i$",
+        "B": "$> 2i$",
+        "C": "$< 2i$",
+        "D": "इनमें से कोई नही"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "For what angle of incidence does total internal reflection occur?",
+      "prashna": "किस आपतन कोण के लिए पूर्ण आंतरिक परावर्तन होता है",
+      "options": {
+        "A": "$90^\\circ$",
+        "B": "$48^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$90^\\circ$",
+        "B": "$48^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "इनमें से कोई नही"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "A compound microscope has an objective lens with focal length $f_o = 2$ cm and an eyepiece with focal length $f_e = 6.25$ cm. The distance between the two lenses is $d = 15$ cm. Where should the object be placed in front of the objective so that the final image formed by the compound microscope is at (i) the least distance of distinct vision $D = 25$ cm, and (ii) at infinity? Also, calculate the magnifying power in both cases.",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी $f_o$ एवं $f_e$ क्रमशः 2 सेमी तथा 6.25 सेमी के लगे हैं तथा दोनों लेंसों के बीच की दूरी $d = 15$ सेमी है। अभिदृश्यक के सामने वस्तु को कहाँ रखा जाए कि संयुक्त सूक्ष्मदर्शी से बनने वाला अंतिम प्रतिबिंब (i) स्पष्ट देखने की न्यूनतम दूरी $D = 25$ सेमी तथा (ii) अनन्त पर हो ? दोनों अवस्थाओं में आवर्धन क्षमता की भी गणना करें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The radius of curvature of each surface of a biconvex lens ($\\mu = 1.5$) is 20 cm. The power of the lens is",
+      "prashna": "एक उभयोत्तल लेंस ($\\mu = 1.5$) के प्रत्येक तल की वक्रता त्रिज्या 20 सेमी है। लेंस की क्षमता है",
+      "options": {
+        "A": "5D",
+        "B": "10D",
+        "C": "2.5D",
+        "D": "20 D"
+      },
+      "vikalpa": {
+        "A": "5D",
+        "B": "10D",
+        "C": "2.5D",
+        "D": "20 D"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The magnifying power of a magnifying glass with a power of 12 diopters is",
+      "prashna": "एक आवर्धक ग्लास जिसकी क्षमता 12 डायप्टर है, की आवर्धक क्षमता है",
+      "options": {
+        "A": "4",
+        "B": "1200",
+        "C": "3",
+        "D": "25"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "1200",
+        "C": "3",
+        "D": "25"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "Monochromatic light of wavelength $6000 \\text{ \\AA}$ from vacuum enters a medium with a refractive index of 1.5. Its wavelength in this medium will be",
+      "prashna": "निर्वात से $6000 \\text{ \\AA}$ तरंगदैर्ध्य का एकवर्णीय प्रकाश 1.5 अपवर्तनांक वाले एक माध्यम में प्रवेश करता है। इस माध्यम में इसका तरंगदैर्ध्य होगा",
+      "options": {
+        "A": "$4000 \\text{ \\AA}$",
+        "B": "$4500 \\text{ \\AA}$",
+        "C": "$6000 \\text{ \\AA}$",
+        "D": "$9000 \\text{ \\AA}$"
+      },
+      "vikalpa": {
+        "A": "$4000 \\text{ \\AA}$",
+        "B": "$4500 \\text{ \\AA}$",
+        "C": "$6000 \\text{ \\AA}$",
+        "D": "$9000 \\text{ \\AA}$"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "When light is transmitted from one medium to another, which of the following quantities changes?",
+      "prashna": "जब प्रकाश एक माध्यम से दूसरे माध्यम में संचरित होता है, तो निम्नांकित में कौन-सी राशि परिवर्तित होती है ?",
+      "options": {
+        "A": "Wavelength",
+        "B": "Frequency",
+        "C": "Speed",
+        "D": "Amplitude"
+      },
+      "vikalpa": {
+        "A": "तरंगदैर्ध्य",
+        "B": "आवृत्ति",
+        "C": "चाल",
+        "D": "आयाम"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Liquid lens",
+      "prashna": "तरल लेंस",
+      "options": {
+        "A": "Interference",
+        "B": "Aberration of image",
+        "C": "Polarization",
+        "D": "Human eye"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "प्रतिबिंब की त्रुटि",
+        "C": "धुवण",
+        "D": "मानवीय आँख"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Chromatic aberration",
+      "prashna": "वर्णी विपथन",
+      "options": {
+        "A": "Interference",
+        "B": "Aberration of image",
+        "C": "Polarization",
+        "D": "Human eye"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "प्रतिबिंब की त्रुटि",
+        "C": "धुवण",
+        "D": "मानवीय आँख"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Define critical angle and write its conditions.",
+      "prashna": "क्रांतिक कोण को परिभाषित करें तथा इसकी शर्तों को लिखें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$.",
+      "prashna": "$\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ सूत्र को स्थापित करे।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "How many images will be formed by the lens shown in the figure if an object is placed on the principal axis? (The lens is made of four different materials with refractive indices $\\mu_1, \\mu_2, \\mu_3, \\mu_4$)",
+      "prashna": "लेंस के द्वारा कितने प्रतिबिंध बनेंगे यदि वस्तु को प्रधान अक्ष पर रखा जाए? (लेंस चित्र में दिखाए अनुसार चार विभिन्न पदार्थों से बना है जिनके अपवर्तनांक $\\mu_1, \\mu_2, \\mu_3, \\mu_4$ हैं)",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "7"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "When a ray of light enters a glass slab, its wavelength",
+      "prashna": "जब प्रकाश की एक किरण ग्लास स्लैब में प्रवेश करती है, तो इसका तरंगदैर्ध्य",
+      "options": {
+        "A": "decreases",
+        "B": "increases",
+        "C": "remains unchanged",
+        "D": "data is not complete"
+      },
+      "vikalpa": {
+        "A": "घटता है",
+        "B": "बढ़ता है",
+        "C": "अपरिवर्तित रहता है",
+        "D": "आँकड़े पूर्ण नहीं हैं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Statement-I: For the focal length of a convex lens, $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{r_1} - \\frac{1}{r_2})$.\nStatement-II: The focal length is maximum for red light.",
+      "prashna": "कथन-I: उत्तल लेंस की फोकस दूरी के लिए $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{r_1} - \\frac{1}{r_2})$\nकथन- II : लाल रंग के प्रकाश के लिए फोकस दूरी सबसे अधिक होती है।",
+      "options": {
+        "A": "Both statements are correct and Statement-II is the correct explanation of Statement-I.",
+        "B": "Both statements are correct but Statement-II is not the correct explanation of Statement-I.",
+        "C": "Statement-I is correct, but Statement-II is incorrect.",
+        "D": "Statement-I is incorrect, but Statement-II is correct."
+      },
+      "vikalpa": {
+        "A": "दोनों कथन सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "B": "दोनों कथन सही हैं परन्तु कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "C": "कथन-I सही है, परन्तु कथन-II असत्य है।",
+        "D": "कथन-I असत्य है, परन्तु कथन II सही है।"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.2",
+      "topic_name": "Reflection of Light by Spherical Mirrors",
+      "question": "An image can be formed by a concave spherical mirror which is:",
+      "prashna": "अवतल गोलीय दर्पण से प्रतिबिंव बन सकता है।",
+      "options": {
+        "A": "virtual",
+        "B": "real",
+        "C": "magnified",
+        "D": "inverted"
+      },
+      "vikalpa": {
+        "A": "आभासी",
+        "B": "वास्तविक",
+        "C": "आवर्धित",
+        "D": "उलटा"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Passage: If a ray passes through a prism, the phenomenon of refraction occurs as shown in the figure. Here A is the angle of the prism. NO is perpendicular to the face at point X. N'O is perpendicular to the face at point Y. \n\nQuestion: The angle of emergence is",
+      "prashna": "उद्धरण: यदि एक किरण प्रिज्म से होकर गुजरती है, तो चित्रानुसार अपवर्तन की घटना होती है। यहाँ A प्रिज्म का कोण है। NO बिन्दु X पर लंब है। N'O बिन्दु Y पर लंब है।\n\nप्रश्न: निर्गमन कोण है",
+      "options": {
+        "A": "< $i_1$",
+        "B": "< $i_2$",
+        "C": "< $r_1$",
+        "D": "< $r_2$"
+      },
+      "vikalpa": {
+        "A": "< $i_1$",
+        "B": "< $i_2$",
+        "C": "< $r_1$",
+        "D": "< $r_2$"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Passage: If a ray passes through a prism, the phenomenon of refraction occurs as shown in the figure. Here A is the angle of the prism. NO is perpendicular to the face at point X. N'O is perpendicular to the face at point Y. \n\nQuestion: The value of angle $\\alpha$ is",
+      "prashna": "उद्धरण: यदि एक किरण प्रिज्म से होकर गुजरती है, तो चित्रानुसार अपवर्तन की घटना होती है। यहाँ A प्रिज्म का कोण है। NO बिन्दु X पर लंब है। N'O बिन्दु Y पर लंब है।\n\nप्रश्न: $\\alpha$ कोण का मान है",
+      "options": {
+        "A": "$(180^\\circ-A)$",
+        "B": "($r_1 + r_2$)",
+        "C": "A/2",
+        "D": "($r_1 + i_2$)"
+      },
+      "vikalpa": {
+        "A": "($180^\\circ-A)$",
+        "B": "($r_1 + r_2$)",
+        "C": "A/2",
+        "D": "($r_1 + i_2$)"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "If a ray passes through the prism symmetrically, then minimum deviation occurs. Here $\\angle r$ is",
+      "prashna": "यदि एक किरण प्रिज्म से समरूप (symmetrically) गुजरता है, तो न्यूनतम विचलन होता है। यहाँ $\\angle r$ है",
+      "options": {
+        "A": "<A",
+        "B": "2A",
+        "C": "A/2",
+        "D": "$\\alpha$"
+      },
+      "vikalpa": {
+        "A": "<A",
+        "B": "2A",
+        "C": "A/2",
+        "D": "$\\alpha$"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The powers of two lenses are +12D and -2D. What will be the focal length of the combination when they are placed coaxially in contact?",
+      "prashna": "दो लेंसों की क्षमताएँ +12D एवं -2D है। इन्हें संपर्क में समाक्षीय रूप से रखने पर संयोग की फोकस कितनी होगी ?"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The minimum angular magnification of an astronomical telescope is 10X. The length of its tube is 44 cm. Find the focal length of its objective lens.",
+      "prashna": "एक खगोलीय दूरबीन का न्यूनतम कोणीय आवर्धन 10X है। इसकी नली की लंबाई 44 सेमी है। इसके वस्तु लेंस की फोकस दूरी निकालें।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Explain the working principle of a compound microscope with the help of a neat diagram. Derive the expression for its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र के सहारे यौगिक सूक्ष्मदर्शी की कार्य प्रणाली समझाइये। इसकी आवर्धन क्षमता का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "For a prism, show that for refractive index n, $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$, where the symbols have their usual meanings.",
+      "prashna": "एक प्रिज्म के लिए दिखाइये कि अपवर्तनांक n हेतु $n = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(\\frac{A}{2})}$ जहाँ संकेतों के सामान्य अर्थ हैं।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "The core of an optical fiber is made of which material?",
+      "prashna": "आप्टिकल फाइवर क्रोड किस पदार्थ का होता है?"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A biconvex lens is to be made from glass of refractive index 1.55, with both faces having the same radius of curvature. If a lens of focal length 20 cm is to be made, what will be the required radius of curvature?",
+      "prashna": "अपवर्तनांक 1.55 के काँच से दोनों फलकों की समान वक्रता त्रिज्या के उभयोत्तल लेंस निर्मित करने हैं। यदि 20 cm फोकस दूरी का लेंस निर्मित करना है, तो अपेक्षित वक्रता त्रिज्या क्या होगी?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "(a) Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope? (b) According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits.",
+      "prashna": "(a) 1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ? (b) नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।",
+      "sub_questions": {
+        "A": "Using an objective of focal length 1.25 cm and an eyepiece of focal length 5 cm, a desired angular magnification of 30 X is obtained. How will you set up the compound microscope?",
+        "B": "According to the figure given below, two circuits are given in which NAND gates are connected. Determine the logic operations performed by both these circuits."
+      },
+      "anuprashna": {
+        "A": "1.25 cm फोकस दूरी का अभिदृश्यक तथा 5cm फोकस दूरी की नेत्रिका का उपयोग करके वांछित कोणीय आवर्धन 30 X होता है। आप संयुक्त सूक्ष्मदर्शी का समायोजन कैसे करेंगे ?",
+        "B": "नीचे दिए गए चित्र के अनुसार दो परिपथ दिए गए हैं जिनमें NAND गेट जुड़े हैं। इन दोनों परिपथों द्वारा की जाने वाली तर्क संक्रियाओं का अभिनिर्धारण कीजिए।"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "When a ray of light enters a glass slab, its wavelength:",
+      "prashna": "जब प्रकाश की एक किरण ग्लास स्लैब में प्रवेश करती है, तो इसका तरंगदैर्ध्य:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains unchanged",
+        "D": "Data is incomplete"
+      },
+      "vikalpa": {
+        "A": "बढ़ता है",
+        "B": "घटता है",
+        "C": "अपरिवर्तित रहता है",
+        "D": "आँकड़े पूर्ण नहीं है"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The final image in an astronomical telescope is:",
+      "prashna": "खगोलीय दूरदर्शी में अंतिम प्रतिबिंब होता है:",
+      "options": {
+        "A": "Real and erect",
+        "B": "Real and inverted",
+        "C": "Virtual and inverted",
+        "D": "Virtual and erect"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं सीधा",
+        "B": "वास्तविक एवं उल्टा",
+        "C": "काल्पनिक एवं उल्टा",
+        "D": "काल्पनिक एवं सीधा"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "If two converging lenses of the same focal length f are kept in contact with each other, then the focal length of the combination will be:",
+      "prashna": "यदि समान फोकस दूरी f के दो अभिसारी लेंस एक दूसरे के संपर्क में रखे हों, तब संयोग की फोकस दूरी होगी:",
+      "options": {
+        "A": "f",
+        "B": "2f",
+        "C": "f/2",
+        "D": "3f"
+      },
+      "vikalpa": {
+        "A": "f",
+        "B": "2f",
+        "C": "f/2",
+        "D": "3f"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Two thin convex lenses of powers 5D and 2D are placed coaxially at a distance of 20 cm from each other. Find the focal length and power of the lens combination.",
+      "prashna": "दो पतले उत्तल लेंस, जिनकी क्षमताएँ 5D तथा 2D हैं एक दूसरे से 20 cm की दूरी पर समाक्षीय रूप में रखे गये हैं। लेंस युग्म की फोकस दूरी तथा क्षमता निकालें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $.",
+      "prashna": "सूत्र $ \\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{r} $ को स्थापित करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The final image in an astronomical telescope is",
+      "prashna": "खगोलीय दूरदर्शक में अंतिम प्रतिबिंब होता है।",
+      "options": {
+        "A": "Real and erect",
+        "B": "Real and inverted",
+        "C": "Virtual and inverted",
+        "D": "Virtual and erect"
+      },
+      "vikalpa": {
+        "A": "वास्तविक और सीधा",
+        "B": "वास्तविक और उलटा",
+        "C": "काल्पनिक और उलटा",
+        "D": "काल्पनिक और सीधा"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "When a ray of light enters a glass slab, its wavelength",
+      "prashna": "जब प्रकाश की एक किरण ग्लास स्लैब में प्रवेश करती है, तो इसका तरंगदैर्ध्य",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains unchanged",
+        "D": "Data is incomplete"
+      },
+      "vikalpa": {
+        "A": "घटता है",
+        "B": "बढ़ता है",
+        "C": "अपरिवर्तित रहता है",
+        "D": "आँकड़े पूर्ण नहीं है"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "On what principle does optical fiber work?",
+      "prashna": "ऑप्टिकल फाइबर किस सिद्धांत पर काम करता है?",
+      "options": {
+        "A": "Scattering",
+        "B": "Refraction",
+        "C": "Dispersion",
+        "D": "Total internal reflection"
+      },
+      "vikalpa": {
+        "A": "प्रकीर्णन",
+        "B": "अपवर्तन",
+        "C": "वर्ण-विक्षेपण",
+        "D": "पूर्ण आंतरिक परावर्तन"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "When the length of the tube of a microscope is increased, its magnifying power",
+      "prashna": "जब माइक्रोस्कोप की नली की लंबाई बढ़ायी जाती है तब आवर्धन क्षमता",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Becomes zero",
+        "D": "Remains unchanged"
+      },
+      "vikalpa": {
+        "A": "बढ़ती है",
+        "B": "घटती है",
+        "C": "शून्य हो जाती है",
+        "D": "अपरिवर्तित रहती है"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "What is total internal reflection? What are its conditions?",
+      "prashna": "पूर्ण आंतरिक परावर्तन क्या है? इसकी शर्तें क्या हैं?"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "At what distance should an object be placed from a convex lens of focal length 15 cm to obtain a three times magnified image?",
+      "prashna": "15 cm फोकस दूरी वाले उत्तल लेंस से कितनी दूरी पर किसी वस्तु को रखा जाए कि उसका तीन गुना आवर्धित प्रतिविंव प्राप्त हो सके।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "A person suffering from myopia uses for clear vision.",
+      "prashna": "एक निकट दृष्टिदोष से ग्रसित व्यक्ति स्पष्ट देखने के लिए व्यवहार करता है।",
+      "options": {
+        "A": "Convex lens",
+        "B": "Concave lens",
+        "C": "Cylindrical lens",
+        "D": "Aplanatic lens"
+      },
+      "vikalpa": {
+        "A": "उत्तल लेंस",
+        "B": "अवतल लेंस",
+        "C": "बेलनाकार लेन्स",
+        "D": "विनाभ्यान्तर लेंस"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "While entering from glass to air, the critical angle of light is minimum for.",
+      "prashna": "काँच से हवा में प्रवेश करते समय प्रकाश का क्रांतिक कोण सबसे कम होता है",
+      "options": {
+        "A": "Red colour",
+        "B": "Green colour",
+        "C": "Yellow colour",
+        "D": "Violet colour"
+      },
+      "vikalpa": {
+        "A": "लाल रंग",
+        "B": "हरे रंग",
+        "C": "पीले रंग",
+        "D": "बैंगनी रंग"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "The angle of minimum deviation for a thin prism of refractive index $\\mu$ is -",
+      "prashna": "एक पतले प्रिज्म जिसका अपवर्तनांक $\\mu$ है का न्यूनतम विचलन कोण है -",
+      "options": {
+        "A": "$(1 - \\mu)A$",
+        "B": "$(\\mu - 1)A$",
+        "C": "$(\\mu + 1)A$",
+        "D": "$(\\mu + 1)A^2$"
+      },
+      "vikalpa": {
+        "A": "$(1 - \\mu)A$",
+        "B": "$(\\mu - 1)A$",
+        "C": "$(\\mu + 1)A$",
+        "D": "$(\\mu + 1)A^2$"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The focal length of a lens ($\\mu$ = 1.5) in air is 20 cm. Its focal length in a medium of refractive index 1.5 becomes-",
+      "prashna": "एक लेंस ($\\mu$ = 1.5) नाभ्यान्तर हवा में 20 सेमी है। इसका नाभ्यान्तर एक माध्यम में जिसका अपवर्तनांक 1.5 है, हो जाता है-",
+      "options": {
+        "A": "20 cm",
+        "B": "40 cm",
+        "C": "10 cm",
+        "D": "$\\infty$"
+      },
+      "vikalpa": {
+        "A": "20 सेमी",
+        "B": "40 सेमी",
+        "C": "10 सेमी",
+        "D": "$\\infty$"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Draw a ray diagram to show the formation of the image by a convex lens of an object placed on the principal axis at a distance three times the focal length.",
+      "prashna": "उत्तल लेंस के प्रधान अक्ष के उपर रखे बिंदु का लेंस से बने प्रतिविंद को दिखाने वाला किरण आरेख खींचे, यदि वस्तु फोकस दूरी से तीन गुनी दूरी पर है।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The plane surface of a plano-convex lens is silvered. Explain the formation of the image of an object placed at infinity in front of it and find its focal length.",
+      "prashna": "एक समतलोत्तल लेंस का समतल सतह रजतित है। इसके सामने अनंत पर राखी वस्तु का प्रतिबिंब का बनना समझाएँ और इसकी फोकस दूरी प्राप्त करे।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The image formed by objective lens of a compound Microscope is -",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी के अभिदृश्यक लेंस से बना प्रतिबिम्ब -",
+      "options": {
+        "A": "Virtual and diminished",
+        "B": "Real and diminished",
+        "C": "Real and large",
+        "D": "Virtual and Large"
+      },
+      "vikalpa": {
+        "A": "काल्पनिक व छोटा",
+        "B": "वास्तविक व छोटा",
+        "C": "वास्तविक व बड़ा",
+        "D": "काल्पनिक व बड़ा"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A convex lens is dipped in a liquid, whose refractive index is equal to refractive index of material of lens. Then its focal length will -",
+      "prashna": "एक उत्तल लेंस को ऐसे द्रव में डुबाया जाता है, जिसका अपवर्तनांक लेंस के पदार्थ के अपवर्तनांक के बराबर हो, तो लेंस की फोकस दूरी -",
+      "options": {
+        "A": "become zero",
+        "B": "become infinite",
+        "C": "decrease",
+        "D": "increase"
+      },
+      "vikalpa": {
+        "A": "शून्य हो जाएगी",
+        "B": "अनन्त होगी",
+        "C": "घट जाएगी",
+        "D": "बढ़ जाएगी"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Critical angle for light moving from medium I to medium II is $\\theta$. The speed of light in medium I is v. Then speed in medium II is -",
+      "prashna": "माध्यम I से माध्यम II को जाने वाली प्रकाश पुंज के लिए क्रांतिक कोण $\\theta$ है। प्रकाश का वेग माध्यम I में v है, तो प्रकाश का वेग माध्यम II में होगा",
+      "options": {
+        "A": "$v(1-\\cos{\\theta})$",
+        "B": "$\\frac{v}{\\sin{\\theta}}$",
+        "C": "$\\frac{v}{\\cos{\\theta}}$",
+        "D": "$v(1-\\sin{\\theta})$"
+      },
+      "vikalpa": {
+        "A": "$v(1-\\cos{\\theta})$",
+        "B": "$\\frac{v}{\\sin{\\theta}}$",
+        "C": "$\\frac{v}{\\cos{\\theta}}$",
+        "D": "$v(1-\\sin{\\theta})$"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "A magnifying glass is to be used at the fixed object distance of 1 inch. If it is to produce an erect image 5 times magnified, its focal length should be-",
+      "prashna": "एक सूक्ष्मदर्शी को 1 इंच की दूरी पर अवस्थित वस्तु के लिए उपयोग किया जाता है। यदि m = 5 (आवर्धन क्षमता 5 गुणा) करनी है, तो प्रयुक्त लेंस की फोकस दूरी होनी चाहिए-",
+      "options": {
+        "A": "0.2\"",
+        "B": "0.8\"",
+        "C": "1.25\"",
+        "D": "5\""
+      },
+      "vikalpa": {
+        "A": "0.2\"",
+        "B": "0.8\"",
+        "C": "1.25\"",
+        "D": "5\""
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "To remove hypermetropia lens used is -",
+      "prashna": "दूर दृष्टिदोष को दूर करने के लिए प्रयुक्त लेंस होता है -",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Cylindrical",
+        "D": "Plano-convex"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "बेलनाकार",
+        "D": "समतल-उत्तल"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Which of the following phenomena takes place when a monochromatic light is incident on a prism?",
+      "prashna": "किसी प्रिज्म पर एकवर्णी प्रकाश के आपतित होने पर निम्न में से कौन सी घटना होती है?",
+      "options": {
+        "A": "Dispersion",
+        "B": "Deviation",
+        "C": "Interference",
+        "D": "All of the above"
+      },
+      "vikalpa": {
+        "A": "वर्ण-विक्षेपण",
+        "B": "विचलन",
+        "C": "व्यतिकरण",
+        "D": "उपरोक्त सभी"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Optical fiber communication is based on which of the following phenomena -",
+      "prashna": "प्रकाश तंतु संचार निम्न में से किस घटना पर आधारित है?",
+      "options": {
+        "A": "Total Internal reflection",
+        "B": "Scattering",
+        "C": "Reflection",
+        "D": "Interference"
+      },
+      "vikalpa": {
+        "A": "पूर्ण आन्तरिक परावर्तन",
+        "B": "प्रकीर्णन",
+        "C": "परावर्तन",
+        "D": "व्यतिकरण"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "A fish is at a depth of $\\sqrt{7}$ cm and it can see only through a circular section of water surface. What will be radii of this circular surface? The refractive index of water with respect to air is $4/3$. Sketch the diagram also.",
+      "prashna": "एक मछली पानी के अन्दर $\\sqrt{7}$ से.मी. गहराई पर तैर रही है। मछली पानी के बाहर केवल एक वृत्ताकार भाग से देख सकती है। इस वृत्ताकार भाग की त्रिज्या कितनी होगी? वायु के सापेक्ष पानी का अपवर्तनांक $4/3$ है। चित्र में दर्शाएँ।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "A small pin is fixed on a table and it is viewed from a distance of 50 cm from above. A glass slab of thickness 15cm is placed just above the pin, parallel to surface of table, then image of this pin will be viewed at what height? Draw the sketch also. (Refractive index of Glass is $= 3/2$)",
+      "prashna": "एक छोटी पिन को मेज पर स्थापित किया जाता है। तथा इसको 50 से.मी. की दूरी से ऊपर से देखा जाता है। यदि पिन के ऊपर 15 से.मी. मोटाई का काँच का गुटका रख दिया जाये तो पिन का प्रतिबिम्ब अब कितना ऊपर दिखाई देगा? (जबकि गुटके को मेज के समानान्तर साधा गया हो) काँच का अपवर्तनांक = $3/2$ । चित्र में दर्शाएँ।"
+    },
+    {
+      "id": "long_17_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "This question has two parts:",
+      "prashna": "इस प्रश्न के दो भाग हैं:",
+      "sub_questions": {
+        "A": "Two thin convex lenses of focal length 15cm and 30cm are placed in contact. What will be power of the combination?",
+        "B": "A glass Prism ($\\mu_g = 1.66$) of Angle of Prism 72°, is placed in Water ($\\mu_w = 1.33$). Calculate the value of minimum deviation produced by Prism for parallel incident ray."
+      },
+      "anuprashna": {
+        "A": "15 से.मी. और 30 से.मी फोकस-दूरी के दो पतले उत्तल लेंसों को एक-दूसरे के सम्पर्क में रखा जाता है। संयोजित तन्त्र की शक्ति क्या होगी?",
+        "B": "काँच के एक प्रिज्म का कोण 72° तथा अपवर्तनांक 1.66 है। इसे 1.33 अपवर्तनांक के द्रव में डुबाया जाता है। प्रिज्म से गुजरने वाले समानान्तर पुंज के लिए न्यूनतम विचलन का मान ज्ञात करें।"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A convex lens (n = 1.5) is immersed in water (n = 1.33), then it will behave as a -",
+      "prashna": "एक उत्तल लेंस (n = 1.5) को पानी (n = 1.33) में डुबाया जाता है, तब यह व्यवहार करता है -",
+      "options": {
+        "A": "Converging lens",
+        "B": "Diverging lens",
+        "C": "Prism",
+        "D": "Concave mirror"
+      },
+      "vikalpa": {
+        "A": "उत्तल लेंस की तरह",
+        "B": "अपसारी लेंस की तरह",
+        "C": "प्रिज्म की तरह",
+        "D": "अवतल दर्पण की तरह"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "Which one of the following has maximum refractive index?",
+      "prashna": "निम्नलिखित में किसका अपवर्तनांक सबसे अधिक होता है?",
+      "options": {
+        "A": "glass",
+        "B": "water",
+        "C": "iron",
+        "D": "diamond"
+      },
+      "vikalpa": {
+        "A": "काँच",
+        "B": "पानी",
+        "C": "लोहा",
+        "D": "हीरा"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Equivalent focal length of two lenses in contact having power -15 D and +5 D will be -",
+      "prashna": "दो लेंस जिनकी क्षमता -15D तथा +5D है, को सम्पर्कित संयुक्त करने पर समायोजन की फोकस दूरी होगी -",
+      "options": {
+        "A": "-20 cm",
+        "B": "-10 cm",
+        "C": "+10 cm",
+        "D": "+20 cm"
+      },
+      "vikalpa": {
+        "A": "-20 cm",
+        "B": "-10 cm",
+        "C": "+10 cm",
+        "D": "+20 cm"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The magnifying power of an astronomical telescope for normal adjustment is -",
+      "prashna": "सामान्य समायोजन के लिए खगोलीय दूरदर्शक की आवर्धन क्षमता होती है -",
+      "options": {
+        "A": "$-\\frac{f_o}{f_e}$",
+        "B": "$-f_o \\times f_e$",
+        "C": "$-\\frac{f_e}{f_o}$",
+        "D": "$-f_o + f_e$"
+      },
+      "vikalpa": {
+        "A": "$-\\frac{f_o}{f_e}$",
+        "B": "$-f_o \\times f_e$",
+        "C": "$-\\frac{f_e}{f_o}$",
+        "D": "$-f_o + f_e$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Cylindrical lenses are used to correct the eye defect called -",
+      "prashna": "बेलनाकार लेंस का व्यवहार किया जाता है, आँख के उस दोष को दूर करने के लिए जिसे कहा जाता है -",
+      "options": {
+        "A": "myopia",
+        "B": "hypermetropia",
+        "C": "astigmatism",
+        "D": "presbyopia"
+      },
+      "vikalpa": {
+        "A": "निकट - दृष्टिता",
+        "B": "दीर्घ - दृष्टिता",
+        "C": "एस्टिगमेटिज्म",
+        "D": "जरा - दृष्टिता"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Deviation of a thin prism of refractive index n and angle of prism A is -",
+      "prashna": "n अपवर्तनांक तथा A प्रिज्म कोण वाले पतले प्रिज्म का न्यूनतम विचलन कोण होता है -",
+      "options": {
+        "A": "(1-n) A",
+        "B": "(n-1) A",
+        "C": "(n+1) A",
+        "D": "$(1+n)A^2$"
+      },
+      "vikalpa": {
+        "A": "(1-n) A",
+        "B": "(n-1) A",
+        "C": "(n+1) A",
+        "D": "$(1+n)A^2$"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Two thin convex lens of power +5 and +4 diopter are placed co-axially at a distance 10 cm. Find the focal length of the combination.",
+      "prashna": "दो पतले अभिसारी लेंसों की क्षमता +5 तथा +4 डायोप्टर है। ये समाक्षीय रूप से एक दूसरे से 10 से.मी की दूरी पर रखे गये हैं। समतुल्य लेंस की फोकस दूरी निकालें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Differentiate between primary and secondary rainbow.",
+      "prashna": "प्राथमिक और द्वितीयक इंद्रधनुष में अंतर स्पष्ट करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "Velocity of light in medium A is v and velocity of light in medium B is 2v. If refractive index of medium A is $\\mu_a$ and refractive index of medium B is $\\mu_b$, then what will be value of $\\frac{\\mu_a}{\\mu_b}$?",
+      "prashna": "माध्यम A में प्रकाश का वेग v है तथा माध्यम B में प्रकाश का वेग 2v है। यदि माध्यम A का अपवर्तनांक $\\mu_a$ तथा माध्यम B का अपवर्तनांक $\\mu_b$ हो, तो $\\frac{\\mu_a}{\\mu_b}$ का मान क्या होगा?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With neat diagram describe the construction and working of an astronomical telescope and find its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शक की रचना एवं क्रिया का वर्णन करें और उसकी आवर्धन - क्षमता की गणना करे।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "What is dispersive power? Find the necessary conditions for obtaining deviation without dispersion by two thin prisms.",
+      "prashna": "वर्ण – विक्षेपण क्षमता क्या है? दो पतले प्रिज्म द्वारा वर्ण - विक्षेपण रहित विचलन प्राप्त करने के लिए आवश्यक शर्त को निकाले।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "When light enters from one medium to another, the quantity which remains constant is",
+      "prashna": "प्रकाश के एक माध्यम से दूसरे माध्यम में प्रवेश करने पर अचर रहता है",
+      "options": {
+        "A": "Frequency",
+        "B": "Velocity",
+        "C": "Wave length",
+        "D": "Amplitude"
+      },
+      "vikalpa": {
+        "A": "आवृत्ति",
+        "B": "वेग",
+        "C": "तरंग लंबाई",
+        "D": "आयाम"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "On increasing the length of the tube of a compound microscope its magnifying power.",
+      "prashna": "यौगिक सूक्ष्मदर्शी की लंबाई बढ़ाने पर इसकी आवर्धन क्षमता",
+      "options": {
+        "A": "decreases",
+        "B": "increases",
+        "C": "becomes zero",
+        "D": "does not change"
+      },
+      "vikalpa": {
+        "A": "घटती है",
+        "B": "बढती है",
+        "C": "शून्य हो जाती है",
+        "D": "नहीं बदलती है"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "For a light ray passing through a prism angle of incidence is $I_1$ and angle of emergence is $I_2$. In case of minimum deviation of the ray.",
+      "prashna": "एक प्रिज्म से गुजरती प्रकाश किरण के लिए आपतन कोण $I_1$, तथा निर्गत कोण $I_2$ है। किरण में न्यूनतम विचलन की स्थिति में होगा",
+      "options": {
+        "A": "$I_1 = I_2$",
+        "B": "$I_1 > I_2$",
+        "C": "$I_1 < I_2$",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "$I_1 = I_2$",
+        "B": "$I_1 > I_2$",
+        "C": "$I_1 < I_2$",
+        "D": "कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Refractive index of water and glass is $\\frac{3}{2}$ and $\\frac{4}{3}$ respectively. The critical angle for a light ray entering from glass into water is",
+      "prashna": "पानी तथा काँच का अपवर्त्तनांक क्रमशः $\\frac{3}{2}$ एवं $\\frac{4}{3}$ है। काँच से पानी में जाती हुई एक प्रकाश किरण के लिए क्रांतिक कोण होगा?",
+      "options": {
+        "A": "$\\sin^{-1}(\\frac{9}{8})$",
+        "B": "$\\sin^{-1}(\\frac{3}{4})$",
+        "C": "$\\sin^{-1}(\\frac{2}{3})$",
+        "D": "$\\sin^{-1}(\\frac{8}{9})$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1}(\\frac{9}{8})$",
+        "B": "$\\sin^{-1}(\\frac{3}{4})$",
+        "C": "$\\sin^{-1}(\\frac{2}{3})$",
+        "D": "$\\sin^{-1}(\\frac{8}{9})$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A three times magnified virtual image of an object kept at a distance of 24 cm. from a convex lens is formed. Focal length of the lens is",
+      "prashna": "एक उत्तल लेंस से 24 सेमी की दूरी पर रखी एक वस्तु का 3 गुना आवर्धित काल्पनिक प्रतिबिंब बनता हैं लेंस की फोकस दूरी है ?",
+      "options": {
+        "A": "72 cm",
+        "B": "36 cm",
+        "C": "24 cm",
+        "D": "48 cm"
+      },
+      "vikalpa": {
+        "A": "72 सेमी",
+        "B": "36 सेमी",
+        "C": "24 सेमी",
+        "D": "48 सेमी"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The power of two lenses are +12D and -2D. They are placed in contact on the same axes. What will be the focal length of the combination?",
+      "prashna": "दो लेंसों की क्षमताएँ +12D एवं -2D है। इन्हें संपर्क में समाक्षीय रूप में रखने पर संयोग की फोकस दूरी कितनी होगी।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ for a thin lens.",
+      "prashna": "किसी पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ स्थापित करें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.1",
+      "topic_name": "Introduction",
+      "question": "The unit of which physical quantity is light year ?",
+      "prashna": "प्रकाश-वर्ष किस भौतिक राशि का मात्रक है ?",
+      "options": {
+        "A": "Distance",
+        "B": "Time",
+        "C": "Energy",
+        "D": "Intensity of light"
+      },
+      "vikalpa": {
+        "A": "दूरी",
+        "B": "समय",
+        "C": "ऊर्जा",
+        "D": "प्रकाश की तीव्रता"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The image formed by simple microscope is",
+      "prashna": "एक सरल सूक्ष्मदर्शी से बना हुआ प्रतिबिंब होता है",
+      "options": {
+        "A": "Virtual and erect",
+        "B": "Virtual and inverted",
+        "C": "Real and erect",
+        "D": "Real and inverted"
+      },
+      "vikalpa": {
+        "A": "काल्पनिक और सीधा",
+        "B": "काल्पनिक और उल्टा",
+        "C": "वास्तविक और सीधा",
+        "D": "वास्तविक और उल्टा"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Which of the following eye defects is removed by convex lens ?",
+      "prashna": "उत्तल लेंस द्वारा निम्नलिखित में कौन-सा दृष्टि दोष दूर किया जाता है ?",
+      "options": {
+        "A": "Nearsightedness",
+        "B": "Farsightedness",
+        "C": "Presbyopia",
+        "D": "Astigmatism"
+      },
+      "vikalpa": {
+        "A": "निकट-दृष्टिता",
+        "B": "दूर-दृष्टिता",
+        "C": "जरा-दूरदर्शिता",
+        "D": "अबिन्दुकता"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Which of the following relations is correct for dispersive power ?",
+      "prashna": "वर्ण-विक्षेपण क्षमता के लिए निम्नलिखित में कौन संबन्ध सही है ?",
+      "options": {
+        "A": "$w = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$",
+        "B": "$w = (\\mu_v - \\mu_r)(\\mu_y - 1)$",
+        "C": "$w = \\frac{\\mu_y - 1}{\\mu_v - \\mu_r}$",
+        "D": "$w = \\frac{\\mu_v - \\mu_r}{\\mu_y + 1}$"
+      },
+      "vikalpa": {
+        "A": "$w = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$",
+        "B": "$w = (\\mu_v - \\mu_r)(\\mu_y - 1)$",
+        "C": "$w = \\frac{\\mu_y - 1}{\\mu_v - \\mu_r}$",
+        "D": "$w = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "Velocity of light in vacuum is c. Its value in glass ($\\mu = 3/2$) will be",
+      "prashna": "निर्वात में प्रकाश का वेग c है। काँच ($\\mu = 3/2$) में इसका मान होगा",
+      "options": {
+        "A": "$\\frac{3c}{2}$",
+        "B": "$\\frac{2c}{3}$",
+        "C": "$\\frac{4c}{3}$",
+        "D": "$\\frac{c}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{3c}{2}$",
+        "B": "$\\frac{2c}{3}$",
+        "C": "$\\frac{4c}{3}$",
+        "D": "$\\frac{c}{2}$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The length of an astronomical telescope for normal adjustment is",
+      "prashna": "सामान्य समायोजन के लिए खगोलीय दूरदर्शक की लम्बाई होती है",
+      "options": {
+        "A": "$f_o - f_e$",
+        "B": "$f_o \\times f_e$",
+        "C": "$\\frac{f_o}{f_e}$",
+        "D": "$f_o + f_e$"
+      },
+      "vikalpa": {
+        "A": "$f_o - f_e$",
+        "B": "$f_o \\times f_e$",
+        "C": "$\\frac{f_o}{f_e}$",
+        "D": "$f_o + f_e$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Focal length of eye-lens of a healthy man is about",
+      "prashna": "एक स्वस्थ व्यक्ति के आँख के लेंस की फोकस दूरी लगभग होती है",
+      "options": {
+        "A": "1 mm",
+        "B": "2 cm",
+        "C": "25 cm",
+        "D": "1 m"
+      },
+      "vikalpa": {
+        "A": "1 mm",
+        "B": "2 cm",
+        "C": "25 cm",
+        "D": "1 m"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Which of the following is correct for refractive index of mean colour (yellow colour) ?",
+      "prashna": "औसत रंग (पीला रंग) के अपवर्तनांक के लिए निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "$\\mu = \\frac{\\mu_r + \\mu_v}{2}$",
+        "B": "$\\mu = \\frac{\\mu_r - \\mu_v}{2}$",
+        "C": "$\\mu = \\frac{\\mu_r}{2}$",
+        "D": "$\\mu = \\frac{\\mu_v}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\mu = \\frac{\\mu_r + \\mu_v}{2}$",
+        "B": "$\\mu = \\frac{\\mu_r - \\mu_v}{2}$",
+        "C": "$\\mu = \\frac{\\mu_r}{2}$",
+        "D": "$\\mu = \\frac{\\mu_v}{2}$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Power of parallel sided glass-slab is",
+      "prashna": "समांतर सतह वाली काँच की पट्टी की शक्ति होती है",
+      "options": {
+        "A": "infinity",
+        "B": "zero",
+        "C": "100 cm",
+        "D": "10 cm"
+      },
+      "vikalpa": {
+        "A": "अनंत",
+        "B": "शून्य",
+        "C": "100 cm",
+        "D": "10 cm"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Angular dispersion is equal to",
+      "prashna": "कोणीय वर्ण-विक्षेपण बराबर होता है",
+      "options": {
+        "A": "$(\\mu_v - \\mu_r) A$",
+        "B": "$(\\mu_v - \\mu_r)$",
+        "C": "$(\\mu_v + \\mu_r)$",
+        "D": "$(\\mu_v + \\mu_r) A$"
+      },
+      "vikalpa": {
+        "A": "$(\\mu_v - \\mu_r) A$",
+        "B": "$(\\mu_v - \\mu_r)$",
+        "C": "$(\\mu_v + \\mu_r)$",
+        "D": "$(\\mu_v + \\mu_r) A$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Which of the following is correct for Astronomical telescope ?",
+      "prashna": "खगोलीय दूरदर्शी के लिए निम्नलिखित में कौन सही है ?",
+      "options": {
+        "A": "$f_o = f_e$",
+        "B": "$f_o > f_e$",
+        "C": "$f_o < f_e$",
+        "D": "$f_o \\ll f_e$"
+      },
+      "vikalpa": {
+        "A": "$f_o = f_e$",
+        "B": "$f_o > f_e$",
+        "C": "$f_o < f_e$",
+        "D": "$f_o \\ll f_e$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "What do you mean by power of accommodation of eye ?",
+      "prashna": "नेत्र की समंजन क्षमता से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Write necessary conditions for total internal reflection of light.",
+      "prashna": "प्रकाश के पूर्ण आंतरिक परावर्तन के लिए आवश्यक शर्तों को लिखें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Explain secondary rainbow.",
+      "prashna": "द्वितीयक इन्द्रधनुष को समझायें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Establish the formula for thin lens given below : $\\frac{1}{f} = (\\mu - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$",
+      "prashna": "पतले लेन्स के लिए नीचे दिया हुआ सूत्र स्थापित करें : $\\frac{1}{f} = (\\mu - 1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Find out the expression for magnifying power of compound microscope.",
+      "prashna": "संयुक्त सूक्ष्मदर्शी की आवर्धन क्षमता के लिए व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "$_1\\mu_2$ is equal to",
+      "prashna": "$_1\\mu_2$ के बराबर होता है",
+      "options": {
+        "A": "$\\mu_2 / \\mu_1$",
+        "B": "$\\mu_1 / \\mu_2$",
+        "C": "$\\mu_2 \\cdot \\mu_1$",
+        "D": "$1 / (\\mu_1 \\mu_2)$"
+      },
+      "vikalpa": {
+        "A": "$\\mu_2 / \\mu_1$",
+        "B": "$\\mu_1 / \\mu_2$",
+        "C": "$\\mu_2 \\cdot \\mu_1$",
+        "D": "$1 / (\\mu_1 \\mu_2)$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Image formed on retina is",
+      "prashna": "रेटिना पर बनने वाला प्रतिबिंब होता है",
+      "options": {
+        "A": "real and erect",
+        "B": "real and inverted",
+        "C": "virtual and erect",
+        "D": "virtual and inverted"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं सीधा",
+        "B": "वास्तविक एवं उलटा",
+        "C": "काल्पनिक एवं सीधा",
+        "D": "काल्पनिक एवं उलटा"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The magnification power of Astronomical Telescope is",
+      "prashna": "खगोलीय दूरबीन की आवर्द्धन क्षमता होती है",
+      "options": {
+        "A": "$f_o / f_e$",
+        "B": "$-f_o / f_e$",
+        "C": "$-f_e / f_o$",
+        "D": "$f_e / f_o$"
+      },
+      "vikalpa": {
+        "A": "$f_o / f_e$",
+        "B": "$-f_o / f_e$",
+        "C": "$-f_e / f_o$",
+        "D": "$f_e / f_o$"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Which of the following is the cause of formation of rainbow?",
+      "prashna": "निम्नलिखित में कौन इंद्रधनुष के निर्माण का कारण होता है ?",
+      "options": {
+        "A": "Scattering",
+        "B": "Diffraction",
+        "C": "Dispersion",
+        "D": "Refraction"
+      },
+      "vikalpa": {
+        "A": "प्रकीर्णन",
+        "B": "विवर्तन",
+        "C": "वर्ण-विक्षेपण",
+        "D": "अपवर्तन"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Critical angle for transparent medium diamond is",
+      "prashna": "पारदर्शी माध्यम हीरा के लिए क्रांतिक कोण होता है",
+      "options": {
+        "A": "$48.75^\\circ$",
+        "B": "$41.14^\\circ$",
+        "C": "$37.31^\\circ$",
+        "D": "$24.41^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$48.75^\\circ$",
+        "B": "$41.14^\\circ$",
+        "C": "$37.31^\\circ$",
+        "D": "$24.41^\\circ$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The focal length of a lens of capacity 4 dioptre is",
+      "prashna": "4 डायोप्टर क्षमता वाले लेंस की फोकस दूरी होती है",
+      "options": {
+        "A": "0.25 m",
+        "B": "0.25 cm",
+        "C": "0.35 m",
+        "D": "0.35 cm"
+      },
+      "vikalpa": {
+        "A": "0.25 m",
+        "B": "0.25 cm",
+        "C": "0.35 m",
+        "D": "0.35 cm"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Which of the following is correct for dispersive power ?",
+      "prashna": "निम्नलिखित में कौन वर्ण-विक्षेपण क्षमता के लिए सही है ?",
+      "options": {
+        "A": "$\\omega = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$",
+        "B": "$\\omega = \\frac{\\mu_r - \\mu_v}{\\mu_y - 1}$",
+        "C": "$\\omega = \\frac{\\mu_y - 1}{\\mu_v - \\mu_r}$",
+        "D": "$\\omega = \\frac{\\mu_y - 1}{\\mu_r - \\mu_v}$"
+      },
+      "vikalpa": {
+        "A": "$\\omega = \\frac{\\mu_v - \\mu_r}{\\mu_y - 1}$",
+        "B": "$\\omega = \\frac{\\mu_r - \\mu_v}{\\mu_y - 1}$",
+        "C": "$\\omega = \\frac{\\mu_y - 1}{\\mu_v - \\mu_r}$",
+        "D": "$\\omega = \\frac{\\mu_y - 1}{\\mu_r - \\mu_v}$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "If the focal length of a glass lens ($\\mu = 3/2$) in air is $f_a$ and in water ($\\mu = 4/3$) is $f_w$ then",
+      "prashna": "यदि काँच के एक लेन्स ($\\mu=3/2$) की हवा में फोकस दूरी $f_a$ हो और पानी ($\\mu=4/3$) में $f_w$ हो तो",
+      "options": {
+        "A": "$f_w = f_a$",
+        "B": "$f_w = 2f_a$",
+        "C": "$f_w = 3f_a$",
+        "D": "$f_w = 4f_a$"
+      },
+      "vikalpa": {
+        "A": "$f_w = f_a$",
+        "B": "$f_w = 2f_a$",
+        "C": "$f_w = 3f_a$",
+        "D": "$f_w = 4f_a$"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Magnifying power of simple microscope is",
+      "prashna": "सरल सूक्ष्मदर्शी की आवर्द्धन क्षमता होती है",
+      "options": {
+        "A": "$M = 1 - D/f$",
+        "B": "$M = 1 + D/f$",
+        "C": "$M = 1 - f/D$",
+        "D": "$M = 1 + f/D$"
+      },
+      "vikalpa": {
+        "A": "$M = 1 - D/f$",
+        "B": "$M = 1 + D/f$",
+        "C": "$M = 1 - f/D$",
+        "D": "$M = 1 + f/D$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Power of two lenses in contact is",
+      "prashna": "संपर्कित दो लेंसों की शक्ति होती है",
+      "options": {
+        "A": "$P = P_1 + P_2$",
+        "B": "$P = P_1 \\times P_2$",
+        "C": "$P = P_1 / P_2$",
+        "D": "$P = P_1(P_2 + P_1)$"
+      },
+      "vikalpa": {
+        "A": "$P = P_1 + P_2$",
+        "B": "$P = P_1 \\times P_2$",
+        "C": "$P = P_1 / P_2$",
+        "D": "$P = P_1(P_2 + P_1)$"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "If $_a\\mu_g = 3/2$ and $_a\\mu_w = 4/3$ then $_w\\mu_g$ is",
+      "prashna": "यदि $_a\\mu_g = 3/2$ और $_a\\mu_w = 4/3$ तब $_w\\mu_g$ होता है",
+      "options": {
+        "A": "2",
+        "B": "$1/2$",
+        "C": "$9/8$",
+        "D": "$8/9$"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "$1/2$",
+        "C": "$9/8$",
+        "D": "$8/9$"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Critical angle for glass is",
+      "prashna": "काँच के लिए क्रांतिक कोण होता है",
+      "options": {
+        "A": "$20^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$48^\\circ$",
+        "D": "$42^\\circ$ (nearly)"
+      },
+      "vikalpa": {
+        "A": "$20^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$48^\\circ$",
+        "D": "$42^\\circ$ (लगभग)"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "The refractive index of material of the Prism is",
+      "prashna": "त्रिपार्श्व के पदार्थ का अपवर्तनांक होता है",
+      "options": {
+        "A": "$\\mu = \\frac{\\sin(A+\\delta_m)}{\\sin(A/2)}$",
+        "B": "$\\mu = \\frac{\\sin(A/2)}{\\sin(A+\\delta_m)}$",
+        "C": "$\\mu = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(A/2)}$",
+        "D": "$\\mu = \\frac{\\sin(A/2)}{\\sin(\\frac{A+\\delta_m}{2})}$"
+      },
+      "vikalpa": {
+        "A": "$\\mu = \\frac{\\sin(A+\\delta_m)}{\\sin(A/2)}$",
+        "B": "$\\mu = \\frac{\\sin(A/2)}{\\sin(A+\\delta_m)}$",
+        "C": "$\\mu = \\frac{\\sin(\\frac{A+\\delta_m}{2})}{\\sin(A/2)}$",
+        "D": "$\\mu = \\frac{\\sin(A/2)}{\\sin(\\frac{A+\\delta_m}{2})}$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "Optical path is equal to",
+      "prashna": "प्रकाशीय पथ के बराबर होता है",
+      "options": {
+        "A": "Refractive index × Length of path",
+        "B": "Refractive index / Length of path",
+        "C": "Length of path",
+        "D": "Length of path / Refractive index"
+      },
+      "vikalpa": {
+        "A": "अपवर्तनांक × पथ की लम्बाई",
+        "B": "अपवर्तनांक / पथ की लम्बाई",
+        "C": "पथ की लम्बाई",
+        "D": "पथ की लम्बाई / अपवर्तनांक"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "What do you mean by refractive index of medium ?",
+      "prashna": "माध्यम के अपवर्तनांक से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Explain dispersion of light.",
+      "prashna": "प्रकाश के वर्ण विक्षेपण को समझायें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Find out the expression for equivalent focal length of two lenses in contact.",
+      "prashna": "संपर्क में रखे दो लेंसों की समतुल्य फोकस दूरी का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.1",
+      "topic_name": "Introduction",
+      "question": "Light year is equal to",
+      "prashna": "प्रकाश वर्ष का मान बराबर होता है।",
+      "options": {
+        "A": "$9.46 \\times 10^{15}$ m",
+        "B": "$9.46 \\times 10^{12}$ m",
+        "C": "$9.46 \\times 10^{8}$ m",
+        "D": "$9.46 \\times 10^{10}$ m"
+      },
+      "vikalpa": {
+        "A": "$9.46 \\times 10^{15}$ m",
+        "B": "$9.46 \\times 10^{12}$ m",
+        "C": "$9.46 \\times 10^{8}$ m",
+        "D": "$9.46 \\times 10^{10}$ m"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "The radius of curvature of each surface of a biconvex lens is 20 cm and the refractive index of the material of the lens is 1.5. The focal length of the lens is",
+      "prashna": "एक उभयोत्तल लेंस के प्रत्येक तल की वक्रता त्रिज्या 20 cm तथा लेंस के पदार्थ का अपवर्तनांक 1.5 है। लेंस की फोकस दूरी है",
+      "options": {
+        "A": "20 m",
+        "B": "1/20 m",
+        "C": "20 cm",
+        "D": "1/20 cm"
+      },
+      "vikalpa": {
+        "A": "20 m",
+        "B": "1/20 m",
+        "C": "20 cm",
+        "D": "1/20 cm"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "The dispersive power of a prism depends on",
+      "prashna": "किसी भी प्रिज्म की वर्ण विक्षेपण क्षमता निर्भर करती है",
+      "options": {
+        "A": "Angle of incidence",
+        "B": "Nature of material of prism",
+        "C": "Refracting angle of prism",
+        "D": "Angle of prism"
+      },
+      "vikalpa": {
+        "A": "आपतन कोण पर",
+        "B": "प्रिज्म के पदार्थ की प्रकृति पर",
+        "C": "प्रिज्म के अपवर्तन कोण पर",
+        "D": "प्रिज्म कोण पर"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A convex lens of focal length 40 cm and a concave lens of focal length 20 cm are in contact. The power of their combination in dioptre is",
+      "prashna": "40 सेमी फोकस दूरी का उत्तल लेंस एवं 20 सेमी फोकस दूरी का अवतल लेंस संपर्क में है। इनके संयोजन की क्षमता डायोप्टर में है",
+      "options": {
+        "A": "2.5",
+        "B": "-2.5",
+        "C": "7.5",
+        "D": "-7.5"
+      },
+      "vikalpa": {
+        "A": "2.5",
+        "B": "-2.5",
+        "C": "7.5",
+        "D": "-7.5"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.2",
+      "topic_name": "Reflection of Light by Spherical Mirrors",
+      "question": "A spherical mirror is immersed in water. Its focal length will",
+      "prashna": "एक गोलीय दर्पण को पानी में डूबा दिया जाता है, इसकी फोकस दूरी",
+      "options": {
+        "A": "decrease",
+        "B": "increase",
+        "C": "remain same",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "घट जायेगी",
+        "B": "बढ़ जायेगी",
+        "C": "समान रहेगी",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "The coefficient of reflection for total internal reflection will be",
+      "prashna": "पूर्ण आन्तरिक परावर्तन की स्थिति में परावर्तन गुणांक का मान होगा",
+      "options": {
+        "A": "0.5",
+        "B": "1",
+        "C": "0",
+        "D": "$\\infty$"
+      },
+      "vikalpa": {
+        "A": "0.5",
+        "B": "1",
+        "C": "0",
+        "D": "$\\infty$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "The final image formed by a terrestrial telescope is",
+      "prashna": "पार्थिव दूरदर्शी द्वारा बना अंतिम प्रतिबिम्ब होता है।",
+      "options": {
+        "A": "virtual and inverted compared to the object",
+        "B": "virtual and erect compared to the object",
+        "C": "real and erect compared to the object",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "काल्पनिक एवं वस्तु की अपेक्षा उल्टा",
+        "B": "काल्पनिक एवं वस्तु की अपेक्षा सीधा",
+        "C": "वास्तविक एवं वस्तु की अपेक्षा सीधा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "The critical angle for total internal reflection of a ray from any medium to vacuum is $30^{\\circ}$. Then velocity of light in the medium will be",
+      "prashna": "यदि किसी माध्यम से निर्वात में संपूर्ण आन्तरिक परावर्तन के लिए क्रान्तिक कोण $30^{\\circ}$ हो, तो माध्यम में प्रकाश का वेग है।",
+      "options": {
+        "A": "$3 \\times 10^8$ m/s",
+        "B": "$1.5 \\times 10^5$ m/s",
+        "C": "$6 \\times 10^8$ m/s",
+        "D": "$4.5 \\times 10^8$ m/s"
+      },
+      "vikalpa": {
+        "A": "$13 \\times 10^8$ मी/से",
+        "B": "$1.5 \\times 10^5$ मी/से",
+        "C": "$6 \\times 10^8$ मी/से",
+        "D": "$4.5 \\times 10^8$ मी/से"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Differentiate between primary and secondary rainbows.",
+      "prashna": "प्राथमिक और द्वितीयक इंद्रधनुष में अंतर स्पष्ट करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Under what condition will the magnifying power of a microscope be maximum?",
+      "prashna": "सूक्ष्मदर्शी की आवर्धन क्षमता किस स्थिति में अधिक होगी ?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A convex lens of refractive index 1.5 is kept in a liquid medium having same refractive index. What is the focal length of the lens in this medium?",
+      "prashna": "1.5 अपवर्तनांक वाले उत्तल लेंस को उतने ही अपवर्तनांक वाले तरल में रखा जाता है। इस माध्यम में लेंस की फोकस दूरी निकालें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "With neat diagram describe the construction and working of an astronomical telescope. Find its magnifying power.",
+      "prashna": "एक स्वच्छ चित्र द्वारा खगोलीय दूरदर्शी की रचना एवं क्रिया का वर्णन करें। इसके आवर्धन क्षमता की गणना करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "For a thin lens find the formula $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$, where the meaning of symbols is general",
+      "prashna": "पतले लेंस के लिए सूत्र $\\frac{1}{f} = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$ प्राप्त करें, जहाँ संकेतों के अर्थ सामान्य हैं।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.2",
+      "topic_name": "Reflection of Light by Spherical Mirrors",
+      "question": "A large virtual image of object is formed by",
+      "prashna": "वस्तु से बड़ा आभासी प्रतिबिम्ब बनता है",
+      "options": {
+        "A": "concave mirror",
+        "B": "convex mirror",
+        "C": "plane mirror",
+        "D": "concave lens"
+      },
+      "vikalpa": {
+        "A": "अवतल दर्पण से",
+        "B": "उत्तल दर्पण से",
+        "C": "समतल दर्पण से",
+        "D": "अवतल लेंस से"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Powers of two lenses kept in contact, are $P_1$ and $P_2$. The power of equivalent lens will be",
+      "prashna": "संपर्क में रखे दो लेन्सों की क्षमता क्रमशः $P_1$ तथा $P_2$ है। तब समतुल्य लेंस की क्षमता होगी",
+      "options": {
+        "A": "$\\frac{P_1}{P_2}$",
+        "B": "$\\frac{P_2}{P_1}$",
+        "C": "$P_1 \\times P_2$",
+        "D": "$P_1 + P_2$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{P_1}{P_2}$",
+        "B": "$\\frac{P_2}{P_1}$",
+        "C": "$P_1 \\times P_2$",
+        "D": "$P_1 + P_2$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "The wavelength of which colour is minimum ?",
+      "prashna": "किस रंग का तरंगदैर्ध्य सबसे कम होता है ?",
+      "options": {
+        "A": "Violet",
+        "B": "Yellow",
+        "C": "Blue",
+        "D": "Red"
+      },
+      "vikalpa": {
+        "A": "बैंगनी",
+        "B": "पीला",
+        "C": "नीला",
+        "D": "लाल"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Which causes the formation of rainbow ?",
+      "prashna": "इन्द्रधनुष का निर्माण किस कारण होता है ?",
+      "options": {
+        "A": "Diffraction",
+        "B": "Scattering",
+        "C": "Refraction",
+        "D": "Dispersion"
+      },
+      "vikalpa": {
+        "A": "विवर्तन",
+        "B": "प्रकीर्णन",
+        "C": "अपवर्तन",
+        "D": "वर्ण-विक्षेपण"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Image formed in compound microscope is",
+      "prashna": "संयुक्त सूक्ष्मदर्शी में प्रतिबिम्ब बनता है",
+      "options": {
+        "A": "real and erect",
+        "B": "real and inverted",
+        "C": "virtual and inverted",
+        "D": "virtual and erect"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं सीधा",
+        "B": "वास्तविक एवं उल्टा",
+        "C": "आभासी और उल्टा",
+        "D": "आभासी एवं सीधा"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Image of any object formed at the retina of human eye is",
+      "prashna": "मनुष्य के आँख की रेटिना पर किसी वस्तु का बना प्रतिबिम्ब होता है",
+      "options": {
+        "A": "real and inverted",
+        "B": "real and erect",
+        "C": "virtual and erect",
+        "D": "virtual and inverted"
+      },
+      "vikalpa": {
+        "A": "वास्तविक और उल्टा",
+        "B": "वास्तविक एवं सीधा",
+        "C": "आभासी और सीधा",
+        "D": "आभासी एवं उल्टा"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Convex lens is used in",
+      "prashna": "उत्तल लेंस का व्यवहार किया जाता है",
+      "options": {
+        "A": "short-sightedness",
+        "B": "long-sightedness",
+        "C": "presbyopia",
+        "D": "astigmatism"
+      },
+      "vikalpa": {
+        "A": "निकट दृष्टि दोष में",
+        "B": "दीर्घ दृष्टि दोष में",
+        "C": "जरा दृष्टि दोष में",
+        "D": "अबिन्दुकता में"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "The colour of sky is blue due to",
+      "prashna": "आसमान का रंग नीला होने का कारण है",
+      "options": {
+        "A": "interference",
+        "B": "scattering",
+        "C": "diffraction",
+        "D": "polarisation"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "प्रकीर्णन",
+        "C": "विवर्तन",
+        "D": "ध्रुवण"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "What is critical angle? Write down its necessary conditions.",
+      "prashna": "क्रांतिक कोण क्या है? इसकी आवश्यक शर्तें लिखें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Mention the defects of human vision and describe the method to remove them.",
+      "prashna": "मनुष्य के दृष्टि दोषों का उल्लेख करें तथा उन्हें दूर करने के उपाय का वर्णन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "Light ray bends in moving from one medium to another medium. Bending of ray is called as",
+      "prashna": "एक माध्यम से दूसरे माध्यम में जाने में प्रकाश किरण मुड़ जाती है। किरण मुड़ने को कहा जाता है?",
+      "options": {
+        "A": "Interference",
+        "B": "Dispersion",
+        "C": "Refraction",
+        "D": "Reflection"
+      },
+      "vikalpa": {
+        "A": "व्यतिकरण",
+        "B": "वर्ण-विक्षेपण",
+        "C": "अपवर्त्तन",
+        "D": "परावर्त्तन"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Due to which reason air bubble shines in water",
+      "prashna": "किस कारण से हवा का बुलबुला पानी में चमकता नजर आता है",
+      "options": {
+        "A": "Reflection",
+        "B": "Refraction",
+        "C": "Diffraction",
+        "D": "Total internal reflection"
+      },
+      "vikalpa": {
+        "A": "परावर्तन से",
+        "B": "अपवर्त्तन से",
+        "C": "विवर्तन से",
+        "D": "पूर्ण परावर्तन से"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Refractive index of material of biconvex lens is 1.5 what is the value of its focal length if radius of curvature of each surface is 20 cm?",
+      "prashna": "एक उभयोत्तल लेंस के पदार्थ का अपवर्तनांक 1.5 है। इसकी फोकस दूरी का मान क्या होगा यदि प्रत्येक तल की वक्रता त्रिज्या 20 सेमी है?",
+      "options": {
+        "A": "60 cm",
+        "B": "40 cm",
+        "C": "20 cm",
+        "D": "10 cm"
+      },
+      "vikalpa": {
+        "A": "60 cm",
+        "B": "40 cm",
+        "C": "20 cm",
+        "D": "10 cm"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "A convex lens is made of such material whose refractive index is 1.5. If lens is immerged in water then it behave as",
+      "prashna": "एक उत्तल लेंस ऐसे पदार्थ का बना है जिसका अपवर्तनांक 1.5 है। इस लेंस को यदि पानी में डाल दिया जाए तो यह किसके समान व्यवहार करेगा?",
+      "options": {
+        "A": "Converging lens",
+        "B": "Diverging lens",
+        "C": "Prism",
+        "D": "Diverging mirror"
+      },
+      "vikalpa": {
+        "A": "अभिसारी लेंस",
+        "B": "अपसारी लेंस",
+        "C": "प्रिज्म",
+        "D": "अपसारी दर्पण"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.5",
+      "topic_name": "Refraction at Spherical Surfaces and by Lenses",
+      "question": "Three lenses having focal lengths 20cm, -30cm and 60cm respectively are in contact with each other. Focal length of this combination is",
+      "prashna": "तीन लेंस जिसकी फोकस दूरी 20 सेमी, -30 सेमी और 60 सेमी है, एक-दूसरे से सटे है। इस संयोजन का फोकस दूरी है",
+      "options": {
+        "A": "50cm",
+        "B": "30cm",
+        "C": "10cm",
+        "D": "20cm"
+      },
+      "vikalpa": {
+        "A": "50 cm",
+        "B": "30 cm",
+        "C": "10 cm",
+        "D": "20 cm"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "If focal length of objective and eye piece of any telescope are 20cm and 2cm respectively. Then magnifying power of this telescope is",
+      "prashna": "यदि किसी दूरदर्शक के अभिदृश्यक एवं नेत्रिका की फोकस दूरियाँ क्रमशः 20 cm और 2 cm हो तो इस दूरदर्शक की आवर्द्धन क्षमता होगी?",
+      "options": {
+        "A": "2",
+        "B": "20",
+        "C": "10",
+        "D": "22"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "20",
+        "C": "10",
+        "D": "22"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Myopic eye can see clearly",
+      "prashna": "निकट दृष्टि-दोष वाली आंखें साफ-साफ देख सकती हैं",
+      "options": {
+        "A": "Objects of infinity",
+        "B": "Objects at far distance",
+        "C": "Objects at near distance",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "अनंत पर की वस्तु को",
+        "B": "दूर स्थित वस्तुओं को",
+        "C": "निकट की वस्तुओं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "When we see an object then image formed at retina is of which type?",
+      "prashna": "जब हम किसी वस्तु को देखते हैं तो रेटिना पर बनने वाला प्रतिबिम्ब कैसा होता है?",
+      "options": {
+        "A": "Real and erect",
+        "B": "Real and inverted",
+        "C": "Virtual and erect",
+        "D": "Virtual and inverted"
+      },
+      "vikalpa": {
+        "A": "वास्तविक और सीधा",
+        "B": "वास्तविक और उल्टा",
+        "C": "काल्पनिक एवं सीधा",
+        "D": "काल्पनिक एवं उल्टा"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Minimum deviated component of white light passing through a Prism is",
+      "prashna": "एक प्रिज्म से होकर गुजरने वाले श्वेत प्रकाश का न्यूनतम विचलित अवयव होता है",
+      "options": {
+        "A": "Red",
+        "B": "Violet",
+        "C": "Green",
+        "D": "Yellow"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "बैंगनी",
+        "C": "हरा",
+        "D": "पीला"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.4",
+      "topic_name": "Total Internal Reflection",
+      "question": "Critical angle of light ray passing through glass to air is minimum for",
+      "prashna": "काँच से हवा में जाती प्रकाश किरण का क्रांतिक कोण न्यूनतम होता है",
+      "options": {
+        "A": "Red colour",
+        "B": "Green colour",
+        "C": "Yellow colour",
+        "D": "Violet colour"
+      },
+      "vikalpa": {
+        "A": "लाल रंग के लिए",
+        "B": "हरा रंग के लिए",
+        "C": "पीला रंग के लिए",
+        "D": "बैंगनी रंग के लिए"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "Primary rainbow is formed when sun light falling on rain drops suffers",
+      "prashna": "प्राथमिक इन्द्रधनुष बनता है, सूर्य के प्रकाश का वर्षा के बूँद में",
+      "options": {
+        "A": "Refraction once",
+        "B": "Refraction twice",
+        "C": "Refraction twice and internal reflection once",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "एक बार अपवर्त्तन से",
+        "B": "दो बार अपवर्त्तन से",
+        "C": "दो बार अपवर्त्तन और एक बार आंतरिक परावर्त्तन से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.3",
+      "topic_name": "Refraction",
+      "question": "What do you understand by refractive index? Differentiate between absolute and relative refractive index.",
+      "prashna": "अपवर्तनांक से क्या समझते हैं? निरपेक्ष तथा आपेक्षिक अपवर्तनांक के बीच अंतर स्पष्ट करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.6",
+      "topic_name": "Refraction through a Prism",
+      "question": "What do you mean by angular dispersion and dispersive power?",
+      "prashna": "कोणीय वर्ण–विक्षेपण तथा वर्ण–विक्षेपण क्षमता से क्या समझते हैं?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Ray Optics and Optical Instruments",
+      "topic": "9.7",
+      "topic_name": "Optical Instruments",
+      "question": "Explain working of a compound microscope and obtain expression for its magnifying power.",
+      "prashna": "एक संयुक्त सूक्ष्मदर्शी की क्रिया समझायें तथा इसके अवर्द्धन क्षमता के लिये व्यंजक प्राप्त करें।"
+    }
+  ]
+}

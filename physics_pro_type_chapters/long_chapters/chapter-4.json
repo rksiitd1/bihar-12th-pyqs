@@ -1,0 +1,118 @@
+{
+  "2009": [
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.10",
+      "topic_name": "The Moving Coil Galvanometer",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "a": "Explain the principle and working of a moving coil galvanometer. Derive an expression for its current sensitivity.",
+        "b": "Compare a moving coil galvanometer and a moving magnet galvanometer."
+      },
+      "anuprashna": {
+        "a": "चल कुण्डली गैल्वेनोमीटर के सिद्धान्त एवं क्रियाविधि समझाइए । धारा सुग्राहिता के लिए व्यंजक प्राप्त करें।",
+        "b": "चल कुण्डली गैल्वेनोमीटर तथा चल चुम्बक गैल्वेनोमीटर की तुलना"
+      }
+    }
+  ],
+  "2010": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.9",
+      "topic_name": "Torque on Current Loop, Magnetic Dipole",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "Explain the behavior of a current-carrying loop as a magnetic dipole.",
+        "(ii)": "Find the force and torque acting on a magnet placed in a uniform external magnetic field. Also, calculate the work done in rotating the magnet freely in the magnetic field."
+      },
+      "anuprashna": {
+        "(i)": "किसी धारावाही लूप के चुंबकीय द्विध्रुव के तरह व्यवहार को समझाएँ।",
+        "(ii)": "किसी समरूप वाह्य चुंबकीय क्षेत्र रखे चुंबक पर लगने वाले बल एवं आघूर्ण को ज्ञात करें। साथ ही चुंबकीय क्षेत्र में चुंबक को स्वेच्छ रूप से घुमाने के लिए किए गए कार्य की गणना करें।"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.3",
+      "topic_name": "Motion in a Magnetic Field",
+      "question": "",
+      "prashna": "",
+      "sub_questions": {
+        "(i)": "An electron has a velocity $\\vec{v} = 2\\hat{i} + 3\\hat{j}$. It is released in a uniform magnetic field $\\vec{B} = 4\\hat{k}$. Calculate the time period of the electron's motion.",
+        "(ii)": "Without finding the moment of inertia, how can the magnetic moments of two bar magnets be compared?"
+      },
+      "anuprashna": {
+        "(i)": "एक इलेक्ट्रॉन का वेग $\\vec{v} = 2\\hat{i} + 3\\hat{j}$ है। इसे समरूप चुंबकीय क्षेत्र $\\vec{B} = 4\\hat{k}$ में छोड़ा जाता है, तो इलेक्ट्रॉन के गति के आवर्तकाल की गणना करें।",
+        "(ii)": "बिना जड़त्व आघूर्ण ज्ञात किए हुए किस प्रकार दो दण्ड चुंबकों के चुंबकीय आघूर्ण की तुलना की जा सकती है।"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.3",
+      "topic_name": "Motion in a Magnetic Field",
+      "question": "Describe the construction, principle, and working of a cyclotron with a diagram.",
+      "prashna": "साइक्लोट्रॉन की बनावट, सिद्धांत तथा कार्यविधि का सचित्र वर्णन करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.4",
+      "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+      "question": "Explain Biot-Savart's law. Obtain the expression for the magnetic field at the center of a current-carrying circular coil.",
+      "prashna": "बायो-सावर्ट के नियम की व्याख्या करें। धारावाही वृत्ताकार कुंडली के केन्द्र पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.5",
+      "topic_name": "Magnetic Field on the Axis of a Circular Current Loop",
+      "question": "State Biot-Savart law and use it to derive an expression for the magnetic field at a point on the axis of a current-carrying circular loop.",
+      "prashna": "बायो-सावर्ट नियम लिखें और इसका उपयोग करके एक धाराप्रवाही वृत्ताकार लुप के अक्ष के किसी बिन्दु पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.5",
+      "topic_name": "Magnetic Field on the Axis of a Circular Current Loop",
+      "question": "Find an expression for the magnetic field at a point on the axis of a circular coil due to a current flowing in it.",
+      "prashna": "एक वृत्ताकार धारावाही कुण्डली के अक्ष पर के किसी बिन्दु पर चुम्बकीय क्षेत्र का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Moving Charges and Magnetism",
+      "topic": "4.4",
+      "topic_name": "Magnetic Field due to a Current Element, Biot-Savart Law",
+      "question": "Write down Biot-Savart law. Obtain an expression for magnetic field near a straight wire carrying a current.",
+      "prashna": "बायो-सावर्त नियम लिखें। सीधे तार से बहती हुई धारा के कारण किसी बिंदु पर चुंबकीय क्षेत्र के लिये व्यंजक प्राप्त करें।"
+    }
+  ]
+}
