@@ -1,0 +1,452 @@
+{
+  "2021": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If A and B be two events then $P(\\frac{A}{B}) + P(\\frac{A'}{B}) = $",
+      "prashna": "यदि A और B दो घटनाएँ हों, तो $P(\\frac{A}{B}) + P(\\frac{A'}{B}) = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If A, B and C are three independent events then",
+      "prashna": "यदि A, B और C तीन स्वतंत्र घटनाएँ हों, तो",
+      "options": {
+        "A": "$P(ABC) = P(A) + P(B) + P(C)$",
+        "B": "$P(ABC) = P(A) - P(B) - P(C)$",
+        "C": "$P(ABC) = P(A).P(B).P(C)$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$P(ABC) = P(A) + P(B) + P(C)$",
+        "B": "$P(ABC) = P(A) - P(B) - P(C)$",
+        "C": "$P(ABC) = P(A).P(B).P(C)$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "$P(A) + P(A') = $",
+      "prashna": "$P(A) + P(A') = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "P(S)"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "P(S)"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "$1 - P(A' \\cap B') = $",
+      "prashna": "$1 - P(A' \\cap B') = $",
+      "options": {
+        "A": "$P(A \\cap B)$",
+        "B": "$P(A \\cup B)$",
+        "C": "P(A)",
+        "D": "P(B)"
+      },
+      "vikalpa": {
+        "A": "$P(A \\cap B)$",
+        "B": "$P(A \\cup B)$",
+        "C": "P(A)",
+        "D": "P(B)"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If two events A and B are such that $P(A) \\neq 0$ and $P(B/A) = 1$, then",
+      "prashna": "यदि दो घटनाएँ A और B इस प्रकार हों कि $P(A) \\neq 0$ तथा $P(B/A) = 1$ तो",
+      "options": {
+        "A": "$A \\subset B$",
+        "B": "$B \\subset A$",
+        "C": "$B = \\phi$",
+        "D": "$A = \\phi$"
+      },
+      "vikalpa": {
+        "A": "$A \\subset B$",
+        "B": "$B \\subset A$",
+        "C": "$B = \\phi$",
+        "D": "$A = \\phi$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A coin is tossed 10 times. The probability of getting exactly six heads is",
+      "prashna": "एक सिक्के को 10 बार उछाला जाता है। ठीक छः चित आने की प्रायिकता है",
+      "options": {
+        "A": "$^{10}C_6 (\\frac{1}{2})^6$",
+        "B": "$^{10}C_6 (\\frac{1}{2})^7$",
+        "C": "$^{10}C_6 (\\frac{1}{2})^8$",
+        "D": "$^{10}C_6 (\\frac{1}{2})^{10}$"
+      },
+      "vikalpa": {
+        "A": "$^{10}C_6 (\\frac{1}{2})^6$",
+        "B": "$^{10}C_6 (\\frac{1}{2})^7$",
+        "C": "$^{10}C_6 (\\frac{1}{2})^8$",
+        "D": "$^{10}C_6 (\\frac{1}{2})^{10}$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Two events A and B are independent if",
+      "prashna": "दो घटनाएँ A और B स्वतंत्र हैं यदि",
+      "options": {
+        "A": "$P(A \\cup B) = P(A)P(B)$",
+        "B": "$P(A \\cup B) = \\frac{P(A)}{P(B)}$",
+        "C": "$P(A \\cap B) = P(A)P(B)$",
+        "D": "$P(A \\cap B) = \\frac{P(A)}{P(B)}$"
+      },
+      "vikalpa": {
+        "A": "$P(A \\cup B) = P(A)P(B)$",
+        "B": "$P(A \\cup B) = \\frac{P(A)}{P(B)}$",
+        "C": "$P(A \\cap B) = P(A)P(B)$",
+        "D": "$P(A \\cap B) = \\frac{P(A)}{P(B)}$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If $P(A) = \\frac{1}{2}, P(B) = 0$ then $P(A/B) =$",
+      "prashna": "यदि $P(A) = \\frac{1}{2}, P(B) = 0$ तो $P(A/B) =$",
+      "options": {
+        "A": "0",
+        "B": "$\\frac{1}{2}$",
+        "C": "Undefined",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\\frac{1}{2}$",
+        "C": "अपरिभाषित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If events A and B are independent and $P(A) = \\frac{1}{2}, P(A \\cup B) = \\frac{3}{5}$ and $P(B) = p$, then the value of p is",
+      "prashna": "यदि घटनाएँ A और B स्वतंत्र हों तथा $P(A) = \\frac{1}{2}, P(A \\cup B) = \\frac{3}{5}$ तथा $P(B) = p$ तो p का मान है",
+      "options": {
+        "A": "5",
+        "B": "$\\frac{1}{5}$",
+        "C": "$\\frac{1}{13}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "$\\frac{1}{5}$",
+        "C": "$\\frac{1}{13}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If A and B are independent events, $P(A) = 0.3$ and $P(B) = 0.4$ then $P(A \\cap B) = $",
+      "prashna": "यदि A और B स्वतंत्र घटनाएँ हों, $P(A) = 0.3$ तथा $P(B) = 0.4$ हो तो $P(A \\cap B) = $",
+      "options": {
+        "A": "0.12",
+        "B": "0.21",
+        "C": "0.75",
+        "D": "0.7"
+      },
+      "vikalpa": {
+        "A": "0.12",
+        "B": "0.21",
+        "C": "0.75",
+        "D": "0.7"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "$P(A) = \\frac{7}{11}, P(B) = \\frac{9}{11}, P(A \\cap B) = \\frac{4}{11} \\Rightarrow P(A/B) =$",
+      "prashna": "$P(A) = \\frac{7}{11}, P(B) = \\frac{9}{11}, P(A \\cap B) = \\frac{4}{11} \\Rightarrow P(A/B) =$",
+      "options": {
+        "A": "$\\frac{7}{9}$",
+        "B": "$\\frac{4}{9}$",
+        "C": "1",
+        "D": "$\\frac{13}{22}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{7}{9}$",
+        "B": "$\\frac{4}{9}$",
+        "C": "1",
+        "D": "$\\frac{13}{22}$"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "$P(E) = \\frac{3}{7}, P(F) = \\frac{5}{7}, P(E \\cup F) = \\frac{6}{7} \\Rightarrow P(E \\cap F) =$",
+      "prashna": "$P(E) = \\frac{3}{7}, P(F) = \\frac{5}{7}, P(E \\cup F) = \\frac{6}{7} \\Rightarrow P(E \\cap F) =$",
+      "options": {
+        "A": "$\\frac{4}{7}$",
+        "B": "$\\frac{2}{7}$",
+        "C": "$\\frac{1}{7}$",
+        "D": "$\\frac{3}{7}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{4}{7}$",
+        "B": "$\\frac{2}{7}$",
+        "C": "$\\frac{1}{7}$",
+        "D": "$\\frac{3}{7}$"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If events A and B are independent then",
+      "prashna": "यदि घटनाएँ A और B स्वतंत्र हों तो",
+      "options": {
+        "A": "$P(A \\cap B) = P(A)P(B)$",
+        "B": "$P(A \\cup B) = P(A)+P(B)-P(A \\cap B)$",
+        "C": "$P(A \\cup B) = 0$",
+        "D": "$P(A \\cap B) = P(A)+P(B)$"
+      },
+      "vikalpa": {
+        "A": "$P(A \\cap B) = P(A)P(B)$",
+        "B": "$P(A \\cup B) = P(A)+P(B)-P(A \\cap B)$",
+        "C": "$P(A \\cup B) = 0$",
+        "D": "$P(A \\cap B) = P(A)+P(B)$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "The probability of drawing a king from a pack of 52 cards is",
+      "prashna": "52 पत्तों की ताश की एक गड्डी से एक बादशाह निकालने की प्रायिकता है",
+      "options": {
+        "A": "$\\frac{1}{13}$",
+        "B": "$\\frac{4}{13}$",
+        "C": "$\\frac{1}{52}$",
+        "D": "$\\frac{1}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{13}$",
+        "B": "$\\frac{4}{13}$",
+        "C": "$\\frac{1}{52}$",
+        "D": "$\\frac{1}{4}$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "$P(A) = \\frac{1}{3}, P(B) = \\frac{1}{4}, P(A \\cap B) = \\frac{1}{5} \\Rightarrow P(B/A) = $",
+      "prashna": "$P(A) = \\frac{1}{3}, P(B) = \\frac{1}{4}, P(A \\cap B) = \\frac{1}{5} \\Rightarrow P(B/A) = $",
+      "options": {
+        "A": "$\\frac{2}{5}$",
+        "B": "$\\frac{3}{5}$",
+        "C": "$\\frac{1}{5}$",
+        "D": "$\\frac{4}{5}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{5}$",
+        "B": "$\\frac{3}{5}$",
+        "C": "$\\frac{1}{5}$",
+        "D": "$\\frac{4}{5}$"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A coin is tossed 10 times. The probability of getting exactly six heads is",
+      "prashna": "एक सिक्के को 10 बार उछाला जाता है। ठीक छः चित आने की प्रायिकता है",
+      "options": {
+        "A": "$^{10}C_6 (\\frac{1}{2})^6$",
+        "B": "$^{10}C_6 (\\frac{1}{2})^7$",
+        "C": "$^{10}C_6 (\\frac{1}{2})^8$",
+        "D": "$^{10}C_6 (\\frac{1}{2})^{10}$"
+      },
+      "vikalpa": {
+        "A": "$^{10}C_6 (\\frac{1}{2})^6$",
+        "B": "$^{10}C_6 (\\frac{1}{2})^7$",
+        "C": "$^{10}C_6 (\\frac{1}{2})^8$",
+        "D": "$^{10}C_6 (\\frac{1}{2})^{10}$"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "$P(A)=\\frac{6}{11}, P(B)=\\frac{5}{11}, P(A \\cup B)=\\frac{7}{11} \\Rightarrow P(A \\cap B) = $",
+      "prashna": "$P(A)=\\frac{6}{11}, P(B)=\\frac{5}{11}, P(A \\cup B)=\\frac{7}{11} \\Rightarrow P(A \\cap B) = $",
+      "options": {
+        "A": "$\\frac{4}{11}$",
+        "B": "$\\frac{5}{11}$",
+        "C": "$\\frac{7}{11}$",
+        "D": "$\\frac{9}{11}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{4}{11}$",
+        "B": "$\\frac{5}{11}$",
+        "C": "$\\frac{7}{11}$",
+        "D": "$\\frac{9}{11}$"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Let E be an event of a sample space S of an experiment, then $P(S/E) =$",
+      "prashna": "मान लें कि E किसी प्रतिदर्श समष्टि S की घटना हैं तो $P(S/E) =$",
+      "options": {
+        "A": "$\\frac{1}{4}$",
+        "B": "$\\frac{1}{2}$",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{4}$",
+        "B": "$\\frac{1}{2}$",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If $P(A) = \\frac{5}{11}, P(B) = \\frac{7}{11}$ and $P(A \\cap B) = \\frac{3}{11}$ then $P(A/B) =$",
+      "prashna": "यदि $P(A) = \\frac{5}{11}, P(B) = \\frac{7}{11}$ तथा $P(A \\cap B) = \\frac{3}{11}$ तो $P(A/B) =$",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "$\\frac{3}{7}$",
+        "D": "$\\frac{5}{7}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "$\\frac{3}{7}$",
+        "D": "$\\frac{5}{7}$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A family has two children the probability that both the Children are boys given that at least one of them is a boy is",
+      "prashna": "एक परिवार में दो बच्चे हैं। यदि यह ज्ञात हो कि बच्चों में से कम से कम एक बच्चा लड़का है तो दोनों बच्चो के लड़का होने की प्रायिकता हैं",
+      "options": {
+        "A": "$\\frac{2}{3}$",
+        "B": "$\\frac{3}{4}$",
+        "C": "$\\frac{1}{3}$",
+        "D": "$\\frac{1}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{3}$",
+        "B": "$\\frac{3}{4}$",
+        "C": "$\\frac{1}{3}$",
+        "D": "$\\frac{1}{4}$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If $P(A) = \\frac{6}{11}, P(B) = \\frac{5}{11}$ and $P(A \\cup B) = \\frac{7}{11}$ then $P(A/B) =$",
+      "prashna": "यदि $P(A) = \\frac{6}{11}, P(B) = \\frac{5}{11}$ और $P(A \\cup B) = \\frac{7}{11}$ तो $P(A/B) =$",
+      "options": {
+        "A": "$\\frac{4}{5}$",
+        "B": "$\\frac{5}{6}$",
+        "C": "$\\frac{6}{7}$",
+        "D": "$\\frac{5}{7}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{4}{5}$",
+        "B": "$\\frac{5}{6}$",
+        "C": "$\\frac{6}{7}$",
+        "D": "$\\frac{5}{7}$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If E and F are independent events then $P(E' \\cap F') =$",
+      "prashna": "यदि E और F स्वतंत्र घटनाएँ है। तो $P(E' \\cap F') =$",
+      "options": {
+        "A": "$P(E) \\cdot P(F')$",
+        "B": "$P(E') \\cdot P(F')$",
+        "C": "$P(E) \\cdot P(F)$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$P(E) \\cdot P(F')$",
+        "B": "$P(E') \\cdot P(F')$",
+        "C": "$P(E) \\cdot P(F)$",
+        "D": "इनमें से सभी"
+      }
+    }
+  ]
+}

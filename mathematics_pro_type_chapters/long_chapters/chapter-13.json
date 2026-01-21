@@ -1,0 +1,42 @@
+{
+  "2022": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the mean of the number of heads in a toss of three coins.",
+      "prashna": "तीन सिक्कों की उछल में पृष्ठ की संख्या का माध्य ज्ञात करें ।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the mean of the number of heads in two tosses of a coin.",
+      "prashna": "एक सिक्के की दो उछालों में शीर्षों की संख्या का माध्य ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "In four throws, with a pair of dice what is the probability of occurrence of doublets twice at least?",
+      "prashna": "दो पासों को चार बार फेंकने में कम से कम दो बार एक ही अंक का जोड़ा आने की क्या प्रायिकता है?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the probability distribution of number of doublets in three throws of a pair of dice.",
+      "prashna": "पांसों के एक जोड़े को तीन बार उछालने पर द्विकों की संख्या का प्रायिकता बंटन ज्ञात कीजिए।"
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "2021": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solution of the differential equation $xdy + ydx = 0$ is",
+      "prashna": "अवकल समीकरण $xdy + ydx = 0$ का हल है",
+      "options": {
+        "A": "$\\frac{x^2}{2} + \\frac{y^2}{2} = k$",
+        "B": "$\\frac{x^2}{2} - \\frac{y^2}{2} = k$",
+        "C": "$xy=k$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x^2}{2} + \\frac{y^2}{2} = k$",
+        "B": "$\\frac{x^2}{2} - \\frac{y^2}{2} = k$",
+        "C": "$xy=k$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solution of the differential equation $\\frac{ydx - xdy}{y^2} = 0$ is",
+      "prashna": "अवकल समीकरण $\\frac{ydx - xdy}{y^2} = 0$ का हल है",
+      "options": {
+        "A": "$\\frac{y}{x} = k$",
+        "B": "$\\frac{x}{y^2} = k$",
+        "C": "$\\frac{x}{y} = k$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{y}{x} = k$",
+        "B": "$\\frac{x}{y^2} = k$",
+        "C": "$\\frac{x}{y} = k$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Integrating factor of the differential equation $\\frac{dy}{dx} + Py = Q$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + Py = Q$ का समाकलन गुणक है",
+      "options": {
+        "A": "$e^{\\int Qdx}$",
+        "B": "$e^{\\int Pdy}$",
+        "C": "$e^{\\int Pdx}$",
+        "D": "$e^{\\int Qdy}$"
+      },
+      "vikalpa": {
+        "A": "$e^{\\int Qdx}$",
+        "B": "$e^{\\int Pdy}$",
+        "C": "$e^{\\int Pdx}$",
+        "D": "$e^{\\int Qdy}$"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The order of the differential equation $(\\frac{d^2y}{dx^2})^3 + 2(\\frac{dy}{dx})^3 + 9y = \\sin x$ is",
+      "prashna": "अवकल समीकरण $(\\frac{d^2y}{dx^2})^3 + 2(\\frac{dy}{dx})^3 + 9y = \\sin x$ की कोटि है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $xdy + ydx = xy \\, dy$.",
+      "prashna": "हल करें: $xdy + ydx = xy \\, dy$."
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\tan y dx + \\tan x dy = 0$.",
+      "prashna": "हल करें: $\\tan y dx + \\tan x dy = 0$."
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $y(1+xy)dx - xdy = 0$.",
+      "prashna": "हल करें: $y(1+xy)dx - xdy = 0$."
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + 1 = e^{x+y}$.",
+      "prashna": "हल करें: $\\frac{dy}{dx} + 1 = e^{x+y}$."
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation $xdy + ydx = 0$ is",
+      "prashna": "अवकल समीकरण $xdy + ydx = 0$ का हल है",
+      "options": {
+        "A": "$x = y + c$",
+        "B": "$xy = c$",
+        "C": "$x + y = c$",
+        "D": "$x = y^2 + c$"
+      },
+      "vikalpa": {
+        "A": "$x = y + c$",
+        "B": "$xy = c$",
+        "C": "$x + y = c$",
+        "D": "$x = y^2 + c$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The order of the differential equation $(\\frac{d^2y}{dx^2})^3 + 2(\\frac{dy}{dx})^3 + 9y = \\sin x$ is",
+      "prashna": "अवकल समीकरण $(\\frac{d^2y}{dx^2})^3 + 2(\\frac{dy}{dx})^3 + 9y = \\sin x$ की कोटि है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation $\\frac{dy}{dx} + y = 1, y \\neq 1$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + y = 1, y \\neq 1$ का हल है",
+      "options": {
+        "A": "$y = 1 + Ae^{-x}$",
+        "B": "$y = Ae^x$",
+        "C": "$y = Ae^{2x}$",
+        "D": "$y = 1 + Ae^{3x}$"
+      },
+      "vikalpa": {
+        "A": "$y = 1 + Ae^{-x}$",
+        "B": "$y = Ae^x$",
+        "C": "$y = Ae^{2x}$",
+        "D": "$y = 1 + Ae^{3x}$"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The integrating factor of the differential equation $\\frac{dy}{dx} + 2y = \\cos x$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + 2y = \\cos x$ का समाकलन गुणक है",
+      "options": {
+        "A": "$e^{2x}$",
+        "B": "$e^{-2x}$",
+        "C": "$e^{\\cos x}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$e^{2x}$",
+        "B": "$e^{-2x}$",
+        "C": "$e^{\\cos x}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve.",
+      "prashna": "हल करे।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $y - x\\frac{dy}{dx} = 2(y^2 + \\frac{dy}{dx})$",
+      "prashna": "हल करे : $y - x\\frac{dy}{dx} = 2(y^2 + \\frac{dy}{dx})$"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + 2y\\tan x = \\sin x$",
+      "prashna": "हल करे : $\\frac{dy}{dx} + 2y\\tan x = \\sin x$"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x \\cos(\\frac{y}{x}) (y dx + x dy) = y \\sin(\\frac{y}{x}) (x dy - y dx)$",
+      "prashna": "हल करे : $x \\cos(\\frac{y}{x}) (y dx + x dy) = y \\sin(\\frac{y}{x}) (x dy - y dx)$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation $x^2dx + y^2dy = 0$ is",
+      "prashna": "अवकल समीकरण $x^2dx + y^2dy = 0$ का हल है",
+      "options": {
+        "A": "$x^3 + y^3 = k$",
+        "B": "$x^2 + y^2 = k$",
+        "C": "$x^2 - y^2 = k$",
+        "D": "$x^3 - y^3 = k$"
+      },
+      "vikalpa": {
+        "A": "$x^3 + y^3 = k$",
+        "B": "$x^2 + y^2 = k$",
+        "C": "$x^2 - y^2 = k$",
+        "D": "$x^3 - y^3 = k$"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation $e^{3x}dx + e^{4y}dy = 0$ is",
+      "prashna": "अवकल समीकरण $e^{3x}dx + e^{4y}dy = 0$ का हल है",
+      "options": {
+        "A": "$e^{3x+4y}=k$",
+        "B": "$e^{3x} + e^{4y} = k$",
+        "C": "$\\frac{1}{3}e^{3x} + \\frac{1}{4}e^{4y} = k$",
+        "D": "$e^{3x} + e^{4y} + e^{3x+4y} = k$"
+      },
+      "vikalpa": {
+        "A": "$e^{3x+4y}=k$",
+        "B": "$e^{3x} + e^{4y} = k$",
+        "C": "$\\frac{1}{3}e^{3x} + \\frac{1}{4}e^{4y} = k$",
+        "D": "$e^{3x} + e^{4y} + e^{3x+4y} = k$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation $\\frac{dx}{x} + \\frac{dy}{y} = 0$ is",
+      "prashna": "अवकल समीकरण $\\frac{dx}{x} + \\frac{dy}{y} = 0$ का हल है",
+      "options": {
+        "A": "$x = ky$",
+        "B": "$\\frac{1}{x} + \\frac{1}{y} = k$",
+        "C": "$x + y = k$",
+        "D": "$xy = k$"
+      },
+      "vikalpa": {
+        "A": "$x = ky$",
+        "B": "$\\frac{1}{x} + \\frac{1}{y} = k$",
+        "C": "$x + y = k$",
+        "D": "$xy = k$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The integrating factor of the differential equation $\\frac{dy}{dx} - y \\sin x = \\cot x$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} - y \\sin x = \\cot x$ का समाकलन गुणक है",
+      "options": {
+        "A": "$\\sin x$",
+        "B": "$e^{-\\sin x}$",
+        "C": "$e^{\\sin x}$",
+        "D": "$e^{\\cos x}$"
+      },
+      "vikalpa": {
+        "A": "$\\sin x$",
+        "B": "$e^{-\\sin x}$",
+        "C": "$e^{\\sin x}$",
+        "D": "$e^{\\cos x}$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation dx + dy = 0 is",
+      "prashna": "अवकल समीकरण dx + dy = 0 का हल है",
+      "options": {
+        "A": "$x = ky$",
+        "B": "$x^2 + y^2 = k$",
+        "C": "$x + y = k$",
+        "D": "$xy = k$"
+      },
+      "vikalpa": {
+        "A": "$x = ky$",
+        "B": "$x^2 + y^2 = k$",
+        "C": "$x + y = k$",
+        "D": "$xy = k$"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The integrating factor of the differential equation $\\frac{dy}{dx} + \\frac{2y}{x} = 5x^2$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + \\frac{2y}{x} = 5x^2$ का समाकलन गुणक है",
+      "options": {
+        "A": "$\\frac{2}{x}$",
+        "B": "$2e^x$",
+        "C": "$2\\log x$",
+        "D": "$x^2$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{x}$",
+        "B": "$2e^x$",
+        "C": "$2\\log x$",
+        "D": "$x^2$"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x\\frac{dy}{dx} - y = 2x^2y$.",
+      "prashna": "हल करें: $x\\frac{dy}{dx} - y = 2x^2y$।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + \\frac{2y}{x} = \\frac{1}{x^2}$.",
+      "prashna": "हल करें: $\\frac{dy}{dx} + \\frac{2y}{x} = \\frac{1}{x^2}$।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(x^2 + y^2)\\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें: $(x^2 + y^2)\\frac{dy}{dx} = 2xy$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The order and degree of the differential equation $xy \\frac{d^2y}{dx^2} + x (\\frac{dy}{dx})^2 - y \\frac{dy}{dx} = 0$ is",
+      "prashna": "अवकल समीकरण $xy \\frac{d^2y}{dx^2} + x (\\frac{dy}{dx})^2 - y \\frac{dy}{dx} = 0$ की कोटि और घात है",
+      "options": {
+        "A": "order = 2, degree = 1",
+        "B": "order = 2, degree = 2",
+        "C": "order = 1, degree = 2",
+        "D": "order = 1, degree = 1"
+      },
+      "vikalpa": {
+        "A": "कोटि = 2, घात = 1",
+        "B": "कोटि = 2, घात = 2",
+        "C": "कोटि = 1, घात = 2",
+        "D": "कोटि = 1, घात = 1"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The integrating factor of the differential equation $\\frac{dy}{dx} + 2y = \\sin x$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + 2y = \\sin x$ का समाकलन गुणक है",
+      "options": {
+        "A": "$e^x$",
+        "B": "$e^{3x}$",
+        "C": "$e^{2x}$",
+        "D": "$e^{4x}$"
+      },
+      "vikalpa": {
+        "A": "$e^x$",
+        "B": "$e^{3x}$",
+        "C": "$e^{2x}$",
+        "D": "$e^{4x}$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of the differential equation $\\frac{dy}{dx} = e^{x+y}$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} = e^{x+y}$ का हल है",
+      "options": {
+        "A": "$e^x + e^{-y} = c$",
+        "B": "$e^x + e^y = c$",
+        "C": "$e^{-x} + e^y = c$",
+        "D": "$e^{-x} + e^{-y} = c$"
+      },
+      "vikalpa": {
+        "A": "$e^x + e^{-y} = c$",
+        "B": "$e^x + e^y = c$",
+        "C": "$e^{-x} + e^y = c$",
+        "D": "$e^{-x} + e^{-y} = c$"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The solution of differential equation $\\frac{dy}{dx} = \\frac{y}{x}$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} = \\frac{y}{x}$ का हल है",
+      "options": {
+        "A": "$y=\\log |x| + c$",
+        "B": "$y=cx$",
+        "C": "$y=x\\log |x| + cx$",
+        "D": "$y=\\log |x| + cx$"
+      },
+      "vikalpa": {
+        "A": "$y=\\log |x| + c$",
+        "B": "$y=cx$",
+        "C": "$y=x\\log |x| + cx$",
+        "D": "$y=\\log |x| + cx$"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "The integrating factor of the differential equation $\\frac{dy}{dx} + 2y = e^{3x}$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + 2y = e^{3x}$ का समाकलन गुणक है",
+      "options": {
+        "A": "$e^{3x}$",
+        "B": "$e^{2x}$",
+        "C": "$e^x$",
+        "D": "$e^{4x}$"
+      },
+      "vikalpa": {
+        "A": "$e^{3x}$",
+        "B": "$e^{2x}$",
+        "C": "$e^x$",
+        "D": "$e^{4x}$"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x^2 \\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें : $x^2 \\frac{dy}{dx} = 2xy$."
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} = e^{x+y}$.",
+      "prashna": "हल करें : $\\frac{dy}{dx} = e^{x+y}$."
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(1+x^2) \\frac{dy}{dx} + y = \\tan^{-1} x$.",
+      "prashna": "हल करें: $(1+x^2) \\frac{dy}{dx} + y = \\tan^{-1} x$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Degree of the differential Equation $x \\frac{d^2y}{dx^2} + xy (\\frac{dy}{dx})^2 - xy \\frac{dy}{dx} = 0$ is",
+      "prashna": "अवकल समीकरण $x \\frac{d^2y}{dx^2} + xy (\\frac{dy}{dx})^2 - xy \\frac{dy}{dx} = 0$ का घात हैं",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Integrating factor of the differential Equation $\\frac{dy}{dx} + y \\log x = \\cos x$ is",
+      "prashna": "अवकल समीकरण $\\frac{dy}{dx} + y \\log x = \\cos x$ का समाकलन गुणक हैं",
+      "options": {
+        "A": "$x$",
+        "B": "$e^{x \\log x - x}$",
+        "C": "$e^{x(1-\\log x)}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x$",
+        "B": "$e^{x \\log x - x}$",
+        "C": "$e^{x(1-\\log x)}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solution of Differential equation $y \\log y \\, dx - x \\, dy = 0$ is",
+      "prashna": "अवकल समीकरण $y \\log y \\, dx - x \\, dy = 0$ का हल है",
+      "options": {
+        "A": "$xy = e^{cx}$",
+        "B": "$ye^x = C$",
+        "C": "$x = e^{cy}$",
+        "D": "$y = e^{cx}$"
+      },
+      "vikalpa": {
+        "A": "$xy = e^{cx}$",
+        "B": "$ye^x = C$",
+        "C": "$x = e^{cy}$",
+        "D": "$y = e^{cx}$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solution of differential equation $\\frac{dx}{dy} = \\frac{1+y^2}{1+x^2}$ is",
+      "prashna": "अवकल समीकरण $\\frac{dx}{dy} = \\frac{1+y^2}{1+x^2}$ का हल है",
+      "options": {
+        "A": "$(y+\\frac{y^3}{3}) = (x+\\frac{x^3}{3}) + k$",
+        "B": "$\\frac{\\tan^{-1} x}{\\tan^{-1} y} = k$",
+        "C": "$\\tan^{-1} x - \\tan^{-1} y = k$",
+        "D": "$(\\tan^{-1} x)(\\tan^{-1} y) = k$"
+      },
+      "vikalpa": {
+        "A": "$(y+\\frac{y^3}{3}) = (x+\\frac{x^3}{3}) + k$",
+        "B": "$\\frac{\\tan^{-1} x}{\\tan^{-1} y} = k$",
+        "C": "$\\tan^{-1} x - \\tan^{-1} y = k$",
+        "D": "$(\\tan^{-1} x)(\\tan^{-1} y) = k$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Integrating factor of differential equation $\\frac{dx}{dy} + 3x = e^{2y}$ is",
+      "prashna": "अवकल समीकरण $\\frac{dx}{dy} + 3x = e^{2y}$ का समाकलन गुणक है",
+      "options": {
+        "A": "$e^{3y}$",
+        "B": "$e^{3x}$",
+        "C": "$3y$",
+        "D": "$3x$"
+      },
+      "vikalpa": {
+        "A": "$e^{3y}$",
+        "B": "$e^{3x}$",
+        "C": "$3y$",
+        "D": "$3x$"
+      }
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Find the integrating factor of the differential equation $(1 - x^2)\\frac{dy}{dx} - xy = 1$.",
+      "prashna": "अवकल समीकरण $(1 - x^2)\\frac{dy}{dx} - xy = 1$ का समाकलन गुणक ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + y = e^{-x}$",
+      "prashna": "हल करें: $\\frac{dy}{dx} + y = e^{-x}$"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(1 + \\tan y)(dx - dy) + 2xdy = 0$",
+      "prashna": "हल करें: $(1 + \\tan y)(dx - dy) + 2xdy = 0$"
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "2021": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Standard equation of the plane in intercept form is",
+      "prashna": "अंतःखंड के रूप में तल का मानक समीकरण है",
+      "options": {
+        "A": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 0$",
+        "B": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1$",
+        "C": "$\\frac{x}{a} - \\frac{y}{b} - \\frac{z}{c} = 0$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 0$",
+        "B": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1$",
+        "C": "$\\frac{x}{a} - \\frac{y}{b} - \\frac{z}{c} = 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance of the point (-3, -4, -5) from the origin is",
+      "prashna": "मूल बिन्दु से बिन्दु (-3, -4, -5) की दूरी है",
+      "options": {
+        "A": "6",
+        "B": "$5\\sqrt{2}$",
+        "C": "50",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "$5\\sqrt{2}$",
+        "C": "50",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance between (-4, -3, 7) and (-1, 1, -5) is",
+      "prashna": "(-4, -3, 7) और (-1, 1, -5) के बीच की दूरी है",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If a line makes angles $\\alpha, \\beta$ and $\\gamma$ with the positive directions of $x, y$ and $z$ axes respectively, then",
+      "prashna": "एक सरल रेखा $x, y$ और $z$-अक्ष के धन दिशा के साथ क्रमशः $\\alpha, \\beta$ और $\\gamma$ कोण बनाती है, तो",
+      "options": {
+        "A": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma + 1 = 0$",
+        "B": "$\\sin^2\\alpha + \\sin^2\\beta + \\sin^2\\gamma = 1$",
+        "C": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 2$",
+        "D": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$"
+      },
+      "vikalpa": {
+        "A": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma + 1 = 0$",
+        "B": "$\\sin^2\\alpha + \\sin^2\\beta + \\sin^2\\gamma = 1$",
+        "C": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 2$",
+        "D": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The angle between the straight lines $2x=3y=-z$ and $6x=-y=-4z$ is",
+      "prashna": "सरल रेखायें $2x=3y=-z$ और $6x=-y=-4z$ के बीच का कोण है",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "$\\frac{\\pi}{6}$",
+        "D": "$\\frac{\\pi}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "$\\frac{\\pi}{6}$",
+        "D": "$\\frac{\\pi}{4}$"
+      }
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "A straight line makes angles of $45^\\circ$ and $60^\\circ$ with the positive direction of the x and y-axes respectively. What angle does it make with the positive direction of the z-axis?",
+      "prashna": "कोई सरल रेखा x और y-अक्षों की धनात्मक दिशा के साथ क्रमशः $45^\\circ$ और $60^\\circ$ का कोण बनाती है। यह z-अक्ष की धनात्मक दिशा के साथ कितना कोण बनाएगी ?"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the equation of the plane whose intercepts on the axes of x, y and z are respectively 3, 4 and -5.",
+      "prashna": "तल का समीकरण ज्ञात कीजिए जिसके x, y और z अक्षों पर अंतःखण्ड क्रमशः 3, 4 और -5 हैं।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the image of the point $(3, 1, -4)$ with respect to the plane $3x + 4y - 5z = 2$.",
+      "prashna": "तल $3x + 4y - 5z = 2$ के सापेक्ष बिन्दु $(3, 1, -4)$ का प्रतिबिम्ब ज्ञात कीजिए।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The sum of the direction cosines of x-axis is",
+      "prashna": "x-अक्ष की दिक कोज्याओ का योग है",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The intercepts cut by the plane $2x + y - z = 5$ on x-, y- and z-axes are respectively",
+      "prashna": "समतल $2x + y - z = 5$ द्वारा x-, y- तथा z-अक्ष पर काटे गए अंतः खंड क्रमशः हैं",
+      "options": {
+        "A": "$\\frac{5}{2}, 5, -\\frac{1}{5}$",
+        "B": "$\\frac{5}{2}, 5, 5$",
+        "C": "$\\frac{5}{2}, 5, -5$",
+        "D": "2, 1, -1"
+      },
+      "vikalpa": {
+        "A": "$\\frac{5}{2}, 5, -\\frac{1}{5}$",
+        "B": "$\\frac{5}{2}, 5, 5$",
+        "C": "$\\frac{5}{2}, 5, -5$",
+        "D": "2, 1, -1"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance of the point (2, -3, -1) from the plane $2x - 3y + 6z + 7 = 0$ is",
+      "prashna": "बिन्दु (2, -3, -1) से ताल $2x - 3y + 6z + 7 = 0$ की दूरी है",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "6",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "6",
+        "D": "7"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the plane $ax + by + cz + d = 0$ is parallel to the line $\\frac{x-2}{3} = \\frac{y-3}{4} = \\frac{z-5}{6}$, then",
+      "prashna": "यदि तल $ax + by + cz + d = 0$ के समांतर रेखा $\\frac{x-2}{3} = \\frac{y-3}{4} = \\frac{z-5}{6}$ हो तो",
+      "options": {
+        "A": "$2a + 3b + 5c = 0$",
+        "B": "$3a + 4b + 5c = 0$",
+        "C": "$3a + 4b + 6c = 0$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$2a + 3b + 5c = 0$",
+        "B": "$3a + 4b + 5c = 0$",
+        "C": "$3a + 4b + 6c = 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the line $\\frac{x-2}{a} = \\frac{y-3}{b} = \\frac{z-4}{c}$ is parallel to the line $\\frac{x}{4} = \\frac{y}{2} = \\frac{z}{3}$, then",
+      "prashna": "यदि रेखा $\\frac{x-2}{a} = \\frac{y-3}{b} = \\frac{z-4}{c}$ रेखा $\\frac{x}{4} = \\frac{y}{2} = \\frac{z}{3}$ के समांतर हो तो",
+      "options": {
+        "A": "$4a + 2b + 3c = 0$",
+        "B": "$4a = 2b = 3c$",
+        "C": "$\\frac{a}{4} = \\frac{b}{2} = \\frac{c}{3}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$4a + 2b + 3c = 0$",
+        "B": "$4a = 2b = 3c$",
+        "C": "$\\frac{a}{4} = \\frac{b}{2} = \\frac{c}{3}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance of the plane $2x - 3y + 4z = 6$ from the origin is",
+      "prashna": "मूल बिन्दु से तल $2x - 3y + 4z = 6$ की दूरी है",
+      "options": {
+        "A": "$\\frac{6}{\\sqrt{35}}$",
+        "B": "$\\frac{6}{\\sqrt{29}}$",
+        "C": "$\\frac{6}{\\sqrt{29}}$",
+        "D": "$\\frac{6}{\\sqrt{31}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{6}{\\sqrt{35}}$",
+        "B": "$\\frac{6}{\\sqrt{29}}$",
+        "C": "$\\frac{6}{\\sqrt{29}}$",
+        "D": "$\\frac{6}{\\sqrt{31}}$"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The angle between the planes $2x + y - 2z = 5$ and $3x - 6y - 2z = 7$ is",
+      "prashna": "तलों $2x + y - 2z = 5$ तथा $3x - 6y - 2z = 7$ के बीच का कोण है",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\cos^{-1}(\\frac{4}{21})$",
+        "D": "$\\cos^{-1}(\\frac{16}{21})$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\cos^{-1}(\\frac{4}{21})$",
+        "D": "$\\cos^{-1}(\\frac{16}{21})$"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction cosines of a line with direction ratios 2, -1, -2 are",
+      "prashna": "2, -1, -2 दिक अनुपात वाले रेखा की दिक कोज्याएँ हैं",
+      "options": {
+        "A": "$\\frac{2}{3}, -\\frac{1}{3}, -\\frac{2}{3}$",
+        "B": "$\\frac{2}{\\sqrt{14}}, -\\frac{1}{\\sqrt{14}}, -\\frac{2}{\\sqrt{14}}$",
+        "C": "$\\frac{2}{5}, -\\frac{1}{5}, -\\frac{2}{5}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{3}, -\\frac{1}{3}, -\\frac{2}{3}$",
+        "B": "$\\frac{2}{\\sqrt{14}}, -\\frac{1}{\\sqrt{14}}, -\\frac{2}{\\sqrt{14}}$",
+        "C": "$\\frac{2}{5}, -\\frac{1}{5}, -\\frac{2}{5}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the direction cosines of a straight line are $\\frac{3}{\\sqrt{77}}, \\frac{-2}{\\sqrt{77}}, x$, then the value of x is",
+      "prashna": "यदि किसी सीधी रेखा की दिक् कोज्याएँ $\\frac{3}{\\sqrt{77}}, \\frac{-2}{\\sqrt{77}}, x$ हैं, तो x का मान है",
+      "options": {
+        "A": "$\\frac{6}{\\sqrt{77}}$",
+        "B": "$\\frac{8}{\\sqrt{77}}$",
+        "C": "$\\frac{9}{\\sqrt{77}}$",
+        "D": "$\\frac{1}{\\sqrt{77}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{6}{\\sqrt{77}}$",
+        "B": "$\\frac{8}{\\sqrt{77}}$",
+        "C": "$\\frac{9}{\\sqrt{77}}$",
+        "D": "$\\frac{1}{\\sqrt{77}}$"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction ratios of the normal to the plane $3x + 4y + 5z - 6 = 0$ are",
+      "prashna": "तल $3x + 4y + 5z - 6 = 0$ पर अभिलम्ब के दिक् अनुपात हैं।",
+      "options": {
+        "A": "3, 4, 5",
+        "B": "-3, 4, 5",
+        "C": "3, -4, 5",
+        "D": "2, 3, -4"
+      },
+      "vikalpa": {
+        "A": "3, 4, 5",
+        "B": "-3, 4, 5",
+        "C": "3, -4, 5",
+        "D": "2, 3, -4"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Which of the following planes is parallel to the plane $x = 0$?",
+      "prashna": "निम्नलिखित में कौन तल, तल $x = 0$ के समांतर है?",
+      "options": {
+        "A": "$x = -5$",
+        "B": "$y = 0$",
+        "C": "$z = 5$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x = -5$",
+        "B": "$y = 0$",
+        "C": "$z = 5$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The equation of a plane parallel to the plane $2x - 3y + 4z = 7$ is",
+      "prashna": "तल $2x - 3y + 4z = 7$ के समांतर एक तल का समीकरण है",
+      "options": {
+        "A": "$2x - 3y - 4z = 7$",
+        "B": "$2x - 3y + 4z = 11$",
+        "C": "$2x + 4y - 3z = 11$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$2x - 3y - 4z = 7$",
+        "B": "$2x - 3y + 4z = 11$",
+        "C": "$2x + 4y - 3z = 11$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The equation of the plane perpendicular to the plane $4x + 3y - z + 1 = 0$ is",
+      "prashna": "तल $4x + 3y - z + 1 = 0$ पर लम्ब तल का समीकरण है",
+      "options": {
+        "A": "$x - 5y - 11z + 7 = 0$",
+        "B": "$x - y - z = 2$",
+        "C": "$3x - 11y + 92 = 1$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x - 5y - 11z + 7 = 0$",
+        "B": "$x - y - z = 2$",
+        "C": "$3x - 11y + 92 = 1$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the acute angle between two lines whose direction ratios are (1, 1, 2) and ($\\sqrt{3} - 1, \\sqrt{3} - 1, 4$).",
+      "prashna": "दो रेखाओं के बीच का न्यूनकोण ज्ञात करे जिनके दिक अनुपात (1, 1, 2) और ($\\sqrt{3} – 1, \\sqrt{3} – 1, 4) हैं।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the value of k so that the lines $\\frac{x-1}{-1} = \\frac{y+3}{k} = \\frac{z-7}{2}$ and $\\frac{x+1}{k} = \\frac{y}{2} = \\frac{z+6}{-3}$ are mutually perpendicular.",
+      "prashna": "k का मान ज्ञात करे जिससे सरल रेखाएँ $\\frac{x-1}{-1} = \\frac{y+3}{k} = \\frac{z-7}{2}$ तथा $\\frac{x+1}{k} = \\frac{y}{2} = \\frac{z+6}{-3}$ परस्पर लम्ब हों।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the direction cosines of the line joining the two points (-2, 4, -5) and (1, 2, 3).",
+      "prashna": "दो बिन्दुओं (-2, 4, -5) और (1, 2, 3) को मिलाने वाली रेखा की दिक-कोसाइन ज्ञात करे।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the shortest distance between the lines $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + \\hat{k})$ and $\\vec{r} = (2\\hat{i} - 2\\hat{j} - \\hat{k}) + \\mu(\\hat{i} + \\hat{j} + 2\\hat{k})$.",
+      "prashna": "रेखाओं $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + \\hat{k})$ तथा $\\vec{r} = (2\\hat{i} - 2\\hat{j} - \\hat{k}) + \\mu(\\hat{i} + \\hat{j} + 2\\hat{k})$ के बीच की लघुत्तम दूरी ज्ञात करे।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the direction cosines of a line be $\\frac{4}{\\sqrt{77}}$, $\\frac{5}{\\sqrt{77}}$ and $\\frac{x}{\\sqrt{77}}$ then a value of x is",
+      "prashna": "यदि एक रेखा की दिक् कोज्याएँ $\\frac{4}{\\sqrt{77}}$, $\\frac{5}{\\sqrt{77}}$ तथा $\\frac{x}{\\sqrt{77}}$ हों तो x का एक मान है",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Distance of the plane $3x - 4y + 6z = 11$ from origin is",
+      "prashna": "तल $3x - 4y + 6z = 11$ की मूल बिन्दु से दूरी है",
+      "options": {
+        "A": "$\\frac{3}{\\sqrt{61}}$",
+        "B": "$\\frac{11}{\\sqrt{61}}$",
+        "C": "$\\frac{6}{\\sqrt{61}}$",
+        "D": "$\\frac{4}{\\sqrt{61}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{3}{\\sqrt{61}}$",
+        "B": "$\\frac{11}{\\sqrt{61}}$",
+        "C": "$\\frac{6}{\\sqrt{61}}$",
+        "D": "$\\frac{4}{\\sqrt{61}}$"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Direction ratios of the normal to the plane $x + 2y - 3z + 15 = 0$ are",
+      "prashna": "तल $x + 2y - 3z + 15 = 0$ के अभिलम्ब के दिक् अनुपात हैं",
+      "options": {
+        "A": "1, 2, 3",
+        "B": "1, -2, 3",
+        "C": "1, 2, -3",
+        "D": "1, 2, 15"
+      },
+      "vikalpa": {
+        "A": "1, 2, 3",
+        "B": "1, -2, 3",
+        "C": "1, 2, -3",
+        "D": "1, 2, 15"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction ratios of the straight line $\\frac{x+1}{3} = \\frac{y-2}{3} = \\frac{z-5}{6}$ are",
+      "prashna": "सरल रेखा $\\frac{x+1}{3} = \\frac{y-2}{3} = \\frac{z-5}{6}$ के दिक् अनुपात हैं",
+      "options": {
+        "A": "1, -2, 5",
+        "B": "3, 2, 5",
+        "C": "3, 3, 6",
+        "D": "1, 3, 5"
+      },
+      "vikalpa": {
+        "A": "1, -2, 5",
+        "B": "3, 2, 5",
+        "C": "3, 3, 6",
+        "D": "1, 3, 5"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Through which of the following points does the straight line $\\frac{x-100}{101} = \\frac{y-99}{102} = \\frac{z-98}{103}$ pass ?",
+      "prashna": "सरल रेखा $\\frac{x-100}{101} = \\frac{y-99}{102} = \\frac{z-98}{103}$ निम्नलिखित में से किस बिन्दु से गुजरती है ?",
+      "options": {
+        "A": "(101, 102, 103)",
+        "B": "(98, 99, 100)",
+        "C": "(100, 99, 98)",
+        "D": "(99, 100, 101)"
+      },
+      "vikalpa": {
+        "A": "(101, 102, 103)",
+        "B": "(98, 99, 100)",
+        "C": "(100, 99, 98)",
+        "D": "(99, 100, 101)"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Equation of a plane parallel to the plane $x - 8y - 9z = 12$ is",
+      "prashna": "तल $x - 8y - 9z = 12$ के समांतर एक तल का समीकरण है",
+      "options": {
+        "A": "$x + 8y + 9z = 12$",
+        "B": "$x - 8y - 9z = 2023$",
+        "C": "$8x - y - 9z = 12$",
+        "D": "$x - 9y - 8z = 12$"
+      },
+      "vikalpa": {
+        "A": "$x + 8y + 9z = 12$",
+        "B": "$x - 8y - 9z = 2023$",
+        "C": "$8x - y - 9z = 12$",
+        "D": "$x - 9y - 8z = 12$"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The intercept cut off on x-axis by the plane $3x + 4y + 5z = 13$ is",
+      "prashna": "समतल $3x + 4y + 5z = 13$ द्वारा x-अक्ष पर काटा गया अंतःखण्ड है",
+      "options": {
+        "A": "$\\frac{3}{13}$",
+        "B": "$\\frac{13}{3}$",
+        "C": "$\\frac{13}{4}$",
+        "D": "$\\frac{13}{5}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{3}{13}$",
+        "B": "$\\frac{13}{3}$",
+        "C": "$\\frac{13}{4}$",
+        "D": "$\\frac{13}{5}$"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the line $\\frac{x}{-1} = \\frac{y}{2} = \\frac{z}{3}$ is parallel to the plane $ax + by + cz + d = 0$ then",
+      "prashna": "यदि तल $ax + by + cz + d = 0$ के समांतर रेखा $\\frac{x}{-1} = \\frac{y}{2} = \\frac{z}{3}$ हो तो",
+      "options": {
+        "A": "$a + 2b + 3c = 0$",
+        "B": "$-a + 2b + 3c = 0$",
+        "C": "$3a + b + 2c = 0$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$a + 2b + 3c = 0$",
+        "B": "$-a + 2b + 3c = 0$",
+        "C": "$3a + b + 2c = 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If two planes $a_1x + b_1y + c_1z + d_1 = 0$ and $a_2x + b_2y + c_2z + d_2 = 0$ are mutually perpendicular then",
+      "prashna": "यदि दो तल $a_1x + b_1y + c_1z + d_1 = 0$ तथा $a_2x + b_2y + c_2z + d_2 = 0$ परस्पर लम्ब हों तो",
+      "options": {
+        "A": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "B": "$\\frac{a_1}{a_2} + \\frac{b_1}{b_2} + \\frac{c_1}{c_2} = 0$",
+        "C": "$a_1a_2 + b_1b_2 + c_1c_2 = 0$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "B": "$\\frac{a_1}{a_2} + \\frac{b_1}{b_2} + \\frac{c_1}{c_2} = 0$",
+        "C": "$a_1a_2 + b_1b_2 + c_1c_2 = 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the direction ratios of two parallel lines are x, 5, 3 and 20, 10, 6 then the value of x is",
+      "prashna": "यदि दो समांतर रेखाओं के दिक् अनुपात x, 5, 3 तथा 20, 10, 6 हैं तो x का मान है",
+      "options": {
+        "A": "10",
+        "B": "5",
+        "C": "3",
+        "D": "40"
+      },
+      "vikalpa": {
+        "A": "10",
+        "B": "5",
+        "C": "3",
+        "D": "40"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the direction ratios of two parallel lines are $a_1, b_1, c_1$ and $a_2, b_2, c_2$ then $\\frac{a_1c_2}{a_2} = $",
+      "prashna": "यदि दो समांतर रेखाओं के दिक् अनुपात $a_1, b_1, c_1$ तथा $a_2, b_2, c_2$ हैं तो $\\frac{a_1c_2}{a_2} = $",
+      "options": {
+        "A": "$b_1$",
+        "B": "$b_2$",
+        "C": "$b_3$",
+        "D": "$c_1$"
+      },
+      "vikalpa": {
+        "A": "$b_1$",
+        "B": "$b_2$",
+        "C": "$b_3$",
+        "D": "$c_1$"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the direction ratios of two mutually perpendicular lines are 2, 3, 5 and x, y, 4 then $2x + 3y =$",
+      "prashna": "यदि दो परस्पर लम्ब रेखाओं के दिक् अनुपात 2, 3, 5 तथा x, y, 4 हों तो $2x + 3y =$",
+      "options": {
+        "A": "20",
+        "B": "-20",
+        "C": "30",
+        "D": "-30"
+      },
+      "vikalpa": {
+        "A": "20",
+        "B": "-20",
+        "C": "30",
+        "D": "-30"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the acute angle between the lines $\\frac{x}{2} = \\frac{y}{2} = \\frac{z}{1}$ and $\\frac{x}{5} = \\frac{y}{4} = \\frac{z}{-3}$.",
+      "prashna": "रेखाओं $\\frac{x}{2} = \\frac{y}{2} = \\frac{z}{1}$ तथा $\\frac{x}{5} = \\frac{y}{4} = \\frac{z}{-3}$ के बीच का न्यून कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the angle between the planes $x + 2y + 3z = 6$ and $3x - 3y + z = 1$.",
+      "prashna": "तलों $x + 2y + 3z = 6$ तथा $3x - 3y + z = 1$ के बीच का कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the distance of the point $(4, -5, 6)$ from the plane $\\vec{r} \\cdot (4\\vec{i} - 4\\vec{j} + 7\\vec{k}) = -6$.",
+      "prashna": "बिन्दु $(4, -5, 6)$ की तल $\\vec{r} \\cdot (4\\vec{i} - 4\\vec{j} + 7\\vec{k}) = -6$ से दूरी ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The equation of the xy-plane is",
+      "prashna": "xy-तल का समीकरण है",
+      "options": {
+        "A": "$x=0$",
+        "B": "$y=0$",
+        "C": "$z=0$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$x=0$",
+        "B": "$y=0$",
+        "C": "$z=0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction cosines of z-axis are",
+      "prashna": "z-अक्ष की दिक्-कोज्याएँ हैं",
+      "options": {
+        "A": "(1, 0, 1)",
+        "B": "(0, 0, 1)",
+        "C": "(0, 1, 0)",
+        "D": "(0, 0, 0)"
+      },
+      "vikalpa": {
+        "A": "(1, 0, 1)",
+        "B": "(0, 0, 1)",
+        "C": "(0, 1, 0)",
+        "D": "(0, 0, 0)"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance between the points (4, 3, 7) and (1, -1, -5) is",
+      "prashna": "बिन्दुओं (4, 3, 7) और (1, -1, -5) के बीच की दूरी है",
+      "options": {
+        "A": "13",
+        "B": "15",
+        "C": "12",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "13",
+        "B": "15",
+        "C": "12",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction ratios of two straight lines are $l, m, n$ and $l_1, m_1, n_1$. The lines will be perpendicular to each other if",
+      "prashna": "दो सरल रेखाओं के दिक् अनुपात $l, m, n$ और $l_1, m_1, n_1$ हैं। रेखाएँ एक-दूसरे पर लम्ब होंगी यदि",
+      "options": {
+        "A": "$\\frac{l}{l_1} = \\frac{m}{m_1} = \\frac{n}{n_1}$",
+        "B": "$\\frac{l}{l_1} + \\frac{m}{m_1} + \\frac{n}{n_1} = 0$",
+        "C": "$l^2+m^2+n^2=l_1^2+m_1^2+n_1^2$",
+        "D": "$ll_1+mm_1+nn_1=0$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{l}{l_1} = \\frac{m}{m_1} = \\frac{n}{n_1}$",
+        "B": "$\\frac{l}{l_1} + \\frac{m}{m_1} + \\frac{n}{n_1} = 0$",
+        "C": "$l^2+m^2+n^2=l_1^2+m_1^2+n_1^2$",
+        "D": "$ll_1+mm_1+nn_1=0$"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction ratios of a straight line are 1, 3, 5. Then its direction cosines are",
+      "prashna": "किसी सरल रेखा के दिक् अनुपात 1, 3, 5 हैं तो रेखा की दिक्-कोज्याएँ हैं",
+      "options": {
+        "A": "$\\frac{1}{9}, \\frac{1}{3}, \\frac{1}{5}$",
+        "B": "$\\frac{1}{\\sqrt{35}}, \\frac{3}{\\sqrt{35}}, \\frac{5}{\\sqrt{35}}$",
+        "C": "$\\frac{5}{\\sqrt{35}}, \\frac{3}{\\sqrt{35}}, \\frac{1}{\\sqrt{35}}$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{9}, \\frac{1}{3}, \\frac{1}{5}$",
+        "B": "$\\frac{1}{\\sqrt{35}}, \\frac{3}{\\sqrt{35}}, \\frac{5}{\\sqrt{35}}$",
+        "C": "$\\frac{5}{\\sqrt{35}}, \\frac{3}{\\sqrt{35}}, \\frac{1}{\\sqrt{35}}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The equation of the plane parallel to the plane $3x-5y+4z=11$ is",
+      "prashna": "तल $3x-5y+4z=11$ के समांतर तल का समीकरण है",
+      "options": {
+        "A": "$3x-5y+4z=21$",
+        "B": "$3x+5y+4z=25$",
+        "C": "$3x+5y+4z=35$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$3x-5y+4z=21$",
+        "B": "$3x+5y+4z=25$",
+        "C": "$3x+5y+4z=35$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The angle between two planes $2x+y-2z=5$ and $3x-6y-2z=7$ is",
+      "prashna": "तलों $2x+y-2z=5$ और $3x-6y-2z=7$ के बीच का कोण है",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\cos^{-1}(4/21)$",
+        "D": "$\\cos^{-1}(16/61)$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\cos^{-1}(4/21)$",
+        "D": "$\\cos^{-1}(16/61)$"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance of the plane $x-2y+4z=9$ from the point $(2,1,-1)$ is",
+      "prashna": "बिन्दु $(2,1,-1)$ से तल $x-2y+4z=9$ की दूरी है",
+      "options": {
+        "A": "$\\frac{13}{21}$",
+        "B": "$\\frac{13\\sqrt{21}}{21}$",
+        "C": "$\\frac{21}{13}$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{13}{21}$",
+        "B": "$\\frac{13\\sqrt{21}}{21}$",
+        "C": "$\\frac{21}{13}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If two planes $2x-4y+3z=5$ and $x+2y+\\lambda z=12$ are mutually perpendicular to each other then $\\lambda = $",
+      "prashna": "यदि दो तल $2x-4y+3z=5$ और $x+2y+\\lambda z=12$ परस्पर लम्ब हों तो $\\lambda = $",
+      "options": {
+        "A": "-2",
+        "B": "2",
+        "C": "3",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "-2",
+        "B": "2",
+        "C": "3",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the line $\\frac{x-3}{a} = \\frac{y-4}{b} = \\frac{z-5}{c}$ is parallel to the line $\\frac{x}{5} = \\frac{y}{3} = \\frac{z}{2}$, then",
+      "prashna": "यदि रेखा $\\frac{x-3}{a} = \\frac{y-4}{b} = \\frac{z-5}{c}$, रेखा $\\frac{x}{5} = \\frac{y}{3} = \\frac{z}{2}$ के समांतर हो तो",
+      "options": {
+        "A": "$5a+3b+2c=0$",
+        "B": "$\\frac{a}{5}=\\frac{b}{3}=\\frac{c}{2}$",
+        "C": "$5a=3b=2c$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$5a+3b+2c=0$",
+        "B": "$\\frac{a}{5}=\\frac{b}{3}=\\frac{c}{2}$",
+        "C": "$5a=3b=2c$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the line $\\frac{x-x_1}{a_1} = \\frac{y-y_1}{b_1} = \\frac{z-z_1}{c_1}$ is parallel to the plane $a_2x+b_2y+c_2z+d=0$, then",
+      "prashna": "यदि रेखा $\\frac{x-x_1}{a_1} = \\frac{y-y_1}{b_1} = \\frac{z-z_1}{c_1}$, तल $a_2x+b_2y+c_2z+d=0$ के समांतर हो तो",
+      "options": {
+        "A": "$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$",
+        "B": "$a_1x+b_1y+c_1z=0$",
+        "C": "$a_1a_2+b_1b_2+c_1c_2=0$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$",
+        "B": "$a_1x+b_1y+c_1z=0$",
+        "C": "$a_1a_2+b_1b_2+c_1c_2=0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the distance between the planes $x-2y+2z=6$ and $3x-6y+6z=2$.",
+      "prashna": "तलों $x-2y+2z=6$ और $3x-6y+6z=2$ के बीच की दूरी ज्ञात करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the equation of the plane whose intercepts on the axes of x, y, z are respectively 2, 3 and -4.",
+      "prashna": "उस तल का समीकरण ज्ञात करें जिसके x, y और z अक्षों पर अंतःखण्ड क्रमशः 2, 3 और -4 हैं।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the value of p so that the lines $\\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z+17}{p}$ and $\\frac{x+4}{2}=\\frac{y+9}{2}=\\frac{z-1}{2}$ are mutually perpendicular.",
+      "prashna": "p का मान ज्ञात करें जिसमें रेखाएँ $\\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z+17}{p}$ और $\\frac{x+4}{2}=\\frac{y+9}{2}=\\frac{z-1}{2}$ परस्पर लम्ब हों।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The equation of ZX-plane is",
+      "prashna": "ZX-तल का समीकरण है",
+      "options": {
+        "A": "$x = 0$",
+        "B": "$y = 0$",
+        "C": "$z = 0$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x = 0$",
+        "B": "$y = 0$",
+        "C": "$z = 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction Cosines of y-axis are",
+      "prashna": "y- अक्ष की दिक्-कोज्याएँ हैं",
+      "options": {
+        "A": "(1, 0, 1)",
+        "B": "(1, 0, 0)",
+        "C": "(0, 1, 0)",
+        "D": "(0, 0, 1)"
+      },
+      "vikalpa": {
+        "A": "(1, 0, 1)",
+        "B": "(1, 0, 0)",
+        "C": "(0, 1, 0)",
+        "D": "(0, 0, 1)"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance between the points (–2, 6, 7) and (1, 2, 7) is",
+      "prashna": "बिन्दुओं (–2, 6, 7) और (1, 2, 7) के बीच की दूरी है:",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If a line makes angle $30^\\circ, 60^\\circ$ and $90^\\circ$ with the positive direction of x, y and z-axis respectively, then its direction cosines are",
+      "prashna": "यदि एक रेखा x, y तथा z-अक्षों की धनात्मक दिशा के साथ क्रमशः $30^\\circ, 60^\\circ$ तथा $90^\\circ$ का कोण बनाती है। तो दिक्-कोसाइन हैं",
+      "options": {
+        "A": "0, 1, 0",
+        "B": "$\\frac{1}{\\sqrt{14}}, \\frac{2}{\\sqrt{14}}, \\frac{3}{\\sqrt{14}}$",
+        "C": "$\\frac{3}{5}, \\frac{4}{5}, 0$",
+        "D": "$\\frac{\\sqrt{3}}{2}, \\frac{1}{2}, 0$"
+      },
+      "vikalpa": {
+        "A": "0, 1, 0",
+        "B": "$\\frac{1}{\\sqrt{14}}, \\frac{2}{\\sqrt{14}}, \\frac{3}{\\sqrt{14}}$",
+        "C": "$\\frac{3}{5}, \\frac{4}{5}, 0$",
+        "D": "$\\frac{\\sqrt{3}}{2}, \\frac{1}{2}, 0$"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Direction ratios of two lines are $a_1, b_1, c_1$ and $a_2, b_2, c_2$ respectively. Both lines are parallel, if",
+      "prashna": "दो रेखाओं का दिक्-अनुपात क्रमशः $a_1, b_1, c_1$ तथा $a_2, b_2, c_2$ है। दोनों रेखाएँ समांतर होंगी, यदि",
+      "options": {
+        "A": "$a_1a_2 + b_1b_2 + c_1c_2 = 0$",
+        "B": "$\\frac{a_1}{a_2} + \\frac{b_1}{b_2} + \\frac{c_1}{c_2} = 0$",
+        "C": "$a_1a_2 + b_1b_2 + c_1c_2 = 1$",
+        "D": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$"
+      },
+      "vikalpa": {
+        "A": "$a_1a_2 + b_1b_2 + c_1c_2 = 0$",
+        "B": "$\\frac{a_1}{a_2} + \\frac{b_1}{b_2} + \\frac{c_1}{c_2} = 0$",
+        "C": "$a_1a_2 + b_1b_2 + c_1c_2 = 1$",
+        "D": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The direction cosines of the unit vector perpendicular to the plane $\\vec{r} \\cdot (2\\hat{i} + 3\\hat{j} - 6\\hat{k}) + 1 = 0$ and passing through the origin are",
+      "prashna": "समतल $\\vec{r} \\cdot (2\\hat{i} + 3\\hat{j} - 6\\hat{k}) + 1 = 0$ पर मूल बिन्दु से डाले गए लम्ब इकाई सदिश की दिक्-कोसाइन हैं",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, -\\frac{1}{\\sqrt{3}}$",
+        "B": "$-\\frac{2}{\\sqrt{7}}, -\\frac{3}{\\sqrt{7}}, \\frac{6}{\\sqrt{7}}$",
+        "C": "$-\\frac{2}{7}, -\\frac{3}{7}, \\frac{6}{7}$",
+        "D": "1, 0, 0"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, -\\frac{1}{\\sqrt{3}}$",
+        "B": "$-\\frac{2}{\\sqrt{7}}, -\\frac{3}{\\sqrt{7}}, \\frac{6}{\\sqrt{7}}$",
+        "C": "$-\\frac{2}{7}, -\\frac{3}{7}, \\frac{6}{7}$",
+        "D": "1, 0, 0"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If direction ratios of a straight line are 2, -3, 5 then its direction cosines are",
+      "prashna": "किसी सरल रेखा के दिक्-अनुपात 2, -3, 5 है। तो इसके दिक्-कोज्याएँ है",
+      "options": {
+        "A": "$\\frac{2}{4}, -\\frac{3}{4}, \\frac{5}{4}$",
+        "B": "$\\frac{2}{\\sqrt{38}}, -\\frac{3}{\\sqrt{38}}, \\frac{5}{\\sqrt{38}}$",
+        "C": "$\\frac{2}{\\sqrt{19}}, -\\frac{3}{\\sqrt{19}}, \\frac{5}{\\sqrt{19}}$",
+        "D": "$\\frac{2}{\\sqrt{38}}, \\frac{3}{\\sqrt{38}}, \\frac{5}{\\sqrt{38}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{4}, -\\frac{3}{4}, \\frac{5}{4}$",
+        "B": "$\\frac{2}{\\sqrt{38}}, -\\frac{3}{\\sqrt{38}}, \\frac{5}{\\sqrt{38}}$",
+        "C": "$\\frac{2}{\\sqrt{19}}, -\\frac{3}{\\sqrt{19}}, \\frac{5}{\\sqrt{19}}$",
+        "D": "$\\frac{2}{\\sqrt{38}}, \\frac{3}{\\sqrt{38}}, \\frac{5}{\\sqrt{38}}$"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The plane parallel to the Plane $2x - 3y + 7z = 9$ is",
+      "prashna": "तल $2x - 3y + 7z = 9$ के समांतर तल का समीकरण है",
+      "options": {
+        "A": "$2x - 3y + 7z = 23$",
+        "B": "$2x + 3y + 7z = 9$",
+        "C": "$3x + 2y - 7z = 10$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$2x - 3y + 7z = 23$",
+        "B": "$2x + 3y + 7z = 9$",
+        "C": "$3x + 2y - 7z = 10$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If two planes $x - 3y + 2z = 10$ and $7x + y - \\lambda z = 5$ are perpendicular to each other, then $\\lambda =$",
+      "prashna": "यदि दो तल $x - 3y + 2z = 10$ तथा $7x + y - \\lambda z = 5$ परस्पर लम्ब हों तो $\\lambda =$",
+      "options": {
+        "A": "-3",
+        "B": "-2",
+        "C": "2",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "-3",
+        "B": "-2",
+        "C": "2",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "If the lines $\\frac{x+1}{a} = \\frac{y-2}{b} = \\frac{z-3}{c}$ and $\\frac{x-2}{3} = \\frac{y-5}{1} = \\frac{z-6}{2}$ are parallel then",
+      "prashna": "यदि रेखाएँ $\\frac{x+1}{a} = \\frac{y-2}{b} = \\frac{z-3}{c}$ तथा $\\frac{x-2}{3} = \\frac{y-5}{1} = \\frac{z-6}{2}$ समांतर हो तो",
+      "options": {
+        "A": "$3a + b + 2c = 0$",
+        "B": "$\\frac{3}{a} = \\frac{1}{b} = \\frac{2}{c}$",
+        "C": "$3a = b = 2c$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$3a + b + 2c = 0$",
+        "B": "$\\frac{3}{a} = \\frac{1}{b} = \\frac{2}{c}$",
+        "C": "$3a = b = 2c$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The angle between the planes $4x + 8y + z - 3 = 0$ and $y + z - 7 = 0$ is",
+      "prashna": "तलों $4x + 8y + z - 3 = 0$ तथा $y + z - 7 = 0$ के बीच का कोण है",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{4}$"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The distance of the plane $2x - y + z = 7$ from the point (0, 0, 1) is",
+      "prashna": "बिन्दु (0, 0, 1) से तल $2x - y + z = 7$ की दूरी है",
+      "options": {
+        "A": "$6\\sqrt{6}$",
+        "B": "$\\sqrt{6}$",
+        "C": "$\\frac{7}{\\sqrt{6}}$",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "$6\\sqrt{6}$",
+        "B": "$\\sqrt{6}$",
+        "C": "$\\frac{7}{\\sqrt{6}}$",
+        "D": "3"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the distance of the point (a, b, c) from X-axis.",
+      "prashna": "X-अक्ष से बिन्दु (a, b, c) की दूरी ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the equation of a plane passing through the points (3, 0, 0), (0, -1, 0) and (0, 0, 2).",
+      "prashna": "बिन्दु (3, 0, 0), (0, -1, 0) तथा (0, 0, 2) से गुजरने वाले तल का समीकरण ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The foot of perpendicular drawn from the origin to a plane is (2, -1, 3). Find the equation of the plane.",
+      "prashna": "मूलबिन्दु से एक तल पर डाले गए लम्ब की पाद का निर्देशांक (2, -1, 3) है। उस तल का समीकरण ज्ञात कीजिए।"
+    }
+  ]
+}

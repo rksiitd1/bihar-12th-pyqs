@@ -1,0 +1,52 @@
+{
+  "2021": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Factorize $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$.",
+      "prashna": "गुणनखंड निकालें $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate: $\\begin{vmatrix} a^2+1 & ab & ac \\ ab & b^2+1 & bc \\ ac & bc & c^2+1 \\end{vmatrix}$",
+      "prashna": "मान ज्ञात करे : $\\begin{vmatrix} a^2+1 & ab & ac \\ ab & b^2+1 & bc \\ ac & bc & c^2+1 \\end{vmatrix}$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Factorize the determinant: $\\begin{vmatrix} a-b-c & 2a & 2a \\\\ 2b & b-c-a & 2b \\\\ 2c & 2c & c-a-b \\end{vmatrix}$.",
+      "prashna": "सारणिक का गुणनखण्ड निकालें: $\\begin{vmatrix} a-b-c & 2a & 2a \\\\ 2b & b-c-a & 2b \\\\ 2c & 2c & c-a-b \\end{vmatrix}$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 1+a & 1 & 1 \\ 1 & 1+b & 1 \\ 1 & 1 & 1+c \\end{vmatrix}$.",
+      "prashna": "सारणिक का मान ज्ञात करें $\\begin{vmatrix} 1+a & 1 & 1 \\ 1 & 1+b & 1 \\ 1 & 1 & 1+c \\end{vmatrix}$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Solve the following linear equations by matrix method.\n$2x + 3y + 3z = 5, x - 2y + z = -4, 3x - y - 2z = 3$.",
+      "prashna": "आव्यूह विधि से निम्नांकित रैखिक समीकरणों का हल करें।\n$2x + 3y + 3z = 5, x - 2y + z = -4, 3x - y - 2z = 3$।"
+    }
+  ]
+}

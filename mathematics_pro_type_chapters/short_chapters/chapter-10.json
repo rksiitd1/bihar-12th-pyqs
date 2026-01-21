@@ -1,0 +1,108 @@
+{
+  "2021": [
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Prove that $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$.",
+      "prashna": "सिद्ध करें कि $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = -4\\hat{i} + 7\\hat{j} - 11\\hat{k}$ and $\\vec{b} = 10\\hat{i} + \\hat{j} + \\hat{k}$ then find $\\vec{a} \\times \\vec{b}$.",
+      "prashna": "यदि $\\vec{a} = -4\\hat{i} + 7\\hat{j} - 11\\hat{k}$ तथा $\\vec{b} = 10\\hat{i} + \\hat{j} + \\hat{k}$ तो $\\vec{a} \\times \\vec{b}$ ज्ञात करें ।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Evaluate: $(2\\hat{i} - 3\\hat{j} + 4\\hat{k}) \\cdot ((7\\hat{i} + 8\\hat{j} - 9\\hat{k}) \\times (9\\hat{i} + 5\\hat{j} - 5\\hat{k}))$.",
+      "prashna": "मान ज्ञात करे : $(2\\hat{i} - 3\\hat{j} + 4\\hat{k}) \\cdot ((7\\hat{i} + 8\\hat{j} - 9\\hat{k}) \\times (9\\hat{i} + 5\\hat{j} - 5\\hat{k}))$. "
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ and $\\vec{b} = 3\\vec{i} + 5\\vec{j} - 2\\vec{k}$ then find $|\\vec{a} \\times \\vec{b}|$.",
+      "prashna": "यदि $\\vec{a} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ तथा $\\vec{b} = 3\\vec{i} + 5\\vec{j} - 2\\vec{k}$ तो $|\\vec{a} \\times \\vec{b}|$ ज्ञात करें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 7\\vec{i} - 11\\vec{j} - 16\\vec{k}$, $\\vec{b} = 8\\vec{i} + 3\\vec{j} - 5\\vec{k}$ and $\\vec{c} = -4\\vec{i} - 3\\vec{j} + 5\\vec{k}$ then find $|2\\vec{a} - 3\\vec{b} + 4\\vec{c}|$.",
+      "prashna": "यदि $\\vec{a} = 7\\vec{i} - 11\\vec{j} - 16\\vec{k}$, $\\vec{b} = 8\\vec{i} + 3\\vec{j} - 5\\vec{k}$ तथा $\\vec{c} = -4\\vec{i} - 3\\vec{j} + 5\\vec{k}$ तो $|2\\vec{a} - 3\\vec{b} + 4\\vec{c}|$ ज्ञात करें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Prove that $\\vec{i} + 2\\vec{j} + 3\\vec{k}$, $-\\vec{i} - \\vec{j} + 8\\vec{k}$ and $-4\\vec{i} + 4\\vec{j} + 6\\vec{k}$ are vertices of an equilateral triangle.",
+      "prashna": "सिद्ध करें कि $\\vec{i} + 2\\vec{j} + 3\\vec{k}$, $-\\vec{i} - \\vec{j} + 8\\vec{k}$ और $-4\\vec{i} + 4\\vec{j} + 6\\vec{k}$ एक समबाहु त्रिभुज के तीन शीर्ष हैं।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the angle between the vectors $5\\vec{i}+3\\vec{j}+4\\vec{k}$ and $6\\vec{i}-8\\vec{j}-\\vec{k}$.",
+      "prashna": "सदिशों $5\\vec{i}+3\\vec{j}+4\\vec{k}$ और $6\\vec{i}-8\\vec{j}-\\vec{k}$ के बीच का कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\vec{i} - \\vec{j} + \\vec{k}$ and $\\vec{b} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ then find the value of $|\\vec{a} + \\vec{b}|$.",
+      "prashna": "यदि $\\vec{a} = \\vec{i} - \\vec{j} + \\vec{k}$ तथा $\\vec{b} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ तो $|\\vec{a} + \\vec{b}|$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the direction cosines of the vector $3\\vec{i} - 4\\vec{j} + 12\\vec{k}$.",
+      "prashna": "सदिश $3\\vec{i} - 4\\vec{j} + 12\\vec{k}$ की दिक्-कोज्याएँ निकालें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} + \\hat{j} + 2\\hat{k}$ and $\\vec{b} = 2\\hat{i} + \\hat{j} + 2\\hat{k}$ then find the unit vector in the direction of vector $(2\\vec{a} - \\vec{b})$.",
+      "prashna": "यदि $\\vec{a} = \\hat{i} + \\hat{j} + 2\\hat{k}$ तथा $\\vec{b} = 2\\hat{i} + \\hat{j} + 2\\hat{k}$ तो सदिश $(2\\vec{a} - \\vec{b})$ की दिशा में इकाई सदिश ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find vector $\\vec{v}$ which is perpendicular to $(2\\hat{i} - \\hat{j} + 2\\hat{k})$ and $(4\\hat{i} - \\hat{j} + 3\\hat{k})$ and $|\\vec{v}| = 6$.",
+      "prashna": "सदिश $\\vec{v}$ ज्ञात कीजिए। जो कि $(2\\hat{i} - \\hat{j} + 2\\hat{k})$ तथा $(4\\hat{i} - \\hat{j} + 3\\hat{k})$ पर लम्ब है। तथा $|\\vec{v}| = 6$।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are unit vectors and $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ then find the value of $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$.",
+      "prashna": "यदि $\\vec{a}, \\vec{b}, \\vec{c}$ इकाई सदिश है। तथा $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ तो $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$ का मान ज्ञात कीजिए।"
+    }
+  ]
+}

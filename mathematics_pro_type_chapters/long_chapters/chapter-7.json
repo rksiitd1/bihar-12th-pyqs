@@ -1,0 +1,52 @@
+{
+  "2021": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\tan^4 x dx$.",
+      "prashna": "समाकलन करें $\\int \\tan^4 x dx$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_{0}^{\\pi/2} \\log \\sin x dx$",
+      "prashna": "मान ज्ञात करे : $\\int_{0}^{\\pi/2} \\log \\sin x dx$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{1}^{2} (\\frac{1}{x} - \\frac{1}{2x^2})e^{2x} dx$.",
+      "prashna": "$\\int_{1}^{2} (\\frac{1}{x} - \\frac{1}{2x^2})e^{2x} dx$ का मान ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_0^{\\pi/2} \\log \\cos x dx$.",
+      "prashna": "मान ज्ञात करें: $\\int_0^{\\pi/2} \\log \\cos x dx$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_{0}^{1} x \\log(1 + 2x)dx$",
+      "prashna": "हल करें: $\\int_{0}^{1} x \\log(1 + 2x)dx$"
+    }
+  ]
+}

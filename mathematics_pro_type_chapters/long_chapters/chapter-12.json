@@ -1,0 +1,52 @@
+{
+  "2021": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize and minimize $Z = 5x + 10y$ subject to $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$.",
+      "prashna": "$Z = 5x + 10y$ का अधिकतमीकरण एवं न्यूनतमीकरण करें, जबकि $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $z = 2x + y$ subject to $x + y \\geq 1$, $x + 2y \\leq 10$, $y \\leq 4$, $x \\geq 0, y \\geq 0$.",
+      "prashna": "न्यूनतमीकरण करे $z = 2x + y$ जबकि $x + y \\geq 1$, $x + 2y \\leq 10$, $y \\leq 4$, $x \\geq 0, y \\geq 0$।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z = 5x+7y$ subject to $x+y \\le 4$, $3x+8y \\le 24$, $10x+7y \\le 35$, $x, y \\ge 0$.",
+      "prashna": "$Z = 5x+7y$ का अधिकतमीकरण करें जबकि $x+y \\le 4$, $3x+8y \\le 24$, $10x+7y \\le 35$, $x, y \\ge 0$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $Z=2x+y$, subject to $5x+10y \\le 50, x+y \\ge 1, y \\le 4, x \\ge 0, y \\ge 0$.",
+      "prashna": "न्यूनतमीकरण करें $Z=2x+y$ जबकि $5x+10y \\le 50, x+y \\ge 1, y \\le 4, x \\ge 0, y \\ge 0$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $z = 13x - 15y$ subject to $x + y \\le 7, 2x - 3y + 6 \\ge 0, x \\ge 0$ and $y \\ge 0$.",
+      "prashna": "$z = 13x - 15y$ का न्यूनतमीकरण करें जबकि $x + y \\le 7, 2x - 3y + 6 \\ge 0, x \\ge 0$ तथा $y \\ge 0$।"
+    }
+  ]
+}

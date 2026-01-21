@@ -1,0 +1,108 @@
+{
+  "2021": [
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If $P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2}$ and $P(A \\cap B) = \\frac{1}{4}$, then find $P(\\frac{A}{B})$ and $P(\\frac{B}{A})$.",
+      "prashna": "यदि $P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2}$ तथा $P(A \\cap B) = \\frac{1}{4}$, तो $P(\\frac{A}{B})$ तथा $P(\\frac{B}{A})$ निकालें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown simultaneously. Find the probability of getting a sum of 9 or 10 on the numbers.",
+      "prashna": "दो पासों को एक साथ फेंका जाता है। अंकों का योगफल 9 या 10 आने की प्रायिकता ज्ञात करे।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If for two events A and B, P(A) = 0.8, P(B) = 0.5 and P(B/A) = 0.4, then find P(A $\\cup$ B).",
+      "prashna": "यदि दो घटनाओं A और B के लिए, P(A) = 0.8, P(B) = 0.5 तथा P(B/A) = 0.4 हो तो P(A $\\cup$ B) ज्ञात करें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A coin is tossed 4 times. Find the probability of getting exactly three heads.",
+      "prashna": "एक सिक्के को 4 बार उछाला जाता है। ठीक तीन बार शीर्ष आने की प्रायिकता ज्ञात करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A bag contains 4 red and 5 white balls and another bag contains 5 black and 6 green balls. A ball is taken out from each bag. Find the probability that one ball is red and the other is black.",
+      "prashna": "एक थैले में 4 लाल तथा 5 उजली गेंदें हैं तथा दूसरे थैले में 5 काली तथा 6 हरी गेंदें हैं। प्रत्येक थैले से एक गेंद निकाली जाती है। एक लाल और एक काली गेंद निकलने की प्रायिकता ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "5 coins are tossed. Find the probability of getting exactly 3 heads.",
+      "prashna": "5 सिक्कों को उछाला जाता है। ठीक तीन शीर्ष आने की प्रायिकता ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Evaluate $P(A \\cup B)$ if $2P(A)=P(B)=\\frac{5}{13}$ and $P(A/B)=\\frac{2}{5}$.",
+      "prashna": "$P(A \\cup B)$ ज्ञात कीजिए यदि $2P(A)=P(B)=\\frac{5}{13}$ और $P(A/B)=\\frac{2}{5}$."
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the mean for the following probability distribution: \n\n| $x_i$ | 0 | 1 | 2 | 3 | \n|---|---|---|---|---| \n| $p_i$ | 1/8 | 3/8 | 3/8 | 1/8 |",
+      "prashna": "निम्न प्रायिकता बंटन के लिए माध्य ज्ञात करें: \n\n| $x_i$ | 0 | 1 | 2 | 3 | \n|---|---|---|---|---| \n| $p_i$ | 1/8 | 3/8 | 3/8 | 1/8 |"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If A and B are two events such that $P(A) = \\frac{1}{2}, P(B) = \\frac{1}{3}$ and $P(A \\cap B) = \\frac{1}{4}$ then find the following",
+      "prashna": "यदि A तथा B दो घटनाएँ इस प्रकार है कि $P(A) = \\frac{1}{2}, P(B) = \\frac{1}{3}$ तथा $P(A \\cap B) = \\frac{1}{4}$ तो निम्नलिखित को ज्ञात कीजिए।",
+      "sub_questions": {
+        "i": "$P(A'/B)$",
+        "ii": "$P(A'/B')$"
+      },
+      "anuprashna": {
+        "i": "$P(A'/B)$",
+        "ii": "$P(A'/B')$"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "The probability distribution of a random variable x is following.\n| X | 0.5 | 1 | 1.5 | 2 |\n|---|---|---|---|---|\n| P(X) | K | $K^2$ | $2K^2$ | K |",
+      "prashna": "एक यादृच्छिक चर x का प्रायिकता बंटन निम्नलिखित है।\n| X | 0.5 | 1 | 1.5 | 2 |\n|---|---|---|---|---|\n| P(X) | K | $K^2$ | $2K^2$ | K |",
+      "sub_questions": {
+        "i": "Find the value of K.",
+        "ii": "Determine the mean of the distribution."
+      },
+      "anuprashna": {
+        "i": "K का मान ज्ञात करें।",
+        "ii": "बंटन का माध्य ज्ञात करें।"
+      }
+    }
+  ]
+}

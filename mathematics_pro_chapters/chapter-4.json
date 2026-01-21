@@ -1,0 +1,572 @@
+{
+  "2021": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "The value of the determinant $\\begin{vmatrix} 1 & 2 & 4 \\ 3 & 7 & 9 \\ 4 & 8 & 16 \\end{vmatrix}$ is",
+      "prashna": "सारणिक $\\begin{vmatrix} 1 & 2 & 4 \\ 3 & 7 & 9 \\ 4 & 8 & 16 \\end{vmatrix}$ का मान है",
+      "options": {
+        "A": "23",
+        "B": "0",
+        "C": "1",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "23",
+        "B": "0",
+        "C": "1",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "The value of the determinant $\\begin{vmatrix} 1 & a & b+c \\ 1 & b & c+a \\ 1 & c & a+b \\end{vmatrix}$ is",
+      "prashna": "सारणिक $\\begin{vmatrix} 1 & a & b+c \\ 1 & b & c+a \\ 1 & c & a+b \\end{vmatrix}$ का मान है",
+      "options": {
+        "A": "$(1+a+b+c)$",
+        "B": "$(a+b+c)$",
+        "C": "1",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "$(1+a+b+c)$",
+        "B": "$(a+b+c)$",
+        "C": "1",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "The value of the determinant $\\begin{vmatrix} 7 & 11 & 13 \\ 17 & 19 & 23 \\ 29 & 31 & 37 \\end{vmatrix}$ is",
+      "prashna": "सारणिक $\\begin{vmatrix} 7 & 11 & 13 \\ 17 & 19 & 23 \\ 29 & 31 & 37 \\end{vmatrix}$ का मान है",
+      "options": {
+        "A": "-36",
+        "B": "36",
+        "C": "20",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "-36",
+        "B": "36",
+        "C": "20",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} \\cos\\theta & -\\sin\\theta \\ \\sin\\theta & \\cos\\theta \\end{vmatrix} = $",
+      "prashna": "$\\begin{vmatrix} \\cos\\theta & -\\sin\\theta \\ \\sin\\theta & \\cos\\theta \\end{vmatrix} = $",
+      "options": {
+        "A": "$\\cos 2\\theta$",
+        "B": "1",
+        "C": "0",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "$\\cos 2\\theta$",
+        "B": "1",
+        "C": "0",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $\\omega \\neq 1, \\omega^3 = 1$ and $\\begin{vmatrix} x+1 & \\omega & \\omega^2 \\ \\omega & x+\\omega^2 & 1 \\ \\omega^2 & 1 & x+\\omega \\end{vmatrix} = 0$ then $x = $",
+      "prashna": "यदि $\\omega \\neq 1, \\omega^3 = 1$ तथा $\\begin{vmatrix} x+1 & \\omega & \\omega^2 \\ \\omega & x+\\omega^2 & 1 \\ \\omega^2 & 1 & x+\\omega \\end{vmatrix} = 0$ तो $x = $",
+      "options": {
+        "A": "0",
+        "B": "$\\omega$",
+        "C": "$\\omega^2$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\\omega$",
+        "C": "$\\omega^2$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 10 & 2 \\ 35 & 7 \\end{vmatrix} = $",
+      "prashna": "$\\begin{vmatrix} 10 & 2 \\ 35 & 7 \\end{vmatrix} = $",
+      "options": {
+        "A": "140",
+        "B": "70",
+        "C": "35",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "140",
+        "B": "70",
+        "C": "35",
+        "D": "0"
+      }
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 16 & 9 & 7 \\ 23 & 16 & 7 \\ 32 & 19 & 13 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 16 & 9 & 7 \\ 23 & 16 & 7 \\ 32 & 19 & 13 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Factorize $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$.",
+      "prashna": "गुणनखंड निकालें $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 2 & -3 & 5 \\ 6 & 0 & 4 \\ 1 & 5 & -7 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} 2 & -3 & 5 \\ 6 & 0 & 4 \\ 1 & 5 & -7 \\end{vmatrix} =$",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "28",
+        "D": "-28"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "24",
+        "C": "28",
+        "D": "-28"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $A = \\begin{bmatrix} 2 & 3 \\ 1 & 4 \\end{bmatrix}$ then adjoint A -",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & 3 \\ 1 & 4 \\end{bmatrix}$ तो adjoint A -",
+      "options": {
+        "A": "$\\begin{bmatrix} 4 & -3 \\ -1 & 2 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -2 & 3 \\ 1 & -4 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 3 \\ 1 & -4 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 4 & 3 \\ 1 & -2 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 4 & -3 \\ -1 & 2 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -2 & 3 \\ 1 & -4 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 3 \\ 1 & -4 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 4 & 3 \\ 1 & -2 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 2 & 5 & 7 \\ 6 & -8 & -2 \\ 3 & 5 & 8 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} 2 & 5 & 7 \\ 6 & -8 & -2 \\ 3 & 5 & 8 \\end{vmatrix} =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-13",
+        "D": "23"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-13",
+        "D": "23"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 4 & 1 & 3 \\ 0 & 2 & -2 \\ 5 & 7 & -2 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} 4 & 1 & 3 \\ 0 & 2 & -2 \\ 5 & 7 & -2 \\end{vmatrix} =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "19"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "19"
+      }
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Find the value of the determinant $\\begin{vmatrix} 23 & 12 & 11 \\ 36 & 10 & 26 \\ 63 & 26 & 37 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 23 & 12 & 11 \\ 36 & 10 & 26 \\ 63 & 26 & 37 \\end{vmatrix}$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate: $\\begin{vmatrix} a^2+1 & ab & ac \\ ab & b^2+1 & bc \\ ac & bc & c^2+1 \\end{vmatrix}$",
+      "prashna": "मान ज्ञात करे : $\\begin{vmatrix} a^2+1 & ab & ac \\ ab & b^2+1 & bc \\ ac & bc & c^2+1 \\end{vmatrix}$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "The adjoint matrix of matrix $\\begin{bmatrix} 1 & 2 \\ 3 & 4 \\end{bmatrix}$ is",
+      "prashna": "आव्यूह $\\begin{bmatrix} 1 & 2 \\ 3 & 4 \\end{bmatrix}$ का सहखंडज आव्यूह है",
+      "options": {
+        "A": "$\\begin{bmatrix} 4 & -2 \\ -3 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 4 & -3 \\ -2 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 4 & 3 \\ 2 & 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 4 & 2 \\ 3 & 1 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 4 & -2 \\ -3 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 4 & -3 \\ -2 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 4 & 3 \\ 2 & 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 4 & 2 \\ 3 & 1 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 1 & 1 & 5 \\ 4 & 9 & 17 \\ 5 & 10 & 22 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} 1 & 1 & 5 \\ 4 & 9 & 17 \\ 5 & 10 & 22 \\end{vmatrix} =$",
+      "options": {
+        "A": "264",
+        "B": "1221",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "264",
+        "B": "1221",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 1 & 2 & -1 \\ 5 & 4 & 1 \\ 7 & 6 & 1 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} 1 & 2 & -1 \\ 5 & 4 & 1 \\ 7 & 6 & 1 \\end{vmatrix} =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} -\\sin\\theta & \\cos\\theta \\\\ \\sec\\theta & \\text{cosec}\\theta \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} -\\sin\\theta & \\cos\\theta \\\\ \\sec\\theta & \\text{cosec}\\theta \\end{vmatrix} =$",
+      "options": {
+        "A": "0",
+        "B": "-1",
+        "C": "-2",
+        "D": "$-\\sin^2\\theta$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "-1",
+        "C": "-2",
+        "D": "$-\\sin^2\\theta$"
+      }
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Find the value of the determinant $\\begin{vmatrix} 1 & 2 & 4 \\ 1 & 3 & 6 \\ 1 & 4 & 9 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 1 & 2 & 4 \\ 1 & 3 & 6 \\ 1 & 4 & 9 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Factorize the determinant: $\\begin{vmatrix} a-b-c & 2a & 2a \\\\ 2b & b-c-a & 2b \\\\ 2c & 2c & c-a-b \\end{vmatrix}$.",
+      "prashna": "सारणिक का गुणनखण्ड निकालें: $\\begin{vmatrix} a-b-c & 2a & 2a \\\\ 2b & b-c-a & 2b \\\\ 2c & 2c & c-a-b \\end{vmatrix}$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $A = \\begin{bmatrix} 2 & -3 \\ 4 & 6 \\end{bmatrix}$ then $A^{-1} = $",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & -3 \\ 4 & 6 \\end{bmatrix}$ तो $A^{-1} = $",
+      "options": {
+        "A": "$\\begin{bmatrix} \\frac{1}{4} & \\frac{1}{8} \\\\ -\\frac{1}{6} & \\frac{1}{12} \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} \\frac{1}{4} & \\frac{1}{8} \\\\ -\\frac{1}{6} & \\frac{1}{12} \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 4 & 8 \\ 6 & 12 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 4 & 8 \\ -6 & 12 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} \\frac{1}{4} & \\frac{1}{8} \\\\ -\\frac{1}{6} & \\frac{1}{12} \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} \\frac{1}{4} & \\frac{1}{8} \\\\ -\\frac{1}{6} & \\frac{1}{12} \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 4 & 8 \\ 6 & 12 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 4 & 8 \\ -6 & 12 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $\\begin{vmatrix} x & 2 \\ 18 & x \\end{vmatrix} = \\begin{vmatrix} 6 & 2 \\ 18 & 6 \\end{vmatrix}$ then x is equal to",
+      "prashna": "यदि $\\begin{vmatrix} x & 2 \\ 18 & x \\end{vmatrix} = \\begin{vmatrix} 6 & 2 \\ 18 & 6 \\end{vmatrix}$ हो तो x बराबर है",
+      "options": {
+        "A": "6",
+        "B": "$\\pm 6$",
+        "C": "-6",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "$\\pm 6$",
+        "C": "-6",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} x & x+1 \\ x-1 & x \\end{vmatrix} = $",
+      "prashna": "$\\begin{vmatrix} x & x+1 \\ x-1 & x \\end{vmatrix} = $",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 1 & 1 & -2 \\ 2 & 1 & -3 \\ 5 & 4 & -9 \\end{vmatrix} = $",
+      "prashna": "$\\begin{vmatrix} 1 & 1 & -2 \\ 2 & 1 & -3 \\ 5 & 4 & -9 \\end{vmatrix} = $",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 3 & -4 & 5 \\ 1 & 1 & -2 \\ 2 & 3 & 1 \\end{vmatrix} = $",
+      "prashna": "$\\begin{vmatrix} 3 & -4 & 5 \\ 1 & 1 & -2 \\ 2 & 3 & 1 \\end{vmatrix} = $",
+      "options": {
+        "A": "0",
+        "B": "46",
+        "C": "-46",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "46",
+        "C": "-46",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $A = \\begin{bmatrix} 3 & -5 \\ -1 & 2 \\end{bmatrix}$ then adjoint A =",
+      "prashna": "यदि $A = \\begin{bmatrix} 3 & -5 \\ -1 & 2 \\end{bmatrix}$ तो adjoint A =",
+      "options": {
+        "A": "$\\begin{bmatrix} 2 & 5 \\ 1 & 3 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 3 \\ 1 & 5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 1 & 3 \\ 2 & 5 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & 1 \\ 5 & 3 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 2 & 5 \\ 1 & 3 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 3 \\ 1 & 5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 1 & 3 \\ 2 & 5 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & 1 \\ 5 & 3 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 1 & 1 & 1 \\ a & b & c \\ a^3 & b^3 & c^3 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 1 & 1 & 1 \\ a & b & c \\ a^3 & b^3 & c^3 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 1+a & 1 & 1 \\ 1 & 1+b & 1 \\ 1 & 1 & 1+c \\end{vmatrix}$.",
+      "prashna": "सारणिक का मान ज्ञात करें $\\begin{vmatrix} 1+a & 1 & 1 \\ 1 & 1+b & 1 \\ 1 & 1 & 1+c \\end{vmatrix}$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $\\begin{vmatrix} 2 & x \\\\ x & 8 \\end{vmatrix} = \\begin{vmatrix} 10 & 7 \\\\ 30 & 21 \\end{vmatrix}$, then $x =$",
+      "prashna": "यदि $\\begin{vmatrix} 2 & x \\\\ x & 8 \\end{vmatrix} = \\begin{vmatrix} 10 & 7 \\\\ 30 & 21 \\end{vmatrix}$ तो $x =$",
+      "options": {
+        "A": "$\\pm 16$",
+        "B": "$\\pm 4$",
+        "C": "0",
+        "D": "$\\pm 3$"
+      },
+      "vikalpa": {
+        "A": "$\\pm 16$",
+        "B": "$\\pm 4$",
+        "C": "0",
+        "D": "$\\pm 3$"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} 11 & 7 & 9 \\\\ 2 & -1 & 5 \\\\ 22 & 14 & 18 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} 11 & 7 & 9 \\\\ 2 & -1 & 5 \\\\ 22 & 14 & 18 \\end{vmatrix} =$",
+      "options": {
+        "A": "72",
+        "B": "-61",
+        "C": "0",
+        "D": "65"
+      },
+      "vikalpa": {
+        "A": "72",
+        "B": "-61",
+        "C": "0",
+        "D": "65"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "$\\begin{vmatrix} -1 & 3 & 0 \\\\ 1 & 2 & 4 \\\\ 4 & 1 & 0 \\end{vmatrix} =$",
+      "prashna": "$\\begin{vmatrix} -1 & 3 & 0 \\\\ 1 & 2 & 4 \\\\ 4 & 1 & 0 \\end{vmatrix} =$",
+      "options": {
+        "A": "-52",
+        "B": "0",
+        "C": "52",
+        "D": "62"
+      },
+      "vikalpa": {
+        "A": "-52",
+        "B": "0",
+        "C": "52",
+        "D": "62"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "If $\\begin{vmatrix} |x+1| & 3 \\\\ 5 & x-1 \\end{vmatrix} = 0$ then $x =$",
+      "prashna": "यदि $\\begin{vmatrix} |x+1| & 3 \\\\ 5 & x-1 \\end{vmatrix} = 0$ तो $x =$",
+      "options": {
+        "A": "$\\pm 16$",
+        "B": "$\\pm 4$",
+        "C": "16",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "$\\pm 16$",
+        "B": "$\\pm 4$",
+        "C": "16",
+        "D": "0"
+      }
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Solve: $\\begin{vmatrix} x^2-x+1 & x-1 \\\\ x+1 & x+1 \\end{vmatrix} = 2$",
+      "prashna": "हल करें: $\\begin{vmatrix} x^2-x+1 & x-1 \\\\ x+1 & x+1 \\end{vmatrix} = 2$"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Solve the following linear equations by matrix method.\n$2x + 3y + 3z = 5, x - 2y + z = -4, 3x - y - 2z = 3$.",
+      "prashna": "आव्यूह विधि से निम्नांकित रैखिक समीकरणों का हल करें।\n$2x + 3y + 3z = 5, x - 2y + z = -4, 3x - y - 2z = 3$।"
+    }
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cos^{-1}\\frac{1-x^2}{1+x^2} = \\dots\\dots\\dots\\dots$, $(|x| \\le 1)$",
+      "prashna": "$\\cos^{-1}\\frac{1-x^2}{1+x^2} = \\dots\\dots\\dots\\dots$, $(|x| \\le 1)$",
+      "options": {
+        "A": "$2\\cos^{-1} x$",
+        "B": "$2\\sin^{-1} x$",
+        "C": "$2\\tan^{-1} x$",
+        "D": "$\\tan^{-1} 2x$"
+      },
+      "vikalpa": {
+        "A": "$2\\cos^{-1} x$",
+        "B": "$2\\sin^{-1} x$",
+        "C": "$2\\tan^{-1} x$",
+        "D": "$\\tan^{-1} 2x$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$3\\sin^{-1}x = \\dots\\dots\\dots\\dots\\dots$, $(|x| \\le \\frac{1}{2})$",
+      "prashna": "$3\\sin^{-1}x = \\dots\\dots\\dots\\dots\\dots$, $(|x| \\le \\frac{1}{2})$",
+      "options": {
+        "A": "$\\sin^{-1}(4x^3 - 3x)$",
+        "B": "$\\sin^{-1}(3x + 4x^3)$",
+        "C": "$\\sin^{-1}(3x - 4x^3)$",
+        "D": "$\\sin^{-1}(3x^3 - 4x)$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1}(4x^3 - 3x)$",
+        "B": "$\\sin^{-1}(3x + 4x^3)$",
+        "C": "$\\sin^{-1}(3x - 4x^3)$",
+        "D": "$\\sin^{-1}(3x^3 - 4x)$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) = $",
+      "prashna": "$\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) = $",
+      "options": {
+        "A": "$\\frac{\\pi}{3}$",
+        "B": "$\\frac{\\pi}{6}$",
+        "C": "$-\\frac{\\pi}{3}$",
+        "D": "$-\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{3}$",
+        "B": "$\\frac{\\pi}{6}$",
+        "C": "$-\\frac{\\pi}{3}$",
+        "D": "$-\\frac{\\pi}{6}$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin(\\sec^{-1}x + \\cosec^{-1}x) = $",
+      "prashna": "$\\sin(\\sec^{-1}x + \\cosec^{-1}x) = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "-1",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "-1",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = $",
+      "prashna": "$2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\pi$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$2\\pi$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\pi$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$2\\pi$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cosec^{-1}(-x) = $",
+      "prashna": "$\\cosec^{-1}(-x) = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2} - \\cosec^{-1}x$",
+        "B": "$\\pi - \\cosec^{-1}x$",
+        "C": "$\\cosec^{-1}x$",
+        "D": "$-\\cosec^{-1}x$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2} - \\cosec^{-1}x$",
+        "B": "$\\pi - \\cosec^{-1}x$",
+        "C": "$\\cosec^{-1}x$",
+        "D": "$-\\cosec^{-1}x$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}1 = $",
+      "prashna": "$\\tan^{-1}1 = $",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$\\frac{\\pi}{6}$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cos(\\sec^{-1}x + \\cosec^{-1}x) = $",
+      "prashna": "$\\cos(\\sec^{-1}x + \\cosec^{-1}x) = $",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}\\sqrt{3} - \\cot^{-1}(-\\sqrt{3}) = $",
+      "prashna": "$\\tan^{-1}\\sqrt{3} - \\cot^{-1}(-\\sqrt{3}) = $",
+      "options": {
+        "A": "$\\pi$",
+        "B": "0",
+        "C": "$-\\frac{\\pi}{2}$",
+        "D": "$\\frac{\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "0",
+        "C": "$-\\frac{\\pi}{2}$",
+        "D": "$\\frac{\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cos^{-1}(2x) + \\sin^{-1}(2x) = \\dots\\dots\\dots\\dots\\dots, 2x \\in [-1, 1]$",
+      "prashna": "$\\cos^{-1}(2x) + \\sin^{-1}(2x) = \\dots\\dots\\dots\\dots\\dots, 2x \\in [-1, 1]$",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\pi$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\pi$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin^{-1}(-x) = $",
+      "prashna": "$\\sin^{-1}(-x) = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2} - \\sin^{-1}x$",
+        "B": "$\\sin^{-1}x$",
+        "C": "$-\\sin^{-1}x$",
+        "D": "$\\frac{\\pi}{2} + \\sin^{-1}x$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2} - \\sin^{-1}x$",
+        "B": "$\\sin^{-1}x$",
+        "C": "$-\\sin^{-1}x$",
+        "D": "$\\frac{\\pi}{2} + \\sin^{-1}x$"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cot^{-1}\\frac{1}{x} = \\dots\\dots\\dots\\dots\\dots (x > 0)$",
+      "prashna": "$\\cot^{-1}\\frac{1}{x} = \\dots\\dots\\dots\\dots\\dots (x > 0)$",
+      "options": {
+        "A": "$-\\cot^{-1}x$",
+        "B": "$\\tan^{-1}\\frac{1}{x}$",
+        "C": "$\\tan^{-1}x$",
+        "D": "$\\cot^{-1}x$"
+      },
+      "vikalpa": {
+        "A": "$-\\cot^{-1}x$",
+        "B": "$\\tan^{-1}\\frac{1}{x}$",
+        "C": "$\\tan^{-1}x$",
+        "D": "$\\cot^{-1}x$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin^{-1}\\frac{3}{5} + \\sin^{-1}\\frac{12}{13} =$",
+      "prashna": "$\\sin^{-1}\\frac{3}{5} + \\sin^{-1}\\frac{12}{13} =$",
+      "options": {
+        "A": "$\\sin^{-1}\\frac{36}{65}$",
+        "B": "$\\sin^{-1}\\frac{63}{65}$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1}\\frac{36}{65}$",
+        "B": "$\\sin^{-1}\\frac{63}{65}$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$\\frac{\\pi}{6}$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$x \\in R, \\tan^{-1}x + \\cot^{-1}x =$",
+      "prashna": "$x \\in R, \\tan^{-1}x + \\cot^{-1}x =$",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{2\\pi}{3}$",
+        "D": "$\\frac{3\\pi}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{2\\pi}{3}$",
+        "D": "$\\frac{3\\pi}{4}$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "The principal value of $\\csc^{-1} 2$ is",
+      "prashna": "$\\csc^{-1} 2$ का मुख्य मान है",
+      "options": {
+        "A": "$-\\frac{\\pi}{6}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{6}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$-\\frac{\\pi}{6}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{6}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}\\frac{1}{7} + \\tan^{-1}\\frac{1}{13} =$",
+      "prashna": "$\\tan^{-1}\\frac{1}{7} + \\tan^{-1}\\frac{1}{13} =$",
+      "options": {
+        "A": "$\\tan^{-1}\\frac{1}{9}$",
+        "B": "$\\tan^{-1}\\frac{2}{9}$",
+        "C": "$\\tan^{-1}\\frac{20}{91}$",
+        "D": "$\\tan^{-1}\\frac{2}{91}$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}\\frac{1}{9}$",
+        "B": "$\\tan^{-1}\\frac{2}{9}$",
+        "C": "$\\tan^{-1}\\frac{20}{91}$",
+        "D": "$\\tan^{-1}\\frac{2}{91}$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$2\\tan^{-1}\\frac{1}{2} =$",
+      "prashna": "$2\\tan^{-1}\\frac{1}{2} =$",
+      "options": {
+        "A": "$\\tan^{-1}\\frac{3}{4}$",
+        "B": "$\\tan^{-1}\\frac{4}{3}$",
+        "C": "$\\tan^{-1}\\frac{7}{12}$",
+        "D": "$\\tan^{-1}\\frac{12}{7}$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}\\frac{3}{4}$",
+        "B": "$\\tan^{-1}\\frac{4}{3}$",
+        "C": "$\\tan^{-1}\\frac{7}{12}$",
+        "D": "$\\tan^{-1}\\frac{12}{7}$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "If $x = \\frac{1}{5}$",
+      "prashna": "यदि $x = \\frac{1}{5}$",
+      "options": {
+        "A": "$\\frac{1}{5}$",
+        "B": "$-\\frac{1}{5}$",
+        "C": "$\\frac{\\sqrt{24}}{5}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{5}$",
+        "B": "$-\\frac{1}{5}$",
+        "C": "$\\frac{\\sqrt{24}}{5}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin(\\sin^{-1}\\frac{1}{2}) =$",
+      "prashna": "$\\sin(\\sin^{-1}\\frac{1}{2}) =$",
+      "options": {
+        "A": "1",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{\\sqrt{3}}{2}$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{\\sqrt{3}}{2}$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin^{-1}x + \\sin^{-1}y = $",
+      "prashna": "$\\sin^{-1}x + \\sin^{-1}y = $",
+      "options": {
+        "A": "$\\sin^{-1} \\{x\\sqrt{1-y^2} - y\\sqrt{1-x^2}\\}$",
+        "B": "$\\sin^{-1} \\{x\\sqrt{1-y^2} + y\\sqrt{1-x^2}\\}$",
+        "C": "$\\sin^{-1} \\{x\\sqrt{1+y^2} + y\\sqrt{1+x^2}\\}$",
+        "D": "$\\sin^{-1} \\{x\\sqrt{1+y^2} - y\\sqrt{1+x^2}\\}$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1} \\{x\\sqrt{1-y^2} - y\\sqrt{1-x^2}\\}$",
+        "B": "$\\sin^{-1} \\{x\\sqrt{1-y^2} + y\\sqrt{1-x^2}\\}$",
+        "C": "$\\sin^{-1} \\{x\\sqrt{1+y^2} + y\\sqrt{1+x^2}\\}$",
+        "D": "$\\sin^{-1} \\{x\\sqrt{1+y^2} - y\\sqrt{1+x^2}\\}$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$x \\in [-1, 1]$, $\\sin[2(\\sin^{-1}x + \\cos^{-1}x)] = $",
+      "prashna": "$x \\in [-1, 1]$, $\\sin[2(\\sin^{-1}x + \\cos^{-1}x)] = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\frac{1}{2}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\frac{1}{2}$"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$x \\in R$, $\\text{cosec}(\\tan^{-1}x + \\cot^{-1}x) =$",
+      "prashna": "$x \\in R$, $\\text{cosec}(\\tan^{-1}x + \\cot^{-1}x) =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$|x| \\ge 1, \\tan[\\frac{2}{3}(\\tan^{-1}x + \\cot^{-1}x)] =$",
+      "prashna": "$|x| \\ge 1, \\tan[\\frac{2}{3}(\\tan^{-1}x + \\cot^{-1}x)] =$",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{3}}$",
+        "B": "$\\sqrt{3}$",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sqrt{3}}$",
+        "B": "$\\sqrt{3}$",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$|x| \\le 1, 2\\tan^{-1}x =$",
+      "prashna": "$|x| \\le 1, 2\\tan^{-1}x =$",
+      "options": {
+        "A": "$\\tan^{-1}2x$",
+        "B": "$\\sin^{-1}\\frac{2x}{1+x^2}$",
+        "C": "$\\cos^{-1}\\frac{2x}{1+x^2}$",
+        "D": "$\\tan^{-1}\\frac{2x}{1+x^2}$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}2x$",
+        "B": "$\\sin^{-1}\\frac{2x}{1+x^2}$",
+        "C": "$\\cos^{-1}\\frac{2x}{1+x^2}$",
+        "D": "$\\tan^{-1}\\frac{2x}{1+x^2}$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$x \\in R, \\cot^{-1}x =$",
+      "prashna": "$x \\in R, \\cot^{-1}x =$",
+      "options": {
+        "A": "$\\frac{\\pi}{2} - \\sin^{-1}x$",
+        "B": "$\\frac{\\pi}{2} - \\cos^{-1}x$",
+        "C": "$\\frac{\\pi}{2} - \\tan^{-1}x$",
+        "D": "$\\frac{\\pi}{2} - \\sec^{-1}x$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2} - \\sin^{-1}x$",
+        "B": "$\\frac{\\pi}{2} - \\cos^{-1}x$",
+        "C": "$\\frac{\\pi}{2} - \\tan^{-1}x$",
+        "D": "$\\frac{\\pi}{2} - \\sec^{-1}x$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}(\\frac{x+y}{1-xy}) =$",
+      "prashna": "$\\tan^{-1}(\\frac{x+y}{1-xy}) =$",
+      "options": {
+        "A": "$\\sin^{-1}(x+y)$",
+        "B": "$\\cos^{-1}(x+y)$",
+        "C": "$\\tan^{-1}(x+y)$",
+        "D": "$\\tan^{-1}x + \\tan^{-1}y$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1}(x+y)$",
+        "B": "$\\cos^{-1}(x+y)$",
+        "C": "$\\tan^{-1}(x+y)$",
+        "D": "$\\tan^{-1}x + \\tan^{-1}y$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin^{-1}(\\sin\\frac{2\\pi}{3})=$",
+      "prashna": "$\\sin^{-1}(\\sin\\frac{2\\pi}{3})=$",
+      "options": {
+        "A": "$\\frac{\\pi}{3}$",
+        "B": "$\\frac{2\\pi}{3}$",
+        "C": "$\\frac{5\\pi}{6}$",
+        "D": "$\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{3}$",
+        "B": "$\\frac{2\\pi}{3}$",
+        "C": "$\\frac{5\\pi}{6}$",
+        "D": "$\\frac{\\pi}{6}$"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cos^{-1}(-\\frac{1}{2})=$",
+      "prashna": "$\\cos^{-1}(-\\frac{1}{2})=$",
+      "options": {
+        "A": "$\\frac{2\\pi}{3}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{6}$",
+        "D": "$\\frac{\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2\\pi}{3}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{6}$",
+        "D": "$\\frac{\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$x \\in [-1, 1], \\cos^{-1} x = $",
+      "prashna": "$x \\in [-1, 1], \\cos^{-1} x = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2} - \\cot^{-1} x$",
+        "B": "$\\frac{\\pi}{2} - \\sin^{-1} x$",
+        "C": "$\\frac{\\pi}{2} - \\tan^{-1} x$",
+        "D": "$\\frac{\\pi}{2} - \\sec^{-1} x$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2} - \\cot^{-1} x$",
+        "B": "$\\frac{\\pi}{2} - \\sin^{-1} x$",
+        "C": "$\\frac{\\pi}{2} - \\tan^{-1} x$",
+        "D": "$\\frac{\\pi}{2} - \\sec^{-1} x$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$x \\in [-1, 1], \\sin^{-1}(-x) = $",
+      "prashna": "$x \\in [-1, 1], \\sin^{-1}(-x) = $",
+      "options": {
+        "A": "$-\\sin^{-1} x$",
+        "B": "$\\sin^{-1} x$",
+        "C": "$-\\cos^{-1} x$",
+        "D": "$\\cos^{-1} x$"
+      },
+      "vikalpa": {
+        "A": "$-\\sin^{-1} x$",
+        "B": "$\\sin^{-1} x$",
+        "C": "$-\\cos^{-1} x$",
+        "D": "$\\cos^{-1} x$"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\text{cosec}^{-1} x = \\dots\\dots\\dots\\dots\\dots\\dots; x \\ge 1$ or $x \\le -1$",
+      "prashna": "$\\text{cosec}^{-1} x = \\dots\\dots\\dots\\dots\\dots\\dots; x \\ge 1$ or $x \\le -1$",
+      "options": {
+        "A": "$\\sin^{-1} x$",
+        "B": "$\\sin^{-1} \\frac{1}{x}$",
+        "C": "$\\cos^{-1} x$",
+        "D": "$\\cos^{-1} \\frac{1}{x}$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1} x$",
+        "B": "$\\sin^{-1} \\frac{1}{x}$",
+        "C": "$\\cos^{-1} x$",
+        "D": "$\\cos^{-1} \\frac{1}{x}$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan [\\tan^{-1} \\frac{1}{3} + \\tan^{-1} \\frac{1}{2}] = $",
+      "prashna": "$\\tan [\\tan^{-1} \\frac{1}{3} + \\tan^{-1} \\frac{1}{2}] = $",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin(\\cot^{-1} x) = $",
+      "prashna": "$\\sin(\\cot^{-1} x) = $",
+      "options": {
+        "A": "$\\sqrt{1+x^2}$",
+        "B": "$x$",
+        "C": "$(1+x^2)^{-3/2}$",
+        "D": "$\\frac{1}{\\sqrt{1+x^2}}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{1+x^2}$",
+        "B": "$x$",
+        "C": "$(1+x^2)^{-3/2}$",
+        "D": "$\\frac{1}{\\sqrt{1+x^2}}$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cos^{-1}(\\cos \\frac{7\\pi}{6}) = $",
+      "prashna": "$\\cos^{-1}(\\cos \\frac{7\\pi}{6}) = $",
+      "options": {
+        "A": "$\\frac{7\\pi}{6}$",
+        "B": "$\\frac{5\\pi}{6}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{7\\pi}{6}$",
+        "B": "$\\frac{5\\pi}{6}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{6}$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\frac{\\pi}{3} - \\sin^{-1}(-\\frac{1}{2}) = $",
+      "prashna": "$\\frac{\\pi}{3} - \\sin^{-1}(-\\frac{1}{2}) = $",
+      "options": {
+        "A": "0",
+        "B": "$\\frac{2\\pi}{3}$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$\\pi$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\\frac{2\\pi}{3}$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$\\pi$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1} \\sqrt{3} - \\sec^{-1}(-2) = $",
+      "prashna": "$\\tan^{-1} \\sqrt{3} - \\sec^{-1}(-2) = $",
+      "options": {
+        "A": "$-\\frac{\\pi}{3}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{2\\pi}{3}$",
+        "D": "$\\pi$"
+      },
+      "vikalpa": {
+        "A": "$-\\frac{\\pi}{3}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{2\\pi}{3}$",
+        "D": "$\\pi$"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\cos^{-1}(-\\frac{1}{\\sqrt{2}}) =$",
+      "prashna": "$\\cos^{-1}(-\\frac{1}{\\sqrt{2}}) =$",
+      "options": {
+        "A": "$\\frac{\\pi}{4}$",
+        "B": "$\\frac{3\\pi}{4}$",
+        "C": "$\\frac{5\\pi}{4}$",
+        "D": "$-\\frac{\\pi}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{4}$",
+        "B": "$\\frac{3\\pi}{4}$",
+        "C": "$\\frac{5\\pi}{4}$",
+        "D": "$-\\frac{\\pi}{4}$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}(-\\sqrt{3}) =$",
+      "prashna": "$\\tan^{-1}(-\\sqrt{3}) =$",
+      "options": {
+        "A": "$\\frac{2\\pi}{3}$",
+        "B": "$\\frac{4\\pi}{3}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$-\\frac{\\pi}{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2\\pi}{3}$",
+        "B": "$\\frac{4\\pi}{3}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$-\\frac{\\pi}{3}$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1}(\\tan \\frac{3\\pi}{4}) =$",
+      "prashna": "$\\tan^{-1}(\\tan \\frac{3\\pi}{4}) =$",
+      "options": {
+        "A": "$\\frac{\\pi}{4}$",
+        "B": "$\\frac{5\\pi}{4}$",
+        "C": "$-\\frac{\\pi}{4}$",
+        "D": "$\\frac{3\\pi}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{4}$",
+        "B": "$\\frac{5\\pi}{4}$",
+        "C": "$-\\frac{\\pi}{4}$",
+        "D": "$\\frac{3\\pi}{4}$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin[\\frac{\\pi}{3} - \\sin^{-1}(-\\frac{1}{2})] =$",
+      "prashna": "$\\sin[\\frac{\\pi}{3} - \\sin^{-1}(-\\frac{1}{2})] =$",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{2}}$",
+        "B": "1",
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{\\sqrt{3}}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sqrt{2}}$",
+        "B": "1",
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{\\sqrt{3}}{2}$"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin(\\tan^{-1} x) =$, $|x| < 1$",
+      "prashna": "$\\sin(\\tan^{-1} x) =$, $|x| < 1$",
+      "options": {
+        "A": "$\\frac{x}{\\sqrt{1-x^2}}$",
+        "B": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "C": "$\\frac{1}{\\sqrt{1+x^2}}$",
+        "D": "$\\frac{x}{\\sqrt{1+x^2}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x}{\\sqrt{1-x^2}}$",
+        "B": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "C": "$\\frac{1}{\\sqrt{1+x^2}}$",
+        "D": "$\\frac{x}{\\sqrt{1+x^2}}$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\tan^{-1} \\sqrt{3} - \\cot^{-1}(-\\sqrt{3}) =$",
+      "prashna": "$\\tan^{-1} \\sqrt{3} - \\cot^{-1}(-\\sqrt{3}) =$",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$-\\frac{\\pi}{2}$",
+        "C": "0",
+        "D": "$2\\sqrt{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$-\\frac{\\pi}{2}$",
+        "C": "0",
+        "D": "$2\\sqrt{3}$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin^{-1}(\\sin \\frac{3\\pi}{5}) =$",
+      "prashna": "$\\sin^{-1}(\\sin \\frac{3\\pi}{5}) =$",
+      "options": {
+        "A": "$\\frac{2\\pi}{5}$",
+        "B": "$\\frac{3\\pi}{5}$",
+        "C": "$\\frac{8\\pi}{5}$",
+        "D": "$\\frac{\\pi}{5}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2\\pi}{5}$",
+        "B": "$\\frac{3\\pi}{5}$",
+        "C": "$\\frac{8\\pi}{5}$",
+        "D": "$\\frac{\\pi}{5}$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Domain of $\\csc^{-1}x$ is",
+      "prashna": "$\\csc^{-1}x$ का प्रांत है",
+      "options": {
+        "A": "R",
+        "B": "(-1, 1)",
+        "C": "R - (-1, 1)",
+        "D": "[-1, 1]"
+      },
+      "vikalpa": {
+        "A": "R",
+        "B": "(-1, 1)",
+        "C": "R - (-1, 1)",
+        "D": "[-1, 1]"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "$\\sin^{-1}(-\\frac{1}{2}) + \\cos^{-1}(\\frac{\\sqrt{3}}{2}) =$",
+      "prashna": "$\\sin^{-1}(-\\frac{1}{2}) + \\cos^{-1}(\\frac{\\sqrt{3}}{2}) =$",
+      "options": {
+        "A": "0",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{2\\pi}{3}$",
+        "D": "$\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{2\\pi}{3}$",
+        "D": "$\\frac{\\pi}{6}$"
+      }
+    }
+  ]
+}

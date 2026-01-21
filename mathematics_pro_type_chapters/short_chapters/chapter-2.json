@@ -1,0 +1,92 @@
+{
+  "2021": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\sin^{-1}\\sqrt{\\frac{x}{x+a}} = \\tan^{-1}\\sqrt{\\frac{x}{a}}$.",
+      "prashna": "सिद्ध करें कि $\\sin^{-1}\\sqrt{\\frac{x}{x+a}} = \\tan^{-1}\\sqrt{\\frac{x}{a}}$."
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\tan(\\frac{1}{2}\\sin^{-1}\\frac{2x}{1+x^2} + \\frac{1}{2}\\cos^{-1}\\frac{1-x^2}{1+x^2}) = \\frac{2x}{1-x^2}$.",
+      "prashna": "सिद्ध करें कि $\\tan(\\frac{1}{2}\\sin^{-1}\\frac{2x}{1+x^2} + \\frac{1}{2}\\cos^{-1}\\frac{1-x^2}{1+x^2}) = \\frac{2x}{1-x^2}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = \\frac{\\pi}{4}$.",
+      "prashna": "सिद्ध करे कि $2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = \\frac{\\pi}{4}$."
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Find the principal value of $\\text{cosec}^{-1}2$.",
+      "prashna": "$\\text{cosec}^{-1}2$ का मुख्य मान ज्ञात करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\text{cosec}^{-1}x + \\sec^{-1}x = \\frac{\\pi}{2}, |x| \\ge 1$.",
+      "prashna": "सिद्ध करें कि $\\text{cosec}^{-1}x + \\sec^{-1}x = \\frac{\\pi}{2}, |x| \\ge 1$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $4(\\cot^{-1}3+\\cot^{-1}2)=\\pi$.",
+      "prashna": "सिद्ध करें कि $4(\\cot^{-1}3+\\cot^{-1}2)=\\pi$."
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\tan^{-1}x+\\tan^{-1}y=\\tan^{-1}\\frac{x+y}{1-xy}$.",
+      "prashna": "सिद्ध करें कि $\\tan^{-1}x+\\tan^{-1}y=\\tan^{-1}\\frac{x+y}{1-xy}$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "If $\\cos^{-1}\\alpha + \\cos^{-1}\\beta + \\cos^{-1}\\gamma = 3\\pi$, then find the value of $\\alpha(\\beta + \\gamma) + \\beta(\\gamma + \\alpha) + \\gamma(\\alpha + \\beta)$.",
+      "prashna": "यदि $\\cos^{-1}\\alpha + \\cos^{-1}\\beta + \\cos^{-1}\\gamma = 3\\pi$ तो $\\alpha(\\beta + \\gamma) + \\beta(\\gamma + \\alpha) + \\gamma(\\alpha + \\beta)$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Find the value of $\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) + \\cot^{-1}(\\frac{1}{\\sqrt{3}}) + \\tan^{-1}[\\sin(-\\frac{\\pi}{2})]$.",
+      "prashna": "$\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) + \\cot^{-1}(\\frac{1}{\\sqrt{3}}) + \\tan^{-1}[\\sin(-\\frac{\\pi}{2})]$ का मान ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Solve the Equation $\\cos(\\tan^{-1} x) = \\sin(\\cot^{-1} \\frac{3}{4})$.",
+      "prashna": "समीकरण $\\cos(\\tan^{-1} x) = \\sin(\\cot^{-1} \\frac{3}{4})$ को हल कीजिए।"
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+{
+  "2021": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\cos^2 x dx$.",
+      "prashna": "समाकलन करें $\\int \\cos^2 x dx$."
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\sin(\\log x)$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $y = \\sin(\\log x)$."
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $xdy + ydx = xy \\, dy$.",
+      "prashna": "हल करें: $xdy + ydx = xy \\, dy$."
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\sqrt{1-\\sin 2x} \\, dx$.",
+      "prashna": "समाकलन करें $\\int \\sqrt{1-\\sin 2x} \\, dx$."
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$.",
+      "prashna": "$\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Prove that $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$.",
+      "prashna": "सिद्ध करें कि $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$."
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\sqrt{\\sin\\sqrt{x}}$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\sqrt{\\sin\\sqrt{x}}$."
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$."
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Is the function $f:R \\rightarrow R$ onto function where $f(x) = 2x$? Give reasons.",
+      "prashna": "क्या फलन $f:R \\rightarrow R$ onto है जबकि $f(x) = 2x$? कारण दें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\sin^{-1}\\sqrt{\\frac{x}{x+a}} = \\tan^{-1}\\sqrt{\\frac{x}{a}}$.",
+      "prashna": "सिद्ध करें कि $\\sin^{-1}\\sqrt{\\frac{x}{x+a}} = \\tan^{-1}\\sqrt{\\frac{x}{a}}$."
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\tan(\\frac{1}{2}\\sin^{-1}\\frac{2x}{1+x^2} + \\frac{1}{2}\\cos^{-1}\\frac{1-x^2}{1+x^2}) = \\frac{2x}{1-x^2}$.",
+      "prashna": "सिद्ध करें कि $\\tan(\\frac{1}{2}\\sin^{-1}\\frac{2x}{1+x^2} + \\frac{1}{2}\\cos^{-1}\\frac{1-x^2}{1+x^2}) = \\frac{2x}{1-x^2}$."
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$.",
+      "prashna": "मान निकालें $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$."
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Application of Integrals",
+      "question": "Find the area between the x-axis and the curve $y = \\sin x$, from $x = 0$ to $x = \\pi$.",
+      "prashna": "x-अक्ष और वक्र $y = \\sin x$ के बीच $x = 0$ से $x = \\pi$ तक के क्षेत्र का क्षेत्रफल निकालें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\tan y dx + \\tan x dy = 0$.",
+      "prashna": "हल करें: $\\tan y dx + \\tan x dy = 0$."
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $y(1+xy)dx - xdy = 0$.",
+      "prashna": "हल करें: $y(1+xy)dx - xdy = 0$."
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + 1 = e^{x+y}$.",
+      "prashna": "हल करें: $\\frac{dy}{dx} + 1 = e^{x+y}$."
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Prove that $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$.",
+      "prashna": "सिद्ध करें कि $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$."
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & y \\ x^2 & y^2 \\end{bmatrix}$, then find $AA'\\!$.",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & y \\ x^2 & y^2 \\end{bmatrix}$, तो $AA'$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Find the value of $x$ from the following: $\\begin{pmatrix} 2x-y & 5 \\ 3 & y \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\ 3 & -2 \\end{pmatrix}$.",
+      "prashna": "निम्न से $x$ का मान ज्ञात कीजिए: $\\begin{pmatrix} 2x-y & 5 \\ 3 & y \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\ 3 & -2 \\end{pmatrix}$."
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 16 & 9 & 7 \\ 23 & 16 & 7 \\ 32 & 19 & 13 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 16 & 9 & 7 \\ 23 & 16 & 7 \\ 32 & 19 & 13 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "A straight line makes angles of $45^\\circ$ and $60^\\circ$ with the positive direction of the x and y-axes respectively. What angle does it make with the positive direction of the z-axis?",
+      "prashna": "कोई सरल रेखा x और y-अक्षों की धनात्मक दिशा के साथ क्रमशः $45^\\circ$ और $60^\\circ$ का कोण बनाती है। यह z-अक्ष की धनात्मक दिशा के साथ कितना कोण बनाएगी ?"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the equation of the plane whose intercepts on the axes of x, y and z are respectively 3, 4 and -5.",
+      "prashna": "तल का समीकरण ज्ञात कीजिए जिसके x, y और z अक्षों पर अंतःखण्ड क्रमशः 3, 4 और -5 हैं।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If $P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2}$ and $P(A \\cap B) = \\frac{1}{4}$, then find $P(\\frac{A}{B})$ and $P(\\frac{B}{A})$.",
+      "prashna": "यदि $P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2}$ तथा $P(A \\cap B) = \\frac{1}{4}$, तो $P(\\frac{A}{B})$ तथा $P(\\frac{B}{A})$ निकालें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the acute angle between two lines whose direction ratios are (1, 1, 2) and ($\\sqrt{3} - 1, \\sqrt{3} - 1, 4$).",
+      "prashna": "दो रेखाओं के बीच का न्यूनकोण ज्ञात करे जिनके दिक अनुपात (1, 1, 2) और ($\\sqrt{3} – 1, \\sqrt{3} – 1, 4) हैं।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the value of k so that the lines $\\frac{x-1}{-1} = \\frac{y+3}{k} = \\frac{z-7}{2}$ and $\\frac{x+1}{k} = \\frac{y}{2} = \\frac{z+6}{-3}$ are mutually perpendicular.",
+      "prashna": "k का मान ज्ञात करे जिससे सरल रेखाएँ $\\frac{x-1}{-1} = \\frac{y+3}{k} = \\frac{z-7}{2}$ तथा $\\frac{x+1}{k} = \\frac{y}{2} = \\frac{z+6}{-3}$ परस्पर लम्ब हों।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = -4\\hat{i} + 7\\hat{j} - 11\\hat{k}$ and $\\vec{b} = 10\\hat{i} + \\hat{j} + \\hat{k}$ then find $\\vec{a} \\times \\vec{b}$.",
+      "prashna": "यदि $\\vec{a} = -4\\hat{i} + 7\\hat{j} - 11\\hat{k}$ तथा $\\vec{b} = 10\\hat{i} + \\hat{j} + \\hat{k}$ तो $\\vec{a} \\times \\vec{b}$ ज्ञात करें ।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\sin^{-1}(\\frac{2x}{1+x^2})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\sin^{-1}(\\frac{2x}{1+x^2})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\log(x+\\sqrt{x^2+1})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\log(x+\\sqrt{x^2+1})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a \\cos t + b \\sin t$, $y = a \\sin t - b \\cos t$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = a \\cos t + b \\sin t$, $y = a \\sin t - b \\cos t$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown simultaneously. Find the probability of getting a sum of 9 or 10 on the numbers.",
+      "prashna": "दो पासों को एक साथ फेंका जाता है। अंकों का योगफल 9 या 10 आने की प्रायिकता ज्ञात करे।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_{a}^{b} \\frac{(\\log x)^2}{x} dx$",
+      "prashna": "मान ज्ञात करे : $\\int_{a}^{b} \\frac{(\\log x)^2}{x} dx$"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve.",
+      "prashna": "हल करे।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{e^{2x}}{1+e^x} dx$",
+      "prashna": "समाकलन करे : $\\int \\frac{e^{2x}}{1+e^x} dx$"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\sin^4 \\theta d\\theta$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\sin^4 \\theta d\\theta$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\cos x} + \\sqrt{\\sin x}} dx$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\cos x} + \\sqrt{\\sin x}} dx$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Evaluate: $(2\\hat{i} - 3\\hat{j} + 4\\hat{k}) \\cdot ((7\\hat{i} + 8\\hat{j} - 9\\hat{k}) \\times (9\\hat{i} + 5\\hat{j} - 5\\hat{k}))$.",
+      "prashna": "मान ज्ञात करे : $(2\\hat{i} - 3\\hat{j} + 4\\hat{k}) \\cdot ((7\\hat{i} + 8\\hat{j} - 9\\hat{k}) \\times (9\\hat{i} + 5\\hat{j} - 5\\hat{k}))$. "
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Is the function f: N $\\rightarrow$ N surjective when f(x) = 3x, x $\\in$ N?",
+      "prashna": "क्या फलन f : N $\\rightarrow$ N आच्छादक है जब f (x) = 3x, x $\\in$ N?"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If for two events A and B, P(A) = 0.8, P(B) = 0.5 and P(B/A) = 0.4, then find P(A $\\cup$ B).",
+      "prashna": "यदि दो घटनाओं A और B के लिए, P(A) = 0.8, P(B) = 0.5 तथा P(B/A) = 0.4 हो तो P(A $\\cup$ B) ज्ञात करें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A coin is tossed 4 times. Find the probability of getting exactly three heads.",
+      "prashna": "एक सिक्के को 4 बार उछाला जाता है। ठीक तीन बार शीर्ष आने की प्रायिकता ज्ञात करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Solve the following linear programming problem - Under the constraints $3x + 4y \\leq 12$, $x \\geq 0, y \\geq 0$, find the maximum value of $z = x + 2x + 3y$.",
+      "prashna": "निम्न रैखिक प्रोग्रामन समस्या को हल करे - व्यवरोधों $3x + 4y \\leq 12$, $x \\geq 0, y \\geq 0$ के अंतर्गत $z = x + 2x + 3y$ का अधिकतम मान ज्ञात करे।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "Find the rate of change of the area of a circle of radius r = 8cm with respect to its radius r.",
+      "prashna": "r = 8cm त्रिज्या वाले वृत्त के क्षेत्रफल के परिवर्तन की दर इसकी त्रिज्या r के सापेक्ष ज्ञात करें ।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = \\frac{\\pi}{4}$.",
+      "prashna": "सिद्ध करे कि $2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = \\frac{\\pi}{4}$."
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} a & b \\ x & y \\ x^2 & y^2 \\end{bmatrix}$ find $AA'$ and $A'A$.",
+      "prashna": "यदि $A = \\begin{bmatrix} a & b \\ x & y \\ x^2 & y^2 \\end{bmatrix}$ तो $AA'$ और $A'A$ ज्ञात करें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Find the value of the determinant $\\begin{vmatrix} 23 & 12 & 11 \\ 36 & 10 & 26 \\ 63 & 26 & 37 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 23 & 12 & 11 \\ 36 & 10 & 26 \\ 63 & 26 & 37 \\end{vmatrix}$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the direction cosines of the line joining the two points (-2, 4, -5) and (1, 2, 3).",
+      "prashna": "दो बिन्दुओं (-2, 4, -5) और (1, 2, 3) को मिलाने वाली रेखा की दिक-कोसाइन ज्ञात करे।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\sqrt{1 + \\cos 2x} dx$",
+      "prashna": "समाकलन करे : $\\int \\sqrt{1 + \\cos 2x} dx$"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin x + \\cos x}{\\sqrt{1 + \\sin 2x}} dx$.",
+      "prashna": "समाकलन करे : $\\int \\frac{\\sin x + \\cos x}{\\sqrt{1 + \\sin 2x}} dx$."
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "For what values of x is the function $y = x^2 - 5x + 3$ decreasing?",
+      "prashna": "x के किन मानों के लिए फलन $y = x^2 - 5x + 3$ का मान ह्रासमान है?"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $y - x\\frac{dy}{dx} = 2(y^2 + \\frac{dy}{dx})$",
+      "prashna": "हल करे : $y - x\\frac{dy}{dx} = 2(y^2 + \\frac{dy}{dx})$"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + 2y\\tan x = \\sin x$",
+      "prashna": "हल करे : $\\frac{dy}{dx} + 2y\\tan x = \\sin x$"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\log x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\log x}$ तो $\\frac{dy}{dx}$ ज्ञात करे।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{x-2}{x^2 - 3x + 2} dx$",
+      "prashna": "समाकलन करे : $\\int \\frac{x-2}{x^2 - 3x + 2} dx$"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{(\\sin x - \\cos x)^3}{\\sqrt{1-\\sin^2 x}} dx$.",
+      "prashna": "समाकलन करे : $\\int \\frac{(\\sin x - \\cos x)^3}{\\sqrt{1-\\sin^2 x}} dx$."
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "Find the slope of the tangent to the curve $y = x^3 - x + 1$ at the point whose x-coordinate is 2.",
+      "prashna": "वक्र $y = x^3 - x + 1$ की स्पर्श रेखा की प्रवणता उस बिन्दु पर ज्ञात करें जिसका x-निर्देशांक 2 है।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Prove that '.........' : $R \\times R \\rightarrow R$ is not a commutative binary operation.",
+      "prashna": "सिद्ध करें कि \".........\" : $R \\times R \\rightarrow R$ क्रमविनिमेय द्विआधारी संक्रिया नहीं है।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Find the principal value of $\\text{cosec}^{-1}2$.",
+      "prashna": "$\\text{cosec}^{-1}2$ का मुख्य मान ज्ञात करें।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the acute angle between the lines $\\frac{x}{2} = \\frac{y}{2} = \\frac{z}{1}$ and $\\frac{x}{5} = \\frac{y}{4} = \\frac{z}{-3}$.",
+      "prashna": "रेखाओं $\\frac{x}{2} = \\frac{y}{2} = \\frac{z}{1}$ तथा $\\frac{x}{5} = \\frac{y}{4} = \\frac{z}{-3}$ के बीच का न्यून कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "A bag contains 4 red and 5 white balls and another bag contains 5 black and 6 green balls. A ball is taken out from each bag. Find the probability that one ball is red and the other is black.",
+      "prashna": "एक थैले में 4 लाल तथा 5 उजली गेंदें हैं तथा दूसरे थैले में 5 काली तथा 6 हरी गेंदें हैं। प्रत्येक थैले से एक गेंद निकाली जाती है। एक लाल और एक काली गेंद निकलने की प्रायिकता ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "5 coins are tossed. Find the probability of getting exactly 3 heads.",
+      "prashna": "5 सिक्कों को उछाला जाता है। ठीक तीन शीर्ष आने की प्रायिकता ज्ञात करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\text{cosec}^{-1}x + \\sec^{-1}x = \\frac{\\pi}{2}, |x| \\ge 1$.",
+      "prashna": "सिद्ध करें कि $\\text{cosec}^{-1}x + \\sec^{-1}x = \\frac{\\pi}{2}, |x| \\ge 1$।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the angle between the planes $x + 2y + 3z = 6$ and $3x - 3y + z = 1$.",
+      "prashna": "तलों $x + 2y + 3z = 6$ तथा $3x - 3y + z = 1$ के बीच का कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the distance of the point $(4, -5, 6)$ from the plane $\\vec{r} \\cdot (4\\vec{i} - 4\\vec{j} + 7\\vec{k}) = -6$.",
+      "prashna": "बिन्दु $(4, -5, 6)$ की तल $\\vec{r} \\cdot (4\\vec{i} - 4\\vec{j} + 7\\vec{k}) = -6$ से दूरी ज्ञात करें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ and $\\vec{b} = 3\\vec{i} + 5\\vec{j} - 2\\vec{k}$ then find $|\\vec{a} \\times \\vec{b}|$.",
+      "prashna": "यदि $\\vec{a} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ तथा $\\vec{b} = 3\\vec{i} + 5\\vec{j} - 2\\vec{k}$ तो $|\\vec{a} \\times \\vec{b}|$ ज्ञात करें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 7\\vec{i} - 11\\vec{j} - 16\\vec{k}$, $\\vec{b} = 8\\vec{i} + 3\\vec{j} - 5\\vec{k}$ and $\\vec{c} = -4\\vec{i} - 3\\vec{j} + 5\\vec{k}$ then find $|2\\vec{a} - 3\\vec{b} + 4\\vec{c}|$.",
+      "prashna": "यदि $\\vec{a} = 7\\vec{i} - 11\\vec{j} - 16\\vec{k}$, $\\vec{b} = 8\\vec{i} + 3\\vec{j} - 5\\vec{k}$ तथा $\\vec{c} = -4\\vec{i} - 3\\vec{j} + 5\\vec{k}$ तो $|2\\vec{a} - 3\\vec{b} + 4\\vec{c}|$ ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "Prove that the function $f(x) = \\sin x$ is continuously increasing in $(0, \\frac{\\pi}{2})$.",
+      "prashna": "सिद्ध करें कि $(0, \\frac{\\pi}{2})$ में फलन $f(x) = \\sin x$ निरंतर वर्धमान है।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x\\frac{dy}{dx} - y = 2x^2y$.",
+      "prashna": "हल करें: $x\\frac{dy}{dx} - y = 2x^2y$।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x + y = xy^3$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x + y = xy^3$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + \\frac{2y}{x} = \\frac{1}{x^2}$.",
+      "prashna": "हल करें: $\\frac{dy}{dx} + \\frac{2y}{x} = \\frac{1}{x^2}$।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Find the value of the determinant $\\begin{vmatrix} 1 & 2 & 4 \\ 1 & 3 & 6 \\ 1 & 4 & 9 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 1 & 2 & 4 \\ 1 & 3 & 6 \\ 1 & 4 & 9 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 0 & 1 & 2 \\ 1 & 2 & 3 \\ 2 & 3 & 4 \\end{bmatrix}$, $B = \\begin{bmatrix} 1 & -2 \\ -1 & 0 \\ 2 & -1 \\end{bmatrix}$ then find AB, if possible.",
+      "prashna": "यदि $A = \\begin{bmatrix} 0 & 1 & 2 \\ 1 & 2 & 3 \\ 2 & 3 & 4 \\end{bmatrix}$, $B = \\begin{bmatrix} 1 & -2 \\ -1 & 0 \\ 2 & -1 \\end{bmatrix}$ तो AB ज्ञात करें, यदि संभव हो।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Prove that $\\vec{i} + 2\\vec{j} + 3\\vec{k}$, $-\\vec{i} - \\vec{j} + 8\\vec{k}$ and $-4\\vec{i} + 4\\vec{j} + 6\\vec{k}$ are vertices of an equilateral triangle.",
+      "prashna": "सिद्ध करें कि $\\vec{i} + 2\\vec{j} + 3\\vec{k}$, $-\\vec{i} - \\vec{j} + 8\\vec{k}$ और $-4\\vec{i} + 4\\vec{j} + 6\\vec{k}$ एक समबाहु त्रिभुज के तीन शीर्ष हैं।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\cos(\\tan\\sqrt{x+1})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\cos(\\tan\\sqrt{x+1})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Solve: $\\int \\frac{dx}{x(1+\\log_e x)^2}$",
+      "prashna": "हल करें: $\\int \\frac{dx}{x(1+\\log_e x)^2}$"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{e^{k\\sqrt{x}}}{\\sqrt{x}} dx$.",
+      "prashna": "समाकलन करें: $\\int \\frac{e^{k\\sqrt{x}}}{\\sqrt{x}} dx$।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{-1}^{1} \\sin^{21}x \\cos^{10}x dx$.",
+      "prashna": "$\\int_{-1}^{1} \\sin^{21}x \\cos^{10}x dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{2}^{4} \\frac{6x^2-1}{2\\sqrt{2x^3-x}} dx$.",
+      "prashna": "$\\int_{2}^{4} \\frac{6x^2-1}{2\\sqrt{2x^3-x}} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\frac{\\cot\\theta}{\\tan\\theta + \\cot\\theta} d\\theta$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\cot\\theta}{\\tan\\theta + \\cot\\theta} d\\theta$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\cos x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\cos x}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a(1 - \\cos\\theta)$, $y = a(\\theta + \\sin\\theta)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = a(1 - \\cos\\theta)$, $y = a(\\theta + \\sin\\theta)$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z = 3x + 7y$ subject to the constraints $x + 2y \\le 16$, $x \\ge 0, y \\ge 0$.",
+      "prashna": "व्यवरोधों $x + 2y \\le 16$, $x \\ge 0, y \\ge 0$ के अंतर्गत $Z = 3x + 7y$ का अधिकतम मान ज्ञात करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\sin 4x \\cos 3x dx$.",
+      "prashna": "समाकलन करें: $\\int \\sin 4x \\cos 3x dx$।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{d\\theta}{3 - 4\\cos\\theta}$.",
+      "prashna": "$\\int \\frac{d\\theta}{3 - 4\\cos\\theta}$ का समाकलन करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\text{cosec } x}{\\text{cosec } x + \\cot x} dx$.",
+      "prashna": "$\\int \\frac{\\text{cosec } x}{\\text{cosec } x + \\cot x} dx$ का समाकलन करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y=\\sin(xy)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y=\\sin(xy)$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int (x+2)^2 dx$.",
+      "prashna": "समाकलन करें : $\\int (x+2)^2 dx$."
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Evaluate $P(A \\cup B)$ if $2P(A)=P(B)=\\frac{5}{13}$ and $P(A/B)=\\frac{2}{5}$.",
+      "prashna": "$P(A \\cup B)$ ज्ञात कीजिए यदि $2P(A)=P(B)=\\frac{5}{13}$ और $P(A/B)=\\frac{2}{5}$."
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $4(\\cot^{-1}3+\\cot^{-1}2)=\\pi$.",
+      "prashna": "सिद्ध करें कि $4(\\cot^{-1}3+\\cot^{-1}2)=\\pi$."
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\tan^{-1}x+\\tan^{-1}y=\\tan^{-1}\\frac{x+y}{1-xy}$.",
+      "prashna": "सिद्ध करें कि $\\tan^{-1}x+\\tan^{-1}y=\\tan^{-1}\\frac{x+y}{1-xy}$."
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$ if $y=\\sqrt{\\sin x^2}$.",
+      "prashna": "यदि $y=\\sqrt{\\sin x^2}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Find fog and gof if $f(x)=8x^3$ and $g(x)=x^{1/3}$.",
+      "prashna": "fog और gof ज्ञात कीजिए यदि $f(x)=8x^3$ तथा $g(x)=x^{1/3}$ हो।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the angle between the vectors $5\\vec{i}+3\\vec{j}+4\\vec{k}$ and $6\\vec{i}-8\\vec{j}-\\vec{k}$.",
+      "prashna": "सदिशों $5\\vec{i}+3\\vec{j}+4\\vec{k}$ और $6\\vec{i}-8\\vec{j}-\\vec{k}$ के बीच का कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z=20x+3y$, subject to $3x+2y \\le 210, x \\ge 0, y \\ge 0$.",
+      "prashna": "अधिकतमीकरण करें $Z=20x+3y$, जबकि $3x+2y \\le 210, x \\ge 0, y \\ge 0$."
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x^2 \\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें : $x^2 \\frac{dy}{dx} = 2xy$."
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 1 & 1 & 1 \\ a & b & c \\ a^3 & b^3 & c^3 \\end{vmatrix}$.",
+      "prashna": "सारणिक $\\begin{vmatrix} 1 & 1 & 1 \\ a & b & c \\ a^3 & b^3 & c^3 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 2 & -2 & -4 \\ -1 & 3 & 4 \\ 1 & -2 & -3 \\end{bmatrix}$, show that $A^2=A$.",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & -2 & -4 \\ -1 & 3 & 4 \\ 1 & -2 & -3 \\end{bmatrix}$, तो सिद्ध करें कि $A^2=A$."
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x \\cos y = \\sin(x+y)$, find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x \\cos y = \\sin(x+y)$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Differentiate $\\tan^{-1} \\frac{2x}{1-x^2}$ with respect to $\\sin^{-1} \\frac{2x}{1+x^2}$.",
+      "prashna": "$\\tan^{-1} \\frac{2x}{1-x^2}$ का $\\sin^{-1} \\frac{2x}{1+x^2}$ के सापेक्ष अवकलन करें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x=\\sqrt{1+t^2}, y=\\sqrt{1-t^2}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x=\\sqrt{1+t^2}, y=\\sqrt{1-t^2}$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y=x^{\\sin x}$, find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y=x^{\\sin x}$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^{\\pi/2} \\frac{dx}{1+\\sqrt{\\tan x}}$.",
+      "prashna": "$\\int_0^{\\pi/2} \\frac{dx}{1+\\sqrt{\\tan x}}$ का मान निकालें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^a \\sqrt{a^2-x^2} dx$.",
+      "prashna": "$\\int_0^a \\sqrt{a^2-x^2} dx$ का मान निकालें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the distance between the planes $x-2y+2z=6$ and $3x-6y+6z=2$.",
+      "prashna": "तलों $x-2y+2z=6$ और $3x-6y+6z=2$ के बीच की दूरी ज्ञात करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the equation of the plane whose intercepts on the axes of x, y, z are respectively 2, 3 and -4.",
+      "prashna": "उस तल का समीकरण ज्ञात करें जिसके x, y और z अक्षों पर अंतःखण्ड क्रमशः 2, 3 और -4 हैं।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the value of p so that the lines $\\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z+17}{p}$ and $\\frac{x+4}{2}=\\frac{y+9}{2}=\\frac{z-1}{2}$ are mutually perpendicular.",
+      "prashna": "p का मान ज्ञात करें जिसमें रेखाएँ $\\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z+17}{p}$ और $\\frac{x+4}{2}=\\frac{y+9}{2}=\\frac{z-1}{2}$ परस्पर लम्ब हों।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\cos^3 x \\sin x dx$.",
+      "prashna": "$\\int \\cos^3 x \\sin x dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\frac{x^2-1}{x^2+4} dx$.",
+      "prashna": "$\\int \\frac{x^2-1}{x^2+4} dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} = e^{x+y}$.",
+      "prashna": "हल करें : $\\frac{dy}{dx} = e^{x+y}$."
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the mean for the following probability distribution: \n\n| $x_i$ | 0 | 1 | 2 | 3 | \n|---|---|---|---|---| \n| $p_i$ | 1/8 | 3/8 | 3/8 | 1/8 |",
+      "prashna": "निम्न प्रायिकता बंटन के लिए माध्य ज्ञात करें: \n\n| $x_i$ | 0 | 1 | 2 | 3 | \n|---|---|---|---|---| \n| $p_i$ | 1/8 | 3/8 | 3/8 | 1/8 |"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\vec{i} - \\vec{j} + \\vec{k}$ and $\\vec{b} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ then find the value of $|\\vec{a} + \\vec{b}|$.",
+      "prashna": "यदि $\\vec{a} = \\vec{i} - \\vec{j} + \\vec{k}$ तथा $\\vec{b} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ तो $|\\vec{a} + \\vec{b}|$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the direction cosines of the vector $3\\vec{i} - 4\\vec{j} + 12\\vec{k}$.",
+      "prashna": "सदिश $3\\vec{i} - 4\\vec{j} + 12\\vec{k}$ की दिक्-कोज्याएँ निकालें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^{\\pi/2} x \\cos x dx$.",
+      "prashna": "$\\int_0^{\\pi/2} x \\cos x dx$ का मान निकालें।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\sin^3 x dx$.",
+      "prashna": "$\\int \\sin^3 x dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\frac{dx}{\\sqrt{x+1}+\\sqrt{x+2}}$.",
+      "prashna": "$\\int \\frac{dx}{\\sqrt{x+1}+\\sqrt{x+2}}$ का समाकलन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the distance of the point (a, b, c) from X-axis.",
+      "prashna": "X-अक्ष से बिन्दु (a, b, c) की दूरी ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the equation of a plane passing through the points (3, 0, 0), (0, -1, 0) and (0, 0, 2).",
+      "prashna": "बिन्दु (3, 0, 0), (0, -1, 0) तथा (0, 0, 2) से गुजरने वाले तल का समीकरण ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "The foot of perpendicular drawn from the origin to a plane is (2, -1, 3). Find the equation of the plane.",
+      "prashna": "मूलबिन्दु से एक तल पर डाले गए लम्ब की पाद का निर्देशांक (2, -1, 3) है। उस तल का समीकरण ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "If A and B are two events such that $P(A) = \\frac{1}{2}, P(B) = \\frac{1}{3}$ and $P(A \\cap B) = \\frac{1}{4}$ then find the following",
+      "prashna": "यदि A तथा B दो घटनाएँ इस प्रकार है कि $P(A) = \\frac{1}{2}, P(B) = \\frac{1}{3}$ तथा $P(A \\cap B) = \\frac{1}{4}$ तो निम्नलिखित को ज्ञात कीजिए।",
+      "sub_questions": {
+        "i": "$P(A'/B)$",
+        "ii": "$P(A'/B')$"
+      },
+      "anuprashna": {
+        "i": "$P(A'/B)$",
+        "ii": "$P(A'/B')$"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "The probability distribution of a random variable x is following.\n| X | 0.5 | 1 | 1.5 | 2 |\n|---|---|---|---|---|\n| P(X) | K | $K^2$ | $2K^2$ | K |",
+      "prashna": "एक यादृच्छिक चर x का प्रायिकता बंटन निम्नलिखित है।\n| X | 0.5 | 1 | 1.5 | 2 |\n|---|---|---|---|---|\n| P(X) | K | $K^2$ | $2K^2$ | K |",
+      "sub_questions": {
+        "i": "Find the value of K.",
+        "ii": "Determine the mean of the distribution."
+      },
+      "anuprashna": {
+        "i": "K का मान ज्ञात करें।",
+        "ii": "बंटन का माध्य ज्ञात करें।"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "If $\\cos^{-1}\\alpha + \\cos^{-1}\\beta + \\cos^{-1}\\gamma = 3\\pi$, then find the value of $\\alpha(\\beta + \\gamma) + \\beta(\\gamma + \\alpha) + \\gamma(\\alpha + \\beta)$.",
+      "prashna": "यदि $\\cos^{-1}\\alpha + \\cos^{-1}\\beta + \\cos^{-1}\\gamma = 3\\pi$ तो $\\alpha(\\beta + \\gamma) + \\beta(\\gamma + \\alpha) + \\gamma(\\alpha + \\beta)$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Find the value of $\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) + \\cot^{-1}(\\frac{1}{\\sqrt{3}}) + \\tan^{-1}[\\sin(-\\frac{\\pi}{2})]$.",
+      "prashna": "$\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) + \\cot^{-1}(\\frac{1}{\\sqrt{3}}) + \\tan^{-1}[\\sin(-\\frac{\\pi}{2})]$ का मान ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Solve the Equation $\\cos(\\tan^{-1} x) = \\sin(\\cot^{-1} \\frac{3}{4})$.",
+      "prashna": "समीकरण $\\cos(\\tan^{-1} x) = \\sin(\\cot^{-1} \\frac{3}{4})$ को हल कीजिए।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{x^2+2}{x+1} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{x^2+2}{x+1} dx$"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{dx}{1+\\cos x}$",
+      "prashna": "समाकलन करें: $\\int \\frac{dx}{1+\\cos x}$"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "If $\\int_0^a \\frac{1}{1+4x^2} dx = \\frac{\\pi}{8}$ then find the value of $a$.",
+      "prashna": "यदि $\\int_0^a \\frac{1}{1+4x^2} dx = \\frac{\\pi}{8}$ तो $a$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin x}{3+4\\cos^2 x} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{\\sin x}{3+4\\cos^2 x} dx$"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin^6 x + \\cos^6 x}{\\sin^2 x \\cos^2 x} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{\\sin^6 x + \\cos^6 x}{\\sin^2 x \\cos^2 x} dx$"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_2^8 |x-5| dx$",
+      "prashna": "समाकलन करें: $\\int_2^8 |x-5| dx$"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_{\\pi/4}^{\\pi} \\sin^2 x dx$",
+      "prashna": "समाकलन करें: $\\int_{\\pi/4}^{\\pi} \\sin^2 x dx$"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} + \\hat{j} + 2\\hat{k}$ and $\\vec{b} = 2\\hat{i} + \\hat{j} + 2\\hat{k}$ then find the unit vector in the direction of vector $(2\\vec{a} - \\vec{b})$.",
+      "prashna": "यदि $\\vec{a} = \\hat{i} + \\hat{j} + 2\\hat{k}$ तथा $\\vec{b} = 2\\hat{i} + \\hat{j} + 2\\hat{k}$ तो सदिश $(2\\vec{a} - \\vec{b})$ की दिशा में इकाई सदिश ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find vector $\\vec{v}$ which is perpendicular to $(2\\hat{i} - \\hat{j} + 2\\hat{k})$ and $(4\\hat{i} - \\hat{j} + 3\\hat{k})$ and $|\\vec{v}| = 6$.",
+      "prashna": "सदिश $\\vec{v}$ ज्ञात कीजिए। जो कि $(2\\hat{i} - \\hat{j} + 2\\hat{k})$ तथा $(4\\hat{i} - \\hat{j} + 3\\hat{k})$ पर लम्ब है। तथा $|\\vec{v}| = 6$।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are unit vectors and $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ then find the value of $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$.",
+      "prashna": "यदि $\\vec{a}, \\vec{b}, \\vec{c}$ इकाई सदिश है। तथा $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ तो $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$ का मान ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = 3\\cos\\theta - 2\\cos^3\\theta, y = 3\\sin\\theta - 2\\sin^3\\theta$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = 3\\cos\\theta - 2\\cos^3\\theta, y = 3\\sin\\theta - 2\\sin^3\\theta$ तो $\\frac{dy}{dx}$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $\\tan^{-1}(x^2 + y^2) = K$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $\\tan^{-1}(x^2 + y^2) = K$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\log |\\frac{1-x^2}{1+x^2}|$, then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\log |\\frac{1-x^2}{1+x^2}|$ तो $\\frac{dy}{dx}$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $\\sqrt{x} + \\sqrt{y} = 1$ then find the value of $\\frac{dy}{dx}$ at point $(\\frac{1}{4}, \\frac{1}{4})$.",
+      "prashna": "यदि $\\sqrt{x} + \\sqrt{y} = 1$ तो बिन्दु $(\\frac{1}{4}, \\frac{1}{4})$ पर $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "If the curves $ay + x^2 = 7$ and $x^3 = y$ cut each other orthogonally at (1, 1). Find the value of a.",
+      "prashna": "यदि वक्र $ay + x^2 = 7$ तथा $x^3 = y$ एक दूसरे का बिन्दु (1, 1) पर लम्बवत काटते हैं तो $a$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "Find the interval in which the function $f(x) = 2x^3 + 9x^2 + 12x - 1$ is decreasing.",
+      "prashna": "अंतराल ज्ञात करें जिसमें फलन $f(x) = 2x^3 + 9x^2 + 12x - 1$ ह्रासमान है।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Find the integrating factor of the differential equation $(1 - x^2)\\frac{dy}{dx} - xy = 1$.",
+      "prashna": "अवकल समीकरण $(1 - x^2)\\frac{dy}{dx} - xy = 1$ का समाकलन गुणक ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + y = e^{-x}$",
+      "prashna": "हल करें: $\\frac{dy}{dx} + y = e^{-x}$"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 2 & -1 & 0 \\\\ 3 & 4 & 5 \\end{bmatrix}$ and $B = \\begin{bmatrix} 7 & -1 \\\\ 2 & 3 \\\\ 5 & 0 \\end{bmatrix}$, then find $(AB)'$.",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & -1 & 0 \\\\ 3 & 4 & 5 \\end{bmatrix}$ तथा $B = \\begin{bmatrix} 7 & -1 \\\\ 2 & 3 \\\\ 5 & 0 \\end{bmatrix}$ तो $(AB)'$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Find the inverse matrix of the matrix $A = \\begin{bmatrix} 3 & 2 \\\\ 5 & -1 \\end{bmatrix}$.",
+      "prashna": "आव्यूह $A = \\begin{bmatrix} 3 & 2 \\\\ 5 & -1 \\end{bmatrix}$ का व्युत्क्रम आव्यूह ज्ञात करें।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Solve: $\\begin{vmatrix} x^2-x+1 & x-1 \\\\ x+1 & x+1 \\end{vmatrix} = 2$",
+      "prashna": "हल करें: $\\begin{vmatrix} x^2-x+1 & x-1 \\\\ x+1 & x+1 \\end{vmatrix} = 2$"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "If $f(x) = 4 - (x-7)^3$ then find $f^{-1}(x)$.",
+      "prashna": "यदि $f(x) = 4 - (x-7)^3$ तो $f^{-1}(x)$ ज्ञात कीजिए।"
+    }
+  ]
+}

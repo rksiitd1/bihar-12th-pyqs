@@ -1,0 +1,2840 @@
+{
+  "2021": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\log 2 dx = $",
+      "prashna": "$\\int \\log 2 dx = $",
+      "options": {
+        "A": "$x+k$",
+        "B": "$\\log 2 + k$",
+        "C": "$x\\log 2 + k$",
+        "D": "$x^2\\log 2 + k$"
+      },
+      "vikalpa": {
+        "A": "$x+k$",
+        "B": "$\\log 2 + k$",
+        "C": "$x\\log 2 + k$",
+        "D": "$x^2\\log 2 + k$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int (x+2) dx = $",
+      "prashna": "$\\int (x+2) dx = $",
+      "options": {
+        "A": "$(x+2)^3 + k$",
+        "B": "$\\frac{x^2}{2} + k$",
+        "C": "$\\frac{x^2}{2} + 2x + k$",
+        "D": "$\\log(x+2) + k$"
+      },
+      "vikalpa": {
+        "A": "$(x+2)^3 + k$",
+        "B": "$\\frac{x^2}{2} + k$",
+        "C": "$\\frac{x^2}{2} + 2x + k$",
+        "D": "$\\log(x+2) + k$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{1}^{3} dx = $",
+      "prashna": "$\\int_{1}^{3} dx = $",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "3",
+        "D": "$\\frac{1}{2}$"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "2",
+        "C": "3",
+        "D": "$\\frac{1}{2}$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+      "prashna": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sin x \\cos x dx = $",
+      "prashna": "$\\int \\sin x \\cos x dx = $",
+      "options": {
+        "A": "$\\frac{1}{2}\\sin 2x + k$",
+        "B": "$\\frac{\\sin x}{2} + k$",
+        "C": "$\\frac{\\sin^2 x}{2} + k$",
+        "D": "$\\frac{\\cos^2 x}{2} + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}\\sin 2x + k$",
+        "B": "$\\frac{\\sin x}{2} + k$",
+        "C": "$\\frac{\\sin^2 x}{2} + k$",
+        "D": "$\\frac{\\cos^2 x}{2} + k$"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\cos 2x}{(\\sin x + \\cos x)^2} dx$",
+      "prashna": "$\\int \\frac{\\cos 2x}{(\\sin x + \\cos x)^2} dx$",
+      "options": {
+        "A": "$2\\log(\\sin x + \\cos x) + c$",
+        "B": "$\\log(\\sin x + \\cos x) + c$",
+        "C": "$\\log(\\sin x - \\cos x) + c$",
+        "D": "$\\frac{1}{\\sin x + \\cos x} + c$"
+      },
+      "vikalpa": {
+        "A": "$2\\log(\\sin x + \\cos x) + c$",
+        "B": "$\\log(\\sin x + \\cos x) + c$",
+        "C": "$\\log(\\sin x - \\cos x) + c$",
+        "D": "$\\frac{1}{\\sin x + \\cos x} + c$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\sec x}{\\sec x + \\tan x} dx = $",
+      "prashna": "$\\int \\frac{\\sec x}{\\sec x + \\tan x} dx = $",
+      "options": {
+        "A": "$\\tan x + \\sec x + k$",
+        "B": "$\\tan x - \\sec x + k$",
+        "C": "$\\sec x + k$",
+        "D": "$\\tan x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan x + \\sec x + k$",
+        "B": "$\\tan x - \\sec x + k$",
+        "C": "$\\sec x + k$",
+        "D": "$\\tan x + k$"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sqrt{\\frac{1-\\cos 2x}{1+\\cos 2x}} dx$",
+      "prashna": "$\\int \\sqrt{\\frac{1-\\cos 2x}{1+\\cos 2x}} dx$",
+      "options": {
+        "A": "$\\tan x + x + k$",
+        "B": "$\\tan x - x + k$",
+        "C": "$x - \\tan^2 x + k$",
+        "D": "$\\tan \\frac{x}{2} + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan x + x + k$",
+        "B": "$\\tan x - x + k$",
+        "C": "$x - \\tan^2 x + k$",
+        "D": "$\\tan \\frac{x}{2} + k$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\cot^2 x dx = $",
+      "prashna": "$\\int \\cot^2 x dx = $",
+      "options": {
+        "A": "$\\cot x - x + k$",
+        "B": "$2 \\cot x \\cosec^2 x + k$",
+        "C": "$-\\cot x - x + k$",
+        "D": "$x + \\cot x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\cot x - x + k$",
+        "B": "$2 \\cot x \\cosec^2 x + k$",
+        "C": "$-\\cot x - x + k$",
+        "D": "$x + \\cot x + k$"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{3} x dx = $",
+      "prashna": "$\\int_{0}^{3} x dx = $",
+      "options": {
+        "A": "$\\frac{3}{2}$",
+        "B": "9",
+        "C": "$\\frac{9}{2}$",
+        "D": "$\\frac{9}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{3}{2}$",
+        "B": "9",
+        "C": "$\\frac{9}{2}$",
+        "D": "$\\frac{9}{4}$"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{2} (x^2+1) dx = $",
+      "prashna": "$\\int_{0}^{2} (x^2+1) dx = $",
+      "options": {
+        "A": "$\\frac{8}{3}$",
+        "B": "$\\frac{14}{3}$",
+        "C": "$\\frac{13}{3}$",
+        "D": "$\\frac{1}{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{8}{3}$",
+        "B": "$\\frac{14}{3}$",
+        "C": "$\\frac{13}{3}$",
+        "D": "$\\frac{1}{3}$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+      "prashna": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\frac{\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\frac{\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} \\frac{dx}{x+1} = $",
+      "prashna": "$\\int_{0}^{1} \\frac{dx}{x+1} = $",
+      "options": {
+        "A": "$\\log 2$",
+        "B": "$-\\log 2$",
+        "C": "$2\\log 2$",
+        "D": "$-2\\log 2$"
+      },
+      "vikalpa": {
+        "A": "$\\log 2$",
+        "B": "$-\\log 2$",
+        "C": "$2\\log 2$",
+        "D": "$-2\\log 2$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\log(\\cot\\theta) d\\theta = $",
+      "prashna": "$\\int_{0}^{\\pi/2} \\log(\\cot\\theta) d\\theta = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2}\\log 2$",
+        "B": "$\\frac{\\pi}{4}\\log 2$",
+        "C": "$2\\pi\\log 2$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}\\log 2$",
+        "B": "$\\frac{\\pi}{4}\\log 2$",
+        "C": "$2\\pi\\log 2$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi/2}^{\\pi/2} |\\cos x| dx = $",
+      "prashna": "$\\int_{-\\pi/2}^{\\pi/2} |\\cos x| dx = $",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\frac{\\cos\\theta}{\\cos\\theta + \\sin\\theta} d\\theta = $",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\cos\\theta}{\\cos\\theta + \\sin\\theta} d\\theta = $",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{4}$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{x-1} = $",
+      "prashna": "$\\int \\frac{dx}{x-1} = $",
+      "options": {
+        "A": "$\\log|x+1| + k$",
+        "B": "$-\\log|1+x| + k$",
+        "C": "$\\log|x-1| + k$",
+        "D": "$\\log x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\log|x+1| + k$",
+        "B": "$-\\log|1+x| + k$",
+        "C": "$\\log|x-1| + k$",
+        "D": "$\\log x + k$"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{x^4-1}{x^2+1} dx = $",
+      "prashna": "$\\int \\frac{x^4-1}{x^2+1} dx = $",
+      "options": {
+        "A": "$\\frac{x^3}{3} + 2x + k$",
+        "B": "$\\frac{x^3}{3} - 2x + k$",
+        "C": "$\\frac{x^3}{3} + x + k$",
+        "D": "$\\frac{x^3}{3} - x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x^3}{3} + 2x + k$",
+        "B": "$\\frac{x^3}{3} - 2x + k$",
+        "C": "$\\frac{x^3}{3} + x + k$",
+        "D": "$\\frac{x^3}{3} - x + k$"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} e^x dx = $",
+      "prashna": "$\\int_{0}^{1} e^x dx = $",
+      "options": {
+        "A": "e",
+        "B": "e+1",
+        "C": "e-1",
+        "D": "1-e"
+      },
+      "vikalpa": {
+        "A": "e",
+        "B": "e+1",
+        "C": "e-1",
+        "D": "1-e"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{a}^{b} \\phi(x)dx + \\int_{b}^{a} \\phi(x)dx = $",
+      "prashna": "$\\int_{a}^{b} \\phi(x)dx + \\int_{b}^{a} \\phi(x)dx = $",
+      "options": {
+        "A": "$2\\int_{a}^{b} \\phi(x)dx$",
+        "B": "$2\\int_{b}^{a} \\phi(x)dx$",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$2\\int_{a}^{b} \\phi(x)dx$",
+        "B": "$2\\int_{b}^{a} \\phi(x)dx$",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\log x dx = $",
+      "prashna": "$\\int \\log x dx = $",
+      "options": {
+        "A": "$\\frac{1}{x} + k$",
+        "B": "$x\\log x + k$",
+        "C": "$x\\log x - x + k$",
+        "D": "$x\\log x + x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{x} + k$",
+        "B": "$x\\log x + k$",
+        "C": "$x\\log x - x + k$",
+        "D": "$x\\log x + x + k$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\cos^2 x dx$.",
+      "prashna": "समाकलन करें $\\int \\cos^2 x dx$."
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\sqrt{1-\\sin 2x} \\, dx$.",
+      "prashna": "समाकलन करें $\\int \\sqrt{1-\\sin 2x} \\, dx$."
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$.",
+      "prashna": "$\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Prove that $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$.",
+      "prashna": "सिद्ध करें कि $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$."
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$.",
+      "prashna": "मान निकालें $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$."
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\tan^4 x dx$.",
+      "prashna": "समाकलन करें $\\int \\tan^4 x dx$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{x^2 - 1} =$",
+      "prashna": "$\\int \\frac{dx}{x^2 - 1} =$",
+      "options": {
+        "A": "$\\sin^{-1} x + k$",
+        "B": "$\\frac{1}{2}\\log|\\frac{x-1}{x+1}| + k$",
+        "C": "$\\frac{1}{2}\\log|\\frac{x+1}{x-1}| + k$",
+        "D": "$\\sqrt{1-x^2} + k$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1} x + k$",
+        "B": "$\\frac{1}{2}\\log|\\frac{x-1}{x+1}| + k$",
+        "C": "$\\frac{1}{2}\\log|\\frac{x+1}{x-1}| + k$",
+        "D": "$\\sqrt{1-x^2} + k$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{x^2+4} =$",
+      "prashna": "$\\int \\frac{dx}{x^2+4} =$",
+      "options": {
+        "A": "$\\frac{1}{2}\\sin^{-1}\\frac{x}{2} + k$",
+        "B": "$\\frac{1}{2}\\cos^{-1}\\frac{x}{2} + k$",
+        "C": "$\\frac{1}{2}\\tan^{-1}\\frac{x}{2} + k$",
+        "D": "$\\tan^{-1} x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}\\sin^{-1}\\frac{x}{2} + k$",
+        "B": "$\\frac{1}{2}\\cos^{-1}\\frac{x}{2} + k$",
+        "C": "$\\frac{1}{2}\\tan^{-1}\\frac{x}{2} + k$",
+        "D": "$\\tan^{-1} x + k$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} \\frac{\\tan^{-1}x}{1+x^2} dx =$",
+      "prashna": "$\\int_{0}^{1} \\frac{\\tan^{-1}x}{1+x^2} dx =$",
+      "options": {
+        "A": "$\\frac{\\pi^2}{8}$",
+        "B": "$\\frac{\\pi^2}{12}$",
+        "C": "$\\frac{\\pi^2}{16}$",
+        "D": "$\\frac{\\pi^2}{32}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi^2}{8}$",
+        "B": "$\\frac{\\pi^2}{12}$",
+        "C": "$\\frac{\\pi^2}{16}$",
+        "D": "$\\frac{\\pi^2}{32}$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{\\pi/2}^{\\pi/2} \\sin^2 x dx =$",
+      "prashna": "$\\int_{\\pi/2}^{\\pi/2} \\sin^2 x dx =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "5",
+        "D": "11"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "5",
+        "D": "11"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{1}^{4} \\sqrt{x} dx =$",
+      "prashna": "$\\int_{1}^{4} \\sqrt{x} dx =$",
+      "options": {
+        "A": "$\\frac{14}{3}$",
+        "B": "$\\frac{11}{3}$",
+        "C": "$\\frac{19}{3}$",
+        "D": "$\\frac{22}{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{14}{3}$",
+        "B": "$\\frac{11}{3}$",
+        "C": "$\\frac{19}{3}$",
+        "D": "$\\frac{22}{3}$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi}^{\\pi} \\tan x dx =$",
+      "prashna": "$\\int_{-\\pi}^{\\pi} \\tan x dx =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi/4}^{\\pi/4} \\sin^3 x dx =$",
+      "prashna": "$\\int_{-\\pi/4}^{\\pi/4} \\sin^3 x dx =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "$\\frac{3}{\\sqrt{2}}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "$\\frac{3}{\\sqrt{2}}$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{e^x + e^{-x}} =$",
+      "prashna": "$\\int \\frac{dx}{e^x + e^{-x}} =$",
+      "options": {
+        "A": "$\\tan^{-1}(e^x) + k$",
+        "B": "$\\tan^{-1}(e^{-x}) + k$",
+        "C": "$\\log|e^x + e^{-x}| + k$",
+        "D": "$x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}(e^x) + k$",
+        "B": "$\\tan^{-1}(e^{-x}) + k$",
+        "C": "$\\log|e^x + e^{-x}| + k$",
+        "D": "$x + k$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int(4e^{3x} + 1)dx =$",
+      "prashna": "$\\int(4e^{3x} + 1)dx =$",
+      "options": {
+        "A": "$4e^{3x} + k$",
+        "B": "$\\frac{4}{3}e^{3x} + x+k$",
+        "C": "$12e^{3x} + x+k$",
+        "D": "$12e^{3x} + k$"
+      },
+      "vikalpa": {
+        "A": "$4e^{3x} + k$",
+        "B": "$\\frac{4}{3}e^{3x} + x+k$",
+        "C": "$12e^{3x} + x+k$",
+        "D": "$12e^{3x} + k$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$3\\int \\sqrt{x} dx =$",
+      "prashna": "$3\\int \\sqrt{x} dx =$",
+      "options": {
+        "A": "$2x^{3/2} + k$",
+        "B": "$4x^3 + k$",
+        "C": "$3x^{3/2} + k$",
+        "D": "$6x^{3/2} + k$"
+      },
+      "vikalpa": {
+        "A": "$2x^{3/2} + k$",
+        "B": "$4x^3 + k$",
+        "C": "$3x^{3/2} + k$",
+        "D": "$6x^{3/2} + k$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{\\sqrt{1-x^2}} =$",
+      "prashna": "$\\int \\frac{dx}{\\sqrt{1-x^2}} =$",
+      "options": {
+        "A": "$\\tan^{-1}x+k$",
+        "B": "$\\sin^{-1}x+k$",
+        "C": "$\\cos^{-1}x+k$",
+        "D": "$\\sec^{-1}x+k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}x+k$",
+        "B": "$\\sin^{-1}x+k$",
+        "C": "$\\cos^{-1}x+k$",
+        "D": "$\\sec^{-1}x+k$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$2\\int \\frac{1}{1+4x^2} dx =$",
+      "prashna": "$2\\int \\frac{1}{1+4x^2} dx =$",
+      "options": {
+        "A": "$\\tan^{-1} x + k$",
+        "B": "$\\log|1+4x^2| + k$",
+        "C": "$\\tan^{-1} 2x + k$",
+        "D": "$\\sin^{-1} 2x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1} x + k$",
+        "B": "$\\log|1+4x^2| + k$",
+        "C": "$\\tan^{-1} 2x + k$",
+        "D": "$\\sin^{-1} 2x + k$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\left(\\frac{\\cos^2 x + \\sin^2 x}{\\csc x}\\right) dx =$",
+      "prashna": "$\\int \\left(\\frac{\\cos^2 x + \\sin^2 x}{\\csc x}\\right) dx =$",
+      "options": {
+        "A": "$k + \\csc x$",
+        "B": "$k - \\sin x$",
+        "C": "$k + \\sin x$",
+        "D": "$k - \\cos x$"
+      },
+      "vikalpa": {
+        "A": "$k + \\csc x$",
+        "B": "$k - \\sin x$",
+        "C": "$k + \\sin x$",
+        "D": "$k - \\cos x$"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$3 \\int dx =$",
+      "prashna": "$3 \\int dx =$",
+      "options": {
+        "A": "$3x + k$",
+        "B": "$3 + k$",
+        "C": "$1/3 + k$",
+        "D": "$1 + k$"
+      },
+      "vikalpa": {
+        "A": "$3x + k$",
+        "B": "$3 + k$",
+        "C": "1/3 + k",
+        "D": "1 + k"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} x(1-x)^{10} dx =$",
+      "prashna": "$\\int_{0}^{1} x(1-x)^{10} dx =$",
+      "options": {
+        "A": "$\\frac{1}{132}$",
+        "B": "$\\frac{5}{132}$",
+        "C": "$\\frac{7}{132}$",
+        "D": "$\\frac{45}{244}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{132}$",
+        "B": "$\\frac{5}{132}$",
+        "C": "$\\frac{7}{132}$",
+        "D": "$\\frac{45}{244}$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{x} =$",
+      "prashna": "$\\int \\frac{dx}{x} =$",
+      "options": {
+        "A": "$\\log |x| + k$",
+        "B": "$x \\log |x| + k$",
+        "C": "$e^x + k$",
+        "D": "$x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\log |x| + k$",
+        "B": "$x \\log |x| + k$",
+        "C": "$e^x + k$",
+        "D": "$x + k$"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sin x dx =$",
+      "prashna": "$\\int \\sin x dx =$",
+      "options": {
+        "A": "$k - \\cos x$",
+        "B": "$k + \\cos x$",
+        "C": "$-\\tan x + k$",
+        "D": "$\\tan x - k$"
+      },
+      "vikalpa": {
+        "A": "$k - \\cos x$",
+        "B": "$k + \\cos x$",
+        "C": "$-\\tan x + k$",
+        "D": "$\\tan x - k$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\cos 6\\theta d\\theta$",
+      "prashna": "$\\int \\cos 6\\theta d\\theta$",
+      "options": {
+        "A": "$k + \\sin 6\\theta$",
+        "B": "$k - \\sin 6\\theta$",
+        "C": "$k - 6\\sin 6\\theta$",
+        "D": "$k + \\frac{1}{6}\\sin 6\\theta$"
+      },
+      "vikalpa": {
+        "A": "$k + \\sin 6\\theta$",
+        "B": "$k - \\sin 6\\theta$",
+        "C": "$k - 6\\sin 6\\theta$",
+        "D": "$k + \\frac{1}{6}\\sin 6\\theta$"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\tan 2x dx =$",
+      "prashna": "$\\int \\tan 2x dx =$",
+      "options": {
+        "A": "$\\frac{1}{2}\\log|\\tan 2x| + k$",
+        "B": "$\\frac{1}{2}\\log|\\sec 2x| + k$",
+        "C": "$2\\log|\\sec 2x| + k$",
+        "D": "$\\log|\\sec x| + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}\\log|\\tan 2x| + k$",
+        "B": "$\\frac{1}{2}\\log|\\sec 2x| + k$",
+        "C": "$2\\log|\\sec 2x| + k$",
+        "D": "$\\log|\\sec x| + k$"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} x^2 dx =$",
+      "prashna": "$\\int_{0}^{1} x^2 dx =$",
+      "options": {
+        "A": "$\\frac{1}{3}$",
+        "B": "0",
+        "C": "1",
+        "D": "$-\\frac{1}{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{3}$",
+        "B": "0",
+        "C": "1",
+        "D": "$-\\frac{1}{3}$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\sin x dx =$",
+      "prashna": "$\\int_{0}^{\\pi/2} \\sin x dx =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{a}^{b} e^x dx =$",
+      "prashna": "$\\int_{a}^{b} e^x dx =$",
+      "options": {
+        "A": "$\\frac{b}{a}e^x$",
+        "B": "$e^{b-a}$",
+        "C": "$e^b - e^a$",
+        "D": "$e^b + e^a$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{b}{a}e^x$",
+        "B": "$e^{b-a}$",
+        "C": "$e^b - e^a$",
+        "D": "$e^b + e^a$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{a}^{b} dx =$",
+      "prashna": "$\\int_{a}^{b} dx =$",
+      "options": {
+        "A": "$b - a$",
+        "B": "$b + a$",
+        "C": "$b/a$",
+        "D": "$ab$"
+      },
+      "vikalpa": {
+        "A": "$b - a$",
+        "B": "$b + a$",
+        "C": "$b/a$",
+        "D": "$ab$"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} x dx =$",
+      "prashna": "$\\int_{0}^{1} x dx =$",
+      "options": {
+        "A": "0",
+        "B": "1/2",
+        "C": "1",
+        "D": "1/4"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1/2",
+        "C": "1",
+        "D": "1/4"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{x^2 - 1}{x - 1} dx =$",
+      "prashna": "$\\int \\frac{x^2 - 1}{x - 1} dx =$",
+      "options": {
+        "A": "$x + k$",
+        "B": "$\\frac{x^2}{2} + x + k$",
+        "C": "$\\frac{x^3}{3} - \\frac{x^2}{2} + k$",
+        "D": "$\\frac{x^2}{2} + 2x + k$"
+      },
+      "vikalpa": {
+        "A": "$x + k$",
+        "B": "$\\frac{x^2}{2} + x + k$",
+        "C": "$\\frac{x^3}{3} - \\frac{x^2}{2} + k$",
+        "D": "$\\frac{x^2}{2} + 2x + k$"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int x^{3/2} dx =$",
+      "prashna": "$\\int x^{3/2} dx =$",
+      "options": {
+        "A": "$\\frac{2}{3}x^{3/2} + k$",
+        "B": "$\\frac{2}{5}x^{5/2} + k$",
+        "C": "$\\frac{2}{3}x^{5/2} + k$",
+        "D": "$\\frac{5}{2}x^{5/2} + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{3}x^{3/2} + k$",
+        "B": "$\\frac{2}{5}x^{5/2} + k$",
+        "C": "$\\frac{2}{3}x^{5/2} + k$",
+        "D": "$\\frac{5}{2}x^{5/2} + k$"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int x e^{2x} dx =$",
+      "prashna": "$\\int x e^{2x} dx =$",
+      "options": {
+        "A": "$(2x - 1)\\frac{e^{2x}}{4} + k$",
+        "B": "$(x - 1)\\frac{e^{2x}}{4} + k$",
+        "C": "$\\frac{e^{2x}}{4} + k$",
+        "D": "$\\frac{(x+2)e^{2x}}{4} + k$"
+      },
+      "vikalpa": {
+        "A": "$(2x - 1)\\frac{e^{2x}}{4} + k$",
+        "B": "$(x - 1)\\frac{e^{2x}}{4} + k$",
+        "C": "$\\frac{e^{2x}}{4} + k$",
+        "D": "$\\frac{(x+2)e^{2x}}{4} + k$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_{a}^{b} \\frac{(\\log x)^2}{x} dx$",
+      "prashna": "मान ज्ञात करे : $\\int_{a}^{b} \\frac{(\\log x)^2}{x} dx$"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{e^{2x}}{1+e^x} dx$",
+      "prashna": "समाकलन करे : $\\int \\frac{e^{2x}}{1+e^x} dx$"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\sin^4 \\theta d\\theta$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\sin^4 \\theta d\\theta$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\cos x} + \\sqrt{\\sin x}} dx$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\cos x} + \\sqrt{\\sin x}} dx$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\sqrt{1 + \\cos 2x} dx$",
+      "prashna": "समाकलन करे : $\\int \\sqrt{1 + \\cos 2x} dx$"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin x + \\cos x}{\\sqrt{1 + \\sin 2x}} dx$.",
+      "prashna": "समाकलन करे : $\\int \\frac{\\sin x + \\cos x}{\\sqrt{1 + \\sin 2x}} dx$."
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{x-2}{x^2 - 3x + 2} dx$",
+      "prashna": "समाकलन करे : $\\int \\frac{x-2}{x^2 - 3x + 2} dx$"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{(\\sin x - \\cos x)^3}{\\sqrt{1-\\sin^2 x}} dx$.",
+      "prashna": "समाकलन करे : $\\int \\frac{(\\sin x - \\cos x)^3}{\\sqrt{1-\\sin^2 x}} dx$."
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_{0}^{\\pi/2} \\log \\sin x dx$",
+      "prashna": "मान ज्ञात करे : $\\int_{0}^{\\pi/2} \\log \\sin x dx$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sin\\frac{3x}{4} dx =$",
+      "prashna": "$\\int \\sin\\frac{3x}{4} dx =$",
+      "options": {
+        "A": "$k - \\frac{3}{4}\\cos\\frac{3x}{4}$",
+        "B": "$k + \\frac{3}{4}\\cos\\frac{3x}{4}$",
+        "C": "$k - \\frac{4}{3}\\cos\\frac{3x}{4}$",
+        "D": "$k + \\frac{4}{3}\\cos\\frac{3x}{4}$"
+      },
+      "vikalpa": {
+        "A": "$k - \\frac{3}{4}\\cos\\frac{3x}{4}$",
+        "B": "$k + \\frac{3}{4}\\cos\\frac{3x}{4}$",
+        "C": "$k - \\frac{4}{3}\\cos\\frac{3x}{4}$",
+        "D": "$k + \\frac{4}{3}\\cos\\frac{3x}{4}$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\cos\\frac{7x}{9} dx =$",
+      "prashna": "$\\int \\cos\\frac{7x}{9} dx =$",
+      "options": {
+        "A": "$k + \\sin\\frac{7x}{9}$",
+        "B": "$\\frac{7}{9}\\sin\\frac{7x}{9} + k$",
+        "C": "$\\frac{9}{7}\\sin\\frac{7x}{9} + k$",
+        "D": "$k + \\cos\\frac{7x}{9}$"
+      },
+      "vikalpa": {
+        "A": "$k + \\sin\\frac{7x}{9}$",
+        "B": "$\\frac{7}{9}\\sin\\frac{7x}{9} + k$",
+        "C": "$\\frac{9}{7}\\sin\\frac{7x}{9} + k$",
+        "D": "$k + \\cos\\frac{7x}{9}$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sec^2\\frac{17x}{23} dx =$",
+      "prashna": "$\\int \\sec^2\\frac{17x}{23} dx =$",
+      "options": {
+        "A": "$k + \\frac{17}{23}\\tan\\frac{17x}{23}$",
+        "B": "$k - \\frac{17}{23}\\tan\\frac{17x}{23}$",
+        "C": "$k + \\frac{23}{17}\\tan\\frac{17x}{23}$",
+        "D": "$k - \\frac{23}{17}\\tan\\frac{17x}{23}$"
+      },
+      "vikalpa": {
+        "A": "$k + \\frac{17}{23}\\tan\\frac{17x}{23}$",
+        "B": "$k - \\frac{17}{23}\\tan\\frac{17x}{23}$",
+        "C": "$k + \\frac{23}{17}\\tan\\frac{17x}{23}$",
+        "D": "$k - \\frac{23}{17}\\tan\\frac{17x}{23}$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int 4^x dx =$",
+      "prashna": "$\\int 4^x dx =$",
+      "options": {
+        "A": "$4^x + k$",
+        "B": "$\\frac{4^{x+1}}{x+1} + k$",
+        "C": "$\\frac{4^x}{\\log 4} + k$",
+        "D": "$\\frac{4^x}{\\log 4} + k$"
+      },
+      "vikalpa": {
+        "A": "$4^x + k$",
+        "B": "$\\frac{4^{x+1}}{x+1} + k$",
+        "C": "$\\frac{4^x}{\\log 4} + k$",
+        "D": "$\\frac{4^x}{\\log 4} + k$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int x(4x^2 - 6) dx =$",
+      "prashna": "$\\int x(4x^2 - 6) dx =$",
+      "options": {
+        "A": "$4x^3 - 6x + k$",
+        "B": "$\\frac{4x^4}{3} - 6x^2 + k$",
+        "C": "$x^4 - 3x^2 + k$",
+        "D": "$\\frac{4x^3}{3} - 3x^2 + k$"
+      },
+      "vikalpa": {
+        "A": "$4x^3 - 6x + k$",
+        "B": "$\\frac{4x^4}{3} - 6x^2 + k$",
+        "C": "$x^4 - 3x^2 + k$",
+        "D": "$\\frac{4x^3}{3} - 3x^2 + k$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^x (\\cos x - \\sin x) dx =$",
+      "prashna": "$\\int e^x (\\cos x - \\sin x) dx =$",
+      "options": {
+        "A": "$e^x \\sin x + k$",
+        "B": "$e^x \\cos x + k$",
+        "C": "$-e^x \\sin x + k$",
+        "D": "$k - e^x \\cos x$"
+      },
+      "vikalpa": {
+        "A": "$e^x \\sin x + k$",
+        "B": "$e^x \\cos x + k$",
+        "C": "$-e^x \\sin x + k$",
+        "D": "$k - e^x \\cos x$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^x (x^3 + 3x^2) dx =$",
+      "prashna": "$\\int e^x (x^3 + 3x^2) dx =$",
+      "options": {
+        "A": "$3x^2 e^x + k$",
+        "B": "$x^2 e^x + k$",
+        "C": "$x^3 e^x + k$",
+        "D": "$3e^x \\cdot x^3 + k$"
+      },
+      "vikalpa": {
+        "A": "$3x^2 e^x + k$",
+        "B": "$x^2 e^x + k$",
+        "C": "$x^3 e^x + k$",
+        "D": "$3e^x \\cdot x^3 + k$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^x (\\frac{1}{x} - \\frac{1}{x^2}) dx =$",
+      "prashna": "$\\int e^x (\\frac{1}{x} - \\frac{1}{x^2}) dx =$",
+      "options": {
+        "A": "$\\frac{1}{x}e^x + k$",
+        "B": "$-xe^x + k$",
+        "C": "$k - \\frac{1}{x}e^x$",
+        "D": "$k - \\frac{1}{x^2}e^x$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{x}e^x + k$",
+        "B": "$-xe^x + k$",
+        "C": "$k - \\frac{1}{x}e^x$",
+        "D": "$k - \\frac{1}{x^2}e^x$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{3} x^3 dx =$",
+      "prashna": "$\\int_{0}^{3} x^3 dx =$",
+      "options": {
+        "A": "$\\frac{81}{4}$",
+        "B": "$\\frac{243}{4}$",
+        "C": "0",
+        "D": "$\\frac{9}{4}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{81}{4}$",
+        "B": "$\\frac{243}{4}$",
+        "C": "0",
+        "D": "$\\frac{9}{4}$"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-1}^{1} \\sin^{17}x \\cos^3 x dx =$",
+      "prashna": "$\\int_{-1}^{1} \\sin^{17}x \\cos^3 x dx =$",
+      "options": {
+        "A": "$\\frac{12}{5}$",
+        "B": "0",
+        "C": "1",
+        "D": "$\\frac{3}{5}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{12}{5}$",
+        "B": "0",
+        "C": "1",
+        "D": "$\\frac{3}{5}$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-1}^{1} x^{17} \\cos^4 x dx =$",
+      "prashna": "$\\int_{-1}^{1} x^{17} \\cos^4 x dx =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\frac{3}{17}$",
+        "D": "$\\frac{14}{3}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\frac{3}{17}$",
+        "D": "$\\frac{14}{3}$"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int 3\\sqrt{x} dx =$",
+      "prashna": "$\\int 3\\sqrt{x} dx =$",
+      "options": {
+        "A": "$\\frac{9}{2}x^{3/2} + k$",
+        "B": "$2x^{3/2} + k$",
+        "C": "$3x^{3/2} + k$",
+        "D": "$\\frac{2}{3}x^{3/2} + k$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{9}{2}x^{3/2} + k$",
+        "B": "$2x^{3/2} + k$",
+        "C": "$3x^{3/2} + k$",
+        "D": "$\\frac{2}{3}x^{3/2} + k$"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{x+2}{x^2-4} dx =$",
+      "prashna": "$\\int \\frac{x+2}{x^2-4} dx =$",
+      "options": {
+        "A": "$\\log|x+2| + k$",
+        "B": "$\\log|x^2-4| + k$",
+        "C": "$\\log|x-2| + k$",
+        "D": "$\\log|\\frac{x+2}{x-2}| + k$"
+      },
+      "vikalpa": {
+        "A": "$\\log|x+2| + k$",
+        "B": "$\\log|x^2-4| + k$",
+        "C": "$\\log|x-2| + k$",
+        "D": "$\\log|\\frac{x+2}{x-2}| + k$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{3dx}{\\sqrt{1-9x^2}} =$",
+      "prashna": "$\\int \\frac{3dx}{\\sqrt{1-9x^2}} =$",
+      "options": {
+        "A": "$\\tan^{-1}3x + k$",
+        "B": "$\\sec^{-1}3x + k$",
+        "C": "$\\sin^{-1}3x + k$",
+        "D": "$\\cos^{-1}3x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}3x + k$",
+        "B": "$\\sec^{-1}3x + k$",
+        "C": "$\\sin^{-1}3x + k$",
+        "D": "$\\cos^{-1}3x + k$"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$25 \\int \\sec 5x \\tan 5x dx =$",
+      "prashna": "$25 \\int \\sec 5x \\tan 5x dx =$",
+      "options": {
+        "A": "$25\\sec 5x + k$",
+        "B": "$5\\sec 5x + k$",
+        "C": "$25\\tan 5x + k$",
+        "D": "$\\sec 5x + k$"
+      },
+      "vikalpa": {
+        "A": "$25\\sec 5x + k$",
+        "B": "$5\\sec 5x + k$",
+        "C": "$25\\tan 5x + k$",
+        "D": "$\\sec 5x + k$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sec^2 4x dx =$",
+      "prashna": "$\\int \\sec^2 4x dx =$",
+      "options": {
+        "A": "$\\tan 4x + k$",
+        "B": "$\\frac{1}{4}\\tan 4x + k$",
+        "C": "$4\\tan 4x + k$",
+        "D": "$8\\tan 4x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan 4x + k$",
+        "B": "$\\frac{1}{4}\\tan 4x + k$",
+        "C": "$4\\tan 4x + k$",
+        "D": "$8\\tan 4x + k$"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{1+36x^2} =$",
+      "prashna": "$\\int \\frac{dx}{1+36x^2} =$",
+      "options": {
+        "A": "$6\\tan^{-1}6x + k$",
+        "B": "$3\\tan^{-1}6x + k$",
+        "C": "$\\frac{1}{6}\\tan^{-1}6x + k$",
+        "D": "$\\tan^{-1}6x + k$"
+      },
+      "vikalpa": {
+        "A": "$6\\tan^{-1}6x + k$",
+        "B": "$3\\tan^{-1}6x + k$",
+        "C": "$\\frac{1}{6}\\tan^{-1}6x + k$",
+        "D": "$\\tan^{-1}6x + k$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi/6}^{\\pi/6} \\tan\\theta d\\theta =$",
+      "prashna": "$\\int_{-\\pi/6}^{\\pi/6} \\tan\\theta d\\theta =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sin^3\\theta \\text{cosec}^2\\theta d\\theta =$",
+      "prashna": "$\\int \\sin^3\\theta \\text{cosec}^2\\theta d\\theta =$",
+      "options": {
+        "A": "$c + \\theta$",
+        "B": "$c + \\cos\\theta$",
+        "C": "$c - \\cos\\theta$",
+        "D": "$c + \\sin\\theta$"
+      },
+      "vikalpa": {
+        "A": "$c + \\theta$",
+        "B": "$c + \\cos\\theta$",
+        "C": "$c - \\cos\\theta$",
+        "D": "$c + \\sin\\theta$"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int (\\cos\\theta \\text{cosec}^2\\theta - \\cos\\theta \\cot^2\\theta) d\\theta =$",
+      "prashna": "$\\int (\\cos\\theta \\text{cosec}^2\\theta - \\cos\\theta \\cot^2\\theta) d\\theta =$",
+      "options": {
+        "A": "$\\log \\text{cosec}\\theta + \\cot\\theta + k$",
+        "B": "$\\text{cosec}\\theta \\cot\\theta + k$",
+        "C": "$k + \\sin\\theta$",
+        "D": "$\\theta + k$"
+      },
+      "vikalpa": {
+        "A": "$\\log \\text{cosec}\\theta + \\cot\\theta + k$",
+        "B": "$\\text{cosec}\\theta \\cot\\theta + k$",
+        "C": "$k + \\sin\\theta$",
+        "D": "$\\theta + k$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int (4\\cos x - 5\\sin x) dx =$",
+      "prashna": "$\\int (4\\cos x - 5\\sin x) dx =$",
+      "options": {
+        "A": "$k + 4\\sin x + 5\\cos x$",
+        "B": "$k - 4\\sin x - 5\\cos x$",
+        "C": "$k + 4\\sin x - 5\\cos x$",
+        "D": "$k - 4\\sin x + 5\\cos x$"
+      },
+      "vikalpa": {
+        "A": "$k + 4\\sin x + 5\\cos x$",
+        "B": "$k - 4\\sin x - 5\\cos x$",
+        "C": "$k + 4\\sin x - 5\\cos x$",
+        "D": "$k - 4\\sin x + 5\\cos x$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{3\\cos x - 2\\sin x}{2\\cos x + 3\\sin x} dx =$",
+      "prashna": "$\\int \\frac{3\\cos x - 2\\sin x}{2\\cos x + 3\\sin x} dx =$",
+      "options": {
+        "A": "$2\\cos x + 3\\sin x + k$",
+        "B": "$\\log|2\\cos x + 3\\sin x| + k$",
+        "C": "$\\tan^{-1}(3\\sin\\frac{x}{2}) + k$",
+        "D": "$2\\tan\\frac{x}{2} + k$"
+      },
+      "vikalpa": {
+        "A": "$2\\cos x + 3\\sin x + k$",
+        "B": "$\\log|2\\cos x + 3\\sin x| + k$",
+        "C": "$\\tan^{-1}(3\\sin\\frac{x}{2}) + k$",
+        "D": "$2\\tan\\frac{x}{2} + k$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{3x^2+2}{x^3+2x} dx =$",
+      "prashna": "$\\int \\frac{3x^2+2}{x^3+2x} dx =$",
+      "options": {
+        "A": "$\\sin^{-1}(x^3+2x) + k$",
+        "B": "$\\tan^{-1}(3x^2+2) + k$",
+        "C": "$\\log|3x^2+2| + k$",
+        "D": "$\\log|x^3+2x| + k$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^{-1}(x^3+2x) + k$",
+        "B": "$\\tan^{-1}(3x^2+2) + k$",
+        "C": "$\\log|3x^2+2| + k$",
+        "D": "$\\log|x^3+2x| + k$"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{x^2+5} =$",
+      "prashna": "$\\int \\frac{dx}{x^2+5} =$",
+      "options": {
+        "A": "$\\tan^{-1}\\frac{x}{5} + k$",
+        "B": "$\\tan^{-1}\\frac{x}{\\sqrt{5}} + k$",
+        "C": "$\\frac{1}{\\sqrt{5}}\\tan^{-1}\\frac{x}{\\sqrt{5}} + k$",
+        "D": "$\\sqrt{5}\\tan^{-1}\\frac{x}{\\sqrt{5}} + k$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1}\\frac{x}{5} + k$",
+        "B": "$\\tan^{-1}\\frac{x}{\\sqrt{5}} + k$",
+        "C": "$\\frac{1}{\\sqrt{5}}\\tan^{-1}\\frac{x}{\\sqrt{5}} + k$",
+        "D": "$\\sqrt{5}\\tan^{-1}\\frac{x}{\\sqrt{5}} + k$"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-1}^{1} \\log(\\frac{3+x}{3-x}) dx =$",
+      "prashna": "$\\int_{-1}^{1} \\log(\\frac{3+x}{3-x}) dx =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$2\\log 3$",
+        "D": "$3\\log 2$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "$2\\log 3$",
+        "D": "$3\\log 2$"
+      }
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Solve: $\\int \\frac{dx}{x(1+\\log_e x)^2}$",
+      "prashna": "हल करें: $\\int \\frac{dx}{x(1+\\log_e x)^2}$"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{e^{k\\sqrt{x}}}{\\sqrt{x}} dx$.",
+      "prashna": "समाकलन करें: $\\int \\frac{e^{k\\sqrt{x}}}{\\sqrt{x}} dx$।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{-1}^{1} \\sin^{21}x \\cos^{10}x dx$.",
+      "prashna": "$\\int_{-1}^{1} \\sin^{21}x \\cos^{10}x dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{2}^{4} \\frac{6x^2-1}{2\\sqrt{2x^3-x}} dx$.",
+      "prashna": "$\\int_{2}^{4} \\frac{6x^2-1}{2\\sqrt{2x^3-x}} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\frac{\\cot\\theta}{\\tan\\theta + \\cot\\theta} d\\theta$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\cot\\theta}{\\tan\\theta + \\cot\\theta} d\\theta$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\sin 4x \\cos 3x dx$.",
+      "prashna": "समाकलन करें: $\\int \\sin 4x \\cos 3x dx$।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{d\\theta}{3 - 4\\cos\\theta}$.",
+      "prashna": "$\\int \\frac{d\\theta}{3 - 4\\cos\\theta}$ का समाकलन करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\text{cosec } x}{\\text{cosec } x + \\cot x} dx$.",
+      "prashna": "$\\int \\frac{\\text{cosec } x}{\\text{cosec } x + \\cot x} dx$ का समाकलन करें।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{1}^{2} (\\frac{1}{x} - \\frac{1}{2x^2})e^{2x} dx$.",
+      "prashna": "$\\int_{1}^{2} (\\frac{1}{x} - \\frac{1}{2x^2})e^{2x} dx$ का मान ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int (x+\\cos 2x)dx = $",
+      "prashna": "$\\int (x+\\cos 2x)dx = $",
+      "options": {
+        "A": "$\\frac{1}{2}x \\sin 2x + \\frac{1}{4} \\cos 2x + c$",
+        "B": "$\\frac{1}{2}x \\sin 2x - \\frac{1}{4} \\cos 2x + c$",
+        "C": "$2x \\sin 2x + 4 \\cos 2x + c$",
+        "D": "$\\frac{x^2}{2} + \\frac{\\sin 2x}{2} + c$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}x \\sin 2x + \\frac{1}{4} \\cos 2x + c$",
+        "B": "$\\frac{1}{2}x \\sin 2x - \\frac{1}{4} \\cos 2x + c$",
+        "C": "$2x \\sin 2x + 4 \\cos 2x + c$",
+        "D": "$\\frac{x^2}{2} + \\frac{\\sin 2x}{2} + c$"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^x \\{ \\sin^{-1} x + \\frac{1}{\\sqrt{1-x^2}} \\} dx = $",
+      "prashna": "$\\int e^x \\{ \\sin^{-1} x + \\frac{1}{\\sqrt{1-x^2}} \\} dx = $",
+      "options": {
+        "A": "$e^x \\frac{1}{\\sqrt{1-x^2}} + c$",
+        "B": "$e^x \\sin^{-1} x + c$",
+        "C": "$\\frac{e^x}{2} + c$",
+        "D": "$e^x \\cos^{-1} x + c$"
+      },
+      "vikalpa": {
+        "A": "$e^x \\frac{1}{\\sqrt{1-x^2}} + c$",
+        "B": "$e^x \\sin^{-1} x + c$",
+        "C": "$\\frac{e^x}{2} + c$",
+        "D": "$e^x \\cos^{-1} x + c$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{x(x+2)} = $",
+      "prashna": "$\\int \\frac{dx}{x(x+2)} = $",
+      "options": {
+        "A": "$\\log |\\frac{x}{x+2}| + c$",
+        "B": "$\\frac{1}{2} \\log |\\frac{x}{x+2}| + c$",
+        "C": "$\\log |x| + c$",
+        "D": "$\\log |x+2| + c$"
+      },
+      "vikalpa": {
+        "A": "$\\log |\\frac{x}{x+2}| + c$",
+        "B": "$\\frac{1}{2} \\log |\\frac{x}{x+2}| + c$",
+        "C": "$\\log |x| + c$",
+        "D": "$\\log |x+2| + c$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sqrt{a^2-x^2} dx = $",
+      "prashna": "$\\int \\sqrt{a^2-x^2} dx = $",
+      "options": {
+        "A": "$\\frac{x}{2} \\sqrt{a^2-x^2} dx$",
+        "B": "$\\frac{a^2}{2} \\sin^{-1} \\frac{x}{a} + c$",
+        "C": "$\\frac{x}{2} \\sqrt{a^2-x^2} + \\frac{a^2}{2} \\sin^{-1} \\frac{x}{a} + c$",
+        "D": "$\\frac{x}{2} \\sqrt{x^2-a^2} - \\frac{a^2}{2} \\sin^{-1} \\frac{x}{a} + c$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x}{2} \\sqrt{a^2-x^2} dx$",
+        "B": "$\\frac{a^2}{2} \\sin^{-1} \\frac{x}{a} + c$",
+        "C": "$\\frac{x}{2} \\sqrt{a^2-x^2} + \\frac{a^2}{2} \\sin^{-1} \\frac{x}{a} + c$",
+        "D": "$\\frac{x}{2} \\sqrt{x^2-a^2} - \\frac{a^2}{2} \\sin^{-1} \\frac{x}{a} + c$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi/2}^{\\pi/2} \\sin^7 x dx = $",
+      "prashna": "$\\int_{-\\pi/2}^{\\pi/2} \\sin^7 x dx = $",
+      "options": {
+        "A": "-1",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{a} \\frac{\\sqrt{x}}{\\sqrt{x}+\\sqrt{a-x}} dx = $",
+      "prashna": "$\\int_{0}^{a} \\frac{\\sqrt{x}}{\\sqrt{x}+\\sqrt{a-x}} dx = $",
+      "options": {
+        "A": "a",
+        "B": "$\\frac{a}{2}$",
+        "C": "2a",
+        "D": "3a"
+      },
+      "vikalpa": {
+        "A": "a",
+        "B": "$\\frac{a}{2}$",
+        "C": "2a",
+        "D": "3a"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\cos 2x dx = $",
+      "prashna": "$\\int_{0}^{\\pi/2} \\cos 2x dx = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/6} \\cos x . \\cos 2x dx = $",
+      "prashna": "$\\int_{0}^{\\pi/6} \\cos x . \\cos 2x dx = $",
+      "options": {
+        "A": "5/6",
+        "B": "1/6",
+        "C": "5/12",
+        "D": "-5/12"
+      },
+      "vikalpa": {
+        "A": "5/6",
+        "B": "1/6",
+        "C": "5/12",
+        "D": "-5/12"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi}^{\\pi} \\tan x dx = $",
+      "prashna": "$\\int_{-\\pi}^{\\pi} \\tan x dx = $",
+      "options": {
+        "A": "-1",
+        "B": "0",
+        "C": "2",
+        "D": "-2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "0",
+        "C": "2",
+        "D": "-2"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{4}^{9} \\frac{1}{\\sqrt{x}} dx = $",
+      "prashna": "$\\int_{4}^{9} \\frac{1}{\\sqrt{x}} dx = $",
+      "options": {
+        "A": "2",
+        "B": "$\\pi/6$",
+        "C": "$\\pi/4$",
+        "D": "$\\pi/2$"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "$\\pi/6$",
+        "C": "$\\pi/4$",
+        "D": "$\\pi/2$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{a^2+x^2} = $",
+      "prashna": "$\\int \\frac{dx}{a^2+x^2} = $",
+      "options": {
+        "A": "$\\frac{1}{a} \\tan^{-1} \\frac{a}{x} + c$",
+        "B": "$\\tan^{-1} \\frac{x}{a} + c$",
+        "C": "$\\frac{1}{a} \\tan^{-1} \\frac{x}{a} + c$",
+        "D": "$\\frac{1}{a} \\tan^{-1} x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{a} \\tan^{-1} \\frac{a}{x} + c$",
+        "B": "$\\tan^{-1} \\frac{x}{a} + c$",
+        "C": "$\\frac{1}{a} \\tan^{-1} \\frac{x}{a} + c$",
+        "D": "$\\frac{1}{a} \\tan^{-1} x + c$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sec x dx = $",
+      "prashna": "$\\int \\sec x dx = $",
+      "options": {
+        "A": "$\\log |\\sec x + \\tan x| + c$",
+        "B": "$\\log |\\sec x - \\tan x| + c$",
+        "C": "$\\log \\sec x + c$",
+        "D": "$\\tan^5 x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\log |\\sec x + \\tan x| + c$",
+        "B": "$\\log |\\sec x - \\tan x| + c$",
+        "C": "$\\log \\sec x + c$",
+        "D": "$\\tan^5 x + c$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sec^5 x \\tan x dx = $",
+      "prashna": "$\\int \\sec^5 x \\tan x dx = $",
+      "options": {
+        "A": "$5 \\tan^5 x + c$",
+        "B": "$\\frac{1}{5} \\sec^5 x + c$",
+        "C": "$5 \\log|\\cos x| + c$",
+        "D": "$\\tan^5 x + c$"
+      },
+      "vikalpa": {
+        "A": "$5 \\tan^5 x + c$",
+        "B": "$\\frac{1}{5} \\sec^5 x + c$",
+        "C": "$5 \\log|\\cos x| + c$",
+        "D": "$\\tan^5 x + c$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\tan^2 x dx = $",
+      "prashna": "$\\int \\tan^2 x dx = $",
+      "options": {
+        "A": "$\\tan x + x + c$",
+        "B": "$\\tan x - x + c$",
+        "C": "$\\cot x + x + c$",
+        "D": "$\\cot x - x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\tan x + x + c$",
+        "B": "$\\tan x - x + c$",
+        "C": "$\\cot x + x + c$",
+        "D": "$\\cot x - x + c$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\cos 2x}{\\cos^2 x . \\sin^2 x} dx = $",
+      "prashna": "$\\int \\frac{\\cos 2x}{\\cos^2 x . \\sin^2 x} dx = $",
+      "options": {
+        "A": "$\\cot x - \\tan x + c$",
+        "B": "$\\tan x - \\cot x + c$",
+        "C": "$-\\cot x - \\tan x + c$",
+        "D": "$-\\tan x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\cot x - \\tan x + c$",
+        "B": "$\\tan x - \\cot x + c$",
+        "C": "$-\\cot x - \\tan x + c$",
+        "D": "$-\\tan x + c$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{x^4+1}{x^2+1} dx = $",
+      "prashna": "$\\int \\frac{x^4+1}{x^2+1} dx = $",
+      "options": {
+        "A": "$\\frac{x^3}{3} + c$",
+        "B": "$\\frac{x^3}{3} - x + 2 \\tan^{-1} x + c$",
+        "C": "$2 \\tan^{-1} x + c$",
+        "D": "$\\frac{x^3}{3} + x + 2 \\tan^{-1} x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x^3}{3} + c$",
+        "B": "$\\frac{x^3}{3} - x + 2 \\tan^{-1} x + c$",
+        "C": "$2 \\tan^{-1} x + c$",
+        "D": "$\\frac{x^3}{3} + x + 2 \\tan^{-1} x + c$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{1-\\cos 2x}{1+\\cos 2x} dx = $",
+      "prashna": "$\\int \\frac{1-\\cos 2x}{1+\\cos 2x} dx = $",
+      "options": {
+        "A": "$\\tan x + c$",
+        "B": "$\\tan x + x + c$",
+        "C": "$\\tan x - x + c$",
+        "D": "$-\\tan x + x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\tan x + c$",
+        "B": "$\\tan x + x + c$",
+        "C": "$\\tan x - x + c$",
+        "D": "$-\\tan x + x + c$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{2-3x} = $",
+      "prashna": "$\\int \\frac{dx}{2-3x} = $",
+      "options": {
+        "A": "$-3 \\log|2-3x| + c$",
+        "B": "$-\\frac{1}{3} \\log|2-3x| + c$",
+        "C": "$-\\log|2-3x| + c$",
+        "D": "$2 \\tan^{-1} x^4 + c$"
+      },
+      "vikalpa": {
+        "A": "$-3 \\log|2-3x| + c$",
+        "B": "$-\\frac{1}{3} \\log|2-3x| + c$",
+        "C": "$-\\log|2-3x| + c$",
+        "D": "$2 \\tan^{-1} x^4 + c$"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{x^3 dx}{1+x^8} = $",
+      "prashna": "$\\int \\frac{x^3 dx}{1+x^8} = $",
+      "options": {
+        "A": "$\\tan^{-1} x^4 + c$",
+        "B": "$4 \\tan^{-1} x^4 + c$",
+        "C": "$\\frac{1}{4} \\tan^{-1} x^4 + c$",
+        "D": "$2 \\tan^{-1} x^4 + c$"
+      },
+      "vikalpa": {
+        "A": "$\\tan^{-1} x^4 + c$",
+        "B": "$4 \\tan^{-1} x^4 + c$",
+        "C": "$\\frac{1}{4} \\tan^{-1} x^4 + c$",
+        "D": "$2 \\tan^{-1} x^4 + c$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int xe^x dx = $",
+      "prashna": "$\\int xe^x dx = $",
+      "options": {
+        "A": "$e^x + c$",
+        "B": "$x-1+c$",
+        "C": "$e^x(x-1)+c$",
+        "D": "$e^x(x+1)+c$"
+      },
+      "vikalpa": {
+        "A": "$e^x + c$",
+        "B": "$x-1+c$",
+        "C": "$e^x(x-1)+c$",
+        "D": "$e^x(x+1)+c$"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\cot^2 x dx = $",
+      "prashna": "$\\int \\cot^2 x dx = $",
+      "options": {
+        "A": "$\\cot x + x + k$",
+        "B": "$-\\cot x + x + k$",
+        "C": "$-\\cot x - x + k$",
+        "D": "$\\cot x - x + k$"
+      },
+      "vikalpa": {
+        "A": "$\\cot x + x + k$",
+        "B": "$-\\cot x + x + k$",
+        "C": "$-\\cot x - x + k$",
+        "D": "$\\cot x - x + k$"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sqrt{1-\\sin 2x} dx = $",
+      "prashna": "$\\int \\sqrt{1-\\sin 2x} dx = $",
+      "options": {
+        "A": "$\\sin x + \\cos x + c$",
+        "B": "$\\sin x - \\cos x + c$",
+        "C": "$\\cos x - \\sin x + c$",
+        "D": "$\\tan x - \\cot x + c$"
+      },
+      "vikalpa": {
+        "A": "$\\sin x + \\cos x + c$",
+        "B": "$\\sin x - \\cos x + c$",
+        "C": "$\\cos x - \\sin x + c$",
+        "D": "$\\tan x - \\cot x + c$"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sqrt{1+\\cos 2x} dx = $",
+      "prashna": "$\\int \\sqrt{1+\\cos 2x} dx = $",
+      "options": {
+        "A": "$\\sqrt{2} \\cos x + c$",
+        "B": "$\\sqrt{2} \\sin x + c$",
+        "C": "$\\frac{2}{x^2} + c$",
+        "D": "$\\sqrt{2} \\sin \\frac{x}{2} + c$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{2} \\cos x + c$",
+        "B": "$\\sqrt{2} \\sin x + c$",
+        "C": "$\\frac{2}{x^2} + c$",
+        "D": "$\\sqrt{2} \\sin \\frac{x}{2} + c$"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\log x}{x} dx = $",
+      "prashna": "$\\int \\frac{\\log x}{x} dx = $",
+      "options": {
+        "A": "$\\frac{1}{2}(\\log x)^2 + c$",
+        "B": "$-\\frac{1}{2}(\\log x)^2 + c$",
+        "C": "$\\frac{2}{x^2} + c$",
+        "D": "$-\\frac{2}{x^2} + c$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}(\\log x)^2 + c$",
+        "B": "$-\\frac{1}{2}(\\log x)^2 + c$",
+        "C": "$\\frac{2}{x^2} + c$",
+        "D": "$-\\frac{2}{x^2} + c$"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\cos \\sqrt{x}}{\\sqrt{x}} dx = $",
+      "prashna": "$\\int \\frac{\\cos \\sqrt{x}}{\\sqrt{x}} dx = $",
+      "options": {
+        "A": "$2 \\sin \\sqrt{x} + c$",
+        "B": "$\\sin \\sqrt{x} + c$",
+        "C": "$\\cos \\sqrt{x} + c$",
+        "D": "$2 \\cos \\sqrt{x} + c$"
+      },
+      "vikalpa": {
+        "A": "$2 \\sin \\sqrt{x} + c$",
+        "B": "$\\sin \\sqrt{x} + c$",
+        "C": "$\\cos \\sqrt{x} + c$",
+        "D": "$2 \\cos \\sqrt{x} + c$"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\sqrt{\\cos x} . \\sin x dx = $",
+      "prashna": "$\\int \\sqrt{\\cos x} . \\sin x dx = $",
+      "options": {
+        "A": "$\\frac{2}{3}(\\cos x)^{3/2} + c$",
+        "B": "$-\\frac{2}{3}(\\cos x)^{3/2} + c$",
+        "C": "$(\\cos x)^{3/2} + c$",
+        "D": "$-(\\cos x)^{3/2} + c$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2}{3}(\\cos x)^{3/2} + c$",
+        "B": "$-\\frac{2}{3}(\\cos x)^{3/2} + c$",
+        "C": "$(\\cos x)^{3/2} + c$",
+        "D": "$-(\\cos x)^{3/2} + c$"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int (x+2)^2 dx$.",
+      "prashna": "समाकलन करें : $\\int (x+2)^2 dx$."
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^{\\pi/2} \\frac{dx}{1+\\sqrt{\\tan x}}$.",
+      "prashna": "$\\int_0^{\\pi/2} \\frac{dx}{1+\\sqrt{\\tan x}}$ का मान निकालें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^a \\sqrt{a^2-x^2} dx$.",
+      "prashna": "$\\int_0^a \\sqrt{a^2-x^2} dx$ का मान निकालें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\cos^3 x \\sin x dx$.",
+      "prashna": "$\\int \\cos^3 x \\sin x dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\frac{x^2-1}{x^2+4} dx$.",
+      "prashna": "$\\int \\frac{x^2-1}{x^2+4} dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^{\\pi/2} x \\cos x dx$.",
+      "prashna": "$\\int_0^{\\pi/2} x \\cos x dx$ का मान निकालें।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\sin^3 x dx$.",
+      "prashna": "$\\int \\sin^3 x dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\frac{dx}{\\sqrt{x+1}+\\sqrt{x+2}}$.",
+      "prashna": "$\\int \\frac{dx}{\\sqrt{x+1}+\\sqrt{x+2}}$ का समाकलन करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_0^{\\pi/2} \\log \\cos x dx$.",
+      "prashna": "मान ज्ञात करें: $\\int_0^{\\pi/2} \\log \\cos x dx$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{\\sin^2 x \\cos^2 x} =$",
+      "prashna": "$\\int \\frac{dx}{\\sin^2 x \\cos^2 x} =$",
+      "options": {
+        "A": "$\\tan x + \\cot x + C$",
+        "B": "$\\tan 2x - \\cot x + C$",
+        "C": "$- \\cot x + \\tan x + C$",
+        "D": "$\\tan x \\cdot \\cot x + C$"
+      },
+      "vikalpa": {
+        "A": "$\\tan x + \\cot x + C$",
+        "B": "$\\tan 2x - \\cot x + C$",
+        "C": "$- \\cot x + \\tan x + C$",
+        "D": "$\\tan x \\cdot \\cot x + C$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{\\sqrt{a^2-x^2}} =$",
+      "prashna": "$\\int \\frac{dx}{\\sqrt{a^2-x^2}} =$",
+      "options": {
+        "A": "$\\log|x + \\sqrt{x^2 - a^2}| + C$",
+        "B": "$\\sin^{-1} \\frac{x}{a} + C$",
+        "C": "$\\frac{1}{2a} \\log|\\frac{x-a}{x+a}| + C$",
+        "D": "$\\cot^{-1} \\frac{x}{a} + C$"
+      },
+      "vikalpa": {
+        "A": "$\\log|x + \\sqrt{x^2 - a^2}| + C$",
+        "B": "$\\sin^{-1} \\frac{x}{a} + C$",
+        "C": "$\\frac{1}{2a} \\log|\\frac{x-a}{x+a}| + C$",
+        "D": "$\\cot^{-1} \\frac{x}{a} + C$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int x^2 (\\frac{1}{x^2} + 1) dx =$",
+      "prashna": "$\\int x^2 (\\frac{1}{x^2} + 1) dx =$",
+      "options": {
+        "A": "$2x + c$",
+        "B": "$\\frac{x^3}{3}(\\frac{-1}{x} + x) + C$",
+        "C": "$x(\\frac{x^2}{3} - x) + C$",
+        "D": "$\\frac{1}{3}x^3 + x + C$"
+      },
+      "vikalpa": {
+        "A": "$2x + c$",
+        "B": "$\\frac{x^3}{3}(\\frac{-1}{x} + x) + C$",
+        "C": "$x(\\frac{x^2}{3} - x) + C$",
+        "D": "$\\frac{1}{3}x^3 + x + C$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{5-3\\sin x}{\\cos^2 x} dx =$",
+      "prashna": "$\\int \\frac{5-3\\sin x}{\\cos^2 x} dx =$",
+      "options": {
+        "A": "$5 \\tan x - 3 \\sec x + C$",
+        "B": "$3 \\tan x - 5 \\sec x + C$",
+        "C": "$5 \\tan x + 3 \\sec x + C$",
+        "D": "$3 \\tan x + 5 \\sec x + C$"
+      },
+      "vikalpa": {
+        "A": "$5 \\tan x - 3 \\sec x + C$",
+        "B": "$3 \\tan x - 5 \\sec x + C$",
+        "C": "$5 \\tan x + 3 \\sec x + C$",
+        "D": "$3 \\tan x + 5 \\sec x + C$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\csc x \\, dx =$",
+      "prashna": "$\\int \\csc x \\, dx =$",
+      "options": {
+        "A": "$\\log|\\csc x + \\cot x| + c$",
+        "B": "$\\log|\\tan \\frac{x}{2}| + C$",
+        "C": "$\\log|\\sin x| + C$",
+        "D": "$\\log|\\cot \\frac{x}{2}| + C$"
+      },
+      "vikalpa": {
+        "A": "$\\log|\\csc x + \\cot x| + c$",
+        "B": "$\\log|\\tan \\frac{x}{2}| + C$",
+        "C": "$\\log|\\sin x| + C$",
+        "D": "$\\log|\\cot \\frac{x}{2}| + C$"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{(7+\\log x)^2}{x} dx$",
+      "prashna": "$\\int \\frac{(7+\\log x)^2}{x} dx$",
+      "options": {
+        "A": "$\\frac{7}{3}(7 + \\log x)^3 + C$",
+        "B": "$\\frac{1}{3}(\\log x)^3 + C$",
+        "C": "$\\frac{1}{3}(7 + \\log x)^3 + C$",
+        "D": "$\\frac{2}{3}(7 + \\log x) + C$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{7}{3}(7 + \\log x)^3 + C$",
+        "B": "$\\frac{1}{3}(\\log x)^3 + C$",
+        "C": "$\\frac{1}{3}(7 + \\log x)^3 + C$",
+        "D": "$\\frac{2}{3}(7 + \\log x) + C$"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int 2(\\sin^{-1}(\\cos x)) dx =$",
+      "prashna": "$\\int 2(\\sin^{-1}(\\cos x)) dx =$",
+      "options": {
+        "A": "$\\frac{\\pi}{2}x - \\frac{x^2}{2} + C$",
+        "B": "$x^2 + C$",
+        "C": "$\\pi x + x^2 + C$",
+        "D": "$\\pi x - x^2 + C$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}x - \\frac{x^2}{2} + C$",
+        "B": "$x^2 + C$",
+        "C": "$\\pi x + x^2 + C$",
+        "D": "$\\pi x - x^2 + C$"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^x (\\frac{1}{\\sqrt{1-x^2}} + \\sin^{-1} x) dx =$",
+      "prashna": "$\\int e^x (\\frac{1}{\\sqrt{1-x^2}} + \\sin^{-1} x) dx =$",
+      "options": {
+        "A": "$e^x \\sin^{-1} x + C$",
+        "B": "$\\frac{e^x}{\\sqrt{1-x^2}} + C$",
+        "C": "$-e^x \\sin^{-1} x + C$",
+        "D": "$\\frac{-2e^x}{\\sqrt{1-x^2}} + C$"
+      },
+      "vikalpa": {
+        "A": "$e^x \\sin^{-1} x + C$",
+        "B": "$\\frac{e^x}{\\sqrt{1-x^2}} + C$",
+        "C": "$-e^x \\sin^{-1} x + C$",
+        "D": "$\\frac{-2e^x}{\\sqrt{1-x^2}} + C$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int 4x \\log x \\, dx =$",
+      "prashna": "$\\int 4x \\log x \\, dx =$",
+      "options": {
+        "A": "$4x \\log x - 4x + C$",
+        "B": "$\\frac{x^2}{4}(2 \\log x - 1) + C$",
+        "C": "$x^2(2 \\log x - 1) + C$",
+        "D": "$\\frac{x^2}{2}(2 \\log x - 1) + C$"
+      },
+      "vikalpa": {
+        "A": "$4x \\log x - 4x + C$",
+        "B": "$\\frac{x^2}{4}(2 \\log x - 1) + C$",
+        "C": "$x^2(2 \\log x - 1) + C$",
+        "D": "$\\frac{x^2}{2}(2 \\log x - 1) + C$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\cos \\sqrt{x}}{\\sqrt{x}} dx =$",
+      "prashna": "$\\int \\frac{\\cos \\sqrt{x}}{\\sqrt{x}} dx =$",
+      "options": {
+        "A": "$2 \\sin \\sqrt{x} + C$",
+        "B": "$\\frac{1}{2} \\sin \\sqrt{x} + C$",
+        "C": "$\\sin 2\\sqrt{x} + C$",
+        "D": "$\\sin x + C$"
+      },
+      "vikalpa": {
+        "A": "$2 \\sin \\sqrt{x} + C$",
+        "B": "$\\frac{1}{2} \\sin \\sqrt{x} + C$",
+        "C": "$\\sin 2\\sqrt{x} + C$",
+        "D": "$\\sin x + C$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{3x^2}{x^6+1} dx =$",
+      "prashna": "$\\int \\frac{3x^2}{x^6+1} dx =$",
+      "options": {
+        "A": "$3 \\tan^{-1} x^2 + C$",
+        "B": "$\\log(x^6 + 1) + C$",
+        "C": "$\\tan^{-1} x^3 + C$",
+        "D": "$\\sin^{-1} x^3 + C$"
+      },
+      "vikalpa": {
+        "A": "$3 \\tan^{-1} x^2 + C$",
+        "B": "$\\log(x^6 + 1) + C$",
+        "C": "$\\tan^{-1} x^3 + C$",
+        "D": "$\\sin^{-1} x^3 + C$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{4x+1}{\\sqrt{2x^2+x-3}} dx =$",
+      "prashna": "$\\int \\frac{4x+1}{\\sqrt{2x^2+x-3}} dx =$",
+      "options": {
+        "A": "$\\frac{1}{2}\\sqrt{2x^2+x-3} + C$",
+        "B": "$2\\sqrt{2x^2+x-3} + C$",
+        "C": "$\\log|2x^2 + x - 3| + C$",
+        "D": "$\\frac{2}{3}(2x^2 + x - 3)^{3/2} + C$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}\\sqrt{2x^2+x-3} + C$",
+        "B": "$2\\sqrt{2x^2+x-3} + C$",
+        "C": "$\\log|2x^2 + x - 3| + C$",
+        "D": "$\\frac{2}{3}(2x^2 + x - 3)^{3/2} + C$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^x [2 \\cos 2x + \\sin 2x] dx =$",
+      "prashna": "$\\int e^x [2 \\cos 2x + \\sin 2x] dx =$",
+      "options": {
+        "A": "$\\frac{1}{2} e^x \\cos 2x + C$",
+        "B": "$2e^x \\cos 2x + C$",
+        "C": "$2e^x \\sin 2x + C$",
+        "D": "$e^x \\sin 2x + C$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2} e^x \\cos 2x + C$",
+        "B": "$2e^x \\cos 2x + C$",
+        "C": "$2e^x \\sin 2x + C$",
+        "D": "$e^x \\sin 2x + C$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{dx}{\\sqrt{x^2+a^2}} =$",
+      "prashna": "$\\int \\frac{dx}{\\sqrt{x^2+a^2}} =$",
+      "options": {
+        "A": "$\\log|x + \\sqrt{x^2 + a^2}| + C$",
+        "B": "$\\frac{1}{a} \\tan^{-1} \\frac{x}{a} + C$",
+        "C": "$\\frac{1}{2a} \\log|\\frac{x-a}{x+a}| + C$",
+        "D": "$\\log|x + \\sqrt{x^2 - a^2}| + C$"
+      },
+      "vikalpa": {
+        "A": "$\\log|x + \\sqrt{x^2 + a^2}| + C$",
+        "B": "$\\frac{1}{a} \\tan^{-1} \\frac{x}{a} + C$",
+        "C": "$\\frac{1}{2a} \\log|\\frac{x-a}{x+a}| + C$",
+        "D": "$\\log|x + \\sqrt{x^2 - a^2}| + C$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-1}^{1} \\sin^7 x \\cos^6 x \\, dx =$",
+      "prashna": "$\\int_{-1}^{1} \\sin^7 x \\cos^6 x \\, dx =$",
+      "options": {
+        "A": "-1",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\cos x}}{\\sqrt{\\sin x}+\\sqrt{\\cos x}} dx =$",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\cos x}}{\\sqrt{\\sin x}+\\sqrt{\\cos x}} dx =$",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{8}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$\\frac{\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{8}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$\\frac{\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} e^x dx =$",
+      "prashna": "$\\int_{0}^{1} e^x dx =$",
+      "options": {
+        "A": "$e^2 - 1$",
+        "B": "$\\frac{1}{e-1}$",
+        "C": "$1 - e$",
+        "D": "$e - 1$"
+      },
+      "vikalpa": {
+        "A": "$e^2 - 1$",
+        "B": "$\\frac{1}{e-1}$",
+        "C": "$1 - e$",
+        "D": "$e - 1$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{\\pi/4} \\tan x \\, dx =$",
+      "prashna": "$\\int_{0}^{\\pi/4} \\tan x \\, dx =$",
+      "options": {
+        "A": "$\\log 2$",
+        "B": "$\\log 4$",
+        "C": "$2 \\log 2$",
+        "D": "$\\frac{1}{2} \\log 2$"
+      },
+      "vikalpa": {
+        "A": "$\\log 2$",
+        "B": "$\\log 4$",
+        "C": "$2 \\log 2$",
+        "D": "$\\frac{1}{2} \\log 2$"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} \\frac{dx}{1+x^2} =$",
+      "prashna": "$\\int_{0}^{1} \\frac{dx}{1+x^2} =$",
+      "options": {
+        "A": "$\\frac{\\pi}{4}$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "0",
+        "D": "$\\pi$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{4}$",
+        "B": "$\\frac{\\pi}{2}$",
+        "C": "0",
+        "D": "$\\pi$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{0}^{1} x e^x dx =$",
+      "prashna": "$\\int_{0}^{1} x e^x dx =$",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{2}^{3} \\frac{1}{x} dx =$",
+      "prashna": "$\\int_{2}^{3} \\frac{1}{x} dx =$",
+      "options": {
+        "A": "$\\log 6$",
+        "B": "$\\log \\frac{3}{2}$",
+        "C": "$\\log \\frac{2}{3}$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "$\\log 6$",
+        "B": "$\\log \\frac{3}{2}$",
+        "C": "$\\log \\frac{2}{3}$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int \\frac{\\sin^{-1} x}{\\sqrt{1-x^2}} dx$",
+      "prashna": "$\\int \\frac{\\sin^{-1} x}{\\sqrt{1-x^2}} dx$",
+      "options": {
+        "A": "$\\frac{1}{2}(\\sin^{-1} x)^2 + C$",
+        "B": "$-\\frac{1}{2}(\\sin^{-1} x)^2 + C$",
+        "C": "$2(\\sin^{-1} x)^2 + C$",
+        "D": "$-2(\\sin^{-1} x)^2 + C$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2}(\\sin^{-1} x)^2 + C$",
+        "B": "$-\\frac{1}{2}(\\sin^{-1} x)^2 + C$",
+        "C": "$2(\\sin^{-1} x)^2 + C$",
+        "D": "$-2(\\sin^{-1} x)^2 + C$"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int_{-\\pi/2}^{\\pi/2} (x^5 + x\\cos x + \\sin^7 x + 1) dx =$",
+      "prashna": "$\\int_{-\\pi/2}^{\\pi/2} (x^5 + x\\cos x + \\sin^7 x + 1) dx =$",
+      "options": {
+        "A": "$\\pi$",
+        "B": "0",
+        "C": "2",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "0",
+        "C": "2",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int (\\frac{x^3 - x^2 + x - 1}{x^2 + 1}) dx =$",
+      "prashna": "$\\int (\\frac{x^3 - x^2 + x - 1}{x^2 + 1}) dx =$",
+      "options": {
+        "A": "$\\frac{x^2}{2} - x + C$",
+        "B": "$x - \\frac{x^2}{2} + C$",
+        "C": "$1 - x + C$",
+        "D": "$\\frac{x^2}{2} + x + C$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x^2}{2} - x + C$",
+        "B": "$x - \\frac{x^2}{2} + C$",
+        "C": "$1 - x + C$",
+        "D": "$\\frac{x^2}{2} + x + C$"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int e^{-7x} dx =$",
+      "prashna": "$\\int e^{-7x} dx =$",
+      "options": {
+        "A": "$-7e^{-7x} + C$",
+        "B": "$-\\frac{1}{7}e^{-7x} + C$",
+        "C": "$\\frac{1}{7}e^{-7x} + C$",
+        "D": "$-\\frac{1}{7}e^{7x} + C$"
+      },
+      "vikalpa": {
+        "A": "$-7e^{-7x} + C$",
+        "B": "$-\\frac{1}{7}e^{-7x} + C$",
+        "C": "$\\frac{1}{7}e^{-7x} + C$",
+        "D": "$-\\frac{1}{7}e^{7x} + C$"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "$\\int(5x^4 + 2x + \\sin x)dx =$",
+      "prashna": "$\\int(5x^4 + 2x + \\sin x)dx =$",
+      "options": {
+        "A": "$x^5 + x^2 + \\cos x + C$",
+        "B": "$x^5 + 2 - \\cos x + C$",
+        "C": "$x^5 + x^2 - \\cos x + C$",
+        "D": "$x^4 + x^2 - \\cos x + C$"
+      },
+      "vikalpa": {
+        "A": "$x^5 + x^2 + \\cos x + C$",
+        "B": "$x^5 + 2 - \\cos x + C$",
+        "C": "$x^5 + x^2 - \\cos x + C$",
+        "D": "$x^4 + x^2 - \\cos x + C$"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{x^2+2}{x+1} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{x^2+2}{x+1} dx$"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{dx}{1+\\cos x}$",
+      "prashna": "समाकलन करें: $\\int \\frac{dx}{1+\\cos x}$"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "If $\\int_0^a \\frac{1}{1+4x^2} dx = \\frac{\\pi}{8}$ then find the value of $a$.",
+      "prashna": "यदि $\\int_0^a \\frac{1}{1+4x^2} dx = \\frac{\\pi}{8}$ तो $a$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin x}{3+4\\cos^2 x} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{\\sin x}{3+4\\cos^2 x} dx$"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin^6 x + \\cos^6 x}{\\sin^2 x \\cos^2 x} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{\\sin^6 x + \\cos^6 x}{\\sin^2 x \\cos^2 x} dx$"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_2^8 |x-5| dx$",
+      "prashna": "समाकलन करें: $\\int_2^8 |x-5| dx$"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_{\\pi/4}^{\\pi} \\sin^2 x dx$",
+      "prashna": "समाकलन करें: $\\int_{\\pi/4}^{\\pi} \\sin^2 x dx$"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_{0}^{1} x \\log(1 + 2x)dx$",
+      "prashna": "हल करें: $\\int_{0}^{1} x \\log(1 + 2x)dx$"
+    }
+  ]
+}

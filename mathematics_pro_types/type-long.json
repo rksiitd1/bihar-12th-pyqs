@@ -1,0 +1,332 @@
+{
+  "2021": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "If $\\tan^{-1}x + \\tan^{-1}y + \\tan^{-1}z = \\frac{\\pi}{2}$, then prove that $yz + zx + xy = 1$.",
+      "prashna": "यदि $\\tan^{-1}x + \\tan^{-1}y + \\tan^{-1}z = \\frac{\\pi}{2}$, तो सिद्ध करें कि $yz + zx + xy = 1$."
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Factorize $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$.",
+      "prashna": "गुणनखंड निकालें $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$."
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Prove that $(AB)^{-1} = B^{-1}A^{-1}$, where $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \\ 1 & 1 & 9 \\end{bmatrix}, B = \\begin{bmatrix} 2 & 5 & 3 \\ 3 & 1 & 2 \\ 1 & 2 & 1 \\end{bmatrix}$.",
+      "prashna": "सिद्ध कीजिए कि $(AB)^{-1} = B^{-1}A^{-1}$, जहाँ कि $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \\ 1 & 1 & 9 \\end{bmatrix}, B = \\begin{bmatrix} 2 & 5 & 3 \\ 3 & 1 & 2 \\ 1 & 2 & 1 \\end{bmatrix}$."
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$ when $x^y + y^x = 1$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $x^y + y^x = 1$."
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\tan^4 x dx$.",
+      "prashna": "समाकलन करें $\\int \\tan^4 x dx$."
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$."
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the image of the point $(3, 1, -4)$ with respect to the plane $3x + 4y - 5z = 2$.",
+      "prashna": "तल $3x + 4y - 5z = 2$ के सापेक्ष बिन्दु $(3, 1, -4)$ का प्रतिबिम्ब ज्ञात कीजिए।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize and minimize $Z = 5x + 10y$ subject to $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$.",
+      "prashna": "$Z = 5x + 10y$ का अधिकतमीकरण एवं न्यूनतमीकरण करें, जबकि $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate: $\\begin{vmatrix} a^2+1 & ab & ac \\ ab & b^2+1 & bc \\ ac & bc & c^2+1 \\end{vmatrix}$",
+      "prashna": "मान ज्ञात करे : $\\begin{vmatrix} a^2+1 & ab & ac \\ ab & b^2+1 & bc \\ ac & bc & c^2+1 \\end{vmatrix}$"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\tan^{-1}\\frac{2}{5} + \\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{12} = \\frac{\\pi}{4}$.",
+      "prashna": "सिद्ध करे कि $\\tan^{-1}\\frac{2}{5} + \\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{12} = \\frac{\\pi}{4}$."
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $(x + y) = \\sec^{-1}(x - y)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $(x + y) = \\sec^{-1}(x - y)$ तो $\\frac{dy}{dx}$ ज्ञात करे।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $z = 2x + y$ subject to $x + y \\geq 1$, $x + 2y \\leq 10$, $y \\leq 4$, $x \\geq 0, y \\geq 0$.",
+      "prashna": "न्यूनतमीकरण करे $z = 2x + y$ जबकि $x + y \\geq 1$, $x + 2y \\leq 10$, $y \\leq 4$, $x \\geq 0, y \\geq 0$।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x \\cos(\\frac{y}{x}) (y dx + x dy) = y \\sin(\\frac{y}{x}) (x dy - y dx)$",
+      "prashna": "हल करे : $x \\cos(\\frac{y}{x}) (y dx + x dy) = y \\sin(\\frac{y}{x}) (x dy - y dx)$"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the shortest distance between the lines $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + \\hat{k})$ and $\\vec{r} = (2\\hat{i} - 2\\hat{j} - \\hat{k}) + \\mu(\\hat{i} + \\hat{j} + 2\\hat{k})$.",
+      "prashna": "रेखाओं $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + \\hat{k})$ तथा $\\vec{r} = (2\\hat{i} - 2\\hat{j} - \\hat{k}) + \\mu(\\hat{i} + \\hat{j} + 2\\hat{k})$ के बीच की लघुत्तम दूरी ज्ञात करे।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the mean of the number of heads in a toss of three coins.",
+      "prashna": "तीन सिक्कों की उछल में पृष्ठ की संख्या का माध्य ज्ञात करें ।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_{0}^{\\pi/2} \\log \\sin x dx$",
+      "prashna": "मान ज्ञात करे : $\\int_{0}^{\\pi/2} \\log \\sin x dx$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(x^2 + y^2)\\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें: $(x^2 + y^2)\\frac{dy}{dx} = 2xy$।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\tan^{-1}\\frac{1}{x+y} + \\tan^{-1}\\frac{y}{x^2+xy+1} = \\cot^{-1}x$.",
+      "prashna": "सिद्ध करें कि $\\tan^{-1}\\frac{1}{x+y} + \\tan^{-1}\\frac{y}{x^2+xy+1} = \\cot^{-1}x$।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Factorize the determinant: $\\begin{vmatrix} a-b-c & 2a & 2a \\\\ 2b & b-c-a & 2b \\\\ 2c & 2c & c-a-b \\end{vmatrix}$.",
+      "prashna": "सारणिक का गुणनखण्ड निकालें: $\\begin{vmatrix} a-b-c & 2a & 2a \\\\ 2b & b-c-a & 2b \\\\ 2c & 2c & c-a-b \\end{vmatrix}$।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\cos x} + (\\cos x)^{\\sin x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\cos x} + (\\cos x)^{\\sin x}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the mean of the number of heads in two tosses of a coin.",
+      "prashna": "एक सिक्के की दो उछालों में शीर्षों की संख्या का माध्य ज्ञात करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z = 5x+7y$ subject to $x+y \\le 4$, $3x+8y \\le 24$, $10x+7y \\le 35$, $x, y \\ge 0$.",
+      "prashna": "$Z = 5x+7y$ का अधिकतमीकरण करें जबकि $x+y \\le 4$, $3x+8y \\le 24$, $10x+7y \\le 35$, $x, y \\ge 0$।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{1}^{2} (\\frac{1}{x} - \\frac{1}{2x^2})e^{2x} dx$.",
+      "prashna": "$\\int_{1}^{2} (\\frac{1}{x} - \\frac{1}{2x^2})e^{2x} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the value of $[(\\vec{i} - 2\\vec{j} + 3\\vec{k}) \\times (2\\vec{i} + \\vec{j} - \\vec{k})] \\cdot (\\vec{j} + \\vec{k})$.",
+      "prashna": "$[(\\vec{i} - 2\\vec{j} + 3\\vec{k}) \\times (2\\vec{i} + \\vec{j} - \\vec{k})] \\cdot (\\vec{j} + \\vec{k})$ का मान ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\sin^{-1} \\frac{4}{5} + \\sin^{-1} \\frac{5}{13} + \\sin^{-1} \\frac{16}{65} = \\frac{\\pi}{2}$.",
+      "prashna": "सिद्ध करें कि $\\sin^{-1} \\frac{4}{5} + \\sin^{-1} \\frac{5}{13} + \\sin^{-1} \\frac{16}{65} = \\frac{\\pi}{2}$."
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_0^{\\pi/2} \\log \\cos x dx$.",
+      "prashna": "मान ज्ञात करें: $\\int_0^{\\pi/2} \\log \\cos x dx$."
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(1+x^2) \\frac{dy}{dx} + y = \\tan^{-1} x$.",
+      "prashna": "हल करें: $(1+x^2) \\frac{dy}{dx} + y = \\tan^{-1} x$."
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $(\\sin y)^x = (\\cos x)^y$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $(\\sin y)^x = (\\cos x)^y$."
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Evaluate the determinant $\\begin{vmatrix} 1+a & 1 & 1 \\ 1 & 1+b & 1 \\ 1 & 1 & 1+c \\end{vmatrix}$.",
+      "prashna": "सारणिक का मान ज्ञात करें $\\begin{vmatrix} 1+a & 1 & 1 \\ 1 & 1+b & 1 \\ 1 & 1 & 1+c \\end{vmatrix}$."
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Evaluate: $(\\vec{i}-3\\vec{j}+4\\vec{k}) \\cdot [(2\\vec{i}-\\vec{j}) \\times (\\vec{j}+\\vec{k})]$.",
+      "prashna": "मान ज्ञात करें: $(\\vec{i}-3\\vec{j}+4\\vec{k}) \\cdot [(2\\vec{i}-\\vec{j}) \\times (\\vec{j}+\\vec{k})]$."
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $Z=2x+y$, subject to $5x+10y \\le 50, x+y \\ge 1, y \\le 4, x \\ge 0, y \\ge 0$.",
+      "prashna": "न्यूनतमीकरण करें $Z=2x+y$ जबकि $5x+10y \\le 50, x+y \\ge 1, y \\le 4, x \\ge 0, y \\ge 0$."
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "In four throws, with a pair of dice what is the probability of occurrence of doublets twice at least?",
+      "prashna": "दो पासों को चार बार फेंकने में कम से कम दो बार एक ही अंक का जोड़ा आने की क्या प्रायिकता है?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Inverse Trigonometric Functions",
+      "question": "Prove that $\\sin^{-1}\\frac{5}{13} + \\cos^{-1}\\frac{3}{5} = \\tan^{-1}\\frac{63}{16}$.",
+      "prashna": "सिद्ध करें कि $\\sin^{-1}\\frac{5}{13} + \\cos^{-1}\\frac{3}{5} = \\tan^{-1}\\frac{63}{16}$।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_{0}^{1} x \\log(1 + 2x)dx$",
+      "prashna": "हल करें: $\\int_{0}^{1} x \\log(1 + 2x)dx$"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(1 + \\tan y)(dx - dy) + 2xdy = 0$",
+      "prashna": "हल करें: $(1 + \\tan y)(dx - dy) + 2xdy = 0$"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Application of Derivatives",
+      "question": "Find the equation of the normal lines to the curve $3x^2 - y^2 = 8$ which are parallel to the line $x + 3y = 4$.",
+      "prashna": "वक्र $3x^2 - y^2 = 8$ पर अभिलम्ब रेखाओं का समीकरण ज्ञात करें जो कि रेखा $x + 3y = 4$ के समांतर है।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{j} - \\hat{k}$ then find $\\vec{c}$ such that $\\vec{a} \\times \\vec{c} = \\vec{b}$ and $\\vec{a} \\cdot \\vec{c} = 3$.",
+      "prashna": "यदि $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ तथा $\\vec{b} = \\hat{j} - \\hat{k}$ तो $\\vec{c}$ ज्ञात करें ताकि $\\vec{a} \\times \\vec{c} = \\vec{b}$ तथा $\\vec{a} \\cdot \\vec{c} = 3$।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $z = 13x - 15y$ subject to $x + y \\le 7, 2x - 3y + 6 \\ge 0, x \\ge 0$ and $y \\ge 0$.",
+      "prashna": "$z = 13x - 15y$ का न्यूनतमीकरण करें जबकि $x + y \\le 7, 2x - 3y + 6 \\ge 0, x \\ge 0$ तथा $y \\ge 0$।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Probability",
+      "question": "Find the probability distribution of number of doublets in three throws of a pair of dice.",
+      "prashna": "पांसों के एक जोड़े को तीन बार उछालने पर द्विकों की संख्या का प्रायिकता बंटन ज्ञात कीजिए।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Determinants",
+      "question": "Solve the following linear equations by matrix method.\n$2x + 3y + 3z = 5, x - 2y + z = -4, 3x - y - 2z = 3$.",
+      "prashna": "आव्यूह विधि से निम्नांकित रैखिक समीकरणों का हल करें।\n$2x + 3y + 3z = 5, x - 2y + z = -4, 3x - y - 2z = 3$।"
+    }
+  ]
+}

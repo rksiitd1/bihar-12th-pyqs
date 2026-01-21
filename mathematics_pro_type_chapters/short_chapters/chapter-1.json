@@ -1,0 +1,52 @@
+{
+  "2021": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Is the function $f:R \\rightarrow R$ onto function where $f(x) = 2x$? Give reasons.",
+      "prashna": "क्या फलन $f:R \\rightarrow R$ onto है जबकि $f(x) = 2x$? कारण दें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Is the function f: N $\\rightarrow$ N surjective when f(x) = 3x, x $\\in$ N?",
+      "prashna": "क्या फलन f : N $\\rightarrow$ N आच्छादक है जब f (x) = 3x, x $\\in$ N?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Prove that '.........' : $R \\times R \\rightarrow R$ is not a commutative binary operation.",
+      "prashna": "सिद्ध करें कि \".........\" : $R \\times R \\rightarrow R$ क्रमविनिमेय द्विआधारी संक्रिया नहीं है।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "Find fog and gof if $f(x)=8x^3$ and $g(x)=x^{1/3}$.",
+      "prashna": "fog और gof ज्ञात कीजिए यदि $f(x)=8x^3$ तथा $g(x)=x^{1/3}$ हो।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Relations and Functions",
+      "question": "If $f(x) = 4 - (x-7)^3$ then find $f^{-1}(x)$.",
+      "prashna": "यदि $f(x) = 4 - (x-7)^3$ तो $f^{-1}(x)$ ज्ञात कीजिए।"
+    }
+  ]
+}

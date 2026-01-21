@@ -1,0 +1,22 @@
+{
+  "2021": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the image of the point $(3, 1, -4)$ with respect to the plane $3x + 4y - 5z = 2$.",
+      "prashna": "तल $3x + 4y - 5z = 2$ के सापेक्ष बिन्दु $(3, 1, -4)$ का प्रतिबिम्ब ज्ञात कीजिए।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Three Dimensional Geometry",
+      "question": "Find the shortest distance between the lines $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + \\hat{k})$ and $\\vec{r} = (2\\hat{i} - 2\\hat{j} - \\hat{k}) + \\mu(\\hat{i} + \\hat{j} + 2\\hat{k})$.",
+      "prashna": "रेखाओं $\\vec{r} = (\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(\\hat{i} - 2\\hat{j} + \\hat{k})$ तथा $\\vec{r} = (2\\hat{i} - 2\\hat{j} - \\hat{k}) + \\mu(\\hat{i} + \\hat{j} + 2\\hat{k})$ के बीच की लघुत्तम दूरी ज्ञात करे।"
+    }
+  ]
+}

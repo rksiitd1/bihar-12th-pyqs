@@ -1,0 +1,1432 @@
+{
+  "2021": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{j} \\cdot (\\vec{k} \\times \\vec{i}) = $",
+      "prashna": "$\\vec{j} \\cdot (\\vec{k} \\times \\vec{i}) = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{j}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{j}$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$[\\vec{x} \\ \\vec{y} \\ \\vec{z}] = $",
+      "prashna": "$[\\vec{x} \\ \\vec{y} \\ \\vec{z}] = $",
+      "options": {
+        "A": "$[\\vec{z} \\ \\vec{y} \\ \\vec{x}]$",
+        "B": "$[\\vec{y} \\ \\vec{x} \\ \\vec{z}]$",
+        "C": "$[\\vec{x} \\ \\vec{z} \\ \\vec{y}]$",
+        "D": "$[\\vec{z} \\ \\vec{x} \\ \\vec{y}]$"
+      },
+      "vikalpa": {
+        "A": "$[\\vec{z} \\ \\vec{y} \\ \\vec{x}]$",
+        "B": "$[\\vec{y} \\ \\vec{x} \\ \\vec{z}]$",
+        "C": "$[\\vec{x} \\ \\vec{z} \\ \\vec{y}]$",
+        "D": "$[\\vec{z} \\ \\vec{x} \\ \\vec{y}]$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{k} \\times (\\vec{i} \\times \\vec{j}) = $",
+      "prashna": "$\\vec{k} \\times (\\vec{i} \\times \\vec{j}) = $",
+      "options": {
+        "A": "$\\vec{0}$",
+        "B": "$\\vec{i}$",
+        "C": "$\\vec{j}$",
+        "D": "$\\vec{k}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{0}$",
+        "B": "$\\vec{i}$",
+        "C": "$\\vec{j}$",
+        "D": "$\\vec{k}$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{a} \\cdot \\vec{a} = $",
+      "prashna": "$\\vec{a} \\cdot \\vec{a} = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$|\\vec{a}|^2$",
+        "D": "$|\\vec{a}|$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "$|\\vec{a}|^2$",
+        "D": "$|\\vec{a}|$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $|\\vec{a}| = 2$ and $\\lambda\\vec{a}$ is a unit vector then $\\lambda$ has the value",
+      "prashna": "यदि $|\\vec{a}| = 2$ और $\\lambda\\vec{a}$ एक इकाई सदिश हो, तो $\\lambda$ का मान है",
+      "options": {
+        "A": "1",
+        "B": "$\\frac{1}{2}$",
+        "C": "2",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "$\\frac{1}{2}$",
+        "C": "2",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The modulus of $x\\vec{i} + y\\vec{j} + z\\vec{k}$ is",
+      "prashna": "$x\\vec{i} + y\\vec{j} + z\\vec{k}$ का मापांक है",
+      "options": {
+        "A": "$x^2 + y^2 + z^2$",
+        "B": "$\\sqrt{x^2 + y^2 + z^2}$",
+        "C": "$\\sqrt{x+y+z}$",
+        "D": "$\\frac{1}{\\sqrt{x^2+y^2+z^2}}$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + y^2 + z^2$",
+        "B": "$\\sqrt{x^2 + y^2 + z^2}$",
+        "C": "$\\sqrt{x+y+z}$",
+        "D": "$\\frac{1}{\\sqrt{x^2+y^2+z^2}}$"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The number of unit vector(s) perpendicular to a plane is",
+      "prashna": "किसी तल पर लंब इकाई सदिश की संख्या है",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "infinite"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "अनंत"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 2\\vec{i} - \\vec{j} + 2\\vec{k}$ and $\\vec{b} = -\\vec{i} + \\vec{j} - \\vec{k}$, then",
+      "prashna": "यदि $\\vec{a} = 2\\vec{i} - \\vec{j} + 2\\vec{k}$ और $\\vec{b} = -\\vec{i} + \\vec{j} - \\vec{k}$, तो",
+      "options": {
+        "A": "$\\vec{a} \\cdot \\vec{b} = 5$",
+        "B": "$\\vec{a} \\cdot \\vec{b} = -5$",
+        "C": "$\\vec{a} \\cdot \\vec{b} = 0$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\vec{a} \\cdot \\vec{b} = 5$",
+        "B": "$\\vec{a} \\cdot \\vec{b} = -5$",
+        "C": "$\\vec{a} \\cdot \\vec{b} = 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$[\\vec{a} \\ \\vec{a} \\ \\vec{a}] = $",
+      "prashna": "$[\\vec{a} \\ \\vec{a} \\ \\vec{a}] = $",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "$\\vec{a}$",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "$\\vec{a}$",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{i} \\times \\vec{k} = $",
+      "prashna": "$\\vec{i} \\times \\vec{k} = $",
+      "options": {
+        "A": "1",
+        "B": "$\\vec{0}$",
+        "C": "$\\vec{j}$",
+        "D": "$-\\vec{j}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "$\\vec{0}$",
+        "C": "$\\vec{j}$",
+        "D": "$-\\vec{j}$"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{a} \\times \\vec{b} = $",
+      "prashna": "$\\vec{a} \\times \\vec{b} = $",
+      "options": {
+        "A": "$\\vec{b} \\times \\vec{a}$",
+        "B": "$-\\vec{b} \\times \\vec{a}$",
+        "C": "$\\vec{a} \\cdot \\vec{b}$",
+        "D": "$\\vec{b} \\cdot \\vec{a}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{b} \\times \\vec{a}$",
+        "B": "$-\\vec{b} \\times \\vec{a}$",
+        "C": "$\\vec{a} \\cdot \\vec{b}$",
+        "D": "$\\vec{b} \\cdot \\vec{a}$"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} \\perp \\vec{b}$, then $\\vec{a} \\cdot \\vec{b} = $",
+      "prashna": "यदि $\\vec{a} \\perp \\vec{b}$, तो $\\vec{a} \\cdot \\vec{b} = $",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{i} \\cdot (\\vec{j} \\times \\vec{k}) = $",
+      "prashna": "$\\vec{i} \\cdot (\\vec{j} \\times \\vec{k}) = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{i}^2 = $",
+      "prashna": "$\\vec{i}^2 = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{i}^2$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{i}^2$"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Prove that $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$.",
+      "prashna": "सिद्ध करें कि $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$2\\hat{i} \\cdot 3\\hat{j} =$",
+      "prashna": "$2\\hat{i} \\cdot 3\\hat{j} =$",
+      "options": {
+        "A": "$6\\hat{k}$",
+        "B": "6",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$6\\hat{k}$",
+        "B": "6",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$3\\hat{j} \\cdot 2\\hat{k} =$",
+      "prashna": "$3\\hat{j} \\cdot 2\\hat{k} =$",
+      "options": {
+        "A": "6",
+        "B": "1",
+        "C": "$6\\hat{k}$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "1",
+        "C": "$6\\hat{k}$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(3\\hat{i} + 4\\hat{j} - 5\\hat{k}) \\cdot \\hat{i} =$",
+      "prashna": "$(3\\hat{i} + 4\\hat{j} - 5\\hat{k}) \\cdot \\hat{i} =$",
+      "options": {
+        "A": "7",
+        "B": "3",
+        "C": "2",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "3",
+        "C": "2",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\hat{i} + \\hat{j} + \\hat{k}) \\cdot (2\\hat{i} + 3\\hat{j}) =$",
+      "prashna": "$(\\hat{i} + \\hat{j} + \\hat{k}) \\cdot (2\\hat{i} + 3\\hat{j}) =$",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "1",
+        "D": "11"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "6",
+        "C": "1",
+        "D": "11"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$|2\\hat{i} + \\hat{j} + 2\\hat{k}| =$",
+      "prashna": "$|2\\hat{i} + \\hat{j} + 2\\hat{k}| =$",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "2",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "5",
+        "C": "2",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} + 2\\hat{j}$ and $\\vec{b} = 2\\hat{i} + \\hat{j}$ then the value of $|\\vec{a} + \\vec{b}|$ is",
+      "prashna": "यदि $\\vec{a} = \\hat{i} + 2\\hat{j}$ तथा $\\vec{b} = 2\\hat{i} + \\hat{j}$ तो $|\\vec{a} + \\vec{b}|$ का मान है",
+      "options": {
+        "A": "$\\sqrt{2}$",
+        "B": "$2\\sqrt{2}$",
+        "C": "$3\\sqrt{2}$",
+        "D": "$4\\sqrt{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{2}$",
+        "B": "$2\\sqrt{2}$",
+        "C": "$3\\sqrt{2}$",
+        "D": "$4\\sqrt{3}$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(2\\hat{i} + 3\\hat{k}) \\cdot ((\\hat{i} + \\hat{j} + 4\\hat{k}) \\times (3\\hat{i} + \\hat{j} + 7\\hat{k})) =$",
+      "prashna": "$(2\\hat{i} + 3\\hat{k}) \\cdot ((\\hat{i} + \\hat{j} + 4\\hat{k}) \\times (3\\hat{i} + \\hat{j} + 7\\hat{k})) =$",
+      "options": {
+        "A": "0",
+        "B": "112",
+        "C": "126",
+        "D": "192"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "112",
+        "C": "126",
+        "D": "192"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The unit vector in the direction of vector $\\hat{i} + \\hat{j}$ is",
+      "prashna": "सदिश $\\hat{i} + \\hat{j}$ की दिशा में इकाई सदिश है",
+      "options": {
+        "A": "$\\frac{\\hat{i} + \\hat{j}}{\\sqrt{2}}$",
+        "B": "$2\\hat{i} + 3\\hat{j}$",
+        "C": "$\\hat{i} - \\hat{j} + \\hat{k}$",
+        "D": "$2\\hat{i} + 3\\hat{j}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\hat{i} + \\hat{j}}{\\sqrt{2}}$",
+        "B": "$2\\hat{i} + 3\\hat{j}$",
+        "C": "$\\hat{i} - \\hat{j} + \\hat{k}$",
+        "D": "$2\\hat{i} + 3\\hat{j}$"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$5\\hat{j} \\times 4\\hat{i} =$",
+      "prashna": "$5\\hat{j} \\times 4\\hat{i} =$",
+      "options": {
+        "A": "20",
+        "B": "-20",
+        "C": "$20\\hat{k}$",
+        "D": "$-20\\hat{k}$"
+      },
+      "vikalpa": {
+        "A": "20",
+        "B": "-20",
+        "C": "$20\\hat{k}$",
+        "D": "$-20\\hat{k}$"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\hat{i} - 2\\hat{j} + 5\\hat{k}) \\cdot (-2\\hat{i} + 4\\hat{j} + 2\\hat{k}) =$",
+      "prashna": "$(\\hat{i} - 2\\hat{j} + 5\\hat{k}) \\cdot (-2\\hat{i} + 4\\hat{j} + 2\\hat{k}) =$",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "-4",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "2",
+        "C": "-4",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(2\\hat{i} - 3\\hat{j} + 5\\hat{k}) \\cdot (2\\hat{i} + 2\\hat{j} + 2\\hat{k}) =$",
+      "prashna": "$(2\\hat{i} - 3\\hat{j} + 5\\hat{k}) \\cdot (2\\hat{i} + 2\\hat{j} + 2\\hat{k}) =$",
+      "options": {
+        "A": "8",
+        "B": "2",
+        "C": "4",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "2",
+        "C": "4",
+        "D": "20"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\hat{i}+\\hat{j}+\\hat{k}) \\cdot ((\\hat{i}-\\hat{j}-\\hat{k}) \\times (\\hat{i}+2\\hat{j}-\\hat{k})) =$",
+      "prashna": "$(\\hat{i}+\\hat{j}+\\hat{k}) \\cdot ((\\hat{i}-\\hat{j}-\\hat{k}) \\times (\\hat{i}+2\\hat{j}-\\hat{k})) =$",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "4",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "2",
+        "C": "4",
+        "D": "6"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = -4\\hat{i} + 7\\hat{j} - 11\\hat{k}$ and $\\vec{b} = 10\\hat{i} + \\hat{j} + \\hat{k}$ then find $\\vec{a} \\times \\vec{b}$.",
+      "prashna": "यदि $\\vec{a} = -4\\hat{i} + 7\\hat{j} - 11\\hat{k}$ तथा $\\vec{b} = 10\\hat{i} + \\hat{j} + \\hat{k}$ तो $\\vec{a} \\times \\vec{b}$ ज्ञात करें ।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Evaluate: $(2\\hat{i} - 3\\hat{j} + 4\\hat{k}) \\cdot ((7\\hat{i} + 8\\hat{j} - 9\\hat{k}) \\times (9\\hat{i} + 5\\hat{j} - 5\\hat{k}))$.",
+      "prashna": "मान ज्ञात करे : $(2\\hat{i} - 3\\hat{j} + 4\\hat{k}) \\cdot ((7\\hat{i} + 8\\hat{j} - 9\\hat{k}) \\times (9\\hat{i} + 5\\hat{j} - 5\\hat{k}))$. "
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\vec{j} - 2\\vec{i}) \\cdot (\\vec{k} + 3\\vec{i} - \\vec{j})$ =",
+      "prashna": "$(\\vec{j} - 2\\vec{i}) \\cdot (\\vec{k} + 3\\vec{i} - \\vec{j})$ =",
+      "options": {
+        "A": "0",
+        "B": "-6",
+        "C": "-7",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "-6",
+        "C": "-7",
+        "D": "8"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{i} \\cdot \\vec{i} =$",
+      "prashna": "$\\vec{i} \\cdot \\vec{i} =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{j}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{j}$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{j} \\times \\vec{i} =$",
+      "prashna": "$\\vec{j} \\times \\vec{i} =$",
+      "options": {
+        "A": "$\\vec{k}$",
+        "B": "$-\\vec{k}$",
+        "C": "$\\vec{0}$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\\vec{k}$",
+        "B": "$-\\vec{k}$",
+        "C": "$\\vec{0}$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$3\\vec{k} \\cdot (13\\vec{i} - 7\\vec{k}) =$",
+      "prashna": "$3\\vec{k} \\cdot (13\\vec{i} - 7\\vec{k}) =$",
+      "options": {
+        "A": "39",
+        "B": "0",
+        "C": "-21",
+        "D": "18"
+      },
+      "vikalpa": {
+        "A": "39",
+        "B": "0",
+        "C": "-21",
+        "D": "18"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(2\\vec{i} - 3\\vec{j}) \\cdot (\\vec{i} + \\vec{k}) =$",
+      "prashna": "$(2\\vec{i} - 3\\vec{j}) \\cdot (\\vec{i} + \\vec{k}) =$",
+      "options": {
+        "A": "2",
+        "B": "-1",
+        "C": "3",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "-1",
+        "C": "3",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{k} \\cdot (\\vec{i} + \\vec{j}) =$",
+      "prashna": "$\\vec{k} \\cdot (\\vec{i} + \\vec{j}) =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(3\\vec{k} - 7\\vec{i}) \\times 2\\vec{k} =$",
+      "prashna": "$(3\\vec{k} - 7\\vec{i}) \\times 2\\vec{k} =$",
+      "options": {
+        "A": "$-14\\vec{j}$",
+        "B": "$14\\vec{j}$",
+        "C": "$11\\vec{i} - 2\\vec{k}$",
+        "D": "$2\\vec{k} - 11\\vec{i}$"
+      },
+      "vikalpa": {
+        "A": "$-14\\vec{j}$",
+        "B": "$14\\vec{j}$",
+        "C": "$11\\vec{i} - 2\\vec{k}$",
+        "D": "$2\\vec{k} - 11\\vec{i}$"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$|\\vec{i} - 2\\vec{j} + 2\\vec{k}| =$",
+      "prashna": "$|\\vec{i} - 2\\vec{j} + 2\\vec{k}| =$",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "7",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "6",
+        "C": "7",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(10\\vec{i} + \\vec{j} + \\vec{k}) \\times (-4\\vec{i} + 7\\vec{j} - 11\\vec{k}) =$",
+      "prashna": "$(10\\vec{i} + \\vec{j} + \\vec{k}) \\times (-4\\vec{i} + 7\\vec{j} - 11\\vec{k}) =$",
+      "options": {
+        "A": "$-18\\vec{i} + 106\\vec{j} + 74\\vec{k}$",
+        "B": "$18\\vec{i} - 106\\vec{j} - 74\\vec{k}$",
+        "C": "$18\\vec{i} + 106\\vec{j} + 74\\vec{k}$",
+        "D": "$5\\vec{i} - 6\\vec{j} - 7\\vec{k}$"
+      },
+      "vikalpa": {
+        "A": "$-18\\vec{i} + 106\\vec{j} + 74\\vec{k}$",
+        "B": "$18\\vec{i} - 106\\vec{j} - 74\\vec{k}$",
+        "C": "$18\\vec{i} + 106\\vec{j} + 74\\vec{k}$",
+        "D": "$5\\vec{i} - 6\\vec{j} - 7\\vec{k}$"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(3\\vec{i} - 4\\vec{k})^2 =$",
+      "prashna": "$(3\\vec{i} - 4\\vec{k})^2 =$",
+      "options": {
+        "A": "1",
+        "B": "25",
+        "C": "7",
+        "D": "49"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "25",
+        "C": "7",
+        "D": "49"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The unit vector in the direction of vector $3\\vec{i} - 9\\vec{j}$ is",
+      "prashna": "सदिश $3\\vec{i} - 9\\vec{j}$ की दिशा में इकाई सदिश है",
+      "options": {
+        "A": "$\\frac{3\\vec{i}-9\\vec{j}}{-6}$",
+        "B": "$\\frac{3\\vec{i}-9\\vec{j}}{6}$",
+        "C": "$\\frac{3\\vec{i}-9\\vec{j}}{\\sqrt{90}}$",
+        "D": "$\\frac{3\\vec{i}-9\\vec{j}}{\\sqrt{70}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{3\\vec{i}-9\\vec{j}}{-6}$",
+        "B": "$\\frac{3\\vec{i}-9\\vec{j}}{6}$",
+        "C": "$\\frac{3\\vec{i}-9\\vec{j}}{\\sqrt{90}}$",
+        "D": "$\\frac{3\\vec{i}-9\\vec{j}}{\\sqrt{70}}$"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\vec{i} - \\vec{j} + \\vec{k}) \\cdot (7\\vec{i} - 8\\vec{j} + 9\\vec{k}) =$",
+      "prashna": "$(\\vec{i} - \\vec{j} + \\vec{k}) \\cdot (7\\vec{i} - 8\\vec{j} + 9\\vec{k}) =$",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25"
+      },
+      "vikalpa": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(11\\vec{i} - 7\\vec{j} - \\vec{k}) \\cdot (8\\vec{i} - \\vec{j} - 5\\vec{k}) =$",
+      "prashna": "$(11\\vec{i} - 7\\vec{j} - \\vec{k}) \\cdot (8\\vec{i} - \\vec{j} - 5\\vec{k}) =$",
+      "options": {
+        "A": "95",
+        "B": "100",
+        "C": "400",
+        "D": "88"
+      },
+      "vikalpa": {
+        "A": "95",
+        "B": "100",
+        "C": "400",
+        "D": "88"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$|3\\vec{i} - 4\\vec{j} - 5\\vec{k}| =$",
+      "prashna": "$|3\\vec{i} - 4\\vec{j} - 5\\vec{k}| =$",
+      "options": {
+        "A": "$5\\sqrt{2}$",
+        "B": "12",
+        "C": "2",
+        "D": "9"
+      },
+      "vikalpa": {
+        "A": "$5\\sqrt{2}$",
+        "B": "12",
+        "C": "2",
+        "D": "9"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ and $\\vec{b} = 3\\vec{i} + 5\\vec{j} - 2\\vec{k}$ then find $|\\vec{a} \\times \\vec{b}|$.",
+      "prashna": "यदि $\\vec{a} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ तथा $\\vec{b} = 3\\vec{i} + 5\\vec{j} - 2\\vec{k}$ तो $|\\vec{a} \\times \\vec{b}|$ ज्ञात करें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 7\\vec{i} - 11\\vec{j} - 16\\vec{k}$, $\\vec{b} = 8\\vec{i} + 3\\vec{j} - 5\\vec{k}$ and $\\vec{c} = -4\\vec{i} - 3\\vec{j} + 5\\vec{k}$ then find $|2\\vec{a} - 3\\vec{b} + 4\\vec{c}|$.",
+      "prashna": "यदि $\\vec{a} = 7\\vec{i} - 11\\vec{j} - 16\\vec{k}$, $\\vec{b} = 8\\vec{i} + 3\\vec{j} - 5\\vec{k}$ तथा $\\vec{c} = -4\\vec{i} - 3\\vec{j} + 5\\vec{k}$ तो $|2\\vec{a} - 3\\vec{b} + 4\\vec{c}|$ ज्ञात करें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Prove that $\\vec{i} + 2\\vec{j} + 3\\vec{k}$, $-\\vec{i} - \\vec{j} + 8\\vec{k}$ and $-4\\vec{i} + 4\\vec{j} + 6\\vec{k}$ are vertices of an equilateral triangle.",
+      "prashna": "सिद्ध करें कि $\\vec{i} + 2\\vec{j} + 3\\vec{k}$, $-\\vec{i} - \\vec{j} + 8\\vec{k}$ और $-4\\vec{i} + 4\\vec{j} + 6\\vec{k}$ एक समबाहु त्रिभुज के तीन शीर्ष हैं।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the value of $[(\\vec{i} - 2\\vec{j} + 3\\vec{k}) \\times (2\\vec{i} + \\vec{j} - \\vec{k})] \\cdot (\\vec{j} + \\vec{k})$.",
+      "prashna": "$[(\\vec{i} - 2\\vec{j} + 3\\vec{k}) \\times (2\\vec{i} + \\vec{j} - \\vec{k})] \\cdot (\\vec{j} + \\vec{k})$ का मान ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(4\\vec{i} + 3\\vec{j} + 3\\vec{k}) \\cdot (6\\vec{i} - 4\\vec{j} + \\vec{k}) = $",
+      "prashna": "$(4\\vec{i} + 3\\vec{j} + 3\\vec{k}) \\cdot (6\\vec{i} - 4\\vec{j} + \\vec{k}) = $",
+      "options": {
+        "A": "22",
+        "B": "15",
+        "C": "21",
+        "D": "18"
+      },
+      "vikalpa": {
+        "A": "22",
+        "B": "15",
+        "C": "21",
+        "D": "18"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\vec{i} + 3\\vec{j} - 2\\vec{k}) \\times (-\\vec{i} + 3\\vec{k}) = $",
+      "prashna": "$(\\vec{i} + 3\\vec{j} - 2\\vec{k}) \\times (-\\vec{i} + 3\\vec{k}) = $",
+      "options": {
+        "A": "$9\\vec{i} - \\vec{j} + 3\\vec{k}$",
+        "B": "$9\\vec{i} + \\vec{j} - 3\\vec{k}$",
+        "C": "$\\vec{i} - \\vec{j} + 3\\vec{k}$",
+        "D": "$\\vec{i} + \\vec{j} - 3\\vec{k}$"
+      },
+      "vikalpa": {
+        "A": "$9\\vec{i} - \\vec{j} + 3\\vec{k}$",
+        "B": "$9\\vec{i} + \\vec{j} - 3\\vec{k}$",
+        "C": "$\\vec{i} - \\vec{j} + 3\\vec{k}$",
+        "D": "$\\vec{i} + \\vec{j} - 3\\vec{k}$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$|\\vec{i} - \\vec{j} - \\vec{k}| = $",
+      "prashna": "$|\\vec{i} - \\vec{j} - \\vec{k}| = $",
+      "options": {
+        "A": "$\\sqrt{3}$",
+        "B": "3",
+        "C": "$\\sqrt{2}$",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{3}$",
+        "B": "3",
+        "C": "$\\sqrt{2}$",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{j} \\cdot \\vec{j} = $",
+      "prashna": "$\\vec{j} \\cdot \\vec{j} = $",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{k}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\vec{k}$"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{k} \\times \\vec{j} = $",
+      "prashna": "$\\vec{k} \\times \\vec{j} = $",
+      "options": {
+        "A": "$-\\vec{j}$",
+        "B": "$\\vec{j}$",
+        "C": "0",
+        "D": "$\\vec{k}$"
+      },
+      "vikalpa": {
+        "A": "$-\\vec{j}$",
+        "B": "$\\vec{j}$",
+        "C": "0",
+        "D": "$\\vec{k}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{a} \\times (\\vec{b}+\\vec{c}) + \\vec{b} \\times (\\vec{c}+\\vec{a}) + \\vec{c} \\times (\\vec{a}+\\vec{b}) = $",
+      "prashna": "$\\vec{a} \\times (\\vec{b}+\\vec{c}) + \\vec{b} \\times (\\vec{c}+\\vec{a}) + \\vec{c} \\times (\\vec{a}+\\vec{b}) = $",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\vec{i} \\cdot (\\vec{j} \\times \\vec{k}) = $",
+      "prashna": "$\\vec{i} \\cdot (\\vec{j} \\times \\vec{k}) = $",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "$\\vec{i}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "$\\vec{i}$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\vec{i} + \\vec{j} + 2\\vec{k}$, then the corresponding unit vector $\\hat{a}$ in the direction of $\\vec{a}$ is",
+      "prashna": "यदि $\\vec{a} = \\vec{i} + \\vec{j} + 2\\vec{k}$ तो $\\vec{a}$ की दिशा में संगत इकाई सदिश $\\hat{a}$ है",
+      "options": {
+        "A": "$\\frac{\\vec{i}+\\vec{j}+\\vec{k}}{\\sqrt{6}}$",
+        "B": "$\\frac{\\vec{i}+\\vec{j}+2\\vec{k}}{\\sqrt{6}}$",
+        "C": "$\\frac{\\vec{i}+\\vec{j}+2\\vec{k}}{6}$",
+        "D": "$\\frac{\\vec{i}+\\vec{j}+\\vec{k}}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\vec{i}+\\vec{j}+\\vec{k}}{\\sqrt{6}}$",
+        "B": "$\\frac{\\vec{i}+\\vec{j}+2\\vec{k}}{\\sqrt{6}}$",
+        "C": "$\\frac{\\vec{i}+\\vec{j}+2\\vec{k}}{6}$",
+        "D": "$\\frac{\\vec{i}+\\vec{j}+\\vec{k}}{6}$"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $3\\vec{i} + \\vec{j} - 2\\vec{k}$ and $\\vec{i} + \\lambda\\vec{j} - 3\\vec{k}$ are perpendicular to each other then the value of $\\lambda$ =",
+      "prashna": "यदि $3\\vec{i} + \\vec{j} - 2\\vec{k}$ और $\\vec{i} + \\lambda\\vec{j} - 3\\vec{k}$ परस्पर लम्ब हों तो $\\lambda$ =",
+      "options": {
+        "A": "-3",
+        "B": "-6",
+        "C": "-9",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "-3",
+        "B": "-6",
+        "C": "-9",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The angle between the vectors $2\\vec{i} - 3\\vec{j} + 2\\vec{k}$ and $\\vec{i} + 4\\vec{j} + 5\\vec{k}$ is",
+      "prashna": "सदिशों $2\\vec{i} - 3\\vec{j} + 2\\vec{k}$ और $\\vec{i} + 4\\vec{j} + 5\\vec{k}$ के बीच का कोण है",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$90^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$60^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$90^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$60^\\circ$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$|\\vec{a}+\\vec{b}|=|\\vec{a}-\\vec{b}| \\Rightarrow$",
+      "prashna": "$|\\vec{a}+\\vec{b}|=|\\vec{a}-\\vec{b}| \\Rightarrow$",
+      "options": {
+        "A": "$|\\vec{a}| = |\\vec{b}|$",
+        "B": "$\\vec{a} \\parallel \\vec{b}$",
+        "C": "$\\vec{a} \\perp \\vec{b}$",
+        "D": "$|\\vec{a}|=0$"
+      },
+      "vikalpa": {
+        "A": "$|\\vec{a}| = |\\vec{b}|$",
+        "B": "$\\vec{a} \\parallel \\vec{b}$",
+        "C": "$\\vec{a} \\perp \\vec{b}$",
+        "D": "$|\\vec{a}|=0$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The projection of the vector $\\vec{i}-2\\vec{j}+\\vec{k}$ on the vector $4\\vec{i}-4\\vec{j}+7\\vec{k}$ is",
+      "prashna": "सदिश $4\\vec{i}-4\\vec{j}+7\\vec{k}$ पर सदिश $\\vec{i}-2\\vec{j}+\\vec{k}$ का प्रक्षेप है",
+      "options": {
+        "A": "9",
+        "B": "19/9",
+        "C": "9/19",
+        "D": "19"
+      },
+      "vikalpa": {
+        "A": "9",
+        "B": "19/9",
+        "C": "9/19",
+        "D": "19"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the angle between the vectors $5\\vec{i}+3\\vec{j}+4\\vec{k}$ and $6\\vec{i}-8\\vec{j}-\\vec{k}$.",
+      "prashna": "सदिशों $5\\vec{i}+3\\vec{j}+4\\vec{k}$ और $6\\vec{i}-8\\vec{j}-\\vec{k}$ के बीच का कोण ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\vec{i} - \\vec{j} + \\vec{k}$ and $\\vec{b} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ then find the value of $|\\vec{a} + \\vec{b}|$.",
+      "prashna": "यदि $\\vec{a} = \\vec{i} - \\vec{j} + \\vec{k}$ तथा $\\vec{b} = 2\\vec{i} + \\vec{j} + 3\\vec{k}$ तो $|\\vec{a} + \\vec{b}|$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the direction cosines of the vector $3\\vec{i} - 4\\vec{j} + 12\\vec{k}$.",
+      "prashna": "सदिश $3\\vec{i} - 4\\vec{j} + 12\\vec{k}$ की दिक्-कोज्याएँ निकालें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Evaluate: $(\\vec{i}-3\\vec{j}+4\\vec{k}) \\cdot [(2\\vec{i}-\\vec{j}) \\times (\\vec{j}+\\vec{k})]$.",
+      "prashna": "मान ज्ञात करें: $(\\vec{i}-3\\vec{j}+4\\vec{k}) \\cdot [(2\\vec{i}-\\vec{j}) \\times (\\vec{j}+\\vec{k})]$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\hat{i} \\cdot \\hat{i} - \\hat{j} \\cdot \\hat{j} =$",
+      "prashna": "$\\hat{i} \\cdot \\hat{i} - \\hat{j} \\cdot \\hat{j} =$",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$|-\\hat{i} - \\hat{j} - \\hat{k}| =$",
+      "prashna": "$|-\\hat{i} - \\hat{j} - \\hat{k}| =$",
+      "options": {
+        "A": "3",
+        "B": "$\\sqrt{3}$",
+        "C": "$-\\sqrt{3}$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "$\\sqrt{3}$",
+        "C": "$-\\sqrt{3}$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(2\\hat{i} + 5\\hat{j} - \\hat{k}) \\cdot (-\\hat{i} + 7\\hat{j} + 2\\hat{k}) =$",
+      "prashna": "$(2\\hat{i} + 5\\hat{j} - \\hat{k}) \\cdot (-\\hat{i} + 7\\hat{j} + 2\\hat{k}) =$",
+      "options": {
+        "A": "28",
+        "B": "29",
+        "C": "30",
+        "D": "31"
+      },
+      "vikalpa": {
+        "A": "28",
+        "B": "29",
+        "C": "30",
+        "D": "31"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\hat{i} \\times \\hat{k} =$",
+      "prashna": "$\\hat{i} \\times \\hat{k} =$",
+      "options": {
+        "A": "$\\vec{0}$",
+        "B": "$\\hat{j}$",
+        "C": "$-\\hat{j}$",
+        "D": "$\\hat{k} \\times \\hat{i}$"
+      },
+      "vikalpa": {
+        "A": "$\\vec{0}$",
+        "B": "$\\hat{j}$",
+        "C": "$-\\hat{j}$",
+        "D": "$\\hat{k} \\times \\hat{i}$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(\\hat{j} + 2\\hat{k}) \\times (\\hat{i} + 2\\hat{j}) =$",
+      "prashna": "$(\\hat{j} + 2\\hat{k}) \\times (\\hat{i} + 2\\hat{j}) =$",
+      "options": {
+        "A": "$4\\hat{i} - 2\\hat{j} + \\hat{k}$",
+        "B": "$-4\\hat{i} + 2\\hat{j} - \\hat{k}$",
+        "C": "$4\\hat{i} + 2\\hat{j} + \\hat{k}$",
+        "D": "$-4\\hat{i} - 2\\hat{j} - \\hat{k}$"
+      },
+      "vikalpa": {
+        "A": "$4\\hat{i} - 2\\hat{j} + \\hat{k}$",
+        "B": "$-4\\hat{i} + 2\\hat{j} - \\hat{k}$",
+        "C": "$4\\hat{i} + 2\\hat{j} + \\hat{k}$",
+        "D": "$-4\\hat{i} - 2\\hat{j} - \\hat{k}$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 2\\hat{i} - \\hat{j} + 2\\hat{k}$ then unit vector $\\hat{a}$ in the direction of vector $\\vec{a}$ is",
+      "prashna": "यदि $\\vec{a} = 2\\hat{i} - \\hat{j} + 2\\hat{k}$ तो $\\vec{a}$ की दिशा में संगत इकाई सदिश $\\hat{a}$ है:",
+      "options": {
+        "A": "$\\frac{1}{3}(-2\\hat{i} + \\hat{j} - 2\\hat{k})$",
+        "B": "$\\frac{1}{9}(2\\hat{i} - \\hat{j} + 2\\hat{k})$",
+        "C": "$\\frac{1}{3}(-2\\hat{i} + \\hat{j} - 2\\hat{k})$",
+        "D": "$\\frac{1}{3}(2\\hat{i} - \\hat{j} + 2\\hat{k})$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{3}(-2\\hat{i} + \\hat{j} - 2\\hat{k})$",
+        "B": "$\\frac{1}{9}(2\\hat{i} - \\hat{j} + 2\\hat{k})$",
+        "C": "$\\frac{1}{3}(-2\\hat{i} + \\hat{j} - 2\\hat{k})$",
+        "D": "$\\frac{1}{3}(2\\hat{i} - \\hat{j} + 2\\hat{k})$"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = 2\\hat{i} + 3\\hat{j} + 4\\hat{k}, \\vec{b} = -\\hat{j} - 2\\hat{k}$ then $|\\vec{a} \\times \\vec{b}| =$",
+      "prashna": "यदि $\\vec{a} = 2\\hat{i} + 3\\hat{j} + 4\\hat{k}, \\vec{b} = -\\hat{j} - 2\\hat{k}$ तो $|\\vec{a} \\times \\vec{b}| =$",
+      "options": {
+        "A": "$2\\sqrt{6}$",
+        "B": "$6\\sqrt{2}$",
+        "C": "$\\sqrt{12}$",
+        "D": "$\\sqrt{36}$"
+      },
+      "vikalpa": {
+        "A": "$2\\sqrt{6}$",
+        "B": "$6\\sqrt{2}$",
+        "C": "$\\sqrt{12}$",
+        "D": "$\\sqrt{36}$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $(3\\hat{i} - 2\\hat{j} + \\hat{k})$ and $(2\\hat{i} - 3\\hat{j} - \\lambda\\hat{k})$ are perpendicular to each other then $\\lambda =$",
+      "prashna": "यदि $(3\\hat{i} - 2\\hat{j} + \\hat{k})$ तथा $(2\\hat{i} - 3\\hat{j} - \\lambda\\hat{k})$ परस्पर लम्ब हों तो $\\lambda =$",
+      "options": {
+        "A": "0",
+        "B": "-12",
+        "C": "12",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "-12",
+        "C": "12",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\hat{j} \\cdot (\\hat{i} \\times \\hat{k}) =$",
+      "prashna": "$\\hat{j} \\cdot (\\hat{i} \\times \\hat{k}) =$",
+      "options": {
+        "A": "$-\\hat{j}$",
+        "B": "0",
+        "C": "-1",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$-\\hat{j}$",
+        "B": "0",
+        "C": "-1",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "The projection of the vector $\\hat{i} - \\hat{j}$ on the vector $\\hat{i} + \\hat{j}$ is",
+      "prashna": "सदिश $\\hat{i} - \\hat{j}$ का सदिश $\\hat{i} + \\hat{j}$ पर प्रक्षेप हैं",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "1",
+        "D": "$\\frac{1}{2}$"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "0",
+        "C": "1",
+        "D": "$\\frac{1}{2}$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $|\\vec{a}| = 3, |\\vec{b}| = \\frac{\\sqrt{2}}{3}$ and $\\vec{a} \\times \\vec{b}$ is a unit vector then angle between $\\vec{a}$ and $\\vec{b}$ is",
+      "prashna": "यदि $|\\vec{a}| = 3, |\\vec{b}| = \\frac{\\sqrt{2}}{3}$ तथा $\\vec{a} \\times \\vec{b}$ एक इकाई सदिश है। तो $\\vec{a}$ और $\\vec{b}$ के बीच का कोण है",
+      "options": {
+        "A": "$\\frac{\\pi}{6}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{6}$",
+        "B": "$\\frac{\\pi}{4}$",
+        "C": "$\\frac{\\pi}{3}$",
+        "D": "$\\frac{\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$\\hat{i} \\cdot (\\hat{j} \\times \\hat{k}) + \\hat{j} \\cdot (\\hat{i} \\times \\hat{k}) + \\hat{k} \\cdot (\\hat{i} \\times \\hat{j}) =$",
+      "prashna": "$\\hat{i} \\cdot (\\hat{j} \\times \\hat{k}) + \\hat{j} \\cdot (\\hat{i} \\times \\hat{k}) + \\hat{k} \\cdot (\\hat{i} \\times \\hat{j}) =$",
+      "options": {
+        "A": "0",
+        "B": "-1",
+        "C": "1",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "-1",
+        "C": "1",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "$(2\\hat{i} + 3\\hat{j} - 5\\hat{k}) \\cdot (7\\hat{i} - \\hat{j} + 3\\hat{k}) =$",
+      "prashna": "$(2\\hat{i} + 3\\hat{j} - 5\\hat{k}) \\cdot (7\\hat{i} - \\hat{j} + 3\\hat{k}) =$",
+      "options": {
+        "A": "32",
+        "B": "2",
+        "C": "4",
+        "D": "-4"
+      },
+      "vikalpa": {
+        "A": "32",
+        "B": "2",
+        "C": "4",
+        "D": "-4"
+      }
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} + \\hat{j} + 2\\hat{k}$ and $\\vec{b} = 2\\hat{i} + \\hat{j} + 2\\hat{k}$ then find the unit vector in the direction of vector $(2\\vec{a} - \\vec{b})$.",
+      "prashna": "यदि $\\vec{a} = \\hat{i} + \\hat{j} + 2\\hat{k}$ तथा $\\vec{b} = 2\\hat{i} + \\hat{j} + 2\\hat{k}$ तो सदिश $(2\\vec{a} - \\vec{b})$ की दिशा में इकाई सदिश ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find vector $\\vec{v}$ which is perpendicular to $(2\\hat{i} - \\hat{j} + 2\\hat{k})$ and $(4\\hat{i} - \\hat{j} + 3\\hat{k})$ and $|\\vec{v}| = 6$.",
+      "prashna": "सदिश $\\vec{v}$ ज्ञात कीजिए। जो कि $(2\\hat{i} - \\hat{j} + 2\\hat{k})$ तथा $(4\\hat{i} - \\hat{j} + 3\\hat{k})$ पर लम्ब है। तथा $|\\vec{v}| = 6$।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a}, \\vec{b}, \\vec{c}$ are unit vectors and $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ then find the value of $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$.",
+      "prashna": "यदि $\\vec{a}, \\vec{b}, \\vec{c}$ इकाई सदिश है। तथा $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$ तो $\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}$ का मान ज्ञात कीजिए।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{j} - \\hat{k}$ then find $\\vec{c}$ such that $\\vec{a} \\times \\vec{c} = \\vec{b}$ and $\\vec{a} \\cdot \\vec{c} = 3$.",
+      "prashna": "यदि $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ तथा $\\vec{b} = \\hat{j} - \\hat{k}$ तो $\\vec{c}$ ज्ञात करें ताकि $\\vec{a} \\times \\vec{c} = \\vec{b}$ तथा $\\vec{a} \\cdot \\vec{c} = 3$।"
+    }
+  ]
+}

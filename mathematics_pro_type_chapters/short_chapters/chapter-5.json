@@ -1,0 +1,180 @@
+{
+  "2021": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\sin(\\log x)$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $y = \\sin(\\log x)$."
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\sqrt{\\sin\\sqrt{x}}$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\sqrt{\\sin\\sqrt{x}}$."
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\sin^{-1}(\\frac{2x}{1+x^2})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\sin^{-1}(\\frac{2x}{1+x^2})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\log(x+\\sqrt{x^2+1})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\log(x+\\sqrt{x^2+1})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a \\cos t + b \\sin t$, $y = a \\sin t - b \\cos t$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = a \\cos t + b \\sin t$, $y = a \\sin t - b \\cos t$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\log x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\log x}$ तो $\\frac{dy}{dx}$ ज्ञात करे।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x + y = xy^3$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x + y = xy^3$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\cos(\\tan\\sqrt{x+1})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\cos(\\tan\\sqrt{x+1})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\cos x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\cos x}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a(1 - \\cos\\theta)$, $y = a(\\theta + \\sin\\theta)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = a(1 - \\cos\\theta)$, $y = a(\\theta + \\sin\\theta)$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y=\\sin(xy)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y=\\sin(xy)$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$ if $y=\\sqrt{\\sin x^2}$.",
+      "prashna": "यदि $y=\\sqrt{\\sin x^2}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x \\cos y = \\sin(x+y)$, find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x \\cos y = \\sin(x+y)$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Differentiate $\\tan^{-1} \\frac{2x}{1-x^2}$ with respect to $\\sin^{-1} \\frac{2x}{1+x^2}$.",
+      "prashna": "$\\tan^{-1} \\frac{2x}{1-x^2}$ का $\\sin^{-1} \\frac{2x}{1+x^2}$ के सापेक्ष अवकलन करें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x=\\sqrt{1+t^2}, y=\\sqrt{1-t^2}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x=\\sqrt{1+t^2}, y=\\sqrt{1-t^2}$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y=x^{\\sin x}$, find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y=x^{\\sin x}$ तो $\\frac{dy}{dx}$ निकालें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = 3\\cos\\theta - 2\\cos^3\\theta, y = 3\\sin\\theta - 2\\sin^3\\theta$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = 3\\cos\\theta - 2\\cos^3\\theta, y = 3\\sin\\theta - 2\\sin^3\\theta$ तो $\\frac{dy}{dx}$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $\\tan^{-1}(x^2 + y^2) = K$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $\\tan^{-1}(x^2 + y^2) = K$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\log |\\frac{1-x^2}{1+x^2}|$, then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\log |\\frac{1-x^2}{1+x^2}|$ तो $\\frac{dy}{dx}$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $\\sqrt{x} + \\sqrt{y} = 1$ then find the value of $\\frac{dy}{dx}$ at point $(\\frac{1}{4}, \\frac{1}{4})$.",
+      "prashna": "यदि $\\sqrt{x} + \\sqrt{y} = 1$ तो बिन्दु $(\\frac{1}{4}, \\frac{1}{4})$ पर $\\frac{dy}{dx}$ ज्ञात करें।"
+    }
+  ]
+}

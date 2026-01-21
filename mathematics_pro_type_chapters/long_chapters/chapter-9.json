@@ -1,0 +1,52 @@
+{
+  "2021": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x \\cos(\\frac{y}{x}) (y dx + x dy) = y \\sin(\\frac{y}{x}) (x dy - y dx)$",
+      "prashna": "हल करे : $x \\cos(\\frac{y}{x}) (y dx + x dy) = y \\sin(\\frac{y}{x}) (x dy - y dx)$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(x^2 + y^2)\\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें: $(x^2 + y^2)\\frac{dy}{dx} = 2xy$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(1+x^2) \\frac{dy}{dx} + y = \\tan^{-1} x$.",
+      "prashna": "हल करें: $(1+x^2) \\frac{dy}{dx} + y = \\tan^{-1} x$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $(1 + \\tan y)(dx - dy) + 2xdy = 0$",
+      "prashna": "हल करें: $(1 + \\tan y)(dx - dy) + 2xdy = 0$"
+    }
+  ]
+}

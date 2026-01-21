@@ -1,0 +1,316 @@
+{
+  "2021": [
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The maximum value of $Z = 3x + 4y$ subject to constraints $x + y \\le 4, x \\ge 0, y \\ge 0$ is",
+      "prashna": "$Z = 3x + 4y$ का अधिकतम मान है जहाँ कि व्यवरोध $x + y \\le 4, x \\ge 0, y \\ge 0$ है",
+      "options": {
+        "A": "0",
+        "B": "12",
+        "C": "16",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "12",
+        "C": "16",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize and minimize $Z = 5x + 10y$ subject to $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$.",
+      "prashna": "$Z = 5x + 10y$ का अधिकतमीकरण एवं न्यूनतमीकरण करें, जबकि $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The minimum value of $z = 2x - 3y$ under the constraints $x + y \\leq 5, x \\geq 0, y \\geq 0$ is",
+      "prashna": "व्यवरोधों $x + y \\leq 5, x \\geq 0, y \\geq 0$ के अंतर्गत $z = 2x - 3y$ का न्यूनतम मान है",
+      "options": {
+        "A": "0",
+        "B": "10",
+        "C": "-15",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "10",
+        "C": "-15",
+        "D": "20"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Which of the following is an objective function?",
+      "prashna": "निम्नलिखित में कौन उद्देशीय फलन है ?",
+      "options": {
+        "A": "$z = 5x + 7y$",
+        "B": "$x > 0$",
+        "C": "$y > 0$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$z = 5x + 7y$",
+        "B": "$x > 0$",
+        "C": "$y > 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The minimum value of $11x+2y$ under the constraints $x + y \\leq 7, x \\geq 0, y \\geq 0$ is",
+      "prashna": "व्यवरोधों $x + y \\leq 7, x \\geq 0, y \\geq 0$ के अंतर्गत $11x+2y$ का न्यूनतम मान है",
+      "options": {
+        "A": "77",
+        "B": "14",
+        "C": "0",
+        "D": "-14"
+      },
+      "vikalpa": {
+        "A": "77",
+        "B": "14",
+        "C": "0",
+        "D": "-14"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The maximum value of $x + y$ under the constraints $3x + 5y \\leq 30, x \\geq 0, y \\geq 0$ is",
+      "prashna": "व्यवरोधों $3x + 5y \\leq 30, x \\geq 0, y \\geq 0$ के अंतर्गत $x + y$ का अधिकतम मान है",
+      "options": {
+        "A": "16",
+        "B": "10",
+        "C": "6",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "16",
+        "B": "10",
+        "C": "6",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Solve the following linear programming problem - Under the constraints $3x + 4y \\leq 12$, $x \\geq 0, y \\geq 0$, find the maximum value of $z = x + 2x + 3y$.",
+      "prashna": "निम्न रैखिक प्रोग्रामन समस्या को हल करे - व्यवरोधों $3x + 4y \\leq 12$, $x \\geq 0, y \\geq 0$ के अंतर्गत $z = x + 2x + 3y$ का अधिकतम मान ज्ञात करे।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $z = 2x + y$ subject to $x + y \\geq 1$, $x + 2y \\leq 10$, $y \\leq 4$, $x \\geq 0, y \\geq 0$.",
+      "prashna": "न्यूनतमीकरण करे $z = 2x + y$ जबकि $x + y \\geq 1$, $x + 2y \\leq 10$, $y \\leq 4$, $x \\geq 0, y \\geq 0$।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The maximum value of $Z = 6x + 3y$ subject to constraints $x + y \\le 25, x \\ge 0, y \\ge 0$ is",
+      "prashna": "व्यवरोधों $x + y \\le 25, x \\ge 0, y \\ge 0$ के अंतर्गत $Z = 6x + 3y$ का अधिकतम मान है",
+      "options": {
+        "A": "150",
+        "B": "225",
+        "C": "425",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "150",
+        "B": "225",
+        "C": "425",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The maximum value of $Z = x - 3y$ subject to constraints $x + y \\le 13, x \\ge 0, y \\ge 0$ is",
+      "prashna": "व्यवरोधों $x + y \\le 13, x \\ge 0, y \\ge 0$ के अंतर्गत $Z = x - 3y$ का अधिकतम मान है",
+      "options": {
+        "A": "39",
+        "B": "26",
+        "C": "13",
+        "D": "-26"
+      },
+      "vikalpa": {
+        "A": "39",
+        "B": "26",
+        "C": "13",
+        "D": "-26"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The minimum value of $Z = 7x + 8y$ subject to constraints $3x + 4y \\le 24, x \\ge 0, y \\ge 0$ is",
+      "prashna": "व्यवरोधों $3x + 4y \\le 24, x \\ge 0, y \\ge 0$ के अंतर्गत $Z = 7x + 8y$ का न्यूनतम मान है",
+      "options": {
+        "A": "56",
+        "B": "48",
+        "C": "0",
+        "D": "-12"
+      },
+      "vikalpa": {
+        "A": "56",
+        "B": "48",
+        "C": "0",
+        "D": "-12"
+      }
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z = 3x + 7y$ subject to the constraints $x + 2y \\le 16$, $x \\ge 0, y \\ge 0$.",
+      "prashna": "व्यवरोधों $x + 2y \\le 16$, $x \\ge 0, y \\ge 0$ के अंतर्गत $Z = 3x + 7y$ का अधिकतम मान ज्ञात करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z = 5x+7y$ subject to $x+y \\le 4$, $3x+8y \\le 24$, $10x+7y \\le 35$, $x, y \\ge 0$.",
+      "prashna": "$Z = 5x+7y$ का अधिकतमीकरण करें जबकि $x+y \\le 4$, $3x+8y \\le 24$, $10x+7y \\le 35$, $x, y \\ge 0$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The minimum value of $Z=3x+5y$ subject to the constraints where $x+y \\le 2, x \\ge 0, y \\ge 0$ is",
+      "prashna": "$Z=3x+5y$ का न्यूनतम मान जहाँ कि व्यवरोध $x+y \\le 2, x \\ge 0, y \\ge 0$ है",
+      "options": {
+        "A": "16",
+        "B": "15",
+        "C": "0",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "16",
+        "B": "15",
+        "C": "0",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The maximum value of $Z=3x+2y$ subject to the constraints where $3x+y \\le 15, x \\ge 0, y \\ge 0$ is",
+      "prashna": "$Z = 3x+2y$ का अधिकतम मान जहाँ कि व्यवरोध $3x+y \\le 15, x \\ge 0, y \\ge 0$ है",
+      "options": {
+        "A": "30",
+        "B": "15",
+        "C": "10",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "30",
+        "B": "15",
+        "C": "10",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z=20x+3y$, subject to $3x+2y \\le 210, x \\ge 0, y \\ge 0$.",
+      "prashna": "अधिकतमीकरण करें $Z=20x+3y$, जबकि $3x+2y \\le 210, x \\ge 0, y \\ge 0$."
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $Z=2x+y$, subject to $5x+10y \\le 50, x+y \\ge 1, y \\le 4, x \\ge 0, y \\ge 0$.",
+      "prashna": "न्यूनतमीकरण करें $Z=2x+y$ जबकि $5x+10y \\le 50, x+y \\ge 1, y \\le 4, x \\ge 0, y \\ge 0$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The maximum value of $z = 3x + 4y$ is, where constraints $x + y \\le 4, x \\ge 0, y \\ge 0$",
+      "prashna": "$z = 3x + 4y$ का अधिकतम मान है, जहाँ कि व्यवरोध $x + y \\le 4, x \\ge 0, y \\ge 0$",
+      "options": {
+        "A": "16",
+        "B": "0",
+        "C": "12",
+        "D": "28"
+      },
+      "vikalpa": {
+        "A": "16",
+        "B": "0",
+        "C": "12",
+        "D": "28"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "The minimum value of $z = 4x + y$ is, where constraints $x + y \\le 50, x + y \\le 90, x \\ge 0, y \\ge 0$",
+      "prashna": "$z = 4x + y$ का न्यूनतम मान है, जहाँ कि व्यवरोध $x + y \\le 50, x + y \\le 90, x \\ge 0, y \\ge 0$",
+      "options": {
+        "A": "0",
+        "B": "50",
+        "C": "110",
+        "D": "120"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "50",
+        "C": "110",
+        "D": "120"
+      }
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Minimize $z = 13x - 15y$ subject to $x + y \\le 7, 2x - 3y + 6 \\ge 0, x \\ge 0$ and $y \\ge 0$.",
+      "prashna": "$z = 13x - 15y$ का न्यूनतमीकरण करें जबकि $x + y \\le 7, 2x - 3y + 6 \\ge 0, x \\ge 0$ तथा $y \\ge 0$।"
+    }
+  ]
+}

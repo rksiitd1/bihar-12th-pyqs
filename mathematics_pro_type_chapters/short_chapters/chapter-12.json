@@ -1,0 +1,32 @@
+{
+  "2022": [
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Solve the following linear programming problem - Under the constraints $3x + 4y \\leq 12$, $x \\geq 0, y \\geq 0$, find the maximum value of $z = x + 2x + 3y$.",
+      "prashna": "निम्न रैखिक प्रोग्रामन समस्या को हल करे - व्यवरोधों $3x + 4y \\leq 12$, $x \\geq 0, y \\geq 0$ के अंतर्गत $z = x + 2x + 3y$ का अधिकतम मान ज्ञात करे।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z = 3x + 7y$ subject to the constraints $x + 2y \\le 16$, $x \\ge 0, y \\ge 0$.",
+      "prashna": "व्यवरोधों $x + 2y \\le 16$, $x \\ge 0, y \\ge 0$ के अंतर्गत $Z = 3x + 7y$ का अधिकतम मान ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "12",
+      "chapter_name": "Linear Programming",
+      "question": "Maximize $Z=20x+3y$, subject to $3x+2y \\le 210, x \\ge 0, y \\ge 0$.",
+      "prashna": "अधिकतमीकरण करें $Z=20x+3y$, जबकि $3x+2y \\le 210, x \\ge 0, y \\ge 0$."
+    }
+  ]
+}

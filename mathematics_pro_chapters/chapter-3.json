@@ -1,0 +1,916 @@
+{
+  "2021": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & 1 \\ -1 & -1 \\end{bmatrix}$, then $A^3 = $",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & 1 \\ -1 & -1 \\end{bmatrix}$, तो $A^3 = $",
+      "options": {
+        "A": "3A",
+        "B": "4A",
+        "C": "2A",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "3A",
+        "B": "4A",
+        "C": "2A",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Matrix $\\begin{bmatrix} a & h & g \\ h & b & f \\ g & f & c \\end{bmatrix}$ is",
+      "prashna": "आव्यूह $\\begin{bmatrix} a & h & g \\ h & b & f \\ g & f & c \\end{bmatrix}$ है",
+      "options": {
+        "A": "skew symmetric matrix",
+        "B": "symmetric matrix",
+        "C": "unit matrix",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "विषम सममित आव्यूह",
+        "B": "सममित आव्यूह",
+        "C": "एकांक आव्यूह",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 4\\alpha & 0 \\ 5 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 16 & 0 \\ 5 & 1 \\end{bmatrix}$, when $A=B$, then the value of $\\alpha$ is",
+      "prashna": "यदि $A = \\begin{bmatrix} 4\\alpha & 0 \\ 5 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 16 & 0 \\ 5 & 1 \\end{bmatrix}$, जहाँ $A=B$, तो $\\alpha$ का मान है",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "4",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "4",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \\end{bmatrix}$, then $A^2 = $",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \\end{bmatrix}$, तो $A^2 = $",
+      "options": {
+        "A": "2A",
+        "B": "3A",
+        "C": "27A",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "2A",
+        "B": "3A",
+        "C": "27A",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} \\cos\\alpha & -\\sin\\alpha \\ \\sin\\alpha & \\cos\\alpha \\end{bmatrix}$ and $A+A' = I_2$, then $\\alpha = $",
+      "prashna": "यदि $A = \\begin{bmatrix} \\cos\\alpha & -\\sin\\alpha \\ \\sin\\alpha & \\cos\\alpha \\end{bmatrix}$ और $A+A' = I_2$, तो $\\alpha = $",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{3\\pi}{2}$",
+        "D": "$\\frac{\\pi}{6}$"
+      },
+      "vikalpa": {
+        "A": "$\\pi$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{3\\pi}{2}$",
+        "D": "$\\frac{\\pi}{6}$"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "A is a square matrix, then $A+A'$ is necessarily",
+      "prashna": "A एक वर्ग आव्यूह है तो $A+A'$ अवश्य ही होगा",
+      "options": {
+        "A": "a symmetric matrix",
+        "B": "a skew symmetric matrix",
+        "C": "a unit matrix",
+        "D": "a zero matrix"
+      },
+      "vikalpa": {
+        "A": "सममित आव्यूह",
+        "B": "विषम सममित आव्यूह",
+        "C": "इकाई आव्यूह",
+        "D": "शून्य आव्यूह"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} \\lambda & 0 \\ 1 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 1 & 0 \\ 2 & 1 \\end{bmatrix}$ and $A^2=B$; then $\\lambda = $",
+      "prashna": "यदि $A = \\begin{bmatrix} \\lambda & 0 \\ 1 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 1 & 0 \\ 2 & 1 \\end{bmatrix}$ और $A^2=B$; तो $\\lambda = $",
+      "options": {
+        "A": "-1",
+        "B": "1",
+        "C": "4",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "1",
+        "C": "4",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$, then",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$, तो",
+      "options": {
+        "A": "$A^{-1}$ exists",
+        "B": "$|A|=0$",
+        "C": "$A^{-1}$ does not exist",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$A^{-1}$ का अस्तित्व है",
+        "B": "$|A|=0$",
+        "C": "$A^{-1}$ का अस्तित्व नहीं है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} + \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} = $",
+      "prashna": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} + \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} = $",
+      "options": {
+        "A": "$\\begin{bmatrix} 2 & 0 \\ 0 & 2 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 2 \\ 2 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 2 \\ 2 & 2 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 1 \\ 1 & 1 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 2 & 0 \\ 0 & 2 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 2 \\ 2 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 2 \\ 2 & 2 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 1 \\ 1 & 1 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & y \\ x^2 & y^2 \\end{bmatrix}$, then find $AA'\\!$.",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & y \\ x^2 & y^2 \\end{bmatrix}$, तो $AA'$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Find the value of $x$ from the following: $\\begin{pmatrix} 2x-y & 5 \\ 3 & y \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\ 3 & -2 \\end{pmatrix}$.",
+      "prashna": "निम्न से $x$ का मान ज्ञात कीजिए: $\\begin{pmatrix} 2x-y & 5 \\ 3 & y \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\ 3 & -2 \\end{pmatrix}$."
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Prove that $(AB)^{-1} = B^{-1}A^{-1}$, where $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \\ 1 & 1 & 9 \\end{bmatrix}, B = \\begin{bmatrix} 2 & 5 & 3 \\ 3 & 1 & 2 \\ 1 & 2 & 1 \\end{bmatrix}$.",
+      "prashna": "सिद्ध कीजिए कि $(AB)^{-1} = B^{-1}A^{-1}$, जहाँ कि $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \\ 1 & 1 & 9 \\end{bmatrix}, B = \\begin{bmatrix} 2 & 5 & 3 \\ 3 & 1 & 2 \\ 1 & 2 & 1 \\end{bmatrix}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Which of the following is a symmetric matrix?",
+      "prashna": "निम्नलिखित में कौन सममित आव्यूह है?",
+      "options": {
+        "A": "$\\begin{bmatrix} -1 & -2 & 2 \\ -2 & 1 & 2 \\ 2 & 2 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 0 & 2 \\ 0 & 1 & 0 \\ 0 & 0 & 5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 1 & 2 \\ 3 & 6 \\end{bmatrix}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} -1 & -2 & 2 \\ -2 & 1 & 2 \\ 2 & 2 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 0 & 2 \\ 0 & 1 & 0 \\ 0 & 0 & 5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 1 & 2 \\ 3 & 6 \\end{bmatrix}$",
+        "D": "इनमे से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$X = \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} \\Rightarrow X^8 =$",
+      "prashna": "$X = \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} \\Rightarrow X^8 =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 8 \\ 8 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 8 \\ 8 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 7 & 6 \\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 7 & 6 \\ 0 & -1 \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 8 & 6 \\ 0 & 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 7 & 0 \\ 0 & -1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 7 & 6 \\ 0 & -1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 8 & 6 \\ 0 & 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 7 & 0 \\ 0 & -1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 7 & 6 \\ 0 & -1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 1 \\ 0 \\end{bmatrix} \\begin{bmatrix} 5 & 6 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 1 \\ 0 \\end{bmatrix} \\begin{bmatrix} 5 & 6 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 5 & 6 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 5 \\ 6 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 0 \\ 5 & 6 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 5 & 6 \\ 0 & 0 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 5 & 6 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 5 \\ 6 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 0 \\ 5 & 6 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 5 & 6 \\ 0 & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} x & y \\end{bmatrix} = \\begin{bmatrix} 2x - 1 & 7 \\end{bmatrix} \\Rightarrow$",
+      "prashna": "$\\begin{bmatrix} x & y \\end{bmatrix} = \\begin{bmatrix} 2x - 1 & 7 \\end{bmatrix} \\Rightarrow$",
+      "options": {
+        "A": "$x = 3, y = 7$",
+        "B": "$x = 1, y = 7$",
+        "C": "$x = 0, y = 7$",
+        "D": "$x = 3, y = 4$"
+      },
+      "vikalpa": {
+        "A": "$x = 3, y = 7$",
+        "B": "$x = 1, y = 7$",
+        "C": "$x = 0, y = 7$",
+        "D": "$x = 3, y = 4$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If A is a square matrix such that $3A^3 + 2A^2 + 5A + I = 0$, then $A^{-1}$ is equal to",
+      "prashna": "यदि एक वर्ग आव्यूह A इस प्रकार है कि $3A^3 + 2A^2 + 5A + I = 0$ तो $A^{-1}$ बराबर है",
+      "options": {
+        "A": "$3A^2 + 2A + 5I$",
+        "B": "$-3A^2 - 2A - 5I$",
+        "C": "$-3A^2 + 2A - 5I$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$3A^2 + 2A + 5I$",
+        "B": "$-3A^2 - 2A - 5I$",
+        "C": "$-3A^2 + 2A - 5I$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 2 & 5 \\ 8 & 10 \\end{bmatrix} \\begin{bmatrix} 5 \\ 50 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 2 & 5 \\ 8 & 10 \\end{bmatrix} \\begin{bmatrix} 5 \\ 50 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 260 & 540 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 260 \\ 540 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 10 & 25 \\ 400 & 500 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 35 \\ 900 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 260 & 540 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 260 \\ 540 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 10 & 25 \\ 400 & 500 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 35 \\ 900 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$3 \\begin{bmatrix} 5 & 6 \\ 7 & 8 \\end{bmatrix} =$",
+      "prashna": "$3 \\begin{bmatrix} 5 & 6 \\ 7 & 8 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 15 & 18 \\ 7 & 8 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 5 & 6 \\ 21 & 24 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 15 & 18 \\ 21 & 24 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 15 & 6 \\ 21 & 8 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 15 & 18 \\ 7 & 8 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 5 & 6 \\ 21 & 24 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 15 & 18 \\ 21 & 24 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 15 & 6 \\ 21 & 8 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$2 \\begin{bmatrix} 1 & 2 \\ 3 & 4 \\end{bmatrix} =$",
+      "prashna": "$2 \\begin{bmatrix} 1 & 2 \\ 3 & 4 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 2 & 2 \\ 3 & 4 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 4 \\ 6 & 4 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 2 \\ 6 & 4 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & 4 \\ 6 & 8 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 2 & 2 \\ 3 & 4 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 4 \\ 6 & 4 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 2 \\ 6 & 4 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & 4 \\ 6 & 8 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} a & b \\ x & y \\ x^2 & y^2 \\end{bmatrix}$ find $AA'$ and $A'A$.",
+      "prashna": "यदि $A = \\begin{bmatrix} a & b \\ x & y \\ x^2 & y^2 \\end{bmatrix}$ तो $AA'$ और $A'A$ ज्ञात करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$ then the value of $A^{25}$ is",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$ तो $A^{25}$ का मान है",
+      "options": {
+        "A": "25A",
+        "B": "24A",
+        "C": "2A",
+        "D": "A"
+      },
+      "vikalpa": {
+        "A": "25A",
+        "B": "24A",
+        "C": "2A",
+        "D": "A"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} -1 \\end{bmatrix} \\begin{bmatrix} 1 & -1 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} -1 \\end{bmatrix} \\begin{bmatrix} 1 & -1 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -1 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & -2 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -1 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} -1 \\\\ 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & -2 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$3\\begin{bmatrix} 7 & -2 \\ 8 & 0 \\end{bmatrix} =$",
+      "prashna": "$3\\begin{bmatrix} 7 & -2 \\ 8 & 0 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 21 & -6 \\ 8 & 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 7 & -2 \\ 24 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 21 & -6 \\ 24 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 21 & -2 \\ 8 & 0 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 21 & -6 \\ 8 & 0 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 7 & -2 \\ 24 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 21 & -6 \\ 24 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 21 & -2 \\ 8 & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 13 & 15 \\ -1 & 4 \\end{bmatrix} \\begin{bmatrix} 2 & 0 \\ 0 & 2 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 13 & 15 \\ -1 & 4 \\end{bmatrix} \\begin{bmatrix} 2 & 0 \\ 0 & 2 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 13 & 15 \\ -1 & 4 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 15 & 0 \\ 0 & 8 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 26 & 30 \\ -2 & 8 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 13 & 0 \\ 0 & 6 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 13 & 15 \\ -1 & 4 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 15 & 0 \\ 0 & 8 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 26 & 30 \\ -2 & 8 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 13 & 0 \\ 0 & 6 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 2 & 3 \\ 5 & 7 \\end{bmatrix} \\begin{bmatrix} 2 \\ 5 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 2 & 3 \\ 5 & 7 \\end{bmatrix} \\begin{bmatrix} 2 \\ 5 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 4 & 6 \\ 25 & 35 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 4 & 15 \\ 10 & 35 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 19 & 45 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 19 \\ 45 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 4 & 6 \\ 25 & 35 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 4 & 15 \\ 10 & 35 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 19 & 45 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 19 \\ 45 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 2a-7 & 1 \\end{bmatrix} = \\begin{bmatrix} a & b-1 \\end{bmatrix} \\Rightarrow (a,b) =$",
+      "prashna": "$\\begin{bmatrix} 2a-7 & 1 \\end{bmatrix} = \\begin{bmatrix} a & b-1 \\end{bmatrix} \\Rightarrow (a,b) =$",
+      "options": {
+        "A": "(1, 7)",
+        "B": "(2, 7)",
+        "C": "(7, 2)",
+        "D": "(2, 3)"
+      },
+      "vikalpa": {
+        "A": "(1, 7)",
+        "B": "(2, 7)",
+        "C": "(7, 2)",
+        "D": "(2, 3)"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} 2 & -3 \\ 0 & 4 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} \\begin{bmatrix} 2 & -3 \\ 0 & 4 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 2 & -3 \\ 0 & 4 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 0 \\ 0 & 4 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 3 & -3 \\ 0 & 5 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 2 & -3 \\ 0 & 4 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 0 \\ 0 & 4 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 3 & -3 \\ 0 & 5 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 6 & 5 \\end{bmatrix} \\begin{bmatrix} 1 \\ -1 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 6 & 5 \\end{bmatrix} \\begin{bmatrix} 1 \\ -1 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 6 & -5 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -5 & 6 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 11 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 6 & -5 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -5 & 6 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 11 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 0 & 1 & 2 \\ 1 & 2 & 3 \\ 2 & 3 & 4 \\end{bmatrix}$, $B = \\begin{bmatrix} 1 & -2 \\ -1 & 0 \\ 2 & -1 \\end{bmatrix}$ then find AB, if possible.",
+      "prashna": "यदि $A = \\begin{bmatrix} 0 & 1 & 2 \\ 1 & 2 & 3 \\ 2 & 3 & 4 \\end{bmatrix}$, $B = \\begin{bmatrix} 1 & -2 \\ -1 & 0 \\ 2 & -1 \\end{bmatrix}$ तो AB ज्ञात करें, यदि संभव हो।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 3 & 6 \\ -5 & 4 \\end{bmatrix}$ and $B = \\begin{bmatrix} 7 & 8 \\ 5 & 6 \\end{bmatrix}$ then $6A-5B = $",
+      "prashna": "यदि $A = \\begin{bmatrix} 3 & 6 \\ -5 & 4 \\end{bmatrix}$ और $B = \\begin{bmatrix} 7 & 8 \\ 5 & 6 \\end{bmatrix}$ तो $6A-5B = $",
+      "options": {
+        "A": "$\\begin{bmatrix} 17 & 4 \\ 5 & 54 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 17 & -4 \\ 5 & 54 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} -17 & -4 \\ -55 & -6 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 17 & -4 \\ -55 & -54 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 17 & 4 \\ 5 & 54 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 17 & -4 \\ 5 & 54 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} -17 & -4 \\ -55 & -6 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 17 & -4 \\ -55 & -54 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 2 & \\sqrt{2} & 0 \\ 3 & -2 & \\frac{2}{5} \\end{bmatrix}$ then $A' = $",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & \\sqrt{2} & 0 \\ 3 & -2 & \\frac{2}{5} \\end{bmatrix}$ तो $A' = $",
+      "options": {
+        "A": "$\\begin{bmatrix} 2 & -3 \\ \\sqrt{2} & 2 \\ 0 & 2/5 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 3 \\ \\sqrt{2} & -2 \\ 0 & 2/5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 3 & 2 \\ -2 & \\sqrt{2} \\ -2/5 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 3 & -2 & 2/5 \\ 2 & \\sqrt{2} & 0 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 2 & -3 \\ \\sqrt{2} & 2 \\ 0 & 2/5 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 3 \\ \\sqrt{2} & -2 \\ 0 & 2/5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 3 & 2 \\ -2 & \\sqrt{2} \\ -2/5 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 3 & -2 & 2/5 \\ 2 & \\sqrt{2} & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $2A+B+X=0$, where $A=\\begin{bmatrix} -1 & 2 \\ 3 & 4 \\end{bmatrix}$ and $B=\\begin{bmatrix} 3 & -2 \\ 1 & 5 \\end{bmatrix}$ then $X = $",
+      "prashna": "यदि $2A+B+X=0$, जहाँ $A=\\begin{bmatrix} -1 & 2 \\ 3 & 4 \\end{bmatrix}$ और $B=\\begin{bmatrix} 3 & -2 \\ 1 & 5 \\end{bmatrix}$ तो $X = $",
+      "options": {
+        "A": "$\\begin{bmatrix} 1 & 2 \\ -7 & -13 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 2 \\ 7 & 13 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} -1 & -2 \\ -7 & -13 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} -1 & -2 \\ 7 & 13 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 1 & 2 \\ -7 & -13 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 2 \\ 7 & 13 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} -1 & -2 \\ -7 & -13 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} -1 & -2 \\ 7 & 13 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} x & y \\end{bmatrix} = \\begin{bmatrix} 2x-1 & 9 \\end{bmatrix} \\Rightarrow$",
+      "prashna": "$\\begin{bmatrix} x & y \\end{bmatrix} = \\begin{bmatrix} 2x-1 & 9 \\end{bmatrix} \\Rightarrow$",
+      "options": {
+        "A": "$x=3, y=9$",
+        "B": "$x=1, y=9$",
+        "C": "$x=0, y=9$",
+        "D": "$x=3, y=4$"
+      },
+      "vikalpa": {
+        "A": "$x=3, y=9$",
+        "B": "$x=1, y=9$",
+        "C": "$x=0, y=9$",
+        "D": "$x=3, y=4$"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$5 \\begin{bmatrix} 5 & 6 \\ 7 & 8 \\end{bmatrix} = $",
+      "prashna": "$5 \\begin{bmatrix} 5 & 6 \\ 7 & 8 \\end{bmatrix} = $",
+      "options": {
+        "A": "$\\begin{bmatrix} 25 & 30 \\ 35 & 8 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 25 & 30 \\ 35 & 40 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 5 & 6 \\ 35 & 40 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 25 & 30 \\ 25 & 40 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 25 & 30 \\ 35 & 8 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 25 & 30 \\ 35 & 40 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 5 & 6 \\ 35 & 40 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 25 & 30 \\ 25 & 40 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$A = [a_{ij}]_{m \\times n}$ is a square matrix if",
+      "prashna": "$A = [a_{ij}]_{m \\times n}$ एक वर्ग आव्यूह है यदि",
+      "options": {
+        "A": "$m=n$",
+        "B": "$m<n$",
+        "C": "$m>n$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$m=n$",
+        "B": "$m<n$",
+        "C": "$m>n$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} -3 \\ 5 \\ 2 \\end{bmatrix} \\begin{bmatrix} 1 & 6 & -4 \\end{bmatrix} = $",
+      "prashna": "$\\begin{bmatrix} -3 \\ 5 \\ 2 \\end{bmatrix} \\begin{bmatrix} 1 & 6 & -4 \\end{bmatrix} = $",
+      "options": {
+        "A": "$\\begin{bmatrix} -3 & -18 & 12 \\ 5 & 30 & -20 \\ 2 & 12 & -8 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -3 & -18 & 12 \\ 2 & 12 & -8 \\ 5 & 30 & -20 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 5 & 30 & -20 \\ -3 & -18 & 12 \\ 2 & 12 & -8 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 3 & 18 & 12 \\ 5 & 30 & 20 \\ 2 & 12 & 8 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} -3 & -18 & 12 \\ 5 & 30 & -20 \\ 2 & 12 & -8 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -3 & -18 & 12 \\ 2 & 12 & -8 \\ 5 & 30 & -20 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 5 & 30 & -20 \\ -3 & -18 & 12 \\ 2 & 12 & -8 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 3 & 18 & 12 \\ 5 & 30 & 20 \\ 2 & 12 & 8 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} \\Rightarrow A^5 = $",
+      "prashna": "$A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} \\Rightarrow A^5 = $",
+      "options": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 1 \\ 0 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 5 \\ 5 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 1 & 0 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 1 \\ 0 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 5 \\ 5 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\ 1 & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 2 & -2 & -4 \\ -1 & 3 & 4 \\ 1 & -2 & -3 \\end{bmatrix}$, show that $A^2=A$.",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & -2 & -4 \\ -1 & 3 & 4 \\ 1 & -2 & -3 \\end{bmatrix}$, तो सिद्ध करें कि $A^2=A$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "The number of all possible matrices of order $2 \\times 2$ with each entry 3 or 7 is",
+      "prashna": "$2 \\times 2$ कोटि के ऐसे आव्यूहो की कुल कितनी संख्या होगी जिनकी प्रत्येक प्रविष्टि 3 या 7 है",
+      "options": {
+        "A": "42",
+        "B": "32",
+        "C": "64",
+        "D": "16"
+      },
+      "vikalpa": {
+        "A": "42",
+        "B": "32",
+        "C": "64",
+        "D": "16"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$6 \\begin{bmatrix} -2 & 1 \\\\ 3 & 5 \\end{bmatrix} =$",
+      "prashna": "$6 \\begin{bmatrix} -2 & 1 \\\\ 3 & 5 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 12 & 6 \\\\ -18 & 30 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -12 & 6 \\\\ 18 & 30 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 12 & 6 \\\\ 18 & 30 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 6 & -12 \\\\ 18 & 30 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 12 & 6 \\\\ -18 & 30 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -12 & 6 \\\\ 18 & 30 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 12 & 6 \\\\ 18 & 30 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 6 & -12 \\\\ 18 & 30 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$A = \\begin{bmatrix} 1 & 0 \\\\ 1 & 1 \\end{bmatrix} \\Rightarrow A^4 =$",
+      "prashna": "$A = \\begin{bmatrix} 1 & 0 \\\\ 1 & 1 \\end{bmatrix} \\Rightarrow A^4 =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\\\ 4 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 0 \\\\ 1 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 1 \\\\ 1 & 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 1 \\\\ 0 & 1 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\\\ 4 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 1 & 0 \\\\ 1 & 1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 1 \\\\ 1 & 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 1 \\\\ 0 & 1 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$\\begin{bmatrix} 1 & -2 & 0 \\end{bmatrix} \\begin{bmatrix} 3 \\\\ -2 \\\\ 11 \\end{bmatrix} =$",
+      "prashna": "$\\begin{bmatrix} 1 & -2 & 0 \\end{bmatrix} \\begin{bmatrix} 3 \\\\ -2 \\\\ 11 \\end{bmatrix} =$",
+      "options": {
+        "A": "[7]",
+        "B": "$\\begin{bmatrix} 3 & -6 & 0 \\\\ -2 & 4 & 0 \\\\ 11 & -22 & 0 \\end{bmatrix}$",
+        "C": "[18]",
+        "D": "$\\begin{bmatrix} 3 & 6 & 0 \\\\ 2 & -4 & 0 \\\\ 11 & -22 & 0 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "[7]",
+        "B": "$\\begin{bmatrix} 3 & -6 & 0 \\\\ -2 & 4 & 0 \\\\ 11 & -22 & 0 \\end{bmatrix}$",
+        "C": "[18]",
+        "D": "$\\begin{bmatrix} 3 & 6 & 0 \\\\ 2 & -4 & 0 \\\\ 11 & -22 & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If A and B are invertible matrices of same order then $(AB)^{-1} =$",
+      "prashna": "यदि A तथा B समान कोटि के व्युत्क्रमणीय आव्यूह हों तो $(AB)^{-1} =$",
+      "options": {
+        "A": "$A - B$",
+        "B": "$A^{-1}B^{-1}$",
+        "C": "$B - A$",
+        "D": "$B^{-1}A^{-1}$"
+      },
+      "vikalpa": {
+        "A": "$A - B$",
+        "B": "$A^{-1}B^{-1}$",
+        "C": "$B - A$",
+        "D": "$B^{-1}A^{-1}$"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "$2 \\begin{bmatrix} 3 & 7 \\\\ 1 & -2 \\end{bmatrix} + 5 \\begin{bmatrix} 1 & 3 \\\\ 0 & 4 \\end{bmatrix} =$",
+      "prashna": "$2 \\begin{bmatrix} 3 & 7 \\\\ 1 & -2 \\end{bmatrix} + 5 \\begin{bmatrix} 1 & 3 \\\\ 0 & 4 \\end{bmatrix} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 11 & 29 \\\\ 2 & 16 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 29 & 11 \\\\ 2 & 16 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 11 & 29 \\\\ -2 & -16 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 29 & 11 \\\\ -2 & -16 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 11 & 29 \\\\ 2 & 16 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 29 & 11 \\\\ 2 & 16 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 11 & 29 \\\\ -2 & -16 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 29 & 11 \\\\ -2 & -16 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 2 & -1 & 0 \\\\ 7 & 3 & 5 \\end{bmatrix}$ then $A' =$",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & -1 & 0 \\\\ 7 & 3 & 5 \\end{bmatrix}$ तो $A' =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 2 & 3 \\\\ -1 & 7 \\\\ 0 & 5 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 0 \\\\ -1 & 7 \\\\ 3 & 5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 7 \\\\ -1 & 3 \\\\ 0 & 5 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & 7 \\\\ -1 & 3 \\\\ 0 & 4 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 2 & 3 \\\\ -1 & 7 \\\\ 0 & 5 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 2 & 0 \\\\ -1 & 7 \\\\ 3 & 5 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 2 & 7 \\\\ -1 & 3 \\\\ 0 & 5 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 2 & 7 \\\\ -1 & 3 \\\\ 0 & 4 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$ then $A^{-1} =$",
+      "prashna": "यदि $A = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$ तो $A^{-1} =$",
+      "options": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 1 \\\\ 0 & 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\\\ 1 & 0 \\end{bmatrix}$"
+      },
+      "vikalpa": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 1 \\\\ 0 & 1 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 1 & 0 \\\\ 1 & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "If $A = \\begin{bmatrix} 2 & -1 & 0 \\\\ 3 & 4 & 5 \\end{bmatrix}$ and $B = \\begin{bmatrix} 7 & -1 \\\\ 2 & 3 \\\\ 5 & 0 \\end{bmatrix}$, then find $(AB)'$.",
+      "prashna": "यदि $A = \\begin{bmatrix} 2 & -1 & 0 \\\\ 3 & 4 & 5 \\end{bmatrix}$ तथा $B = \\begin{bmatrix} 7 & -1 \\\\ 2 & 3 \\\\ 5 & 0 \\end{bmatrix}$ तो $(AB)'$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Matrices",
+      "question": "Find the inverse matrix of the matrix $A = \\begin{bmatrix} 3 & 2 \\\\ 5 & -1 \\end{bmatrix}$.",
+      "prashna": "आव्यूह $A = \\begin{bmatrix} 3 & 2 \\\\ 5 & -1 \\end{bmatrix}$ का व्युत्क्रम आव्यूह ज्ञात करें।"
+    }
+  ]
+}

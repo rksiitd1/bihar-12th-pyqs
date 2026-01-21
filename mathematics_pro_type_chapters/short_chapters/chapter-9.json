@@ -1,0 +1,116 @@
+{
+  "2021": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $xdy + ydx = xy \\, dy$.",
+      "prashna": "हल करें: $xdy + ydx = xy \\, dy$."
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\tan y dx + \\tan x dy = 0$.",
+      "prashna": "हल करें: $\\tan y dx + \\tan x dy = 0$."
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $y(1+xy)dx - xdy = 0$.",
+      "prashna": "हल करें: $y(1+xy)dx - xdy = 0$."
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + 1 = e^{x+y}$.",
+      "prashna": "हल करें: $\\frac{dy}{dx} + 1 = e^{x+y}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve.",
+      "prashna": "हल करे।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $y - x\\frac{dy}{dx} = 2(y^2 + \\frac{dy}{dx})$",
+      "prashna": "हल करे : $y - x\\frac{dy}{dx} = 2(y^2 + \\frac{dy}{dx})$"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + 2y\\tan x = \\sin x$",
+      "prashna": "हल करे : $\\frac{dy}{dx} + 2y\\tan x = \\sin x$"
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x\\frac{dy}{dx} - y = 2x^2y$.",
+      "prashna": "हल करें: $x\\frac{dy}{dx} - y = 2x^2y$।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + \\frac{2y}{x} = \\frac{1}{x^2}$.",
+      "prashna": "हल करें: $\\frac{dy}{dx} + \\frac{2y}{x} = \\frac{1}{x^2}$।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $x^2 \\frac{dy}{dx} = 2xy$.",
+      "prashna": "हल करें : $x^2 \\frac{dy}{dx} = 2xy$."
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} = e^{x+y}$.",
+      "prashna": "हल करें : $\\frac{dy}{dx} = e^{x+y}$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Find the integrating factor of the differential equation $(1 - x^2)\\frac{dy}{dx} - xy = 1$.",
+      "prashna": "अवकल समीकरण $(1 - x^2)\\frac{dy}{dx} - xy = 1$ का समाकलन गुणक ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Differential Equations",
+      "question": "Solve: $\\frac{dy}{dx} + y = e^{-x}$",
+      "prashna": "हल करें: $\\frac{dy}{dx} + y = e^{-x}$"
+    }
+  ]
+}

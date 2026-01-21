@@ -1,0 +1,1632 @@
+{
+  "2021": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(e^{x^3}) = $",
+      "prashna": "$\\frac{d}{dx}(e^{x^3}) = $",
+      "options": {
+        "A": "$e^{x^3}$",
+        "B": "$3x^2 e^x$",
+        "C": "$3x^2 e^{x^3}$",
+        "D": "$3x^2 e^{x^3}$"
+      },
+      "vikalpa": {
+        "A": "$e^{x^3}$",
+        "B": "$3x^2 e^x$",
+        "C": "$3x^2 e^{x^3}$",
+        "D": "$3x^2 e^{x^3}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\log 3^x) = $",
+      "prashna": "$\\frac{d}{dx}(\\log 3^x) = $",
+      "options": {
+        "A": "$\\frac{1}{3^x}$",
+        "B": "$\\log 3$",
+        "C": "$x\\log 3$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{3^x}$",
+        "B": "$\\log 3$",
+        "C": "$x\\log 3$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\frac{1}{\\sin x} + e^x) = $",
+      "prashna": "$\\frac{d}{dx}(\\frac{1}{\\sin x} + e^x) = $",
+      "options": {
+        "A": "$-\\frac{1}{\\sin^2 x} + e^x$",
+        "B": "$\\cosec x + e^x$",
+        "C": "$-\\cosec x \\cot x + e^x$",
+        "D": "$\\cosec x \\cdot \\cot x + e^x$"
+      },
+      "vikalpa": {
+        "A": "$-\\frac{1}{\\sin^2 x} + e^x$",
+        "B": "$\\cosec x + e^x$",
+        "C": "$-\\cosec x \\cot x + e^x$",
+        "D": "$\\cosec x \\cdot \\cot x + e^x$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin 2x) = $",
+      "prashna": "$\\frac{d}{dx}(\\sin 2x) = $",
+      "options": {
+        "A": "$\\cos 2x$",
+        "B": "$\\frac{\\cos 2x}{2}$",
+        "C": "$2\\sin 2x$",
+        "D": "$2\\cos 2x$"
+      },
+      "vikalpa": {
+        "A": "$\\cos 2x$",
+        "B": "$\\frac{\\cos 2x}{2}$",
+        "C": "$2\\sin 2x$",
+        "D": "$2\\cos 2x$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\tan kx) = $",
+      "prashna": "$\\frac{d}{dx}(\\tan kx) = $",
+      "options": {
+        "A": "$\\sec^2 kx$",
+        "B": "$k\\sec^2 x$",
+        "C": "$\\frac{\\sec^2 kx}{k}$",
+        "D": "$k\\sec^2 kx$"
+      },
+      "vikalpa": {
+        "A": "$\\sec^2 kx$",
+        "B": "$k\\sec^2 x$",
+        "C": "$\\frac{\\sec^2 kx}{k}$",
+        "D": "$k\\sec^2 kx$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\log\\sqrt{x}) = $",
+      "prashna": "$\\frac{d}{dx}(\\log\\sqrt{x}) = $",
+      "options": {
+        "A": "$\\frac{1}{2\\sqrt{x}}$",
+        "B": "$\\frac{1}{\\sqrt{x}}$",
+        "C": "$\\frac{1}{2x}$",
+        "D": "$\\frac{\\sqrt{x}}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2\\sqrt{x}}$",
+        "B": "$\\frac{1}{\\sqrt{x}}$",
+        "C": "$\\frac{1}{2x}$",
+        "D": "$\\frac{\\sqrt{x}}{2}$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d^2}{dx^2}(\\sin 2x) = $",
+      "prashna": "$\\frac{d^2}{dx^2}(\\sin 2x) = $",
+      "options": {
+        "A": "$4\\sin 2x$",
+        "B": "$4\\cos^2 2x$",
+        "C": "$-4\\sin 2x$",
+        "D": "$2\\sin 4x$"
+      },
+      "vikalpa": {
+        "A": "$4\\sin 2x$",
+        "B": "$4\\cos^2 2x$",
+        "C": "$-4\\sin 2x$",
+        "D": "$2\\sin 4x$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(e^{x-a}) = $",
+      "prashna": "$\\frac{d}{dx}(e^{x-a}) = $",
+      "options": {
+        "A": "$e^{x-a}$",
+        "B": "$(x-a)e^{x-a}$",
+        "C": "$e^x$",
+        "D": "$-e^{x-a}$"
+      },
+      "vikalpa": {
+        "A": "$e^{x-a}$",
+        "B": "$(x-a)e^{x-a}$",
+        "C": "$e^x$",
+        "D": "$-e^{x-a}$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d^3}{dx^3}(x^4) = $",
+      "prashna": "$\\frac{d^3}{dx^3}(x^4) = $",
+      "options": {
+        "A": "$4x^3$",
+        "B": "$12x^2$",
+        "C": "$24x$",
+        "D": "24"
+      },
+      "vikalpa": {
+        "A": "$4x^3$",
+        "B": "$12x^2$",
+        "C": "$24x$",
+        "D": "24"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sqrt{x^2+ax+1}) = $",
+      "prashna": "$\\frac{d}{dx}(\\sqrt{x^2+ax+1}) = $",
+      "options": {
+        "A": "$\\frac{x+a}{2\\sqrt{x^2+ax+1}}$",
+        "B": "$\\frac{2x+a}{2\\sqrt{x^2+ax+1}}$",
+        "C": "$\\frac{2x+a}{\\sqrt{x^2+ax+1}}$",
+        "D": "$\\frac{1}{2\\sqrt{x^2+ax+1}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{x+a}{2\\sqrt{x^2+ax+1}}$",
+        "B": "$\\frac{2x+a}{2\\sqrt{x^2+ax+1}}$",
+        "C": "$\\frac{2x+a}{\\sqrt{x^2+ax+1}}$",
+        "D": "$\\frac{1}{2\\sqrt{x^2+ax+1}}$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(2e^{2x}) = $",
+      "prashna": "$\\frac{d}{dx}(2e^{2x}) = $",
+      "options": {
+        "A": "$2e^{2x}$",
+        "B": "$e^{2x}$",
+        "C": "$4e^{2x}$",
+        "D": "$2e^x$"
+      },
+      "vikalpa": {
+        "A": "$2e^{2x}$",
+        "B": "$e^{2x}$",
+        "C": "$4e^{2x}$",
+        "D": "$2e^x$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\log x^n) = $",
+      "prashna": "$\\frac{d}{dx}(\\log x^n) = $",
+      "options": {
+        "A": "$\\frac{1}{x^n}$",
+        "B": "n",
+        "C": "$\\frac{1}{x}$",
+        "D": "$\\frac{n}{x}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{x^n}$",
+        "B": "n",
+        "C": "$\\frac{1}{x}$",
+        "D": "$\\frac{n}{x}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\tan x^2) = $",
+      "prashna": "$\\frac{d}{dx}(\\tan x^2) = $",
+      "options": {
+        "A": "$\\sec x^2$",
+        "B": "$2x\\sec^2 x^2$",
+        "C": "$2x^2\\sec^2 x^2$",
+        "D": "$\\frac{\\sec x^2}{2x}$"
+      },
+      "vikalpa": {
+        "A": "$\\sec x^2$",
+        "B": "$2x\\sec^2 x^2$",
+        "C": "$2x^2\\sec^2 x^2$",
+        "D": "$\\frac{\\sec x^2}{2x}$"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sqrt{\\cot x}) = $",
+      "prashna": "$\\frac{d}{dx}(\\sqrt{\\cot x}) = $",
+      "options": {
+        "A": "$\\frac{1}{2\\sqrt{\\cot x}}$",
+        "B": "$\\sqrt{\\cosec^2 x}$",
+        "C": "$-\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$",
+        "D": "$\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{2\\sqrt{\\cot x}}$",
+        "B": "$\\sqrt{\\cosec^2 x}$",
+        "C": "$-\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$",
+        "D": "$\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin^{-1}(3x-4x^3)); \\dots\\dots\\dots\\dots\\dots = -\\frac{1}{2} \\le x \\le \\frac{1}{2}$",
+      "prashna": "$\\frac{d}{dx}(\\sin^{-1}(3x-4x^3)); \\dots\\dots\\dots\\dots\\dots = -\\frac{1}{2} \\le x \\le \\frac{1}{2}$",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\frac{1}{\\sqrt{1-(3x-4x^3)^2}}$",
+        "C": "$\\frac{3}{\\sqrt{1-x^2}}$",
+        "D": "$\\frac{2}{\\sqrt{1-x^2}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\frac{1}{\\sqrt{1-(3x-4x^3)^2}}$",
+        "C": "$\\frac{3}{\\sqrt{1-x^2}}$",
+        "D": "$\\frac{2}{\\sqrt{1-x^2}}$"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin\\sqrt{x}) = $",
+      "prashna": "$\\frac{d}{dx}(\\sin\\sqrt{x}) = $",
+      "options": {
+        "A": "$\\cos\\sqrt{x}$",
+        "B": "$\\frac{\\cos\\sqrt{x}}{\\sqrt{x}}$",
+        "C": "$\\frac{1}{\\sqrt{x}} \\cos\\sqrt{x}$",
+        "D": "$\\frac{1}{2\\sqrt{x}} \\cos\\sqrt{x}$"
+      },
+      "vikalpa": {
+        "A": "$\\cos\\sqrt{x}$",
+        "B": "$\\frac{\\cos\\sqrt{x}}{\\sqrt{x}}$",
+        "C": "$\\frac{1}{\\sqrt{x}} \\cos\\sqrt{x}$",
+        "D": "$\\frac{1}{2\\sqrt{x}} \\cos\\sqrt{x}$"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(2\\tan^{-1}x) = $",
+      "prashna": "$\\frac{d}{dx}(2\\tan^{-1}x) = $",
+      "options": {
+        "A": "$\\frac{1}{1+x^2}$",
+        "B": "$\\frac{2}{1+x^2}$",
+        "C": "$\\frac{1}{2(1+x^2)}$",
+        "D": "$\\frac{1}{2(1-x^2)}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{1+x^2}$",
+        "B": "$\\frac{2}{1+x^2}$",
+        "C": "$\\frac{1}{2(1+x^2)}$",
+        "D": "$\\frac{1}{2(1-x^2)}$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\lim_{x \\to a} \\frac{x^n - a^n}{x-a}) = $",
+      "prashna": "$\\frac{d}{dx}(\\lim_{x \\to a} \\frac{x^n - a^n}{x-a}) = $",
+      "options": {
+        "A": "$na^{n-1}$",
+        "B": "1",
+        "C": "0",
+        "D": "n"
+      },
+      "vikalpa": {
+        "A": "$na^{n-1}$",
+        "B": "1",
+        "C": "0",
+        "D": "n"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin^{-1}\\sqrt{x} + \\cos^{-1}\\sqrt{x}) = $",
+      "prashna": "$\\frac{d}{dx}(\\sin^{-1}\\sqrt{x} + \\cos^{-1}\\sqrt{x}) = $",
+      "options": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "1",
+        "D": "$\\sqrt{x}\\cdot\\frac{\\pi}{2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "0",
+        "C": "1",
+        "D": "$\\sqrt{x}\\cdot\\frac{\\pi}{2}$"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\lim_{x \\to 0} \\cos 3x) = $",
+      "prashna": "$\\frac{d}{dx}(\\lim_{x \\to 0} \\cos 3x) = $",
+      "options": {
+        "A": "$-\\sin 3x$",
+        "B": "1",
+        "C": "$-3\\sin 3x$",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "$-\\sin 3x$",
+        "B": "1",
+        "C": "$-3\\sin 3x$",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\frac{1}{\\sqrt{x}}) = $",
+      "prashna": "$\\frac{d}{dx}(\\frac{1}{\\sqrt{x}}) = $",
+      "options": {
+        "A": "$\\frac{1}{x}$",
+        "B": "$\\frac{1}{2\\sqrt{x}}$",
+        "C": "$-\\frac{1}{2\\sqrt{x}}$",
+        "D": "$\\frac{2}{3}x^{3/2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{x}$",
+        "B": "$\\frac{1}{2\\sqrt{x}}$",
+        "C": "$-\\frac{1}{2\\sqrt{x}}$",
+        "D": "$\\frac{2}{3}x^{3/2}$"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(5^x) = $",
+      "prashna": "$\\frac{d}{dx}(5^x) = $",
+      "options": {
+        "A": "$5^x$",
+        "B": "$x5^{x-1}$",
+        "C": "$\\frac{5^x}{\\log 5}$",
+        "D": "$5^x\\cdot\\log_e 5$"
+      },
+      "vikalpa": {
+        "A": "$5^x$",
+        "B": "$x5^{x-1}$",
+        "C": "$\\frac{5^x}{\\log 5}$",
+        "D": "$5^x\\cdot\\log_e 5$"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\sin(\\log x)$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $y = \\sin(\\log x)$."
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\sqrt{\\sin\\sqrt{x}}$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\sqrt{\\sin\\sqrt{x}}$."
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$."
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$ when $x^y + y^x = 1$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $x^y + y^x = 1$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(a^x) =$",
+      "prashna": "$\\frac{d}{dx}(a^x) =$",
+      "options": {
+        "A": "$a^x$",
+        "B": "$\\frac{a^x}{\\log a}$",
+        "C": "$a^x \\log a$",
+        "D": "$x \\log a$"
+      },
+      "vikalpa": {
+        "A": "$a^x$",
+        "B": "$\\frac{a^x}{\\log a}$",
+        "C": "$a^x \\log a$",
+        "D": "$x \\log a$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(e^{13x}) =$",
+      "prashna": "$\\frac{d}{dx}(e^{13x}) =$",
+      "options": {
+        "A": "$e^{13x}$",
+        "B": "$\\frac{1}{13}e^{13x}$",
+        "C": "$13e^{13x}$",
+        "D": "$-13e^{13x}$"
+      },
+      "vikalpa": {
+        "A": "$e^{13x}$",
+        "B": "$\\frac{1}{13}e^{13x}$",
+        "C": "$13e^{13x}$",
+        "D": "$-13e^{13x}$"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin \\frac{x}{5}) =$",
+      "prashna": "$\\frac{d}{dx}(\\sin \\frac{x}{5}) =$",
+      "options": {
+        "A": "$\\cos \\frac{x}{5}$",
+        "B": "$-\\frac{1}{5}\\cos \\frac{x}{5}$",
+        "C": "$\\frac{1}{5}\\cos \\frac{x}{5}$",
+        "D": "$-\\frac{1}{5}\\sin \\frac{x}{5}$"
+      },
+      "vikalpa": {
+        "A": "$\\cos \\frac{x}{5}$",
+        "B": "$-\\frac{1}{5}\\cos \\frac{x}{5}$",
+        "C": "$\\frac{1}{5}\\cos \\frac{x}{5}$",
+        "D": "$-\\frac{1}{5}\\sin \\frac{x}{5}$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\cos 2x) =$",
+      "prashna": "$\\frac{d}{dx}(\\cos 2x) =$",
+      "options": {
+        "A": "$-\\sin 2x$",
+        "B": "$2\\sin 2x$",
+        "C": "$-2\\sin 2x$",
+        "D": "$-\\frac{1}{2}\\sin 2x$"
+      },
+      "vikalpa": {
+        "A": "$-\\sin 2x$",
+        "B": "$2\\sin 2x$",
+        "C": "$-2\\sin 2x$",
+        "D": "$-\\frac{1}{2}\\sin 2x$"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\tan \\frac{x}{3}) =$",
+      "prashna": "$\\frac{d}{dx}(\\tan \\frac{x}{3}) =$",
+      "options": {
+        "A": "$\\sec^2 \\frac{x}{3}$",
+        "B": "$\\frac{1}{3}\\sec^2 \\frac{x}{3}$",
+        "C": "$3\\sec^2 \\frac{x}{3}$",
+        "D": "$3\\cot \\frac{x}{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\sec^2 \\frac{x}{3}$",
+        "B": "$\\frac{1}{3}\\sec^2 \\frac{x}{3}$",
+        "C": "$3\\sec^2 \\frac{x}{3}$",
+        "D": "$3\\cot \\frac{x}{3}$"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\frac{x^4}{4}) =$",
+      "prashna": "$\\frac{d}{dx}(\\frac{x^4}{4}) =$",
+      "options": {
+        "A": "$4x^3$",
+        "B": "$x^3 / 4$",
+        "C": "$x^3$",
+        "D": "$16x^3$"
+      },
+      "vikalpa": {
+        "A": "$4x^3$",
+        "B": "$x^3 / 4$",
+        "C": "$x^3$",
+        "D": "$16x^3$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\log x^4) =$",
+      "prashna": "$\\frac{d}{dx}(\\log x^4) =$",
+      "options": {
+        "A": "$\\frac{4}{x}$",
+        "B": "$\\frac{1}{x^4}$",
+        "C": "$\\frac{1}{4x}$",
+        "D": "$\\frac{3}{4x}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{4}{x}$",
+        "B": "$\\frac{1}{x^4}$",
+        "C": "$\\frac{1}{4x}$",
+        "D": "$\\frac{3}{4x}$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{d\\theta}(\\sin^2 \\theta) =$",
+      "prashna": "$\\frac{d}{d\\theta}(\\sin^2 \\theta) =$",
+      "options": {
+        "A": "$\\sin^2 \\theta$",
+        "B": "$\\cos^2 \\theta$",
+        "C": "$\\sin 2\\theta$",
+        "D": "$-\\sin 2\\theta$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^2 \\theta$",
+        "B": "$\\cos^2 \\theta$",
+        "C": "$\\sin 2\\theta$",
+        "D": "$-\\sin 2\\theta$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{d\\theta}(\\cos^3 \\theta) =$",
+      "prashna": "$\\frac{d}{d\\theta}(\\cos^3 \\theta) =$",
+      "options": {
+        "A": "$-3\\sin^3 \\theta$",
+        "B": "$3\\sin^3 \\theta \\cos \\theta$",
+        "C": "$-3\\cos^2 \\theta \\sin \\theta$",
+        "D": "$3\\cos^2 \\theta \\sin \\theta$"
+      },
+      "vikalpa": {
+        "A": "$-3\\sin^3 \\theta$",
+        "B": "$3\\sin^3 \\theta \\cos \\theta$",
+        "C": "$-3\\cos^2 \\theta \\sin \\theta$",
+        "D": "$3\\cos^2 \\theta \\sin \\theta$"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\tan^2 x) =$",
+      "prashna": "$\\frac{d}{dx}(\\tan^2 x) =$",
+      "options": {
+        "A": "$\\sec^2 x$",
+        "B": "$2\\tan x$",
+        "C": "$-2\\tan x \\sec^2 x$",
+        "D": "$2\\tan x \\sec^2 x$"
+      },
+      "vikalpa": {
+        "A": "$\\sec^2 x$",
+        "B": "$2\\tan x$",
+        "C": "$-2\\tan x \\sec^2 x$",
+        "D": "$2\\tan x \\sec^2 x$"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a \\cos\\theta$, $y = a \\sin\\theta$ then $\\frac{dy}{dx}$ is equal to",
+      "prashna": "यदि $x = a \\cos\\theta$, $y = a \\sin\\theta$ तो $\\frac{dy}{dx}$ बराबर है",
+      "options": {
+        "A": "$\\tan\\theta$",
+        "B": "$-\\cot\\theta$",
+        "C": "$-\\tan\\theta$",
+        "D": "$\\sec^2\\theta$"
+      },
+      "vikalpa": {
+        "A": "$\\tan\\theta$",
+        "B": "$-\\cot\\theta$",
+        "C": "$-\\tan\\theta$",
+        "D": "$\\sec^2\\theta$"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = at^2$, $y = 2at$ then $\\frac{dy}{dx}$ is equal to",
+      "prashna": "यदि $x = at^2$, $y = 2at$ तो $\\frac{dy}{dx}$ बराबर है",
+      "options": {
+        "A": "t",
+        "B": "1/t",
+        "C": "$t^2$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "t",
+        "B": "1/t",
+        "C": "$t^2$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d^2}{dx^2}(x^2 + 3x + 2) =$",
+      "prashna": "$\\frac{d^2}{dx^2}(x^2 + 3x + 2) =$",
+      "options": {
+        "A": "4",
+        "B": "4x",
+        "C": "2x + 3",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "4x",
+        "C": "2x + 3",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}[\\cos^{-1}(\\sin x)] =$",
+      "prashna": "$\\frac{d}{dx}[\\cos^{-1}(\\sin x)] =$",
+      "options": {
+        "A": "-1",
+        "B": "$\\frac{x}{\\sqrt{1-x^2}}$",
+        "C": "$\\frac{\\sin x}{\\sqrt{1-x^2}}$",
+        "D": "$\\frac{\\pi}{2} - x$"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "$\\frac{x}{\\sqrt{1-x^2}}$",
+        "C": "$\\frac{\\sin x}{\\sqrt{1-x^2}}$",
+        "D": "$\\frac{\\pi}{2} - x$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\sin^{-1}(\\frac{2x}{1+x^2})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\sin^{-1}(\\frac{2x}{1+x^2})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\log(x+\\sqrt{x^2+1})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\log(x+\\sqrt{x^2+1})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a \\cos t + b \\sin t$, $y = a \\sin t - b \\cos t$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = a \\cos t + b \\sin t$, $y = a \\sin t - b \\cos t$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\log x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\log x}$ तो $\\frac{dy}{dx}$ ज्ञात करे।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $(x + y) = \\sec^{-1}(x - y)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $(x + y) = \\sec^{-1}(x - y)$ तो $\\frac{dy}{dx}$ ज्ञात करे।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(2\\cos\\frac{3x}{4})$ =",
+      "prashna": "$\\frac{d}{dx}(2\\cos\\frac{3x}{4})$ =",
+      "options": {
+        "A": "$-2\\sin\\frac{3x}{4}$",
+        "B": "$-\\frac{3}{8}\\sin\\frac{3x}{4}$",
+        "C": "$-\\frac{3}{4}\\sin\\frac{3x}{4}$",
+        "D": "$-\\frac{3}{2}\\sin\\frac{3x}{4}$"
+      },
+      "vikalpa": {
+        "A": "$-2\\sin\\frac{3x}{4}$",
+        "B": "$-\\frac{3}{8}\\sin\\frac{3x}{4}$",
+        "C": "$-\\frac{3}{4}\\sin\\frac{3x}{4}$",
+        "D": "$-\\frac{3}{2}\\sin\\frac{3x}{4}$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(e^{-3x})$ =",
+      "prashna": "$\\frac{d}{dx}(e^{-3x})$ =",
+      "options": {
+        "A": "$\\frac{e^{-3x}}{3}$",
+        "B": "$\\frac{e^{-3x}}{-3}$",
+        "C": "$3e^{-3x}$",
+        "D": "$-3e^{-3x}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{e^{-3x}}{3}$",
+        "B": "$\\frac{e^{-3x}}{-3}$",
+        "C": "$3e^{-3x}$",
+        "D": "$-3e^{-3x}$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(11^x)$ =",
+      "prashna": "$\\frac{d}{dx}(11^x)$ =",
+      "options": {
+        "A": "$x11^{x-1}$",
+        "B": "$11^x \\log x$",
+        "C": "$11^x \\log 11$",
+        "D": "$\\frac{11^x}{\\log 11}$"
+      },
+      "vikalpa": {
+        "A": "$x11^{x-1}$",
+        "B": "$11^x \\log x$",
+        "C": "$11^x \\log 11$",
+        "D": "$\\frac{11^x}{\\log 11}$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\frac{1}{3x-2})$ =",
+      "prashna": "$\\frac{d}{dx}(\\frac{1}{3x-2})$ =",
+      "options": {
+        "A": "$\\frac{-1}{(3x-2)^2}$",
+        "B": "$\\frac{-3}{(3x-2)^2}$",
+        "C": "$\\frac{3}{(3x-2)^2}$",
+        "D": "$\\frac{3}{3x-2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{-1}{(3x-2)^2}$",
+        "B": "$\\frac{-3}{(3x-2)^2}$",
+        "C": "$\\frac{3}{(3x-2)^2}$",
+        "D": "$\\frac{3}{3x-2}$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a \\cos^2 \\theta$, $y = b \\sin^2 \\theta$ then the value of $\\frac{dy}{dx}$ is",
+      "prashna": "यदि $x = a \\cos^2 \\theta$, $y = b \\sin^2 \\theta$, तो $\\frac{dy}{dx}$ का मान है",
+      "options": {
+        "A": "$\\frac{b}{a}$",
+        "B": "$-\\frac{b}{a}$",
+        "C": "$\\frac{b}{a} \\sin 2\\theta$",
+        "D": "$-\\frac{b}{a} \\tan^2 \\theta$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{b}{a}$",
+        "B": "$-\\frac{b}{a}$",
+        "C": "$\\frac{b}{a} \\sin 2\\theta$",
+        "D": "$-\\frac{b}{a} \\tan^2 \\theta$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(e^x + \\cos 5x) =$",
+      "prashna": "$\\frac{d}{dx}(e^x + \\cos 5x) =$",
+      "options": {
+        "A": "$e^x + \\cos 5x$",
+        "B": "$e^x + 5\\sin 5x$",
+        "C": "$e^x - 5\\sin 5x$",
+        "D": "$e^x - 5\\cos 5x$"
+      },
+      "vikalpa": {
+        "A": "$e^x + \\cos 5x$",
+        "B": "$e^x + 5\\sin 5x$",
+        "C": "$e^x - 5\\sin 5x$",
+        "D": "$e^x - 5\\cos 5x$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin 2x + e^x - \\cos x) = $",
+      "prashna": "$\\frac{d}{dx}(\\sin 2x + e^x - \\cos x) = $",
+      "options": {
+        "A": "$\\cos 2x + e^x - \\sin x$",
+        "B": "$2\\cos 2x + e^x + \\sin x$",
+        "C": "$2\\cos 2x + e^x - \\sin x$",
+        "D": "$-2\\cos 2x + e^x + \\sin x$"
+      },
+      "vikalpa": {
+        "A": "$\\cos 2x + e^x - \\sin x$",
+        "B": "$2\\cos 2x + e^x + \\sin x$",
+        "C": "$2\\cos 2x + e^x - \\sin x$",
+        "D": "$-2\\cos 2x + e^x + \\sin x$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\frac{1}{4}\\sec 4x) =$",
+      "prashna": "$\\frac{d}{dx}(\\frac{1}{4}\\sec 4x) =$",
+      "options": {
+        "A": "$\\sec 4x \\tan 4x$",
+        "B": "$\\sec^2 4x$",
+        "C": "$\\tan^2 4x$",
+        "D": "$\\frac{1}{16}\\sec 4x \\tan 4x$"
+      },
+      "vikalpa": {
+        "A": "$\\sec 4x \\tan 4x$",
+        "B": "$\\sec^2 4x$",
+        "C": "$\\tan^2 4x$",
+        "D": "$\\frac{1}{16}\\sec 4x \\tan 4x$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\log_e 10x) =$",
+      "prashna": "$\\frac{d}{dx}(\\log_e 10x) =$",
+      "options": {
+        "A": "$\\frac{1}{10x}$",
+        "B": "$\\frac{10}{x}$",
+        "C": "$10x$",
+        "D": "$\\frac{1}{x}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{10x}$",
+        "B": "$\\frac{10}{x}$",
+        "C": "$10x$",
+        "D": "$\\frac{1}{x}$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin\\frac{4x}{5}) =$",
+      "prashna": "$\\frac{d}{dx}(\\sin\\frac{4x}{5}) =$",
+      "options": {
+        "A": "$\\frac{4}{5}\\cos\\frac{4x}{5}$",
+        "B": "$-\\frac{4}{5}\\cos\\frac{4x}{5}$",
+        "C": "$\\frac{5}{4}\\cos\\frac{4x}{5}$",
+        "D": "$-\\frac{5}{4}\\cos\\frac{4x}{5}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{4}{5}\\cos\\frac{4x}{5}$",
+        "B": "$-\\frac{4}{5}\\cos\\frac{4x}{5}$",
+        "C": "$\\frac{5}{4}\\cos\\frac{4x}{5}$",
+        "D": "$-\\frac{5}{4}\\cos\\frac{4x}{5}$"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(x^3 + e^x) =$",
+      "prashna": "$\\frac{d}{dx}(x^3 + e^x) =$",
+      "options": {
+        "A": "$3x^2$",
+        "B": "$3x^2 + 3e^x$",
+        "C": "$3x^2 + e^x$",
+        "D": "$3x^2e^x$"
+      },
+      "vikalpa": {
+        "A": "$3x^2$",
+        "B": "$3x^2 + 3e^x$",
+        "C": "$3x^2 + e^x$",
+        "D": "$3x^2e^x$"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\tan x + \\sin^2 x) =$",
+      "prashna": "$\\frac{d}{dx}(\\tan x + \\sin^2 x) =$",
+      "options": {
+        "A": "$\\sec x + 2\\sin x \\cos x$",
+        "B": "$\\sec^2 x + \\cos^2 x$",
+        "C": "$\\sec^2 x + 2\\sin x \\cos x$",
+        "D": "$\\sec^2 x - 2\\sin x \\cos x$"
+      },
+      "vikalpa": {
+        "A": "$\\sec x + 2\\sin x \\cos x$",
+        "B": "$\\sec^2 x + \\cos^2 x$",
+        "C": "$\\sec^2 x + 2\\sin x \\cos x$",
+        "D": "$\\sec^2 x - 2\\sin x \\cos x$"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d^2}{dx^2}(e^{5x}) =$",
+      "prashna": "$\\frac{d^2}{dx^2}(e^{5x}) =$",
+      "options": {
+        "A": "$e^{5x}$",
+        "B": "$10e^{5x}$",
+        "C": "$5e^{5x}$",
+        "D": "$25e^{5x}$"
+      },
+      "vikalpa": {
+        "A": "$e^{5x}$",
+        "B": "$10e^{5x}$",
+        "C": "$5e^{5x}$",
+        "D": "$25e^{5x}$"
+      }
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x + y = xy^3$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x + y = xy^3$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\cos(\\tan\\sqrt{x+1})$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\cos(\\tan\\sqrt{x+1})$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\cos x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\cos x}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a(1 - \\cos\\theta)$, $y = a(\\theta + \\sin\\theta)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = a(1 - \\cos\\theta)$, $y = a(\\theta + \\sin\\theta)$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\cos x} + (\\cos x)^{\\sin x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\cos x} + (\\cos x)^{\\sin x}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin^2 x) = $",
+      "prashna": "$\\frac{d}{dx}(\\sin^2 x) = $",
+      "options": {
+        "A": "$2 \\sin x$",
+        "B": "$\\sin 2x$",
+        "C": "$\\cos 2x$",
+        "D": "$2 \\cos x$"
+      },
+      "vikalpa": {
+        "A": "$2 \\sin x$",
+        "B": "$\\sin 2x$",
+        "C": "$\\cos 2x$",
+        "D": "$2 \\cos x$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(x^5 + \\cos 2x) = $",
+      "prashna": "$\\frac{d}{dx}(x^5 + \\cos 2x) = $",
+      "options": {
+        "A": "$5x^4 + \\sin 2x$",
+        "B": "$5x^4 + \\cos 2x$",
+        "C": "$5x^4 - 2 \\sin 2x$",
+        "D": "$x^5 + 2 \\sin 2x$"
+      },
+      "vikalpa": {
+        "A": "$5x^4 + \\sin 2x$",
+        "B": "$5x^4 + \\cos 2x$",
+        "C": "$5x^4 - 2 \\sin 2x$",
+        "D": "$x^5 + 2 \\sin 2x$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sec^{-1} x) = $",
+      "prashna": "$\\frac{d}{dx}(\\sec^{-1} x) = $",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\frac{1}{x\\sqrt{x^2-1}}$",
+        "C": "$\\frac{1}{1+x^2}$",
+        "D": "$-\\frac{1}{x\\sqrt{x^2-1}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\frac{1}{x\\sqrt{x^2-1}}$",
+        "C": "$\\frac{1}{1+x^2}$",
+        "D": "$-\\frac{1}{x\\sqrt{x^2-1}}$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(a^x) = $",
+      "prashna": "$\\frac{d}{dx}(a^x) = $",
+      "options": {
+        "A": "$a^x \\log a$",
+        "B": "$a^x \\log x$",
+        "C": "$a^x$",
+        "D": "$\\log a$"
+      },
+      "vikalpa": {
+        "A": "$a^x \\log a$",
+        "B": "$a^x \\log x$",
+        "C": "$a^x$",
+        "D": "$\\log a$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx} \\log(\\cos x) = $",
+      "prashna": "$\\frac{d}{dx} \\log(\\cos x) = $",
+      "options": {
+        "A": "$\\tan x$",
+        "B": "$-\\tan x$",
+        "C": "$\\cot x$",
+        "D": "$-\\cot x$"
+      },
+      "vikalpa": {
+        "A": "$\\tan x$",
+        "B": "$-\\tan x$",
+        "C": "$\\cot x$",
+        "D": "$-\\cot x$"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx} \\log(\\sec x + \\tan x) = $",
+      "prashna": "$\\frac{d}{dx} \\log(\\sec x + \\tan x) = $",
+      "options": {
+        "A": "$\\frac{1}{\\sec x + \\tan x}$",
+        "B": "$\\sec x$",
+        "C": "$\\tan x$",
+        "D": "$\\sec x + \\tan x$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sec x + \\tan x}$",
+        "B": "$\\sec x$",
+        "C": "$\\tan x$",
+        "D": "$\\sec x + \\tan x$"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sec^{-1} x + \\text{cosec}^{-1} x) = $",
+      "prashna": "$\\frac{d}{dx}(\\sec^{-1} x + \\text{cosec}^{-1} x) = $",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\tan^{-1} (\\frac{1-\\cos x}{\\sin x})$ then $\\frac{dy}{dx} = $",
+      "prashna": "यदि $y = \\tan^{-1} (\\frac{1-\\cos x}{\\sin x})$ तब $\\frac{dy}{dx} = $",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "$\\frac{1}{2}$",
+        "D": "$-\\frac{1}{2}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "$\\frac{1}{2}$",
+        "D": "$-\\frac{1}{2}$"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = a \\sec \\theta$, $y = b \\tan \\theta$ then $\\frac{dy}{dx} = $",
+      "prashna": "यदि $x = a \\sec \\theta$, $y = b \\tan \\theta$ तब $\\frac{dy}{dx} = $",
+      "options": {
+        "A": "$\\frac{b}{a} \\sec \\theta$",
+        "B": "$\\frac{b}{a} \\text{cosec} \\theta$",
+        "C": "$\\frac{b}{a} \\cot \\theta$",
+        "D": "$\\frac{b}{a}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{b}{a} \\sec \\theta$",
+        "B": "$\\frac{b}{a} \\text{cosec} \\theta$",
+        "C": "$\\frac{b}{a} \\cot \\theta$",
+        "D": "$\\frac{b}{a}$"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\sqrt{\\sin x + \\sqrt{\\sin x + \\sqrt{\\sin x + \\dots \\text{to } \\infty}}}$ then $\\frac{dy}{dx} = $",
+      "prashna": "यदि $y = \\sqrt{\\sin x + \\sqrt{\\sin x + \\sqrt{\\sin x + \\dots \\text{to } \\infty}}}$ तक तो $\\frac{dy}{dx} = $",
+      "options": {
+        "A": "$\\frac{\\sin x}{2y-1}$",
+        "B": "$\\frac{\\cos x}{y-1}$",
+        "C": "$\\frac{\\cos x}{2y-1}$",
+        "D": "$\\frac{1}{2y-1}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\sin x}{2y-1}$",
+        "B": "$\\frac{\\cos x}{y-1}$",
+        "C": "$\\frac{\\cos x}{2y-1}$",
+        "D": "$\\frac{1}{2y-1}$"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = x^{20}$ then $\\frac{d^2y}{dx^2} = $",
+      "prashna": "यदि $y = x^{20}$ तो $\\frac{d^2y}{dx^2} = $",
+      "options": {
+        "A": "$x^{18}$",
+        "B": "$20x^{19}$",
+        "C": "$380x^{18}$",
+        "D": "$x^{19}$"
+      },
+      "vikalpa": {
+        "A": "$x^{18}$",
+        "B": "$20x^{19}$",
+        "C": "$380x^{18}$",
+        "D": "$x^{19}$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y=\\sin(xy)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y=\\sin(xy)$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$ if $y=\\sqrt{\\sin x^2}$.",
+      "prashna": "यदि $y=\\sqrt{\\sin x^2}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x \\cos y = \\sin(x+y)$, find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x \\cos y = \\sin(x+y)$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Differentiate $\\tan^{-1} \\frac{2x}{1-x^2}$ with respect to $\\sin^{-1} \\frac{2x}{1+x^2}$.",
+      "prashna": "$\\tan^{-1} \\frac{2x}{1-x^2}$ का $\\sin^{-1} \\frac{2x}{1+x^2}$ के सापेक्ष अवकलन करें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x=\\sqrt{1+t^2}, y=\\sqrt{1-t^2}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x=\\sqrt{1+t^2}, y=\\sqrt{1-t^2}$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y=x^{\\sin x}$, find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y=x^{\\sin x}$ तो $\\frac{dy}{dx}$ निकालें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $(\\sin y)^x = (\\cos x)^y$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $(\\sin y)^x = (\\cos x)^y$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sin x) =$",
+      "prashna": "$\\frac{d}{dx}(\\sin x) =$",
+      "options": {
+        "A": "$-\\cos x$",
+        "B": "$\\frac{1}{\\sec x}$",
+        "C": "$(\\cos x)^{-1}$",
+        "D": "$\\sin(\\pi - x)$"
+      },
+      "vikalpa": {
+        "A": "$-\\cos x$",
+        "B": "$\\frac{1}{\\sec x}$",
+        "C": "$(\\cos x)^{-1}$",
+        "D": "$\\sin(\\pi - x)$"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx} \\log \\sin(\\sec^{-1} x + \\csc^{-1} x) =$",
+      "prashna": "$\\frac{d}{dx} \\log \\sin(\\sec^{-1} x + \\csc^{-1} x) =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\cos(\\sec^{-1} x + \\csc^{-1} x)$",
+        "D": "$\\cot(\\sec^{-1} x + \\csc^{-1} x)$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\cos(\\sec^{-1} x + \\csc^{-1} x)$",
+        "D": "$\\cot(\\sec^{-1} x + \\csc^{-1} x)$"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = t^{21}$ then $\\frac{d^2y}{dt^2} =$",
+      "prashna": "यदि $y = t^{21}$ तो $\\frac{d^2y}{dt^2} =$",
+      "options": {
+        "A": "$210 t^{19}$",
+        "B": "$420 t^{19}$",
+        "C": "$420 t^{20}$",
+        "D": "$210 t^{20}$"
+      },
+      "vikalpa": {
+        "A": "$210 t^{19}$",
+        "B": "$420 t^{19}$",
+        "C": "$420 t^{20}$",
+        "D": "$210 t^{20}$"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = 4t, y = \\frac{4}{t}$ then $\\frac{dy}{dx} =$",
+      "prashna": "यदि $x = 4t, y = \\frac{4}{t}$ तो $\\frac{dy}{dx} =$",
+      "options": {
+        "A": "$\\frac{1}{t^2}$",
+        "B": "$\\frac{4}{t^2}$",
+        "C": "$\\frac{t}{4}$",
+        "D": "$-\\frac{1}{t^2}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{t^2}$",
+        "B": "$\\frac{4}{t^2}$",
+        "C": "$\\frac{t}{4}$",
+        "D": "$-\\frac{1}{t^2}$"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx} \\cos^{-1}(\\sin x) =$",
+      "prashna": "$\\frac{d}{dx} \\cos^{-1}(\\sin x) =$",
+      "options": {
+        "A": "-1",
+        "B": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "C": "1",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "$\\frac{1}{\\sqrt{1-x^2}}$",
+        "C": "1",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx} \\sin(\\sqrt{x}) =$",
+      "prashna": "$\\frac{d}{dx} \\sin(\\sqrt{x}) =$",
+      "options": {
+        "A": "$\\frac{2 \\cos \\sqrt{x}}{\\sqrt{x}}$",
+        "B": "$\\frac{\\cos \\sqrt{x}}{\\sqrt{x}}$",
+        "C": "$\\frac{\\cos \\sqrt{x}}{2\\sqrt{x}}$",
+        "D": "$\\frac{\\cos \\sqrt{x}}{2x}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{2 \\cos \\sqrt{x}}{\\sqrt{x}}$",
+        "B": "$\\frac{\\cos \\sqrt{x}}{\\sqrt{x}}$",
+        "C": "$\\frac{\\cos \\sqrt{x}}{2\\sqrt{x}}$",
+        "D": "$\\frac{\\cos \\sqrt{x}}{2x}$"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(2 + \\cos 2x) =$",
+      "prashna": "$\\frac{d}{dx}(2 + \\cos 2x) =$",
+      "options": {
+        "A": "$1 - \\sin 2x$",
+        "B": "$2 \\sin 2x$",
+        "C": "$-2 \\sin 2x$",
+        "D": "$2 \\sin^2 x$"
+      },
+      "vikalpa": {
+        "A": "$1 - \\sin 2x$",
+        "B": "$2 \\sin 2x$",
+        "C": "$-2 \\sin 2x$",
+        "D": "$2 \\sin^2 x$"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\csc^{-1} x) =$",
+      "prashna": "$\\frac{d}{dx}(\\csc^{-1} x) =$",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{x^2-1}}$",
+        "B": "$\\frac{1}{x\\sqrt{x^2-1}}$",
+        "C": "$\\frac{-1}{x\\sqrt{x^2-1}}$",
+        "D": "$\\frac{-1}{x\\sqrt{1-x^2}}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\sqrt{x^2-1}}$",
+        "B": "$\\frac{1}{x\\sqrt{x^2-1}}$",
+        "C": "$\\frac{-1}{x\\sqrt{x^2-1}}$",
+        "D": "$\\frac{-1}{x\\sqrt{1-x^2}}$"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(\\sec x) =$",
+      "prashna": "$\\frac{d}{dx}(\\sec x) =$",
+      "options": {
+        "A": "$-\\tan x$",
+        "B": "$\\cot x$",
+        "C": "$-\\cot x$",
+        "D": "$\\tan x$"
+      },
+      "vikalpa": {
+        "A": "$-\\tan x$",
+        "B": "$\\cot x$",
+        "C": "$-\\cot x$",
+        "D": "$\\tan x$"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(3x^2 - \\cos x + 2) =$",
+      "prashna": "$\\frac{d}{dx}(3x^2 - \\cos x + 2) =$",
+      "options": {
+        "A": "$2x + \\sin x$",
+        "B": "$6x - \\sin x$",
+        "C": "$6x + \\sin x$",
+        "D": "$\\sin x - 6x$"
+      },
+      "vikalpa": {
+        "A": "$2x + \\sin x$",
+        "B": "$6x - \\sin x$",
+        "C": "$6x + \\sin x$",
+        "D": "$\\sin x - 6x$"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "$\\frac{d}{dx}(e^{\\log x^2}) =$",
+      "prashna": "$\\frac{d}{dx}(e^{\\log x^2}) =$",
+      "options": {
+        "A": "$\\frac{1}{\\log x^2}$",
+        "B": "$2x$",
+        "C": "$\\frac{2x}{\\log x^2}$",
+        "D": "$\\frac{2}{x}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{\\log x^2}$",
+        "B": "$2x$",
+        "C": "$\\frac{2x}{\\log x^2}$",
+        "D": "$\\frac{2}{x}$"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $x = 3\\cos\\theta - 2\\cos^3\\theta, y = 3\\sin\\theta - 2\\sin^3\\theta$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $x = 3\\cos\\theta - 2\\cos^3\\theta, y = 3\\sin\\theta - 2\\sin^3\\theta$ तो $\\frac{dy}{dx}$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $\\tan^{-1}(x^2 + y^2) = K$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $\\tan^{-1}(x^2 + y^2) = K$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = \\log |\\frac{1-x^2}{1+x^2}|$, then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = \\log |\\frac{1-x^2}{1+x^2}|$ तो $\\frac{dy}{dx}$ ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $\\sqrt{x} + \\sqrt{y} = 1$ then find the value of $\\frac{dy}{dx}$ at point $(\\frac{1}{4}, \\frac{1}{4})$.",
+      "prashna": "यदि $\\sqrt{x} + \\sqrt{y} = 1$ तो बिन्दु $(\\frac{1}{4}, \\frac{1}{4})$ पर $\\frac{dy}{dx}$ ज्ञात करें।"
+    }
+  ]
+}

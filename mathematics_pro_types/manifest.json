@@ -1,0 +1,20 @@
+[
+  {
+    "type": "objective",
+    "file": "type-objective.json",
+    "total_items": 500,
+    "years": 5
+  },
+  {
+    "type": "short",
+    "file": "type-short.json",
+    "total_items": 143,
+    "years": 5
+  },
+  {
+    "type": "long",
+    "file": "type-long.json",
+    "total_items": 40,
+    "years": 5
+  }
+]

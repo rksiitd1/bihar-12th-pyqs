@@ -1,0 +1,300 @@
+{
+  "2021": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\cos^2 x dx$.",
+      "prashna": "समाकलन करें $\\int \\cos^2 x dx$."
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\sqrt{1-\\sin 2x} \\, dx$.",
+      "prashna": "समाकलन करें $\\int \\sqrt{1-\\sin 2x} \\, dx$."
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$.",
+      "prashna": "$\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Prove that $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$.",
+      "prashna": "सिद्ध करें कि $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$."
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$.",
+      "prashna": "मान निकालें $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Evaluate: $\\int_{a}^{b} \\frac{(\\log x)^2}{x} dx$",
+      "prashna": "मान ज्ञात करे : $\\int_{a}^{b} \\frac{(\\log x)^2}{x} dx$"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{e^{2x}}{1+e^x} dx$",
+      "prashna": "समाकलन करे : $\\int \\frac{e^{2x}}{1+e^x} dx$"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\sin^4 \\theta d\\theta$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\sin^4 \\theta d\\theta$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\cos x} + \\sqrt{\\sin x}} dx$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\sqrt{\\sin x}}{\\sqrt{\\cos x} + \\sqrt{\\sin x}} dx$ का मान ज्ञात करे।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\sqrt{1 + \\cos 2x} dx$",
+      "prashna": "समाकलन करे : $\\int \\sqrt{1 + \\cos 2x} dx$"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin x + \\cos x}{\\sqrt{1 + \\sin 2x}} dx$.",
+      "prashna": "समाकलन करे : $\\int \\frac{\\sin x + \\cos x}{\\sqrt{1 + \\sin 2x}} dx$."
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{x-2}{x^2 - 3x + 2} dx$",
+      "prashna": "समाकलन करे : $\\int \\frac{x-2}{x^2 - 3x + 2} dx$"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{(\\sin x - \\cos x)^3}{\\sqrt{1-\\sin^2 x}} dx$.",
+      "prashna": "समाकलन करे : $\\int \\frac{(\\sin x - \\cos x)^3}{\\sqrt{1-\\sin^2 x}} dx$."
+    }
+  ],
+  "2023": [
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Solve: $\\int \\frac{dx}{x(1+\\log_e x)^2}$",
+      "prashna": "हल करें: $\\int \\frac{dx}{x(1+\\log_e x)^2}$"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{e^{k\\sqrt{x}}}{\\sqrt{x}} dx$.",
+      "prashna": "समाकलन करें: $\\int \\frac{e^{k\\sqrt{x}}}{\\sqrt{x}} dx$।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{-1}^{1} \\sin^{21}x \\cos^{10}x dx$.",
+      "prashna": "$\\int_{-1}^{1} \\sin^{21}x \\cos^{10}x dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{2}^{4} \\frac{6x^2-1}{2\\sqrt{2x^3-x}} dx$.",
+      "prashna": "$\\int_{2}^{4} \\frac{6x^2-1}{2\\sqrt{2x^3-x}} dx$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_{0}^{\\pi/2} \\frac{\\cot\\theta}{\\tan\\theta + \\cot\\theta} d\\theta$.",
+      "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\cot\\theta}{\\tan\\theta + \\cot\\theta} d\\theta$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\sin 4x \\cos 3x dx$.",
+      "prashna": "समाकलन करें: $\\int \\sin 4x \\cos 3x dx$।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{d\\theta}{3 - 4\\cos\\theta}$.",
+      "prashna": "$\\int \\frac{d\\theta}{3 - 4\\cos\\theta}$ का समाकलन करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\text{cosec } x}{\\text{cosec } x + \\cot x} dx$.",
+      "prashna": "$\\int \\frac{\\text{cosec } x}{\\text{cosec } x + \\cot x} dx$ का समाकलन करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int (x+2)^2 dx$.",
+      "prashna": "समाकलन करें : $\\int (x+2)^2 dx$."
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^{\\pi/2} \\frac{dx}{1+\\sqrt{\\tan x}}$.",
+      "prashna": "$\\int_0^{\\pi/2} \\frac{dx}{1+\\sqrt{\\tan x}}$ का मान निकालें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^a \\sqrt{a^2-x^2} dx$.",
+      "prashna": "$\\int_0^a \\sqrt{a^2-x^2} dx$ का मान निकालें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\cos^3 x \\sin x dx$.",
+      "prashna": "$\\int \\cos^3 x \\sin x dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\frac{x^2-1}{x^2+4} dx$.",
+      "prashna": "$\\int \\frac{x^2-1}{x^2+4} dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Find the value of $\\int_0^{\\pi/2} x \\cos x dx$.",
+      "prashna": "$\\int_0^{\\pi/2} x \\cos x dx$ का मान निकालें।"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\sin^3 x dx$.",
+      "prashna": "$\\int \\sin^3 x dx$ का समाकलन करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate $\\int \\frac{dx}{\\sqrt{x+1}+\\sqrt{x+2}}$.",
+      "prashna": "$\\int \\frac{dx}{\\sqrt{x+1}+\\sqrt{x+2}}$ का समाकलन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{x^2+2}{x+1} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{x^2+2}{x+1} dx$"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{dx}{1+\\cos x}$",
+      "prashna": "समाकलन करें: $\\int \\frac{dx}{1+\\cos x}$"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "If $\\int_0^a \\frac{1}{1+4x^2} dx = \\frac{\\pi}{8}$ then find the value of $a$.",
+      "prashna": "यदि $\\int_0^a \\frac{1}{1+4x^2} dx = \\frac{\\pi}{8}$ तो $a$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin x}{3+4\\cos^2 x} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{\\sin x}{3+4\\cos^2 x} dx$"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int \\frac{\\sin^6 x + \\cos^6 x}{\\sin^2 x \\cos^2 x} dx$",
+      "prashna": "समाकलन करें: $\\int \\frac{\\sin^6 x + \\cos^6 x}{\\sin^2 x \\cos^2 x} dx$"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_2^8 |x-5| dx$",
+      "prashna": "समाकलन करें: $\\int_2^8 |x-5| dx$"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Integrals",
+      "question": "Integrate: $\\int_{\\pi/4}^{\\pi} \\sin^2 x dx$",
+      "prashna": "समाकलन करें: $\\int_{\\pi/4}^{\\pi} \\sin^2 x dx$"
+    }
+  ]
+}

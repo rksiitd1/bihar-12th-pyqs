@@ -1,0 +1,32 @@
+{
+  "2023": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Find the value of $[(\\vec{i} - 2\\vec{j} + 3\\vec{k}) \\times (2\\vec{i} + \\vec{j} - \\vec{k})] \\cdot (\\vec{j} + \\vec{k})$.",
+      "prashna": "$[(\\vec{i} - 2\\vec{j} + 3\\vec{k}) \\times (2\\vec{i} + \\vec{j} - \\vec{k})] \\cdot (\\vec{j} + \\vec{k})$ का मान ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "Evaluate: $(\\vec{i}-3\\vec{j}+4\\vec{k}) \\cdot [(2\\vec{i}-\\vec{j}) \\times (\\vec{j}+\\vec{k})]$.",
+      "prashna": "मान ज्ञात करें: $(\\vec{i}-3\\vec{j}+4\\vec{k}) \\cdot [(2\\vec{i}-\\vec{j}) \\times (\\vec{j}+\\vec{k})]$."
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Vector Algebra",
+      "question": "If $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{j} - \\hat{k}$ then find $\\vec{c}$ such that $\\vec{a} \\times \\vec{c} = \\vec{b}$ and $\\vec{a} \\cdot \\vec{c} = 3$.",
+      "prashna": "यदि $\\vec{a} = \\hat{i} - \\hat{j} + \\hat{k}$ तथा $\\vec{b} = \\hat{j} - \\hat{k}$ तो $\\vec{c}$ ज्ञात करें ताकि $\\vec{a} \\times \\vec{c} = \\vec{b}$ तथा $\\vec{a} \\cdot \\vec{c} = 3$।"
+    }
+  ]
+}

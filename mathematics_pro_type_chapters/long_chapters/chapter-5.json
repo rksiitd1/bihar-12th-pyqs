@@ -1,0 +1,42 @@
+{
+  "2021": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$ when $x^y + y^x = 1$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $x^y + y^x = 1$."
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $(x + y) = \\sec^{-1}(x - y)$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $(x + y) = \\sec^{-1}(x - y)$ तो $\\frac{dy}{dx}$ ज्ञात करे।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "If $y = (\\sin x)^{\\cos x} + (\\cos x)^{\\sin x}$ then find $\\frac{dy}{dx}$.",
+      "prashna": "यदि $y = (\\sin x)^{\\cos x} + (\\cos x)^{\\sin x}$ तो $\\frac{dy}{dx}$ ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "5",
+      "chapter_name": "Continuity and Differentiability",
+      "question": "Find $\\frac{dy}{dx}$, when $(\\sin y)^x = (\\cos x)^y$.",
+      "prashna": "$\\frac{dy}{dx}$ निकालें, जब $(\\sin y)^x = (\\cos x)^y$."
+    }
+  ]
+}
