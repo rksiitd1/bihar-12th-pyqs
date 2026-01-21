@@ -130,6 +130,8 @@ def main():
         print(f"✓ Annotated data saved to: {out_path}")
 
 if __name__ == "__main__":
+    from dotenv import load_dotenv
+    load_dotenv()
     GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
     if not GOOGLE_API_KEY:
         raise ValueError("Gemini API key not found. Please set the GOOGLE_API_KEY environment variable.")

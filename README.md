@@ -19,8 +19,8 @@ flowchart LR
 ## 🚀 Quick Start: Processing a New Year
 
 ```powershell
-# 1. Set API Key (required for Gemini AI)
-$env:GOOGLE_API_KEY = "YOUR_API_KEY"
+# 1. Set API Key (Create a .env file)
+# GOOGLE_API_KEY=your-api-key-here
 
 # 2. Download PDFs (if needed)
 python pyqs.py
@@ -118,10 +118,11 @@ python split_biology_by_type.py
 pip install google-generativeai pandas xlsxwriter requests
 ```
 
-Set your Gemini API key before running annotation scripts:
-```powershell
-$env:GOOGLE_API_KEY = "your-api-key-here"
+Set your Gemini API key in a `.env` file in the root directory:
+```text
+GOOGLE_API_KEY=your-api-key-here
 ```
+The scripts will automatically load this key using `python-dotenv`.
 
 ---
 

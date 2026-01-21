@@ -5,8 +5,10 @@ import pathlib
 import textwrap
 import re
 import time
+from dotenv import load_dotenv
 
 # --- Configuration ---
+load_dotenv()
 GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
 if not GOOGLE_API_KEY:
     raise ValueError("Gemini API key not found. Please set the GOOGLE_API_KEY environment variable.")

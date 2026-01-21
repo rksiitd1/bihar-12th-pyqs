@@ -6,8 +6,12 @@ import pathlib
 import textwrap
 import re
 import time
+from dotenv import load_dotenv
 
 # --- Configuration ---
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Set your API key securely.
 # It's recommended to use environment variables or a secrets manager.
