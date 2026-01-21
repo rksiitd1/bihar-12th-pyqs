@@ -1,0 +1,1988 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "$\\cos^{-1}\\frac{1-x^2}{1+x^2} = \\dots\\dots\\dots\\dots$, $(|x| \\le 1)$",
+        "prashna": "$\\cos^{-1}\\frac{1-x^2}{1+x^2} = \\dots\\dots\\dots\\dots$, $(|x| \\le 1)$",
+        "options": {
+            "A": "$2\\cos^{-1} x$",
+            "B": "$2\\sin^{-1} x$",
+            "C": "$2\\tan^{-1} x$",
+            "D": "$\\tan^{-1} 2x$"
+        },
+        "vikalpa": {
+            "A": "$2\\cos^{-1} x$",
+            "B": "$2\\sin^{-1} x$",
+            "C": "$2\\tan^{-1} x$",
+            "D": "$\\tan^{-1} 2x$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "$3\\sin^{-1}x = \\dots\\dots\\dots\\dots\\dots$, $(|x| \\le \\frac{1}{2})$",
+        "prashna": "$3\\sin^{-1}x = \\dots\\dots\\dots\\dots\\dots$, $(|x| \\le \\frac{1}{2})$",
+        "options": {
+            "A": "$\\sin^{-1}(4x^3 - 3x)$",
+            "B": "$\\sin^{-1}(3x + 4x^3)$",
+            "C": "$\\sin^{-1}(3x - 4x^3)$",
+            "D": "$\\sin^{-1}(3x^3 - 4x)$"
+        },
+        "vikalpa": {
+            "A": "$\\sin^{-1}(4x^3 - 3x)$",
+            "B": "$\\sin^{-1}(3x + 4x^3)$",
+            "C": "$\\sin^{-1}(3x - 4x^3)$",
+            "D": "$\\sin^{-1}(3x^3 - 4x)$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "$\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) = $",
+        "prashna": "$\\tan^{-1}(-\\frac{1}{\\sqrt{3}}) = $",
+        "options": {
+            "A": "$\\frac{\\pi}{3}$",
+            "B": "$\\frac{\\pi}{6}$",
+            "C": "$-\\frac{\\pi}{3}$",
+            "D": "$-\\frac{\\pi}{6}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{3}$",
+            "B": "$\\frac{\\pi}{6}$",
+            "C": "$-\\frac{\\pi}{3}$",
+            "D": "$-\\frac{\\pi}{6}$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "$\\sin(\\sec^{-1}x + \\cosec^{-1}x) = $",
+        "prashna": "$\\sin(\\sec^{-1}x + \\cosec^{-1}x) = $",
+        "options": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "0",
+            "C": "-1",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "0",
+            "C": "-1",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "$2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = $",
+        "prashna": "$2\\tan^{-1}\\frac{1}{3} + \\tan^{-1}\\frac{1}{7} = $",
+        "options": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "$\\pi$",
+            "C": "$\\frac{\\pi}{4}$",
+            "D": "$2\\pi$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "$\\pi$",
+            "C": "$\\frac{\\pi}{4}$",
+            "D": "$2\\pi$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The value of the determinant $\\begin{vmatrix} 1 & 2 & 4 \\ 3 & 7 & 9 \\ 4 & 8 & 16 \\end{vmatrix}$ is",
+        "prashna": "सारणिक $\\begin{vmatrix} 1 & 2 & 4 \\ 3 & 7 & 9 \\ 4 & 8 & 16 \\end{vmatrix}$ का मान है",
+        "options": {
+            "A": "23",
+            "B": "0",
+            "C": "1",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "23",
+            "B": "0",
+            "C": "1",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The value of the determinant $\\begin{vmatrix} 1 & a & b+c \\ 1 & b & c+a \\ 1 & c & a+b \\end{vmatrix}$ is",
+        "prashna": "सारणिक $\\begin{vmatrix} 1 & a & b+c \\ 1 & b & c+a \\ 1 & c & a+b \\end{vmatrix}$ का मान है",
+        "options": {
+            "A": "$(1+a+b+c)$",
+            "B": "$(a+b+c)$",
+            "C": "1",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "$(1+a+b+c)$",
+            "B": "$(a+b+c)$",
+            "C": "1",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The value of the determinant $\\begin{vmatrix} 7 & 11 & 13 \\ 17 & 19 & 23 \\ 29 & 31 & 37 \\end{vmatrix}$ is",
+        "prashna": "सारणिक $\\begin{vmatrix} 7 & 11 & 13 \\ 17 & 19 & 23 \\ 29 & 31 & 37 \\end{vmatrix}$ का मान है",
+        "options": {
+            "A": "-36",
+            "B": "36",
+            "C": "20",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "-36",
+            "B": "36",
+            "C": "20",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "If $A = \\begin{bmatrix} 1 & 1 \\ -1 & -1 \\end{bmatrix}$, then $A^3 = $",
+        "prashna": "यदि $A = \\begin{bmatrix} 1 & 1 \\ -1 & -1 \\end{bmatrix}$, तो $A^3 = $",
+        "options": {
+            "A": "3A",
+            "B": "4A",
+            "C": "2A",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "3A",
+            "B": "4A",
+            "C": "2A",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Matrix $\\begin{bmatrix} a & h & g \\ h & b & f \\ g & f & c \\end{bmatrix}$ is",
+        "prashna": "आव्यूह $\\begin{bmatrix} a & h & g \\ h & b & f \\ g & f & c \\end{bmatrix}$ है",
+        "options": {
+            "A": "skew symmetric matrix",
+            "B": "symmetric matrix",
+            "C": "unit matrix",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "विषम सममित आव्यूह",
+            "B": "सममित आव्यूह",
+            "C": "एकांक आव्यूह",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Solution of the differential equation $xdy + ydx = 0$ is",
+        "prashna": "अवकल समीकरण $xdy + ydx = 0$ का हल है",
+        "options": {
+            "A": "$\\frac{x^2}{2} + \\frac{y^2}{2} = k$",
+            "B": "$\\frac{x^2}{2} - \\frac{y^2}{2} = k$",
+            "C": "$xy=k$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$\\frac{x^2}{2} + \\frac{y^2}{2} = k$",
+            "B": "$\\frac{x^2}{2} - \\frac{y^2}{2} = k$",
+            "C": "$xy=k$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Solution of the differential equation $\\frac{ydx - xdy}{y^2} = 0$ is",
+        "prashna": "अवकल समीकरण $\\frac{ydx - xdy}{y^2} = 0$ का हल है",
+        "options": {
+            "A": "$\\frac{y}{x} = k$",
+            "B": "$\\frac{x}{y^2} = k$",
+            "C": "$\\frac{x}{y} = k$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$\\frac{y}{x} = k$",
+            "B": "$\\frac{x}{y^2} = k$",
+            "C": "$\\frac{x}{y} = k$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Integrating factor of the differential equation $\\frac{dy}{dx} + Py = Q$ is",
+        "prashna": "अवकल समीकरण $\\frac{dy}{dx} + Py = Q$ का समाकलन गुणक है",
+        "options": {
+            "A": "$e^{\\int Qdx}$",
+            "B": "$e^{\\int Pdy}$",
+            "C": "$e^{\\int Pdx}$",
+            "D": "$e^{\\int Qdy}$"
+        },
+        "vikalpa": {
+            "A": "$e^{\\int Qdx}$",
+            "B": "$e^{\\int Pdy}$",
+            "C": "$e^{\\int Pdx}$",
+            "D": "$e^{\\int Qdy}$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "$\\vec{j} \\cdot (\\vec{k} \\times \\vec{i}) = $",
+        "prashna": "$\\vec{j} \\cdot (\\vec{k} \\times \\vec{i}) = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "$\\vec{j}$"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "$\\vec{j}$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "$[\\vec{x} \\ \\vec{y} \\ \\vec{z}] = $",
+        "prashna": "$[\\vec{x} \\ \\vec{y} \\ \\vec{z}] = $",
+        "options": {
+            "A": "$[\\vec{z} \\ \\vec{y} \\ \\vec{x}]$",
+            "B": "$[\\vec{y} \\ \\vec{x} \\ \\vec{z}]$",
+            "C": "$[\\vec{x} \\ \\vec{z} \\ \\vec{y}]$",
+            "D": "$[\\vec{z} \\ \\vec{x} \\ \\vec{y}]$"
+        },
+        "vikalpa": {
+            "A": "$[\\vec{z} \\ \\vec{y} \\ \\vec{x}]$",
+            "B": "$[\\vec{y} \\ \\vec{x} \\ \\vec{z}]$",
+            "C": "$[\\vec{x} \\ \\vec{z} \\ \\vec{y}]$",
+            "D": "$[\\vec{z} \\ \\vec{x} \\ \\vec{y}]$"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(e^{x^3}) = $",
+        "prashna": "$\\frac{d}{dx}(e^{x^3}) = $",
+        "options": {
+            "A": "$e^{x^3}$",
+            "B": "$3x^2 e^x$",
+            "C": "$3x^2 e^{x^3}$",
+            "D": "$3x^2 e^{x^3}$"
+        },
+        "vikalpa": {
+            "A": "$e^{x^3}$",
+            "B": "$3x^2 e^x$",
+            "C": "$3x^2 e^{x^3}$",
+            "D": "$3x^2 e^{x^3}$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\log 3^x) = $",
+        "prashna": "$\\frac{d}{dx}(\\log 3^x) = $",
+        "options": {
+            "A": "$\\frac{1}{3^x}$",
+            "B": "$\\log 3$",
+            "C": "$x\\log 3$",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{3^x}$",
+            "B": "$\\log 3$",
+            "C": "$x\\log 3$",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\frac{1}{\\sin x} + e^x) = $",
+        "prashna": "$\\frac{d}{dx}(\\frac{1}{\\sin x} + e^x) = $",
+        "options": {
+            "A": "$-\\frac{1}{\\sin^2 x} + e^x$",
+            "B": "$\\cosec x + e^x$",
+            "C": "$-\\cosec x \\cot x + e^x$",
+            "D": "$\\cosec x \\cdot \\cot x + e^x$"
+        },
+        "vikalpa": {
+            "A": "$-\\frac{1}{\\sin^2 x} + e^x$",
+            "B": "$\\cosec x + e^x$",
+            "C": "$-\\cosec x \\cot x + e^x$",
+            "D": "$\\cosec x \\cdot \\cot x + e^x$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "$\\vec{k} \\times (\\vec{i} \\times \\vec{j}) = $",
+        "prashna": "$\\vec{k} \\times (\\vec{i} \\times \\vec{j}) = $",
+        "options": {
+            "A": "$\\vec{0}$",
+            "B": "$\\vec{i}$",
+            "C": "$\\vec{j}$",
+            "D": "$\\vec{k}$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{0}$",
+            "B": "$\\vec{i}$",
+            "C": "$\\vec{j}$",
+            "D": "$\\vec{k}$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "$\\int \\log 2 dx = $",
+        "prashna": "$\\int \\log 2 dx = $",
+        "options": {
+            "A": "$x+k$",
+            "B": "$\\log 2 + k$",
+            "C": "$x\\log 2 + k$",
+            "D": "$x^2\\log 2 + k$"
+        },
+        "vikalpa": {
+            "A": "$x+k$",
+            "B": "$\\log 2 + k$",
+            "C": "$x\\log 2 + k$",
+            "D": "$x^2\\log 2 + k$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Standard equation of the plane in intercept form is",
+        "prashna": "अंतःखंड के रूप में तल का मानक समीकरण है",
+        "options": {
+            "A": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 0$",
+            "B": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1$",
+            "C": "$\\frac{x}{a} - \\frac{y}{b} - \\frac{z}{c} = 0$",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 0$",
+            "B": "$\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1$",
+            "C": "$\\frac{x}{a} - \\frac{y}{b} - \\frac{z}{c} = 0$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "The distance of the point (-3, -4, -5) from the origin is",
+        "prashna": "मूल बिन्दु से बिन्दु (-3, -4, -5) की दूरी है",
+        "options": {
+            "A": "6",
+            "B": "$5\\sqrt{2}$",
+            "C": "50",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "6",
+            "B": "$5\\sqrt{2}$",
+            "C": "50",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "The distance between (-4, -3, 7) and (-1, 1, -5) is",
+        "prashna": "(-4, -3, 7) और (-1, 1, -5) के बीच की दूरी है",
+        "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "If A and B be two events then $P(\\frac{A}{B}) + P(\\frac{A'}{B}) = $",
+        "prashna": "यदि A और B दो घटनाएँ हों, तो $P(\\frac{A}{B}) + P(\\frac{A'}{B}) = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\sin 2x) = $",
+        "prashna": "$\\frac{d}{dx}(\\sin 2x) = $",
+        "options": {
+            "A": "$\\cos 2x$",
+            "B": "$\\frac{\\cos 2x}{2}$",
+            "C": "$2\\sin 2x$",
+            "D": "$2\\cos 2x$"
+        },
+        "vikalpa": {
+            "A": "$\\cos 2x$",
+            "B": "$\\frac{\\cos 2x}{2}$",
+            "C": "$2\\sin 2x$",
+            "D": "$2\\cos 2x$"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\tan kx) = $",
+        "prashna": "$\\frac{d}{dx}(\\tan kx) = $",
+        "options": {
+            "A": "$\\sec^2 kx$",
+            "B": "$k\\sec^2 x$",
+            "C": "$\\frac{\\sec^2 kx}{k}$",
+            "D": "$k\\sec^2 kx$"
+        },
+        "vikalpa": {
+            "A": "$\\sec^2 kx$",
+            "B": "$k\\sec^2 x$",
+            "C": "$\\frac{\\sec^2 kx}{k}$",
+            "D": "$k\\sec^2 kx$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "$\\int (x+2) dx = $",
+        "prashna": "$\\int (x+2) dx = $",
+        "options": {
+            "A": "$(x+2)^3 + k$",
+            "B": "$\\frac{x^2}{2} + k$",
+            "C": "$\\frac{x^2}{2} + 2x + k$",
+            "D": "$\\log(x+2) + k$"
+        },
+        "vikalpa": {
+            "A": "$(x+2)^3 + k$",
+            "B": "$\\frac{x^2}{2} + k$",
+            "C": "$\\frac{x^2}{2} + 2x + k$",
+            "D": "$\\log(x+2) + k$"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "$\\int_{1}^{3} dx = $",
+        "prashna": "$\\int_{1}^{3} dx = $",
+        "options": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "$\\frac{1}{2}$"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "$\\frac{1}{2}$"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+        "prashna": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+        "options": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "2"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "2"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "$\\int \\sin x \\cos x dx = $",
+        "prashna": "$\\int \\sin x \\cos x dx = $",
+        "options": {
+            "A": "$\\frac{1}{2}\\sin 2x + k$",
+            "B": "$\\frac{\\sin x}{2} + k$",
+            "C": "$\\frac{\\sin^2 x}{2} + k$",
+            "D": "$\\frac{\\cos^2 x}{2} + k$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{2}\\sin 2x + k$",
+            "B": "$\\frac{\\sin x}{2} + k$",
+            "C": "$\\frac{\\sin^2 x}{2} + k$",
+            "D": "$\\frac{\\cos^2 x}{2} + k$"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\log\\sqrt{x}) = $",
+        "prashna": "$\\frac{d}{dx}(\\log\\sqrt{x}) = $",
+        "options": {
+            "A": "$\\frac{1}{2\\sqrt{x}}$",
+            "B": "$\\frac{1}{\\sqrt{x}}$",
+            "C": "$\\frac{1}{2x}$",
+            "D": "$\\frac{\\sqrt{x}}{2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{2\\sqrt{x}}$",
+            "B": "$\\frac{1}{\\sqrt{x}}$",
+            "C": "$\\frac{1}{2x}$",
+            "D": "$\\frac{\\sqrt{x}}{2}$"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "$\\frac{d^2}{dx^2}(\\sin 2x) = $",
+        "prashna": "$\\frac{d^2}{dx^2}(\\sin 2x) = $",
+        "options": {
+            "A": "$4\\sin 2x$",
+            "B": "$4\\cos^2 2x$",
+            "C": "$-4\\sin 2x$",
+            "D": "$2\\sin 4x$"
+        },
+        "vikalpa": {
+            "A": "$4\\sin 2x$",
+            "B": "$4\\cos^2 2x$",
+            "C": "$-4\\sin 2x$",
+            "D": "$2\\sin 4x$"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(e^{x-a}) = $",
+        "prashna": "$\\frac{d}{dx}(e^{x-a}) = $",
+        "options": {
+            "A": "$e^{x-a}$",
+            "B": "$(x-a)e^{x-a}$",
+            "C": "$e^x$",
+            "D": "$-e^{x-a}$"
+        },
+        "vikalpa": {
+            "A": "$e^{x-a}$",
+            "B": "$(x-a)e^{x-a}$",
+            "C": "$e^x$",
+            "D": "$-e^{x-a}$"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "$\\frac{d^3}{dx^3}(x^4) = $",
+        "prashna": "$\\frac{d^3}{dx^3}(x^4) = $",
+        "options": {
+            "A": "$4x^3$",
+            "B": "$12x^2$",
+            "C": "$24x$",
+            "D": "24"
+        },
+        "vikalpa": {
+            "A": "$4x^3$",
+            "B": "$12x^2$",
+            "C": "$24x$",
+            "D": "24"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\sqrt{x^2+ax+1}) = $",
+        "prashna": "$\\frac{d}{dx}(\\sqrt{x^2+ax+1}) = $",
+        "options": {
+            "A": "$\\frac{x+a}{2\\sqrt{x^2+ax+1}}$",
+            "B": "$\\frac{2x+a}{2\\sqrt{x^2+ax+1}}$",
+            "C": "$\\frac{2x+a}{\\sqrt{x^2+ax+1}}$",
+            "D": "$\\frac{1}{2\\sqrt{x^2+ax+1}}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{x+a}{2\\sqrt{x^2+ax+1}}$",
+            "B": "$\\frac{2x+a}{2\\sqrt{x^2+ax+1}}$",
+            "C": "$\\frac{2x+a}{\\sqrt{x^2+ax+1}}$",
+            "D": "$\\frac{1}{2\\sqrt{x^2+ax+1}}$"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(2e^{2x}) = $",
+        "prashna": "$\\frac{d}{dx}(2e^{2x}) = $",
+        "options": {
+            "A": "$2e^{2x}$",
+            "B": "$e^{2x}$",
+            "C": "$4e^{2x}$",
+            "D": "$2e^x$"
+        },
+        "vikalpa": {
+            "A": "$2e^{2x}$",
+            "B": "$e^{2x}$",
+            "C": "$4e^{2x}$",
+            "D": "$2e^x$"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\log x^n) = $",
+        "prashna": "$\\frac{d}{dx}(\\log x^n) = $",
+        "options": {
+            "A": "$\\frac{1}{x^n}$",
+            "B": "n",
+            "C": "$\\frac{1}{x}$",
+            "D": "$\\frac{n}{x}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{x^n}$",
+            "B": "n",
+            "C": "$\\frac{1}{x}$",
+            "D": "$\\frac{n}{x}$"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "If $A=\\{a,b,c\\}, B=\\{1,2,3\\}$ and $f = \\{(a,1), (b,2), (c,2)\\}$ then what type of a function is $f$?",
+        "prashna": "यदि $A=\\{a,b,c\\}, B=\\{1,2,3\\}$ और $f = \\{(a,1), (b,2), (c,2)\\}$ तो $f$ कैसा फलन है ?",
+        "options": {
+            "A": "one-one into",
+            "B": "many-one into",
+            "C": "many-one onto",
+            "D": "one-one onto"
+        },
+        "vikalpa": {
+            "A": "एकैक अंतःक्षेपी",
+            "B": "अनेकैक अंतःक्षेपी",
+            "C": "अनेकैक आच्छादक",
+            "D": "एकैक आच्छादक"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "If $f:R \\rightarrow R$ such that $f(x)=3x-4$, then which of the following is $f^{-1}(x)$?",
+        "prashna": "यदि $f:R \\rightarrow R$, जहाँ $f(x)=3x-4$, तो $f^{-1}(x)$ निम्नलिखित में कौन होगा ?",
+        "options": {
+            "A": "$\\frac{1}{3}(x+4)$",
+            "B": "$\\frac{1}{3}(x-4)$",
+            "C": "$3x-4$",
+            "D": "undefined"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{3}(x+4)$",
+            "B": "$\\frac{1}{3}(x-4)$",
+            "C": "$3x-4$",
+            "D": "अपरिभाषित"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "$\\cosec^{-1}(-x) = $",
+        "prashna": "$\\cosec^{-1}(-x) = $",
+        "options": {
+            "A": "$\\frac{\\pi}{2} - \\cosec^{-1}x$",
+            "B": "$\\pi - \\cosec^{-1}x$",
+            "C": "$\\cosec^{-1}x$",
+            "D": "$-\\cosec^{-1}x$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2} - \\cosec^{-1}x$",
+            "B": "$\\pi - \\cosec^{-1}x$",
+            "C": "$\\cosec^{-1}x$",
+            "D": "$-\\cosec^{-1}x$"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "If $A = \\begin{bmatrix} 4\\alpha & 0 \\ 5 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 16 & 0 \\ 5 & 1 \\end{bmatrix}$, when $A=B$, then the value of $\\alpha$ is",
+        "prashna": "यदि $A = \\begin{bmatrix} 4\\alpha & 0 \\ 5 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 16 & 0 \\ 5 & 1 \\end{bmatrix}$, जहाँ $A=B$, तो $\\alpha$ का मान है",
+        "options": {
+            "A": "1",
+            "B": "-1",
+            "C": "4",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "-1",
+            "C": "4",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "$\\tan^{-1}1 = $",
+        "prashna": "$\\tan^{-1}1 = $",
+        "options": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{4}$",
+            "D": "$\\frac{\\pi}{6}$"
+        },
+        "vikalpa": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{4}$",
+            "D": "$\\frac{\\pi}{6}$"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "$\\cos(\\sec^{-1}x + \\cosec^{-1}x) = $",
+        "prashna": "$\\cos(\\sec^{-1}x + \\cosec^{-1}x) = $",
+        "options": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "$\\frac{1}{\\sqrt{2}}$"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "$\\frac{1}{\\sqrt{2}}$"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "$\\begin{vmatrix} \\cos\\theta & -\\sin\\theta \\ \\sin\\theta & \\cos\\theta \\end{vmatrix} = $",
+        "prashna": "$\\begin{vmatrix} \\cos\\theta & -\\sin\\theta \\ \\sin\\theta & \\cos\\theta \\end{vmatrix} = $",
+        "options": {
+            "A": "$\\cos 2\\theta$",
+            "B": "1",
+            "C": "0",
+            "D": "-1"
+        },
+        "vikalpa": {
+            "A": "$\\cos 2\\theta$",
+            "B": "1",
+            "C": "0",
+            "D": "-1"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "$\\int \\frac{\\cos 2x}{(\\sin x + \\cos x)^2} dx$",
+        "prashna": "$\\int \\frac{\\cos 2x}{(\\sin x + \\cos x)^2} dx$",
+        "options": {
+            "A": "$2\\log(\\sin x + \\cos x) + c$",
+            "B": "$\\log(\\sin x + \\cos x) + c$",
+            "C": "$\\log(\\sin x - \\cos x) + c$",
+            "D": "$\\frac{1}{\\sin x + \\cos x} + c$"
+        },
+        "vikalpa": {
+            "A": "$2\\log(\\sin x + \\cos x) + c$",
+            "B": "$\\log(\\sin x + \\cos x) + c$",
+            "C": "$\\log(\\sin x - \\cos x) + c$",
+            "D": "$\\frac{1}{\\sin x + \\cos x} + c$"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "$\\tan^{-1}\\sqrt{3} - \\cot^{-1}(-\\sqrt{3}) = $",
+        "prashna": "$\\tan^{-1}\\sqrt{3} - \\cot^{-1}(-\\sqrt{3}) = $",
+        "options": {
+            "A": "$\\pi$",
+            "B": "0",
+            "C": "$-\\frac{\\pi}{2}$",
+            "D": "$\\frac{\\pi}{2}$"
+        },
+        "vikalpa": {
+            "A": "$\\pi$",
+            "B": "0",
+            "C": "$-\\frac{\\pi}{2}$",
+            "D": "$\\frac{\\pi}{2}$"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "If $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \\end{bmatrix}$, then $A^2 = $",
+        "prashna": "यदि $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1 \\end{bmatrix}$, तो $A^2 = $",
+        "options": {
+            "A": "2A",
+            "B": "3A",
+            "C": "27A",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "2A",
+            "B": "3A",
+            "C": "27A",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "$\\vec{a} \\cdot \\vec{a} = $",
+        "prashna": "$\\vec{a} \\cdot \\vec{a} = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "$|\\vec{a}|^2$",
+            "D": "$|\\vec{a}|$"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "$|\\vec{a}|^2$",
+            "D": "$|\\vec{a}|$"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "If $|\\vec{a}| = 2$ and $\\lambda\\vec{a}$ is a unit vector then $\\lambda$ has the value",
+        "prashna": "यदि $|\\vec{a}| = 2$ और $\\lambda\\vec{a}$ एक इकाई सदिश हो, तो $\\lambda$ का मान है",
+        "options": {
+            "A": "1",
+            "B": "$\\frac{1}{2}$",
+            "C": "2",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "$\\frac{1}{2}$",
+            "C": "2",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "The modulus of $x\\vec{i} + y\\vec{j} + z\\vec{k}$ is",
+        "prashna": "$x\\vec{i} + y\\vec{j} + z\\vec{k}$ का मापांक है",
+        "options": {
+            "A": "$x^2 + y^2 + z^2$",
+            "B": "$\\sqrt{x^2 + y^2 + z^2}$",
+            "C": "$\\sqrt{x+y+z}$",
+            "D": "$\\frac{1}{\\sqrt{x^2+y^2+z^2}}$"
+        },
+        "vikalpa": {
+            "A": "$x^2 + y^2 + z^2$",
+            "B": "$\\sqrt{x^2 + y^2 + z^2}$",
+            "C": "$\\sqrt{x+y+z}$",
+            "D": "$\\frac{1}{\\sqrt{x^2+y^2+z^2}}$"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "$\\int \\frac{\\sec x}{\\sec x + \\tan x} dx = $",
+        "prashna": "$\\int \\frac{\\sec x}{\\sec x + \\tan x} dx = $",
+        "options": {
+            "A": "$\\tan x + \\sec x + k$",
+            "B": "$\\tan x - \\sec x + k$",
+            "C": "$\\sec x + k$",
+            "D": "$\\tan x + k$"
+        },
+        "vikalpa": {
+            "A": "$\\tan x + \\sec x + k$",
+            "B": "$\\tan x - \\sec x + k$",
+            "C": "$\\sec x + k$",
+            "D": "$\\tan x + k$"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "$\\int \\sqrt{\\frac{1-\\cos 2x}{1+\\cos 2x}} dx$",
+        "prashna": "$\\int \\sqrt{\\frac{1-\\cos 2x}{1+\\cos 2x}} dx$",
+        "options": {
+            "A": "$\\tan x + x + k$",
+            "B": "$\\tan x - x + k$",
+            "C": "$x - \\tan^2 x + k$",
+            "D": "$\\tan \\frac{x}{2} + k$"
+        },
+        "vikalpa": {
+            "A": "$\\tan x + x + k$",
+            "B": "$\\tan x - x + k$",
+            "C": "$x - \\tan^2 x + k$",
+            "D": "$\\tan \\frac{x}{2} + k$"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "$\\int \\cot^2 x dx = $",
+        "prashna": "$\\int \\cot^2 x dx = $",
+        "options": {
+            "A": "$\\cot x - x + k$",
+            "B": "$2 \\cot x \\cosec^2 x + k$",
+            "C": "$-\\cot x - x + k$",
+            "D": "$x + \\cot x + k$"
+        },
+        "vikalpa": {
+            "A": "$\\cot x - x + k$",
+            "B": "$2 \\cot x \\cosec^2 x + k$",
+            "C": "$-\\cot x - x + k$",
+            "D": "$x + \\cot x + k$"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "$\\int_{0}^{3} x dx = $",
+        "prashna": "$\\int_{0}^{3} x dx = $",
+        "options": {
+            "A": "$\\frac{3}{2}$",
+            "B": "9",
+            "C": "$\\frac{9}{2}$",
+            "D": "$\\frac{9}{4}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{3}{2}$",
+            "B": "9",
+            "C": "$\\frac{9}{2}$",
+            "D": "$\\frac{9}{4}$"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "$\\int_{0}^{2} (x^2+1) dx = $",
+        "prashna": "$\\int_{0}^{2} (x^2+1) dx = $",
+        "options": {
+            "A": "$\\frac{8}{3}$",
+            "B": "$\\frac{14}{3}$",
+            "C": "$\\frac{13}{3}$",
+            "D": "$\\frac{1}{3}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{8}{3}$",
+            "B": "$\\frac{14}{3}$",
+            "C": "$\\frac{13}{3}$",
+            "D": "$\\frac{1}{3}$"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+        "prashna": "$\\int_{0}^{\\pi/2} \\cos x dx = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "$\\frac{\\pi}{2}$"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "$\\frac{\\pi}{2}$"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "$\\int_{0}^{1} \\frac{dx}{x+1} = $",
+        "prashna": "$\\int_{0}^{1} \\frac{dx}{x+1} = $",
+        "options": {
+            "A": "$\\log 2$",
+            "B": "$-\\log 2$",
+            "C": "$2\\log 2$",
+            "D": "$-2\\log 2$"
+        },
+        "vikalpa": {
+            "A": "$\\log 2$",
+            "B": "$-\\log 2$",
+            "C": "$2\\log 2$",
+            "D": "$-2\\log 2$"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "$\\int_{0}^{\\pi/2} \\log(\\cot\\theta) d\\theta = $",
+        "prashna": "$\\int_{0}^{\\pi/2} \\log(\\cot\\theta) d\\theta = $",
+        "options": {
+            "A": "$\\frac{\\pi}{2}\\log 2$",
+            "B": "$\\frac{\\pi}{4}\\log 2$",
+            "C": "$2\\pi\\log 2$",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2}\\log 2$",
+            "B": "$\\frac{\\pi}{4}\\log 2$",
+            "C": "$2\\pi\\log 2$",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "$\\int_{-\\pi/2}^{\\pi/2} |\\cos x| dx = $",
+        "prashna": "$\\int_{-\\pi/2}^{\\pi/2} |\\cos x| dx = $",
+        "options": {
+            "A": "2",
+            "B": "1",
+            "C": "0",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "1",
+            "C": "0",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "$\\int_{0}^{\\pi/2} \\frac{\\cos\\theta}{\\cos\\theta + \\sin\\theta} d\\theta = $",
+        "prashna": "$\\int_{0}^{\\pi/2} \\frac{\\cos\\theta}{\\cos\\theta + \\sin\\theta} d\\theta = $",
+        "options": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{3}$",
+            "D": "$\\frac{\\pi}{4}$"
+        },
+        "vikalpa": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{2}$",
+            "C": "$\\frac{\\pi}{3}$",
+            "D": "$\\frac{\\pi}{4}$"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\tan x^2) = $",
+        "prashna": "$\\frac{d}{dx}(\\tan x^2) = $",
+        "options": {
+            "A": "$\\sec x^2$",
+            "B": "$2x\\sec^2 x^2$",
+            "C": "$2x^2\\sec^2 x^2$",
+            "D": "$\\frac{\\sec x^2}{2x}$"
+        },
+        "vikalpa": {
+            "A": "$\\sec x^2$",
+            "B": "$2x\\sec^2 x^2$",
+            "C": "$2x^2\\sec^2 x^2$",
+            "D": "$\\frac{\\sec x^2}{2x}$"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\sqrt{\\cot x}) = $",
+        "prashna": "$\\frac{d}{dx}(\\sqrt{\\cot x}) = $",
+        "options": {
+            "A": "$\\frac{1}{2\\sqrt{\\cot x}}$",
+            "B": "$\\sqrt{\\cosec^2 x}$",
+            "C": "$-\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$",
+            "D": "$\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{2\\sqrt{\\cot x}}$",
+            "B": "$\\sqrt{\\cosec^2 x}$",
+            "C": "$-\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$",
+            "D": "$\\frac{\\cosec^2 x}{2\\sqrt{\\cot x}}$"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\sin^{-1}(3x-4x^3)); \\dots\\dots\\dots\\dots\\dots = -\\frac{1}{2} \\le x \\le \\frac{1}{2}$",
+        "prashna": "$\\frac{d}{dx}(\\sin^{-1}(3x-4x^3)); \\dots\\dots\\dots\\dots\\dots = -\\frac{1}{2} \\le x \\le \\frac{1}{2}$",
+        "options": {
+            "A": "$\\frac{1}{\\sqrt{1-x^2}}$",
+            "B": "$\\frac{1}{\\sqrt{1-(3x-4x^3)^2}}$",
+            "C": "$\\frac{3}{\\sqrt{1-x^2}}$",
+            "D": "$\\frac{2}{\\sqrt{1-x^2}}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{\\sqrt{1-x^2}}$",
+            "B": "$\\frac{1}{\\sqrt{1-(3x-4x^3)^2}}$",
+            "C": "$\\frac{3}{\\sqrt{1-x^2}}$",
+            "D": "$\\frac{2}{\\sqrt{1-x^2}}$"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\sin\\sqrt{x}) = $",
+        "prashna": "$\\frac{d}{dx}(\\sin\\sqrt{x}) = $",
+        "options": {
+            "A": "$\\cos\\sqrt{x}$",
+            "B": "$\\frac{\\cos\\sqrt{x}}{\\sqrt{x}}$",
+            "C": "$\\frac{1}{\\sqrt{x}} \\cos\\sqrt{x}$",
+            "D": "$\\frac{1}{2\\sqrt{x}} \\cos\\sqrt{x}$"
+        },
+        "vikalpa": {
+            "A": "$\\cos\\sqrt{x}$",
+            "B": "$\\frac{\\cos\\sqrt{x}}{\\sqrt{x}}$",
+            "C": "$\\frac{1}{\\sqrt{x}} \\cos\\sqrt{x}$",
+            "D": "$\\frac{1}{2\\sqrt{x}} \\cos\\sqrt{x}$"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(2\\tan^{-1}x) = $",
+        "prashna": "$\\frac{d}{dx}(2\\tan^{-1}x) = $",
+        "options": {
+            "A": "$\\frac{1}{1+x^2}$",
+            "B": "$\\frac{2}{1+x^2}$",
+            "C": "$\\frac{1}{2(1+x^2)}$",
+            "D": "$\\frac{1}{2(1-x^2)}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{1+x^2}$",
+            "B": "$\\frac{2}{1+x^2}$",
+            "C": "$\\frac{1}{2(1+x^2)}$",
+            "D": "$\\frac{1}{2(1-x^2)}$"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\lim_{x \\to a} \\frac{x^n - a^n}{x-a}) = $",
+        "prashna": "$\\frac{d}{dx}(\\lim_{x \\to a} \\frac{x^n - a^n}{x-a}) = $",
+        "options": {
+            "A": "$na^{n-1}$",
+            "B": "1",
+            "C": "0",
+            "D": "n"
+        },
+        "vikalpa": {
+            "A": "$na^{n-1}$",
+            "B": "1",
+            "C": "0",
+            "D": "n"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\sin^{-1}\\sqrt{x} + \\cos^{-1}\\sqrt{x}) = $",
+        "prashna": "$\\frac{d}{dx}(\\sin^{-1}\\sqrt{x} + \\cos^{-1}\\sqrt{x}) = $",
+        "options": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "0",
+            "C": "1",
+            "D": "$\\sqrt{x}\\cdot\\frac{\\pi}{2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "0",
+            "C": "1",
+            "D": "$\\sqrt{x}\\cdot\\frac{\\pi}{2}$"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "$\\int \\frac{dx}{x-1} = $",
+        "prashna": "$\\int \\frac{dx}{x-1} = $",
+        "options": {
+            "A": "$\\log|x+1| + k$",
+            "B": "$-\\log|1+x| + k$",
+            "C": "$\\log|x-1| + k$",
+            "D": "$\\log x + k$"
+        },
+        "vikalpa": {
+            "A": "$\\log|x+1| + k$",
+            "B": "$-\\log|1+x| + k$",
+            "C": "$\\log|x-1| + k$",
+            "D": "$\\log x + k$"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "The order of the differential equation $(\\frac{d^2y}{dx^2})^3 + 2(\\frac{dy}{dx})^3 + 9y = \\sin x$ is",
+        "prashna": "अवकल समीकरण $(\\frac{d^2y}{dx^2})^3 + 2(\\frac{dy}{dx})^3 + 9y = \\sin x$ की कोटि है",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "$\\int \\frac{x^4-1}{x^2+1} dx = $",
+        "prashna": "$\\int \\frac{x^4-1}{x^2+1} dx = $",
+        "options": {
+            "A": "$\\frac{x^3}{3} + 2x + k$",
+            "B": "$\\frac{x^3}{3} - 2x + k$",
+            "C": "$\\frac{x^3}{3} + x + k$",
+            "D": "$\\frac{x^3}{3} - x + k$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{x^3}{3} + 2x + k$",
+            "B": "$\\frac{x^3}{3} - 2x + k$",
+            "C": "$\\frac{x^3}{3} + x + k$",
+            "D": "$\\frac{x^3}{3} - x + k$"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "question": "If $\\omega \\neq 1, \\omega^3 = 1$ and $\\begin{vmatrix} x+1 & \\omega & \\omega^2 \\ \\omega & x+\\omega^2 & 1 \\ \\omega^2 & 1 & x+\\omega \\end{vmatrix} = 0$ then $x = $",
+        "prashna": "यदि $\\omega \\neq 1, \\omega^3 = 1$ तथा $\\begin{vmatrix} x+1 & \\omega & \\omega^2 \\ \\omega & x+\\omega^2 & 1 \\ \\omega^2 & 1 & x+\\omega \\end{vmatrix} = 0$ तो $x = $",
+        "options": {
+            "A": "0",
+            "B": "$\\omega$",
+            "C": "$\\omega^2$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "$\\omega$",
+            "C": "$\\omega^2$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "question": "If $A = \\begin{bmatrix} \\cos\\alpha & -\\sin\\alpha \\ \\sin\\alpha & \\cos\\alpha \\end{bmatrix}$ and $A+A' = I_2$, then $\\alpha = $",
+        "prashna": "यदि $A = \\begin{bmatrix} \\cos\\alpha & -\\sin\\alpha \\ \\sin\\alpha & \\cos\\alpha \\end{bmatrix}$ और $A+A' = I_2$, तो $\\alpha = $",
+        "options": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{3}$",
+            "C": "$\\frac{3\\pi}{2}$",
+            "D": "$\\frac{\\pi}{6}$"
+        },
+        "vikalpa": {
+            "A": "$\\pi$",
+            "B": "$\\frac{\\pi}{3}$",
+            "C": "$\\frac{3\\pi}{2}$",
+            "D": "$\\frac{\\pi}{6}$"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "question": "A is a square matrix, then $A+A'$ is necessarily",
+        "prashna": "A एक वर्ग आव्यूह है तो $A+A'$ अवश्य ही होगा",
+        "options": {
+            "A": "a symmetric matrix",
+            "B": "a skew symmetric matrix",
+            "C": "a unit matrix",
+            "D": "a zero matrix"
+        },
+        "vikalpa": {
+            "A": "सममित आव्यूह",
+            "B": "विषम सममित आव्यूह",
+            "C": "इकाई आव्यूह",
+            "D": "शून्य आव्यूह"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "question": "If $A = \\begin{bmatrix} \\lambda & 0 \\ 1 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 1 & 0 \\ 2 & 1 \\end{bmatrix}$ and $A^2=B$; then $\\lambda = $",
+        "prashna": "यदि $A = \\begin{bmatrix} \\lambda & 0 \\ 1 & 1 \\end{bmatrix}, B = \\begin{bmatrix} 1 & 0 \\ 2 & 1 \\end{bmatrix}$ और $A^2=B$; तो $\\lambda = $",
+        "options": {
+            "A": "-1",
+            "B": "1",
+            "C": "4",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "-1",
+            "B": "1",
+            "C": "4",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "question": "If $A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$, then",
+        "prashna": "यदि $A = \\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix}$, तो",
+        "options": {
+            "A": "$A^{-1}$ exists",
+            "B": "$|A|=0$",
+            "C": "$A^{-1}$ does not exist",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$A^{-1}$ का अस्तित्व है",
+            "B": "$|A|=0$",
+            "C": "$A^{-1}$ का अस्तित्व नहीं है",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "question": "The number of unit vector(s) perpendicular to a plane is",
+        "prashna": "किसी तल पर लंब इकाई सदिश की संख्या है",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "infinite"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "अनंत"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "question": "If $\\vec{a} = 2\\vec{i} - \\vec{j} + 2\\vec{k}$ and $\\vec{b} = -\\vec{i} + \\vec{j} - \\vec{k}$, then",
+        "prashna": "यदि $\\vec{a} = 2\\vec{i} - \\vec{j} + 2\\vec{k}$ और $\\vec{b} = -\\vec{i} + \\vec{j} - \\vec{k}$, तो",
+        "options": {
+            "A": "$\\vec{a} \\cdot \\vec{b} = 5$",
+            "B": "$\\vec{a} \\cdot \\vec{b} = -5$",
+            "C": "$\\vec{a} \\cdot \\vec{b} = 0$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$\\vec{a} \\cdot \\vec{b} = 5$",
+            "B": "$\\vec{a} \\cdot \\vec{b} = -5$",
+            "C": "$\\vec{a} \\cdot \\vec{b} = 0$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "question": "$[\\vec{a} \\ \\vec{a} \\ \\vec{a}] = $",
+        "prashna": "$[\\vec{a} \\ \\vec{a} \\ \\vec{a}] = $",
+        "options": {
+            "A": "1",
+            "B": "0",
+            "C": "$\\vec{a}$",
+            "D": "-1"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "0",
+            "C": "$\\vec{a}$",
+            "D": "-1"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "question": "$\\vec{i} \\times \\vec{k} = $",
+        "prashna": "$\\vec{i} \\times \\vec{k} = $",
+        "options": {
+            "A": "1",
+            "B": "$\\vec{0}$",
+            "C": "$\\vec{j}$",
+            "D": "$-\\vec{j}$"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "$\\vec{0}$",
+            "C": "$\\vec{j}$",
+            "D": "$-\\vec{j}$"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "question": "$\\vec{a} \\times \\vec{b} = $",
+        "prashna": "$\\vec{a} \\times \\vec{b} = $",
+        "options": {
+            "A": "$\\vec{b} \\times \\vec{a}$",
+            "B": "$-\\vec{b} \\times \\vec{a}$",
+            "C": "$\\vec{a} \\cdot \\vec{b}$",
+            "D": "$\\vec{b} \\cdot \\vec{a}$"
+        },
+        "vikalpa": {
+            "A": "$\\vec{b} \\times \\vec{a}$",
+            "B": "$-\\vec{b} \\times \\vec{a}$",
+            "C": "$\\vec{a} \\cdot \\vec{b}$",
+            "D": "$\\vec{b} \\cdot \\vec{a}$"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "question": "$\\int_{0}^{1} e^x dx = $",
+        "prashna": "$\\int_{0}^{1} e^x dx = $",
+        "options": {
+            "A": "e",
+            "B": "e+1",
+            "C": "e-1",
+            "D": "1-e"
+        },
+        "vikalpa": {
+            "A": "e",
+            "B": "e+1",
+            "C": "e-1",
+            "D": "1-e"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\lim_{x \\to 0} \\cos 3x) = $",
+        "prashna": "$\\frac{d}{dx}(\\lim_{x \\to 0} \\cos 3x) = $",
+        "options": {
+            "A": "$-\\sin 3x$",
+            "B": "1",
+            "C": "$-3\\sin 3x$",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "$-\\sin 3x$",
+            "B": "1",
+            "C": "$-3\\sin 3x$",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(\\frac{1}{\\sqrt{x}}) = $",
+        "prashna": "$\\frac{d}{dx}(\\frac{1}{\\sqrt{x}}) = $",
+        "options": {
+            "A": "$\\frac{1}{x}$",
+            "B": "$\\frac{1}{2\\sqrt{x}}$",
+            "C": "$-\\frac{1}{2\\sqrt{x}}$",
+            "D": "$\\frac{2}{3}x^{3/2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{x}$",
+            "B": "$\\frac{1}{2\\sqrt{x}}$",
+            "C": "$-\\frac{1}{2\\sqrt{x}}$",
+            "D": "$\\frac{2}{3}x^{3/2}$"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "question": "$\\cos^{-1}(2x) + \\sin^{-1}(2x) = \\dots\\dots\\dots\\dots\\dots, 2x \\in [-1, 1]$",
+        "prashna": "$\\cos^{-1}(2x) + \\sin^{-1}(2x) = \\dots\\dots\\dots\\dots\\dots, 2x \\in [-1, 1]$",
+        "options": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "$\\frac{\\pi}{4}$",
+            "C": "$\\pi$",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "$\\frac{\\pi}{4}$",
+            "C": "$\\pi$",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "question": "$\\sin^{-1}(-x) = $",
+        "prashna": "$\\sin^{-1}(-x) = $",
+        "options": {
+            "A": "$\\frac{\\pi}{2} - \\sin^{-1}x$",
+            "B": "$\\sin^{-1}x$",
+            "C": "$-\\sin^{-1}x$",
+            "D": "$\\frac{\\pi}{2} + \\sin^{-1}x$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2} - \\sin^{-1}x$",
+            "B": "$\\sin^{-1}x$",
+            "C": "$-\\sin^{-1}x$",
+            "D": "$\\frac{\\pi}{2} + \\sin^{-1}x$"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "question": "$\\cot^{-1}\\frac{1}{x} = \\dots\\dots\\dots\\dots\\dots (x > 0)$",
+        "prashna": "$\\cot^{-1}\\frac{1}{x} = \\dots\\dots\\dots\\dots\\dots (x > 0)$",
+        "options": {
+            "A": "$-\\cot^{-1}x$",
+            "B": "$\\tan^{-1}\\frac{1}{x}$",
+            "C": "$\\tan^{-1}x$",
+            "D": "$\\cot^{-1}x$"
+        },
+        "vikalpa": {
+            "A": "$-\\cot^{-1}x$",
+            "B": "$\\tan^{-1}\\frac{1}{x}$",
+            "C": "$\\tan^{-1}x$",
+            "D": "$\\cot^{-1}x$"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "question": "$\\begin{vmatrix} 10 & 2 \\ 35 & 7 \\end{vmatrix} = $",
+        "prashna": "$\\begin{vmatrix} 10 & 2 \\ 35 & 7 \\end{vmatrix} = $",
+        "options": {
+            "A": "140",
+            "B": "70",
+            "C": "35",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "140",
+            "B": "70",
+            "C": "35",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "question": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} + \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} = $",
+        "prashna": "$\\begin{bmatrix} 1 & 0 \\ 0 & 1 \\end{bmatrix} + \\begin{bmatrix} 0 & 1 \\ 1 & 0 \\end{bmatrix} = $",
+        "options": {
+            "A": "$\\begin{bmatrix} 2 & 0 \\ 0 & 2 \\end{bmatrix}$",
+            "B": "$\\begin{bmatrix} 0 & 2 \\ 2 & 0 \\end{bmatrix}$",
+            "C": "$\\begin{bmatrix} 2 & 2 \\ 2 & 2 \\end{bmatrix}$",
+            "D": "$\\begin{bmatrix} 1 & 1 \\ 1 & 1 \\end{bmatrix}$"
+        },
+        "vikalpa": {
+            "A": "$\\begin{bmatrix} 2 & 0 \\ 0 & 2 \\end{bmatrix}$",
+            "B": "$\\begin{bmatrix} 0 & 2 \\ 2 & 0 \\end{bmatrix}$",
+            "C": "$\\begin{bmatrix} 2 & 2 \\ 2 & 2 \\end{bmatrix}$",
+            "D": "$\\begin{bmatrix} 1 & 1 \\ 1 & 1 \\end{bmatrix}$"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "question": "$\\frac{d}{dx}(5^x) = $",
+        "prashna": "$\\frac{d}{dx}(5^x) = $",
+        "options": {
+            "A": "$5^x$",
+            "B": "$x5^{x-1}$",
+            "C": "$\\frac{5^x}{\\log 5}$",
+            "D": "$5^x\\cdot\\log_e 5$"
+        },
+        "vikalpa": {
+            "A": "$5^x$",
+            "B": "$x5^{x-1}$",
+            "C": "$\\frac{5^x}{\\log 5}$",
+            "D": "$5^x\\cdot\\log_e 5$"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "question": "$\\int_{a}^{b} \\phi(x)dx + \\int_{b}^{a} \\phi(x)dx = $",
+        "prashna": "$\\int_{a}^{b} \\phi(x)dx + \\int_{b}^{a} \\phi(x)dx = $",
+        "options": {
+            "A": "$2\\int_{a}^{b} \\phi(x)dx$",
+            "B": "$2\\int_{b}^{a} \\phi(x)dx$",
+            "C": "0",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "$2\\int_{a}^{b} \\phi(x)dx$",
+            "B": "$2\\int_{b}^{a} \\phi(x)dx$",
+            "C": "0",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "question": "If $\\vec{a} \\perp \\vec{b}$, then $\\vec{a} \\cdot \\vec{b} = $",
+        "prashna": "यदि $\\vec{a} \\perp \\vec{b}$, तो $\\vec{a} \\cdot \\vec{b} = $",
+        "options": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "question": "$\\vec{i} \\cdot (\\vec{j} \\times \\vec{k}) = $",
+        "prashna": "$\\vec{i} \\cdot (\\vec{j} \\times \\vec{k}) = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "2"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "2"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "question": "$\\int \\log x dx = $",
+        "prashna": "$\\int \\log x dx = $",
+        "options": {
+            "A": "$\\frac{1}{x} + k$",
+            "B": "$x\\log x + k$",
+            "C": "$x\\log x - x + k$",
+            "D": "$x\\log x + x + k$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{x} + k$",
+            "B": "$x\\log x + k$",
+            "C": "$x\\log x - x + k$",
+            "D": "$x\\log x + x + k$"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "question": "$\\vec{i}^2 = $",
+        "prashna": "$\\vec{i}^2 = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "$\\vec{i}^2$"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "$\\vec{i}^2$"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "question": "If a line makes angles $\\alpha, \\beta$ and $\\gamma$ with the positive directions of $x, y$ and $z$ axes respectively, then",
+        "prashna": "एक सरल रेखा $x, y$ और $z$-अक्ष के धन दिशा के साथ क्रमशः $\\alpha, \\beta$ और $\\gamma$ कोण बनाती है, तो",
+        "options": {
+            "A": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma + 1 = 0$",
+            "B": "$\\sin^2\\alpha + \\sin^2\\beta + \\sin^2\\gamma = 1$",
+            "C": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 2$",
+            "D": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$"
+        },
+        "vikalpa": {
+            "A": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma + 1 = 0$",
+            "B": "$\\sin^2\\alpha + \\sin^2\\beta + \\sin^2\\gamma = 1$",
+            "C": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 2$",
+            "D": "$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "question": "The angle between the straight lines $2x=3y=-z$ and $6x=-y=-4z$ is",
+        "prashna": "सरल रेखायें $2x=3y=-z$ और $6x=-y=-4z$ के बीच का कोण है",
+        "options": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "0",
+            "C": "$\\frac{\\pi}{6}$",
+            "D": "$\\frac{\\pi}{4}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\pi}{2}$",
+            "B": "0",
+            "C": "$\\frac{\\pi}{6}$",
+            "D": "$\\frac{\\pi}{4}$"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "question": "If A, B and C are three independent events then",
+        "prashna": "यदि A, B और C तीन स्वतंत्र घटनाएँ हों, तो",
+        "options": {
+            "A": "$P(ABC) = P(A) + P(B) + P(C)$",
+            "B": "$P(ABC) = P(A) - P(B) - P(C)$",
+            "C": "$P(ABC) = P(A).P(B).P(C)$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$P(ABC) = P(A) + P(B) + P(C)$",
+            "B": "$P(ABC) = P(A) - P(B) - P(C)$",
+            "C": "$P(ABC) = P(A).P(B).P(C)$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "question": "$P(A) + P(A') = $",
+        "prashna": "$P(A) + P(A') = $",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "P(S)"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "P(S)"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "question": "$1 - P(A' \\cap B') = $",
+        "prashna": "$1 - P(A' \\cap B') = $",
+        "options": {
+            "A": "$P(A \\cap B)$",
+            "B": "$P(A \\cup B)$",
+            "C": "P(A)",
+            "D": "P(B)"
+        },
+        "vikalpa": {
+            "A": "$P(A \\cap B)$",
+            "B": "$P(A \\cup B)$",
+            "C": "P(A)",
+            "D": "P(B)"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "question": "The maximum value of $Z = 3x + 4y$ subject to constraints $x + y \\le 4, x \\ge 0, y \\ge 0$ is",
+        "prashna": "$Z = 3x + 4y$ का अधिकतम मान है जहाँ कि व्यवरोध $x + y \\le 4, x \\ge 0, y \\ge 0$ है",
+        "options": {
+            "A": "0",
+            "B": "12",
+            "C": "16",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "12",
+            "C": "16",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Integrate $\\int \\cos^2 x dx$.",
+        "prashna": "समाकलन करें $\\int \\cos^2 x dx$."
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Find $\\frac{dy}{dx}$, when $y = \\sin(\\log x)$.",
+        "prashna": "$\\frac{dy}{dx}$ निकालें, जब $y = \\sin(\\log x)$."
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Solve: $xdy + ydx = xy \\, dy$.",
+        "prashna": "हल करें: $xdy + ydx = xy \\, dy$."
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Integrate $\\int \\sqrt{1-\\sin 2x} \\, dx$.",
+        "prashna": "समाकलन करें $\\int \\sqrt{1-\\sin 2x} \\, dx$."
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Find the value of $\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$.",
+        "prashna": "$\\int_{1}^{e} \\frac{\\cos(\\log x)}{x} dx$ का मान ज्ञात करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Prove that $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$.",
+        "prashna": "सिद्ध करें कि $\\int_{0}^{\\pi/2} \\log(\\tan x) dx = 0$."
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Find $\\frac{dy}{dx}$, when $y = \\sqrt{\\sin\\sqrt{x}}$.",
+        "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\sqrt{\\sin\\sqrt{x}}$."
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Find $\\frac{dy}{dx}$, when $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$.",
+        "prashna": "$\\frac{dy}{dx}$ निकालें जब $y = \\frac{\\sin^2 x}{\\sqrt{\\cos x}}$."
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Is the function $f:R \\rightarrow R$ onto function where $f(x) = 2x$? Give reasons.",
+        "prashna": "क्या फलन $f:R \\rightarrow R$ onto है जबकि $f(x) = 2x$? कारण दें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Prove that $\\sin^{-1}\\sqrt{\\frac{x}{x+a}} = \\tan^{-1}\\sqrt{\\frac{x}{a}}$.",
+        "prashna": "सिद्ध करें कि $\\sin^{-1}\\sqrt{\\frac{x}{x+a}} = \\tan^{-1}\\sqrt{\\frac{x}{a}}$."
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Prove that $\\tan(\\frac{1}{2}\\sin^{-1}\\frac{2x}{1+x^2} + \\frac{1}{2}\\cos^{-1}\\frac{1-x^2}{1+x^2}) = \\frac{2x}{1-x^2}$.",
+        "prashna": "सिद्ध करें कि $\\tan(\\frac{1}{2}\\sin^{-1}\\frac{2x}{1+x^2} + \\frac{1}{2}\\cos^{-1}\\frac{1-x^2}{1+x^2}) = \\frac{2x}{1-x^2}$."
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Evaluate $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$.",
+        "prashna": "मान निकालें $\\lim_{n \\to \\infty} \\sum_{r=1}^{n} \\frac{r^2}{n^3}$."
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Find the area between the x-axis and the curve $y = \\sin x$, from $x = 0$ to $x = \\pi$.",
+        "prashna": "x-अक्ष और वक्र $y = \\sin x$ के बीच $x = 0$ से $x = \\pi$ तक के क्षेत्र का क्षेत्रफल निकालें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Solve: $\\tan y dx + \\tan x dy = 0$.",
+        "prashna": "हल करें: $\\tan y dx + \\tan x dy = 0$."
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Solve: $y(1+xy)dx - xdy = 0$.",
+        "prashna": "हल करें: $y(1+xy)dx - xdy = 0$."
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Solve: $\\frac{dy}{dx} + 1 = e^{x+y}$.",
+        "prashna": "हल करें: $\\frac{dy}{dx} + 1 = e^{x+y}$."
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Prove that $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$.",
+        "prashna": "सिद्ध करें कि $(\\vec{a}+\\vec{b}) \\cdot (\\vec{a}-\\vec{b}) = a^2-b^2$."
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "If $A = \\begin{bmatrix} 1 & y \\ x^2 & y^2 \\end{bmatrix}$, then find $AA'\\!$.",
+        "prashna": "यदि $A = \\begin{bmatrix} 1 & y \\ x^2 & y^2 \\end{bmatrix}$, तो $AA'$ ज्ञात कीजिए।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Find the value of $x$ from the following: $\\begin{pmatrix} 2x-y & 5 \\ 3 & y \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\ 3 & -2 \\end{pmatrix}$.",
+        "prashna": "निम्न से $x$ का मान ज्ञात कीजिए: $\\begin{pmatrix} 2x-y & 5 \\ 3 & y \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\ 3 & -2 \\end{pmatrix}$."
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Evaluate the determinant $\\begin{vmatrix} 16 & 9 & 7 \\ 23 & 16 & 7 \\ 32 & 19 & 13 \\end{vmatrix}$.",
+        "prashna": "सारणिक $\\begin{vmatrix} 16 & 9 & 7 \\ 23 & 16 & 7 \\ 32 & 19 & 13 \\end{vmatrix}$ का मान ज्ञात करें।"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "A straight line makes angles of $45^\\circ$ and $60^\\circ$ with the positive direction of the x and y-axes respectively. What angle does it make with the positive direction of the z-axis?",
+        "prashna": "कोई सरल रेखा x और y-अक्षों की धनात्मक दिशा के साथ क्रमशः $45^\\circ$ और $60^\\circ$ का कोण बनाती है। यह z-अक्ष की धनात्मक दिशा के साथ कितना कोण बनाएगी ?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "Find the equation of the plane whose intercepts on the axes of x, y and z are respectively 3, 4 and -5.",
+        "prashna": "तल का समीकरण ज्ञात कीजिए जिसके x, y और z अक्षों पर अंतःखण्ड क्रमशः 3, 4 और -5 हैं।"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "If $P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2}$ and $P(A \\cap B) = \\frac{1}{4}$, then find $P(\\frac{A}{B})$ and $P(\\frac{B}{A})$.",
+        "prashna": "यदि $P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2}$ तथा $P(A \\cap B) = \\frac{1}{4}$, तो $P(\\frac{A}{B})$ तथा $P(\\frac{B}{A})$ निकालें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "If $\\tan^{-1}x + \\tan^{-1}y + \\tan^{-1}z = \\frac{\\pi}{2}$, then prove that $yz + zx + xy = 1$.",
+        "prashna": "यदि $\\tan^{-1}x + \\tan^{-1}y + \\tan^{-1}z = \\frac{\\pi}{2}$, तो सिद्ध करें कि $yz + zx + xy = 1$."
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Factorize $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$.",
+        "prashna": "गुणनखंड निकालें $\\begin{vmatrix} (b+c)^2 & a^2 & a^2 \\ b^2 & (c+a)^2 & b^2 \\ c^2 & c^2 & (a+b)^2 \\end{vmatrix}$."
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Prove that $(AB)^{-1} = B^{-1}A^{-1}$, where $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \\ 1 & 1 & 9 \\end{bmatrix}, B = \\begin{bmatrix} 2 & 5 & 3 \\ 3 & 1 & 2 \\ 1 & 2 & 1 \\end{bmatrix}$.",
+        "prashna": "सिद्ध कीजिए कि $(AB)^{-1} = B^{-1}A^{-1}$, जहाँ कि $A = \\begin{bmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \\ 1 & 1 & 9 \\end{bmatrix}, B = \\begin{bmatrix} 2 & 5 & 3 \\ 3 & 1 & 2 \\ 1 & 2 & 1 \\end{bmatrix}$."
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Find $\\frac{dy}{dx}$ when $x^y + y^x = 1$.",
+        "prashna": "$\\frac{dy}{dx}$ निकालें, जब $x^y + y^x = 1$."
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Integrate $\\int \\tan^4 x dx$.",
+        "prashna": "समाकलन करें $\\int \\tan^4 x dx$."
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Solve: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$.",
+        "prashna": "हल करें: $(x^2 - y^2)\\frac{dy}{dx} = 2xy$."
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "Find the image of the point $(3, 1, -4)$ with respect to the plane $3x + 4y - 5z = 2$.",
+        "prashna": "तल $3x + 4y - 5z = 2$ के सापेक्ष बिन्दु $(3, 1, -4)$ का प्रतिबिम्ब ज्ञात कीजिए।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "Maximize and minimize $Z = 5x + 10y$ subject to $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$.",
+        "prashna": "$Z = 5x + 10y$ का अधिकतमीकरण एवं न्यूनतमीकरण करें, जबकि $x + 2y \\le 120$, $x + y \\ge 60$, $x - 2y \\ge 0$, $x, y \\ge 0$."
+    }
+]
