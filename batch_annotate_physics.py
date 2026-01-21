@@ -90,6 +90,11 @@ def main():
     topics = PHYSICS_TOPICS
     model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
     for fpath in files:
+        out_path = out_folder / fpath.name
+        if out_path.exists():
+            print(f"⏭️  Skipping {fpath.name} (already annotated)")
+            continue
+            
         print(f"\nProcessing: {fpath.name}")
         with open(fpath, 'r', encoding='utf-8') as f:
             questions = json.load(f)
