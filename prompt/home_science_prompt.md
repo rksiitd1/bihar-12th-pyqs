@@ -32,7 +32,9 @@ Implement a standardized data processing pipeline for Bihar Board Class 12 Home 
 ---
 
 ### 🚀 Phase 3: Pipeline Execution
-Execute the workflow in the following sequence:
+> [!IMPORTANT]
+> The following commands **MUST** be executed sequentially. Each script depends on the output of the previous one. An agent should request user permission for the entire sequence at once before starting.
+
 ```powershell
 python batch_processing_home_science.py
 python batch_annotate_home_science.py

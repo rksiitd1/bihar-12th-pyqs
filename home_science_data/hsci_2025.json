@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which is the largest endocrine gland in the human body?",
+        "prashna": "मानव शरीर में सबसे बड़ी अंत: स्त्रावी ग्रंथि कौन सी है ?",
+        "options": {
+            "A": "Adrenal",
+            "B": "Thyroid",
+            "C": "Ovary",
+            "D": "Pancreas"
+        },
+        "vikalpa": {
+            "A": "अधिवृक्क",
+            "B": "थायराइड",
+            "C": "अंडाशय",
+            "D": "अग्न्याशय"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which of the following is a function of hormone?",
+        "prashna": "निम्न में से कौन हार्मोन का कार्य है ?",
+        "options": {
+            "A": "Growth",
+            "B": "Reproduction",
+            "C": "Repair",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "वृद्धि",
+            "B": "प्रजनन",
+            "C": "मरम्मत",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "How many ovaries are there in females?",
+        "prashna": "महिलाओं में कितने अंडाशय होते हैं ?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "तीन",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Where is the thyroid gland located in human body?",
+        "prashna": "मानव शरीर में थायरायड ग्रंथि कहाँ स्थित होती है ?",
+        "options": {
+            "A": "Brain",
+            "B": "Abdomen",
+            "C": "Neck",
+            "D": "Liver"
+        },
+        "vikalpa": {
+            "A": "मस्तिष्क में",
+            "B": "उदर में",
+            "C": "गर्दन में",
+            "D": "यकृत"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which hormone is secreted by the pituitary gland?",
+        "prashna": "निम्न में से कौन सा हार्मोन पीयूष ग्रंथि से स्रावित होता है ?",
+        "options": {
+            "A": "Thyroxin",
+            "B": "Growth hormone",
+            "C": "Estrogen",
+            "D": "Glycogen"
+        },
+        "vikalpa": {
+            "A": "थायराक्सिन",
+            "B": "वृद्धि हार्मोन",
+            "C": "एस्ट्रोजन",
+            "D": "ग्लाइकोजन"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following glands reduces the level of calcium in the blood?",
+        "prashna": "निम्न में से कौन सी ग्रंथि रक्त में कैल्शियम के स्तर को कम कर देती है ?",
+        "options": {
+            "A": "Adrenal gland",
+            "B": "Thyroid gland",
+            "C": "Parathyroid gland",
+            "D": "Pancreas"
+        },
+        "vikalpa": {
+            "A": "एड्रिनल ग्रंथि",
+            "B": "थायरायड ग्रंथि",
+            "C": "पैराथायरायड ग्रंथि",
+            "D": "अग्न्याशय"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which hormone causes milk secretion in women?",
+        "prashna": "महिलाओं के दूध का स्राव किस हार्मोन के कारण होता है ?",
+        "options": {
+            "A": "Prolactin",
+            "B": "Estrogen",
+            "C": "Calcitonin",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रोलैक्टिन",
+            "B": "एस्ट्रोजन",
+            "C": "कैल्सिटोनिन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "What is the normal gestation period for a woman?",
+        "prashna": "एक महिला के लिए सामान्य गर्भधारण अवधि क्या है ?",
+        "options": {
+            "A": "180 days",
+            "B": "280 days",
+            "C": "300 days",
+            "D": "380 days"
+        },
+        "vikalpa": {
+            "A": "180 दिन",
+            "B": "280 दिन",
+            "C": "300 दिन",
+            "D": "380 दिन"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The first milk secreted after delivery is called -",
+        "prashna": "प्रसव के बाद स्रावित होने वाला पहला दूध कहलाता है -",
+        "options": {
+            "A": "Mother's milk",
+            "B": "Enzyme",
+            "C": "Colostrum",
+            "D": "Hormone"
+        },
+        "vikalpa": {
+            "A": "माँ का दूध",
+            "B": "एन्जाइम",
+            "C": "कोलोस्ट्रम",
+            "D": "हार्मोन"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The most important stage of physical development is -",
+        "prashna": "शारीरिक विकास की सबसे महत्वपूर्ण अवस्था है -",
+        "options": {
+            "A": "Infancy",
+            "B": "Childhood",
+            "C": "Adolescence",
+            "D": "Adulthood"
+        },
+        "vikalpa": {
+            "A": "शैशवावस्था",
+            "B": "बाल्यावस्था",
+            "C": "किशोरावस्था",
+            "D": "प्रौढ़ावस्था"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Which of the following diseases is caused by sound pollution?",
+        "prashna": "निम्न में से कौन सी बीमारी ध्वनि प्रदूषण के कारण होती है ?",
+        "options": {
+            "A": "Diabetes",
+            "B": "High blood pressure",
+            "C": "Malaria",
+            "D": "Asthma"
+        },
+        "vikalpa": {
+            "A": "मधुमेह",
+            "B": "उच्च रक्तचाप",
+            "C": "मलेरिया",
+            "D": "अस्थमा"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "What influences the development of children?",
+        "prashna": "बच्चों के विकास को क्या प्रभावित करता है ?",
+        "options": {
+            "A": "Inheritance",
+            "B": "Environment",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वंशानुक्रम",
+            "B": "वातावरण",
+            "C": "(A) तथा (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "What is the number of chromosomes in humans?",
+        "prashna": "मनुष्य में गुणसूत्रों की संख्या कितनी होती है ?",
+        "options": {
+            "A": "20",
+            "B": "30",
+            "C": "46",
+            "D": "56"
+        },
+        "vikalpa": {
+            "A": "20",
+            "B": "30",
+            "C": "46",
+            "D": "56"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which gas is produced by burning objects?",
+        "prashna": "वस्तुओं को जलाने से कौन सी गैस उत्पन्न होती है ?",
+        "options": {
+            "A": "Nitrogen",
+            "B": "Ammonia",
+            "C": "Carbon Dioxide",
+            "D": "Oxygen"
+        },
+        "vikalpa": {
+            "A": "नाइट्रोजन",
+            "B": "अमोनिया",
+            "C": "कार्बन डाइऑक्साइड",
+            "D": "ऑक्सीजन"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Which of the following resources is common to all families?",
+        "prashna": "निम्नलिखित में से कौन सा संसाधन सभी परिवारों के लिए समान है ?",
+        "options": {
+            "A": "Money",
+            "B": "Power",
+            "C": "Interest",
+            "D": "Time"
+        },
+        "vikalpa": {
+            "A": "धन",
+            "B": "शक्ति",
+            "C": "रुचि",
+            "D": "समय"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "What is used for disinfection of water?",
+        "prashna": "जल के कीटाणुशोधन के लिए किसका प्रयोग करते हैं ?",
+        "options": {
+            "A": "Chlorine",
+            "B": "Phenyl",
+            "C": "Carbon dioxide",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "क्लोरीन",
+            "B": "फिनाइल",
+            "C": "कार्बन डाइऑक्साइड",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following is a natural fiber?",
+        "prashna": "निम्नलिखित में से कौन प्राकृतिक तंतु है ?",
+        "options": {
+            "A": "Silk",
+            "B": "Wool",
+            "C": "Cotton",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "रेशम",
+            "B": "ऊन",
+            "C": "सूत",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Agmark determines the quality and purity of which substances?",
+        "prashna": "एगमार्क किन पदार्थों की गुणवत्ता और शुद्धता तय करता है ?",
+        "options": {
+            "A": "Beverage",
+            "B": "Agricultural products",
+            "C": "Electronics materials",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "पेय पदार्थ",
+            "B": "कृषि पदार्थ",
+            "C": "इलेक्ट्रॉनिक पदार्थ",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "What is the main source of vitamin 'D'?",
+        "prashna": "विटामिन 'डी' का मुख्य स्रोत क्या है ?",
+        "options": {
+            "A": "Pulses",
+            "B": "Fruits",
+            "C": "Sunlight",
+            "D": "Green vegetable"
+        },
+        "vikalpa": {
+            "A": "दालें",
+            "B": "फल",
+            "C": "सूर्य का प्रकाश (धूप)",
+            "D": "हरी सब्जियाँ"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which of the following milk products cannot be easily adulterated?",
+        "prashna": "निम्नलिखित में से दूध के किस उत्पाद में आसानी से मिलावट नहीं की जा सकती ?",
+        "options": {
+            "A": "Curd",
+            "B": "Ghee",
+            "C": "Sweets",
+            "D": "Khoya"
+        },
+        "vikalpa": {
+            "A": "दही",
+            "B": "घी",
+            "C": "मिठाई",
+            "D": "खोआ"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Dietary fiber helps in -",
+        "prashna": "आहारीय फाइबर सहायता करता है -",
+        "options": {
+            "A": "Blood circulation",
+            "B": "Prevention of constipation",
+            "C": "Increase in immunity",
+            "D": "All the above"
+        },
+        "vikalpa": {
+            "A": "रक्त परिसंचरण में",
+            "B": "कब्ज की रोकथाम में",
+            "C": "प्रतिरक्षा वृद्धि में",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Which mineral is added to salt?",
+        "prashna": "नमक में कौन सा खनिज मिलाया जाता है ?",
+        "options": {
+            "A": "Iron",
+            "B": "Iodine",
+            "C": "Calcium",
+            "D": "Potassium"
+        },
+        "vikalpa": {
+            "A": "लौह",
+            "B": "आयोडीन",
+            "C": "कैल्शियम",
+            "D": "पोटेशियम"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which stain is most difficult to remove?",
+        "prashna": "निम्नलिखित में से किस धब्बा को छुड़ाना सबसे कठिन है ?",
+        "options": {
+            "A": "Animal stain",
+            "B": "Vegetable stain",
+            "C": "Unknown stain",
+            "D": "Grease stain"
+        },
+        "vikalpa": {
+            "A": "प्राणिज धब्बा",
+            "B": "वानस्पतिक धब्बा",
+            "C": "अज्ञात धब्बा",
+            "D": "चिकनाई के धब्बे"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "A poison called solanine is found in -",
+        "prashna": "सोलेनिन नामक विष पाया जाता है -",
+        "options": {
+            "A": "The green part of the potato",
+            "B": "Khesari dal",
+            "C": "Soyabeans",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आलू के हरे रंग में",
+            "B": "खेसारी दाल में",
+            "C": "सोयाबीन में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Which fiber is obtained from cocoon?",
+        "prashna": "कोकून से कौन सा रेशा प्राप्त होता है ?",
+        "options": {
+            "A": "Kapok",
+            "B": "Linen",
+            "C": "Silk",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "कापोक",
+            "B": "लिनेन",
+            "C": "रेशम",
+            "D": "ऊन"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "The sujini embroidery work belongs to which state?",
+        "prashna": "सुजनी कढ़ाई का काम किस राज्य से संबंधित है ?",
+        "options": {
+            "A": "Punjab",
+            "B": "Gujarat",
+            "C": "Bihar",
+            "D": "Odisha"
+        },
+        "vikalpa": {
+            "A": "पंजाब",
+            "B": "गुजरात",
+            "C": "बिहार",
+            "D": "ओडिशा"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which of these are mixed fabric?",
+        "prashna": "इनमें से कौन मिश्रित वस्त्र हैं ?",
+        "options": {
+            "A": "Terrycot",
+            "B": "Terry silk",
+            "C": "Cots wool",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "टेरीकॉट",
+            "B": "टेरीसिल्क",
+            "C": "कॉट्स्वूल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Proper utilization of family resources is called?",
+        "prashna": "पारिवारिक साधनों का समुचित उपयोग कहलाता है ?",
+        "options": {
+            "A": "Money management",
+            "B": "Time management",
+            "C": "Interior decoration",
+            "D": "Home management"
+        },
+        "vikalpa": {
+            "A": "धन प्रबंधन",
+            "B": "समय प्रबंधन",
+            "C": "आंतरिक सज्जा",
+            "D": "गृह प्रबंधन"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Which of the following is the most tiring task?",
+        "prashna": "निम्नलिखित में से कौन सा कार्य सबसे अधिक थका देने वाला है ?",
+        "options": {
+            "A": "Cooking",
+            "B": "Reading",
+            "C": "Talking",
+            "D": "Walking"
+        },
+        "vikalpa": {
+            "A": "खाना बनाना",
+            "B": "पढ़ना",
+            "C": "बात करना",
+            "D": "चलना"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Trypsin helps in digestion of -",
+        "prashna": "ट्रिप्सिन किसके पाचन में मदद करता है ?",
+        "options": {
+            "A": "Fat",
+            "B": "Protein",
+            "C": "Carbohydrate",
+            "D": "Vitamin"
+        },
+        "vikalpa": {
+            "A": "वसा",
+            "B": "प्रोटीन",
+            "C": "कार्बोहाइड्रेट",
+            "D": "विटामिन"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Which nutrient does not give energy?",
+        "prashna": "कौन सा पोषक तत्व ऊर्जा नहीं देता है ?",
+        "options": {
+            "A": "Carbohydrate",
+            "B": "Protein",
+            "C": "Fat",
+            "D": "Vitamin"
+        },
+        "vikalpa": {
+            "A": "कार्बोज",
+            "B": "प्रोटीन",
+            "C": "वसा",
+            "D": "विटामिन"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "In which clothes is starch applied?",
+        "prashna": "मांड (स्टार्च) किन कपड़ों में लगाया जाता है ?",
+        "options": {
+            "A": "Woolen",
+            "B": "Cotton",
+            "C": "Silk",
+            "D": "Terylene"
+        },
+        "vikalpa": {
+            "A": "ऊनी",
+            "B": "सूती",
+            "C": "सिल्क",
+            "D": "टेरीलीन"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Which of the following insects' damages clothes?",
+        "prashna": "निम्न में से कौन सा कीड़ा कपड़ों को नुकसान पहुँचाता है ?",
+        "options": {
+            "A": "Bedbug",
+            "B": "Cockroach",
+            "C": "Flies",
+            "D": "Silver fish"
+        },
+        "vikalpa": {
+            "A": "खटमल",
+            "B": "तिलचट्टा",
+            "C": "मक्खियाँ",
+            "D": "सिल्वर फिश"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following is the last stage of washing of cotton clothes?",
+        "prashna": "इनमें से कौन सूती कपड़ों के धुलाई का अंतिम चरण है ?",
+        "options": {
+            "A": "Starching",
+            "B": "Blueing",
+            "C": "Soaking",
+            "D": "Washing"
+        },
+        "vikalpa": {
+            "A": "कलफ लगाना",
+            "B": "नील लगाना",
+            "C": "भिगोना",
+            "D": "धोना"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Which of the following is an animal stain?",
+        "prashna": "इनमें से कौन प्राणिज्य धब्बा है ?",
+        "options": {
+            "A": "Milk",
+            "B": "Flower",
+            "C": "Leaf",
+            "D": "Vegetable"
+        },
+        "vikalpa": {
+            "A": "दूध",
+            "B": "फूल",
+            "C": "पत्ती",
+            "D": "सब्जी"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Vinegar is -",
+        "prashna": "सिरका है -",
+        "options": {
+            "A": "Acidic substance",
+            "B": "Alkaline substance",
+            "C": "Grease absorbent",
+            "D": "Grease solvent"
+        },
+        "vikalpa": {
+            "A": "क्षारीय पदार्थ",
+            "B": "अम्लीय पदार्थ",
+            "C": "चिकनाई अवशोषक",
+            "D": "चिकनाई विलायक"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which of these are used to keep insects away from clothes?",
+        "prashna": "कीड़ों को वस्त्रों से दूर रखने के लिए प्रयोग किया जाता है -",
+        "options": {
+            "A": "Dry neem leaves",
+            "B": "Newspaper ink",
+            "C": "Naphthalene balls",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "सूखी नीम की पत्तियाँ",
+            "B": "समाचार पत्र की स्याही",
+            "C": "नेफथलीन की गोली",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "What is the simplest stitch?",
+        "prashna": "सबसे सरल सिलाई क्या है ?",
+        "options": {
+            "A": "Running stitch",
+            "B": "Chain stitch",
+            "C": "Back stitch",
+            "D": "Cross stitch"
+        },
+        "vikalpa": {
+            "A": "रनिंग स्टिच",
+            "B": "चेन स्टिच",
+            "C": "बैक स्टिच",
+            "D": "क्रॉस स्टिच"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Meal planning helps in saving of which of these?",
+        "prashna": "आहार आयोजन इनमें से किसकी बचत करने में मदद करती है ?",
+        "options": {
+            "A": "Time",
+            "B": "Energy",
+            "C": "Fuel",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "समय",
+            "B": "ऊर्जा",
+            "C": "ईंधन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Milk is a good source of which of the following?",
+        "prashna": "दूध निम्न में से किसका अच्छा स्रोत है ?",
+        "options": {
+            "A": "Vitamin C",
+            "B": "Vitamin K",
+            "C": "Calcium",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "विटामिन सी",
+            "B": "विटामिन के",
+            "C": "कैल्शियम",
+            "D": "आयरन"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which is known as emergency hormone?",
+        "prashna": "किसे आपातकालीन हार्मोन के नाम से जाना जाता है ?",
+        "options": {
+            "A": "Estrogen",
+            "B": "Adrenaline",
+            "C": "Serotonin",
+            "D": "Prolactin"
+        },
+        "vikalpa": {
+            "A": "ऐस्ट्रोजेन",
+            "B": "एड्रेनालाईन",
+            "C": "सेरोटोनिन",
+            "D": "प्रोलैक्टिन"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "How many fallopian tubes does a woman have?",
+        "prashna": "एक महिला में कितनी अंडवाहिनी (फैलोपियन ट्यूब) होती है ?",
+        "options": {
+            "A": "Two",
+            "B": "Four",
+            "C": "Five",
+            "D": "One"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "चार",
+            "C": "पाँच",
+            "D": "एक"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which of the following organ system is different in men and women?",
+        "prashna": "निम्नलिखित में से कौन सी अंग प्रणाली पुरुषों और महिलाओं में भिन्न होती है ?",
+        "options": {
+            "A": "Respiratory system",
+            "B": "Reproductive system",
+            "C": "Digestive system",
+            "D": "Excretory system"
+        },
+        "vikalpa": {
+            "A": "श्वसन तंत्र",
+            "B": "प्रजनन तंत्र",
+            "C": "पाचन तंत्र",
+            "D": "उत्सर्जन तंत्र"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "The development of fetus is completed at the end of which month?",
+        "prashna": "भ्रूण का विकास किस महीने के अंत में पूरा हो जाता है ?",
+        "options": {
+            "A": "Fourth",
+            "B": "Sixth",
+            "C": "Seventh",
+            "D": "Ninth"
+        },
+        "vikalpa": {
+            "A": "चौथे",
+            "B": "छठे",
+            "C": "सातवें",
+            "D": "नौवें"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "When is World Environment Day celebrated?",
+        "prashna": "विश्व पर्यावरण दिवस कब मनाया जाता है ?",
+        "options": {
+            "A": "8th June",
+            "B": "10th June",
+            "C": "5th June",
+            "D": "6th June"
+        },
+        "vikalpa": {
+            "A": "8 जून",
+            "B": "10 जून",
+            "C": "5 जून",
+            "D": "6 जून"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "What is the unit of measurement of sound intensity?",
+        "prashna": "ध्वनि की तीव्रता मापने की इकाई क्या होती है ?",
+        "options": {
+            "A": "Kilometer",
+            "B": "Decibel",
+            "C": "Liter",
+            "D": "Minute"
+        },
+        "vikalpa": {
+            "A": "किलोमीटर",
+            "B": "डेसीबल",
+            "C": "लीटर",
+            "D": "मिनट"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Which of the following is the cause of drought disaster?",
+        "prashna": "निम्नलिखित में से कौन सूखा आपदा का कारण है ?",
+        "options": {
+            "A": "Forest destruction",
+            "B": "Exploition of underground water",
+            "C": "Change in river routes",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "वन विनाश",
+            "B": "भूमिगत जल का दोहन",
+            "C": "नदी मार्गों में परिवर्तन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Air pollution can be reduced by -",
+        "prashna": "वायु प्रदूषण को कम किया जा सकता है -",
+        "options": {
+            "A": "Using public transport",
+            "B": "Planting more trees",
+            "C": "Avoiding plastic bags",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "सार्वजनिक परिवहन का उपयोग करके",
+            "B": "अधिक पेड़ लगाकर",
+            "C": "प्लास्टिक की थैलियों से परहेज करके",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "What is the full from of SBM?",
+        "prashna": "एसबीएम का पूर्ण रूप क्या है ?",
+        "options": {
+            "A": "Swachh Bharat Mission",
+            "B": "Sampurn Bharat Mission",
+            "C": "Successful Bharat Mission",
+            "D": "Sashakt Bharat Mission"
+        },
+        "vikalpa": {
+            "A": "स्वच्छ भारत मिशन",
+            "B": "सम्पूर्ण भारत मिशन",
+            "C": "सफल भारत मिशन",
+            "D": "सशक्त भारत मिशन"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "Which diet is necessary for every person?",
+        "prashna": "प्रत्येक व्यक्ति के लिए कौन सा आहार आवश्यक होता है ?",
+        "options": {
+            "A": "Protein rich diet",
+            "B": "Fat rich diet",
+            "C": "Balanced diet",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रोटीन युक्त आहार",
+            "B": "वसा युक्त आहार",
+            "C": "संतुलित आहार",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Excessive consumption of Khesri dal causes -",
+        "prashna": "खेसारी दाल के अधिक सेवन से होता है -",
+        "options": {
+            "A": "Respiratory disease",
+            "B": "Heart disease",
+            "C": "Lathyrism",
+            "D": "Diarrhea"
+        },
+        "vikalpa": {
+            "A": "श्वसन रोग",
+            "B": "हृदय रोग",
+            "C": "लेथाइरिज्म",
+            "D": "दस्त"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Which of the following causes food spoilage?",
+        "prashna": "निम्न में से कौन, भोजन खराब होने का कारण होता है ?",
+        "options": {
+            "A": "Microorganism",
+            "B": "Air",
+            "C": "Temperature",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "सूक्ष्म जीव",
+            "B": "हवा",
+            "C": "तापमान",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "What is the method of preserving food items by drying called?",
+        "prashna": "सुखाकर खाद्य पदार्थ को संरक्षित करने की विधि को क्या कहते हैं ?",
+        "options": {
+            "A": "Fermentation",
+            "B": "Refrigeration",
+            "C": "Dehydration",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "खमीरीकरण",
+            "B": "प्रशीतन",
+            "C": "निर्जलीकरण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Hands should be washed before and after touching food with -",
+        "prashna": "भोजन को छूने से पूर्व और पश्चात् हाथ धोने चाहिए-",
+        "options": {
+            "A": "Soil",
+            "B": "Soap",
+            "C": "Only water",
+            "D": "Any one of these"
+        },
+        "vikalpa": {
+            "A": "मिट्टी से",
+            "B": "साबुन से",
+            "C": "केवल पानी से",
+            "D": "इनमें से कोई भी"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Which of the following can help in prevention of food adulteration?",
+        "prashna": "निम्नलिखित में से कौन आहारीय मिलावट की रोकथाम में मदद कर सकता है ?",
+        "options": {
+            "A": "Common man",
+            "B": "Food Inspector",
+            "C": "Food Adulteration Prevention Act",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "आम आदमी",
+            "B": "खाद्य निरीक्षक",
+            "C": "खाद्य अपमिश्रण निवारण अधिनियम",
+            "D": "इनमे से सभी"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "What should be recorded during pregnancy?",
+        "prashna": "गर्भावस्था के दौरान क्या रिकार्ड किया जाना चाहिए ?",
+        "options": {
+            "A": "Pulse rate",
+            "B": "Blood pressure",
+            "C": "Breathing rate",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "नाड़ी की गति",
+            "B": "रक्तचाप",
+            "C": "श्वास गति",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "A baby's cry immediately after birth is a significant indicator of which of these?",
+        "prashna": "जन्म के तुरंत बाद बच्चे का रोना इनमें से किसका महत्वपूर्ण सूचक है ?",
+        "options": {
+            "A": "Of being unwell",
+            "B": "To be healthy",
+            "C": "To be indifferent",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अस्वस्थ होने का",
+            "B": "स्वस्थ होने का",
+            "C": "उदासीन होने का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Which of these are the benefits of hospital delivery?",
+        "prashna": "इनमें से अस्पताल में प्रसव कराने का क्या लाभ है ?",
+        "options": {
+            "A": "Delivery under specialized doctor",
+            "B": "Continued support after delivery",
+            "C": "Emergency care",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "विशेष चिकित्सक की देखरेख में प्रसव",
+            "B": "प्रसव के बाद निरंतर सहायता",
+            "C": "आपातकालीन देखभाल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Resources are -",
+        "prashna": "साधन होते हैं -",
+        "options": {
+            "A": "Public",
+            "B": "Unlimited",
+            "C": "Limited",
+            "D": "Useless"
+        },
+        "vikalpa": {
+            "A": "सार्वजनिक",
+            "B": "असीमित",
+            "C": "सीमित",
+            "D": "अनुपयोगी"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "How many types of designs are used in home decoration?",
+        "prashna": "गृह सज्जा में प्रयोग होने वाले डिजाइन कितने प्रकार के होते हैं ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "The principle of home decoration is -",
+        "prashna": "गृह सज्जा का सिद्धान्त है -",
+        "options": {
+            "A": "Functionality",
+            "B": "Beauty",
+            "C": "Expressiveness",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "कार्यात्मकता",
+            "B": "सौन्दर्य",
+            "C": "अभिव्यंजकता",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Art is a beautiful medium of which expression?",
+        "prashna": "'कला' किस अभिव्यक्ति का सुन्दर माध्यम है ?",
+        "options": {
+            "A": "Money",
+            "B": "Power",
+            "C": "Human emotions",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "पैसा",
+            "B": "सामर्थ्य",
+            "C": "मनुष्य की भावनाओं",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Which of the following is a cool colour?",
+        "prashna": "निम्नलिखित में से कौन ठण्डा रंग है ?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Purple",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "नीला",
+            "B": "हरा",
+            "C": "बैंगनी",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Which of the following is the benefit of Life Insurance Corporation?",
+        "prashna": "निम्न में से कौन जीवन बीमा निगम का लाभ है ?",
+        "options": {
+            "A": "Risk coverage",
+            "B": "Exemption from income tax",
+            "C": "Loan facility",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "जोखिम कवरेज",
+            "B": "आयकर से छूट",
+            "C": "ऋण सुविधा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Which of the following is not a work ethics?",
+        "prashna": "निम्नलिखित में से कौन सा कार्य नैतिकता नहीं है ?",
+        "options": {
+            "A": "Cooperation",
+            "B": "Discipline",
+            "C": "Productivity",
+            "D": "Competition"
+        },
+        "vikalpa": {
+            "A": "सहयोग",
+            "B": "अनुशासन",
+            "C": "उत्पादकता",
+            "D": "प्रतिस्पर्द्धा"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "Woolen clothes are made from which fibers?",
+        "prashna": "ऊनी कपड़े किस रेशे से बनते हैं ?",
+        "options": {
+            "A": "Cotton",
+            "B": "Animals hair",
+            "C": "Fiber obtained from cocoon",
+            "D": "Fiber obtained from stem"
+        },
+        "vikalpa": {
+            "A": "कपास से",
+            "B": "पशुओं के बाल से",
+            "C": "कोकून से प्राप्त रेशे से",
+            "D": "तने से प्राप्त रेशे से"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Which of these is the mark of quality in readymade garments?",
+        "prashna": "इनमें से रेडीमेड वस्त्रों में गुणवत्ता का चिन्ह कौन सा है ?",
+        "options": {
+            "A": "Stitching",
+            "B": "Fastners",
+            "C": "Linings",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "सिलाई",
+            "B": "बन्धक",
+            "C": "अस्तर",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "By which of the following adulteration in turmeric can be checked?",
+        "prashna": "निम्न में से किसके द्वारा हल्दी में मिलावट की जांच की जा सकती है ?",
+        "options": {
+            "A": "Hydrochloric acid",
+            "B": "Iodine",
+            "C": "Nitric acid",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "हाइड्रोक्लोरिक अम्ल",
+            "B": "आयोडीन",
+            "C": "नाइट्रिक अम्ल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Which vitamin helps in blood clotting?",
+        "prashna": "रक्त के थक्के जमने में कौन सा विटामिन सहायक होता है ?",
+        "options": {
+            "A": "Vitamin 'C'",
+            "B": "Vitamin 'A'",
+            "C": "Vitamin 'K'",
+            "D": "Vitamin 'D'"
+        },
+        "vikalpa": {
+            "A": "विटामिन 'सी'",
+            "B": "विटामिन 'ए'",
+            "C": "विटामिन 'के'",
+            "D": "विटामिन 'डी'"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "A person's daily calorie requirement depends on -",
+        "prashna": "एक व्यक्ति की दैनिक कैलोरी की आवश्यकताएँ किस पर निर्भर करती हैं ?",
+        "options": {
+            "A": "Weight",
+            "B": "Activity level",
+            "C": "Age",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "वनज",
+            "B": "गतिविधि स्तर",
+            "C": "आयु",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Write a short note on: Thyroid Gland",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : थायराइड ग्रन्थि"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Write a short note on: Hormones",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : हार्मोन्स"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write a short note on: Air pollution",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : वायु प्रदूषण"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Write a short note on: Hard water",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : कठोर जल"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Write a short note on: Food preservation",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : खाद्य संरक्षण"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Write a short note on: Natural fiber",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : प्राकृतिक तंतु"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Write a short note on: Meal planning",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : आहार आयोजन"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write a short note on: Readymade garments",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : सिले-सिलाये (रेडीमेड) वस्त्र"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write a short note on: DPT",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : डी० पी० टी०"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write a short note on: Infertility",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : बन्ध्यता"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Write a short note on: Human resources",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : मानवीय साधन"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Write a short note on: Home decoration",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : गृह सज्जा"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Write a short note on: Elements of art",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : कला के तत्व"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Write a short note on: Color scheme",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : रंग योजना"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Write a short note on: Life insurance corporation of India",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : भारतीय जीवन बीमा निगम"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Write a short note on: Occasional dresses",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : अवसरोंचित परिधान"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Write a short note on: Soap",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : साबुन"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Write a short note on: Washing machine",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : वाशिंग मशीन"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Write a short note on: Types of cheque",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : चेक के प्रकार"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Write a short note on: Endocrine glands",
+        "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : अंत: स्रावी ग्रंथियां"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "What is water pollution? Explain its causes and prevention.",
+        "prashna": "जल प्रदूषण क्या है ? इसके कारण तथा रोकथाम के उपायों का विवरण दीजिये ।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "What is the function of female reproductive system?",
+        "prashna": "मादा प्रजनन प्रणाली के कार्यों की व्याख्या करें ।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Describe the classification of family resources.",
+        "prashna": "पारिवारिक साधनों का वर्गीकरण प्रस्तुत कीजिए ।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "What things should be kept in mind while storing winter clothes?",
+        "prashna": "सर्दियों के कपड़ों का संग्रहण करते समय किन बातों का ध्यान रखना चाहिए ?"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Write about any one needle craft of Bihar.",
+        "prashna": "बिहार के किसी एक सुई शिल्प (कढ़ाई कला) के विषय में लिखें ।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "What rules should be followed while cooking, serving and eating food?",
+        "prashna": "भोजन बनाते, परोसते और खाते समय किन नियमों का पालन करना चाहिए ?"
+    }
+]
