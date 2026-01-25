@@ -1,0 +1,82 @@
+{
+  "2022": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Environment and Natural Resources",
+      "question": "Stockholm Conference is related to",
+      "prashna": "स्टॉकहोम सम्मेलन सम्बन्धित है",
+      "options": {
+        "A": "Environment",
+        "B": "Women's Rights",
+        "C": "Human Rights",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पर्यावरण से",
+        "B": "महिला अधिकारों से",
+        "C": "मानवाधिकारों से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Environment and Natural Resources",
+      "question": "Stockholm Conference was related to?",
+      "prashna": "स्टॉकहोम सम्मेलन किससे सम्बन्धित थे ?",
+      "options": {
+        "A": "Environment",
+        "B": "Education",
+        "C": "Women's Rights",
+        "D": "Child Rights"
+      },
+      "vikalpa": {
+        "A": "पर्यावरण से",
+        "B": "शिक्षा से",
+        "C": "महिला अधिकार से",
+        "D": "बाल अधिकार से"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "Environment and Natural Resources",
+      "question": "Which Earth Summit brought environment to the center of world politics?",
+      "prashna": "किस पृथ्वी सम्मेलन ने पर्यावरण को विश्व राजनीति के केन्द्र में ला दिया ?",
+      "options": {
+        "A": "$1992$",
+        "B": "$1997$",
+        "C": "$2005$",
+        "D": "$2001$"
+      },
+      "vikalpa": {
+        "A": "$1992$",
+        "B": "$1997$",
+        "C": "$2005$",
+        "D": "$2001$"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Environment and Natural Resources",
+      "question": "In which city was the Earth Summit held in 1992?",
+      "prashna": "1992 में किस शहर में पृथ्वी सम्मेलन हुआ था ?",
+      "options": {
+        "A": "Kyoto",
+        "B": "Rio de Janeiro",
+        "C": "London",
+        "D": "New York"
+      },
+      "vikalpa": {
+        "A": "क्योटो",
+        "B": "रियो डि जेनेरियो",
+        "C": "लन्दन",
+        "D": "न्यूयार्क"
+      }
+    }
+  ]
+}

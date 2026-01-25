@@ -1,0 +1,506 @@
+{
+  "2021": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "In which country was the first summit of SAARC held?",
+      "prashna": "दक्षेस का पहला सम्मेलन किस देश में हुआ ?",
+      "options": {
+        "A": "India",
+        "B": "Bangladesh",
+        "C": "Pakistan",
+        "D": "Sri Lanka"
+      },
+      "vikalpa": {
+        "A": "भारत",
+        "B": "बांग्लादेश",
+        "C": "पाकिस्तान",
+        "D": "श्रीलंका"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Where was the first summit of SAARC held?",
+      "prashna": "दक्षेस का पहला शिखर सम्मेलन कहाँ हुआ था ?",
+      "options": {
+        "A": "Dhaka",
+        "B": "New Delhi",
+        "C": "Colombo",
+        "D": "Kathmandu"
+      },
+      "vikalpa": {
+        "A": "ढाका",
+        "B": "नई दिल्ली",
+        "C": "कोलम्बो",
+        "D": "काठमांडू"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "What is the main issue between India and Bangladesh?",
+      "prashna": "भारत और बांग्लादेश के बीच मुख्य मुद्दा क्या है ?",
+      "options": {
+        "A": "Water dispute",
+        "B": "Border dispute",
+        "C": "Terrorism",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जल विवाद",
+        "B": "सीमा विवाद",
+        "C": "आतंकवाद",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "What was the issue of dispute in the $1948$ war between India and Pakistan?",
+      "prashna": "भारत-पाकिस्तान के बीच $1948$ के युद्ध में विवाद का मुद्दा क्या था ?",
+      "options": {
+        "A": "Terrorism",
+        "B": "Border dispute",
+        "C": "Kashmir",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "आतंकवाद",
+        "B": "सीमा विवाद",
+        "C": "कश्मीर",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "When did India get directly involved in the ethnic conflict of Sri Lanka?",
+      "prashna": "श्रीलंका के जातीय संघर्ष में भारत सीधे-सीधे कब शामिल हुआ ?",
+      "options": {
+        "A": "In $1987$",
+        "B": "In $1988$",
+        "C": "In $1989$",
+        "D": "In $1999$"
+      },
+      "vikalpa": {
+        "A": "$1987$ में",
+        "B": "$1988$ में",
+        "C": "$1989$ में",
+        "D": "$1999$ में"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "When was SAARC established?",
+      "prashna": "दक्षेस (सार्क) की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "In $1985$",
+        "B": "In $1986$",
+        "C": "In $1987$",
+        "D": "In $1988$"
+      },
+      "vikalpa": {
+        "A": "$1985$ में",
+        "B": "$1986$ में",
+        "C": "$1987$ में",
+        "D": "$1988$ में"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Which is the eighth member country of SAARC?",
+      "prashna": "सार्क का आठवां सदस्य देश कौन है ?",
+      "options": {
+        "A": "Nepal",
+        "B": "Afghanistan",
+        "C": "Philippines",
+        "D": "Bhutan"
+      },
+      "vikalpa": {
+        "A": "नेपाल",
+        "B": "अफगानिस्तान",
+        "C": "फिलीपींस",
+        "D": "भूटान"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Where is the headquarters of SAARC located?",
+      "prashna": "सार्क का मुख्यालय कहाँ अवस्थित है ?",
+      "options": {
+        "A": "Dhaka",
+        "B": "Colombo",
+        "C": "Kathmandu",
+        "D": "New Delhi"
+      },
+      "vikalpa": {
+        "A": "ढाका",
+        "B": "कोलंबो",
+        "C": "काठमांडू",
+        "D": "नई दिल्ली"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Which is the largest country in South Asia?",
+      "prashna": "दक्षिण एशिया का सबसे बड़ा देश कौन है ?",
+      "options": {
+        "A": "Afghanistan",
+        "B": "Pakistan",
+        "C": "India",
+        "D": "Bangladesh"
+      },
+      "vikalpa": {
+        "A": "अफगानिस्तान",
+        "B": "पाकिस्तान",
+        "C": "भारत",
+        "D": "बांग्लादेश"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "When was the demand for a democratic system in Nepal accepted?",
+      "prashna": "नेपाल में लोकतांत्रिक व्यवस्था की माँग को कब स्वीकार किया गया था ?",
+      "options": {
+        "A": "$1991$",
+        "B": "$1990$",
+        "C": "$1992$",
+        "D": "$1995$"
+      },
+      "vikalpa": {
+        "A": "$1991$",
+        "B": "$1990$",
+        "C": "$1992$",
+        "D": "$1995$"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Which of the following is a landlocked country?",
+      "prashna": "निम्न में से कौन भूमिबद्ध देश है ?",
+      "options": {
+        "A": "Maldives",
+        "B": "Nepal",
+        "C": "Pakistan",
+        "D": "Bangladesh"
+      },
+      "vikalpa": {
+        "A": "मालदीव",
+        "B": "नेपाल",
+        "C": "पाकिस्तान",
+        "D": "बांग्लादेश"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Nepal was a constitutional monarchy until",
+      "prashna": "नेपाल संवैधानिक राजतंत्र था",
+      "options": {
+        "A": "2003",
+        "B": "2004",
+        "C": "2005",
+        "D": "2006"
+      },
+      "vikalpa": {
+        "A": "2003 तक",
+        "B": "2004 तक",
+        "C": "2005 तक",
+        "D": "2006 तक"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "The Indus river flows through which state of India?",
+      "prashna": "सिंधु नदी भारत के किस राज्य से गुजरती है ?",
+      "options": {
+        "A": "West Bengal",
+        "B": "Kashmir",
+        "C": "Punjab",
+        "D": "Assam"
+      },
+      "vikalpa": {
+        "A": "पश्चिम बंगाल",
+        "B": "कश्मीर",
+        "C": "पंजाब",
+        "D": "असम"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "SAARC is related to",
+      "prashna": "सक्षेस का सम्बन्ध है",
+      "options": {
+        "A": "South Asia",
+        "B": "West Asia",
+        "C": "East Asia",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "दक्षिण एशिया से",
+        "B": "पश्चिम एशिया से",
+        "C": "पूर्वी एशिया से",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Which of the following is not a neighboring country of India?",
+      "prashna": "निम्न में से कौन भारत का पड़ोसी देश नहीं है ?",
+      "options": {
+        "A": "Nepal",
+        "B": "Pakistan",
+        "C": "Sikkim",
+        "D": "Bhutan"
+      },
+      "vikalpa": {
+        "A": "नेपाल",
+        "B": "पाकिस्तान",
+        "C": "सिक्किम",
+        "D": "भूटान"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "When did Bangladesh come into existence?",
+      "prashna": "बांग्लादेश अस्तित्व में कब आया ?",
+      "options": {
+        "A": "1947",
+        "B": "1948",
+        "C": "1965",
+        "D": "1971"
+      },
+      "vikalpa": {
+        "A": "1947",
+        "B": "1948",
+        "C": "1965",
+        "D": "1971"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Who led the successful struggle against West Pakistan?",
+      "prashna": "पश्चिमी पाकिस्तान के विरुद्ध सफल संघर्ष का नेतृत्व किसने किया था ?",
+      "options": {
+        "A": "General Yahya Khan",
+        "B": "General Zia-ul-Haq",
+        "C": "Sheikh Mujibur Rahman",
+        "D": "General Bajwa"
+      },
+      "vikalpa": {
+        "A": "जनरल याहया खान",
+        "B": "जनरल जिया-उल-हक",
+        "C": "शेख मुजीबुर रहमान",
+        "D": "जनरल बाजवा"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "To which neighboring country did India send the Indian Peace Keeping Force?",
+      "prashna": "भारत में किस पड़ोसी देश में भारतीय शांति सेना भेजा था ?",
+      "options": {
+        "A": "Pakistan",
+        "B": "Nepal",
+        "C": "Bangladesh",
+        "D": "Sri Lanka"
+      },
+      "vikalpa": {
+        "A": "पाकिस्तान",
+        "B": "नेपाल",
+        "C": "बांग्लादेश",
+        "D": "श्रीलंका"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Between which countries was the Farakka River Water Treaty signed?",
+      "prashna": "फरक्का नदी जल समझौता किन देशों के बीच हुआ है ?",
+      "options": {
+        "A": "Nepal and Bhutan",
+        "B": "India and Nepal",
+        "C": "India and Pakistan",
+        "D": "India and Bangladesh"
+      },
+      "vikalpa": {
+        "A": "नेपाल और भूटान",
+        "B": "भारत और नेपाल",
+        "C": "भारत और पाकिस्तान",
+        "D": "भारत और बांग्लादेश"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "When was SAFTA formed ?",
+      "prashna": "साफ्टा की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "2003",
+        "B": "2006",
+        "C": "2008",
+        "D": "2009"
+      },
+      "vikalpa": {
+        "A": "2003",
+        "B": "2006",
+        "C": "2008",
+        "D": "2009"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Who proposed the idea of establishing SAARC ?",
+      "prashna": "दक्षेस की स्थापना का विचार किसने प्रस्तावित किया था ?",
+      "options": {
+        "A": "Indira Gandhi",
+        "B": "General Zia ul Haq",
+        "C": "General Ziaur Rahman",
+        "D": "General Ershad"
+      },
+      "vikalpa": {
+        "A": "इंदिरा गाँधी",
+        "B": "जनरल जियाउल हक",
+        "C": "जनरल जिया उर्रहमान",
+        "D": "जनरल इर्शाद"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Where was the first summit of SAARC held ?",
+      "prashna": "सार्क का प्रथम शिखर सम्मेलन कहाँ हुआ था ?",
+      "options": {
+        "A": "Kathmandu",
+        "B": "New Delhi",
+        "C": "Dhaka",
+        "D": "Thimphu"
+      },
+      "vikalpa": {
+        "A": "काठमांडू",
+        "B": "नई दिल्ली",
+        "C": "ढाका",
+        "D": "थिम्पू"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Which of the following countries is not a member of SAARC ?",
+      "prashna": "निम्न में से कौन सा देश दक्षेस का सदस्य नहीं है ?",
+      "options": {
+        "A": "Bhutan",
+        "B": "Sri Lanka",
+        "C": "Nepal",
+        "D": "Myanmar"
+      },
+      "vikalpa": {
+        "A": "भूटान",
+        "B": "श्रीलंका",
+        "C": "नेपाल",
+        "D": "म्यांमार"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Which of following member countries has been made the last member of the SAARC ?",
+      "prashna": "निम्न में से कौन-सा सदस्य देश को सार्क का अंतिम सदस्य बनाया गया है ?",
+      "options": {
+        "A": "Maldives",
+        "B": "Pakistan",
+        "C": "Bhutan",
+        "D": "Afghanistan"
+      },
+      "vikalpa": {
+        "A": "मालदीव",
+        "B": "पाकिस्तान",
+        "C": "भूटान",
+        "D": "अफगानिस्तान"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "What is the tenure of the Secretary General of SAARC ?",
+      "prashna": "दक्षेस के महासचिव का कार्यकाल क्या होता है ?",
+      "options": {
+        "A": "2 years",
+        "B": "3 years",
+        "C": "4 years",
+        "D": "1 year"
+      },
+      "vikalpa": {
+        "A": "2 वर्ष",
+        "B": "3 वर्ष",
+        "C": "4 वर्ष",
+        "D": "1 वर्ष"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Contemporary South Asia",
+      "question": "Where is the head quarter of SAARC situated?",
+      "prashna": "सार्क का मुख्यालय कहाँ है?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Dhaka",
+        "C": "Kathmandu",
+        "D": "Thimpu"
+      },
+      "vikalpa": {
+        "A": "नई दिल्ली",
+        "B": "<kdk",
+        "C": "काठमांडू",
+        "D": "थिंपू"
+      }
+    }
+  ]
+}

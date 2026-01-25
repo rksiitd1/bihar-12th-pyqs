@@ -35,6 +35,7 @@ python batch_annotate_mathematics.py  # For Mathematics
 python batch_annotate_geography.py    # For Geography
 python batch_annotate_history.py      # For History
 python batch_annotate_home_science.py # For Home Science
+python batch_annotate_political_science.py # For Political Science
 
 # 5. Merge all years into one file
 python merge_biology.py
@@ -44,6 +45,7 @@ python merge_mathematics.py
 python merge_geography.py
 python merge_history.py
 python merge_home_science.py
+python merge_political_science.py
 
 # 6. Split by chapter or type
 python split_biology_by_chapter.py
@@ -51,6 +53,9 @@ python split_biology_by_type.py
 python split_home_science_by_chapter.py
 python split_home_science_by_type.py
 python split_home_science_types_by_chapters.py
+python split_political_science_by_chapter.py
+python split_political_science_by_type.py
+python split_political_science_types_by_chapters.py
 ```
 
 ---
@@ -82,6 +87,7 @@ python split_home_science_types_by_chapters.py
 | `batch_processing_geography.py` | `geography_papers/*.pdf` | `geography_data/*.json` | Batch PDF extraction for geography |
 | `batch_processing_history.py` | `history_papers/*.pdf` | `history_data/*.json` | Batch PDF extraction for history |
 | `batch_processing_home_science.py` | `home_science_papers/*.pdf` | `home_science_data/*.json` | Batch PDF extraction for home science |
+| `batch_processing_political_science.py` | `political_science_papers/*.pdf` | `political_science_data/*.json` | Batch PDF extraction for political science |
 
 ### Stage 2: Annotate with Chapters/Topics
 
@@ -93,6 +99,7 @@ python split_home_science_types_by_chapters.py
 | `batch_annotate_geography.py` | `geography_data/*.json` | `geography_data_annotated/*.json` | Adds chapter info for geography |
 | `batch_annotate_history.py` | `history_data/*.json` | `history_data_annotated/*.json` | Adds chapter info for history |
 | `batch_annotate_home_science.py` | `home_science_data/*.json` | `home_science_data_annotated/*.json` | Adds chapter info for home science |
+| `batch_annotate_political_science.py` | `political_science_data/*.json` | `political_science_data_annotated/*.json` | Adds chapter info for political science |
 | `annotate_questions_with_chapters.py` | Single file (interactive) | Annotated JSON | Interactive single-file annotator |
 | `annotate_questions_with_topics_physics.py` | Single file (interactive) | Annotated JSON | Physics with topics |
 
@@ -107,6 +114,7 @@ python split_home_science_types_by_chapters.py
 | `merge_geography.py` | `geography_data_annotated/` | `geography_pro/geography_all_years.json` | Combines all years |
 | `merge_history.py` | `history_data_annotated/` | `history_pro/history_all_years.json` | Combines all years |
 | `merge_home_science.py` | `home_science_data_annotated/` | `home_science_pro/home_science_all_years.json` | Combines all years |
+| `merge_political_science.py` | `political_science_data_annotated/` | `political_science_pro/political_science_all_years.json` | Combines all years |
 
 ### Stage 4: Split for Analysis
 
@@ -196,7 +204,7 @@ python pyqs.py
 - **Input:** None (downloads from web)
 - **Output:** PDF files in `{subject}_papers/` folders
 - **Years:** 2009–2025
-- **Subjects:** Biology, Chemistry, Physics, Mathematics, History, Geography, Home Science
+- **Subjects:** Biology, Chemistry, Physics, Mathematics, History, Geography, Home Science, Political Science
 
 ---
 
@@ -300,6 +308,7 @@ python merge_mathematics.py
 python merge_geography.py
 python merge_history.py
 python merge_home_science.py
+python merge_political_science.py
 ```
 
 - **Input:** `{subject}_data_annotated/` (all JSON files)
@@ -330,6 +339,7 @@ python split_mathematics_by_chapter.py
 python split_geography_by_chapter.py
 python split_history_by_chapter.py
 python split_home_science_by_chapter.py
+python split_political_science_by_chapter.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -347,6 +357,7 @@ python split_mathematics_by_type.py
 python split_geography_by_type.py
 python split_history_by_type.py
 python split_home_science_by_type.py
+python split_political_science_by_type.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -368,6 +379,7 @@ python split_mathematics_types_by_chapters.py
 python split_geography_types_by_chapters.py
 python split_history_types_by_chapters.py
 python split_home_science_types_by_chapters.py
+python split_political_science_types_by_chapters.py
 ```
 
 - **Input:** `{subject}_pro_types/type-{type}.json`

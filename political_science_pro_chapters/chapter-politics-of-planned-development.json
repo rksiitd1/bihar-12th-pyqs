@@ -1,0 +1,355 @@
+{
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "When was the Planning Commission of India abolished?",
+      "prashna": "भारतीय योजना आयोग कब समाप्त कर दिया गया ?",
+      "options": {
+        "A": "1977",
+        "B": "1980",
+        "C": "2007",
+        "D": "2014"
+      },
+      "vikalpa": {
+        "A": "1977",
+        "B": "1980",
+        "C": "2007",
+        "D": "2014"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "On which ideology is our planning system based?",
+      "prashna": "हमारी नियोजन व्यवस्था किस विचारधारा पर आश्रित है ?",
+      "options": {
+        "A": "Liberalism",
+        "B": "Communism",
+        "C": "Democratic Socialism",
+        "D": "Gandhism"
+      },
+      "vikalpa": {
+        "A": "उदारवाद",
+        "B": "साम्यवाद",
+        "C": "लोकतांत्रिक समाजवाद",
+        "D": "गाँधीवाद"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Who are the members of the Estimates Committee?",
+      "prashna": "प्राक्कलन समिति के सदस्य कौन होते हैं ?",
+      "options": {
+        "A": "They are elected from both Houses of Parliament.",
+        "B": "They are elected from members of the Lok Sabha.",
+        "C": "They are elected from members of the Rajya Sabha.",
+        "D": "They are nominated by the President."
+      },
+      "vikalpa": {
+        "A": "संसद के दोनों सदनों में से चुने जाते हैं।",
+        "B": "लोकसभा के सदस्यों में से चुने जाते हैं।",
+        "C": "राज्य सभा के सदस्यों में से चुने जाते हैं",
+        "D": "राष्ट्रपति द्वारा मनोनीत किये जाते हैं"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Who among the following suggested democratic decentralization?",
+      "prashna": "लोकतान्त्रिक विकेंन्द्रीकरण का सुझाव निम्नलिखित में से किसने दिया ?",
+      "options": {
+        "A": "Rajmannar Committee",
+        "B": "Balwant Rai Mehta Committee",
+        "C": "Ashok Mehta Committee",
+        "D": "Chanda Committee"
+      },
+      "vikalpa": {
+        "A": "राजमन्नार समिति",
+        "B": "बलवन्तराय मेहता समिति",
+        "C": "अशोक मेहता समिति",
+        "D": "चन्दा समिति"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Which organ was suggested to be made more powerful by the Balwant Rai Mehta Committee among the following?",
+      "prashna": "बलवन्तराय मेहता समिति ने निम्नलिखित में से किस अंग को अधिक शक्तिशाली बनाने का सुझाव दिया ?",
+      "options": {
+        "A": "Gram Panchayat",
+        "B": "Panchayat",
+        "C": "Panchayat Samiti",
+        "D": "Zila Parishad"
+      },
+      "vikalpa": {
+        "A": "ग्राम पंचायत",
+        "B": "पंचायत",
+        "C": "पंचायत समिति",
+        "D": "जिला परिषद्"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "What is economic justice?",
+      "prashna": "आर्थिक न्याय क्या है ?"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Mention two recommendations of Balwant Rai Mehta Committee.",
+      "prashna": "बलवन्त राय मेहता समिति की दो सिफारिशों का उल्लेख करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Discuss the importance of the Directive Principles of State Policy.",
+      "prashna": "राज्य के नीति निदेशक सिद्धान्तों के महत्व का विवेचन करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "From where was the idea of a planned economy in India adopted?",
+      "prashna": "भारत में नियोजित अर्थव्यवस्था का विचार कहाँ से ग्रहण किया गया था ?",
+      "options": {
+        "A": "Bombay Plan",
+        "B": "Gandhian Philosophy",
+        "C": "Soviet Union",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बॉम्बे प्लान से",
+        "B": "गाँधी दर्शन से",
+        "C": "सोवियत संघ से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "In which year was the Planning Commission established?",
+      "prashna": "योजना आयोग की स्थापना किस वर्ष की गई थी ?",
+      "options": {
+        "A": "$1947$",
+        "B": "$1948$",
+        "C": "$1950$",
+        "D": "$1955$"
+      },
+      "vikalpa": {
+        "A": "$1947$",
+        "B": "$1948$",
+        "C": "$1950$",
+        "D": "$1955$"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "When did the first Five Year Plan start?",
+      "prashna": "पहली पंचवर्षीय योजना की शुरुआत कब हुई थी ?",
+      "options": {
+        "A": "$1950$",
+        "B": "$1951$",
+        "C": "$1952$",
+        "D": "$1955$"
+      },
+      "vikalpa": {
+        "A": "$1950$",
+        "B": "$1951$",
+        "C": "$1952$",
+        "D": "$1955$"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Write any two positive consequences of the Green Revolution.",
+      "prashna": "हरित क्रांति के किन्हीं दो सकारात्मक परिणाम लिखें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Which are the two models of development? Which model of development was adopted by India?",
+      "prashna": "विकास के दो मॉडल कौन से हैं? भारत के द्वारा विकास का कौन-सा मॉडल अपनाया गया ?"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "What is Social Justice?",
+      "prashna": "सामाजिक न्याय क्या है ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "From where was the concept of the Five Year Plan taken?",
+      "prashna": "पंचवर्षीय योजना की अवधारणा कहाँ से ली गई थी ?",
+      "options": {
+        "A": "America",
+        "B": "Soviet Union",
+        "C": "China",
+        "D": "Britain"
+      },
+      "vikalpa": {
+        "A": "अमेरिका",
+        "B": "सोवियत संघ",
+        "C": "चीन",
+        "D": "ब्रिटेन"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Who is the Chairman of the National Development Council?",
+      "prashna": "राष्ट्रीय विकास परिषद् के अध्यक्ष होते हैं।",
+      "options": {
+        "A": "Prime Minister",
+        "B": "President",
+        "C": "Finance Minister",
+        "D": "Chairman of Planning Commission"
+      },
+      "vikalpa": {
+        "A": "प्रधानमंत्री",
+        "B": "राष्ट्रपति",
+        "C": "वित्तमंत्री",
+        "D": "योजना आयोग के अध्यक्ष"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "The Planning Commission was dissolved in",
+      "prashna": "योजना आयोग को भंग कर दिया गया था",
+      "options": {
+        "A": "2014",
+        "B": "2015",
+        "C": "2017",
+        "D": "2019"
+      },
+      "vikalpa": {
+        "A": "2014 में",
+        "B": "2015 में",
+        "C": "2017 में",
+        "D": "2019 में"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "The first Five Year Plan started in",
+      "prashna": "प्रथम पंचवर्षीय योजना शुरू हुई थी",
+      "options": {
+        "A": "1950",
+        "B": "1951",
+        "C": "1971",
+        "D": "1991"
+      },
+      "vikalpa": {
+        "A": "1950 में",
+        "B": "1951 में",
+        "C": "1971 में",
+        "D": "1991 में"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Right to property is a",
+      "prashna": "सम्पत्ति का अधिकार है।",
+      "options": {
+        "A": "Legal right",
+        "B": "Fundamental right",
+        "C": "Human right",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कानूनी अधिकार",
+        "B": "मौलिक अधिकार",
+        "C": "मानवाधिकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Explain the relationship between Fundamental Rights and Directive Principles of State Policy.",
+      "prashna": "मौलिक अधिकार व राज्य के नीति निदेशक तत्वों के बीच सम्बन्ध बतायें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "When was NITI Aayog established ?",
+      "prashna": "नीति आयोग की स्थापना कब की गई ?",
+      "options": {
+        "A": "2014",
+        "B": "2015",
+        "C": "2016",
+        "D": "2017"
+      },
+      "vikalpa": {
+        "A": "2014",
+        "B": "2015",
+        "C": "2016",
+        "D": "2017"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Politics of Planned Development",
+      "question": "What do you understand by social justice?",
+      "prashna": "सामाजिक न्याय से आप क्या समझते हैं?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "Politics of Planned Development",
+      "question": "Who is the Chairperson of Niti Aayog?",
+      "prashna": "नीति आयोग का अध्यक्ष कौन होता है?",
+      "options": {
+        "A": "President",
+        "B": "Prime Minister",
+        "C": "Finance Minister",
+        "D": "Home Minister"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रपति",
+        "B": "प्रधानमंत्री",
+        "C": "वित्त मंत्री",
+        "D": "गृह मंत्री"
+      }
+    }
+  ]
+}

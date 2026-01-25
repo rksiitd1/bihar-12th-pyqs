@@ -1,0 +1,979 @@
+{
+  "2021": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "How many organs does the United Nations Organization have?",
+      "prashna": "संयुक्त राष्ट्र संघ के कितने अंग हैं ?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Six"
+      },
+      "vikalpa": {
+        "A": "दो",
+        "B": "तीन",
+        "C": "चार",
+        "D": "छ:"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was the Disarmament Commission formed under the auspices of the United Nations?",
+      "prashna": "संयुक्त राष्ट्र संघ के तत्वावधान में निःशस्त्रीकरण आयोग कब बना ?",
+      "options": {
+        "A": "In 1945",
+        "B": "In 1952",
+        "C": "In 1959",
+        "D": "In 1966"
+      },
+      "vikalpa": {
+        "A": "1945 में",
+        "B": "1952 में",
+        "C": "1959 में",
+        "D": "1966 में"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Which declaration was adopted by the United Nations in 1948?",
+      "prashna": "1948 में संयुक्त राष्ट्र संघ ने कौन-सी घोषणा अपनायी ?",
+      "options": {
+        "A": "Universal Declaration of Human Rights",
+        "B": "Declaration of the Rights of Man and Citizen",
+        "C": "International Covenant on Social and Political Rights",
+        "D": "Declaration of Environmental Protection"
+      },
+      "vikalpa": {
+        "A": "मानव अधिकारों की सार्वभौम घोषणा",
+        "B": "मानव व नागरिक के अधिकारों की घोषणा",
+        "C": "सामाजिक व राजनीतिक अधिकारों का अन्तर्राष्ट्रीय अनुबन्ध",
+        "D": "पर्यावरण की सुरक्षा की घोषणा"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Who was the first Secretary General of the United Nations?",
+      "prashna": "संयुक्त राष्ट्रसंघ के प्रथम महासचिव कौन थे ?",
+      "options": {
+        "A": "Trygve Lie",
+        "B": "U Thant",
+        "C": "B.B. Ghali",
+        "D": "Kofi Annan"
+      },
+      "vikalpa": {
+        "A": "ट्रिगिव लाई",
+        "B": "यू थांट",
+        "C": "बी.बी. घाली",
+        "D": "कोफी अन्नान"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Which organization was established in 1920 to maintain international peace and security?",
+      "prashna": "अन्तर्राष्ट्रीय शान्ति तथा सुरक्षा बनाये रखने हेतु 1920 में किस संगठन की स्थापना हुई ?",
+      "options": {
+        "A": "United Nations Organization",
+        "B": "League of Nations",
+        "C": "International Labour Organization",
+        "D": "International Court of Justice"
+      },
+      "vikalpa": {
+        "A": "संयुक्त राष्ट्रसंघ",
+        "B": "राष्ट्रसंघ",
+        "C": "अन्तर्राष्ट्रीय श्रम संगठन",
+        "D": "अन्तर्राष्ट्रीय न्यायालय"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was the International Atomic Energy Agency established?",
+      "prashna": "अन्तर्राष्ट्रीय अणु ऊर्जा अभिकरण की स्थापना कब हुई ?",
+      "options": {
+        "A": "1956",
+        "B": "1957",
+        "C": "1958",
+        "D": "1959"
+      },
+      "vikalpa": {
+        "A": "1956",
+        "B": "1957",
+        "C": "1958",
+        "D": "1959"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was the United Nations Organization established?",
+      "prashna": "संयुक्त राष्ट्रसंघ की स्थापना कब हुई ?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1953",
+        "D": "1956"
+      },
+      "vikalpa": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1953",
+        "D": "1956"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Where is the headquarters of the International Court of Justice located?",
+      "prashna": "अन्तर्राष्ट्रीय न्यायालय का मुख्यालय कहाँ अवस्थित है ?",
+      "options": {
+        "A": "Geneva",
+        "B": "Berlin",
+        "C": "New York",
+        "D": "Hague"
+      },
+      "vikalpa": {
+        "A": "जेनेवा",
+        "B": "बर्लिन",
+        "C": "न्यूयार्क",
+        "D": "हेग"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "Write any two objectives of the United Nations Organization.",
+      "prashna": "संयुक्त राष्ट्रसंघ के किन्हीं दो उद्देश्यों को लिखें।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter_name": "International Organisations",
+      "question": "Describe the role of the United Nations in establishing world peace.",
+      "prashna": "विश्व शांति की स्थापना में संयुक्त राष्ट्र की भूमिका का वर्णन करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Where is the headquarters of 'UNICEF'?",
+      "prashna": "'यूनिसेफ' का मुख्यालय कहाँ है ?",
+      "options": {
+        "A": "Tokyo",
+        "B": "New York",
+        "C": "Chicago",
+        "D": "London"
+      },
+      "vikalpa": {
+        "A": "टोक्यो",
+        "B": "न्यूयॉर्क",
+        "C": "शिकागो",
+        "D": "लंदन"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was the World Bank established?",
+      "prashna": "विश्व बैंक की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "In $1949$",
+        "B": "In $1944$",
+        "C": "In $1950$",
+        "D": "In $1952$"
+      },
+      "vikalpa": {
+        "A": "$1949$ में",
+        "B": "$1944$ में",
+        "C": "$1950$ में",
+        "D": "$1952$ में"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Is India a member of the IMF?",
+      "prashna": "क्या भारत आईएमएफ का सदस्य है ?",
+      "options": {
+        "A": "Founding member",
+        "B": "Never",
+        "C": "Temporary member",
+        "D": "Permanent member"
+      },
+      "vikalpa": {
+        "A": "संस्थापक सदस्य है",
+        "B": "कभी नहीं",
+        "C": "अस्थायी सदस्य है",
+        "D": "स्थायी सदस्य है"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "How many members does the IMF have?",
+      "prashna": "आईएमएफ के कितने सदस्य हैं ?",
+      "options": {
+        "A": "$193$",
+        "B": "$190$",
+        "C": "$51$",
+        "D": "$12$"
+      },
+      "vikalpa": {
+        "A": "$193$",
+        "B": "$190$",
+        "C": "$51$",
+        "D": "$12$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "What is celebrated on $10$th December?",
+      "prashna": "$10$ दिसम्बर को क्या मनाया जाता है ?",
+      "options": {
+        "A": "Human Rights Day",
+        "B": "Environment Day",
+        "C": "Women's Day",
+        "D": "Labor Day"
+      },
+      "vikalpa": {
+        "A": "मानवाधिकार दिवस",
+        "B": "पर्यावरण दिवस",
+        "C": "महिला दिवस",
+        "D": "मज़दूर दिवस"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When did India become a member of the United Nations?",
+      "prashna": "भारत संयुक्त राष्ट्र संघ का सदस्य कब बना ?",
+      "options": {
+        "A": "$1945$",
+        "B": "$1947$",
+        "C": "$1950$",
+        "D": "$1952$"
+      },
+      "vikalpa": {
+        "A": "$1945$",
+        "B": "$1947$",
+        "C": "$1950$",
+        "D": "$1952$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Where is the headquarters of the International Court of Justice located?",
+      "prashna": "अन्तर्राष्ट्रीय न्यायालय का मुख्यालय कहाँ अवस्थित है ?",
+      "options": {
+        "A": "In New York",
+        "B": "In Vienna",
+        "C": "In Geneva",
+        "D": "In Hague"
+      },
+      "vikalpa": {
+        "A": "न्यूयॉर्क में",
+        "B": "वियना में",
+        "C": "जिनेवा में",
+        "D": "हेग में"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "The African word 'Apartheid' means",
+      "prashna": "अफ्रीकी शब्द 'अपारथीड' का मतलब होता है",
+      "options": {
+        "A": "Solidarity",
+        "B": "Staying separate",
+        "C": "Separateness",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एकजुटता",
+        "B": "अलग रहना",
+        "C": "पृथकता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "What is the tenure of a non-permanent member of the Security Council?",
+      "prashna": "सुरक्षा परिषद् के कोई अस्थायी सदस्य का कार्यकाल क्या होता है ?",
+      "options": {
+        "A": "$1$ year",
+        "B": "$2$ years",
+        "C": "$3$ years",
+        "D": "$4$ years"
+      },
+      "vikalpa": {
+        "A": "$1$ वर्ष",
+        "B": "$2$ वर्ष",
+        "C": "$3$ वर्ष",
+        "D": "$4$ वर्ष"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Who among the following is NOT a main organ of the United Nations?",
+      "prashna": "निम्न में से कौन संयुक्त राष्ट्र संघ का मुख्य अंग नहीं है?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "International Court of Justice",
+        "D": "World Health Organization"
+      },
+      "vikalpa": {
+        "A": "महासभा",
+        "B": "सुरक्षा परिषद्",
+        "C": "अन्तर्राष्ट्रीय न्यायालय",
+        "D": "विश्व स्वास्थ्य संगठन"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "The largest organ of the United Nations is",
+      "prashna": "संयुक्त राष्ट्र का सबसे बड़ा अंग है।",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "Secretariat",
+        "D": "International Court of Justice"
+      },
+      "vikalpa": {
+        "A": "महासभा",
+        "B": "सुरक्षा परिषद्",
+        "C": "सचिवालय",
+        "D": "अन्तर्राष्ट्रीय न्यायालय"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was the National Human Rights Commission established?",
+      "prashna": "राष्ट्रीय मानवाधिकार आयोग की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "$1990$",
+        "B": "$1993$",
+        "C": "$1995$",
+        "D": "$1997$"
+      },
+      "vikalpa": {
+        "A": "$1990$",
+        "B": "$1993$",
+        "C": "$1995$",
+        "D": "$1997$"
+      }
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "Write four main objectives of the United Nations.",
+      "prashna": "संयुक्त राष्ट्र संघ के चार प्रमुख उद्देश्य लिखें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "Write the full forms of any four of the following organs of the United Nations:",
+      "prashna": "निम्न संयुक्त राष्ट्र के अंगों में से किन्हीं चार के पूर्ण रूप लिखें :",
+      "sub_questions": {
+        "A": "UNESCO",
+        "B": "UNDP",
+        "C": "UNICEF",
+        "D": "WHO",
+        "E": "UNHCR",
+        "F": "UNEP"
+      },
+      "anuprashna": {
+        "A": "यूनेस्को",
+        "B": "यूएनडीपी",
+        "C": "यूनिसेफ",
+        "D": "डब्ल्यूएचओ",
+        "E": "यूएनएचसीआर",
+        "F": "यूएनईपी"
+      }
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "International Organisations",
+      "question": "Evaluate the role of the United Nations in the contemporary world.",
+      "prashna": "समकालीन विश्व में संयुक्त राष्ट्र संघ की भूमिका का मूल्यांकन करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Which of the following is not an official language of the United Nations?",
+      "prashna": "निम्न में से कौन संयुक्त राष्ट्र संघ की एक आधिकारिक भाषा नहीं है ?",
+      "options": {
+        "A": "Arabic",
+        "B": "Japanese",
+        "C": "Spanish",
+        "D": "Chinese"
+      },
+      "vikalpa": {
+        "A": "अरबी",
+        "B": "जापानी",
+        "C": "स्पेनिश",
+        "D": "चीनी"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was the United Nations Organization established?",
+      "prashna": "संयुक्त राष्ट्र संघ की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1955",
+        "D": "1962"
+      },
+      "vikalpa": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1955",
+        "D": "1962"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "The number of non-permanent members of the Security Council is",
+      "prashna": "सुरक्षा परिषद् के अस्थायी सदस्यों की संख्या है।",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "United Nations Day is celebrated on",
+      "prashna": "संयुक्त राष्ट्र दिवस मनाया जाता है।",
+      "options": {
+        "A": "24 September",
+        "B": "28 September",
+        "C": "24 October",
+        "D": "28 October"
+      },
+      "vikalpa": {
+        "A": "24 सितम्बर को",
+        "B": "28 सितम्बर को",
+        "C": "24 अक्टूबर को",
+        "D": "28 अक्टूबर को"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Which of the following is not a member of G-8?",
+      "prashna": "निम्न में से कौन G-8 का सदस्य नहीं है ?",
+      "options": {
+        "A": "Japan",
+        "B": "Canada",
+        "C": "Italy",
+        "D": "China"
+      },
+      "vikalpa": {
+        "A": "जापान",
+        "B": "कनाडा",
+        "C": "इटली",
+        "D": "चीन"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "The total number of members of the General Assembly is",
+      "prashna": "महासभा के कुल सदस्यों की संख्या है।",
+      "options": {
+        "A": "191",
+        "B": "192",
+        "C": "196",
+        "D": "197"
+      },
+      "vikalpa": {
+        "A": "191",
+        "B": "192",
+        "C": "196",
+        "D": "197"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "How many organs does the United Nations have?",
+      "prashna": "संयुक्त राष्ट्र संघ के कितने अंग हैं ?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "'UN Women' was established in",
+      "prashna": "'यू. एन. वीमेन' की स्थापना हुई है।",
+      "options": {
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "2012"
+      },
+      "vikalpa": {
+        "A": "2009 में",
+        "B": "2010 में",
+        "C": "2011 में",
+        "D": "2012 में"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "In which year was the World Trade Organization established?",
+      "prashna": "विश्व व्यापार संगठन की स्थापना किस वर्ष हुई थी ?",
+      "options": {
+        "A": "1965",
+        "B": "1995",
+        "C": "2009",
+        "D": "2011"
+      },
+      "vikalpa": {
+        "A": "1965 में",
+        "B": "1995 में",
+        "C": "2009 में",
+        "D": "2011 में"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Which of the following is a type of human right?",
+      "prashna": "निम्न में से कौन मानवाधिकार का एक प्रकार है ?",
+      "options": {
+        "A": "Freedom of expression",
+        "B": "Social equality",
+        "C": "Economic rights",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अभिव्यक्ति की स्वतंत्रता",
+        "B": "सामाजिक समानता",
+        "C": "आर्थिक अधिकार",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "The total number of members of the United Nations is",
+      "prashna": "संयुक्त राष्ट्र संघ के कुल सदस्यों की संख्या है।",
+      "options": {
+        "A": "192",
+        "B": "193",
+        "C": "194",
+        "D": "195"
+      },
+      "vikalpa": {
+        "A": "192",
+        "B": "193",
+        "C": "194",
+        "D": "195"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "10 December is celebrated as",
+      "prashna": "10 दिसम्बर मनाया जाता है।",
+      "options": {
+        "A": "Environment Day",
+        "B": "Women's Day",
+        "C": "Human Rights Day",
+        "D": "Yoga Day"
+      },
+      "vikalpa": {
+        "A": "पर्यावरण दिवस के रूप में",
+        "B": "महिला दिवस के रूप में",
+        "C": "मानवाधिकार दिवस के रूप में",
+        "D": "योग दिवस के रूप में"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "Name the organs of the United Nations.",
+      "prashna": "संयुक्त राष्ट्र संघ के अंगों के नाम बताएँ ।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "State two failures of the United Nations.",
+      "prashna": "संयुक्त राष्ट्र संघ की दो असफलताएँ बताएँ।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "International Organisations",
+      "question": "Write an essay on the role of the General Assembly.",
+      "prashna": "महासभा की भूमिका पर निबंध लिखें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "International Organisations",
+      "question": "Write a short essay on India's role in the United Nations.",
+      "prashna": "संयुक्त राष्ट्रसंघ में भारत की भूमिका पर संक्षिप्त निबन्ध लिखें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "International Labour Organisation is a specialized agency of",
+      "prashna": "अन्तर्राष्ट्रीय श्रम संगठन एक विशिष्ट अभिकरण है",
+      "options": {
+        "A": "SAARC",
+        "B": "European Union",
+        "C": "United Nations Organisation",
+        "D": "ASEAN"
+      },
+      "vikalpa": {
+        "A": "सार्क का",
+        "B": "यूरोपीय संघ का",
+        "C": "संयुक्त राष्ट्र संघ का",
+        "D": "आसियान का"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was International Atomic Energy Agency established ?",
+      "prashna": "अन्तर्राष्ट्रीय परमाणु ऊर्जा अभिकरण की स्थापना कब हुई ?",
+      "options": {
+        "A": "1956",
+        "B": "1957",
+        "C": "1958",
+        "D": "1959"
+      },
+      "vikalpa": {
+        "A": "1956",
+        "B": "1957",
+        "C": "1958",
+        "D": "1959"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Where is the headquarters of the UNESCO ?",
+      "prashna": "यूनेस्को का मुख्यालय कहाँ है ?",
+      "options": {
+        "A": "New York",
+        "B": "Geneva",
+        "C": "Paris",
+        "D": "Vienna"
+      },
+      "vikalpa": {
+        "A": "न्यूयार्क",
+        "B": "जेनेवा",
+        "C": "पेरिस",
+        "D": "वियना"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Which organ of the United Nations Organisation is called the Police of the World ?",
+      "prashna": "संयुक्त राष्ट्र संघ के किस अंग को दुनिया का पुलिस कहते हैं ?",
+      "options": {
+        "A": "Secretariat",
+        "B": "Security Council",
+        "C": "General Assembly",
+        "D": "International Court of Justice"
+      },
+      "vikalpa": {
+        "A": "सचिवालय",
+        "B": "सुरक्षा परिषद्",
+        "C": "महासभा",
+        "D": "अन्तर्राष्ट्रीय न्यायालय"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "How many member countries are there in the United Nations Organisation at present ?",
+      "prashna": "वर्तमान में संयुक्त राष्ट्र संघ के कितने सदस्य देश हैं ?",
+      "options": {
+        "A": "192",
+        "B": "193",
+        "C": "199",
+        "D": "201"
+      },
+      "vikalpa": {
+        "A": "192",
+        "B": "193",
+        "C": "199",
+        "D": "201"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "What is the tenure of the General Secretary of the United Nations Organisation ?",
+      "prashna": "संयुक्त राष्ट्र संघ के महासचिव का कार्यकाल क्या है ?",
+      "options": {
+        "A": "1 year",
+        "B": "4 years",
+        "C": "5 years",
+        "D": "6 years"
+      },
+      "vikalpa": {
+        "A": "1 वर्ष",
+        "B": "4 वर्ष",
+        "C": "5 वर्ष",
+        "D": "6 वर्ष"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Who is the newest member country of the United Nations Organisation ?",
+      "prashna": "संयुक्त राष्ट्र संघ का सबसे नया सदस्य देश कौन है ?",
+      "options": {
+        "A": "Afghanistan",
+        "B": "South Sudan",
+        "C": "Yuganda",
+        "D": "Malaysia"
+      },
+      "vikalpa": {
+        "A": "अफगानिस्तान",
+        "B": "दक्षिणी सूडान",
+        "C": "युगांडा",
+        "D": "मलएशिया"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "What is the main objective of the establishment of the United Nations Organisation ?",
+      "prashna": "संयुक्त राष्ट्र संघ की स्थापना का मुख्य उद्देश्य क्या है ?",
+      "options": {
+        "A": "Strengthening economic situation of the world",
+        "B": "Working for climate change",
+        "C": "World peace and security",
+        "D": "Working for children's education"
+      },
+      "vikalpa": {
+        "A": "विश्व की आर्थिक स्थिति मजबूत करना",
+        "B": "जलवायु परिवर्तन हेतु काम करना",
+        "C": "विश्वशांति एवं सुरक्षा",
+        "D": "बच्चों की शिक्षा के लिये काम करना"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "What is the tenure of the temporary members of the Security Council ?",
+      "prashna": "सुरक्षा परिषद् के अस्थाई सदस्यों का कार्यकाल क्या है ?",
+      "options": {
+        "A": "One year",
+        "B": "Two years",
+        "C": "Three years",
+        "D": "Four years"
+      },
+      "vikalpa": {
+        "A": "एक वर्ष",
+        "B": "दो वर्ष",
+        "C": "तीन वर्ष",
+        "D": "चार वर्ष"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was United Nations Organisation established ?",
+      "prashna": "संयुक्त राष्ट्र संघ की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1962",
+        "D": "1965"
+      },
+      "vikalpa": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1962",
+        "D": "1965"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "Where is the headquarters of the United Nations General Assembly situated ?",
+      "prashna": "संयुक्त राष्ट्र महासभा का मुख्यालय कहाँ स्थित है ?",
+      "options": {
+        "A": "New York",
+        "B": "Tokyo",
+        "C": "Paris",
+        "D": "Switzerland"
+      },
+      "vikalpa": {
+        "A": "न्यूयार्क",
+        "B": "टोक्यो",
+        "C": "पेरिस",
+        "D": "स्विट्जरलैंड"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "The number of non-permanent members of the Security Council is",
+      "prashna": "सुरक्षा परिषद् के अस्थाई सदस्यों की संख्या है",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "20"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "What is the number of organs of United Nation Organisation?",
+      "prashna": "संयुक्त राष्ट्र संघ के कितने अंग हैं?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "International Organisations",
+      "question": "When was UNO founded?",
+      "prashna": "संयुक्त राष्ट्र संघ की स्थापना कब हुई थी?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1952",
+        "D": "1956"
+      },
+      "vikalpa": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1952",
+        "D": "1956"
+      }
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "What is the Word Trade Organisation?",
+      "prashna": "विश्व व्यापार संगठन क्या है?"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter_name": "International Organisations",
+      "question": "What is the jurisdiction of International Court of Justice?",
+      "prashna": "अंतरराष्ट्रीय न्यायालय का क्षेत्राधिकार क्या है?"
+    }
+  ]
+}
