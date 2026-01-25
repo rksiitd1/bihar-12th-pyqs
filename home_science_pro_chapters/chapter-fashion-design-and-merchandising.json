@@ -1,0 +1,30 @@
+{
+  "2022": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Fashion Design and Merchandising",
+      "question": "Boutique is related to which of the following?",
+      "prashna": "बुटीक निम्नलिखित में से किससे संबंधित है ?",
+      "options": {
+        "A": "Fabric construction",
+        "B": "Garment design",
+        "C": "Dyeing of fabrics",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "वस्त्र की बनावट",
+        "B": "परिधान का डिजाइन",
+        "C": "वस्त्रों की रंगाई",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "Fashion Design and Merchandising",
+      "question": "What things will you keep in mind while buying clothes for your family?",
+      "prashna": "अपने परिवार के लिए वस्त्र खरीदते समय आप किन बातों का ध्यान रखेंगी ?"
+    }
+  ]
+}

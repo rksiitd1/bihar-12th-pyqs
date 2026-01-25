@@ -1,0 +1,853 @@
+{
+  "2021": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "In which type of food do bacteria grow rapidly?",
+      "prashna": "निम्न में से किस प्रकार के भोजन में जीवाणुओं की वृद्धि तीव्र गति से होती है ?",
+      "options": {
+        "A": "Protein rich food",
+        "B": "Fat rich food",
+        "C": "Mineral salt rich food",
+        "D": "Vitamin rich food"
+      },
+      "vikalpa": {
+        "A": "प्रोटीनयुक्त भोजन",
+        "B": "वसायुक्त भोजन",
+        "C": "खनिज लवणयुक्त भोजन",
+        "D": "विटामिनयुक्त भोजन"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following diseases is caused by eating contaminated food?",
+      "prashna": "निम्न में से कौन-सी बीमारी दूषित भोज्य पदार्थों को खाने से होता है ?",
+      "options": {
+        "A": "Diarrhea",
+        "B": "Cholera",
+        "C": "Dysentery",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अतिसार",
+        "B": "हैजा",
+        "C": "पेचिश",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Toxicity occurs on keeping food items in which vessel for a long time?",
+      "prashna": "निम्न में से किस बर्तन में खाद्य पदार्थों को अधिक समय तक रखने पर विषाक्तता उत्पन्न हो जाती है ?",
+      "options": {
+        "A": "Steel",
+        "B": "Copper",
+        "C": "Glass",
+        "D": "Iron"
+      },
+      "vikalpa": {
+        "A": "स्टील",
+        "B": "ताँबा",
+        "C": "शीश",
+        "D": "लोहा"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Dietary adulteration means:",
+      "prashna": "आहारीय मिलावट का अर्थ है :",
+      "options": {
+        "A": "Low quality of food item",
+        "B": "Food item becoming poisonous",
+        "C": "Food item becoming contaminated",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "खाद्य पदार्थ की गुणवत्ता का स्तर निम्न होना",
+        "B": "खाद्य पदार्थ का विषैला होना",
+        "C": "खाद्य पदार्थ का दूषित होना",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Whose help is expected in preventing adulteration?",
+      "prashna": "निम्न में से किनकी सहायता मिलावट रोकने में अपेक्षित है ?",
+      "options": {
+        "A": "Food inspector",
+        "B": "Common man",
+        "C": "Prevention of Food Adulteration Act",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "खाद्य निरीक्षक",
+        "B": "आम आदमी",
+        "C": "खाद्य अपमिश्रण निवारण अधिनियम",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Explain: Dietary adulteration.",
+      "prashna": "व्याख्या कीजिये: आहारीय मिलावट।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "What do you understand by adulteration? Describe various measures to prevent it.",
+      "prashna": "मिलावट से आप समझते हैं ? इसे रोकने के विभिन्न उपायों का वर्णन करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is not caused by food adulteration?",
+      "prashna": "निम्न में से कौन खाद्य अपमिश्रण के कारण नहीं होता है ?",
+      "options": {
+        "A": "Proper nutrition",
+        "B": "Malnutrition",
+        "C": "Under-nutrition",
+        "D": "Unhealthy life"
+      },
+      "vikalpa": {
+        "A": "उचित पोषण",
+        "B": "कुपोषण",
+        "C": "अल्प पोषण",
+        "D": "अस्वस्थ जीव"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "The presence of which adulterant can be detected with naked eyes?",
+      "prashna": "किस मिलावटी सामान का नग्न आँखों द्वारा पता लगाया जा सकता है ?",
+      "options": {
+        "A": "Water",
+        "B": "Starch",
+        "C": "Vanaspati ghee",
+        "D": "Papaya seeds"
+      },
+      "vikalpa": {
+        "A": "जल",
+        "B": "स्टार्च",
+        "C": "वनस्पति घी",
+        "D": "पपीते का बीज"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "When did the Prevention of Food Adulteration Act come into force?",
+      "prashna": "खाद्य अपमिश्रण निवारण अधिनियम कब लागू हुआ ?",
+      "options": {
+        "A": "$1955$",
+        "B": "$1956$",
+        "C": "$1954$",
+        "D": "$1965$"
+      },
+      "vikalpa": {
+        "A": "$1955$",
+        "B": "$1956$",
+        "C": "$1954$",
+        "D": "$1965$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is a symptom of food poisoning?",
+      "prashna": "निम्न में से कौन विषाक्त भोजन का लक्षण है ?",
+      "options": {
+        "A": "Nausea",
+        "B": "Vomiting",
+        "C": "Diarrhea",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "जी मिचलना",
+        "B": "उल्टी",
+        "C": "दस्त",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is a cause of food spoilage?",
+      "prashna": "निम्न में से कौन भोजन खराब होने का कारण होता है ?",
+      "options": {
+        "A": "Micro-organisms",
+        "B": "Air",
+        "C": "Temperature",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सूक्ष्म जीव",
+        "B": "हवा",
+        "C": "तापमान",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is not an adulterant added to milk?",
+      "prashna": "निम्न में से कौन दूध में मिलाया जानेवाला अपमिश्रक नहीं है ?",
+      "options": {
+        "A": "Water",
+        "B": "Starch",
+        "C": "Milk powder",
+        "D": "Wheat powder"
+      },
+      "vikalpa": {
+        "A": "पानी",
+        "B": "स्टार्च",
+        "C": "दूध पाउडर",
+        "D": "गेहूँ पाउडर"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Explain the following: Food adulteration",
+      "prashna": "निम्नलिखित की व्याख्या कीजिए: खाद्य अपमिश्रण (मिलावट)"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Explain the following: Agmark",
+      "prashna": "निम्नलिखित की व्याख्या कीजिए: एगमार्क"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "What is the importance of food hygiene in the kitchen? Describe.",
+      "prashna": "रसोईघर में भोजन स्वच्छता का क्या महत्व है ? वर्णन करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is a method to detect adulteration in food items?",
+      "prashna": "निम्न में से कौन खाद्य पदार्थों में मिलावट का पता लगाने की विधि है?",
+      "options": {
+        "A": "Visual inspection",
+        "B": "Chemical test",
+        "C": "Physical test",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "दृश्य परीक्षण",
+        "B": "रासायनिक परीक्षण",
+        "C": "भौतिक परीक्षण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is a perishable food item?",
+      "prashna": "निम्न में से कौन शीघ्र नष्ट होनेवाला खाद्य पदार्थ है?",
+      "options": {
+        "A": "Milk",
+        "B": "Gram",
+        "C": "Refined flour (Maida)",
+        "D": "Rice"
+      },
+      "vikalpa": {
+        "A": "दूध",
+        "B": "चना",
+        "C": "मैदा",
+        "D": "चावल"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is a cause of food poisoning?",
+      "prashna": "निम्न में से कौन भोजन विषाक्त होने का कारण है?",
+      "options": {
+        "A": "Undercooked food",
+        "B": "Infected kitchen",
+        "C": "Keeping cooked food for a long period",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कम पका हुआ भोजन",
+        "B": "संक्रमित रसोई",
+        "C": "पके हुए भोजन को लम्बी अवधि तक रखना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "In which of the following activities should contaminated water not be used?",
+      "prashna": "निम्नलिखित में से किस क्रिया में संदूषित जल का उपयोग नहीं करना चाहिए ?",
+      "options": {
+        "A": "Watering plants",
+        "B": "Washing cars",
+        "C": "Cooking food",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पौधों में पानी देना",
+        "B": "गाड़ी धोना",
+        "C": "खाना बनाना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "In which dairy product is adulteration difficult to detect?",
+      "prashna": "दूध के किस उत्पाद में आसानी से मिलावट नहीं हो पाती है ?",
+      "options": {
+        "A": "Curd",
+        "B": "Sweets",
+        "C": "Ghee",
+        "D": "Khoya"
+      },
+      "vikalpa": {
+        "A": "दही",
+        "B": "मिठाई",
+        "C": "घी",
+        "D": "खोआ"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "What is the full name of $Agmark$?",
+      "prashna": "एगमार्क का पूरा नाम क्या है ?",
+      "options": {
+        "A": "Agricultural Merchandise",
+        "B": "Agricultural Management",
+        "C": "Agricultural Marketing",
+        "D": "Agro Marketing"
+      },
+      "vikalpa": {
+        "A": "एग्ीकलचय भकें डणइज",
+        "B": "एग्ीकलचय भनै ेजभेंट",
+        "C": "एग्ीकलचय भणकेहटगॊ",
+        "D": "एग्ो भणकेहटगॊ"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Food spoilage",
+      "prashna": "खाद्य का सड़ना"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Food adulteration",
+      "prashna": "आहारीय मिलावट"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Fungi",
+      "prashna": "फफूँदी"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Who is not responsible for adulteration?",
+      "prashna": "मिलावट के लिए कौन जिम्मेदार नहीं है ?",
+      "options": {
+        "A": "Producer",
+        "B": "Distributor",
+        "C": "Consumer",
+        "D": "Retailer"
+      },
+      "vikalpa": {
+        "A": "उत्पादक",
+        "B": "वितरक",
+        "C": "उपभोक्ता",
+        "D": "खुदरा विक्रेता"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which form of water is used in home?",
+      "prashna": "घर में पानी का उपयोग किस रूप में किया जाता है ?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ठोस",
+        "B": "तरल",
+        "C": "गैस",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Clean water is",
+      "prashna": "स्वच्छ जल होता है",
+      "options": {
+        "A": "Colourless",
+        "B": "Odourless",
+        "C": "Germ free",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "रंगहीन",
+        "B": "गंधहीन",
+        "C": "कीटाणु रहित",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which certification mark is not for food product?",
+      "prashna": "कौन-सा प्रमाणीकरण चिह्न खाद्य उत्पादों के लिए नहीं है ?",
+      "options": {
+        "A": "FPO",
+        "B": "Brown and Green dot",
+        "C": "Hallmark",
+        "D": "FSSAI"
+      },
+      "vikalpa": {
+        "A": "एफपीओ",
+        "B": "भूरा और हरा बिन्दु",
+        "C": "हॉलमार्क",
+        "D": "एफएसएसएआई"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is an example of adulteration?",
+      "prashna": "निम्न में से कौन अपमिश्रण का उदाहरण है ?",
+      "options": {
+        "A": "Selling fake as real",
+        "B": "Selling stale food as fresh",
+        "C": "Selling with wrong label",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "नकली को असली बताकर बेचना",
+        "B": "बासी भोजन को ताजा बताकर बेचना",
+        "C": "गलत लेबल लगाकर बेचना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "............... is a FPO marked food item.",
+      "prashna": "एफ०पी०ओ० (FPO) मार्क वाले खाद्य पदार्थ हैं",
+      "options": {
+        "A": "Jam",
+        "B": "Jelly",
+        "C": "Pickle",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "जैम",
+        "B": "जेली",
+        "C": "अचार",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Write short note on: Food poisoning.",
+      "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : खाद्य विषाक्तता"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Write short note on: Hygiene.",
+      "prashna": "निम्नलिखित पर संक्षिप्त टिप्पणी लिखिये : स्वच्छता"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "What do you understand by food adulteration? Explain.",
+      "prashna": "खाद्य पदार्थों में मिलावट से आप क्या समझते हैं ? वर्णन करें ।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Agmark determines the quality and purity of which substances?",
+      "prashna": "एगमार्क किन पदार्थों की गुणवत्ता और शुद्धता तय करता है ?",
+      "options": {
+        "A": "Beverage",
+        "B": "Agricultural products",
+        "C": "Electronics materials",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पेय पदार्थ",
+        "B": "कृषि पदार्थ",
+        "C": "इलेक्ट्रॉनिक पदार्थ",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following milk products cannot be easily adulterated?",
+      "prashna": "निम्नलिखित में से दूध के किस उत्पाद में आसानी से मिलावट नहीं की जा सकती ?",
+      "options": {
+        "A": "Curd",
+        "B": "Ghee",
+        "C": "Sweets",
+        "D": "Khoya"
+      },
+      "vikalpa": {
+        "A": "दही",
+        "B": "घी",
+        "C": "मिठाई",
+        "D": "खोआ"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "A poison called solanine is found in -",
+      "prashna": "सोलेनिन नामक विष पाया जाता है -",
+      "options": {
+        "A": "The green part of the potato",
+        "B": "Khesari dal",
+        "C": "Soyabeans",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आलू के हरे रंग में",
+        "B": "खेसारी दाल में",
+        "C": "सोयाबीन में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following causes food spoilage?",
+      "prashna": "निम्न में से कौन, भोजन खराब होने का कारण होता है ?",
+      "options": {
+        "A": "Microorganism",
+        "B": "Air",
+        "C": "Temperature",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सूक्ष्म जीव",
+        "B": "हवा",
+        "C": "तापमान",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "What is the method of preserving food items by drying called?",
+      "prashna": "सुखाकर खाद्य पदार्थ को संरक्षित करने की विधि को क्या कहते हैं ?",
+      "options": {
+        "A": "Fermentation",
+        "B": "Refrigeration",
+        "C": "Dehydration",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "खमीरीकरण",
+        "B": "प्रशीतन",
+        "C": "निर्जलीकरण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Hands should be washed before and after touching food with -",
+      "prashna": "भोजन को छूने से पूर्व और पश्चात् हाथ धोने चाहिए-",
+      "options": {
+        "A": "Soil",
+        "B": "Soap",
+        "C": "Only water",
+        "D": "Any one of these"
+      },
+      "vikalpa": {
+        "A": "मिट्टी से",
+        "B": "साबुन से",
+        "C": "केवल पानी से",
+        "D": "इनमें से कोई भी"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following can help in prevention of food adulteration?",
+      "prashna": "निम्नलिखित में से कौन आहारीय मिलावट की रोकथाम में मदद कर सकता है ?",
+      "options": {
+        "A": "Common man",
+        "B": "Food Inspector",
+        "C": "Food Adulteration Prevention Act",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "आम आदमी",
+        "B": "खाद्य निरीक्षक",
+        "C": "खाद्य अपमिश्रण निवारण अधिनियम",
+        "D": "इनमे से सभी"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "By which of the following adulteration in turmeric can be checked?",
+      "prashna": "निम्न में से किसके द्वारा हल्दी में मिलावट की जांच की जा सकती है ?",
+      "options": {
+        "A": "Hydrochloric acid",
+        "B": "Iodine",
+        "C": "Nitric acid",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "हाइड्रोक्लोरिक अम्ल",
+        "B": "आयोडीन",
+        "C": "नाइट्रिक अम्ल",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following food item does not require FPO mark ?",
+      "prashna": "निम्न में किस खाद्य पदार्थ को एफ पी ओ मार्क की आवश्यकता नहीं है ?",
+      "options": {
+        "A": "Jam",
+        "B": "Pickle",
+        "C": "Sauce",
+        "D": "Biscuit"
+      },
+      "vikalpa": {
+        "A": "जैम",
+        "B": "अचार",
+        "C": "सॉस",
+        "D": "बिस्कुट"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "The ISI mark is issued by whom?",
+      "prashna": "ISI चिह्न किसके द्वारा जारी किया जाता हैं ?",
+      "options": {
+        "A": "Indian Council of Agricultural Research",
+        "B": "Bureau of Indian Standards",
+        "C": "Food Corporation of India",
+        "D": "Food Safety and Standards Authority of India"
+      },
+      "vikalpa": {
+        "A": "भारतीय कृषि अनुसंधान परिषद्",
+        "B": "भारतीय मानक ब्यूरो",
+        "C": "भारतीय खाद्य निगम",
+        "D": "खाद्य सुरक्षा और मानक प्राधिकरण"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "What type of contamination is the presence of hair, dust or metal fragments in food?",
+      "prashna": "भोजन में बाल, धूल या धातु के टुकड़ों की उपस्थिति किस प्रकार का संदूषण हैं ?",
+      "options": {
+        "A": "Chemical contamination",
+        "B": "Physical contamination",
+        "C": "Cross contamination",
+        "D": "Biological contamination"
+      },
+      "vikalpa": {
+        "A": "रासायनिक संदूषण",
+        "B": "भौतिक संदूषण",
+        "C": "क्रॉस संदूषण",
+        "D": "जैविक संदूषण"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Why are separate cutting boards used for raw meat and vegetables ?",
+      "prashna": "कच्चे मांस और सब्जियों के लिए अलग-अलग कटिंग बोर्ड का उपयोग क्यों किया जाता हैं ?",
+      "options": {
+        "A": "To prevent cross contamination",
+        "B": "To prevent chemical contamination",
+        "C": "To prevent physical contamination",
+        "D": "To keep the flavors separate"
+      },
+      "vikalpa": {
+        "A": "क्रॉस-संदूषण को रोकने के लिए",
+        "B": "रासायनिक संदूषण को रोकने के लिए",
+        "C": "भौतिक संदूषण को रोकने के लिए",
+        "D": "स्वाद को अलग रखने के लिए"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "How should hands be washed before touching food ?",
+      "prashna": "भोजन को छूने से पहले हाथ कैसे धोने चाहिए ?",
+      "options": {
+        "A": "Only with water",
+        "B": "With soap and water",
+        "C": "With soil",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "केवल पानी से",
+        "B": "साबुन और पानी से",
+        "C": "मिट्टी से",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is not necessary to be cleaned daily in the kitchen ?",
+      "prashna": "रसोईघर में निम्न में से किसकी सफाई प्रतिदिन करना आवश्यक नहीं हैं ?",
+      "options": {
+        "A": "Utensils",
+        "B": "Floor",
+        "C": "Slab",
+        "D": "Window and door"
+      },
+      "vikalpa": {
+        "A": "बर्तन",
+        "B": "फर्श",
+        "C": "स्लैब",
+        "D": "खिड़की और दरवाजा"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Which of the following is an external factor causing spoilage of food ?",
+      "prashna": "निम्न में से कौन खाद्य पदार्थ के सड़ने का बाह्य कारक हैं ?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Enzymes",
+        "C": "Improper storage",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "जीवाणु",
+        "B": "एन्जाइम",
+        "C": "अनुचित भंडारण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Who is not responsible for adulteration of food items ?",
+      "prashna": "खाद्य पदार्थों में मिलावट के लिए कौन जिम्मेदार नहीं हैं ?",
+      "options": {
+        "A": "Manufacturer",
+        "B": "Consumer",
+        "C": "Distributor",
+        "D": "Retailer"
+      },
+      "vikalpa": {
+        "A": "उत्पादक",
+        "B": "उपभोक्ता",
+        "C": "वितरक",
+        "D": "खुदरा विक्रेता"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Agmark",
+      "prashna": "एगमार्क"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Microorganism",
+      "prashna": "सूक्ष्मजीव"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Food Quality and Food Safety",
+      "question": "Indian Standards Bureau",
+      "prashna": "भारतीय मानक ब्यूरो"
+    }
+  ]
+}

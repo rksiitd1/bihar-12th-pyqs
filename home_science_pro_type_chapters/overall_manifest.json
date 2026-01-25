@@ -1,0 +1,287 @@
+[
+  {
+    "type": "objective",
+    "total_chapters": 15,
+    "total_items": 420,
+    "chapters": [
+      {
+        "chapter": "Public Nutrition and Health",
+        "file": "chapter-public-nutrition-and-health.json",
+        "total_items": 108,
+        "years": 6
+      },
+      {
+        "chapter": "Design for Fabric and Apparel",
+        "file": "chapter-design-for-fabric-and-apparel.json",
+        "total_items": 51,
+        "years": 6
+      },
+      {
+        "chapter": "Consumer Education and Protection",
+        "file": "chapter-consumer-education-and-protection.json",
+        "total_items": 34,
+        "years": 6
+      },
+      {
+        "chapter": "Guidance and Counselling",
+        "file": "chapter-guidance-and-counselling.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Care and Maintenance of Fabrics in Institutions",
+        "file": "chapter-care-and-maintenance-of-fabrics-in-institutions.json",
+        "total_items": 43,
+        "years": 6
+      },
+      {
+        "chapter": "Management of Support Services, Institutions and Programmes for Children, Youth and Elderly",
+        "file": "chapter-management-of-support-services-institutions-and-programmes-for-children-youth-and-elderly.json",
+        "total_items": 12,
+        "years": 3
+      },
+      {
+        "chapter": "Early Childhood Care and Education",
+        "file": "chapter-early-childhood-care-and-education.json",
+        "total_items": 31,
+        "years": 5
+      },
+      {
+        "chapter": "Food Quality and Food Safety",
+        "file": "chapter-food-quality-and-food-safety.json",
+        "total_items": 39,
+        "years": 6
+      },
+      {
+        "chapter": "Ergonomics and Designing of Interior and Exterior Spaces",
+        "file": "chapter-ergonomics-and-designing-of-interior-and-exterior-spaces.json",
+        "total_items": 20,
+        "years": 6
+      },
+      {
+        "chapter": "Work, Livelihood and Career",
+        "file": "chapter-work-livelihood-and-career.json",
+        "total_items": 9,
+        "years": 6
+      },
+      {
+        "chapter": "Human Resource Management",
+        "file": "chapter-human-resource-management.json",
+        "total_items": 9,
+        "years": 5
+      },
+      {
+        "chapter": "Food Processing and Technology",
+        "file": "chapter-food-processing-and-technology.json",
+        "total_items": 15,
+        "years": 5
+      },
+      {
+        "chapter": "Clinical Nutrition and Dietetics",
+        "file": "chapter-clinical-nutrition-and-dietetics.json",
+        "total_items": 45,
+        "years": 6
+      },
+      {
+        "chapter": "Fashion Design and Merchandising",
+        "file": "chapter-fashion-design-and-merchandising.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Production and Quality Control in the Garment Industry",
+        "file": "chapter-production-and-quality-control-in-the-garment-industry.json",
+        "total_items": 2,
+        "years": 1
+      }
+    ]
+  },
+  {
+    "type": "short",
+    "total_chapters": 17,
+    "total_items": 120,
+    "chapters": [
+      {
+        "chapter": "Design for Fabric and Apparel",
+        "file": "chapter-design-for-fabric-and-apparel.json",
+        "total_items": 15,
+        "years": 6
+      },
+      {
+        "chapter": "Management of Support Services, Institutions and Programmes for Children, Youth and Elderly",
+        "file": "chapter-management-of-support-services-institutions-and-programmes-for-children-youth-and-elderly.json",
+        "total_items": 6,
+        "years": 3
+      },
+      {
+        "chapter": "Public Nutrition and Health",
+        "file": "chapter-public-nutrition-and-health.json",
+        "total_items": 32,
+        "years": 6
+      },
+      {
+        "chapter": "Clinical Nutrition and Dietetics",
+        "file": "chapter-clinical-nutrition-and-dietetics.json",
+        "total_items": 10,
+        "years": 6
+      },
+      {
+        "chapter": "Food Processing and Technology",
+        "file": "chapter-food-processing-and-technology.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "Early Childhood Care and Education",
+        "file": "chapter-early-childhood-care-and-education.json",
+        "total_items": 5,
+        "years": 2
+      },
+      {
+        "chapter": "Consumer Education and Protection",
+        "file": "chapter-consumer-education-and-protection.json",
+        "total_items": 12,
+        "years": 6
+      },
+      {
+        "chapter": "Food Quality and Food Safety",
+        "file": "chapter-food-quality-and-food-safety.json",
+        "total_items": 11,
+        "years": 5
+      },
+      {
+        "chapter": "Hospitality Management",
+        "file": "chapter-hospitality-management.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Care and Maintenance of Fabrics in Institutions",
+        "file": "chapter-care-and-maintenance-of-fabrics-in-institutions.json",
+        "total_items": 8,
+        "years": 4
+      },
+      {
+        "chapter": "Production and Quality Control in the Garment Industry",
+        "file": "chapter-production-and-quality-control-in-the-garment-industry.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Ergonomics and Designing of Interior and Exterior Spaces",
+        "file": "chapter-ergonomics-and-designing-of-interior-and-exterior-spaces.json",
+        "total_items": 4,
+        "years": 2
+      },
+      {
+        "chapter": "Special Education and Support Services",
+        "file": "chapter-special-education-and-support-services.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Work, Livelihood and Career",
+        "file": "chapter-work-livelihood-and-career.json",
+        "total_items": 3,
+        "years": 2
+      },
+      {
+        "chapter": "Human Resource Management",
+        "file": "chapter-human-resource-management.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Development Communication and Journalism",
+        "file": "chapter-development-communication-and-journalism.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Management of Development Programme",
+        "file": "chapter-management-of-development-programme.json",
+        "total_items": 1,
+        "years": 1
+      }
+    ]
+  },
+  {
+    "type": "long",
+    "total_chapters": 12,
+    "total_items": 36,
+    "chapters": [
+      {
+        "chapter": "Food Quality and Food Safety",
+        "file": "chapter-food-quality-and-food-safety.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Care and Maintenance of Fabrics in Institutions",
+        "file": "chapter-care-and-maintenance-of-fabrics-in-institutions.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "Public Nutrition and Health",
+        "file": "chapter-public-nutrition-and-health.json",
+        "total_items": 13,
+        "years": 6
+      },
+      {
+        "chapter": "Design for Fabric and Apparel",
+        "file": "chapter-design-for-fabric-and-apparel.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "Food Processing and Technology",
+        "file": "chapter-food-processing-and-technology.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Consumer Education and Protection",
+        "file": "chapter-consumer-education-and-protection.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Human Resource Management",
+        "file": "chapter-human-resource-management.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Fashion Design and Merchandising",
+        "file": "chapter-fashion-design-and-merchandising.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Management of Support Services, Institutions and Programmes for Children, Youth and Elderly",
+        "file": "chapter-management-of-support-services-institutions-and-programmes-for-children-youth-and-elderly.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Work, Livelihood and Career",
+        "file": "chapter-work-livelihood-and-career.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Early Childhood Care and Education",
+        "file": "chapter-early-childhood-care-and-education.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Clinical Nutrition and Dietetics",
+        "file": "chapter-clinical-nutrition-and-dietetics.json",
+        "total_items": 1,
+        "years": 1
+      }
+    ]
+  }
+]

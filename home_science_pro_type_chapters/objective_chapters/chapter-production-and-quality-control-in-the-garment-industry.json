@@ -1,0 +1,42 @@
+{
+  "2025": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Production and Quality Control in the Garment Industry",
+      "question": "What is the simplest stitch?",
+      "prashna": "सबसे सरल सिलाई क्या है ?",
+      "options": {
+        "A": "Running stitch",
+        "B": "Chain stitch",
+        "C": "Back stitch",
+        "D": "Cross stitch"
+      },
+      "vikalpa": {
+        "A": "रनिंग स्टिच",
+        "B": "चेन स्टिच",
+        "C": "बैक स्टिच",
+        "D": "क्रॉस स्टिच"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Production and Quality Control in the Garment Industry",
+      "question": "Which of these is the mark of quality in readymade garments?",
+      "prashna": "इनमें से रेडीमेड वस्त्रों में गुणवत्ता का चिन्ह कौन सा है ?",
+      "options": {
+        "A": "Stitching",
+        "B": "Fastners",
+        "C": "Linings",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सिलाई",
+        "B": "बन्धक",
+        "C": "अस्तर",
+        "D": "इनमें से सभी"
+      }
+    }
+  ]
+}

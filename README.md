@@ -49,6 +49,8 @@ python merge_home_science.py
 python split_biology_by_chapter.py
 python split_biology_by_type.py
 python split_home_science_by_chapter.py
+python split_home_science_by_type.py
+python split_home_science_types_by_chapters.py
 ```
 
 ---
@@ -194,7 +196,7 @@ python pyqs.py
 - **Input:** None (downloads from web)
 - **Output:** PDF files in `{subject}_papers/` folders
 - **Years:** 2009–2025
-- **Subjects:** Biology, Chemistry, Physics, Mathematics
+- **Subjects:** Biology, Chemistry, Physics, Mathematics, History, Geography, Home Science
 
 ---
 
@@ -294,6 +296,10 @@ python annotate_questions_with_topics_physics.py
 python merge_biology.py
 python merge_chemistry.py
 python merge_physics.py
+python merge_mathematics.py
+python merge_geography.py
+python merge_history.py
+python merge_home_science.py
 ```
 
 - **Input:** `{subject}_data_annotated/` (all JSON files)
@@ -320,6 +326,10 @@ python merge_physics.py
 python split_biology_by_chapter.py
 python split_chemistry_by_chapter.py
 python split_physics_by_chapter.py
+python split_mathematics_by_chapter.py
+python split_geography_by_chapter.py
+python split_history_by_chapter.py
+python split_home_science_by_chapter.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -333,6 +343,10 @@ python split_physics_by_chapter.py
 python split_biology_by_type.py
 python split_chemistry_by_type.py
 python split_physics_by_type.py
+python split_mathematics_by_type.py
+python split_geography_by_type.py
+python split_history_by_type.py
+python split_home_science_by_type.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -350,6 +364,10 @@ python split_physics_by_type.py
 python split_biology_types_by_chapters.py
 python split_chemistry_types_by_chapters.py
 python split_physics_types_by_chapters.py
+python split_mathematics_types_by_chapters.py
+python split_geography_types_by_chapters.py
+python split_history_types_by_chapters.py
+python split_home_science_types_by_chapters.py
 ```
 
 - **Input:** `{subject}_pro_types/type-{type}.json`

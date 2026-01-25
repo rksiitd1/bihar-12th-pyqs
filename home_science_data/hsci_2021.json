@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Deficiency of which vitamin causes the bones of limbs to bend in children?",
+        "prashna": "किस विटामिन की कमी से बच्चों में अंगों की अस्थियाँ मुड़ जाती है ?",
+        "options": {
+            "A": "Vitamin A",
+            "B": "Vitamin B",
+            "C": "Vitamin C",
+            "D": "Vitamin D"
+        },
+        "vikalpa": {
+            "A": "विटामिन A",
+            "B": "विटामिन B",
+            "C": "विटामिन C",
+            "D": "विटामिन D"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "What type of clothes is appropriate to select for an infant?",
+        "prashna": "शिशु के लिए किस प्रकार के वस्त्रों का चयन करना उचित होता है ?",
+        "options": {
+            "A": "Expensive and durable",
+            "B": "Attractive and less expensive",
+            "C": "Durable and silky",
+            "D": "Nylon and silky"
+        },
+        "vikalpa": {
+            "A": "कीमती एवं टिकाऊ",
+            "B": "आकर्षक एवं कम महंगे",
+            "C": "टिकाऊ एवं रेशमी",
+            "D": "नायलॉन एवं रेशमी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which organization is responsible for giving standardization marks?",
+        "prashna": "मानकीकरण चिह्न देने का कार्य किस संस्था द्वारा किया जाता है ?",
+        "options": {
+            "A": "Indian Standardization Board",
+            "B": "Bureau of Indian Standards",
+            "C": "Advertising Promotion Corporation",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "भारतीय मानकीकरण बोर्ड",
+            "B": "भारतीय मानक ब्यूरो",
+            "C": "विज्ञापन प्रचार-प्रसार निगम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following is a benefit of Life Insurance Corporation?",
+        "prashna": "निम्न में से कौन जीवन बीमा निगम का लाभ है ?",
+        "options": {
+            "A": "Risk coverage",
+            "B": "Loan facility",
+            "C": "Tax benefit",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "जोखिम कवरेज",
+            "B": "ऋण सुविधा",
+            "C": "कर-लाभ",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "What is necessary for a child to become capable?",
+        "prashna": "बच्चे को सुयोग्य बनने के लिए क्या आवश्यक है ?",
+        "options": {
+            "A": "Proper food",
+            "B": "Good clothes",
+            "C": "Good house",
+            "D": "Proper guidance"
+        },
+        "vikalpa": {
+            "A": "उचित भोजन",
+            "B": "अच्छे वस्त्र",
+            "C": "अच्छा घर",
+            "D": "उचित निर्देशन"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following is a natural fiber?",
+        "prashna": "निम्नलिखित में से कौन प्राकृतिक रेशा है ?",
+        "options": {
+            "A": "Silk",
+            "B": "Polyester",
+            "C": "Nylon",
+            "D": "Viscose"
+        },
+        "vikalpa": {
+            "A": "सिल्क",
+            "B": "पॉलिएस्टर",
+            "C": "नायलॉन",
+            "D": "विस्कॉस"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which of the following is mainly responsible for the causes of water pollution?",
+        "prashna": "जल प्रदूषण के कारणों के लिए मुख्य रूप से निम्नलिखित में से कौन जिम्मेदार है ?",
+        "options": {
+            "A": "Afforestation",
+            "B": "Oil refinery",
+            "C": "Paper factory",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "वनरोपण",
+            "B": "तेल रिफाइनरी",
+            "C": "कागज कारखाना",
+            "D": "(B) और (C) दोनों"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "By which medium are vegetable stains removed?",
+        "prashna": "वानस्पतिक दाग-धब्बों को किस माध्यम द्वारा हटाया जाता है ?",
+        "options": {
+            "A": "Borax",
+            "B": "Ammonia",
+            "C": "Washing soda",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "बोरेक्स",
+            "B": "अमोनिया",
+            "C": "वाशिंग सोडा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The simplest form of carbohydrate is:",
+        "prashna": "कार्बोहाइड्रेट का सबसे सरल रूप होता है :",
+        "options": {
+            "A": "Fructose",
+            "B": "Glucose",
+            "C": "Galactose",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "फ्रक्टोज",
+            "B": "ग्लूकोज",
+            "C": "गैलेक्टोज",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following elements does not affect development?",
+        "prashna": "निम्न में से कौन-सा तत्व विकास को प्रभावित नहीं करता ?",
+        "options": {
+            "A": "Disease and injury",
+            "B": "Nutrition",
+            "C": "Environment",
+            "D": "Wealth"
+        },
+        "vikalpa": {
+            "A": "रोग एवं चोट",
+            "B": "पोषण",
+            "C": "वातावरण",
+            "D": "धन"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Which of the following is a complication of pregnancy?",
+        "prashna": "निम्न में से कौन गर्भावस्था की कठिनाई है ?",
+        "options": {
+            "A": "Abortion",
+            "B": "Premature birth",
+            "C": "Toxemia of pregnancy",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "गर्भपात",
+            "B": "अपरिपक्व जन्म",
+            "C": "गर्भकालीन विषाक्तता",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which disease is caused by deficiency of Vitamin C?",
+        "prashna": "विटामिन C की कमी से कौन-सी बीमारी होती है ?",
+        "options": {
+            "A": "Scurvy",
+            "B": "Anemia",
+            "C": "Night blindness",
+            "D": "Beriberi"
+        },
+        "vikalpa": {
+            "A": "स्कर्वी",
+            "B": "एनीमिया",
+            "C": "रतौंधी",
+            "D": "बेरी-बेरी"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Which vaccine is administered to prevent tuberculosis?",
+        "prashna": "क्षयरोग से बचने के लिए कौन-सा टीका लगाया जाता है ?",
+        "options": {
+            "A": "D.P.T.",
+            "B": "M.M.R.",
+            "C": "B.C.G.",
+            "D": "Hepatitis B"
+        },
+        "vikalpa": {
+            "A": "डी.पी.टी.",
+            "B": "एम.एम.आर.",
+            "C": "बी.सी.जी.",
+            "D": "हेपेटाइटिस बी"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "What is the mother's first milk called?",
+        "prashna": "माँ का पहला दूध क्या कहलाता है ?",
+        "options": {
+            "A": "Colostrum",
+            "B": "Protein",
+            "C": "Vitamin",
+            "D": "Calcium"
+        },
+        "vikalpa": {
+            "A": "कोलोस्ट्रम",
+            "B": "प्रोटीन",
+            "C": "विटामिन",
+            "D": "कैल्शियम"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Vinegar is:",
+        "prashna": "सिरका होता है :",
+        "options": {
+            "A": "Grease absorber",
+            "B": "Acidic reagent",
+            "C": "Alkaline reagent",
+            "D": "Grease solvent"
+        },
+        "vikalpa": {
+            "A": "चिकनाई अवशोषक",
+            "B": "अम्लीय अभिकारक",
+            "C": "क्षारीय अभिकारक",
+            "D": "चिकनाई विलायक"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Developmental psychology is beneficial for:",
+        "prashna": "विकासात्मक मनोविज्ञान लाभदायक है :",
+        "options": {
+            "A": "For children",
+            "B": "For teachers",
+            "C": "For parents",
+            "D": "For all of these"
+        },
+        "vikalpa": {
+            "A": "बच्चों के लिए",
+            "B": "शिक्षकों के लिए",
+            "C": "अभिभावकों के लिए",
+            "D": "इनमें से सभी के लिए"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Rust is which type of stain?",
+        "prashna": "जंग का धब्बा है :",
+        "options": {
+            "A": "Animal stain",
+            "B": "Mineral stain",
+            "C": "Greasy stain",
+            "D": "Vegetable stain"
+        },
+        "vikalpa": {
+            "A": "प्राणिज धब्बा",
+            "B": "खनिज धब्बा",
+            "C": "चिकनाई युक्त धब्बा",
+            "D": "वानस्पतिक धब्बा"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "What is the average birth height of an Indian infant?",
+        "prashna": "भारतीय शिशु की औसत जन्म ऊँचाई क्या है ?",
+        "options": {
+            "A": "$30$ cm",
+            "B": "$40$ cm",
+            "C": "$50$ cm",
+            "D": "$80$ cm"
+        },
+        "vikalpa": {
+            "A": "$30$ सेमी",
+            "B": "$40$ सेमी",
+            "C": "$50$ सेमी",
+            "D": "$80$ सेमी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which line creates the illusion of height?",
+        "prashna": "कौन-सी रेखा ऊँचाई का भ्रम है ?",
+        "options": {
+            "A": "Vertical line",
+            "B": "Horizontal line",
+            "C": "Curved line",
+            "D": "Cross line"
+        },
+        "vikalpa": {
+            "A": "खड़ी रेखा",
+            "B": "पड़ी रेखा",
+            "C": "वक्र रेखा",
+            "D": "क्रॉस रेखा"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "The most important stage of physical development is:",
+        "prashna": "शारीरिक विकास की सबसे महत्वपूर्ण अवस्था है :",
+        "options": {
+            "A": "Infancy",
+            "B": "Childhood",
+            "C": "Adulthood",
+            "D": "Old age"
+        },
+        "vikalpa": {
+            "A": "शैशवावस्था",
+            "B": "बाल्यावस्था",
+            "C": "प्रौढ़ावस्था",
+            "D": "वृद्धावस्था"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "How many types of primary colors are there?",
+        "prashna": "प्राथमिक रंग कितने प्रकार के होते हैं ?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "In which type of food do bacteria grow rapidly?",
+        "prashna": "निम्न में से किस प्रकार के भोजन में जीवाणुओं की वृद्धि तीव्र गति से होती है ?",
+        "options": {
+            "A": "Protein rich food",
+            "B": "Fat rich food",
+            "C": "Mineral salt rich food",
+            "D": "Vitamin rich food"
+        },
+        "vikalpa": {
+            "A": "प्रोटीनयुक्त भोजन",
+            "B": "वसायुक्त भोजन",
+            "C": "खनिज लवणयुक्त भोजन",
+            "D": "विटामिनयुक्त भोजन"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which of the following diseases is caused by eating contaminated food?",
+        "prashna": "निम्न में से कौन-सी बीमारी दूषित भोज्य पदार्थों को खाने से होता है ?",
+        "options": {
+            "A": "Diarrhea",
+            "B": "Cholera",
+            "C": "Dysentery",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अतिसार",
+            "B": "हैजा",
+            "C": "पेचिश",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Which of the following is an area of interior decoration?",
+        "prashna": "निम्नलिखित में से कौन-सा आंतरिक सजावट का एक क्षेत्र है ?",
+        "options": {
+            "A": "Garden decoration",
+            "B": "Roof decoration",
+            "C": "Surrounding decoration",
+            "D": "Room decoration"
+        },
+        "vikalpa": {
+            "A": "बगीचे की सज्जा",
+            "B": "छत की सज्जा",
+            "C": "आस-पास की सज्जा",
+            "D": "कमरो की सज्जा"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Which color is formed by the combination of red and yellow?",
+        "prashna": "लाल और पीले रंग के संयोग से कौन-सा रंग बनता है ?",
+        "options": {
+            "A": "Orange",
+            "B": "Purple",
+            "C": "Green",
+            "D": "Brown"
+        },
+        "vikalpa": {
+            "A": "नारंगी",
+            "B": "बैंगनी",
+            "C": "हरा",
+            "D": "कत्थई रंग"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Under the non-banking system comes:",
+        "prashna": "नॉन-बैंकिंग प्रणाली के अंतर्गत आते हैं :",
+        "options": {
+            "A": "Unit Trust of India",
+            "B": "Life Insurance Corporation of India",
+            "C": "General Insurance of India",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "यूनिट ट्रस्ट ऑफ इंडिया",
+            "B": "भारतीय जीवन बीमा निगम",
+            "C": "जनरल इंश्योरेंस ऑफ इंडिया",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which disease is caused by the deficiency of Vitamin A in children?",
+        "prashna": "बच्चों में विटामिन A की कमी से कौन-सा रोग होता है ?",
+        "options": {
+            "A": "Night blindness",
+            "B": "Beriberi",
+            "C": "Polio",
+            "D": "Diarrhea"
+        },
+        "vikalpa": {
+            "A": "रतौंधी",
+            "B": "बेरी-बेरी",
+            "C": "पोलियो",
+            "D": "अतिसार"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which of the following is an I.S.I. marked product?",
+        "prashna": "निम्न में से कौन एक आई. एस. आई. मार्क उत्पाद है ?",
+        "options": {
+            "A": "Gas stove",
+            "B": "Jam",
+            "C": "Gold",
+            "D": "Ghee"
+        },
+        "vikalpa": {
+            "A": "गैस चूल्हा",
+            "B": "जैम",
+            "C": "सोना",
+            "D": "घी"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Interest and dividend are which type of family income?",
+        "prashna": "ब्याज एवं लाभांश पारिवारिक आय का कौन-सा प्रकार है ?",
+        "options": {
+            "A": "Psychic income",
+            "B": "Direct real income",
+            "C": "Indirect real income",
+            "D": "Money income"
+        },
+        "vikalpa": {
+            "A": "मानसिक आय",
+            "B": "प्रत्यक्ष वास्तविक आय",
+            "C": "अप्रत्यक्ष वास्तविक आय",
+            "D": "मौद्रिक आय"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "How many types of immunity are there?",
+        "prashna": "रोग निरोधी क्षमता कितने प्रकार के होते हैं ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Toxicity occurs on keeping food items in which vessel for a long time?",
+        "prashna": "निम्न में से किस बर्तन में खाद्य पदार्थों को अधिक समय तक रखने पर विषाक्तता उत्पन्न हो जाती है ?",
+        "options": {
+            "A": "Steel",
+            "B": "Copper",
+            "C": "Glass",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "स्टील",
+            "B": "ताँबा",
+            "C": "शीश",
+            "D": "लोहा"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Dietary adulteration means:",
+        "prashna": "आहारीय मिलावट का अर्थ है :",
+        "options": {
+            "A": "Low quality of food item",
+            "B": "Food item becoming poisonous",
+            "C": "Food item becoming contaminated",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "खाद्य पदार्थ की गुणवत्ता का स्तर निम्न होना",
+            "B": "खाद्य पदार्थ का विषैला होना",
+            "C": "खाद्य पदार्थ का दूषित होना",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Postpartum period is:",
+        "prashna": "प्रसवोत्तर अवधि है :",
+        "options": {
+            "A": "From conception to delivery",
+            "B": "From conception to pre-delivery",
+            "C": "Up to $45$ days from delivery",
+            "D": "Up to six months of delivery"
+        },
+        "vikalpa": {
+            "A": "गर्भधारण से प्रसव तक",
+            "B": "गर्भधारण से प्रसव पूर्व तक",
+            "C": "प्रसव से $45$ दिनों तक",
+            "D": "प्रसव के छह मास तक"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following is a secondary color?",
+        "prashna": "निम्न में से कौन द्वितीयक रंग है ?",
+        "options": {
+            "A": "Red",
+            "B": "Green",
+            "C": "Blue",
+            "D": "Yellow"
+        },
+        "vikalpa": {
+            "A": "लाल",
+            "B": "हरा",
+            "C": "नीला",
+            "D": "पीला"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Which of the following insects damages clothes?",
+        "prashna": "निम्न में से कौन-सा कीड़ा कपड़ों को नुकसान पहुँचाता है ?",
+        "options": {
+            "A": "Cockroach",
+            "B": "Silver fish",
+            "C": "Flies",
+            "D": "Bed bug"
+        },
+        "vikalpa": {
+            "A": "तिलचट्टा",
+            "B": "सिल्वर फिश",
+            "C": "मक्खियाँ",
+            "D": "खटमल"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Which type of clothes are starched?",
+        "prashna": "किस प्रकार के कपड़ों को स्टार्च किया जाता है ?",
+        "options": {
+            "A": "Polyester",
+            "B": "Cotton",
+            "C": "Woolen",
+            "D": "Terylene"
+        },
+        "vikalpa": {
+            "A": "पॉलिएस्टर",
+            "B": "सूती",
+            "C": "ऊनी",
+            "D": "टेरीलीन"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which is not a basic requirement of human beings?",
+        "prashna": "मानव की मूल आवश्यकता नहीं है :",
+        "options": {
+            "A": "Entertainment",
+            "B": "Food",
+            "C": "Clothes",
+            "D": "Shelter"
+        },
+        "vikalpa": {
+            "A": "मनोरंजन",
+            "B": "भोजन",
+            "C": "वस्त्र",
+            "D": "आवास"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "In which of the following is Vitamin C found in abundance?",
+        "prashna": "निम्नलिखित में से किसमें विटामिन C प्रचुर मात्रा में पाया जाता है ?",
+        "options": {
+            "A": "Lemon",
+            "B": "Bottle gourd",
+            "C": "Potato",
+            "D": "Brinjal"
+        },
+        "vikalpa": {
+            "A": "नींबू",
+            "B": "लौकी",
+            "C": "आलू",
+            "D": "बैंगन"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Vitamin A is soluble in:",
+        "prashna": "विटामिन ए घुलनशील है :",
+        "options": {
+            "A": "Water",
+            "B": "Fat",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जल में",
+            "B": "वसा में",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "How does AIDS spread?",
+        "prashna": "एड्स कैसे फैलता है ?",
+        "options": {
+            "A": "By shaking hands",
+            "B": "By playing together",
+            "C": "By infected needles",
+            "D": "Through water and food"
+        },
+        "vikalpa": {
+            "A": "हाथ मिलाने से",
+            "B": "साथ-साथ खेलने से",
+            "C": "संक्रमित सुइयों से",
+            "D": "जल और भोजन से"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which of the following parts of a plant is edible?",
+        "prashna": "पौधे का निम्नलिखित में से कौन-सा भाग खाने योग्य है ?",
+        "options": {
+            "A": "Seed",
+            "B": "Leaves",
+            "C": "Flower",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "बीज",
+            "B": "पत्ते",
+            "C": "फूल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which of the following statements is not correct?",
+        "prashna": "निम्न में से कौन-सा कथन सही नहीं है ?",
+        "options": {
+            "A": "Nutritious food should be taken during pregnancy",
+            "B": "More water should be consumed during pregnancy",
+            "C": "Alcohol and intoxicating substances should be consumed",
+            "D": "Attention should be paid to weight gain"
+        },
+        "vikalpa": {
+            "A": "गर्भावस्था में पौष्टिक भोजन लेना चाहिए",
+            "B": "गर्भावस्था के दौरान अधिक पानी पीना चाहिए",
+            "C": "शराब व नशीले पदार्थ का सेवन करना चाहिए",
+            "D": "वजन के बढ़ने का ध्यान रखना चाहिए"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "What are the means of investment?",
+        "prashna": "विनियोग के साधन क्या हैं ?",
+        "options": {
+            "A": "Bank",
+            "B": "Post office",
+            "C": "Market",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "बैंक",
+            "B": "डाकघर",
+            "C": "बाजार",
+            "D": "(A) और (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Which of the following is the cause of malnutrition?",
+        "prashna": "निम्न में से कौन कुपोषण का कारण है ?",
+        "options": {
+            "A": "Poverty",
+            "B": "Lack of nutritious food",
+            "C": "Ignorance",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "निर्धनता",
+            "B": "पौष्टिक भोजन की कमी",
+            "C": "अज्ञानता",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Which is the standard mark by the Government of India for agricultural products?",
+        "prashna": "कृषि संबंधी उत्पादों के लिए भारत सरकार द्वारा मानक चिह्न कौन है ?",
+        "options": {
+            "A": "Agmark",
+            "B": "I.S.I.",
+            "C": "Hallmark",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "एगमार्क",
+            "B": "आई. एस. आई.",
+            "C": "हॉलमार्क",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Which vitamin is obtained from sunlight?",
+        "prashna": "सूर्य की रोशनी से कौन-सा विटामिन मिलता है ?",
+        "options": {
+            "A": "Vitamin A",
+            "B": "Vitamin B",
+            "C": "Vitamin C",
+            "D": "Vitamin D"
+        },
+        "vikalpa": {
+            "A": "विटामिन A",
+            "B": "विटामिन B",
+            "C": "विटामिन C",
+            "D": "विटामिन D"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "What is the proper utilization of family resources called?",
+        "prashna": "पारिवारिक साधनों का सदुपयोग क्या कहलाता है ?",
+        "options": {
+            "A": "Interior decoration",
+            "B": "Evaluation",
+            "C": "Economy",
+            "D": "Home management"
+        },
+        "vikalpa": {
+            "A": "अंत: सज्जा",
+            "B": "मूल्यांकन",
+            "C": "अर्थव्यवस्था",
+            "D": "गृह प्रबंध"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "What type of pollution is mainly caused by plastic?",
+        "prashna": "प्लास्टिक द्वारा मुख्यतः किस प्रकार का प्रदूषण होता है ?",
+        "options": {
+            "A": "Land",
+            "B": "Noise",
+            "C": "Air",
+            "D": "Water"
+        },
+        "vikalpa": {
+            "A": "भूमि",
+            "B": "ध्वनि",
+            "C": "वायु",
+            "D": "जल"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Which of the following is a primary color?",
+        "prashna": "निम्न में से कौन प्राथमिक रंग है ?",
+        "options": {
+            "A": "Red",
+            "B": "Green",
+            "C": "Purple",
+            "D": "Orange"
+        },
+        "vikalpa": {
+            "A": "लाल",
+            "B": "हरा",
+            "C": "बैंगनी",
+            "D": "नारंगी"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "Which of the following is a common source of noise pollution?",
+        "prashna": "निम्न में से कौन ध्वनि प्रदूषण का सामान्य स्रोत है ?",
+        "options": {
+            "A": "Loudspeaker",
+            "B": "Crackers",
+            "C": "Road traffic",
+            "D": "House construction"
+        },
+        "vikalpa": {
+            "A": "लाउडस्पीकर",
+            "B": "पटाखे",
+            "C": "सड़क यातायात",
+            "D": "मकान निर्माण"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "What is the cause of indoor air pollution?",
+        "prashna": "घरेलू वायु प्रदूषण का क्या कारण है ?",
+        "options": {
+            "A": "Fuel used for cooking",
+            "B": "Mosquito repellent",
+            "C": "Tobacco smoking",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "खाना पकाने के लिए प्रयुक्त ईंधन",
+            "B": "मच्छर मारक",
+            "C": "तम्बाकू धूम्रपान",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "On which of the following occasions special attire is not required?",
+        "prashna": "निम्न में से किस अवसर पर विशिष्ट परिधान की आवश्यकता नहीं होती है ?",
+        "options": {
+            "A": "Marriage",
+            "B": "Death",
+            "C": "Birth",
+            "D": "Party"
+        },
+        "vikalpa": {
+            "A": "विवाह",
+            "B": "मृत्यु",
+            "C": "जन्म",
+            "D": "पार्टी"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Which of the following is a benefit of food preservation?",
+        "prashna": "निम्न में से कौन खाद्य संरक्षण का लाभ है ?",
+        "options": {
+            "A": "Prevention of food spoilage",
+            "B": "Availability of food throughout the year",
+            "C": "Retaining the taste of food",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "खाद्य का सड़ने से बचाव",
+            "B": "वर्ष भर खाद्य की उपलब्धता",
+            "C": "खाद्य का स्वाद बरकरार",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Which of the following is the largest gland in the human body?",
+        "prashna": "मानव शरीर का सबसे बड़ी ग्रंथि निम्न में से कौन है ?",
+        "options": {
+            "A": "Liver",
+            "B": "Thyroid",
+            "C": "Testis",
+            "D": "Ovary"
+        },
+        "vikalpa": {
+            "A": "यकृत",
+            "B": "थायराइड",
+            "C": "वृषण",
+            "D": "अंडाशय"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Pure water is:",
+        "prashna": "शुद्ध जल होता है :",
+        "options": {
+            "A": "Colorless",
+            "B": "Odorless",
+            "C": "Tasteless",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "रंगहीन",
+            "B": "गंधहीन",
+            "C": "स्वादहीन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Which is the most common disease related to endocrine system nowadays?",
+        "prashna": "अंत:स्रावी प्रणाली से संबंधित आजकल का सबसे आम रोग है :",
+        "options": {
+            "A": "Diabetes",
+            "B": "Growth disorder",
+            "C": "Sexual disorder",
+            "D": "Reproduction"
+        },
+        "vikalpa": {
+            "A": "मधुमेह",
+            "B": "वृद्धि विकार",
+            "C": "लैंगिक विकार",
+            "D": "प्रजनन"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Which activity is required immediately after using attire?",
+        "prashna": "परिधान के उपयोग के बाद किस गतिविधि की आवश्यकता तुरंत होती है ?",
+        "options": {
+            "A": "Mending",
+            "B": "Ironing",
+            "C": "Stain removal",
+            "D": "Airing"
+        },
+        "vikalpa": {
+            "A": "मरम्मत",
+            "B": "आयरन करना",
+            "C": "धब्बे छुड़ाना",
+            "D": "हवा देना"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Which of the following is not a method for removing stains from clothes?",
+        "prashna": "निम्न में से कौन वस्त्रों पर लगे धब्बे को छुड़ाने की विधि नहीं है ?",
+        "options": {
+            "A": "Chemical method",
+            "B": "Absorbent method",
+            "C": "Solvent method",
+            "D": "Physical method"
+        },
+        "vikalpa": {
+            "A": "रासायनिक विधि",
+            "B": "चूषक विधि",
+            "C": "घोलक विधि",
+            "D": "भौतिक विधि"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Whose help is expected in preventing adulteration?",
+        "prashna": "निम्न में से किनकी सहायता मिलावट रोकने में अपेक्षित है ?",
+        "options": {
+            "A": "Food inspector",
+            "B": "Common man",
+            "C": "Prevention of Food Adulteration Act",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "खाद्य निरीक्षक",
+            "B": "आम आदमी",
+            "C": "खाद्य अपमिश्रण निवारण अधिनियम",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Which of the following is not necessary to clean daily?",
+        "prashna": "निम्न में से किसकी सफाई प्रतिदिन करना आवश्यक नहीं है ?",
+        "options": {
+            "A": "Floor",
+            "B": "Utensils",
+            "C": "Slab",
+            "D": "Window and door"
+        },
+        "vikalpa": {
+            "A": "फर्श",
+            "B": "बर्तन",
+            "C": "स्लैब",
+            "D": "खिड़की और दरवाजा"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "The best method for drying clothes is:",
+        "prashna": "कपड़ों को सुखाने की सर्वोत्तम विधि है :",
+        "options": {
+            "A": "By sun and air",
+            "B": "By dryer",
+            "C": "By ironing",
+            "D": "By heater"
+        },
+        "vikalpa": {
+            "A": "धूप तथा हवा द्वारा",
+            "B": "ड्रायर द्वारा",
+            "C": "इस्त्री द्वारा",
+            "D": "हीटर द्वारा"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Interior decoration is not done in:",
+        "prashna": "आंतरिक सज्जा नहीं की जाती है :",
+        "options": {
+            "A": "In house",
+            "B": "In shop",
+            "C": "In office",
+            "D": "In public facility"
+        },
+        "vikalpa": {
+            "A": "घर में",
+            "B": "दुकान में",
+            "C": "कार्यालय में",
+            "D": "सार्वजनिक सुविधा में"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "What stains occur on moist clothes?",
+        "prashna": "नमी युक्त वस्त्रों पर किस चीज की दाग लग जाती है ?",
+        "options": {
+            "A": "Fungus",
+            "B": "Yeast",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फफूँदी",
+            "B": "खमीर",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Which disease is caused by deficiency of iodine?",
+        "prashna": "आयोडीन की कमी से कौन-सा रोग होता है ?",
+        "options": {
+            "A": "Goitre",
+            "B": "Diabetes",
+            "C": "Dwarfism",
+            "D": "Rickets"
+        },
+        "vikalpa": {
+            "A": "घेंघा रोग",
+            "B": "मधुमेह",
+            "C": "बौनापन",
+            "D": "रिकेट्स"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Which of the following is the master gland?",
+        "prashna": "निम्न में से कौन मास्टर ग्रंथि है ?",
+        "options": {
+            "A": "Pituitary",
+            "B": "Adrenal",
+            "C": "Thyroid",
+            "D": "Parathyroid"
+        },
+        "vikalpa": {
+            "A": "पिट्यूटरी",
+            "B": "एड्रीनल",
+            "C": "थायरायड",
+            "D": "पैराथायरायड"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "The secretion of which hormone leads to masculine traits in males?",
+        "prashna": "निम्न में से किस हार्मोन के स्राव के कारण पुरुष में पुरुषत्व का गुण आता है ?",
+        "options": {
+            "A": "Testosterone",
+            "B": "Estrogen",
+            "C": "Progesterone",
+            "D": "Prolactin"
+        },
+        "vikalpa": {
+            "A": "टेस्टोस्टेरोन",
+            "B": "एस्ट्रोजन",
+            "C": "प्रोजेस्ट्रॉन",
+            "D": "प्रोलैक्टिन"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Where does the development of the fertilized ovum take place?",
+        "prashna": "निषेचित डिंब का विकास कहाँ होता है ?",
+        "options": {
+            "A": "Uterus",
+            "B": "Ovary",
+            "C": "Seminal vesicle",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "गर्भाशय",
+            "B": "अंडाशय",
+            "C": "शुक्राशय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "What is the psychological function of food?",
+        "prashna": "भोजन का मनोवैज्ञानिक कार्य क्या है ?",
+        "options": {
+            "A": "To provide satisfaction",
+            "B": "To keep energetic",
+            "C": "To keep healthy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संतुष्टि प्रदान करना",
+            "B": "ऊर्जावान बनाये रखना",
+            "C": "स्वस्थ रखना",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "What are the energy-giving food items?",
+        "prashna": "ऊर्जा देने वाले खाद्य पदार्थ क्या हैं ?",
+        "options": {
+            "A": "Protein",
+            "B": "Carbohydrate",
+            "C": "Fat",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "प्रोटीन",
+            "B": "कार्बोहाइड्रेट",
+            "C": "वसा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which disease is caused by drinking contaminated water?",
+        "prashna": "दूषित जल पीने से कौन-सा रोग होता है ?",
+        "options": {
+            "A": "Jaundice",
+            "B": "Tuberculosis",
+            "C": "Diabetes",
+            "D": "Malaria"
+        },
+        "vikalpa": {
+            "A": "पीलिया",
+            "B": "क्षय रोग",
+            "C": "मधुमेह",
+            "D": "मलेरिया"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Explain: Comfortable clothes.",
+        "prashna": "व्याख्या कीजिये: आरामदायक वस्त्र।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Explain: Permanent teeth.",
+        "prashna": "व्याख्या कीजिये: स्थाई दाँत"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Explain: Meal planning.",
+        "prashna": "व्याख्या कीजिये: आहार आयोजन।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Explain: Dehydration.",
+        "prashna": "व्याख्या कीजिये: निर्जलीकरण।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Explain: Immunization.",
+        "prashna": "व्याख्या कीजिये: रोग प्रतिरक्षण।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Explain: Germination.",
+        "prashna": "व्याख्या कीजिये: अंकुरीकरण।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Explain: Nursery school.",
+        "prashna": "व्याख्या कीजिये: नर्सरी स्कूल"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Explain: Qualities of pure drinking water.",
+        "prashna": "व्याख्या कीजिये: शुद्ध पेय जल के गुण।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Explain: Delivery.",
+        "prashna": "व्याख्या कीजिये: प्रसव।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Explain: Chickenpox.",
+        "prashna": "व्याख्या कीजिये: चेचक।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Explain: Fallopian tube.",
+        "prashna": "व्याख्या कीजिये: डिम्बवाहिनी नली।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Explain: Mineral salt.",
+        "prashna": "व्याख्या कीजिये: खनिज लवण।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Explain: Air pollution.",
+        "prashna": "व्याख्या कीजिये: वायु प्रदूषण।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Explain: Post office.",
+        "prashna": "व्याख्या कीजिये: डाकघर।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Explain: Investment.",
+        "prashna": "व्याख्या कीजिये: निवेश।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Explain: Vaccination.",
+        "prashna": "व्याख्या कीजिये: टीकाकरण।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Explain: Fat.",
+        "prashna": "व्याख्या कीजिये: वसा।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Explain: Liquid diet.",
+        "prashna": "व्याख्या कीजिये: तरल आहार।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Explain: Sujani of Bihar.",
+        "prashna": "व्याख्या कीजिये: बिहार की सुजनी।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Explain: Dietary adulteration.",
+        "prashna": "व्याख्या कीजिये: आहारीय मिलावट।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "What do you understand by adulteration? Describe various measures to prevent it.",
+        "prashna": "मिलावट से आप समझते हैं ? इसे रोकने के विभिन्न उपायों का वर्णन करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "What are some rules to follow before storing clothes? Describe them.",
+        "prashna": "कपड़ों के संग्रह करने से पूर्व करने योग्य कुछ नियम क्या हैं ? वर्णन करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "How many types of pollution are there? Describe each in brief.",
+        "prashna": "प्रदूषण कितने प्रकार के होते हैं ? प्रत्येक का संक्षिप्त वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "What do you understand by hormone? Describe its functions.",
+        "prashna": "हार्मोन से आप क्या समझते हैं ? इसके कार्यों का वर्णन करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "What are the various uses of clothes in the kitchen?",
+        "prashna": "रसोईघर में कपड़ों के विभिन्न उपयोग क्या है ?"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "What things should be kept in mind while giving supplementary food?",
+        "prashna": "पूरक आहार देते समय किन-किन बातों का ध्यान रखना चाहिए ?"
+    }
+]
