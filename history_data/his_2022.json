@@ -1,0 +1,2042 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Into how many parts is Ain-i-Akbari divided?",
+        "prashna": "आइन-ए-अकबरी कितने भागों में विभक्त है ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which ruler shifted his capital from Delhi to Daulatabad?",
+        "prashna": "दिल्ली से दौलताबाद किस शासक ने अपनी राजधानी परिवर्तित की ?",
+        "options": {
+            "A": "Balban",
+            "B": "Muhammad-bin-Tughlaq",
+            "C": "Alauddin Khilji",
+            "D": "Akbar"
+        },
+        "vikalpa": {
+            "A": "बलबन",
+            "B": "मुहम्मद-बिन-तुगलक",
+            "C": "अलाउद्दीन खिलजी",
+            "D": "अकबर"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "On whose request did Gulbadan Begum write “Humayunama”?",
+        "prashna": "गुलबदन बेगम ने किसके आग्रह पर “हुमायूँनामा\" लिखा ?",
+        "options": {
+            "A": "Akbar",
+            "B": "Humayun",
+            "C": "Babar",
+            "D": "Abul Fazl"
+        },
+        "vikalpa": {
+            "A": "अकबर",
+            "B": "हुमायूँ",
+            "C": "बावर",
+            "D": "अबुल फलज"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Who wrote Badshahnama?",
+        "prashna": "बादशाहनामा किसने लिखा ?",
+        "options": {
+            "A": "Faizi",
+            "B": "Abul Fazl",
+            "C": "Abdul Hamid Lahori",
+            "D": "Nizamuddin Ahmad"
+        },
+        "vikalpa": {
+            "A": "फैजी",
+            "B": "अबुल फजल",
+            "C": "अब्दुल हमीद लाहौरी",
+            "D": "निज़ामुद्दीन अहमद"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Who made Fatehpur Sikri the capital?",
+        "prashna": "फतेहपुर सीकरी को राजधानी किसने बनाया ?",
+        "options": {
+            "A": "Akbar",
+            "B": "Jahangir",
+            "C": "Shahjahan",
+            "D": "Babar"
+        },
+        "vikalpa": {
+            "A": "अकबर",
+            "B": "जहाँगीर",
+            "C": "शाहजहाँ",
+            "D": "बाबर"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "In which year did Akbar start Din-i-Ilahi?",
+        "prashna": "अकबर ने किस सन् में दीन-ए-इलाही चलाया?",
+        "options": {
+            "A": "1562",
+            "B": "1564",
+            "C": "1579",
+            "D": "1582"
+        },
+        "vikalpa": {
+            "A": "1562",
+            "B": "1564",
+            "C": "1579",
+            "D": "1582"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Who was the guardian of Akbar?",
+        "prashna": "अकबर का संरक्षक कौन था ?",
+        "options": {
+            "A": "Bairam Khan",
+            "B": "Munim Khan",
+            "C": "Abdul Latif",
+            "D": "Humayun"
+        },
+        "vikalpa": {
+            "A": "बैरम खाँ",
+            "B": "मुनीम खाँ",
+            "C": "अब्दुल लतीफ",
+            "D": "हुमायूँ"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Who was the founder of the Mughal dynasty in India?",
+        "prashna": "भारत में मुगलवंश का संस्थापक कौन था ?",
+        "options": {
+            "A": "Babar",
+            "B": "Humayun",
+            "C": "Akbar",
+            "D": "Jahangir"
+        },
+        "vikalpa": {
+            "A": "बाबर",
+            "B": "हुमायूँ",
+            "C": "अकबर",
+            "D": "जहाँगीर"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Who was the last Mughal emperor of India?",
+        "prashna": "भारत का अंतिम मुगल सम्राट कौन था ?",
+        "options": {
+            "A": "Aurangzeb",
+            "B": "Shahjahan",
+            "C": "Bahadur Shah Zafar",
+            "D": "Muhammad Shah"
+        },
+        "vikalpa": {
+            "A": "औरंगजेब",
+            "B": "शाहजहाँ",
+            "C": "बहादुरशाह जफर",
+            "D": "मुहम्मद शाह"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Who was the contemporary historian of Akbar?",
+        "prashna": "अकबर के समकालीन इतिहासकार कौन थे ?",
+        "options": {
+            "A": "Farishta",
+            "B": "Badauni",
+            "C": "Mulla Daud",
+            "D": "Muhammad Khan"
+        },
+        "vikalpa": {
+            "A": "फरिश्ता",
+            "B": "बदायूँनी",
+            "C": "मुल्ला दाउद",
+            "D": "मुहम्मद खान"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In which year was the Muslim League established?",
+        "prashna": "मुस्लिम लीग की स्थापना किस वर्ष हुई ?",
+        "options": {
+            "A": "1885",
+            "B": "1906",
+            "C": "1915",
+            "D": "1919"
+        },
+        "vikalpa": {
+            "A": "1885",
+            "B": "1906",
+            "C": "1915",
+            "D": "1919"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Who was the first Governor-General of independent India?",
+        "prashna": "स्वतंत्र भारत के प्रथम गवर्नर जनरल कौन थे ?",
+        "options": {
+            "A": "C. Rajagopalachari",
+            "B": "Lord Mountbatten",
+            "C": "Lal Bahadur Shastri",
+            "D": "Radcliffe"
+        },
+        "vikalpa": {
+            "A": "सी. राजगोपालाचारी",
+            "B": "लार्ड माउण्टबेटन",
+            "C": "लाल बहादुर शास्त्री",
+            "D": "रेडक्लिफ"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Who was the first woman President of the Indian National Congress?",
+        "prashna": "भारतीय राष्ट्रीय कांग्रेस की प्रथम महिला अध्यक्षा कौन थी ?",
+        "options": {
+            "A": "Annie Besant",
+            "B": "Aruna Asaf Ali",
+            "C": "Sarojini Naidu",
+            "D": "Vijayalakshmi"
+        },
+        "vikalpa": {
+            "A": "एनी बेसेंट",
+            "B": "अरुणा आसफ अली",
+            "C": "सरोजिनी नायडू",
+            "D": "विजयालक्ष्मी"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Who gave the slogan \"Jai Hind\"?",
+        "prashna": "\"जय हिन्द\" का नारा किसने दिया ?",
+        "options": {
+            "A": "Bhagat Singh",
+            "B": "Chandrashekhar",
+            "C": "Jawaharlal Nehru",
+            "D": "Subhash Chandra Bose"
+        },
+        "vikalpa": {
+            "A": "भगत सिंह",
+            "B": "चन्द्रशेखर",
+            "C": "जवाहरलाल नेहरू",
+            "D": "सुभाष चन्द्र बोस"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "When did the Second World War start?",
+        "prashna": "द्वितीय विश्वयुद्ध कब आरंभ हुआ ?",
+        "options": {
+            "A": "1 September, 1935",
+            "B": "1 September, 1937",
+            "C": "1 September, 1939",
+            "D": "1 September, 1912"
+        },
+        "vikalpa": {
+            "A": "1 सितम्बर, 1935",
+            "B": "1 सितम्बर, 1937",
+            "C": "1 सितम्बर, 1939",
+            "D": "1 सितम्बर, 1912"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "When did Pakistan come into existence as an independent nation?",
+        "prashna": "पाकिस्तान एक स्वतंत्र राष्ट्र के रूप में कब अस्तित्व में आया ?",
+        "options": {
+            "A": "26 January, 1947",
+            "B": "30 January, 1947",
+            "C": "14 August, 1947",
+            "D": "15 August, 1947"
+        },
+        "vikalpa": {
+            "A": "26 जनवरी, 1947",
+            "B": "30 जनवरी, 1947",
+            "C": "14 अगस्त, 1947",
+            "D": "15 अगस्त, 1947"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Who was the chairman of the Drafting Committee of the Constitution?",
+        "prashna": "संविधान के प्रारूप समिति के अध्यक्ष कौन थे ?",
+        "options": {
+            "A": "Bhimrao Ambedkar",
+            "B": "Dr. Rajendra Prasad",
+            "C": "Dr. Sachchidanand Sinha",
+            "D": "Jawaharlal Nehru"
+        },
+        "vikalpa": {
+            "A": "भीमराव अम्बेडकर",
+            "B": "डॉ. राजेन्द्र प्रसाद",
+            "C": "डॉ. सच्चिदानन्द सिन्हा",
+            "D": "जवाहरलाल नेहरू"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "When did India become a republic?",
+        "prashna": "भारत कब गणतंत्र हुआ ?",
+        "options": {
+            "A": "20 January, 1930",
+            "B": "26 January, 1947",
+            "C": "26 January, 1950",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "20 जनवरी, 1930",
+            "B": "26 जनवरी, 1947",
+            "C": "26 जनवरी, 1950",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Who was the first Home Minister of independent India?",
+        "prashna": "स्वतंत्र भारत के प्रथम गृहमंत्री कौन थे ?",
+        "options": {
+            "A": "Vallabhbhai Patel",
+            "B": "C. Rajagopalachari",
+            "C": "Rajendra Prasad",
+            "D": "Maulana Azad"
+        },
+        "vikalpa": {
+            "A": "बल्लभ भाई पटेल",
+            "B": "सी. राजगोपालाचारी",
+            "C": "रोजन्द्र प्रसाद",
+            "D": "मौलाना आजाद"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Who was the first Prime Minister of Pakistan?",
+        "prashna": "पाकिस्तान का पहला प्रधानमंत्री कौन था ?",
+        "options": {
+            "A": "Muhammad Ali Jinnah",
+            "B": "Liaquat Ali",
+            "C": "Iqbal Ahmad",
+            "D": "Maulana Azad"
+        },
+        "vikalpa": {
+            "A": "मुहम्मद अली जिन्ना",
+            "B": "लियाकत अली",
+            "C": "इकबाल अहमद",
+            "D": "मौलाना आजाद"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Where was Bahadur Shah Zafar exiled to?",
+        "prashna": "बहादुरशाह जफर को देश निकाला कर कहाँ भेजा गया ?",
+        "options": {
+            "A": "Singapore",
+            "B": "Buckinghamshire",
+            "C": "Rangoon",
+            "D": "Colombo"
+        },
+        "vikalpa": {
+            "A": "सिंगापुर",
+            "B": "बकिंघमशायर",
+            "C": "रंगून",
+            "D": "कोलम्बो"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Who was the Governor-General of India at the time of the revolt of 1857?",
+        "prashna": "1857 के विद्रोह के समय भारत का गवर्नर जनरल कौन था ?",
+        "options": {
+            "A": "Lord Clive",
+            "B": "Lord Bentinck",
+            "C": "Lord Canning",
+            "D": "Lord Dalhousie"
+        },
+        "vikalpa": {
+            "A": "लार्ड क्लाईव",
+            "B": "लार्ड बेंटिंक",
+            "C": "लार्ड कैनिंग",
+            "D": "लार्ड डलहौजी"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "The doctrine of lapse is related to whom?",
+        "prashna": "व्यपगत के सिद्धान्त का सम्बन्ध किससे है ?",
+        "options": {
+            "A": "Curzon",
+            "B": "Dalhousie",
+            "C": "Lytton",
+            "D": "Minto"
+        },
+        "vikalpa": {
+            "A": "कर्जन",
+            "B": "डलहौजी",
+            "C": "लिटन",
+            "D": "मिंटो"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "On which date did the revolution of 1857 start?",
+        "prashna": "1857 की क्रांति किस तिथि को आरंभ हुई ?",
+        "options": {
+            "A": "10 May",
+            "B": "13 May",
+            "C": "18 May",
+            "D": "26 May"
+        },
+        "vikalpa": {
+            "A": "10 मई",
+            "B": "13 मई",
+            "C": "18 मई",
+            "D": "26 मई"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Where is the Gateway of India located?",
+        "prashna": "गेटवे ऑफ इंडिया कहाँ स्थित है ?",
+        "options": {
+            "A": "Bombay",
+            "B": "Delhi",
+            "C": "Calcutta",
+            "D": "Madras"
+        },
+        "vikalpa": {
+            "A": "बम्बई",
+            "B": "दिल्ली",
+            "C": "कलकत्ता",
+            "D": "मद्रास"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "When was India Gate constructed?",
+        "prashna": "इंडिया गेट का निर्माण कब हुआ ?",
+        "options": {
+            "A": "1911",
+            "B": "1921",
+            "C": "1931",
+            "D": "1941"
+        },
+        "vikalpa": {
+            "A": "1911",
+            "B": "1921",
+            "C": "1931",
+            "D": "1941"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "When did the railways start in India?",
+        "prashna": "भारत में रेलवे की शुरुआत कब हुई ?",
+        "options": {
+            "A": "1753",
+            "B": "1773",
+            "C": "1853",
+            "D": "1873"
+        },
+        "vikalpa": {
+            "A": "1753",
+            "B": "1773",
+            "C": "1853",
+            "D": "1873"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "When did Vasco-da-Gama come to India?",
+        "prashna": "वास्को-डि-गामा भारत कब आया ?",
+        "options": {
+            "A": "1498",
+            "B": "1554",
+            "C": "1598",
+            "D": "1654"
+        },
+        "vikalpa": {
+            "A": "1498",
+            "B": "1554",
+            "C": "1598",
+            "D": "1654"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Who propounded the \"Drain of Wealth Theory\" in India during the British rule?",
+        "prashna": "ब्रिटिश शासन काल में भारत में \"धन प्रवास का सिद्धान्त\" किसने प्रतिपादित किया ?",
+        "options": {
+            "A": "R. C. Dutt",
+            "B": "Dadabhai Naoroji",
+            "C": "M. N. Roy",
+            "D": "Adam Smith"
+        },
+        "vikalpa": {
+            "A": "आर. सी. दत्त",
+            "B": "दादाभाई नौरोजी",
+            "C": "एम. एन. राय",
+            "D": "एडम स्मिथ"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "When was Bhagat Singh hanged?",
+        "prashna": "भगत सिंह को फाँसी कब दी गई ?",
+        "options": {
+            "A": "23 March, 1931",
+            "B": "5 March, 1931",
+            "C": "26 December, 1932",
+            "D": "16 August, 1932"
+        },
+        "vikalpa": {
+            "A": "23 मार्च, 1931",
+            "B": "5 मार्च, 1931",
+            "C": "26 दिसम्बर, 1932",
+            "D": "16 अगस्त, 1932"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "When was Mahavir Swami born?",
+        "prashna": "महावीर स्वामी का जन्म कब हुआ था ?",
+        "options": {
+            "A": "540 B.C.",
+            "B": "523 B.C.",
+            "C": "522 B.C.",
+            "D": "640 B.C."
+        },
+        "vikalpa": {
+            "A": "540 ई. पू.",
+            "B": "523 ई. पू.",
+            "C": "522 ई. पू.",
+            "D": "640 ई. पू."
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Digambar and Shwetambar are related to which religion?",
+        "prashna": "दिगम्बर एवं श्वेताम्बर किस धर्म से सम्बन्धित है ?",
+        "options": {
+            "A": "Vedic religion",
+            "B": "Buddhism",
+            "C": "Jainism",
+            "D": "Sikhism"
+        },
+        "vikalpa": {
+            "A": "वैदिक धर्म",
+            "B": "बौद्ध धर्म",
+            "C": "जैन धर्म",
+            "D": "सिक्ख धर्म"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "In which district of Madhya Pradesh is Sanchi located?",
+        "prashna": "साँची मध्य प्रदेश के किस जिले में स्थित है ?",
+        "options": {
+            "A": "Vidisha",
+            "B": "Raisen",
+            "C": "Sagar",
+            "D": "Bhopal"
+        },
+        "vikalpa": {
+            "A": "विदिशा",
+            "B": "रायसेन",
+            "C": "सागर",
+            "D": "भोपाल"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which ruler started Dhamma in ancient India?",
+        "prashna": "प्राचीन भारत में धम्म की शुरुआत किस शासक ने की ?",
+        "options": {
+            "A": "Chandragupta Maurya",
+            "B": "$Chandragupta \\ II$",
+            "C": "Ashoka",
+            "D": "Kanishka"
+        },
+        "vikalpa": {
+            "A": "चन्द्रगुप्त मौर्य",
+            "B": "चन्द्रगुप्त $II$",
+            "C": "अशोक",
+            "D": "कनिष्क"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Whose work is 'Akbarnama'?",
+        "prashna": "'अकबरनामा' किसकी कृति है ?",
+        "options": {
+            "A": "Amir Khusro",
+            "B": "Alberuni",
+            "C": "Ibn-Battuta",
+            "D": "Abul Fazl"
+        },
+        "vikalpa": {
+            "A": "अमीर खुसरो",
+            "B": "अलबरूनी",
+            "C": "इब्न-बतूता",
+            "D": "अबुल फजल"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Whom did Sher Shah defeat in the battle of Chausa?",
+        "prashna": "शेरशाह ने चौसा के युद्ध में किसे पराजित किया ?",
+        "options": {
+            "A": "Babar",
+            "B": "Humayun",
+            "C": "Akbar",
+            "D": "Jahangir"
+        },
+        "vikalpa": {
+            "A": "बाबर",
+            "B": "हुमायूँ",
+            "C": "अकबर",
+            "D": "जहाँगीर"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Of which metal was 'Jital' made?",
+        "prashna": "'जीतल' किस धातु का होता था ?",
+        "options": {
+            "A": "Gold",
+            "B": "Silver",
+            "C": "Copper",
+            "D": "Brass"
+        },
+        "vikalpa": {
+            "A": "सोना",
+            "B": "चाँदी",
+            "C": "तांबा",
+            "D": "पीतल"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "When was the reign of Jahangir?",
+        "prashna": "जहाँगीर का शासन काल कब था ?",
+        "options": {
+            "A": "1605-1627 A.D.",
+            "B": "1627-1658 A.D.",
+            "C": "1685-1707 A.D.",
+            "D": "1351-1388 A.D."
+        },
+        "vikalpa": {
+            "A": "1605-1627 ई.",
+            "B": "1627-1658 ई.",
+            "C": "1685-1707 ई.",
+            "D": "1351-1388 ई."
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Into how many parts was the land classified during Akbar's time?",
+        "prashna": "अकबर के काल में भूमि को कितने भागों में वर्गीकृत किया गया था ?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "10"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "In whose court was Navratna?",
+        "prashna": "नवरत्न किसके दरबार में थे ?",
+        "options": {
+            "A": "Akbar",
+            "B": "Humayun",
+            "C": "Sher Shah",
+            "D": "Jahangir"
+        },
+        "vikalpa": {
+            "A": "अकबर",
+            "B": "हुमायूँ",
+            "C": "शेरशाह",
+            "D": "जहाँगीर"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "In which year did the Chauri Chaura incident happen?",
+        "prashna": "चौरीचौरा काण्ड किस वर्ष हुआ ?",
+        "options": {
+            "A": "1919",
+            "B": "1920",
+            "C": "1921",
+            "D": "1922"
+        },
+        "vikalpa": {
+            "A": "1919",
+            "B": "1920",
+            "C": "1921",
+            "D": "1922"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Who was known by the name \"Sher-e-Punjab\"?",
+        "prashna": "\"शेर-ए-पंजाब\" के नाम से किसे जाना जाता था ?",
+        "options": {
+            "A": "Bal Gangadhar Tilak",
+            "B": "Lala Lajpat Rai",
+            "C": "Bipin Chandra Pal",
+            "D": "Gopal Krishna Gokhale"
+        },
+        "vikalpa": {
+            "A": "बाल गंगाधर तिलक",
+            "B": "लाला लाजपत राय",
+            "C": "बिपिन चन्द्र पाल",
+            "D": "गोपाल कृष्ण गोखले"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "When did the Simon Commission come to India?",
+        "prashna": "साइमन कमीशन भारत कब आया ?",
+        "options": {
+            "A": "1925",
+            "B": "1928",
+            "C": "1932",
+            "D": "1935"
+        },
+        "vikalpa": {
+            "A": "1925",
+            "B": "1928",
+            "C": "1932",
+            "D": "1935"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Which of the following movements started with the Dandi March?",
+        "prashna": "निम्न में से कौन-सा आंदोलन दांडी मार्च से शुरू हुआ ?",
+        "options": {
+            "A": "Swadeshi Movement",
+            "B": "Civil Disobedience Movement",
+            "C": "Non-Cooperation Movement",
+            "D": "Quit India Movement"
+        },
+        "vikalpa": {
+            "A": "स्वदेशी आन्दोलन",
+            "B": "सविनय अवज्ञा आन्दोलन",
+            "C": "असहयोग आन्दोलन",
+            "D": "भारत छोड़ो आन्दोलन"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "In which state is Dandi located?",
+        "prashna": "दाण्डी किस राज्य में स्थित है ?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Madhya Pradesh",
+            "C": "Himachal Pradesh",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "मध्य प्रदेश",
+            "C": "हिमाचल प्रदेश",
+            "D": "गुजरात"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Where did Mahatma Gandhi start the first peasant movement?",
+        "prashna": "महात्मा गांधी ने पहला किसान आंदोलन कहाँ शुरू किया ?",
+        "options": {
+            "A": "Bardoli",
+            "B": "Dandi",
+            "C": "Wardha",
+            "D": "Champaran"
+        },
+        "vikalpa": {
+            "A": "बारदोली",
+            "B": "दाण्डी",
+            "C": "वर्धा",
+            "D": "चम्पारण"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Which movement took place in 1942?",
+        "prashna": "1942 में कौन-सा आंदोलन हुआ ?",
+        "options": {
+            "A": "Non-Cooperation Movement",
+            "B": "Civil Disobedience Movement",
+            "C": "Khilafat Movement",
+            "D": "Quit India Movement"
+        },
+        "vikalpa": {
+            "A": "असहयोग आन्दोलन",
+            "B": "सविनय अवज्ञा आन्दोलन",
+            "C": "खिलाफत आन्दोलन",
+            "D": "भारत छोड़ो आन्दोलन"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "In which year was the Rowlatt Act passed?",
+        "prashna": "रॉलेट एक्ट किस वर्ष पारित हुआ ?",
+        "options": {
+            "A": "1916",
+            "B": "1918",
+            "C": "1919",
+            "D": "1921"
+        },
+        "vikalpa": {
+            "A": "1916",
+            "B": "1918",
+            "C": "1919",
+            "D": "1921"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "When did the Jallianwala Bagh massacre happen?",
+        "prashna": "जलियाँवाला बाग हत्याकांड कब हुआ ?",
+        "options": {
+            "A": "1913",
+            "B": "1915",
+            "C": "1919",
+            "D": "1920"
+        },
+        "vikalpa": {
+            "A": "1913",
+            "B": "1915",
+            "C": "1919",
+            "D": "1920"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "In which year was the partition of Bengal announced?",
+        "prashna": "बंगाल के विभाजन की घोषणा किस वर्ष हुई ?",
+        "options": {
+            "A": "1905",
+            "B": "1906",
+            "C": "1911",
+            "D": "1914"
+        },
+        "vikalpa": {
+            "A": "1905",
+            "B": "1906",
+            "C": "1911",
+            "D": "1914"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "According to Anguttara Nikaya, what was the number of Mahajanapadas?",
+        "prashna": "अंगुत्तर निकाय के अनुसार महाजनपदों की संख्या कितनी थी",
+        "options": {
+            "A": "8",
+            "B": "16",
+            "C": "32",
+            "D": "64"
+        },
+        "vikalpa": {
+            "A": "8",
+            "B": "16",
+            "C": "32",
+            "D": "64"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Who established the Magadha empire?",
+        "prashna": "मगध साम्राज्य की स्थापना किसने की ?",
+        "options": {
+            "A": "Bimbisara",
+            "B": "Ajatashatru",
+            "C": "Udayin",
+            "D": "Nagdashak"
+        },
+        "vikalpa": {
+            "A": "बिम्बिसार",
+            "B": "अजातशत्रु",
+            "C": "उदायिन",
+            "D": "नागदशक"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "What was the reign of Chandragupta Maurya?",
+        "prashna": "चन्द्रगुप्त मौर्य का शासन काल क्या था ?",
+        "options": {
+            "A": "544-412 B.C.",
+            "B": "491-459 B.C.",
+            "C": "344-323 B.C.",
+            "D": "323-298 B.C."
+        },
+        "vikalpa": {
+            "A": "544-412 ई. पू.",
+            "B": "491-459 ई. पू.",
+            "C": "344-323 ई. पू.",
+            "D": "323-298 ई. पू."
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Which emperor assumed the title of Vikramaditya?",
+        "prashna": "विक्रमादित्य की उपाधि किस सम्राट ने ग्रहण की थी ?",
+        "options": {
+            "A": "$Chandragupta \\ I$",
+            "B": "$Chandragupta \\ II$",
+            "C": "Samudragupta",
+            "D": "Skandagupta"
+        },
+        "vikalpa": {
+            "A": "चन्द्रगुप्त-$I$",
+            "B": "चन्द्रगुप्त-$II$",
+            "C": "समुद्रगुप्त",
+            "D": "सकन्दगुप्त"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Ashoka was the ruler of which dynasty?",
+        "prashna": "अशोक किस वंश का शासक था ?",
+        "options": {
+            "A": "Nanda dynasty",
+            "B": "Maurya dynasty",
+            "C": "Gupta dynasty",
+            "D": "Pala dynasty"
+        },
+        "vikalpa": {
+            "A": "नन्द वंश",
+            "B": "मौर्य वंश",
+            "C": "गुप्त वंश",
+            "D": "पाल वंश"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Who was the first ruler of the Mauryan empire?",
+        "prashna": "मौर्य साम्राज्य का प्रथम शासक कौन था ?",
+        "options": {
+            "A": "Bindusara",
+            "B": "Chandragupta Maurya",
+            "C": "Ashoka",
+            "D": "Mahendra"
+        },
+        "vikalpa": {
+            "A": "बिन्दुसार",
+            "B": "चन्द्रगुप्त मौर्य",
+            "C": "अशोक",
+            "D": "महेन्द्र"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "In which language was Mahabharata composed?",
+        "prashna": "महाभारत की रचना किस भाषा में हुई है ?",
+        "options": {
+            "A": "Sanskrit",
+            "B": "Pali",
+            "C": "Prakrit",
+            "D": "Hindi"
+        },
+        "vikalpa": {
+            "A": "संस्कृत",
+            "B": "पाली",
+            "C": "प्राकृत",
+            "D": "हिन्दी"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "What is the number of Puranas?",
+        "prashna": "पुराणों की संख्या कितनी है ?",
+        "options": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "24"
+        },
+        "vikalpa": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "24"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "How many types of Ashramas are mentioned in the Ashrama system?",
+        "prashna": "आश्रम व्यवस्था में कितने प्रकार के आश्रमों का उल्लेख है ?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Why was the Ashvamedha Yajna organized?",
+        "prashna": "अश्वमेघ यज्ञ का आयोजन क्यों किया जाता था ?",
+        "options": {
+            "A": "For royal sovereignty",
+            "B": "For trade",
+            "C": "For both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "शाही संप्रभुता के लिये",
+            "B": "व्यापार के लिये",
+            "C": "दोनों के लिये",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Which of the following is not a city of the Harappan civilization?",
+        "prashna": "निम्न में कौन हड़प्पा सभ्यता का नगर नहीं है ?",
+        "options": {
+            "A": "Mohenjodaro",
+            "B": "Lothal",
+            "C": "Kalibangan",
+            "D": "Vijayanagar"
+        },
+        "vikalpa": {
+            "A": "मोहनजोदड़ो",
+            "B": "लोथल",
+            "C": "कालीबंगन",
+            "D": "विजयनगर"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "When did William Jones establish the Asiatic Society?",
+        "prashna": "विलियम जोन्स ने एशियांटिक सोसाइटी की स्थापना कब की थी ?",
+        "options": {
+            "A": "1784",
+            "B": "1835",
+            "C": "1861",
+            "D": "1902"
+        },
+        "vikalpa": {
+            "A": "1784",
+            "B": "1835",
+            "C": "1861",
+            "D": "1902"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "In which year did Dayaram Sahni discover the Harappan civilization?",
+        "prashna": "दयाराम साहनी ने हड़प्पा सभ्यता की खोज किस वर्ष की ?",
+        "options": {
+            "A": "1921",
+            "B": "1922",
+            "C": "1927",
+            "D": "1931"
+        },
+        "vikalpa": {
+            "A": "1921",
+            "B": "1922",
+            "C": "1927",
+            "D": "1931"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "In which state is Dholavira?",
+        "prashna": "धौलावीरा किस राज्य में है ?",
+        "options": {
+            "A": "Haryana",
+            "B": "Uttar Pradesh",
+            "C": "Gujarat",
+            "D": "Punjab"
+        },
+        "vikalpa": {
+            "A": "हरियाणा",
+            "B": "उत्तर प्रदेश",
+            "C": "गुजरात",
+            "D": "पंजाब"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "\"Mohenjodaro\" is a word of which language?",
+        "prashna": "\"मोहनजोदड़ो\" किस भाषा का शब्द है ?",
+        "options": {
+            "A": "Hindi",
+            "B": "Urdu",
+            "C": "Punjabi",
+            "D": "Sindhi"
+        },
+        "vikalpa": {
+            "A": "हिन्दी",
+            "B": "उर्दू",
+            "C": "पंजाबी",
+            "D": "सिंधी"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "In which city was the Great Bath of the Harappan civilization found?",
+        "prashna": "हड़प्पा सभ्यता का विशाल स्नानागार किस नगर में पाया गया है ?",
+        "options": {
+            "A": "Mohenjodaro",
+            "B": "Lothal",
+            "C": "Kalibangan",
+            "D": "Ropar"
+        },
+        "vikalpa": {
+            "A": "मोहनजोदड़ो",
+            "B": "लोथल",
+            "C": "कालीबंगन",
+            "D": "रोपड़"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Which one of the following does not come under archaeology?",
+        "prashna": "पुरातत्व के अन्तर्गत निम्न में से कौन एक नहीं आता है ?",
+        "options": {
+            "A": "Literature",
+            "B": "Coins",
+            "C": "Inscriptions",
+            "D": "Ruins"
+        },
+        "vikalpa": {
+            "A": "साहित्य",
+            "B": "सिक्के",
+            "C": "अभिलेख",
+            "D": "भग्नावशेष"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "Lothal is situated on the bank of which river?",
+        "prashna": "लोथल किस नदी के किनारे स्थित है ?",
+        "options": {
+            "A": "Sindh",
+            "B": "Vyas",
+            "C": "Bhogwa",
+            "D": "Ravi"
+        },
+        "vikalpa": {
+            "A": "सिंध",
+            "B": "व्यास",
+            "C": "भोगवा",
+            "D": "रावी"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Tripitaka is the literature of which religion?",
+        "prashna": "त्रिपिटक किस धर्म का साहित्य है ?",
+        "options": {
+            "A": "Brahmanism",
+            "B": "Buddhism",
+            "C": "Jainism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ब्राह्मण धर्म",
+            "B": "बौद्ध धर्म",
+            "C": "जैन धर्म",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Who wrote 'Rajatarangini'?",
+        "prashna": "'राजतरंगिणी\" किसने लिखा था ?",
+        "options": {
+            "A": "Kautilya",
+            "B": "Kalhana",
+            "C": "Panini",
+            "D": "Vishakhadatta"
+        },
+        "vikalpa": {
+            "A": "कौटिल्य",
+            "B": "कल्हण",
+            "C": "पाणिनी",
+            "D": "विशाखदत्त"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "question": "Whom did Babur defeat in the first battle of Panipat?",
+        "prashna": "पानीपत के प्रथम युद्ध में बाबर ने किसे पराजित किया ?",
+        "options": {
+            "A": "Hemu",
+            "B": "Ibrahim Lodi",
+            "C": "Rana Sanga",
+            "D": "Umar Shaikh Mirza"
+        },
+        "vikalpa": {
+            "A": "हेमू",
+            "B": "इब्राहिम लोदी",
+            "C": "राणा सांगा",
+            "D": "उमर शेख मिर्जा"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "question": "The famous singer in Akbar's court was",
+        "prashna": "अकबर के दरबार का प्रख्यात गायक था",
+        "options": {
+            "A": "Tansen",
+            "B": "Salim Chishti",
+            "C": "Kabir",
+            "D": "Alla-Udal"
+        },
+        "vikalpa": {
+            "A": "तानसेन",
+            "B": "सलीम चिश्ती",
+            "C": "कबीर",
+            "D": "अल्ला-उदल"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "question": "On the bank of which river is the Taj Mahal located?",
+        "prashna": "ताजमहल किस नदी के किनारे स्थित है ?",
+        "options": {
+            "A": "Son",
+            "B": "Yamuna",
+            "C": "Gomti",
+            "D": "Ganga"
+        },
+        "vikalpa": {
+            "A": "सोन",
+            "B": "यमुना",
+            "C": "गोमती",
+            "D": "गंगा"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "question": "Whose policy was Sulh-i-Kul?",
+        "prashna": "सुलह-ए-कुल की नीति किसकी थी ?",
+        "options": {
+            "A": "Humayun",
+            "B": "Akbar",
+            "C": "Jahangir",
+            "D": "Aurangzeb"
+        },
+        "vikalpa": {
+            "A": "हुमायूँ",
+            "B": "अकबर",
+            "C": "जहाँगीर",
+            "D": "औरंगजेब"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "question": "Which Mughal ruler abolished Jizya on Hindus?",
+        "prashna": "किस मुगल शासक ने हिन्दुओं पर से जिजिया कर हटाया ?",
+        "options": {
+            "A": "Babar",
+            "B": "Akbar",
+            "C": "Jahangir",
+            "D": "Shahjahan"
+        },
+        "vikalpa": {
+            "A": "बाबर",
+            "B": "अकबर",
+            "C": "जहाँगीर",
+            "D": "शाहजहाँ"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "question": "Who is called the father of Indology in Russia?",
+        "prashna": "रूस में भारत विधा का जनक किसे कहा जाता है ?",
+        "options": {
+            "A": "Nicolo Conti",
+            "B": "Afanasy Nikitin",
+            "C": "G. S. Livedev",
+            "D": "Domingo Paes"
+        },
+        "vikalpa": {
+            "A": "निकोलो कोण्टी",
+            "B": "अफनासी निकितन",
+            "C": "जी. एस. लिविदेव",
+            "D": "डोमिंगो पेइस"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "question": "In which year Hampi was declared a World Heritage Site by UNESCO?",
+        "prashna": "यूनेस्को द्वारा किस वर्ष हम्पी विश्व धरोहर स्थल घोषित किया गया ?",
+        "options": {
+            "A": "1856",
+            "B": "1876",
+            "C": "1902",
+            "D": "1986"
+        },
+        "vikalpa": {
+            "A": "1856",
+            "B": "1876",
+            "C": "1902",
+            "D": "1986"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "question": "Who was the greatest ruler of Vijayanagar?",
+        "prashna": "विजयनगर का महानतम शासक कौन था ?",
+        "options": {
+            "A": "Vir Narasimha",
+            "B": "Krishnadeva Raya",
+            "C": "Achyuta Raya",
+            "D": "Sadasiva Raya"
+        },
+        "vikalpa": {
+            "A": "वीर नरसिंह",
+            "B": "कृष्णदेव राय",
+            "C": "अच्युतरेव राय",
+            "D": "सदाशिव राय"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "question": "Hampi is related to which state?",
+        "prashna": "हम्पी किस राज्य से सम्बन्धित है ?",
+        "options": {
+            "A": "Maurya",
+            "B": "Gupta",
+            "C": "Bahmani",
+            "D": "Vijayanagar"
+        },
+        "vikalpa": {
+            "A": "मौर्य",
+            "B": "गुप्त",
+            "C": "बहमनी",
+            "D": "विजयनगर"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "question": "When was the Vijayanagar empire established?",
+        "prashna": "विजयनगर साम्राज्य की स्थापना कब हुई?",
+        "options": {
+            "A": "1347",
+            "B": "1325",
+            "C": "1336",
+            "D": "1348"
+        },
+        "vikalpa": {
+            "A": "1347",
+            "B": "1325",
+            "C": "1336",
+            "D": "1348"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "question": "When was the Deccan Riots Commission formed?",
+        "prashna": "दक्कन दंगा आयोग कब गठित हुआ ?",
+        "options": {
+            "A": "1875",
+            "B": "1880",
+            "C": "1885",
+            "D": "1890"
+        },
+        "vikalpa": {
+            "A": "1875",
+            "B": "1880",
+            "C": "1885",
+            "D": "1890"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "question": "When was the Cornwallis Code made?",
+        "prashna": "कार्नवालिस कोड कब बना?",
+        "options": {
+            "A": "1775",
+            "B": "1793",
+            "C": "1797",
+            "D": "1805"
+        },
+        "vikalpa": {
+            "A": "1775",
+            "B": "1793",
+            "C": "1797",
+            "D": "1805"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "question": "What was Damin-i-Koh?",
+        "prashna": "दामिन-इ-कोह क्या था ?",
+        "options": {
+            "A": "Land area",
+            "B": "Title",
+            "C": "Sword",
+            "D": "Jagir"
+        },
+        "vikalpa": {
+            "A": "भू-भाग",
+            "B": "उपाधि",
+            "C": "तलवार",
+            "D": "जागीर"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "question": "By whom was the Mahalwari land revenue system implemented?",
+        "prashna": "महालवाड़ी भूराजस्व व्यवस्था किसके द्वारा लागू की गयी ?",
+        "options": {
+            "A": "Lord Dalhousie",
+            "B": "Lord Wellesley",
+            "C": "William Bentinck",
+            "D": "Auckland"
+        },
+        "vikalpa": {
+            "A": "लार्ड डलहौजी",
+            "B": "लार्ड वेलेस्ली",
+            "C": "विलियम बेंटिंक",
+            "D": "ऑक्लैण्ड"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "question": "Who was the leader of the Santhal rebellion?",
+        "prashna": "संथाल विद्रोह का नेता कौन था ?",
+        "options": {
+            "A": "Sidhu-Kanhu",
+            "B": "Sebaram",
+            "C": "Chittar Singh",
+            "D": "Birsa Munda"
+        },
+        "vikalpa": {
+            "A": "सिद्ध-कान्हू",
+            "B": "सेबरम",
+            "C": "चित्तर सिंह",
+            "D": "बिरसा मुण्डा"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "question": "Who was Francis Buchanan?",
+        "prashna": "फ्रांसिस बुकानन कौन था ?",
+        "options": {
+            "A": "Soldier",
+            "B": "Singer",
+            "C": "Engineer",
+            "D": "Surveyor"
+        },
+        "vikalpa": {
+            "A": "सैनिक",
+            "B": "गायक",
+            "C": "अभियंता",
+            "D": "सर्वेक्षक"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "question": "When was the East India Company established?",
+        "prashna": "ईस्ट इंडिया कम्पनी की स्थापना कब हुई थी ?",
+        "options": {
+            "A": "1500 A.D.",
+            "B": "1600 A.D.",
+            "C": "1650 A.D.",
+            "D": "1700 A.D."
+        },
+        "vikalpa": {
+            "A": "1500 A.D.",
+            "B": "1600 A.D.",
+            "C": "1650 A.D.",
+            "D": "1700 A.D."
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "question": "What was the name of the adopted son of Lakshmibai?",
+        "prashna": "लक्ष्मीबाई के गोद लिये पुत्र का नाम क्या था ?",
+        "options": {
+            "A": "Mardan Singh",
+            "B": "Sadashiv",
+            "C": "Damodar Rao",
+            "D": "Dhundiraj"
+        },
+        "vikalpa": {
+            "A": "मर्दन सिंह",
+            "B": "सदाशिव",
+            "C": "दामोदर राव",
+            "D": "धुंडिराज"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "question": "Who led the revolt of 1857 in Jagdishpur?",
+        "prashna": "जगदीशपुर में 1857 के विद्रोह का नेतृत्व किसने किया ?",
+        "options": {
+            "A": "Dilip Singh",
+            "B": "Kunwar Singh",
+            "C": "Baji Rao",
+            "D": "Mardan Singh"
+        },
+        "vikalpa": {
+            "A": "दिलीप सिंह",
+            "B": "कुँवर सिंह",
+            "C": "बाजी राव",
+            "D": "मर्दन सिंह"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "question": "Who was the Prime Minister of England at the time of the revolt of 1857?",
+        "prashna": "1857 के विद्रोह के समय इंगलैंड का प्रधानमंत्री कौन था ?",
+        "options": {
+            "A": "Walpole",
+            "B": "Gladstone",
+            "C": "Palmerston",
+            "D": "Disraeli"
+        },
+        "vikalpa": {
+            "A": "वालपोल",
+            "B": "ग्लैडस्टोन",
+            "C": "पामर्स्टन",
+            "D": "डिजरैली"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "question": "Who were the disciples of Ramananda?",
+        "prashna": "रामानन्द के शिष्य कौन थे ?",
+        "options": {
+            "A": "Raidas",
+            "B": "Kabir",
+            "C": "Dhanna and Pipa",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "रैदास",
+            "B": "कबीर",
+            "C": "धना एवं पीपा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "question": "Talwandi was the birthplace of whom?",
+        "prashna": "तलवंडी किसका जन्म स्थान था ?",
+        "options": {
+            "A": "Kabir",
+            "B": "Nanak",
+            "C": "Raidas",
+            "D": "Mirabai"
+        },
+        "vikalpa": {
+            "A": "कबीर",
+            "B": "नानक",
+            "C": "रैदास",
+            "D": "मीराबाई"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "question": "Where is the Dargah of Khwaja Moinuddin Chishti?",
+        "prashna": "ख्वाजा मुइनुद्दीन चिश्ती की दरगाह कहाँ है ?",
+        "options": {
+            "A": "Delhi",
+            "B": "Agra",
+            "C": "Jaipur",
+            "D": "Ajmer"
+        },
+        "vikalpa": {
+            "A": "दिल्ली",
+            "B": "आगरा",
+            "C": "जयपुर",
+            "D": "अजमेर"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "question": "Which famous saint was born in Kashi?",
+        "prashna": "काशी में किस प्रसिद्ध संत का जन्म हुआ ?",
+        "options": {
+            "A": "Mirabai",
+            "B": "Kabir",
+            "C": "Guru Nanak",
+            "D": "Vallabhacharya"
+        },
+        "vikalpa": {
+            "A": "मीराबाई",
+            "B": "कबीर",
+            "C": "गुरु नानक",
+            "D": "बल्लभाचार्य"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "question": "Whose teachings are compiled in 'Bijak'?",
+        "prashna": "बीजक में किसके उपदेश संगृहीत हैं ?",
+        "options": {
+            "A": "Kabir",
+            "B": "Guru Nanak",
+            "C": "Chaitanya",
+            "D": "Ramananda"
+        },
+        "vikalpa": {
+            "A": "कबीर",
+            "B": "गुरु नानक",
+            "C": "चैतन्य",
+            "D": "रामानन्द"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "question": "Hiuen Tsang was a traveller from which country?",
+        "prashna": "ह्वेनसांग किस देश का यात्री था ?",
+        "options": {
+            "A": "Greece",
+            "B": "Italy",
+            "C": "China",
+            "D": "Morocco"
+        },
+        "vikalpa": {
+            "A": "यूनान",
+            "B": "इटली",
+            "C": "चीन",
+            "D": "मोरक्को"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "question": "Tahqiq-i-Hind is a travelogue of whom?",
+        "prashna": "तहकीक-ए-हिन्द किसकी यात्रा वृतान्त है ?",
+        "options": {
+            "A": "Alberuni",
+            "B": "Fa-Hien",
+            "C": "Ibn-Battuta",
+            "D": "Abdur Razzaq"
+        },
+        "vikalpa": {
+            "A": "अलबरूनी",
+            "B": "फाह्यान",
+            "C": "इब्न-बतूता",
+            "D": "अब्दुर्रज्जाक"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "question": "Who was the famous Greek traveler of the Mauryan period?",
+        "prashna": "मौर्य काल का प्रसिद्ध यूनानी यात्री कौन था ?",
+        "options": {
+            "A": "Robert Sewell",
+            "B": "Megasthenes",
+            "C": "Alberuni",
+            "D": "Francois Bernier"
+        },
+        "vikalpa": {
+            "A": "राबर्ट सीवेल",
+            "B": "मेगास्थनीज",
+            "C": "अलबरूनी",
+            "D": "फ्रांसिस बर्नियर"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "question": "With whom did Alberuni come to India?",
+        "prashna": "अलबरूनी किसके साथ भारत आया ?",
+        "options": {
+            "A": "Mahmud Ghazni",
+            "B": "Muhammad Ghori",
+            "C": "Timur",
+            "D": "Muhammad bin Qasim"
+        },
+        "vikalpa": {
+            "A": "महमुद गजनी",
+            "B": "मोहम्मद गोरी",
+            "C": "तैमूर",
+            "D": "मोहम्मद बिन कासिम"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "question": "Captain Hawkins came to the court of which Mughal ruler?",
+        "prashna": "कैप्टन हॉकिन्स किस मुगल शासक के दरबार में आया था ?",
+        "options": {
+            "A": "Akbar",
+            "B": "Jahangir",
+            "C": "Aurangzeb",
+            "D": "Shahjahan"
+        },
+        "vikalpa": {
+            "A": "अकबर",
+            "B": "जहाँगीर",
+            "C": "औरंगजेब",
+            "D": "शाहजहाँ"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Why do historians compare Samudragupta with Napoleon? State the reasons.",
+        "prashna": "इतिहासकार नेपोलियन से समुद्रगुप्त की तुलना क्यों करते हैं ? कारण बतायें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Mention two similarities between Buddhism and Jainism.",
+        "prashna": "बौद्ध एवं जैन धर्म की दो समानातायें बतायें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What do you know about Ain-i-Akbari?",
+        "prashna": "आइन-ए-अकबरी के बारे में आप क्या जानते हैं ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is Jhum cultivation?",
+        "prashna": "झूम खेती क्या है ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "When did the Santhal rebellion start? Who was its leader?",
+        "prashna": "संथाल विद्रोह कब आरंभ हुआ ? इसके नेता कौन थे?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Who was Tatya Tope? How did he die?",
+        "prashna": "तांत्या टोपे कौन था ? उसकी मृत्यु कैसे हुई ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Mention two features of the drainage system of the Harappan civilization.",
+        "prashna": "हड़प्पा सभ्यता की जल निकास प्रणाली की दो विशेषतायें बतायें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is the Carbon-14 method?",
+        "prashna": "कार्बन 14 विधि क्या है ?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Where is Lothal? What is the importance of this place in the study of history?",
+        "prashna": "लोथल कहाँ है ? इतिहास अध्ययन में इस स्थान का क्या महत्व है ?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Name the seven wonders of the world.",
+        "prashna": "विश्व के सात आश्चर्यों के नाम बतायें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What were the methods of greeting in the Mughal court?",
+        "prashna": "मुगल दरबार में अभिवादन के तरीके क्या थे ?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Where is the Kamal Mahal? What was its use?",
+        "prashna": "कमल महल कहाँ है ? इसका क्या उपयोग था ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Name 4 major centers of the Harappan civilization.",
+        "prashna": "हड़प्पा सभ्यता के 4 प्रमुख केन्द्रों के नाम बतायें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Write a note on the Great Granary.",
+        "prashna": "विशाल अन्नागार पर टिप्पणी लिखें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "How many types of cremation of dead bodies were there in the Indus Valley Civilization?",
+        "prashna": "सिन्धु घाटी सभ्यता में शवों के दाह संस्कार के कितने प्रकार थे ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "State two reasons for the rise of the Magadha empire.",
+        "prashna": "मगध साम्राज्य के उत्थान के दो कारण बतायें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What was the effect of the Kalinga war on Ashoka?",
+        "prashna": "कलिंग युद्ध का अशोक पर क्या प्रभाव पड़ा ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Name two famous temples of the Gupta period.",
+        "prashna": "गुप्त काल के दो प्रसिद्ध मंदिरों के नाम बतायें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Explain the importance of the following four years in Gandhi's life:",
+        "prashna": "गाँधी के जीवन में निम्नलिखित चार वर्षों का महत्व बतायें :",
+        "sub_questions": {
+            "A": "1915",
+            "B": "1920",
+            "C": "1930",
+            "D": "1948"
+        },
+        "anuprashna": {
+            "A": "1915",
+            "B": "1920",
+            "C": "1930",
+            "D": "1948"
+        }
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What was the Communal Award?",
+        "prashna": "कम्यूनल अवार्ड क्या था ?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "When did the Cripps Mission come to India? Who was the chairman of this mission?",
+        "prashna": "क्रिप्स मिशन भारत कब आया ? इस मिशन के अध्यक्ष कौन थे ?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "Who was Babu Kunwar Singh? Who led the revolution of 1857 in Patna?",
+        "prashna": "बाबू कुंवर सिंह कौन थे ? 1857 की क्रांति का नेतृत्व पटना में किसने किया था ?"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "When and between which stations did the first train in India run?",
+        "prashna": "भारत की सर्वप्रथम रेल कब और किन स्टेशनों के बीच चली ?"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "Who was Sir Edwin Lutyens?",
+        "prashna": "सर एडविन लुटियन्स कौन थे ?"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "question": "Name two contemporary civilizations of the Indus Valley Civilization.",
+        "prashna": "सिंधु घाटी सभ्यता के समकालीन दो सभ्यताओं के नाम बतायें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "Name any two major literary sources of Mauryan history.",
+        "prashna": "मौर्यकालीन इतिहास के किन्हीं दो प्रमुख साहित्यिक स्रोतों के नाम बतायें।"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "question": "Who was the founder of the Haryanka dynasty? State his period of work.",
+        "prashna": "हर्यक वंश का संस्थापक कौन था ? उसका कार्य काल बतायें।"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "question": "Who started the Bhakti movement in North India? Give his life sketch.",
+        "prashna": "उत्तर भारत में भक्ति आंदोलन का प्रारंभ किसने किया था? उनका जीवन परिचय दें।"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "question": "Who established the Khalsa Panth and when?",
+        "prashna": "खालसा पंथ की स्थापना किसने और कब की ?"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "question": "What is the meaning of colonialism?",
+        "prashna": "उपनिवेशवाद का क्या अर्थ है ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Discuss the economic life of the Harappan civilization.",
+        "prashna": "हड़प्पा सभ्यता के आर्थिक जीवन की विवेचना करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Why is the Gupta period called the 'Golden Age of India'?",
+        "prashna": "गुप्त काल को “भारत का स्वर्णयुग\" क्यों कहा जाता है ?"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Describe the biography and teachings of Mahavir Swami.",
+        "prashna": "महावीर स्वामी का जीवनी और उपदेशों का वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Discuss the religious policy of Akbar.",
+        "prashna": "अकबर की धार्मिक नीति की विवेचना करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Write an article on Guru Nanak Dev.",
+        "prashna": "गुरु नानक देव पर एक लेख लिखें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "State the reasons for the failure of the revolt of 1857.",
+        "prashna": "1857 के विद्रोह की असफलता के कारण बतायें।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "What do you know about the Civil Disobedience Movement?",
+        "prashna": "सविनय अवज्ञा आंदोलन के बारे में आप क्या जानते हैं ?"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "What are the main features of the Constitution of India?",
+        "prashna": "भारत के संविधान की प्रमुख विशेषतायें क्या हैं ?"
+    }
+]

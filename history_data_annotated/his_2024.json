@@ -1,0 +1,2168 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Shansab coin was made of which metal ?",
+        "prashna": "शंसब किस धातु से बना सिक्का था ?",
+        "options": {
+            "A": "Gold",
+            "B": "Silver",
+            "C": "Copper",
+            "D": "Brass"
+        },
+        "vikalpa": {
+            "A": "सोना",
+            "B": "चाँदी",
+            "C": "ताँबा",
+            "D": "पीतल"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Mughal painting was at its peak during whose time ?",
+        "prashna": "मुग़ल चित्रकला किसके समय चरमोत्कर्ष पर थी ?",
+        "options": {
+            "A": "Babur",
+            "B": "Akbar",
+            "C": "Jahangir",
+            "D": "Shah Jahan"
+        },
+        "vikalpa": {
+            "A": "बाबर",
+            "B": "अकबर",
+            "C": "जहाँगीर",
+            "D": "शाहजहाँ"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Which historian was contemporary to Akbar ?",
+        "prashna": "अकबर का समकालीन इतिहासकार कौन था ?",
+        "options": {
+            "A": "Farishta",
+            "B": "Badauni",
+            "C": "Mulla Daud",
+            "D": "Ibn Battuta"
+        },
+        "vikalpa": {
+            "A": "फ़रिश्ता",
+            "B": "बदायूँनी",
+            "C": "मुल्ला दाउद",
+            "D": "इब्न बतूता"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Whose composition is 'Tabaqat-i-Akbari'?",
+        "prashna": "'तबकात-ए-अकबरी' किसकी रचना है?",
+        "options": {
+            "A": "Abul Fazl",
+            "B": "Farishta",
+            "C": "Nizamuddin Ahmad",
+            "D": "Barani"
+        },
+        "vikalpa": {
+            "A": "अबुल फजल",
+            "B": "फरिश्ता",
+            "C": "निज़ामुद्दीन अहमद",
+            "D": "बरनी"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Which of the following is not built by the Mughals ?",
+        "prashna": "निम्न में से कौन मुग़लों द्वारा निर्मित नहीं है ?",
+        "options": {
+            "A": "Taj Mahal",
+            "B": "Lal Qila",
+            "C": "Qutub Minar",
+            "D": "Humayun's Tomb"
+        },
+        "vikalpa": {
+            "A": "ताजमहल",
+            "B": "लाल किला",
+            "C": "कुतुब मीनार",
+            "D": "हुमायूँ का मकबरा"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "Where was Guru Gobind Singh born ?",
+        "prashna": "गुरु गोबिन्द सिंह का जन्म कहाँ हुआ?",
+        "options": {
+            "A": "Agra",
+            "B": "Mathura",
+            "C": "Kashi",
+            "D": "Patna"
+        },
+        "vikalpa": {
+            "A": "आगरा",
+            "B": "मथुरा",
+            "C": "काशी",
+            "D": "पटना"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "Who was the Guru of Ramananda ?",
+        "prashna": "रामानन्द के गुरु कौन थे ?",
+        "options": {
+            "A": "Raghavananda",
+            "B": "Sukhananda",
+            "C": "Kabir",
+            "D": "Ashananda"
+        },
+        "vikalpa": {
+            "A": "राघवनंद",
+            "B": "सुखानन्द",
+            "C": "कबीर",
+            "D": "आशानन्द"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "With which Silsila is Bahauddin Zakariya related ?",
+        "prashna": "बहाउद्दीन ज़कारिया का सम्बन्ध किस सिलसिला से है ?",
+        "options": {
+            "A": "Chishti",
+            "B": "Suhravardi",
+            "C": "Qadiri",
+            "D": "Naqshbandi"
+        },
+        "vikalpa": {
+            "A": "चिश्ती",
+            "B": "सुहरावर्दी",
+            "C": "क़ादरी",
+            "D": "नक्शबंदी"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "What was the residence of Sufi saints ?",
+        "prashna": "सूफी संतों का निवास स्थान क्या था ?",
+        "options": {
+            "A": "Khanqah",
+            "B": "Dargah",
+            "C": "Tazkira",
+            "D": "Sama"
+        },
+        "vikalpa": {
+            "A": "खानकाह",
+            "B": "दरगाह",
+            "C": "तजकिरा",
+            "D": "समा"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "Which city is associated with the Vijayanagara Empire ?",
+        "prashna": "विजयनगर साम्राज्य से किस नगर का सम्बन्ध है ?",
+        "options": {
+            "A": "Mathura",
+            "B": "Ajmer",
+            "C": "Kashi",
+            "D": "Hampi"
+        },
+        "vikalpa": {
+            "A": "मथुरा",
+            "B": "अजमेर",
+            "C": "काशी",
+            "D": "हम्पी"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "Gandhara art was influenced by which art ?",
+        "prashna": "गांधार कला किस कला से प्रभावित थी ?",
+        "options": {
+            "A": "Chinese art",
+            "B": "Greek art",
+            "C": "Iranian art",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "चीनी कला",
+            "B": "यूनानी कला",
+            "C": "ईरानी कला",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Who was the judicial officer in the Mauryan period ?",
+        "prashna": "मौर्य काल में न्यायिक अधिकारी कौन था ?",
+        "options": {
+            "A": "Rajjuk",
+            "B": "Dandapal",
+            "C": "Durgapal",
+            "D": "Sannidhata"
+        },
+        "vikalpa": {
+            "A": "राजुक",
+            "B": "दंडपाल",
+            "C": "दुर्गपाल",
+            "D": "सन्निधाता"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Pana was a coin of which metal ?",
+        "prashna": "पण किस धातु का सिक्का था ?",
+        "options": {
+            "A": "Gold",
+            "B": "Silver",
+            "C": "Copper",
+            "D": "Bronze"
+        },
+        "vikalpa": {
+            "A": "सोना",
+            "B": "चाँदी",
+            "C": "ताँबा",
+            "D": "कांस्य"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "Where was the first Buddhist Council held ?",
+        "prashna": "प्रथम बौद्ध संगीति कहाँ हुई थी ?",
+        "options": {
+            "A": "Pataliputra",
+            "B": "Kashi",
+            "C": "Rajagriha",
+            "D": "Vaishali"
+        },
+        "vikalpa": {
+            "A": "पाटलिपुत्र",
+            "B": "काशी",
+            "C": "राजगृह",
+            "D": "वैशाली"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Which was famous for cotton textile industry?",
+        "prashna": "सूती वस्त्र उद्योग के लिये कौन प्रसिद्ध था ?",
+        "options": {
+            "A": "Uraiyur",
+            "B": "Hampi",
+            "C": "Calicut",
+            "D": "Golconda"
+        },
+        "vikalpa": {
+            "A": "उरैयुर",
+            "B": "हम्पी",
+            "C": "कालीकट",
+            "D": "गोलकुंडा"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Who issued coins playing Veena ?",
+        "prashna": "वीणा बजाते हुए सिक्के किसने जारी किए ?",
+        "options": {
+            "A": "Bimbisara",
+            "B": "Ashoka",
+            "C": "Kanishka",
+            "D": "Samudragupta"
+        },
+        "vikalpa": {
+            "A": "बिम्बिसार",
+            "B": "अशोक",
+            "C": "कनिष्क",
+            "D": "समुद्रगुप्त"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Who was Fa-Hien ?",
+        "prashna": "फाहियान कौन था ?",
+        "options": {
+            "A": "Sailor",
+            "B": "Physician",
+            "C": "Chinese pilgrim",
+            "D": "Commandar"
+        },
+        "vikalpa": {
+            "A": "नाविक",
+            "B": "चिकित्सक",
+            "C": "चीनी तीर्थयात्री",
+            "D": "सेनापति"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter_name": "Kinship, Caste and Class",
+        "question": "Into how many parts has the age been divided in the Ashram system?",
+        "prashna": "आश्रम व्यवस्था में आयु को कितने भागों में बाँटा गया है ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter_name": "Kinship, Caste and Class",
+        "question": "Which of the following marriages was not considered good?",
+        "prashna": "निम्न में से कौन-सा विवाह अच्छा नहीं माना गया ?",
+        "options": {
+            "A": "Brahma",
+            "B": "Daiva",
+            "C": "Prajapatya",
+            "D": "Asur"
+        },
+        "vikalpa": {
+            "A": "ब्रह्म",
+            "B": "दैव",
+            "C": "प्रजापत्य",
+            "D": "असुर"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter_name": "Kinship, Caste and Class",
+        "question": "In which book is 'Purusha Sukta' mentioned ?",
+        "prashna": "'पुरुष-सूक्त' का उल्लेख किस ग्रंथ में है ?",
+        "options": {
+            "A": "Rigveda",
+            "B": "Yajurveda",
+            "C": "Ramayana",
+            "D": "Mahabharata"
+        },
+        "vikalpa": {
+            "A": "ऋग्वेद",
+            "B": "यजुर्वेद",
+            "C": "रामायण",
+            "D": "महाभारत"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Which book did Kautilya compose ?",
+        "prashna": "कौटिल्य ने किस ग्रंथ की रचना की ?",
+        "options": {
+            "A": "Indica",
+            "B": "Meghadoot",
+            "C": "Arthashastra",
+            "D": "Malavikagnimitra"
+        },
+        "vikalpa": {
+            "A": "इंडिका",
+            "B": "मेघदूत",
+            "C": "अर्थशास्त्र",
+            "D": "मालविकाग्निमित्र"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "What is the number of Upanishads?",
+        "prashna": "उपनिषदों की संख्या कितनी है ?",
+        "options": {
+            "A": "104",
+            "B": "108",
+            "C": "110",
+            "D": "150"
+        },
+        "vikalpa": {
+            "A": "104",
+            "B": "108",
+            "C": "110",
+            "D": "150"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Whose creation is 'Mudrarakshasa'?",
+        "prashna": "'मुद्राराक्षस' किसकी रचना है ?",
+        "options": {
+            "A": "Kautilya",
+            "B": "Megasthenes",
+            "C": "Vishakhadatta",
+            "D": "Kalidasa"
+        },
+        "vikalpa": {
+            "A": "कौटिल्य",
+            "B": "मेगास्थनीज",
+            "C": "विशाखदत्त",
+            "D": "कालिदास"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Who is the author of 'Kadambari'?",
+        "prashna": "'कादम्बरी' के लेखक कौन हैं ?",
+        "options": {
+            "A": "Kalidasa",
+            "B": "Kautilya",
+            "C": "Banabhatta",
+            "D": "Asvaghosha"
+        },
+        "vikalpa": {
+            "A": "कालिदास",
+            "B": "कौटिल्य",
+            "C": "बाणभट्ट",
+            "D": "अश्वघोष"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "In which book are sixteen Mahajanapadas mentioned ?",
+        "prashna": "किस ग्रंथ में सोलह महाजनपदों का उल्लेख मिलता है ?",
+        "options": {
+            "A": "Anguttara nikaya",
+            "B": "Bhagavati Sutra",
+            "C": "Both (A) and (B)",
+            "D": "Mahavamsha"
+        },
+        "vikalpa": {
+            "A": "अंगुत्तरनिकाय",
+            "B": "भगवती सूत्र",
+            "C": "(A) और (B) दोनों",
+            "D": "महावंश"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Koshala Mahajanapada was situated on the bank of which river ?",
+        "prashna": "कोशल महाजनपद किस नदी के किनारे स्थित था ?",
+        "options": {
+            "A": "Ganga",
+            "B": "Yamuna",
+            "C": "Sarayu",
+            "D": "Gandak"
+        },
+        "vikalpa": {
+            "A": "गंगा",
+            "B": "यमुना",
+            "C": "सरयू",
+            "D": "गंडक"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Indraprastha was the capital of which Mahajanapada ?",
+        "prashna": "इंद्रप्रस्थ किस महाजनपद की राजधानी थी ?",
+        "options": {
+            "A": "Anga",
+            "B": "Magadha",
+            "C": "Koshala",
+            "D": "Kuru"
+        },
+        "vikalpa": {
+            "A": "अंग",
+            "B": "मगध",
+            "C": "कोशल",
+            "D": "कुरु"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Who founded the Maurya dynasty ?",
+        "prashna": "मौर्य वंश की स्थापना किसने की ?",
+        "options": {
+            "A": "Chandragupta Maurya",
+            "B": "Ashoka",
+            "C": "Bimbisara",
+            "D": "Samudragupta"
+        },
+        "vikalpa": {
+            "A": "चन्द्रगुप्त मौर्य",
+            "B": "अशोक",
+            "C": "बिम्बिसार",
+            "D": "समुद्रगुप्त"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "In which language are the inscriptions of Ashoka ?",
+        "prashna": "अशोक के अभिलेख किस भाषा में हैं ?",
+        "options": {
+            "A": "Sanskrit",
+            "B": "Prakrit",
+            "C": "Hindi",
+            "D": "Tamil"
+        },
+        "vikalpa": {
+            "A": "संस्कृत",
+            "B": "प्राकृत",
+            "C": "हिन्दी",
+            "D": "तमिल"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "When did the Kalinga war take place ?",
+        "prashna": "कलिंग युद्ध कब हुआ ?",
+        "options": {
+            "A": "347 B.C.",
+            "B": "261 B.C.",
+            "C": "205 B.C.",
+            "D": "183 B.C."
+        },
+        "vikalpa": {
+            "A": "347 ई०पू०",
+            "B": "261 ई०पू०",
+            "C": "205 ई०पू०",
+            "D": "183 ई०पू०"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "In which session of the Congress, was the proposal for Quit India Movement passed ?",
+        "prashna": "भारत छोड़ो आंदोलन का प्रस्ताव कांग्रेस के किस अधिवेशन में पारित हुआ ?",
+        "options": {
+            "A": "Bankipore",
+            "B": "Surat",
+            "C": "Calcutta",
+            "D": "Bombay"
+        },
+        "vikalpa": {
+            "A": "बांकीपुर",
+            "B": "सूरत",
+            "C": "कलकत्ता",
+            "D": "बम्बई"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Which was founded in 1915 ?",
+        "prashna": "1915 में किसकी स्थापना हुई ?",
+        "options": {
+            "A": "Indian National Congress",
+            "B": "Hindu Mahasabha",
+            "C": "Muslim League",
+            "D": "Swaraj Party"
+        },
+        "vikalpa": {
+            "A": "भारतीय राष्ट्रीय कांग्रेस",
+            "B": "हिन्दू महासभा",
+            "C": "मुस्लिम लीग",
+            "D": "स्वराज पार्टी"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Which was founded by Subhash Chandra Bose in 1924 ?",
+        "prashna": "1924 में सुभाष चन्द्र बोस ने किसकी स्थापना की ?",
+        "options": {
+            "A": "Akali Dal",
+            "B": "Forward Bloc",
+            "C": "Swaraj Party",
+            "D": "Hindu Mahasabha"
+        },
+        "vikalpa": {
+            "A": "अकाली दल",
+            "B": "फारवर्ड ब्लाक",
+            "C": "स्वराज पार्टी",
+            "D": "हिन्दू महासभा"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "chapter_name": "Understanding Partition",
+        "question": "Who among the following was not a member of the Cabinet Mission ?",
+        "prashna": "निम्न में से कौन कैबिनेट मिशन के सदस्य नहीं थे ?",
+        "options": {
+            "A": "Pethick Lawrence",
+            "B": "A.V. Alexander",
+            "C": "Stafford Cripps",
+            "D": "Lord Wavell"
+        },
+        "vikalpa": {
+            "A": "पैथिक लारेन्स",
+            "B": "ए०वी० अलेक्जेण्डर",
+            "C": "स्टेफोर्ड क्रिप्स",
+            "D": "लार्ड वेवेल"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When did Mahatma Gandhi return to India from South Africa ?",
+        "prashna": "महात्मा गाँधी दक्षिण अफ्रीका से भारत कब वापस आये ?",
+        "options": {
+            "A": "1885",
+            "B": "1890",
+            "C": "1909",
+            "D": "1915"
+        },
+        "vikalpa": {
+            "A": "1885",
+            "B": "1890",
+            "C": "1909",
+            "D": "1915"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Who wrote 'Hind Swaraj' ?",
+        "prashna": "'हिन्द स्वराज' किसने लिखा ?",
+        "options": {
+            "A": "Jawaharlal Nehru",
+            "B": "Rajendra Prasad",
+            "C": "Mahatma Gandhi",
+            "D": "Shaukat Ali"
+        },
+        "vikalpa": {
+            "A": "जवाहरलाल नेहरू",
+            "B": "राजेन्द्र प्रसाद",
+            "C": "महात्मा गाँधी",
+            "D": "शौकत अली"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Who returned the title of \"Sir\" (Knighthood) ?",
+        "prashna": "\"सर\" की उपाधि किसने वापस की ?",
+        "options": {
+            "A": "Mahatma Gandhi",
+            "B": "Rabindranath Tagore",
+            "C": "Jawaharlal Nehru",
+            "D": "Dr. B.R. Ambedkar"
+        },
+        "vikalpa": {
+            "A": "महात्मा गाँधी",
+            "B": "रवीन्द्रनाथ टैगोर",
+            "C": "जवाहरलाल नेहरू",
+            "D": "डॉ० बी०आर० अम्बेडकर"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "In which year did Congress pass the resolution of Poorna Swaraj ?",
+        "prashna": "किस वर्ष कांग्रेस ने पूर्ण स्वराज का प्रस्ताव पारित किया ?",
+        "options": {
+            "A": "1909",
+            "B": "1916",
+            "C": "1921",
+            "D": "1929"
+        },
+        "vikalpa": {
+            "A": "1909",
+            "B": "1916",
+            "C": "1921",
+            "D": "1929"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When did Cripps Mission come to India?",
+        "prashna": "क्रिप्स मिशन भारत कब आया ?",
+        "options": {
+            "A": "March 1939",
+            "B": "March 1940",
+            "C": "March 1942",
+            "D": "March 1946"
+        },
+        "vikalpa": {
+            "A": "मार्च 1939",
+            "B": "मार्च 1940",
+            "C": "मार्च 1942",
+            "D": "मार्च 1946"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "chapter_name": "Understanding Partition",
+        "question": "Which party celebrated \"Day of Deliverance\" on 22nd December, 1939 ?",
+        "prashna": "22 दिसम्बर, 1939 को किस पार्टी ने \"मुक्ति दिवस\" मनाया ?",
+        "options": {
+            "A": "Swaraj Party",
+            "B": "Congress",
+            "C": "Muslim League",
+            "D": "Akali Dal"
+        },
+        "vikalpa": {
+            "A": "स्वराज पार्टी",
+            "B": "कांग्रेस",
+            "C": "मुस्लिम लीग",
+            "D": "अकाली दल"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "chapter_name": "Framing The Constitution",
+        "question": "Whose birthday is on 14th November?",
+        "prashna": "14 नवम्बर किनका जन्म दिवस है ?",
+        "options": {
+            "A": "Lal Bahadur Shastri",
+            "B": "Mahatma Gandhi",
+            "C": "Jawaharlal Nehru",
+            "D": "Subhash Chandra Bose"
+        },
+        "vikalpa": {
+            "A": "लाल बहादुर शास्त्री",
+            "B": "महात्मा गाँधी",
+            "C": "जवाहरलाल नेहरू",
+            "D": "सुभाष चन्द्र बोस"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "chapter_name": "Colonialism and The Countryside",
+        "question": "When did Santhal revolt take place ?",
+        "prashna": "संथाल विद्रोह कब हुआ ?",
+        "options": {
+            "A": "1832",
+            "B": "1841",
+            "C": "1851",
+            "D": "1855"
+        },
+        "vikalpa": {
+            "A": "1832",
+            "B": "1841",
+            "C": "1851",
+            "D": "1855"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "chapter_name": "Framing The Constitution",
+        "question": "Which slogan was given by Lal Bahadur Shastri ?",
+        "prashna": "लाल बहादुर शास्त्री ने कौन-सा नारा दिया ?",
+        "options": {
+            "A": "Do or Die",
+            "B": "Delhi Chalo",
+            "C": "Jai Jawan Jai Kisan",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "करो या मरो",
+            "B": "दिल्ली चलो",
+            "C": "जय जवान जय किसान",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "chapter_name": "Framing The Constitution",
+        "question": "Where was Dr. Rajendra Prasad born ?",
+        "prashna": "डॉ० राजेन्द्र प्रसाद का जन्म कहाँ हुआ था ?",
+        "options": {
+            "A": "Patna",
+            "B": "Chhapra",
+            "C": "Ziradei",
+            "D": "Darbhanga"
+        },
+        "vikalpa": {
+            "A": "पटना",
+            "B": "छपरा",
+            "C": "जीरादेई",
+            "D": "दरभंगा"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When was Gandhi-Irwin Pact signed ?",
+        "prashna": "गाँधी-इरविन समझौता कब हुआ ?",
+        "options": {
+            "A": "1919",
+            "B": "1928",
+            "C": "1931",
+            "D": "1935"
+        },
+        "vikalpa": {
+            "A": "1919",
+            "B": "1928",
+            "C": "1931",
+            "D": "1935"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Which party was founded in 1885 ?",
+        "prashna": "1885 में किस पार्टी की स्थापना हुई ?",
+        "options": {
+            "A": "Forward Bloc",
+            "B": "Hindu Mahasabha",
+            "C": "Indian National Congress",
+            "D": "Muslim League"
+        },
+        "vikalpa": {
+            "A": "फारवर्ड ब्लाक",
+            "B": "हिन्दू महासभा",
+            "C": "भारतीय राष्ट्रीय कांग्रेस",
+            "D": "मुस्लिम लीग"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "How many Round Table conferences were held ?",
+        "prashna": "कितने गोलमेज़ सम्मेलन हुए थे ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "chapter_name": "Understanding Partition",
+        "question": "Who coined the word \"Pakistan\" ?",
+        "prashna": "\"पाकिस्तान\" शब्द के जन्मदाता कौन थे ?",
+        "options": {
+            "A": "Shaukat Ali",
+            "B": "Hasrat Mohani",
+            "C": "Chaudhary Rahmat Ali",
+            "D": "Mohammad Ali Jinnah"
+        },
+        "vikalpa": {
+            "A": "शौकत अली",
+            "B": "हसरत मोहानी",
+            "C": "चौधरी रहमत अली",
+            "D": "मोहम्मद अली जिन्ना"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When did Kheda Satyagraha take place ?",
+        "prashna": "खेड़ा सत्याग्रह कब हुआ ?",
+        "options": {
+            "A": "1910",
+            "B": "1913",
+            "C": "1915",
+            "D": "1918"
+        },
+        "vikalpa": {
+            "A": "1910",
+            "B": "1913",
+            "C": "1915",
+            "D": "1918"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "In which session did the Congress split ?",
+        "prashna": "कांग्रेस का विभाजन किस अधिवेशन में हुआ ?",
+        "options": {
+            "A": "1893, Lahore",
+            "B": "1903, Madras",
+            "C": "1907, Surat",
+            "D": "1917, Calcutta"
+        },
+        "vikalpa": {
+            "A": "1893, लाहौर",
+            "B": "1903, मद्रास",
+            "C": "1907, सूरत",
+            "D": "1917, कलकत्ता"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "In which year did Akbar abolish pilgrimage tax?",
+        "prashna": "अकबर ने धार्मिक यात्रा कर किस वर्ष समाप्त किया ?",
+        "options": {
+            "A": "1556",
+            "B": "1563",
+            "C": "1575",
+            "D": "1580"
+        },
+        "vikalpa": {
+            "A": "1556",
+            "B": "1563",
+            "C": "1575",
+            "D": "1580"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "chapter_name": "Through The Eyes of Travellers",
+        "question": "Kitab-ul-Hind is written by whom ?",
+        "prashna": "'किताब-उल-हिन्द' किसकी रचना है ?",
+        "options": {
+            "A": "Ziauddin Barani",
+            "B": "Minhaj",
+            "C": "Al-Biruni",
+            "D": "Ibn Battuta"
+        },
+        "vikalpa": {
+            "A": "जियाउद्दीन बरनी",
+            "B": "मिन्हाज",
+            "C": "अल-बिरुनी",
+            "D": "इब्न बतूता"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Where is Sher Shah's tomb ?",
+        "prashna": "शेरशाह का मक़बरा कहाँ है ?",
+        "options": {
+            "A": "Delhi",
+            "B": "Lahore",
+            "C": "Agra",
+            "D": "Sasaram"
+        },
+        "vikalpa": {
+            "A": "दिल्ली",
+            "B": "लाहौर",
+            "C": "आगरा",
+            "D": "सासाराम"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Who was the founder of first Afghan rule in India?",
+        "prashna": "भारत में प्रथम अफ़गान शासन का संस्थापक कौन था ?",
+        "options": {
+            "A": "Bahlol Lodi",
+            "B": "Sikandar Lodi",
+            "C": "Mahmud Lodi",
+            "D": "Sher Shah"
+        },
+        "vikalpa": {
+            "A": "बहलोल लोदी",
+            "B": "सिकंदर लोदी",
+            "C": "महमूद लोदी",
+            "D": "शेरशाह"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Where is the Purana Qila ?",
+        "prashna": "पुराना किला कहाँ है ?",
+        "options": {
+            "A": "Patna",
+            "B": "Allahabad",
+            "C": "Delhi",
+            "D": "Lucknow"
+        },
+        "vikalpa": {
+            "A": "पटना",
+            "B": "इलाहाबाद",
+            "C": "दिल्ली",
+            "D": "लखनऊ"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Where is Alamgirpur located ?",
+        "prashna": "आलमगीरपुर कहाँ स्थित है ?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Punjab",
+            "C": "Gujarat",
+            "D": "Rajasthan"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "पंजाब",
+            "C": "गुजरात",
+            "D": "राजस्थान"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Harappa civilization is a civilization of which age ?",
+        "prashna": "हड़प्पा सभ्यता किस युग की सभ्यता है ?",
+        "options": {
+            "A": "Iron age",
+            "B": "Bronge age",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "लौह युग",
+            "B": "कांस्य युग",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Which was the port in the Harappan civilization ?",
+        "prashna": "हड़प्पा सभ्यता में बन्दरगाह कौन था ?",
+        "options": {
+            "A": "Manda",
+            "B": "Mohenjodaro",
+            "C": "Lothal",
+            "D": "Alamgirpur"
+        },
+        "vikalpa": {
+            "A": "मांडा",
+            "B": "मोहनजोदड़ो",
+            "C": "लोथल",
+            "D": "आलमगीरपुर"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "From where was copper obtained in the Indus civilization?",
+        "prashna": "सिन्धु सभ्यता में ताँबा कहाँ से प्राप्त हुआ ?",
+        "options": {
+            "A": "Rajasthan",
+            "B": "Bihar",
+            "C": "Afghanistan",
+            "D": "Iran"
+        },
+        "vikalpa": {
+            "A": "राजस्थान",
+            "B": "बिहार",
+            "C": "अफगानिस्तान",
+            "D": "ईरान"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Where is the Great Granary found in the Indus civilization ?",
+        "prashna": "सिन्धु सभ्यता में विशाल अन्नागार कहाँ मिला है ?",
+        "options": {
+            "A": "Harappa",
+            "B": "Alamgirpur",
+            "C": "Lothal",
+            "D": "Mohenjodaro"
+        },
+        "vikalpa": {
+            "A": "हड़प्पा",
+            "B": "आलमगीरपुर",
+            "C": "लोथल",
+            "D": "मोहनजोदड़ो"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Who was the regent of Akbar ?",
+        "prashna": "अकबर का संरक्षक कौन था ?",
+        "options": {
+            "A": "Todarmal",
+            "B": "Birbal",
+            "C": "Humayun",
+            "D": "Bairam Khan"
+        },
+        "vikalpa": {
+            "A": "टोडरमल",
+            "B": "बीरबल",
+            "C": "हुमायूँ",
+            "D": "बैरम खाँ"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "When did Jahangir become the ruler ?",
+        "prashna": "जहाँगीर कब शासक बना ?",
+        "options": {
+            "A": "1605",
+            "B": "1610",
+            "C": "1620",
+            "D": "1627"
+        },
+        "vikalpa": {
+            "A": "1605",
+            "B": "1610",
+            "C": "1620",
+            "D": "1627"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Noor Jahan is related to whose reign ?",
+        "prashna": "नूरजहाँ का सम्बन्ध किसके शासन काल से है ?",
+        "options": {
+            "A": "Babur",
+            "B": "Humayun",
+            "C": "Akbar",
+            "D": "Jahangir"
+        },
+        "vikalpa": {
+            "A": "बाबर",
+            "B": "हुमायूँ",
+            "C": "अकबर",
+            "D": "जहाँगीर"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "When did battle of Chausa take place ?",
+        "prashna": "चौसा का युद्ध कब हुआ ?",
+        "options": {
+            "A": "1526",
+            "B": "1530",
+            "C": "1531",
+            "D": "1539"
+        },
+        "vikalpa": {
+            "A": "1526",
+            "B": "1530",
+            "C": "1531",
+            "D": "1539"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Whom did Akbar defeat in the second Battle of Panipat in 1556?",
+        "prashna": "1556 में पानीपत की दूसरी लड़ाई में अकबर ने किसे हराया था ?",
+        "options": {
+            "A": "Hemu",
+            "B": "Baji Rao",
+            "C": "Man Singh",
+            "D": "None of them"
+        },
+        "vikalpa": {
+            "A": "हेमू",
+            "B": "बजीराव",
+            "C": "मान सिंह",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "chapter_name": "Peasants, Zamindars and The State",
+        "question": "Into how many parts was the agricultural land divided during the Mughal period ?",
+        "prashna": "मुग़ल काल में कृषि भूमि को कितने भागों में बाँटा जाता था ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "chapter_name": "Peasants, Zamindars and The State",
+        "question": "Which ruler started Dahsala system ?",
+        "prashna": "दहसाला प्रणाली किस शासक ने शुरू किया ?",
+        "options": {
+            "A": "Babur",
+            "B": "Humayun",
+            "C": "Akbar",
+            "D": "Jahangir"
+        },
+        "vikalpa": {
+            "A": "बाबर",
+            "B": "हुमायूँ",
+            "C": "अकबर",
+            "D": "जहाँगीर"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "chapter_name": "Peasants, Zamindars and The State",
+        "question": "What was the land that was owned by the Mughal emperor, called ?",
+        "prashna": "वह भूमि जो मुग़ल सम्राट के स्वामित्व में था उसे क्या कहते थे ?",
+        "options": {
+            "A": "Polaj",
+            "B": "Parati",
+            "C": "Khalsa",
+            "D": "Banjar"
+        },
+        "vikalpa": {
+            "A": "पोलज",
+            "B": "परती",
+            "C": "ख़ालसा",
+            "D": "बंजर"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Who indroduced the rank of \"Zat\" and \"Sawar\" in the Mansabdari system?",
+        "prashna": "मनसबदारी प्रणाली में \"ज़ात\" और \"सवार\" पद की शुरुआत किसने की ?",
+        "options": {
+            "A": "Humayun",
+            "B": "Akbar",
+            "C": "Jahangir",
+            "D": "Aurangzeb"
+        },
+        "vikalpa": {
+            "A": "हुमायूँ",
+            "B": "अकबर",
+            "C": "जहाँगीर",
+            "D": "औरंगज़ेब"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Which coin was issued by Sher Shah ?",
+        "prashna": "शेरशाह ने किस सिक्के को जारी किया ?",
+        "options": {
+            "A": "Mohur",
+            "B": "Rupiya",
+            "C": "Daam",
+            "D": "Pana"
+        },
+        "vikalpa": {
+            "A": "मोहर",
+            "B": "रुपिया",
+            "C": "दाम",
+            "D": "पण"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Dandi is situated in which state?",
+        "prashna": "दांडी किस राज्य में स्थित है ?",
+        "options": {
+            "A": "Gujarat",
+            "B": "Uttar Pradesh",
+            "C": "Himachal Pradesh",
+            "D": "Madhya Pradesh"
+        },
+        "vikalpa": {
+            "A": "गुजरात",
+            "B": "उत्तर प्रदेश",
+            "C": "हिमाचल प्रदेश",
+            "D": "मध्य प्रदेश"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Where did Mahatma Gandhi start his first Kisan Movement?",
+        "prashna": "महात्मा गाँधी ने पहला किसान आंदोलन कहाँ शुरू किया ?",
+        "options": {
+            "A": "Champaran",
+            "B": "Dandi",
+            "C": "Wardha",
+            "D": "Kheda"
+        },
+        "vikalpa": {
+            "A": "चम्पारण",
+            "B": "दांडी",
+            "C": "वर्धा",
+            "D": "खेड़ा"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When was Muslim League formed ?",
+        "prashna": "मुस्लिम लीग की स्थापना किस वर्ष हुई ?",
+        "options": {
+            "A": "1885",
+            "B": "1900",
+            "C": "1906",
+            "D": "1916"
+        },
+        "vikalpa": {
+            "A": "1885",
+            "B": "1900",
+            "C": "1906",
+            "D": "1916"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "In which year was Quit India Movement started ?",
+        "prashna": "भारत छोड़ो आन्दोलन किस वर्ष शुरू हुआ था ?",
+        "options": {
+            "A": "1920",
+            "B": "1921",
+            "C": "1942",
+            "D": "1945"
+        },
+        "vikalpa": {
+            "A": "1920",
+            "B": "1921",
+            "C": "1942",
+            "D": "1945"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Who became the President of Indian National Congress in 1938 and 1939 ?",
+        "prashna": "1938 एवं 1939 में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष कौन बने थे ?",
+        "options": {
+            "A": "Jawaharlal Nehru",
+            "B": "Maulana Azad",
+            "C": "Subhash Chandra Bose",
+            "D": "Rajendra Prasad"
+        },
+        "vikalpa": {
+            "A": "जवाहरलाल नेहरू",
+            "B": "मौलाना आज़ाद",
+            "C": "सुभाष चन्द्र बोस",
+            "D": "राजेन्द्र प्रसाद"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "chapter_name": "Understanding Partition",
+        "question": "Which party was in the government in Britain at the time of Indian Independence ?",
+        "prashna": "भारतीय स्वतंत्रता के समय ब्रिटेन में किस दल की सरकार थी ?",
+        "options": {
+            "A": "Liberal Party",
+            "B": "Republican Party",
+            "C": "Labour Party",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "लिबरल पार्टी",
+            "B": "रिपब्लिकन पार्टी",
+            "C": "लेबर पार्टी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Mohammad Ali and Shaukat Ali are related to which movement ?",
+        "prashna": "मोहम्मद अली और शौकत अली का सम्बन्ध किस आंदोलन से है ?",
+        "options": {
+            "A": "Partition of Bengal",
+            "B": "Champaran Satyagraha",
+            "C": "Khilafat Movement",
+            "D": "Quit India Movement"
+        },
+        "vikalpa": {
+            "A": "बंगाल विभाजन",
+            "B": "चम्पारण सत्याग्रह",
+            "C": "खिलाफत आंदोलन",
+            "D": "भारत छोड़ो आंदोलन"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "What is the name of Gandhiji's autobiography ?",
+        "prashna": "गाँधीजी की आत्मकथा का क्या नाम है ?",
+        "options": {
+            "A": "Unto This Last",
+            "B": "Freedom at Midnight",
+            "C": "My Experiments with Truth",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अन्दु दिस लास्ट",
+            "B": "फ्रीडम एट मिडनाइट",
+            "C": "माई एक्स्पेरीमेन्ट विथ ट्रुथ",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "chapter_name": "Understanding Partition",
+        "question": "Who gave the Two-nation theory ?",
+        "prashna": "टू-नेशन थ्योरी किसकी थी ?",
+        "options": {
+            "A": "Rahmat Ali",
+            "B": "Shaukat Ali",
+            "C": "Mohammad Ali Jinnah",
+            "D": "Maulana Azad"
+        },
+        "vikalpa": {
+            "A": "रहमत अली",
+            "B": "शौकत अली",
+            "C": "मोहम्मद अली जिन्ना",
+            "D": "मौलाना आज़ाद"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Which act was passed in 1919 ?",
+        "prashna": "1919 में कौन-सा एक्ट पारित हुआ ?",
+        "options": {
+            "A": "Pitts India Act",
+            "B": "Montague-Chelmsford Reform Act",
+            "C": "Stamp Act",
+            "D": "Regulating Act"
+        },
+        "vikalpa": {
+            "A": "पिट्स इंडिया एक्ट",
+            "B": "माण्टेग्यू-चेम्सफोर्ड सुधार एक्ट",
+            "C": "स्टाम्प एक्ट",
+            "D": "रेगुलेटिंग एक्ट"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "chapter_name": "Colonial Cities",
+        "question": "The first rail in India was operated between which stations ?",
+        "prashna": "भारत में पहली रेल किन स्टेशनों के मध्य चली ?",
+        "options": {
+            "A": "Pune-Bombay",
+            "B": "Bombay-Thane",
+            "C": "Bombay-Delhi",
+            "D": "Pune-Delhi"
+        },
+        "vikalpa": {
+            "A": "पुणे-बम्बई",
+            "B": "बम्बई-ठाणे",
+            "C": "बम्बई-दिल्ली",
+            "D": "पुणे-दिल्ली"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Whose mother was Putlibai ?",
+        "prashna": "पुतलीबाई किसकी माता थी ?",
+        "options": {
+            "A": "Gandhi",
+            "B": "Nehru",
+            "C": "Gokhale",
+            "D": "Rajendra Prasad"
+        },
+        "vikalpa": {
+            "A": "गाँधी",
+            "B": "नेहरू",
+            "C": "गोखले",
+            "D": "राजेन्द्र प्रसाद"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Whose creation is 'Satyartha Prakash' ?",
+        "prashna": "'सत्यार्थ प्रकाश' किनकी रचना है ?",
+        "options": {
+            "A": "Gokhale",
+            "B": "Jinnah",
+            "C": "Mahatma Gandhi",
+            "D": "Dayanand Saraswati"
+        },
+        "vikalpa": {
+            "A": "गोखले",
+            "B": "जिन्ना",
+            "C": "महात्मा गाँधी",
+            "D": "दयानन्द सरस्वती"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "chapter_name": "Framing The Constitution",
+        "question": "Who was the first Prime Minister of independent India ?",
+        "prashna": "स्वतंत्र भारत के प्रथम प्रधानमंत्री कौन थे ?",
+        "options": {
+            "A": "Dr. Rajendra Prasad",
+            "B": "Jawaharlal Nehru",
+            "C": "Vallabhbhai Patel",
+            "D": "Mohammad Ali Jinnah"
+        },
+        "vikalpa": {
+            "A": "डॉ० राजेन्द्र प्रसाद",
+            "B": "जवाहलाल नेहरू",
+            "C": "वल्लभभाई पटेल",
+            "D": "मोहम्मद अली जिन्ना"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "chapter_name": "Framing The Constitution",
+        "question": "Who was the Chairman of the Drafting committee of the constitution ?",
+        "prashna": "संविधान की प्रारूप समिति के अध्यक्ष कौन थे ?",
+        "options": {
+            "A": "Dr. Bhim Rao Ambedkar",
+            "B": "Dr. Rajendra Prasad",
+            "C": "Dr. Sachchidanand Sinha",
+            "D": "Jawaharlal Nehru"
+        },
+        "vikalpa": {
+            "A": "डॉ० भीमराव अम्बेडकर",
+            "B": "डॉ० राजेन्द्र प्रसाद",
+            "C": "डॉ० सच्चिदानन्द सिंहा",
+            "D": "जवाहरलाल नेहरू"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When was the Hindu Mahasabha established ?",
+        "prashna": "हिन्दू महासभा की स्थापना कब हुई ?",
+        "options": {
+            "A": "1905",
+            "B": "1910",
+            "C": "1915",
+            "D": "1929"
+        },
+        "vikalpa": {
+            "A": "1905",
+            "B": "1910",
+            "C": "1915",
+            "D": "1929"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Who published 'Al Hilal' newspaper ?",
+        "prashna": "'अल हिलाल' अखबार किसने प्रकाशित किया ?",
+        "options": {
+            "A": "Maulana Mohammad Ali",
+            "B": "Begum Hazrat Mahal",
+            "C": "Mahatma Gandhi",
+            "D": "Maulana Abul Kalam Azad"
+        },
+        "vikalpa": {
+            "A": "मौलाना मोहम्मद अली",
+            "B": "बेगम हजरत महल",
+            "C": "महात्मा गाँधी",
+            "D": "मौलाना अबुल कलाम आज़ाद"
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "chapter_name": "Understanding Partition",
+        "question": "When did Shimla agreement take place ?",
+        "prashna": "शिमला समझौता कब हुआ ?",
+        "options": {
+            "A": "1927",
+            "B": "1930",
+            "C": "1937",
+            "D": "1945"
+        },
+        "vikalpa": {
+            "A": "1927",
+            "B": "1930",
+            "C": "1937",
+            "D": "1945"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "chapter_name": "Colonial Cities",
+        "question": "When was the Gateway of India built in Bombay ?",
+        "prashna": "बम्बई में गेटवे ऑफ इंडिया का निर्माण कब हुआ ?",
+        "options": {
+            "A": "1900",
+            "B": "1905",
+            "C": "1911",
+            "D": "1920"
+        },
+        "vikalpa": {
+            "A": "1900",
+            "B": "1905",
+            "C": "1911",
+            "D": "1920"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "chapter_name": "Framing The Constitution",
+        "question": "How many years did it take to prepare the constitution ?",
+        "prashna": "संविधान तैयार करने में कितने वर्षों का समय लगा ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "Harihar and Bukka were the rulers of which dynasty ?",
+        "prashna": "हरिहर एवं बुक्का किस वंश के शासक थे ?",
+        "options": {
+            "A": "Sangama dynasty",
+            "B": "Saluva dynasty",
+            "C": "Tuluva dynasty",
+            "D": "Aravidu dynasty"
+        },
+        "vikalpa": {
+            "A": "संगम वंश",
+            "B": "सालुव वंश",
+            "C": "तुलुव वंश",
+            "D": "अरावीडु वंश"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "Where is \"Kamal Mahal\" situated ?",
+        "prashna": "\"कमल महल\" कहाँ अवस्थित है ?",
+        "options": {
+            "A": "Hyderabad",
+            "B": "Bijapur",
+            "C": "Hampi",
+            "D": "Kanchipuram"
+        },
+        "vikalpa": {
+            "A": "हैदराबाद",
+            "B": "बीजापुर",
+            "C": "हम्पी",
+            "D": "कांचीपुरम"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "Who wrote \"Amuktamalyada\"?",
+        "prashna": "\"अमुक्तमाल्याद\" किसने लिखा था ?",
+        "options": {
+            "A": "Harihar-I",
+            "B": "Bukka-I",
+            "C": "Devaraya-I",
+            "D": "Krishnadevaraya"
+        },
+        "vikalpa": {
+            "A": "हरिहर-I",
+            "B": "बुक्का-I",
+            "C": "देवराय-I",
+            "D": "कृष्णदेवराय"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "How many dynasties ruled in the Vijayanagara Empire ?",
+        "prashna": "विजयनगर साम्राज्य में कितने वंशों ने शासन किया ?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "Which of the following foreign travellers did not visit Vijayanagara ?",
+        "prashna": "निम्न में से कौन विदेशी यात्री विजयनगर नहीं आया था ?",
+        "options": {
+            "A": "Abdur Razzaq",
+            "B": "Domingo Paes",
+            "C": "Nicolo Conti",
+            "D": "Bernier"
+        },
+        "vikalpa": {
+            "A": "अब्दुर्रज़्ज़ाक",
+            "B": "डोमिंगो पेस",
+            "C": "निकोलो कोण्टी",
+            "D": "बर्नियर"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Who wrote 'Muntakhab-ul-Lubab'?",
+        "prashna": "'मुन्तखब-उल-लुबाब' किसकी रचना है ?",
+        "options": {
+            "A": "Jahangir",
+            "B": "Akbar",
+            "C": "Khafi Khan",
+            "D": "None of them"
+        },
+        "vikalpa": {
+            "A": "जहाँगीर",
+            "B": "अकबर",
+            "C": "खाफी खाँ",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Who is the author of 'Iqbalnama-e-Jahangiri'?",
+        "prashna": "'इकबालनामा-ए-जहाँगीरी' के लेखक कौन हैं ?",
+        "options": {
+            "A": "Gulbadan Begum",
+            "B": "Abul Fazl",
+            "C": "Motamid Khan",
+            "D": "Jahangir"
+        },
+        "vikalpa": {
+            "A": "गुलबदन बेगम",
+            "B": "अबुल फजल",
+            "C": "मोतामिद खाँ",
+            "D": "जहाँगीर"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "chapter_name": "Peasants, Zamindars and The State",
+        "question": "What was 'Ushr' ?",
+        "prashna": "'उशर' क्या था ?",
+        "options": {
+            "A": "Land tax",
+            "B": "Sufi festival",
+            "C": "Grant",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "भूमि कर",
+            "B": "सूफी त्योहार",
+            "C": "अनुदान",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Who was Bakhtiyar Khalji ?",
+        "prashna": "बख्तियार खलजी कौन था ?",
+        "options": {
+            "A": "Sailor",
+            "B": "Traveller",
+            "C": "Physician",
+            "D": "Commander"
+        },
+        "vikalpa": {
+            "A": "नाविक",
+            "B": "यात्री",
+            "C": "चिकित्सक",
+            "D": "सेनापति"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "chapter_name": "Kings and Chronicles",
+        "question": "When did Nadir Shah attack ?",
+        "prashna": "नादिर शाह का आक्रमण कब हुआ ?",
+        "options": {
+            "A": "1526",
+            "B": "1556",
+            "C": "1580",
+            "D": "1739"
+        },
+        "vikalpa": {
+            "A": "1526",
+            "B": "1556",
+            "C": "1580",
+            "D": "1739"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "When was the Swaraj Party established and by whom ?",
+        "prashna": "स्वराज पार्टी की स्थापना कब हुई और किसने की ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter_name": "Understanding Partition",
+        "question": "Why did the Cabinet Mission come to India ?",
+        "prashna": "कैबिनेट मिशन भारत क्यों आया ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter_name": "Framing The Constitution",
+        "question": "What is the Union List in the Constitution of India.",
+        "prashna": "भारतीय संविधान में संघ सूची क्या है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "Who were Nayanars ?",
+        "prashna": "नयनार कौन थे ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter_name": "An Imperial Capital: Vijayanagara",
+        "question": "Write two features of architecture of Vijayanagara empire.",
+        "prashna": "विजयनगर साम्राज्य की स्थापत्य कला की दो विशेषताएँ लिखें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "Write the names of any two saints of Bhakti movement in Maharashtra.",
+        "prashna": "महाराष्ट्र में भक्ति आंदोलन के किन्हीं दो सन्तों के नाम लिखें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Write the names of two inscriptions of Gupta period.",
+        "prashna": "गुप्तकाल के दो अभिलेखों के नाम लिखिए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter_name": "Kinship, Caste and Class",
+        "question": "Write any four types of marriages described in Mahabharata.",
+        "prashna": "महाभारत में वर्णित किन्हीं चार विवाहों के प्रकार लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter_name": "Kinship, Caste and Class",
+        "question": "State any two differences between Varna and Caste.",
+        "prashna": "वर्ण और जाति में कोई दो अन्तर बताइए।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter_name": "Colonial Cities",
+        "question": "Give the names of two buildings built in Indo-Saracenic style of architecture in Bombay during British period.",
+        "prashna": "ब्रिटिश काल के दौरान बम्बई में वास्तुकला की इण्डो-सारसेनिक शैली में निर्मित इमारतों के दो नाम बताइए।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter_name": "Rebels and The Raj",
+        "question": "Write the religious causes for the revolt of 1857.",
+        "prashna": "1857 के विद्रोह के धार्मिक कारण लिखिए।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "Write the names of Seven Wonders of the World.",
+        "prashna": "विश्व के सात आश्चयों के नाम बताइए।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Write the names of any two literary sources of Mauryan history.",
+        "prashna": "मौर्यकालीन इतिहास के किन्हीं दो प्रमुख साहित्यिक स्रोतों के नाम लिखें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "What do you understand by Mahajanapada ?",
+        "prashna": "महाजनपद से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Who was Fa-Hien ? When did he come to India ?",
+        "prashna": "फाहियान कौन था ? वह भारत कब आया ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "State two importances of inscriptions.",
+        "prashna": "अभिलेखों के दो महत्व बताइए।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "What is the difference between Brahmi and Kharosthi scripts ?",
+        "prashna": "ब्राह्मी और खरोष्ठी लिपि में क्या अन्तर है ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Name the four major centres of the Harappa civilization.",
+        "prashna": "हड़प्पा सभ्यता के चार प्रमुख केन्द्रों के नाम बतायें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "chapter_name": "Through The Eyes of Travellers",
+        "question": "Name two travellers from Italy who came during Medieval India.",
+        "prashna": "मध्यकालीन भारत में इटली से आनेवाले दो यात्रियों के नाम बतायें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "chapter_name": "Peasants, Zamindars and The State",
+        "question": "What was Jiziya ?",
+        "prashna": "जिजिया क्या था ?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "chapter_name": "Peasants, Zamindars and The State",
+        "question": "What is Ain-i-Akbari? Into how many parts is it divided ?",
+        "prashna": "आइन-ए-अकबरी क्या है ? यह कितने भागों में विभाजित है ?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "chapter_name": "Colonialism and The Countryside",
+        "question": "Write any two features of Permanent settlement in Bengal.",
+        "prashna": "बंगाल में स्थायी बन्दोबस्त की कोई दो विशेषताओं को लिखें।"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "chapter_name": "Colonialism and The Countryside",
+        "question": "Write two reasons for the establishment of colonies in India.",
+        "prashna": "भारत में उपनिवेशों की स्थापना के दो कारण लिखें।"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "chapter_name": "Colonialism and The Countryside",
+        "question": "Write two reasons for the Battle of Plassey.",
+        "prashna": "प्लासी के युद्ध के दो कारणों को लिखिए।"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Mention two means of irrigation during the Harappan period.",
+        "prashna": "हड़प्पा कालीन सिंचाई के दो साधनों को बताइए।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "What is Tripitaka ?",
+        "prashna": "त्रिपिटक क्या है ?"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "Write any two teachings of Vardhaman Mahavira.",
+        "prashna": "वर्द्धमान महावीर की किन्हीं दो शिक्षाओं को लिखें।"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Write the names of four extremist leaders.",
+        "prashna": "चार उग्रवादी नेताओं के नाम लिखें।"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Why was Chamaparan Satyagraha launched ?",
+        "prashna": "चम्पारण सत्याग्रह क्यों शुरू किया गया था ?"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "What was Chauri Chaura incident ?",
+        "prashna": "चौरी चौरा घटना क्या थी ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter_name": "Bricks, Beads and Bones",
+        "question": "Discuss the town planning system of Harappan civilization.",
+        "prashna": "हड़प्पा सभ्यता की नगर नियोजन प्रणाली की विवेचना करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter_name": "Kings, Farmers and Towns",
+        "question": "Throw light on the town administration of Mauryan empire.",
+        "prashna": "मौर्य साम्राज्य के नगर प्रशासन पर प्रकाश डालें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter_name": "Thinkers, Beliefs and Buildings",
+        "question": "Describe the teachings of Vardhaman Mahavira.",
+        "prashna": "वर्द्धमान महावीर के उपदेशों का वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter_name": "Bhakti-Sufi Traditions",
+        "question": "Write a short essay on Sufism.",
+        "prashna": "सूफीवाद पर एक संक्षिप्त लेख लिखें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "chapter_name": "Kings and Chronicles",
+        "question": "Write a short note on religious policy of Akbar.",
+        "prashna": "अकबर की धार्मिक नीति पर संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "chapter_name": "Rebels and The Raj",
+        "question": "Discuss the causes of the failure of the revolt of 1857.",
+        "prashna": "1857 के विद्रोह की असफलता के कारणों की विवेचना करें।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "chapter_name": "Mahatma Gandhi and The Nationalist Movement",
+        "question": "Discuss the significance of Non-cooperation movement.",
+        "prashna": "असहयोग आंदोलन के महत्व की विवेचना करें।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "chapter_name": "Framing The Constitution",
+        "question": "Evaluate the role of Dr. B.R. Ambedkar in making the Constitution of India.",
+        "prashna": "भारतीय संविधान की रचना में डॉ० बी०आर० अम्बेडकर की भूमिका का मूल्यांकन करें।"
+    }
+]

@@ -1,0 +1,335 @@
+{
+  "2021": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "What is the number of Vedas ?",
+      "prashna": "वेदों की संख्या कितनी है ?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "8"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Whose wife was Draupadi?",
+      "prashna": "द्रौपदी किसकी पत्नी थी ?",
+      "options": {
+        "A": "Bhim",
+        "B": "Yudhishthira",
+        "C": "Arjun",
+        "D": "All of them"
+      },
+      "vikalpa": {
+        "A": "भीम",
+        "B": "युधिष्ठिर",
+        "C": "अर्जुन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Who won the battle of Kurukshetra ?",
+      "prashna": "कुरुक्षेत्र का युद्ध किसने जीता ?",
+      "options": {
+        "A": "Pandava",
+        "B": "Kaurava",
+        "C": "Santhal",
+        "D": "Mongol"
+      },
+      "vikalpa": {
+        "A": "पांडव",
+        "B": "कौरव",
+        "C": "संथाल",
+        "D": "मंगोल"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Who was called Gangaputra ?",
+      "prashna": "गंगापुत्र किसे कहा जाता था ?",
+      "options": {
+        "A": "Arjun",
+        "B": "Vidur",
+        "C": "Bhishma",
+        "D": "Pandu"
+      },
+      "vikalpa": {
+        "A": "अर्जुन",
+        "B": "विदुर",
+        "C": "भीष्म",
+        "D": "पाण्डु"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "In which language was Mahabharata composed?",
+      "prashna": "महाभारत की रचना किस भाषा में हुई है ?",
+      "options": {
+        "A": "Sanskrit",
+        "B": "Pali",
+        "C": "Prakrit",
+        "D": "Hindi"
+      },
+      "vikalpa": {
+        "A": "संस्कृत",
+        "B": "पाली",
+        "C": "प्राकृत",
+        "D": "हिन्दी"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "What is the number of Puranas?",
+      "prashna": "पुराणों की संख्या कितनी है ?",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "How many types of Ashramas are mentioned in the Ashrama system?",
+      "prashna": "आश्रम व्यवस्था में कितने प्रकार के आश्रमों का उल्लेख है ?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Which is the most ancient Smriti text?",
+      "prashna": "सर्वाधिक प्राचीन स्मृति ग्रंथ कौन है ?",
+      "options": {
+        "A": "Narada Smriti",
+        "B": "Yajnavalkya",
+        "C": "Manusmriti",
+        "D": "Gautam Smriti"
+      },
+      "vikalpa": {
+        "A": "नारद स्मृति",
+        "B": "याज्ञवल्क्य",
+        "C": "मनुस्मृति",
+        "D": "गौतम स्मृति"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "In which language was the Mahabharata composed?",
+      "prashna": "महाभारत की रचना किस भाषा में हुई थी",
+      "options": {
+        "A": "Sanskrit",
+        "B": "Pali",
+        "C": "Prakrit",
+        "D": "Hindi"
+      },
+      "vikalpa": {
+        "A": "संस्कृत",
+        "B": "पाली",
+        "C": "प्राकृत",
+        "D": "हिन्दी"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "How many types of marriage are mentioned in Manusmriti?",
+      "prashna": "मनुस्मृति में कितने प्रकार के विवाह का उल्लेख है ?",
+      "options": {
+        "A": "Four",
+        "B": "Six",
+        "C": "Eight",
+        "D": "Ten"
+      },
+      "vikalpa": {
+        "A": "चार",
+        "B": "छ:",
+        "C": "आठ",
+        "D": "दस"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "What is the number of Vedas?",
+      "prashna": "वेदों की संख्या कितनी है ?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Into how many parts has the age been divided in the Ashram system?",
+      "prashna": "आश्रम व्यवस्था में आयु को कितने भागों में बाँटा गया है ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Which of the following marriages was not considered good?",
+      "prashna": "निम्न में से कौन-सा विवाह अच्छा नहीं माना गया ?",
+      "options": {
+        "A": "Brahma",
+        "B": "Daiva",
+        "C": "Prajapatya",
+        "D": "Asur"
+      },
+      "vikalpa": {
+        "A": "ब्रह्म",
+        "B": "दैव",
+        "C": "प्रजापत्य",
+        "D": "असुर"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "In which book is 'Purusha Sukta' mentioned ?",
+      "prashna": "'पुरुष-सूक्त' का उल्लेख किस ग्रंथ में है ?",
+      "options": {
+        "A": "Rigveda",
+        "B": "Yajurveda",
+        "C": "Ramayana",
+        "D": "Mahabharata"
+      },
+      "vikalpa": {
+        "A": "ऋग्वेद",
+        "B": "यजुर्वेद",
+        "C": "रामायण",
+        "D": "महाभारत"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Who is the author of 'Kunti O Nishadi'?",
+      "prashna": "'कुंती ओ निषादी' के लेखक कौन हैं ?",
+      "options": {
+        "A": "Jaishankar Prasad",
+        "B": "Mahashweta Devi",
+        "C": "Premchand",
+        "D": "Mahadevi Verma"
+      },
+      "vikalpa": {
+        "A": "जयशंकर प्रसाद",
+        "B": "महाश्वेता देवी",
+        "C": "प्रेमचंद",
+        "D": "महादेवी वर्मा"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Whose wife was Hidimba ?",
+      "prashna": "हिडिम्बा किसकी पत्नी थी ?",
+      "options": {
+        "A": "Arjuna",
+        "B": "Bhima",
+        "C": "Ghatotkacha",
+        "D": "Karna"
+      },
+      "vikalpa": {
+        "A": "अर्जुन",
+        "B": "भीम",
+        "C": "घटोत्कच",
+        "D": "कर्ण"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Kinship, Caste and Class",
+      "question": "Purusha Sukta is a part of which Veda ?",
+      "prashna": "पुरूषसूक्त किस वेद का हिस्सा है ?",
+      "options": {
+        "A": "Rigveda",
+        "B": "Samveda",
+        "C": "Yajurveda",
+        "D": "Atharvaveda"
+      },
+      "vikalpa": {
+        "A": "ऋगवेद",
+        "B": "सामवेद",
+        "C": "यजुर्वेद",
+        "D": "अथर्ववेद"
+      }
+    }
+  ]
+}

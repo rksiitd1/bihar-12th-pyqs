@@ -1,0 +1,793 @@
+{
+  "2021": [
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Which saint propagated Bhakti Movement in Bengal ?",
+      "prashna": "बंगाल में भक्ति आंदोलन का प्रसार किस संत ने किया ?",
+      "options": {
+        "A": "Ramananda",
+        "B": "Kabir",
+        "C": "Chaitanya",
+        "D": "Guru Nanak"
+      },
+      "vikalpa": {
+        "A": "रामानन्द",
+        "B": "कबीर",
+        "C": "चैतन्य",
+        "D": "गुरु नानक"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Whose birthplace is Talwandi?",
+      "prashna": "तलवण्डी किसका जन्म स्थान है ?",
+      "options": {
+        "A": "Kabir",
+        "B": "Nanak",
+        "C": "Raidas",
+        "D": "Meera"
+      },
+      "vikalpa": {
+        "A": "कबीर",
+        "B": "नानक",
+        "C": "रैदास",
+        "D": "मीरा"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Whose preachings are collected in Bijak ?",
+      "prashna": "बीजक में किसका उपदेश संगृहीत है ?",
+      "options": {
+        "A": "Kabir",
+        "B": "Guru Nanak",
+        "C": "Chaitanya",
+        "D": "Ramananda"
+      },
+      "vikalpa": {
+        "A": "कबीर",
+        "B": "गुरु नानक",
+        "C": "चैतन्य",
+        "D": "रामानन्द"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where is the shrine of Salim Chishti situated ?",
+      "prashna": "सलीम चिश्ती की दरगाह कहाँ अवस्थित है ?",
+      "options": {
+        "A": "Agra",
+        "B": "Ajmer",
+        "C": "Vijayanagara",
+        "D": "Delhi"
+      },
+      "vikalpa": {
+        "A": "आगरा",
+        "B": "अजमेर",
+        "C": "विजयनगर",
+        "D": "दिल्ली"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Bhakti Movement was started by whom in North India ?",
+      "prashna": "भक्ति आंदोलन का उत्तर भारत में आरंभ किसने किया ?",
+      "options": {
+        "A": "Ramananda",
+        "B": "Kabir",
+        "C": "Chaitanya",
+        "D": "Nanak"
+      },
+      "vikalpa": {
+        "A": "रामानन्द",
+        "B": "कबीर",
+        "C": "चैतन्य",
+        "D": "नानक"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where was Saint Kabir born?",
+      "prashna": "संत कबीर का जन्म कहाँ हुआ था ?",
+      "options": {
+        "A": "Delhi",
+        "B": "Varanasi",
+        "C": "Mathura",
+        "D": "Hyderabad"
+      },
+      "vikalpa": {
+        "A": "दिल्ली",
+        "B": "वाराणसी",
+        "C": "मथुरा",
+        "D": "हैदराबाद"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who were the disciples of Ramananda?",
+      "prashna": "रामानन्द के शिष्य कौन थे ?",
+      "options": {
+        "A": "Raidas",
+        "B": "Kabir",
+        "C": "Dhanna and Pipa",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "रैदास",
+        "B": "कबीर",
+        "C": "धना एवं पीपा",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Talwandi was the birthplace of whom?",
+      "prashna": "तलवंडी किसका जन्म स्थान था ?",
+      "options": {
+        "A": "Kabir",
+        "B": "Nanak",
+        "C": "Raidas",
+        "D": "Mirabai"
+      },
+      "vikalpa": {
+        "A": "कबीर",
+        "B": "नानक",
+        "C": "रैदास",
+        "D": "मीराबाई"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where is the Dargah of Khwaja Moinuddin Chishti?",
+      "prashna": "ख्वाजा मुइनुद्दीन चिश्ती की दरगाह कहाँ है ?",
+      "options": {
+        "A": "Delhi",
+        "B": "Agra",
+        "C": "Jaipur",
+        "D": "Ajmer"
+      },
+      "vikalpa": {
+        "A": "दिल्ली",
+        "B": "आगरा",
+        "C": "जयपुर",
+        "D": "अजमेर"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Which famous saint was born in Kashi?",
+      "prashna": "काशी में किस प्रसिद्ध संत का जन्म हुआ ?",
+      "options": {
+        "A": "Mirabai",
+        "B": "Kabir",
+        "C": "Guru Nanak",
+        "D": "Vallabhacharya"
+      },
+      "vikalpa": {
+        "A": "मीराबाई",
+        "B": "कबीर",
+        "C": "गुरु नानक",
+        "D": "बल्लभाचार्य"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Whose teachings are compiled in 'Bijak'?",
+      "prashna": "बीजक में किसके उपदेश संगृहीत हैं ?",
+      "options": {
+        "A": "Kabir",
+        "B": "Guru Nanak",
+        "C": "Chaitanya",
+        "D": "Ramananda"
+      },
+      "vikalpa": {
+        "A": "कबीर",
+        "B": "गुरु नानक",
+        "C": "चैतन्य",
+        "D": "रामानन्द"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Kabir was a disciple of",
+      "prashna": "कबीर शिष्य थे",
+      "options": {
+        "A": "Ramanuja",
+        "B": "Nanak",
+        "C": "Ramananda",
+        "D": "Srirangam"
+      },
+      "vikalpa": {
+        "A": "रामानुज के",
+        "B": "नानक के",
+        "C": "रामानन्द के",
+        "D": "श्रीरंगम के"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Talwandi is the birthplace of whom?",
+      "prashna": "तलवन्डी किसका जन्म स्थान है ?",
+      "options": {
+        "A": "Kabir",
+        "B": "Nanak",
+        "C": "Raidas",
+        "D": "Meera"
+      },
+      "vikalpa": {
+        "A": "कबीर",
+        "B": "नानक",
+        "C": "रैदास",
+        "D": "मीरा"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "In Hindu tradition, the path to salvation is",
+      "prashna": "हिन्दू परम्परा में मोक्ष प्राप्ति का मार्ग है",
+      "options": {
+        "A": "Path of knowledge",
+        "B": "Path of action",
+        "C": "Path of devotion",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ज्ञान मार्ग",
+        "B": "कर्म मार्ग",
+        "C": "भक्ति मार्ग",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where was Vallabhacharya born?",
+      "prashna": "वल्लभाचार्य का जन्म कहाँ हुआ था ?",
+      "options": {
+        "A": "Agra",
+        "B": "Bangalore",
+        "C": "Varanasi",
+        "D": "Srirangapatnam"
+      },
+      "vikalpa": {
+        "A": "आगरा",
+        "B": "बैंगलोर",
+        "C": "वाराणसी",
+        "D": "श्रीरंगपट्टनम"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where is the Dargah of Nizamuddin Auliya?",
+      "prashna": "निजामुद्दीन औलिया की दरगाह कहाँ है?",
+      "options": {
+        "A": "Delhi",
+        "B": "Agra",
+        "C": "Ajmer",
+        "D": "Fatehpur Sikri"
+      },
+      "vikalpa": {
+        "A": "दिल्ली",
+        "B": "आगरा",
+        "C": "अजमेर",
+        "D": "फतेहपुर सिकरी"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who composed 'Majma-ul-Bahrain'?",
+      "prashna": "'मज्म-उल-बहरीन' की रचना किसने की ?",
+      "options": {
+        "A": "Gulbadan Begum",
+        "B": "Aurangzeb",
+        "C": "Dara Shikoh",
+        "D": "Zeb-un-Nissa"
+      },
+      "vikalpa": {
+        "A": "गुलबदन बेगम",
+        "B": "औरंगजेब",
+        "C": "दारा शिकोह",
+        "D": "जैबुन्निसा"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where did the Lingayat movement originate?",
+      "prashna": "लिंगायत आंदोलन का प्राभुर्भाव कहाँ हुआ ?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Karnataka",
+        "C": "Orissa",
+        "D": "Kashmir"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु",
+        "B": "कर्नाटक",
+        "C": "उड़ीसा",
+        "D": "कश्मीर"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where is the birthplace of Nanak?",
+      "prashna": "नानक का जन्म स्थान कहाँ है ?",
+      "options": {
+        "A": "Kashi",
+        "B": "Amritsar",
+        "C": "Patna",
+        "D": "Talwandi"
+      },
+      "vikalpa": {
+        "A": "काशी",
+        "B": "अमृतसर",
+        "C": "पटना",
+        "D": "तलवंडी"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where was Guru Gobind Singh born ?",
+      "prashna": "गुरु गोबिन्द सिंह का जन्म कहाँ हुआ?",
+      "options": {
+        "A": "Agra",
+        "B": "Mathura",
+        "C": "Kashi",
+        "D": "Patna"
+      },
+      "vikalpa": {
+        "A": "आगरा",
+        "B": "मथुरा",
+        "C": "काशी",
+        "D": "पटना"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who was the Guru of Ramananda ?",
+      "prashna": "रामानन्द के गुरु कौन थे ?",
+      "options": {
+        "A": "Raghavananda",
+        "B": "Sukhananda",
+        "C": "Kabir",
+        "D": "Ashananda"
+      },
+      "vikalpa": {
+        "A": "राघवनंद",
+        "B": "सुखानन्द",
+        "C": "कबीर",
+        "D": "आशानन्द"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "With which Silsila is Bahauddin Zakariya related ?",
+      "prashna": "बहाउद्दीन ज़कारिया का सम्बन्ध किस सिलसिला से है ?",
+      "options": {
+        "A": "Chishti",
+        "B": "Suhravardi",
+        "C": "Qadiri",
+        "D": "Naqshbandi"
+      },
+      "vikalpa": {
+        "A": "चिश्ती",
+        "B": "सुहरावर्दी",
+        "C": "क़ादरी",
+        "D": "नक्शबंदी"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "What was the residence of Sufi saints ?",
+      "prashna": "सूफी संतों का निवास स्थान क्या था ?",
+      "options": {
+        "A": "Khanqah",
+        "B": "Dargah",
+        "C": "Tazkira",
+        "D": "Sama"
+      },
+      "vikalpa": {
+        "A": "खानकाह",
+        "B": "दरगाह",
+        "C": "तजकिरा",
+        "D": "समा"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Lord Jagannatha worshipped in Puri, Odisha is a form of which deity?",
+      "prashna": "पुरी उड़ीसा में पूजे जाने वाले भगवान जगन्नाथ किस देवता के रुप है?",
+      "options": {
+        "A": "Brahma",
+        "B": "Vishnu",
+        "C": "Shiva",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ब्रह्मा",
+        "B": "विष्णु",
+        "C": "शिव",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who was warshiped in the tantric worship system?",
+      "prashna": "तांत्रिक पूजा पद्धति में किसकी पूजा की जाती थी?",
+      "options": {
+        "A": "Goddess",
+        "B": "Vishnu",
+        "C": "Brahma",
+        "D": "Kuber"
+      },
+      "vikalpa": {
+        "A": "देवी",
+        "B": "विष्णु",
+        "C": "ब्रह्मा",
+        "D": "कुबेर"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who among the following was a women Alvar saint?",
+      "prashna": "निम्नलिखित में से कौन स्त्री अलवार संत थी?",
+      "options": {
+        "A": "Andal",
+        "B": "Karaikkal Ammaiyar",
+        "C": "Appar",
+        "D": "Sundarar"
+      },
+      "vikalpa": {
+        "A": "अंडाल",
+        "B": "कराईक्कल अम्मइयार",
+        "C": "अप्पार",
+        "D": "सुंदरार"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Which of the following is the composition of Nayanar saints?",
+      "prashna": "निम्नलिखित में से कौन नयनार संतों की रचना है?",
+      "options": {
+        "A": "Nalayira Divyaprabandham",
+        "B": "Tevaram",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "नलयिरा दिव्यप्रबंधम",
+        "B": "तवरम",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Muslims coming from which country were called Tajika?",
+      "prashna": "किस देश से आए हुए मुसलमानों को ताजिका कहा जाता था?",
+      "options": {
+        "A": "Turkey",
+        "B": "Persia",
+        "C": "Tajikistan",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "तुर्की",
+        "B": "फारस",
+        "C": "ताजिकिस्तान",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who among the following was called sultan-ul-Mashaikh?",
+      "prashna": "निम्नलिखित में से किसे सुल्तान-उल-मशेख कहा जाता था?",
+      "options": {
+        "A": "Nizamuddien Auliya",
+        "B": "Muinuddin Chishti",
+        "C": "Qutubuddin Bakhtiyar kaki",
+        "D": "Nasiruddin Chirag-i-Delhi"
+      },
+      "vikalpa": {
+        "A": "निजामुद्दीन औलिया",
+        "B": "मुइनुद्दीन चिश्ती",
+        "C": "कुतुबुद्दीन बख्तियार काकी",
+        "D": "नसीरुद्दीन चिराग-ए-दिल्ली"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who described the five symbols of the khalsa Panth?",
+      "prashna": "खालसा पंथ के पांच प्रतीकों का वर्णन किसने किया?",
+      "options": {
+        "A": "Guru Angad",
+        "B": "Guru Arjun Dev",
+        "C": "Guru Tegh Bahadur",
+        "D": "Guru Gobind Singh"
+      },
+      "vikalpa": {
+        "A": "गुरु अंगद",
+        "B": "गुरु अर्जुन देव",
+        "C": "गुरु तेग बहादुर",
+        "D": "गुरु गोबिंद सिंह"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Whom did Guru Nanak make his successor?",
+      "prashna": "गुरु नानक ने किसे अपना उत्तराधिकारी बनाया?",
+      "options": {
+        "A": "Guru Arjun Dev",
+        "B": "Guru Angad",
+        "C": "Baba Farid",
+        "D": "Guru Tegh Bahadur"
+      },
+      "vikalpa": {
+        "A": "गुरु अर्जुन देव",
+        "B": "गुरु अंगद",
+        "C": "बाबा फरीद",
+        "D": "गुरु तेग बहादुर"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who did the final compilication of Guru Granth Sahib?",
+      "prashna": "गुरु ग्रंथसाहिब का अंतिम संकलन किसने किया?",
+      "options": {
+        "A": "Guru Nanak",
+        "B": "Guru Angad",
+        "C": "Guru Tegh Bahadur",
+        "D": "Guru Gobind Singh"
+      },
+      "vikalpa": {
+        "A": "गुरु नानक",
+        "B": "गुरु अंगद",
+        "C": "गुरु तेग बहादुर",
+        "D": "गुरु गोबिंद सिंह"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "When did the Virasshaiva radition emerge in Karnataka?",
+      "prashna": "कर्नाटक में वीरशैव परंपरा का उद्भव कब हुआ?",
+      "options": {
+        "A": "Sixth century",
+        "B": "Ninth century",
+        "C": "Twelth century",
+        "D": "Fourteenth century"
+      },
+      "vikalpa": {
+        "A": "छठी शताब्दी",
+        "B": "नवमी शताब्दी",
+        "C": "बारहवीं शताब्दी",
+        "D": "चौदहवीं शताब्दी"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where is the Jagannath temple located?",
+      "prashna": "जगन्नाथ मंदिर कहाँ स्थित है?",
+      "options": {
+        "A": "Puri",
+        "B": "Cuttack",
+        "C": "Bhubaneshwar",
+        "D": "Mathura"
+      },
+      "vikalpa": {
+        "A": "पुरी",
+        "B": "कटक",
+        "C": "भुवनेश्वर",
+        "D": "मथुरा"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Which god was worshiped by the Alvars?",
+      "prashna": "अलवार किस देवता की उपासना करते थे?",
+      "options": {
+        "A": "Brahma",
+        "B": "Shiva",
+        "C": "Agni",
+        "D": "Vishnu"
+      },
+      "vikalpa": {
+        "A": "ब्रह्मा",
+        "B": "शिव",
+        "C": "अग्नि",
+        "D": "विष्णु"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who among the following is not a Nayanar Saint?",
+      "prashna": "निम्नलिखित में से कौन नयनार संत नहीं है?",
+      "options": {
+        "A": "Karaikkal Ammaiyar",
+        "B": "Sundarar",
+        "C": "Appar",
+        "D": "Andal"
+      },
+      "vikalpa": {
+        "A": "करइक्कल अम्मइयार",
+        "B": "सुंदरार",
+        "C": "अप्पार",
+        "D": "अंडाल"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Where is the Dargah of Khwaja Muinuddin Chishti?",
+      "prashna": "ख़्वाजा मुइनुद्दीन चिश्ती का दरगाह कहाँ है?",
+      "options": {
+        "A": "Delhi",
+        "B": "Ajmer",
+        "C": "Patna",
+        "D": "Bihar Sharif"
+      },
+      "vikalpa": {
+        "A": "दिल्ली",
+        "B": "अजमेर",
+        "C": "पटना",
+        "D": "बिहार शरीफ"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Whose Follower was Amir Khusrau?",
+      "prashna": "अमीर खुसरो किसके अनुयायी थे?",
+      "options": {
+        "A": "Nizamuddin Auliya",
+        "B": "Muinuddin Chishti",
+        "C": "Nasriuddin Chiragh i Dehli",
+        "D": "Qutbuddin Bakhtiyar Kaki"
+      },
+      "vikalpa": {
+        "A": "निज़ामुद्दीन औलिया",
+        "B": "मुइनुद्दीन चिश्ती",
+        "C": "नसीरूद्दीन चिराग-ऐ- देहली",
+        "D": "कुतुबुद्दीन बख़्तियार काकी"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who was born in Nankana village of Punjab in 1469?",
+      "prashna": "1469 में पंजाब के ननकाना गाँव में किसका जन्म हुआ था?",
+      "options": {
+        "A": "Guru Nanak",
+        "B": "Kabir",
+        "C": "Angad",
+        "D": "Arjan Dev"
+      },
+      "vikalpa": {
+        "A": "गुरू नानक",
+        "B": "कबीर",
+        "C": "अंगद",
+        "D": "अर्जन देव"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "Who founded the Khalsa Panth?",
+      "prashna": "खालसा पंथ की स्थापना किसने की?",
+      "options": {
+        "A": "Guru Gobind Singh",
+        "B": "Guru Tegh Bahadur",
+        "C": "Guru Arjan Dev",
+        "D": "Guru Angad"
+      },
+      "vikalpa": {
+        "A": "गुरू गोबिंद सिंह",
+        "B": "गुरू तेग बहादुर",
+        "C": "गुरू अर्जन देव",
+        "D": "गुरू अंगद"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Bhakti-Sufi Traditions",
+      "question": "What is the collection of letters written by Sufi saints called?",
+      "prashna": "सूफी संतो के लिखे हुए पत्रों का संकलन क्या कहलाता है?",
+      "options": {
+        "A": "Tazkira",
+        "B": "Malfuzat",
+        "C": "Maktubat",
+        "D": "Kashf-ul-Mahjub"
+      },
+      "vikalpa": {
+        "A": "तज़किरा",
+        "B": "मलफुज़ात",
+        "C": "मक्तुबात",
+        "D": "कश्फ-उल-महजुब"
+      }
+    }
+  ]
+}

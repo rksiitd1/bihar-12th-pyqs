@@ -1,0 +1,660 @@
+{
+  "2021": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where was Buddha born?",
+      "prashna": "बुद्ध का जन्म कहाँ हुआ था ?",
+      "options": {
+        "A": "Bodh Gaya",
+        "B": "Pawapuri",
+        "C": "Lumbini",
+        "D": "Sarnath"
+      },
+      "vikalpa": {
+        "A": "बोध गया",
+        "B": "पावापुरी",
+        "C": "लुम्बिनी",
+        "D": "सारनाथ"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where was first Buddhist Council held ?",
+      "prashna": "प्रथम बौद्ध संगीति कहाँ हुई थी ?",
+      "options": {
+        "A": "Sarnath",
+        "B": "Bodh Gaya",
+        "C": "Rajgriha",
+        "D": "Banaras"
+      },
+      "vikalpa": {
+        "A": "सारनाथ",
+        "B": "बोध गया",
+        "C": "राजगृह",
+        "D": "बनारस"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Shwetamber and Digamber are related with which religion?",
+      "prashna": "श्वेताम्बर और दिगम्बर किस धर्म से सम्बन्धित हैं ?",
+      "options": {
+        "A": "Bauddha",
+        "B": "Jain",
+        "C": "Brahman",
+        "D": "Christian"
+      },
+      "vikalpa": {
+        "A": "बौद्ध",
+        "B": "जैन",
+        "C": "ब्राह्मण",
+        "D": "ईसाई"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Sanchi Stupa is related with which religion?",
+      "prashna": "साँची का स्तूप किस धर्म से सम्बन्धित है ?",
+      "options": {
+        "A": "Bauddha",
+        "B": "Jain",
+        "C": "Brahman",
+        "D": "Sikh"
+      },
+      "vikalpa": {
+        "A": "बौद्ध",
+        "B": "जैन",
+        "C": "ब्राह्मण",
+        "D": "सिक्ख"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "The fourth Buddhist Council was held in the reign of which ruler ?",
+      "prashna": "चौथी बौद्ध परिषद् किस शासक के काल में हुई थी ?",
+      "options": {
+        "A": "Ashoka",
+        "B": "Kalashoka",
+        "C": "Ajatashatru",
+        "D": "Kanishka"
+      },
+      "vikalpa": {
+        "A": "अशोक",
+        "B": "कालाशोक",
+        "C": "अजातशत्रु",
+        "D": "कनिष्क"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where did Mahatma Buddha get enlightenment ?",
+      "prashna": "महात्मा बुद्ध को ज्ञान की प्राप्ति कहाँ हुई थी ?",
+      "options": {
+        "A": "Lumbini",
+        "B": "Bodh Gaya",
+        "C": "Sarnath",
+        "D": "Kushinagar"
+      },
+      "vikalpa": {
+        "A": "लुम्बिनी",
+        "B": "बोध गया",
+        "C": "सारनाथ",
+        "D": "कुशीनगर"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Stupa is related with",
+      "prashna": "स्तूप सम्बन्धित है",
+      "options": {
+        "A": "Jainism",
+        "B": "Buddhism",
+        "C": "Hinduism",
+        "D": "Sikhism"
+      },
+      "vikalpa": {
+        "A": "जैन धर्म से",
+        "B": "बौद्ध धर्म से",
+        "C": "हिन्दू धर्म से",
+        "D": "सिक्ख धर्म से"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where was Mahavira born?",
+      "prashna": "महावीर का जन्म कहाँ हुआ था ?",
+      "options": {
+        "A": "Lumbini",
+        "B": "Pawa",
+        "C": "Kundalvana (Vaishali)",
+        "D": "Sarnath"
+      },
+      "vikalpa": {
+        "A": "लुम्बिनी",
+        "B": "पावा",
+        "C": "कुण्डलवन (वैशाली)",
+        "D": "सारनाथ"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "When was Mahavir Swami born?",
+      "prashna": "महावीर स्वामी का जन्म कब हुआ था ?",
+      "options": {
+        "A": "540 B.C.",
+        "B": "523 B.C.",
+        "C": "522 B.C.",
+        "D": "640 B.C."
+      },
+      "vikalpa": {
+        "A": "540 ई. पू.",
+        "B": "523 ई. पू.",
+        "C": "522 ई. पू.",
+        "D": "640 ई. पू."
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Digambar and Shwetambar are related to which religion?",
+      "prashna": "दिगम्बर एवं श्वेताम्बर किस धर्म से सम्बन्धित है ?",
+      "options": {
+        "A": "Vedic religion",
+        "B": "Buddhism",
+        "C": "Jainism",
+        "D": "Sikhism"
+      },
+      "vikalpa": {
+        "A": "वैदिक धर्म",
+        "B": "बौद्ध धर्म",
+        "C": "जैन धर्म",
+        "D": "सिक्ख धर्म"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "In which district of Madhya Pradesh is Sanchi located?",
+      "prashna": "साँची मध्य प्रदेश के किस जिले में स्थित है ?",
+      "options": {
+        "A": "Vidisha",
+        "B": "Raisen",
+        "C": "Sagar",
+        "D": "Bhopal"
+      },
+      "vikalpa": {
+        "A": "विदिशा",
+        "B": "रायसेन",
+        "C": "सागर",
+        "D": "भोपाल"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Tripitaka is the literature of which religion?",
+      "prashna": "त्रिपिटक किस धर्म का साहित्य है ?",
+      "options": {
+        "A": "Brahmanism",
+        "B": "Buddhism",
+        "C": "Jainism",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ब्राह्मण धर्म",
+        "B": "बौद्ध धर्म",
+        "C": "जैन धर्म",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "When was Gautam Buddha born?",
+      "prashna": "गौतम बुद्ध का जन्म कब हुआ ?",
+      "options": {
+        "A": "463 B.C.",
+        "B": "468 B.C.",
+        "C": "563 B.C.",
+        "D": "540 B.C."
+      },
+      "vikalpa": {
+        "A": "463 ई. पूर्व",
+        "B": "468 ई. पूर्व",
+        "C": "563 ई. पूर्व",
+        "D": "540 ई. पूर्व"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "What was the name of Mahavir Swami's mother?",
+      "prashna": "महावीर स्वामी की माता का नाम था",
+      "options": {
+        "A": "Trishala",
+        "B": "Mahamaya",
+        "C": "Yashodhara",
+        "D": "Anojja"
+      },
+      "vikalpa": {
+        "A": "त्रिशला",
+        "B": "महामाया",
+        "C": "यशोधरा",
+        "D": "अणेज्या"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where did Mahatma Buddha attain enlightenment?",
+      "prashna": "महात्मा बुद्ध को ज्ञान की प्राप्ति कहाँ हुई थी ?",
+      "options": {
+        "A": "Lumbini",
+        "B": "Sarnath",
+        "C": "Bodh Gaya",
+        "D": "Kushinagar"
+      },
+      "vikalpa": {
+        "A": "लुम्बिनी",
+        "B": "सारनाथ",
+        "C": "बोधगया",
+        "D": "कुशीनगर"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "What was the childhood name of Buddha?",
+      "prashna": "बुद्ध का बचपन का नाम क्या था ?",
+      "options": {
+        "A": "Vardhaman",
+        "B": "Siddhartha",
+        "C": "Devadatta",
+        "D": "Rahul"
+      },
+      "vikalpa": {
+        "A": "वर्धमान",
+        "B": "सिद्धार्थ",
+        "C": "देवदत्त",
+        "D": "राहुल"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Gandhara art was influenced by which art ?",
+      "prashna": "गांधार कला किस कला से प्रभावित थी ?",
+      "options": {
+        "A": "Chinese art",
+        "B": "Greek art",
+        "C": "Iranian art",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "चीनी कला",
+        "B": "यूनानी कला",
+        "C": "ईरानी कला",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where was the first Buddhist Council held ?",
+      "prashna": "प्रथम बौद्ध संगीति कहाँ हुई थी ?",
+      "options": {
+        "A": "Pataliputra",
+        "B": "Kashi",
+        "C": "Rajagriha",
+        "D": "Vaishali"
+      },
+      "vikalpa": {
+        "A": "पाटलिपुत्र",
+        "B": "काशी",
+        "C": "राजगृह",
+        "D": "वैशाली"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "What is the number of Upanishads?",
+      "prashna": "उपनिषदों की संख्या कितनी है ?",
+      "options": {
+        "A": "104",
+        "B": "108",
+        "C": "110",
+        "D": "150"
+      },
+      "vikalpa": {
+        "A": "104",
+        "B": "108",
+        "C": "110",
+        "D": "150"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Who was the great philosopher of China?",
+      "prashna": "चीन के महान दार्शनिक कौन थे?",
+      "options": {
+        "A": "Zarathustra",
+        "B": "Confucius",
+        "C": "Socrates",
+        "D": "Aristotle"
+      },
+      "vikalpa": {
+        "A": "जरथुस्त्र",
+        "B": "कन्फ्यूशियस",
+        "C": "सुकरात",
+        "D": "अरस्तू"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Which god is praised in the Rigved?",
+      "prashna": "ऋग्वेद में किस देवता की स्तुति है?",
+      "options": {
+        "A": "Agni",
+        "B": "Indra",
+        "C": "Soma",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अग्नि",
+        "B": "इंद्र",
+        "C": "सोम",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "What was Buddha's childhood name?",
+      "prashna": "बुद्ध के बचपन का नाम क्या था?",
+      "options": {
+        "A": "Sakya",
+        "B": "Gautam",
+        "C": "Ananda",
+        "D": "Siddhartha"
+      },
+      "vikalpa": {
+        "A": "शाक्य",
+        "B": "गौतम",
+        "C": "आनंद",
+        "D": "सिद्धार्थ"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where did Buddha attain enlightenment?",
+      "prashna": "बुद्ध को ज्ञान कहाँ प्राप्त हुआ था?",
+      "options": {
+        "A": "Vaishali",
+        "B": "Bodh Gaya",
+        "C": "Sarnath",
+        "D": "Lumbini"
+      },
+      "vikalpa": {
+        "A": "वैशाली",
+        "B": "बोधगया",
+        "C": "सारनाथ",
+        "D": "लुम्बिनी"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "When was Sanchi stupa discovered?",
+      "prashna": "सांची स्तूप की खोज कब हुई?",
+      "options": {
+        "A": "1774",
+        "B": "1784",
+        "C": "1818",
+        "D": "1854"
+      },
+      "vikalpa": {
+        "A": "1774",
+        "B": "1784",
+        "C": "1818",
+        "D": "1854"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Who was the 24th tirthankara of Jainism?",
+      "prashna": "जैन धर्म के 24वें तीर्थंकर कौन थे?",
+      "options": {
+        "A": "Parshvanatha",
+        "B": "Mahavira",
+        "C": "Rishabhdev",
+        "D": "Ajitnath"
+      },
+      "vikalpa": {
+        "A": "पार्श्वनाथ",
+        "B": "महावीर",
+        "C": "ऋषभदेव",
+        "D": "अजितनाथ"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where was Zarathustra a thinker from ?",
+      "prashna": "जरथुस्त्र कहाँ के चिंतक थे ?",
+      "options": {
+        "A": "Iran",
+        "B": "Rome",
+        "C": "Greece",
+        "D": "China"
+      },
+      "vikalpa": {
+        "A": "ईरान",
+        "B": "रोम",
+        "C": "यूनान",
+        "D": "चीन"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "How many sects or schools of thought do we find mentioned in Buddhist texts ?",
+      "prashna": "बौद्ध ग्रंथो में हमें कितने संप्रदायों या चिंतन परंपराओं का उल्लेख मिलता हैं ?",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "32",
+        "D": "64"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "24",
+        "C": "32",
+        "D": "64"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "In which Pitaka were the teachings of Buddha kept ?",
+      "prashna": "बुद्ध की शिक्षाएँ किस पिटक में रखी गई थी ?",
+      "options": {
+        "A": "Vinaya Pitaka",
+        "B": "Abhidhamma Pitaka",
+        "C": "Sutta Pitaka",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "विनय पिटक",
+        "B": "अभिधम्म पिटक",
+        "C": "सुत्त पिटक",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Ajita Kesakambalin belong to which religion or sect?",
+      "prashna": "अजीत केसकंबलिन किस धर्म या संप्रदाय से संबंधित थे ?",
+      "options": {
+        "A": "Ajivika",
+        "B": "Lokayata",
+        "C": "Jain",
+        "D": "Buddhist"
+      },
+      "vikalpa": {
+        "A": "आजीवक",
+        "B": "लोकायत",
+        "C": "जैन",
+        "D": "बौद्ध"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Where did Buddha die ?",
+      "prashna": "बुद्ध की मृत्यु कहाँ हुई ?",
+      "options": {
+        "A": "Lumbini",
+        "B": "Sarnath",
+        "C": "Bodh Gaya",
+        "D": "Kushinagar"
+      },
+      "vikalpa": {
+        "A": "लुम्बिनी",
+        "B": "सारनाथ",
+        "C": "बोधगया",
+        "D": "कुशीनगर"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "What was Buddha's Childhood name ?",
+      "prashna": "बुद्ध के बचपन का नाम क्या था ?",
+      "options": {
+        "A": "Siddhartha",
+        "B": "Rahul",
+        "C": "Vardhamana",
+        "D": "Jamali"
+      },
+      "vikalpa": {
+        "A": "सिद्धार्थ",
+        "B": "राहुल",
+        "C": "वर्धमान",
+        "D": "जमाली"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "On Whose advice did Buddha allow women to enter the Sangha ?",
+      "prashna": "किसके कहने पर बुद्ध ने संघ में महिलाओं को प्रवेश करने की अनुमति दी ?",
+      "options": {
+        "A": "Ananda",
+        "B": "Upali",
+        "C": "Devavrata",
+        "D": "Rahul"
+      },
+      "vikalpa": {
+        "A": "आनन्द",
+        "B": "उपालि",
+        "C": "देवव्रत",
+        "D": "राहुल"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "When was the 'Indian Museum' established in Calcutta ?",
+      "prashna": "कलकत्ता में 'इंडियन म्यूजियम' की स्थापना कब हुई ?",
+      "options": {
+        "A": "1814",
+        "B": "1834",
+        "C": "1851",
+        "D": "1854"
+      },
+      "vikalpa": {
+        "A": "1814",
+        "B": "1834",
+        "C": "1851",
+        "D": "1854"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Thinkers, Beliefs and Buildings",
+      "question": "Barabar Caves were built by the order of Ashoka for the saints of which sect?",
+      "prashna": "अशोक के आदेश से किस संप्रदाय के संतो के लिए बराबर की गुफाएँ बनाई गई थीं ?",
+      "options": {
+        "A": "Lokayata",
+        "B": "Ajivika",
+        "C": "Buddhist",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "लोकायत",
+        "B": "आजीवक",
+        "C": "बौद्ध",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ]
+}

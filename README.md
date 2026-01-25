@@ -33,6 +33,7 @@ python batch_annotate.py              # For Biology/Chemistry
 python batch_annotate_physics.py      # For Physics (includes topics)
 python batch_annotate_mathematics.py  # For Mathematics
 python batch_annotate_geography.py    # For Geography
+python batch_annotate_history.py      # For History
 
 # 5. Merge all years into one file
 python merge_biology.py
@@ -40,6 +41,7 @@ python merge_chemistry.py
 python merge_physics.py
 python merge_mathematics.py
 python merge_geography.py
+python merge_history.py
 
 # 6. Split by chapter or type
 python split_biology_by_chapter.py
@@ -73,6 +75,7 @@ python split_biology_by_type.py
 | `batch_processing.py` | `physics_papers/*.pdf` | `physics_data/*.json` | Batch PDF extraction for physics |
 | `batch_processing_mathematics.py` | `mathematics_papers/*.pdf` | `mathematics_data/*.json` | Batch PDF extraction for mathematics |
 | `batch_processing_geography.py` | `geography_papers/*.pdf` | `geography_data/*.json` | Batch PDF extraction for geography |
+| `batch_processing_history.py` | `history_papers/*.pdf` | `history_data/*.json` | Batch PDF extraction for history |
 
 ### Stage 2: Annotate with Chapters/Topics
 
@@ -82,6 +85,7 @@ python split_biology_by_type.py
 | `batch_annotate_physics.py` | `physics_data/*.json` | `physics_data_annotated/*.json` | Adds chapter + topic info |
 | `batch_annotate_mathematics.py` | `mathematics_data/*.json` | `mathematics_data_annotated/*.json` | Adds chapter info for math |
 | `batch_annotate_geography.py` | `geography_data/*.json` | `geography_data_annotated/*.json` | Adds chapter info for geography |
+| `batch_annotate_history.py` | `history_data/*.json` | `history_data_annotated/*.json` | Adds chapter info for history |
 | `annotate_questions_with_chapters.py` | Single file (interactive) | Annotated JSON | Interactive single-file annotator |
 | `annotate_questions_with_topics_physics.py` | Single file (interactive) | Annotated JSON | Physics with topics |
 
@@ -94,6 +98,7 @@ python split_biology_by_type.py
 | `merge_physics.py` | `physics_data_annotated/` | `physics_pro/physics_all_years.json` | Combines all years |
 | `merge_mathematics.py` | `mathematics_data_annotated/` | `mathematics_pro/mathematics_all_years.json` | Combines all years |
 | `merge_geography.py` | `geography_data_annotated/` | `geography_pro/geography_all_years.json` | Combines all years |
+| `merge_history.py` | `history_data_annotated/` | `history_pro/history_all_years.json` | Combines all years |
 
 ### Stage 4: Split for Analysis
 

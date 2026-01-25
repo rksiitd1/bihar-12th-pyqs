@@ -1,0 +1,576 @@
+{
+  "2021": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Whose travel account is Tahqiq-i-Hind?",
+      "prashna": "तहकीक-ए-हिन्द किसकी यात्रा वृत्तान्त है ?",
+      "options": {
+        "A": "Al-Baruni",
+        "B": "Ibn Battuta",
+        "C": "Abdur Razzaq",
+        "D": "Marco Polo"
+      },
+      "vikalpa": {
+        "A": "अलबरुनी",
+        "B": "इब्न बतूता",
+        "C": "अब्दुर रज्जाक",
+        "D": "मार्को पोलो"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "What was 'Jeetal'?",
+      "prashna": "\"जीतल\" क्या था ?",
+      "options": {
+        "A": "Arms",
+        "B": "Musical instrument",
+        "C": "Coin",
+        "D": "Title"
+      },
+      "vikalpa": {
+        "A": "शस्त्र",
+        "B": "वाद्य यंत्र",
+        "C": "सिक्का",
+        "D": "उपाधि"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "With whom did Al-Baruni come to India?",
+      "prashna": "अल-बरुनी किसके साथ भारत आया ?",
+      "options": {
+        "A": "Taimur",
+        "B": "Mohammad Ghori",
+        "C": "Ghazni",
+        "D": "Mohammad-bin-Qasim"
+      },
+      "vikalpa": {
+        "A": "तैमूर",
+        "B": "मुहम्मद गोरी",
+        "C": "गज़नी",
+        "D": "मुहम्मद-बिन-क़ासिम"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Which ruler changed his capital from Delhi to Daulatabad?",
+      "prashna": "दिल्ली से दौलताबाद किस शासक ने राजधानी परिवर्तित की ?",
+      "options": {
+        "A": "Balban",
+        "B": "Muhammad bin Tughlaq",
+        "C": "Alauddin Khalji",
+        "D": "Akbar"
+      },
+      "vikalpa": {
+        "A": "बलबन",
+        "B": "मुहम्मद बिन तुगलक",
+        "C": "अलाउद्दीन ख़लजी",
+        "D": "अकबर"
+      }
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Write the names of four Foreign travellers who came to India and their travelogue.",
+      "prashna": "भारत आने वाले चार विदेशी यात्री एवं उनके यात्रा वृत्तान्त का नाम लिखें ।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Which ruler shifted his capital from Delhi to Daulatabad?",
+      "prashna": "दिल्ली से दौलताबाद किस शासक ने अपनी राजधानी परिवर्तित की ?",
+      "options": {
+        "A": "Balban",
+        "B": "Muhammad-bin-Tughlaq",
+        "C": "Alauddin Khilji",
+        "D": "Akbar"
+      },
+      "vikalpa": {
+        "A": "बलबन",
+        "B": "मुहम्मद-बिन-तुगलक",
+        "C": "अलाउद्दीन खिलजी",
+        "D": "अकबर"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Of which metal was 'Jital' made?",
+      "prashna": "'जीतल' किस धातु का होता था ?",
+      "options": {
+        "A": "Gold",
+        "B": "Silver",
+        "C": "Copper",
+        "D": "Brass"
+      },
+      "vikalpa": {
+        "A": "सोना",
+        "B": "चाँदी",
+        "C": "तांबा",
+        "D": "पीतल"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Who is called the father of Indology in Russia?",
+      "prashna": "रूस में भारत विधा का जनक किसे कहा जाता है ?",
+      "options": {
+        "A": "Nicolo Conti",
+        "B": "Afanasy Nikitin",
+        "C": "G. S. Livedev",
+        "D": "Domingo Paes"
+      },
+      "vikalpa": {
+        "A": "निकोलो कोण्टी",
+        "B": "अफनासी निकितन",
+        "C": "जी. एस. लिविदेव",
+        "D": "डोमिंगो पेइस"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Hiuen Tsang was a traveller from which country?",
+      "prashna": "ह्वेनसांग किस देश का यात्री था ?",
+      "options": {
+        "A": "Greece",
+        "B": "Italy",
+        "C": "China",
+        "D": "Morocco"
+      },
+      "vikalpa": {
+        "A": "यूनान",
+        "B": "इटली",
+        "C": "चीन",
+        "D": "मोरक्को"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Tahqiq-i-Hind is a travelogue of whom?",
+      "prashna": "तहकीक-ए-हिन्द किसकी यात्रा वृतान्त है ?",
+      "options": {
+        "A": "Alberuni",
+        "B": "Fa-Hien",
+        "C": "Ibn-Battuta",
+        "D": "Abdur Razzaq"
+      },
+      "vikalpa": {
+        "A": "अलबरूनी",
+        "B": "फाह्यान",
+        "C": "इब्न-बतूता",
+        "D": "अब्दुर्रज्जाक"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Who was the famous Greek traveler of the Mauryan period?",
+      "prashna": "मौर्य काल का प्रसिद्ध यूनानी यात्री कौन था ?",
+      "options": {
+        "A": "Robert Sewell",
+        "B": "Megasthenes",
+        "C": "Alberuni",
+        "D": "Francois Bernier"
+      },
+      "vikalpa": {
+        "A": "राबर्ट सीवेल",
+        "B": "मेगास्थनीज",
+        "C": "अलबरूनी",
+        "D": "फ्रांसिस बर्नियर"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "With whom did Alberuni come to India?",
+      "prashna": "अलबरूनी किसके साथ भारत आया ?",
+      "options": {
+        "A": "Mahmud Ghazni",
+        "B": "Muhammad Ghori",
+        "C": "Timur",
+        "D": "Muhammad bin Qasim"
+      },
+      "vikalpa": {
+        "A": "महमुद गजनी",
+        "B": "मोहम्मद गोरी",
+        "C": "तैमूर",
+        "D": "मोहम्मद बिन कासिम"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Captain Hawkins came to the court of which Mughal ruler?",
+      "prashna": "कैप्टन हॉकिन्स किस मुगल शासक के दरबार में आया था ?",
+      "options": {
+        "A": "Akbar",
+        "B": "Jahangir",
+        "C": "Aurangzeb",
+        "D": "Shahjahan"
+      },
+      "vikalpa": {
+        "A": "अकबर",
+        "B": "जहाँगीर",
+        "C": "औरंगजेब",
+        "D": "शाहजहाँ"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Where was Al-Biruni born?",
+      "prashna": "अल-बरूनी का जन्म कहाँ हुआ था ?",
+      "options": {
+        "A": "Khwarizm",
+        "B": "Tangier",
+        "C": "Ghazni",
+        "D": "Lahore"
+      },
+      "vikalpa": {
+        "A": "ख्वारिज्म",
+        "B": "तैंजियर",
+        "C": "गजनी",
+        "D": "लाहौर"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Whose travelogue is found in 'Kitab-ur-Rehla'?",
+      "prashna": "'किताब-उर-रेहला' में किसका यात्रा वृत्तान्त मिलता है ?",
+      "options": {
+        "A": "Al-Biruni",
+        "B": "Abdur Razzaq",
+        "C": "Ibn Battuta",
+        "D": "Bernier"
+      },
+      "vikalpa": {
+        "A": "अल-बरूनी",
+        "B": "अब्दुर्रज्जाक",
+        "C": "इब्न-बतूता",
+        "D": "बर्नियर"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Which traveler is called the doyen of medieval travelers?",
+      "prashna": "मध्ययुगीन यात्रियों का सरताज किस यात्री को कहा जाता है ?",
+      "options": {
+        "A": "Al-Biruni",
+        "B": "Marco Polo",
+        "C": "Bernier",
+        "D": "Ibn Battuta"
+      },
+      "vikalpa": {
+        "A": "अल-बरूनी",
+        "B": "मार्को पोलो",
+        "C": "बर्नियर",
+        "D": "इब्न-बतूता"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "During the reign of which ruler did Ibn Battuta come to India?",
+      "prashna": "इब्न-बतूता किश शासक के शासनकाल में भारत आया था ?",
+      "options": {
+        "A": "Muhammad bin Tughlaq",
+        "B": "Balban",
+        "C": "Razia Sultan",
+        "D": "Sikandar Lodi"
+      },
+      "vikalpa": {
+        "A": "मुहम्मद बिन तुगलक",
+        "B": "बलबन",
+        "C": "रजिया सुल्तान",
+        "D": "सिकन्दर लोदी"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "For how many years did Ibn Battuta stay in India?",
+      "prashna": "इब्न-बतूता कितने वर्षों तक भारत में रहा ?",
+      "options": {
+        "A": "8 years",
+        "B": "10 years",
+        "C": "14 years",
+        "D": "16 years"
+      },
+      "vikalpa": {
+        "A": "8 वर्ष",
+        "B": "10 वर्ष",
+        "C": "14 वर्ष",
+        "D": "16 वर्ष"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Mention two features of Kitab-ul-Hind.'",
+      "prashna": "किताब-उल-हिन्द की दो विशेषताओं का उल्लेख कीजिए।'"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Kitab-ul-Hind is written by whom ?",
+      "prashna": "'किताब-उल-हिन्द' किसकी रचना है ?",
+      "options": {
+        "A": "Ziauddin Barani",
+        "B": "Minhaj",
+        "C": "Al-Biruni",
+        "D": "Ibn Battuta"
+      },
+      "vikalpa": {
+        "A": "जियाउद्दीन बरनी",
+        "B": "मिन्हाज",
+        "C": "अल-बिरुनी",
+        "D": "इब्न बतूता"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Name two travellers from Italy who came during Medieval India.",
+      "prashna": "मध्यकालीन भारत में इटली से आनेवाले दो यात्रियों के नाम बतायें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "In which language did Al-Biruni write Kitab-ul-hind?",
+      "prashna": "अल-बिरूनी ने 'किताब-उल-हिन्द' किस भाषा में लिखी?",
+      "options": {
+        "A": "Arabi",
+        "B": "Persian",
+        "C": "Urdu",
+        "D": "Hebrew"
+      },
+      "vikalpa": {
+        "A": "अरबी",
+        "B": "फारसी",
+        "C": "उर्दू",
+        "D": "हिब्रू"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Who appointed Ibn Battuta as the gazi of Delhi?",
+      "prashna": "इब्न बतूता को किसने दिल्ली का काजी नियुक्त किया?",
+      "options": {
+        "A": "Sultan Mahammad",
+        "B": "Muhammad Bin Tughlaq",
+        "C": "Balban",
+        "D": "Akbar"
+      },
+      "vikalpa": {
+        "A": "सुल्तान महम्मूद",
+        "B": "मुहम्मद बिन तुगलक",
+        "C": "बलबन",
+        "D": "अकबर"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Who was the author of 'Travels in the Mughal Empire'?",
+      "prashna": "'ट्रैवल्स इन द मुगल एम्पायर' के लेखक कौन थे?",
+      "options": {
+        "A": "Roberto Nobili",
+        "B": "Barbosa",
+        "C": "Tavernier",
+        "D": "Francois Bernier"
+      },
+      "vikalpa": {
+        "A": "रॉबर्टो नोबिली",
+        "B": "बारबोसा",
+        "C": "टैवर्नियर",
+        "D": "फ्रांसिस बर्नियर"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Who among the following European Travelles rettled in India?",
+      "prashna": "निम्नलिखित में से कौन यूरोपीय यात्री भारत में ही बस गया ?",
+      "options": {
+        "A": "Bernier",
+        "B": "Tavernier",
+        "C": "Manucci",
+        "D": "Ibn Battuta"
+      },
+      "vikalpa": {
+        "A": "बर्नियर",
+        "B": "टैवर्नियर",
+        "C": "मनूची",
+        "D": "इब्न बतूता"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Who was Ibn Battuta? During whose reign did he come to India?",
+      "prashna": "इब्न बतूता कौन था? वह किसके शासनकाल में भारत आया था?"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Why did Al-Biruni write Kitab-ul-Hind?",
+      "prashna": "अल-बिरुनी ने किताब-उल-हिन्द क्यों लिखा?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "How many chapters are there in Kitab-ul-Hind?",
+      "prashna": "किताब-उल-हिन्द में कितने अध्याय हैं ?",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "64",
+        "D": "80"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "24",
+        "C": "64",
+        "D": "80"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Apart from Persian and Arabic, which language did Al-Biruni Know ?",
+      "prashna": "फारसी और अरबी भाषा के अलावा अल-बिरूनी को किस भाषा का ज्ञान था ?",
+      "options": {
+        "A": "Syriac",
+        "B": "Hebrew",
+        "C": "Sanskrit",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सीरियाई",
+        "B": "हिब्रू",
+        "C": "संस्कृत",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "During whose reign did Ibn Battuta come to India?",
+      "prashna": "इब्न बतूता किसके शासन काल में भारत आया?",
+      "options": {
+        "A": "Alauddin Khalji",
+        "B": "Mohammad bin Tughlaq",
+        "C": "Iltutmish",
+        "D": "Balban"
+      },
+      "vikalpa": {
+        "A": "अलाउद्दीन खल्जी",
+        "B": "मुहम्मद बिन तुग़लक",
+        "C": "इल्तुतमिश",
+        "D": "बलबन"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "How Many times did the French jeweller Jean-Baptiste Tavernier travel India?",
+      "prashna": "फ्रांसीसी जौहरी ज्यौं–बैप्टिस्ट तैवर्नियर ने कितनी बार भारत की यात्रा की?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "For how many years did Francois Bernier stay in India?",
+      "prashna": "फ्रांस्वा बर्नियर कितने वर्षों तक भारत में रहा?",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "12"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "When and where was Al-Biruni born?",
+      "prashna": "अल-बिरूनी का जन्म कब और कहाँ हुआ था ?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter_name": "Through The Eyes of Travellers",
+      "question": "Why was Bernier's travelogue considered important in Europe? Write two reasons.",
+      "prashna": "बर्नियर के यात्रा-वृत्तान्त को यूरोप में महत्वपूर्ण क्यों माना गया ? दो कारण लिखें।"
+    }
+  ]
+}
