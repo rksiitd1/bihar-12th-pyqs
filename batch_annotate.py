@@ -41,7 +41,7 @@ def annotate_file(subject, input_path, output_path):
         questions = json.load(f)
     chapters = CHAPTERS[subject]
     prompt = generate_annotation_prompt(subject, chapters, questions)
-    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
+    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
     response = model.generate_content(prompt)
     try:
         cleaned_json_string = clean_json_response(response.text)

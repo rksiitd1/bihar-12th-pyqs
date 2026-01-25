@@ -155,7 +155,7 @@ def main():
     chapters = CHAPTERS[subject]
     prompt = generate_annotation_prompt(subject, chapters, questions)
     print("\nSending questions to Gemini for chapter annotation...")
-    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
+    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
     response = model.generate_content(prompt)
     print("Gemini response received. Parsing...")
     try:

@@ -68,7 +68,7 @@ def main():
         print(f"No JSON files found in history_data/!")
         return
     chapters = HISTORY_CHAPTERS
-    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
+    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
     for fpath in files:
         out_path = out_folder / fpath.name
         if out_path.exists():
