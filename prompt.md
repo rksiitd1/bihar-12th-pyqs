@@ -1,7 +1,7 @@
 # Project Brief: Home Science Data Pipeline Implementation
 
 ### 🎯 Objective
-Implement a standardized data processing pipeline for Bihar Board Class 12 Home Science Previous Year Questions (2025-2026), ensuring 100% structural and functional parity with the existing History, Geography, and Mathematics pipelines.
+Implement a standardized data processing pipeline for Bihar Board Class 12 Home Science Previous Year Questions (2021-2026), ensuring 100% structural and functional parity with the existing History, Geography, and Mathematics pipelines.
 
 ---
 
