@@ -1,0 +1,394 @@
+{
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many Jaatis are there in a Raag?",
+      "prashna": "रागों की कितनी जातियाँ होती हैं ?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many thaats are there in Hindustani music ?",
+      "prashna": "हिन्दुस्तानी संगीत में कितने थाट हैं ?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many Swaras are there in Aaudav-Shadav Jati Raag ?",
+      "prashna": "औड़व-षाड़व जाति के राग में कितने स्वर लगते हैं ?",
+      "options": {
+        "A": "6-6",
+        "B": "5-6",
+        "C": "5-5",
+        "D": "6-5"
+      },
+      "vikalpa": {
+        "A": "6-6",
+        "B": "5-6",
+        "C": "5-5",
+        "D": "6-5"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many Swaras are used in Shadav Jaati raag ?",
+      "prashna": "षाड़व जाति के राग में कितने स्वर लगते हैं ?",
+      "options": {
+        "A": "Five",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Four"
+      },
+      "vikalpa": {
+        "A": "पाँच",
+        "B": "छः",
+        "C": "सात",
+        "D": "चार"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many Thaat’s are there in Hindustani Music ?",
+      "prashna": "हिन्दुस्तानी संगीत में कुल कितने थाट हैं ?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "72",
+        "D": "70"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "10",
+        "C": "72",
+        "D": "70"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many main jaaties of ragas are there ?",
+      "prashna": "रागों की कितनी मुख्य जातियाँ होती हैं ?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which one is called Ritu raga?",
+      "prashna": "किस राग को ऋतु राग कहा जाता है ?",
+      "options": {
+        "A": "Bahar",
+        "B": "Khamaj",
+        "C": "Desh",
+        "D": "Jaunpuri"
+      },
+      "vikalpa": {
+        "A": "बहार",
+        "B": "खमाज",
+        "C": "देश",
+        "D": "जौनपुरी"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which Thaat will be formed when ‘Ma’ of Bilawal Thaat is changed to Tivra ‘Ma’?",
+      "prashna": "बिलावल थाट के ‘म’ की तीव्र करने पर कौन सा थाट बनेगा ?",
+      "options": {
+        "A": "Kalyan",
+        "B": "Bhairav",
+        "C": "Bhairavi",
+        "D": "Todi"
+      },
+      "vikalpa": {
+        "A": "कल्याण",
+        "B": "भैरव",
+        "C": "भैरवी",
+        "D": "तोड़ी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which of these not a name of any Thaat?",
+      "prashna": "निम्न कौन सा किसी थाट का नाम नहीं हैं ?",
+      "options": {
+        "A": "Asawari",
+        "B": "Yaman",
+        "C": "Kafi",
+        "D": "Kalyan"
+      },
+      "vikalpa": {
+        "A": "आसावरी",
+        "B": "यमन",
+        "C": "काफी",
+        "D": "कल्याण"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many Thaats are described by Pt. Bhatkhande?",
+      "prashna": "पं० भातखण्डे ने कितने थाटों का वर्णन किया है ?",
+      "options": {
+        "A": "32",
+        "B": "36",
+        "C": "24",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "32",
+        "B": "36",
+        "C": "24",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "At least how many swaras should be there in a raga?",
+      "prashna": "एक राग में कम से कम कितने स्वर होने चाहिए।",
+      "options": {
+        "A": "8",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many $Thaats$ are there in Hindustani music?",
+      "prashna": "हिन्दुस्तानी संगीत में कितने थाट हैं ?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many notes are there in the ascent ($Aaroh$) of a Raga of $Audav$-$Sampurna$ $Jati$?",
+      "prashna": "औडव-सम्पूर्ण जाति के किसी राग के आरोह में कितने स्वर होते हैं ?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which is an $Aashraya$ Raga?",
+      "prashna": "आश्रय राग कौन-सा है ?",
+      "options": {
+        "A": "Bihag",
+        "B": "Bhupali",
+        "C": "Kalyan",
+        "D": "Sarang"
+      },
+      "vikalpa": {
+        "A": "बिहाग",
+        "B": "भूपाली",
+        "C": "कल्याण",
+        "D": "सारंग"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which is a $Janak$ Raga?",
+      "prashna": "जनक राग कौन है ?",
+      "options": {
+        "A": "Bhairav",
+        "B": "Desh",
+        "C": "Durga",
+        "D": "Khamaaj"
+      },
+      "vikalpa": {
+        "A": "भैरव",
+        "B": "देश",
+        "C": "दुर्गा",
+        "D": "खमाज"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which $Thaat$ will be formed if the note '$Ma$' of Bilawal $Thaat$ is changed to $Tivra$ '$Ma$'?",
+      "prashna": "बिलावल थाट के 'म' को तीव्र 'म' करने पर कौन-सा थाट बनेगा",
+      "options": {
+        "A": "Kalyan",
+        "B": "Bhairav",
+        "C": "Bhairavi",
+        "D": "Todi"
+      },
+      "vikalpa": {
+        "A": "कल्याण",
+        "B": "भैरव",
+        "C": "भैरवी",
+        "D": "तोड़ी"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "Which of the following is not a name of any thaat ?",
+      "prashna": "निम्न कौन सा किसी थाट का नाम नहीं है ?",
+      "options": {
+        "A": "Kalyan",
+        "B": "Bhairavi",
+        "C": "Bilawal",
+        "D": "Desh"
+      },
+      "vikalpa": {
+        "A": "कल्याण",
+        "B": "भैरवी",
+        "C": "बिलावल",
+        "D": "देश"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How many Swaras are essentially there in a Thaat?",
+      "prashna": "किसी थाट में कितने स्वर अनिवार्यतः लगते हैं ?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "5",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "7",
+        "C": "5",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "In which Thaat, all Sudha Swaras are there?",
+      "prashna": "किस थाट में सभी शुद्ध स्वरों का प्रयोग होता है ?",
+      "options": {
+        "A": "Yaman",
+        "B": "Aashawari",
+        "C": "Bilawal",
+        "D": "Bhairav"
+      },
+      "vikalpa": {
+        "A": "यमन",
+        "B": "आसावरी",
+        "C": "बिलावल",
+        "D": "भैरव"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Classification of Ragas",
+      "question": "How Many thaats has Pandit V.N. Bhatkhande Considered?",
+      "prashna": "पं० विष्णु नारायण भातखंडे ने कितने थाट माने है?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "8"
+      }
+    }
+  ]
+}

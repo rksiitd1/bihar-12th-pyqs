@@ -1,0 +1,325 @@
+{
+  "2021": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "How many Padhaties of music are there?",
+      "prashna": "संगीत की कितनी पद्धतियाँ है ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Which city is famous for Thumari ?",
+      "prashna": "ठुमरी के लिए प्रसिद्ध शहर कौन सा है ?",
+      "options": {
+        "A": "Gujrat",
+        "B": "Delhi",
+        "C": "Banaras",
+        "D": "Jaipur"
+      },
+      "vikalpa": {
+        "A": "गुजरात",
+        "B": "दिल्ली",
+        "C": "बनारस",
+        "D": "जयपुर"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Who was the introducer of Notation system ?",
+      "prashna": "स्वरलिपि पद्धति को किसने प्रचलित किया ?",
+      "options": {
+        "A": "Pt. Bhatkhande",
+        "B": "Pt. Ratanjankar",
+        "C": "Muni Narad",
+        "D": "Muni Matang"
+      },
+      "vikalpa": {
+        "A": "पं० भातखण्डे",
+        "B": "पं० रातंजनकर",
+        "C": "मुनि नारद",
+        "D": "मुनि मतंग"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Who is the author of 'Kramik Pustak Malika'?",
+      "prashna": "‘क्रमिक पुस्तक मालिका’ के लेखक कौन हैं ?",
+      "options": {
+        "A": "Bhatkhande",
+        "B": "Ahobal",
+        "C": "Paluskar",
+        "D": "Bharat"
+      },
+      "vikalpa": {
+        "A": "भातखण्डे",
+        "B": "अहोबल",
+        "C": "पलुस्कर",
+        "D": "भरत"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Who is the author of the book 'Abhinav Raga Manjari'?",
+      "prashna": "अभिनव राग मंजरी' पुस्तक के लेखक कौन हैं ?",
+      "options": {
+        "A": "Pt. Patwardhan",
+        "B": "Pt. Omkarnath Thakur",
+        "C": "Pt. Bhatkhande",
+        "D": "Pt. Ramashraya Jha"
+      },
+      "vikalpa": {
+        "A": "पं. पटवर्द्धन",
+        "B": "पं. ओंकार नाथ ठाकुर",
+        "C": "पं. भातखण्डे",
+        "D": "पं. रामाश्रय झा"
+      }
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Describe the notation system given by Pt. Bhatkhande.",
+      "prashna": "21. पं. भातखण्डे द्वारा दी गई स्वरलिपि पद्धति का वर्णन करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Dhruvpad originated from which style ?",
+      "prashna": "ध्रुपद का विकास किस शैली से हुआ है ?",
+      "options": {
+        "A": "Khayal",
+        "B": "Prabanddh",
+        "C": "Jaatigan",
+        "D": "Samgan"
+      },
+      "vikalpa": {
+        "A": "ख्याल",
+        "B": "प्रबंध",
+        "C": "जातिगान",
+        "D": "सामगान"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "How many Banies are there in Dhruvpad ?",
+      "prashna": "ध्रुपद की कितनी बानियाँ हैं ?",
+      "options": {
+        "A": "four",
+        "B": "two",
+        "C": "six",
+        "D": "seven"
+      },
+      "vikalpa": {
+        "A": "चार",
+        "B": "दो",
+        "C": "छः",
+        "D": "सात"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "How many music systems are there in India ?",
+      "prashna": "भारत में कितनी संगीत पद्धतियाँ हैं ?",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Write about Druvpad.",
+      "prashna": "ध्रुपद के विषय में लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "How many types of Vaani are there in Dhrupad?",
+      "prashna": "ध्रुपद की कितनी वाणियाँ हैं ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Which Place is famous for Kajri Gayan?",
+      "prashna": "‘कजरी’ गायन के लिए कौन सा स्थान प्रसिद्ध है?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Gujarat",
+        "C": "Uttar Pradesh",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "राजस्थान",
+        "B": "गुजरात",
+        "C": "उत्तर प्रदेश",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Who was the writer of the Granth kramik-pustak malika?",
+      "prashna": "क्रमिक पुस्तक मालिका ग्रंथ के लेखक कौन थे?",
+      "options": {
+        "A": "Muni Bharat",
+        "B": "Pt. V.N. Bhatkhande",
+        "C": "Pt. V.D. Palushkar",
+        "D": "Pt. Sharangdev"
+      },
+      "vikalpa": {
+        "A": "मुनि भरत",
+        "B": "पं० विष्णु नारायण भातखंडे",
+        "C": "पं० विष्णु दिगम्बर पलुष्कर",
+        "D": "पं० शारंगदेव"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Dhrupad belongs to Which music tradition?",
+      "prashna": "ध्रुपद किस संगीत परंपरा का अंग है?",
+      "options": {
+        "A": "Western",
+        "B": "Karnataki",
+        "C": "Hindustani",
+        "D": "Folk"
+      },
+      "vikalpa": {
+        "A": "पाश्चात्य",
+        "B": "कर्नाटकी",
+        "C": "हिन्दुस्तानी",
+        "D": "लोकसंगीत"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Which region is famous for ‘Bhangra’ folk music?",
+      "prashna": "‘भांगड़ा’ लोक संगीत किस क्षेत्र में प्रसिद्ध है?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Punjab",
+        "C": "Bengal",
+        "D": "Gujarat"
+      },
+      "vikalpa": {
+        "A": "राजस्थान",
+        "B": "पंजाब",
+        "C": "बंगाल",
+        "D": "गुजरात"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Which folk form is famous in Maharashtra?",
+      "prashna": "महाराष्ट्र मे कौन सा लोकसंगीत प्रसिद्ध हैं?",
+      "options": {
+        "A": "Lavani",
+        "B": "Baul",
+        "C": "Bihu",
+        "D": "Bhangra"
+      },
+      "vikalpa": {
+        "A": "लावणी",
+        "B": "बाउल",
+        "C": "बिहू",
+        "D": "भांगड़ा"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Which Instrument is used with Punjabi folk music?",
+      "prashna": "पंजाबी लोक संगीत मे कौन सा वाद्य प्रयोग किया जाता है?",
+      "options": {
+        "A": "Veena",
+        "B": "Dhol",
+        "C": "Sitar",
+        "D": "Taanpura"
+      },
+      "vikalpa": {
+        "A": "वीणा",
+        "B": "ढोल",
+        "C": "सितार",
+        "D": "तानपूरा"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Write the name of any two Granthas written by Pt. V.N. Bhatkhande.",
+      "prashna": "पं० विष्णु नारायण भातखंडे द्वारा रचित किन्हीं दो ग्रंथों के नाम लिखिए।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "History of Hindustani Music",
+      "question": "Explain the Characteristics of Folk Music.",
+      "prashna": "लोकसंगीत की विशेषताओं को समझाइये।"
+    }
+  ]
+}

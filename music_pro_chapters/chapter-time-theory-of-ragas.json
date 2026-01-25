@@ -1,0 +1,294 @@
+{
+  "2021": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which Raag is sung in the morning?",
+      "prashna": "कौन सा राग प्रातःकाल में गाया जाता है ?",
+      "options": {
+        "A": "Raag Bihag",
+        "B": "Raag Yaman",
+        "C": "Raag Desh",
+        "D": "Raag Bhairav"
+      },
+      "vikalpa": {
+        "A": "राग बिहाग",
+        "B": "राग यमन",
+        "C": "राग देस",
+        "D": "भैरव"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which one is not night Raga?",
+      "prashna": "कौन रात्रिकालीन राग नहीं है ?",
+      "options": {
+        "A": "Bhairav",
+        "B": "Kafi",
+        "C": "Bihag",
+        "D": "Yaman"
+      },
+      "vikalpa": {
+        "A": "भैरव",
+        "B": "काफी",
+        "C": "बिहाग",
+        "D": "यमन"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which one is not morning Raga?",
+      "prashna": "कौन सा प्रातःकालीन राग नहीं है ?",
+      "options": {
+        "A": "Bhairav",
+        "B": "Bhairavi",
+        "C": "Yaman",
+        "D": "Alahaiya bilawal"
+      },
+      "vikalpa": {
+        "A": "भैरव",
+        "B": "भैरवी",
+        "C": "यमन",
+        "D": "अल्हैया बिलावल"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the singing time of raga kafi?",
+      "prashna": "राग काफी का गायन समय क्या है ?",
+      "options": {
+        "A": "Morning",
+        "B": "Afternoon",
+        "C": "Second part of Night",
+        "D": "Midnight"
+      },
+      "vikalpa": {
+        "A": "प्रातःकाल",
+        "B": "दोपहर",
+        "C": "रात्रि का द्वितीय प्रहर",
+        "D": "मध्यरात्रि"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which of these is a morning Raga?",
+      "prashna": "इनमें से कौन सा राग प्रातःकालीन है ?",
+      "options": {
+        "A": "Yaman",
+        "B": "Bhimpalasi",
+        "C": "Kedar",
+        "D": "Alahaiya Bilawal"
+      },
+      "vikalpa": {
+        "A": "यमन",
+        "B": "भीमपलासी",
+        "C": "केदार",
+        "D": "अल्हैया बिलावल"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the singing time of Raga Bilawal?",
+      "prashna": "राग बिलावल का गायन समय क्या है ?",
+      "options": {
+        "A": "Evening",
+        "B": "Morning",
+        "C": "Afternoon",
+        "D": "Night"
+      },
+      "vikalpa": {
+        "A": "सायंकाल",
+        "B": "प्रातःकाल",
+        "C": "दोपहर",
+        "D": "रात्रि"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the singing time of Raga Bhairav?",
+      "prashna": "राग भैरव का गायन समय क्या है ?",
+      "options": {
+        "A": "Morning",
+        "B": "Second quarter of the day",
+        "C": "Evening",
+        "D": "Night time"
+      },
+      "vikalpa": {
+        "A": "प्रातःकाल",
+        "B": "दिन का दूसरा प्रहर",
+        "C": "सायंकाल",
+        "D": "रात्रिकाल"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the singing time of Raga Kafi?",
+      "prashna": "राग काफी का गायन समय क्या है ?",
+      "options": {
+        "A": "Morning",
+        "B": "Afternoon",
+        "C": "Second quarter of the night",
+        "D": "After midnight"
+      },
+      "vikalpa": {
+        "A": "प्रातःकाल",
+        "B": "दोपहर",
+        "C": "रात्रि का द्वितीय प्रहर",
+        "D": "मध्य रात्रि के बाद"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which Raga is sung or played in the afternoon?",
+      "prashna": "कौन-सा राग अपराहन काल में गाया-बजाया जाता है ?",
+      "options": {
+        "A": "Bhairav",
+        "B": "Alhaiya Bilawal",
+        "C": "Bihag",
+        "D": "Bhimpalasi"
+      },
+      "vikalpa": {
+        "A": "भैरव",
+        "B": "अल्हैया बिलावल",
+        "C": "बिहाग",
+        "D": "भीमपलासी"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Name any two Ragas sung in the morning.",
+      "prashna": "प्रातः गेय किन्हीं दो रागों के नाम बताएँ।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the singing time of Raag Kafi ?",
+      "prashna": "राग काफी का गायन समय क्या है ?",
+      "options": {
+        "A": "Morning",
+        "B": "Afternoon",
+        "C": "Evening",
+        "D": "Night"
+      },
+      "vikalpa": {
+        "A": "प्रातःकाल",
+        "B": "अपराह्न",
+        "C": "सायंकाल",
+        "D": "रात्रिकाल"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which is a Morning Raga ?",
+      "prashna": "कौन सा प्रातःकालीन राग है ?",
+      "options": {
+        "A": "Yaman",
+        "B": "Bihag",
+        "C": "Alahaiya Bilawal",
+        "D": "Bhupali"
+      },
+      "vikalpa": {
+        "A": "यमन",
+        "B": "बिहाग",
+        "C": "अल्हैया बिलावल",
+        "D": "भूपाली"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "Which is not a morning Raga ?",
+      "prashna": "कौन सा राग प्रातःकालीन नहीं है ?",
+      "options": {
+        "A": "Bhairav",
+        "B": "Alhaiya Bilawal",
+        "C": "Bihag",
+        "D": "Bhairavi"
+      },
+      "vikalpa": {
+        "A": "भैरव",
+        "B": "अल्हैया बिलावल",
+        "C": "बिहाग",
+        "D": "भैरवी"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the singing time of Raga Yaman ?",
+      "prashna": "राग यमन का गायन समय क्या है ?",
+      "options": {
+        "A": "Morning",
+        "B": "Afternoon",
+        "C": "Evening",
+        "D": "Night"
+      },
+      "vikalpa": {
+        "A": "प्रातःकाल",
+        "B": "अपराह्न",
+        "C": "सायंकाल",
+        "D": "रात्रिकाल"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "What is the relation between Vadi Swara and time table of Raga. Write about it in details.",
+      "prashna": "वादी स्वर का राग समय सारिणी से क्या संबंध हैं ? इसके बारे में विस्तार से लिखें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Time Theory of Ragas",
+      "question": "At what time is “Raag Bhairav” Sung?",
+      "prashna": "‘राग भैरव’ किस समय गाया जाता है?",
+      "options": {
+        "A": "Morning",
+        "B": "Afternoon",
+        "C": "Evening",
+        "D": "Night"
+      },
+      "vikalpa": {
+        "A": "प्रातः",
+        "B": "दोपहर",
+        "C": "शाम",
+        "D": "रात"
+      }
+    }
+  ]
+}

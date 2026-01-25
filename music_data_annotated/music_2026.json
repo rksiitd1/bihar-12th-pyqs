@@ -1,0 +1,1514 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How Many types of Naad are there?",
+        "prashna": "नाद कितने प्रकार के होते हैं?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "One"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "एक"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What is Categorised as Ahat and Anahat?",
+        "prashna": "आहत और अनाहत किसके भेद है?",
+        "options": {
+            "A": "Swar",
+            "B": "Naad",
+            "C": "Song",
+            "D": "Saptak"
+        },
+        "vikalpa": {
+            "A": "स्वर",
+            "B": "नाद",
+            "C": "गीत",
+            "D": "सप्तक"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How many main parts of music are there?",
+        "prashna": "संगीत के मुख्य कितने अंग हैं?",
+        "options": {
+            "A": "Three",
+            "B": "Four",
+            "C": "Two",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "तीन",
+            "B": "चार",
+            "C": "दो",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "How Many beats (Matras) are there in dadra Taal?",
+        "prashna": "दादरा ताल मे कितनी मात्राएँ होती है?",
+        "options": {
+            "A": "10",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+        },
+        "vikalpa": {
+            "A": "10",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "Which bol does the theka of Teentaal start with?",
+        "prashna": "तीनताल का ठेका कौन से बोल से शुरू होता है?",
+        "options": {
+            "A": "Dha",
+            "B": "Ta",
+            "C": "Dhin",
+            "D": "Na"
+        },
+        "vikalpa": {
+            "A": "धा",
+            "B": "ता",
+            "C": "धिन",
+            "D": "ना"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is a Suddha (Natural) Swara?",
+        "prashna": "निम्नलिखित में कौन सा शुद्ध स्वर है?",
+        "options": {
+            "A": "$\\underline{Re}$",
+            "B": "$\\underline{Dha}$",
+            "C": "Pa",
+            "D": "$\\underline{Ni}$"
+        },
+        "vikalpa": {
+            "A": "$रे̣$",
+            "B": "$ध̣$",
+            "C": "प",
+            "D": "$नि̣$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "In Dadra Taal the Khali falls on which matra?",
+        "prashna": "दादरा ताल मे किस मात्रा पर खाली पड़ती है?",
+        "options": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter_name": "Classification of Ragas",
+        "question": "How Many thaats has Pandit V.N. Bhatkhande Considered?",
+        "prashna": "पं० विष्णु नारायण भातखंडे ने कितने थाट माने है?",
+        "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is a taal vadya?",
+        "prashna": "निम्न में से कौन एक ताल वाद्य है?",
+        "options": {
+            "A": "Tabla",
+            "B": "Harmonium",
+            "C": "Sitar",
+            "D": "Flute"
+        },
+        "vikalpa": {
+            "A": "तबला",
+            "B": "हारमोनियम",
+            "C": "सितार",
+            "D": "बांसुरी"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "How many komal Swaras are used in Raag Bhairav?",
+        "prashna": "राग भैरव मे कितने स्वर कोमल लगते है?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "1",
+            "D": "3"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "1",
+            "D": "3"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "Difference of How many matras are there between Teentaal and Jhaptaal?",
+        "prashna": "तीनताल और झपताल में कितनी मात्राओं का अंतर है?",
+        "options": {
+            "A": "4",
+            "B": "2",
+            "C": "6",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "2",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "How Many matras are there in each division of Teentaal?",
+        "prashna": "तीनताल के प्रत्येक विभाग में कितनी मात्राएँ होती है?",
+        "options": {
+            "A": "Three",
+            "B": "Four",
+            "C": "Five",
+            "D": "Six"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "Which of the following taals has the least number of matras?",
+        "prashna": "निम्नलिखित में सबसे कम मात्राओं वाला ताल कौन है?",
+        "options": {
+            "A": "Teentaal",
+            "B": "Dadra",
+            "C": "Ektaal",
+            "D": "Keharwa"
+        },
+        "vikalpa": {
+            "A": "तीनताल",
+            "B": "दादरा",
+            "C": "एकताल",
+            "D": "कहरवा"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "How Many Divisions are there in Ektaal?",
+        "prashna": "एकताल में कितने विभाग होते है?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "2",
+            "D": "11"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "6",
+            "C": "2",
+            "D": "11"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Which Place is famous for Kajri Gayan?",
+        "prashna": "‘कजरी’ गायन के लिए कौन सा स्थान प्रसिद्ध है?",
+        "options": {
+            "A": "Rajasthan",
+            "B": "Gujarat",
+            "C": "Uttar Pradesh",
+            "D": "Maharashtra"
+        },
+        "vikalpa": {
+            "A": "राजस्थान",
+            "B": "गुजरात",
+            "C": "उत्तर प्रदेश",
+            "D": "महाराष्ट्र"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "Which Raag uses only Suddha Swaras?",
+        "prashna": "किस राग में सभी स्वर शुद्ध होते हैं?",
+        "options": {
+            "A": "Bhupali",
+            "B": "Yaman",
+            "C": "Bhairav",
+            "D": "Bhairavi"
+        },
+        "vikalpa": {
+            "A": "भूपाली",
+            "B": "यमन",
+            "C": "भैरव",
+            "D": "भैरवी"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter_name": "Time Theory of Ragas",
+        "question": "At what time is “Raag Bhairav” Sung?",
+        "prashna": "‘राग भैरव’ किस समय गाया जाता है?",
+        "options": {
+            "A": "Morning",
+            "B": "Afternoon",
+            "C": "Evening",
+            "D": "Night"
+        },
+        "vikalpa": {
+            "A": "प्रातः",
+            "B": "दोपहर",
+            "C": "शाम",
+            "D": "रात"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Dr. N. Rajam is related to which stream?",
+        "prashna": "डॉ० एन० राजम् किस विधा से संबंधित हैं?",
+        "options": {
+            "A": "Vocal Music",
+            "B": "Instrumental Music",
+            "C": "Dance",
+            "D": "Painting"
+        },
+        "vikalpa": {
+            "A": "गायन",
+            "B": "वादन",
+            "C": "नृत्य",
+            "D": "चित्रांकन"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How Many Komal Swaras are there in number?",
+        "prashna": "कोमल स्वरों की संख्या कितनी है?",
+        "options": {
+            "A": "Two",
+            "B": "Four",
+            "C": "Five",
+            "D": "Three"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "3"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is an example of Anibaddh Gaan?",
+        "prashna": "निम्नलिखित में से कौन सा अनिबद्ध गान का उदाहरण है?",
+        "options": {
+            "A": "Khyal",
+            "B": "Aalaap",
+            "C": "Tarana",
+            "D": "Thumri"
+        },
+        "vikalpa": {
+            "A": "ख्याल",
+            "B": "आलाप",
+            "C": "तराना",
+            "D": "ठुमरी"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What Comes first in a Vocal performance of Classical Music?",
+        "prashna": "शास्त्रीय गायन की प्रस्तुति में सबसे पहले कौन सा भाग आता है?",
+        "options": {
+            "A": "Aalaap",
+            "B": "Bandish",
+            "C": "Sthayi",
+            "D": "Antara"
+        },
+        "vikalpa": {
+            "A": "आलाप",
+            "B": "बंदिश",
+            "C": "स्थाई",
+            "D": "अंतरा"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is a type of Varna?",
+        "prashna": "निम्न में से कौन सा वर्ण का प्रकार है?",
+        "options": {
+            "A": "Sansthan",
+            "B": "Sthayi",
+            "C": "Jod",
+            "D": "Aalaap"
+        },
+        "vikalpa": {
+            "A": "संस्थान",
+            "B": "स्थाई",
+            "C": "जोड़",
+            "D": "आलाप"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "How many tivra swaras are used in Raga yaman?",
+        "prashna": "राग यमन में कितने स्वर तीव्र लगते है?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How Many achal swaras are there in number?",
+        "prashna": "अचल स्वरों की संख्या कितनी है?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Who was the writer of the Granth kramik-pustak malika?",
+        "prashna": "क्रमिक पुस्तक मालिका ग्रंथ के लेखक कौन थे?",
+        "options": {
+            "A": "Muni Bharat",
+            "B": "Pt. V.N. Bhatkhande",
+            "C": "Pt. V.D. Palushkar",
+            "D": "Pt. Sharangdev"
+        },
+        "vikalpa": {
+            "A": "मुनि भरत",
+            "B": "पं० विष्णु नारायण भातखंडे",
+            "C": "पं० विष्णु दिगम्बर पलुष्कर",
+            "D": "पं० शारंगदेव"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How Many types of sound (Dhwani) are there?",
+        "prashna": "ध्वनि के कितने भेद है?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Pt. Ravi shankar belongs to which Gharana?",
+        "prashna": "पंडित रविशंकर किस घराने से थे?",
+        "options": {
+            "A": "Delhi",
+            "B": "Agra",
+            "C": "Maihar",
+            "D": "Gwalior"
+        },
+        "vikalpa": {
+            "A": "दिल्ली",
+            "B": "आगरा",
+            "C": "मैहर",
+            "D": "ग्वालियर"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What is the main source of sound?",
+        "prashna": "ध्वनि का मुख्य स्रोत कौन सा है?",
+        "options": {
+            "A": "Vibration",
+            "B": "Picture",
+            "C": "Colour",
+            "D": "Book"
+        },
+        "vikalpa": {
+            "A": "कंपन",
+            "B": "चित्र",
+            "C": "रंग",
+            "D": "किताब"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "How many matras are there in Dhamartaal?",
+        "prashna": "धमार ताल में कितनी मात्राएँ होती है?",
+        "options": {
+            "A": "Ten",
+            "B": "Twelve",
+            "C": "Fourteen",
+            "D": "Sixteen"
+        },
+        "vikalpa": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How many shrutis are there in one saptak of Indian classical Music?",
+        "prashna": "भारतीय शास्त्रीय संगीत में एक सप्तक मे कितने श्रुतियाँ होती है?",
+        "options": {
+            "A": "7",
+            "B": "22",
+            "C": "12",
+            "D": "5"
+        },
+        "vikalpa": {
+            "A": "7",
+            "B": "22",
+            "C": "12",
+            "D": "5"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How many basic swaras are there in Hindustani Music?",
+        "prashna": "हिन्दुस्तानी संगीत में मूल स्वरों की संख्या कितनी हैं?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "12"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "12"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which is the correct order of the seven swaras?",
+        "prashna": "सात स्वरों का सही क्रम क्या है?",
+        "options": {
+            "A": "Sa Re Ga Pa Ma dha Ni",
+            "B": "Sa Re Ga Ma Pa Dha Ni",
+            "C": "Sa Ga Re Ma Ga Pa Dha Ni",
+            "D": "Re Sa Ga Ma Pa Dha Ni"
+        },
+        "vikalpa": {
+            "A": "सा रे ग प म ध नी",
+            "B": "सा रे ग म प ध नी",
+            "C": "सा ग रे म ग प ध नि",
+            "D": "रे सा ग म प ध नि"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "What is the first beat of a taal called?",
+        "prashna": "ताल के प्रथम मात्रा को क्या कहते हैं?",
+        "options": {
+            "A": "Khali",
+            "B": "Sam",
+            "C": "Tali",
+            "D": "Matra"
+        },
+        "vikalpa": {
+            "A": "खाली",
+            "B": "सम",
+            "C": "ताली",
+            "D": "मात्रा"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "Mainly How many types of laya are there?",
+        "prashna": "लय के मुख्य कितने प्रकार होते हैं?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "Raga Bhupali belongs to which thaat?",
+        "prashna": "राग भूपाली किस थाट का राग है?",
+        "options": {
+            "A": "Kalyan",
+            "B": "Bilawal",
+            "C": "Bhairav",
+            "D": "Purvi"
+        },
+        "vikalpa": {
+            "A": "कल्याण",
+            "B": "बिलावल",
+            "C": "भैरव",
+            "D": "पूर्वी"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which is the first note of the Octave?",
+        "prashna": "सप्तक का पहला स्वर कौन सा है?",
+        "options": {
+            "A": "Pa",
+            "B": "Ma",
+            "C": "Re",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प",
+            "B": "म",
+            "C": "रे",
+            "D": "इनमे से कोई नही"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "The Second taali of Ektaal falls on which matra?",
+        "prashna": "एकताल की दुसरी ताली किस मात्रा पर पड़ती है?",
+        "options": {
+            "A": "5",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "chapter_name": "Contribution of Music to Life",
+        "question": "What is the main purpose of Music?",
+        "prashna": "संगीत का मुख्य उद्देश्य क्या है?",
+        "options": {
+            "A": "Manifestation of Rasa",
+            "B": "Eating",
+            "C": "Sleeping",
+            "D": "Running"
+        },
+        "vikalpa": {
+            "A": "रस निष्पत्ति",
+            "B": "खाना",
+            "C": "सोना",
+            "D": "दौड़ना"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What type of Instrument is ‘Mridang’?",
+        "prashna": "‘मृदंग’ किस प्रकार का वाद्य है?",
+        "options": {
+            "A": "String",
+            "B": "Electronic",
+            "C": "Percussion",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "तंत्रावाद्य",
+            "B": "इलेक्ट्रॉनिक",
+            "C": "ताल वाद्य",
+            "D": "कोई नही"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which Musical Instrument is Played by blowing?",
+        "prashna": "कौन सा वाद्ययंत्र फूंककर बजाया जाता है?",
+        "options": {
+            "A": "Dholak",
+            "B": "Flute",
+            "C": "Tanpura",
+            "D": "Guitar"
+        },
+        "vikalpa": {
+            "A": "ढोलक",
+            "B": "बाँसुरी",
+            "C": "तानपुरा",
+            "D": "गिटार"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "Which notes are not used In Raga Bhupali?",
+        "prashna": "राग भूपाली में कौन-कौन से स्वर नहीं प्रयोग किए जाते हैं?",
+        "options": {
+            "A": "Re and Ma",
+            "B": "Ma and Ni",
+            "C": "Ga and Dha",
+            "D": "Sa and Pa"
+        },
+        "vikalpa": {
+            "A": "रे और म",
+            "B": "म और नि",
+            "C": "ग और ध",
+            "D": "सा और प"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "Raga yaman Belongs to which Thaat?",
+        "prashna": "राग यमन किस थाट का राग है?",
+        "options": {
+            "A": "Bhairav",
+            "B": "Kalyan",
+            "C": "Todi",
+            "D": "Asavari"
+        },
+        "vikalpa": {
+            "A": "भैरव",
+            "B": "कल्याण",
+            "C": "तोड़ी",
+            "D": "आसावरी"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which note is called ‘Nishad’?",
+        "prashna": "कौन सा स्वर ‘निषाद’ कहलाता है?",
+        "options": {
+            "A": "Ma",
+            "B": "Pa",
+            "C": "Dha",
+            "D": "Ni"
+        },
+        "vikalpa": {
+            "A": "म",
+            "B": "प",
+            "C": "ध",
+            "D": "नि"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Ustad Zakir Hussain is an artist of which stream?",
+        "prashna": "उस्ताद ज़ाकिर हुसैन किस विधा के कलाकार है?",
+        "options": {
+            "A": "Vocal Music",
+            "B": "Instrumental Music",
+            "C": "Dance",
+            "D": "Painting"
+        },
+        "vikalpa": {
+            "A": "गायन",
+            "B": "वादन",
+            "C": "नृत्य",
+            "D": "चित्रकारी"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "Which note is the samvadi swar of Raga Bhairav?",
+        "prashna": "राग भैरव का संवादी स्वर कौन सा है?",
+        "options": {
+            "A": "Sa",
+            "B": "Re",
+            "C": "Dha",
+            "D": "Ni"
+        },
+        "vikalpa": {
+            "A": "सा",
+            "B": "रे",
+            "C": "ध",
+            "D": "नि"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "What is the Jati of Raga Bhairav?",
+        "prashna": "राग भैरव की जाति क्या है?",
+        "options": {
+            "A": "Audava-Audava",
+            "B": "Audava-Shadava",
+            "C": "Sampoorna- Sampoorna",
+            "D": "Shadava-Sampoorna"
+        },
+        "vikalpa": {
+            "A": "औडव-औडव",
+            "B": "औडव-षाडव",
+            "C": "संपूर्ण-संपूर्ण",
+            "D": "षाडव-संपूर्ण"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is not a feature of Nibaddha Gaan?",
+        "prashna": "निम्न में से कौन निबद्ध गान की विशेषता नहीं है?",
+        "options": {
+            "A": "Fixed Rhythm",
+            "B": "Free flow",
+            "C": "fixed Composition",
+            "D": "use of Taal"
+        },
+        "vikalpa": {
+            "A": "निश्चित ताल",
+            "B": "मुक्त प्रवाह",
+            "C": "निश्चित रचना",
+            "D": "ताल का प्रयोग"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "How many beats are there in Kehrava taal?",
+        "prashna": "कहरवा ताल में कितनी मात्राएँ होती है?",
+        "options": {
+            "A": "5",
+            "B": "8",
+            "C": "16",
+            "D": "12"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "8",
+            "C": "16",
+            "D": "12"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is a tivra swar ( sharp Note)?",
+        "prashna": "निम्नांकित में से कौन सा तीव्र स्वर है?",
+        "options": {
+            "A": "Sa",
+            "B": "$\\acute{M}a$",
+            "C": "Pa",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "सा",
+            "B": "$मां$",
+            "C": "प",
+            "D": "कोई नही"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Which among the following is not a vocalist?",
+        "prashna": "निम्नलिखित में से कौन गायक नही है?",
+        "options": {
+            "A": "Pt. Jasraj",
+            "B": "Pt. Ravi Shankar",
+            "C": "Girija Devi",
+            "D": "Pt. Bhimsen Joshi"
+        },
+        "vikalpa": {
+            "A": "पं० जसराज",
+            "B": "पं० रवि शंकर",
+            "C": "गिरिजा देवी",
+            "D": "पं० भीमसेन जोशी"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Dhrupad belongs to Which music tradition?",
+        "prashna": "ध्रुपद किस संगीत परंपरा का अंग है?",
+        "options": {
+            "A": "Western",
+            "B": "Karnataki",
+            "C": "Hindustani",
+            "D": "Folk"
+        },
+        "vikalpa": {
+            "A": "पाश्चात्य",
+            "B": "कर्नाटकी",
+            "C": "हिन्दुस्तानी",
+            "D": "लोकसंगीत"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Who is the famous sarod player?",
+        "prashna": "प्रसिद्ध सरोद वादक कौन है?",
+        "options": {
+            "A": "Ustad Amzad ali khan",
+            "B": "Pt. Ravi shankar",
+            "C": "Pt. Hariprasad Chaurasiya",
+            "D": "Pt. Shivkumar Sharma"
+        },
+        "vikalpa": {
+            "A": "उस्ताद अमजद अली खान",
+            "B": "पं० रविशंकर",
+            "C": "पं० हरिप्रसाद चौरसिया",
+            "D": "पं० शिवकुमार शर्मा"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which note of western music is similar to ‘SA’ of Indian Music?",
+        "prashna": "भारतीय संगीत मे ‘सा’ के समान पश्चिमी संगीत मे कौन सा स्वर है?",
+        "options": {
+            "A": "Do",
+            "B": "Re",
+            "C": "Mi",
+            "D": "Fa"
+        },
+        "vikalpa": {
+            "A": "डो",
+            "B": "रे",
+            "C": "मी",
+            "D": "फा"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Identify the odd one out:",
+        "prashna": "असंगत विकल्प कौन सा है?",
+        "options": {
+            "A": "Teentaal",
+            "B": "Dadra",
+            "C": "Jhaptaal",
+            "D": "Gandhar"
+        },
+        "vikalpa": {
+            "A": "तीनताल",
+            "B": "दादरा",
+            "C": "झपताल",
+            "D": "गांधार"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Who is the first ‘Bharat Ratna’ awardee in the field of Music?",
+        "prashna": "संगीत के क्षेत्र में प्रथम ‘भारत रत्न’ सम्मान किन्हें प्राप्त है?",
+        "options": {
+            "A": "M.S. Subbulakshmi",
+            "B": "Ustad Bismillah Khan",
+            "C": "Pt. Ravishankar",
+            "D": "Lata Mangeshkar"
+        },
+        "vikalpa": {
+            "A": "एम०एस० सुब्बालक्ष्मी",
+            "B": "उस्ताद बिस्मिल्लाह खान",
+            "C": "पं० रविशंकर",
+            "D": "लता मंगेशकर"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "Which taal has 12 beats?",
+        "prashna": "12 मात्राओं वाला ताल कौन सा है?",
+        "options": {
+            "A": "Jhaptaal",
+            "B": "Sultaal",
+            "C": "Rupak",
+            "D": "Ektaal"
+        },
+        "vikalpa": {
+            "A": "झपताल",
+            "B": "सूलताल",
+            "C": "रूपक",
+            "D": "एकताल"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is not a percussion instrument?",
+        "prashna": "निम्नलिखित में से कौन सा ताल वाद्ययंत्र नही है?",
+        "options": {
+            "A": "Tabla",
+            "B": "Tanpura",
+            "C": "Violin",
+            "D": "Sitar"
+        },
+        "vikalpa": {
+            "A": "तबला",
+            "B": "तानपूरा",
+            "C": "वायलिन",
+            "D": "सितार"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Who is the founder of ‘Maihar Gharana’?",
+        "prashna": "‘मैहर घराना’ के संस्थापक कौन है?",
+        "options": {
+            "A": "Ustad Zakir Hussain",
+            "B": "Ustad Allauddin Khan",
+            "C": "Ustad bismillah Khan",
+            "D": "Pt. Shivkumar Sharma"
+        },
+        "vikalpa": {
+            "A": "उस्ताद जाकिर हुसैन",
+            "B": "उस्ताद अलाउद्दीन खां",
+            "C": "उस्ताद बिस्मिल्लाह खान",
+            "D": "पं० शिवकुमार शर्मा"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What does “Shruti” mean in Music?",
+        "prashna": "संगीत में ‘श्रुति’ का क्या अर्थ है?",
+        "options": {
+            "A": "Laya",
+            "B": "Microtone",
+            "C": "Instrument",
+            "D": "Rhythm"
+        },
+        "vikalpa": {
+            "A": "लय",
+            "B": "सूक्ष्म स्वर",
+            "C": "वाद्य",
+            "D": "ताल"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which is not a swar of Indian Classical Music?",
+        "prashna": "भारतीय शास्त्रीय संगीत का स्वर कौन सा नहीं है?",
+        "options": {
+            "A": "Sa",
+            "B": "Re",
+            "C": "Mi",
+            "D": "Pa"
+        },
+        "vikalpa": {
+            "A": "सा",
+            "B": "रे",
+            "C": "मी",
+            "D": "प"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which of the following is sung without Rhythm?",
+        "prashna": "इनमें से किसे बिना ताल के गाया जाता है?",
+        "options": {
+            "A": "Dhrupad",
+            "B": "Khyal",
+            "C": "Aalaap",
+            "D": "Tarana"
+        },
+        "vikalpa": {
+            "A": "ध्रुपद",
+            "B": "ख्याल",
+            "C": "आलाप",
+            "D": "तराना"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Which type of form is ‘Khyal’?",
+        "prashna": "‘ख्याल’ किस प्रकार की शैली है?",
+        "options": {
+            "A": "Dance",
+            "B": "Painting",
+            "C": "Vocal Music",
+            "D": "None of These"
+        },
+        "vikalpa": {
+            "A": "नृत्य",
+            "B": "चित्र",
+            "C": "गायन",
+            "D": "इनमे से कोई नही"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Who was the disciple of Ustad Allauddin Khan?",
+        "prashna": "उस्ताद अलाउद्दीन खान के शिष्य कौन थे?",
+        "options": {
+            "A": "Pt. Ravishankar",
+            "B": "Lata Mangeshkar",
+            "C": "Ustad Zakir Hussain",
+            "D": "Pt. Bhimsen Joshi"
+        },
+        "vikalpa": {
+            "A": "पं० रविशंकर",
+            "B": "लता मंगेशकर",
+            "C": "उस्ताद ज़ाकिर हुसैन",
+            "D": "पं० भीमसेन जोशी"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "chapter_name": "Study of Talas",
+        "question": "How many divisions are there in Rupak taal?",
+        "prashna": "रूपक ताल में कितने विभाग होते हैं?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "chapter_name": "Contribution of Music to Life",
+        "question": "Which of the following is the name of a dance style?",
+        "prashna": "निम्न में कौन एक नृत्यशैली का नाम है?",
+        "options": {
+            "A": "Dhrupad",
+            "B": "Khyal",
+            "C": "Bharatnatyam",
+            "D": "Ghazal"
+        },
+        "vikalpa": {
+            "A": "ध्रुपद",
+            "B": "ख्याल",
+            "C": "भरतनाट्यम",
+            "D": "गज़ल"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Which region is famous for ‘Bhangra’ folk music?",
+        "prashna": "‘भांगड़ा’ लोक संगीत किस क्षेत्र में प्रसिद्ध है?",
+        "options": {
+            "A": "Rajasthan",
+            "B": "Punjab",
+            "C": "Bengal",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "राजस्थान",
+            "B": "पंजाब",
+            "C": "बंगाल",
+            "D": "गुजरात"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "chapter_name": "Study of Ragas",
+        "question": "In Which Raga $\\underline{Re}$ $\\underline{Ga}$ $\\underline{Dha}$ $\\underline{Ni}$ are Komal and all other suddha swaras are used?",
+        "prashna": "किस राग में रे ग ध नि कोमल और बाकी स्वर शुद्ध लगते हैं?",
+        "options": {
+            "A": "Bilaval",
+            "B": "Bhairavi",
+            "C": "Yaman",
+            "D": "Desh"
+        },
+        "vikalpa": {
+            "A": "बिलावल",
+            "B": "भैरवी",
+            "C": "यमन",
+            "D": "देश"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Which folk form is famous in Maharashtra?",
+        "prashna": "महाराष्ट्र मे कौन सा लोकसंगीत प्रसिद्ध हैं?",
+        "options": {
+            "A": "Lavani",
+            "B": "Baul",
+            "C": "Bihu",
+            "D": "Bhangra"
+        },
+        "vikalpa": {
+            "A": "लावणी",
+            "B": "बाउल",
+            "C": "बिहू",
+            "D": "भांगड़ा"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Which Instrument is used with Punjabi folk music?",
+        "prashna": "पंजाबी लोक संगीत मे कौन सा वाद्य प्रयोग किया जाता है?",
+        "options": {
+            "A": "Veena",
+            "B": "Dhol",
+            "C": "Sitar",
+            "D": "Taanpura"
+        },
+        "vikalpa": {
+            "A": "वीणा",
+            "B": "ढोल",
+            "C": "सितार",
+            "D": "तानपूरा"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "How many strings are there in a Tanpura?",
+        "prashna": "तानपूरा मे तारों की संख्या कितनी होती है?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "12",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "12",
+            "D": "10"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What is Murki?",
+        "prashna": "मुर्की क्या है?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What is Taan?",
+        "prashna": "तान किसे कहते है?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter_name": "Study of Talas",
+        "question": "Write down the dugun layakari of teental.",
+        "prashna": "तीनताल को दुगुन की लयकारी मे लिखिए।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Define Alankar.",
+        "prashna": "अलंकार को परिभाषित कीजिए।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write pakad of Raga yaman.",
+        "prashna": "राग यमन का पकड़ लिखिए।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What is kan?",
+        "prashna": "कण किसे कहते है?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Write the name of any two Granthas written by Pt. V.N. Bhatkhande.",
+        "prashna": "पं० विष्णु नारायण भातखंडे द्वारा रचित किन्हीं दो ग्रंथों के नाम लिखिए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Write the definition of Saptak.",
+        "prashna": "सप्तक की परिभाषा लिखिए।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Mention the Vadi Samvadi of Raga Yaman.",
+        "prashna": "राग यमन का वादी-संवादी बताएँ।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write a Short Introduction of Raga Bhairav.",
+        "prashna": "राग भैरव का संक्षिप्त परिचय लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What is Shruti?",
+        "prashna": "श्रुति क्या है?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter_name": "Study of Talas",
+        "question": "What is Khali?",
+        "prashna": "खाली किसे कहते है?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter_name": "Study of Talas",
+        "question": "How many types of Layas are there? Name Them.",
+        "prashna": "लय कितने प्रकार के होते है? नाम लिखिए।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write down the Aaroha – Avroha of Raga Bhupali.",
+        "prashna": "राग भूपाली का आरोह –अवरोह लिखिए।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter_name": "Classification of Ragas",
+        "question": "How many main jatis of Raga are there?",
+        "prashna": "राग की मुख्य कितनी जातियाँ है?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "chapter_name": "Classification of Ragas",
+        "question": "Write any Five names of Thaats.",
+        "prashna": "किन्हीं पाँच थाटों के नाम लिखिए।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "What do you mean by Naad?",
+        "prashna": "नाद से आप क्या समझते है?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "chapter_name": "Study of Talas",
+        "question": "Write the Theka of dadra and Keharwa Taal in Dugun Layakari.",
+        "prashna": "दादरा तथा कहरवा ताल का ठेका दुगुन लयकारी मे लिखें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Define Sangeet.",
+        "prashna": "संगीत को परिभाषित कीजिए।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write two taans of eight matras in Raga Bageshwari.",
+        "prashna": "राग बागेश्री में 8 मात्राओं के दो तानों को लिखिए।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write complete Introduction of Raga yaman.",
+        "prashna": "राग यमन का संपूर्ण परिचय लिखिए।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter_name": "Definitions of Musical Terms",
+        "question": "Explain in detail Nibaddha gaan and Anibaddha Gaan.",
+        "prashna": "निबद्ध गान तथा अनिबद्ध गान को विस्तार से समझाइये।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write down the Aaroha-Avroha and Pakad of Raga Kafi.",
+        "prashna": "राग काफी का आरोह– अवरोह एवं पकड़ लिखिये।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter_name": "History of Hindustani Music",
+        "question": "Explain the Characteristics of Folk Music.",
+        "prashna": "लोकसंगीत की विशेषताओं को समझाइये।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "chapter_name": "Study of Ragas",
+        "question": "Write Down a Chhota Khyal with notation in any Raga From your Syllabus.",
+        "prashna": "पाठ्यक्रम मे दिए गये किसी राग में छोटा ख्याल की स्वरलिपि लिखें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "chapter_name": "Life Sketch of Musicians",
+        "question": "Write the life Sketch of Pt. Omkarnath Thakur.",
+        "prashna": "पं० ओमकारनाथ ठाकुर की जीवनी लिखें।"
+    }
+]
