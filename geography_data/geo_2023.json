@@ -1,0 +1,1432 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Kolkata port is located on which river?",
+        "prashna": "कोलकाता पत्तन किस नदी पर स्थित है ?",
+        "options": {
+            "A": "Ganga",
+            "B": "Damodar",
+            "C": "Hooghly",
+            "D": "Yamuna"
+        },
+        "vikalpa": {
+            "A": "गंगा",
+            "B": "दामोदर",
+            "C": "हुगली",
+            "D": "यमुना"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which of the following ports is on the east coast of India?",
+        "prashna": "निम्नलिखित पत्तनों में से कौन भारत के पूर्वी तट पर है ?",
+        "options": {
+            "A": "Mumbai",
+            "B": "Marmagao",
+            "C": "Kandla",
+            "D": "Paradip"
+        },
+        "vikalpa": {
+            "A": "मुम्बई",
+            "B": "मार्मागाओ",
+            "C": "कांडला",
+            "D": "पारादीप"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which of the following rivers is the most polluted?",
+        "prashna": "निम्न नदियों में से सर्वाधिक प्रदूषित कौन है ?",
+        "options": {
+            "A": "Yamuna",
+            "B": "Satluj",
+            "C": "Godavari",
+            "D": "Son"
+        },
+        "vikalpa": {
+            "A": "यमुना",
+            "B": "सतलज",
+            "C": "गोदावरी",
+            "D": "सोन"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which one of the following is a cause of acid rain?",
+        "prashna": "निम्नलिखित में से कौन-सा अम्ल वर्षा का एक कारण है ?",
+        "options": {
+            "A": "Pollution",
+            "B": "Air pollution",
+            "C": "Noise pollution",
+            "D": "Land pollution"
+        },
+        "vikalpa": {
+            "A": "प्रदूषण",
+            "B": "वायु प्रदूषण",
+            "C": "ध्वनि प्रदूषण",
+            "D": "भू-प्रदूषण"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Namami Gange programme is related to which river?",
+        "prashna": "नमामि गंगे कार्यक्रम किस नदी से सम्बन्धित है ?",
+        "options": {
+            "A": "Ganga",
+            "B": "Yamuna",
+            "C": "Brahmaputra",
+            "D": "Narmada"
+        },
+        "vikalpa": {
+            "A": "गंगा",
+            "B": "यमुना",
+            "C": "ब्रह्मपुत्र",
+            "D": "नर्मदा"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Hirakud project is in",
+        "prashna": "हीराकुड परियोजना है",
+        "options": {
+            "A": "Odisha",
+            "B": "Bihar",
+            "C": "Jharkhand",
+            "D": "Chhattisgarh"
+        },
+        "vikalpa": {
+            "A": "ओडिशा में",
+            "B": "बिहार में",
+            "C": "झारखंड में",
+            "D": "छत्तीसगढ़ में"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which of the following is a river of South India?",
+        "prashna": "निम्न में से कौन दक्षिण भारत की नदी है ?",
+        "options": {
+            "A": "Ganga",
+            "B": "Hooghly",
+            "C": "Damodar",
+            "D": "Krishna"
+        },
+        "vikalpa": {
+            "A": "गंगा",
+            "B": "हुगली",
+            "C": "दामोदर",
+            "D": "कृष्णा"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which is the first urban settlement in the world?",
+        "prashna": "विश्व की प्रथम नगरीय बस्ती कौन है ?",
+        "options": {
+            "A": "Paris",
+            "B": "London",
+            "C": "Delhi",
+            "D": "Manchester"
+        },
+        "vikalpa": {
+            "A": "पेरिस",
+            "B": "लंदन",
+            "C": "दिल्ली",
+            "D": "मेनचेस्टर"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Big Inch is related to",
+        "prashna": "बिग इंच सम्बन्धित है",
+        "options": {
+            "A": "Railway",
+            "B": "Airway",
+            "C": "Pipeline",
+            "D": "Waterway"
+        },
+        "vikalpa": {
+            "A": "रेलमार्ग से",
+            "B": "वायुमार्ग से",
+            "C": "पाइपलाइन से",
+            "D": "जलमार्ग से"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which is the least literate state of India?",
+        "prashna": "भारत का सबसे कम साक्षर राज्य है",
+        "options": {
+            "A": "Bihar",
+            "B": "Jharkhand",
+            "C": "Rajasthan",
+            "D": "Goa"
+        },
+        "vikalpa": {
+            "A": "बिहार",
+            "B": "झारखंड",
+            "C": "राजस्थान",
+            "D": "गोवा"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Which of the following states has the lowest population density?",
+        "prashna": "निम्न राज्यों में से किसका जनसंख्या घनत्व सबसे कम है ?",
+        "options": {
+            "A": "Arunachal Pradesh",
+            "B": "Assam",
+            "C": "Mizoram",
+            "D": "Sikkim"
+        },
+        "vikalpa": {
+            "A": "अरुणाचल प्रदेश",
+            "B": "असम",
+            "C": "मिजोरम",
+            "D": "सिक्किम"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "The annual growth rate of population in India is",
+        "prashna": "भारत में जनसंख्या की वार्षिक वृद्धि दर है",
+        "options": {
+            "A": "3%",
+            "B": "4%",
+            "C": "2.6%",
+            "D": "1.64%"
+        },
+        "vikalpa": {
+            "A": "3%",
+            "B": "4%",
+            "C": "2.6%",
+            "D": "1.64%"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The reason for male migration in India is",
+        "prashna": "भारत में पुरुष प्रवास का कारण है",
+        "options": {
+            "A": "Education",
+            "B": "Employment",
+            "C": "Business",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "शिक्षा",
+            "B": "रोजगार",
+            "C": "व्यवसाय",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "According to 2011 census, literacy in India is",
+        "prashna": "2011 की जनगणना के अनुसार, भारत में साक्षरता है।",
+        "options": {
+            "A": "63 percent",
+            "B": "73 percent",
+            "C": "74.04 percent",
+            "D": "65 percent"
+        },
+        "vikalpa": {
+            "A": "63 प्रतिशत",
+            "B": "73 प्रतिशत",
+            "C": "74.04 प्रतिशत",
+            "D": "65 प्रतिशत"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "What is the width of a meter gauge railway line?",
+        "prashna": "मीटर गेज रेल लाइन की चौड़ाई कितनी होती है ?",
+        "options": {
+            "A": "1.5 meter",
+            "B": "1.6 meter",
+            "C": "1.7 meter",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1.5 मीटर",
+            "B": "1.6 मीटर",
+            "C": "1.7 मीटर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "When was the World Trade Organization (WTO) established?",
+        "prashna": "विश्व व्यापार संगठन (WTO) की स्थापना कब हुई ?",
+        "options": {
+            "A": "1948",
+            "B": "1995",
+            "C": "2000",
+            "D": "2005"
+        },
+        "vikalpa": {
+            "A": "1948",
+            "B": "1995",
+            "C": "2000",
+            "D": "2005"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The headquarters of the World Trade Organization (WTO) is located at",
+        "prashna": "विश्व व्यापार संगठन (WTO) का मुख्यालय स्थित है",
+        "options": {
+            "A": "New York",
+            "B": "Vienna",
+            "C": "Geneva",
+            "D": "New Delhi"
+        },
+        "vikalpa": {
+            "A": "न्यूयार्क में",
+            "B": "वियना में",
+            "C": "जेनेवा में",
+            "D": "नई दिल्ली में"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Abadan is an example of",
+        "prashna": "अबादान उदाहरण है",
+        "options": {
+            "A": "Oil port",
+            "B": "Passenger port",
+            "C": "Packet port",
+            "D": "Naval port"
+        },
+        "vikalpa": {
+            "A": "तेल पत्तन का",
+            "B": "सवारी पत्तन का",
+            "C": "पैकेट पत्तन का",
+            "D": "नौसेना पत्तन का"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following is a cultural city?",
+        "prashna": "निम्नलिखित में से कौन सांस्कृतिक नगर है ?",
+        "options": {
+            "A": "Mecca",
+            "B": "Jerusalem",
+            "C": "Varanasi",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "मक्का",
+            "B": "जेरुसलम",
+            "C": "वाराणसी",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "What pattern of settlement is found along the road?",
+        "prashna": "सड़क के सहारे किस प्रतिरूप की बस्ती मिलती है ?",
+        "options": {
+            "A": "Circular",
+            "B": "Linear",
+            "C": "Rectangular",
+            "D": "Terraced"
+        },
+        "vikalpa": {
+            "A": "गोलाकार",
+            "B": "रेखीय",
+            "C": "आयताकार",
+            "D": "सीढ़ीनुमा"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "The meaning of Megalopolis is",
+        "prashna": "मेगालोपोलिस का अर्थ होता है",
+        "options": {
+            "A": "Million City",
+            "B": "Conurbation",
+            "C": "Mega City",
+            "D": "Great City"
+        },
+        "vikalpa": {
+            "A": "मिलियन सिटी",
+            "B": "सन्नगर",
+            "C": "मेगा सिटी",
+            "D": "विशाल नगर"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Rourkela steel plant is located in",
+        "prashna": "राउरकेला इस्पात संयंत्र अवस्थित है",
+        "options": {
+            "A": "Jharkhand",
+            "B": "Rajasthan",
+            "C": "Odisha",
+            "D": "West Bengal"
+        },
+        "vikalpa": {
+            "A": "झारखण्ड में",
+            "B": "राजस्थान में",
+            "C": "ओडिशा में",
+            "D": "पश्चिम बंगाल में"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Where is the Tata Iron-Steel Plant located?",
+        "prashna": "टाटा लौह-इस्पात संयंत्र कहाँ स्थित है ?",
+        "options": {
+            "A": "Bhilai",
+            "B": "Bhadravati",
+            "C": "Jamshedpur",
+            "D": "Durgapur"
+        },
+        "vikalpa": {
+            "A": "भिलाई",
+            "B": "भद्रावती",
+            "C": "जमशेदपुर",
+            "D": "दुर्गापुर"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Manchester of India is",
+        "prashna": "भारत का मैनचेस्टर है",
+        "options": {
+            "A": "Kanpur",
+            "B": "Lucknow",
+            "C": "Ahmedabad",
+            "D": "Indore"
+        },
+        "vikalpa": {
+            "A": "कानपुर",
+            "B": "लखनऊ",
+            "C": "अहमदाबाद",
+            "D": "इंदौर"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Trombay industrial centre is in which state?",
+        "prashna": "ट्राम्बे औद्योगिक केन्द्र किस राज्य में है ?",
+        "options": {
+            "A": "Gujarat",
+            "B": "Maharashtra",
+            "C": "Goa",
+            "D": "West Bengal"
+        },
+        "vikalpa": {
+            "A": "गुजरात",
+            "B": "महाराष्ट्र",
+            "C": "गोवा",
+            "D": "पश्चिम बंगाल"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "New Industrial Policy was implemented in",
+        "prashna": "नई औद्योगिक नीति लागू की गई",
+        "options": {
+            "A": "1981",
+            "B": "1990",
+            "C": "1991",
+            "D": "2001"
+        },
+        "vikalpa": {
+            "A": "1981 में",
+            "B": "1990 में",
+            "C": "1991 में",
+            "D": "2001 में"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "In which five-year plan was the Hill Area Development Programme started?",
+        "prashna": "पर्वतीय क्षेत्र विकास कार्यक्रम की शुरूआत किस पंचवर्षीय योजना में हुई ?",
+        "options": {
+            "A": "Third",
+            "B": "Fourth",
+            "C": "Fifth",
+            "D": "Sixth"
+        },
+        "vikalpa": {
+            "A": "तीसरी",
+            "B": "चौथी",
+            "C": "पाँचवीं",
+            "D": "छठी"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "When was NITI Aayog established?",
+        "prashna": "नीति आयोग की स्थापना कब हुई ?",
+        "options": {
+            "A": "1950",
+            "B": "1991",
+            "C": "2014",
+            "D": "2015"
+        },
+        "vikalpa": {
+            "A": "1950",
+            "B": "1991",
+            "C": "2014",
+            "D": "2015"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Where is Pampas?",
+        "prashna": "पंपास कहाँ है ?",
+        "options": {
+            "A": "South America",
+            "B": "Europe",
+            "C": "Asia",
+            "D": "Africa"
+        },
+        "vikalpa": {
+            "A": "दक्षिण अमेरिका",
+            "B": "यूरोप",
+            "C": "एशिया",
+            "D": "अफ्रीका"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Where is Birmingham?",
+        "prashna": "बर्मिंघम कहाँ है ?",
+        "options": {
+            "A": "India",
+            "B": "Great Britain",
+            "C": "Germany",
+            "D": "Australia"
+        },
+        "vikalpa": {
+            "A": "भारत में",
+            "B": "ग्रेट ब्रिटेन में",
+            "C": "जर्मनी में",
+            "D": "आस्ट्रेलिया में"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "What is made by mixing manganese with raw iron?",
+        "prashna": "कच्चा लोहा में मैंगनीज मिलाकर क्या बनाया जाता है ?",
+        "options": {
+            "A": "Steel",
+            "B": "Gold",
+            "C": "Mica",
+            "D": "Silver"
+        },
+        "vikalpa": {
+            "A": "इस्पात",
+            "B": "सोना",
+            "C": "अभ्रक",
+            "D": "चाँदी"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Which of the following is related to tertiary activities?",
+        "prashna": "निम्नलिखित में से कौन तृतीयक क्रियाओं से सम्बन्धित है ?",
+        "options": {
+            "A": "Transport",
+            "B": "Communication",
+            "C": "Services",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "परिवहन",
+            "B": "संचार",
+            "C": "सेवाएँ",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Red collar is related to",
+        "prashna": "लाल कॉलर का सम्बन्ध है",
+        "options": {
+            "A": "Primary activity",
+            "B": "Secondary activity",
+            "C": "Tertiary activity",
+            "D": "Quinary activity"
+        },
+        "vikalpa": {
+            "A": "प्राथमिक क्रिया से",
+            "B": "द्वितीयक क्रिया से",
+            "C": "तृतीयक क्रिया से",
+            "D": "पंचम क्रिया से"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "When did the first train run in the world?",
+        "prashna": "विश्व में सर्वप्रथम रेलगाड़ी कब चली ?",
+        "options": {
+            "A": "1825",
+            "B": "1853",
+            "C": "1925",
+            "D": "1862"
+        },
+        "vikalpa": {
+            "A": "1825",
+            "B": "1853",
+            "C": "1925",
+            "D": "1862"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "The densest rail network in the world is found in",
+        "prashna": "विश्व का सघनतम रेलतंत्र पाया जाता है।",
+        "options": {
+            "A": "Europe",
+            "B": "Asia",
+            "C": "Africa",
+            "D": "North America"
+        },
+        "vikalpa": {
+            "A": "यूरोप में",
+            "B": "एशिया में",
+            "C": "अफ्रीका में",
+            "D": "उत्तरी अमेरिका में"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "The year of the 'Great Divide' of census in India is",
+        "prashna": "भारत में जनगणना का महान विभाजक' वर्ष है।",
+        "options": {
+            "A": "1951",
+            "B": "1931",
+            "C": "1921",
+            "D": "1971"
+        },
+        "vikalpa": {
+            "A": "1951",
+            "B": "1931",
+            "C": "1921",
+            "D": "1971"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "The arteries of circulation are related to",
+        "prashna": "परिसंचरण की धमनियाँ सम्बन्धित है।",
+        "options": {
+            "A": "Roadways",
+            "B": "Railways",
+            "C": "Waterways",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "सड़क मार्ग से",
+            "B": "रेलमार्ग से",
+            "C": "जलमार्ग से",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "Who is called the founder of human geography?",
+        "prashna": "मानव भूगोल का संस्थापक किसे कहा जाता है ?",
+        "options": {
+            "A": "Ratzel",
+            "B": "Humboldt",
+            "C": "Ritter",
+            "D": "Blache"
+        },
+        "vikalpa": {
+            "A": "रैटजेल",
+            "B": "हम्बोल्ट",
+            "C": "रिटर",
+            "D": "ब्लास"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Quantitative revolution is related to",
+        "prashna": "मात्रात्मक क्रांति सम्बन्धित है",
+        "options": {
+            "A": "Human Geography",
+            "B": "Physical Geography",
+            "C": "Both (a) and (b)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मानव भूगोल से",
+            "B": "भौतिक भूगोल से",
+            "C": "(a) तथा (b) दोनों से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "What is the rank of India in terms of population in the world?",
+        "prashna": "विश्व में जनसंख्या की दृष्टि से भारत का स्थान कौन-सा है ?",
+        "options": {
+            "A": "First",
+            "B": "Second",
+            "C": "Third",
+            "D": "Fourth"
+        },
+        "vikalpa": {
+            "A": "पहला",
+            "B": "दूसरा",
+            "C": "तीसरा",
+            "D": "चौथा"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Migrants who move to a new place are called",
+        "prashna": "प्रवासी जो नये स्थान पर जाते हैं, कहलाते हैं",
+        "options": {
+            "A": "Immigrants",
+            "B": "Emigrants",
+            "C": "Both (a) and (b)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आप्रवासी",
+            "B": "उत्प्रवासी",
+            "C": "(a) और (b) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "What percentage of the world's population resides in Asia?",
+        "prashna": "विश्व में जनसंख्या का कितने प्रतिशत भाग एशिया में निवास करती है ?",
+        "options": {
+            "A": "40 percent",
+            "B": "60 percent",
+            "C": "50 percent",
+            "D": "25 percent"
+        },
+        "vikalpa": {
+            "A": "40 प्रतिशत",
+            "B": "60 प्रतिशत",
+            "C": "50 प्रतिशत",
+            "D": "25 प्रतिशत"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which of the following is not a mining town?",
+        "prashna": "निम्न में से कौन खनन नगर नहीं है ?",
+        "options": {
+            "A": "Jharia",
+            "B": "Raniganj",
+            "C": "Khetri",
+            "D": "Patna"
+        },
+        "vikalpa": {
+            "A": "झरिया",
+            "B": "रानीगंज",
+            "C": "खेतड़ी",
+            "D": "पटना"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Singareni is a",
+        "prashna": "सिंगरेनी है",
+        "options": {
+            "A": "Capital city",
+            "B": "Mining town",
+            "C": "Tourist town",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "राजधानी नगर",
+            "B": "खनन नगर",
+            "C": "पर्यटक नगर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "When is the Rabi crop sown?",
+        "prashna": "रबी फसल की बोआई कब होती है ?",
+        "options": {
+            "A": "October-November",
+            "B": "March-April",
+            "C": "June-July",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अक्टूबर-नवम्बर",
+            "B": "मार्च-अप्रैल",
+            "C": "जून-जुलाई",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Wheat crop is an example of",
+        "prashna": "गेहूँ फसल उदाहरण है",
+        "options": {
+            "A": "Rabi",
+            "B": "Kharif",
+            "C": "Zaid",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "रबी का",
+            "B": "खरीफ का",
+            "C": "जायद का",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "The leading state in rice production is",
+        "prashna": "चावल उत्पादन में अग्रणी राज्य है।",
+        "options": {
+            "A": "Kerala",
+            "B": "Goa",
+            "C": "Maharashtra",
+            "D": "West Bengal"
+        },
+        "vikalpa": {
+            "A": "केरल",
+            "B": "गोवा",
+            "C": "महाराष्ट्र",
+            "D": "पश्चिम बंगाल"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "The leading state in cotton production is",
+        "prashna": "कपास उत्पादन में अग्रणी राज्य है.",
+        "options": {
+            "A": "Gujarat",
+            "B": "Jharkhand",
+            "C": "Bihar",
+            "D": "Odisha"
+        },
+        "vikalpa": {
+            "A": "गुजरात",
+            "B": "झारखंड",
+            "C": "बिहार",
+            "D": "ओडिश"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "In which of the following is tannin found?",
+        "prashna": "निम्न में से किसमें टैनिन पाई जाती है ?",
+        "options": {
+            "A": "Tea",
+            "B": "Coffee",
+            "C": "Sugarcane",
+            "D": "Cotton"
+        },
+        "vikalpa": {
+            "A": "चाय",
+            "B": "कॉफी",
+            "C": "गन्ना",
+            "D": "कपास"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "What percentage of the total water on Earth is fresh water?",
+        "prashna": "पृथ्वी पर कुल जल का कितना प्रतिशत भाग अलवणीय जल है ?",
+        "options": {
+            "A": "2 percent",
+            "B": "3 percent",
+            "C": "4 percent",
+            "D": "1 percent"
+        },
+        "vikalpa": {
+            "A": "2 प्रतिशत",
+            "B": "3 प्रतिशत",
+            "C": "4 प्रतिशत",
+            "D": "1 प्रतिशत"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Which of the following is a metallic mineral?",
+        "prashna": "निम्न में से कौन धात्विक खनिज है ?",
+        "options": {
+            "A": "Iron",
+            "B": "Manganese",
+            "C": "Copper",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "लोहा",
+            "B": "मैगनीज",
+            "C": "ताँबा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Bailadila is famous for",
+        "prashna": "बैलाडीला प्रसिद्ध है",
+        "options": {
+            "A": "Iron ore",
+            "B": "Coal",
+            "C": "Copper",
+            "D": "Mica"
+        },
+        "vikalpa": {
+            "A": "लौह-अयस्क के लिए",
+            "B": "कोयला के लिए",
+            "C": "ताँबा के लिए",
+            "D": "अभ्रक के लिए"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Gurumahisani mine is related to which mineral?",
+        "prashna": "गुरुमहिसानी खान किस खनिज से सम्बन्धित है ?",
+        "options": {
+            "A": "Iron ore",
+            "B": "Coal",
+            "C": "Bauxite",
+            "D": "Copper"
+        },
+        "vikalpa": {
+            "A": "लौह-अयस्क",
+            "B": "कोयला",
+            "C": "बॉक्साइट",
+            "D": "ताँबा"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "The leading state in bauxite production is",
+        "prashna": "बॉक्साइट उत्पादन में अग्रणी राज्य है",
+        "options": {
+            "A": "Odisha",
+            "B": "Goa",
+            "C": "Assam",
+            "D": "Karnataka"
+        },
+        "vikalpa": {
+            "A": "ओडिशा",
+            "B": "गोवा",
+            "C": "असम",
+            "D": "कर्नाटक"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Which of the following is a renewable source of energy?",
+        "prashna": "निम्नलिखित में से कौन ऊर्जा का नवीकरणीय स्रोत है ?",
+        "options": {
+            "A": "Coal",
+            "B": "Petroleum",
+            "C": "Natural Gas",
+            "D": "Solar energy"
+        },
+        "vikalpa": {
+            "A": "कोयला",
+            "B": "पेट्रोलियम",
+            "C": "प्राकृतिक गैस",
+            "D": "सौर ऊर्जा"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "In which state is Kalpakkam?",
+        "prashna": "कलपक्कम किस राज्य में है?",
+        "options": {
+            "A": "Tamil Nadu",
+            "B": "Kerala",
+            "C": "Gujarat",
+            "D": "Karnataka"
+        },
+        "vikalpa": {
+            "A": "तमिलनाडु",
+            "B": "केरल",
+            "C": "गुजरात",
+            "D": "कर्नाटक"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "The focal point of development is",
+        "prashna": "विकास का केन्द्र बिन्दु है",
+        "options": {
+            "A": "Access to resources",
+            "B": "Health",
+            "C": "Education",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "संसाधनों तक पहुँच",
+            "B": "स्वास्थ्य",
+            "C": "शिक्षा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "In which of the following continents is the population growth highest?",
+        "prashna": "निम्नलिखित में से किस महाद्वीप में जनसंख्या वृद्धि सर्वाधिक है ?",
+        "options": {
+            "A": "North America",
+            "B": "South America",
+            "C": "Asia",
+            "D": "Australia"
+        },
+        "vikalpa": {
+            "A": "उत्तर अमेरिका",
+            "B": "दक्षिण अमेरिका",
+            "C": "एशिया",
+            "D": "आस्ट्रेलिया"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Which of the following countries has the highest sex ratio?",
+        "prashna": "निम्नलिखित देशों में से किसका लिंगानुपात सर्वाधिक है ?",
+        "options": {
+            "A": "Japan",
+            "B": "France",
+            "C": "China",
+            "D": "Latvia"
+        },
+        "vikalpa": {
+            "A": "जापान",
+            "B": "फ्रांस",
+            "C": "चीन",
+            "D": "लैटविया"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Who developed the Human Development Index?",
+        "prashna": "मानव विकास सूचकांक को किसने विकसित किया ?",
+        "options": {
+            "A": "Dr. Mahbub-ul-Haq",
+            "B": "Raghuram Rajan",
+            "C": "Manmohan Singh",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "डॉ. महबूब-उल-हक",
+            "B": "रघुराम राजन",
+            "C": "मनमोहन सिंह",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Which of the following is related to primary activity?",
+        "prashna": "निम्न में से कौन प्राथमिक क्रियाकलाप से सम्बन्धित है ?",
+        "options": {
+            "A": "Agriculture",
+            "B": "Forestry",
+            "C": "Hunting",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "कृषि",
+            "B": "वानिकी",
+            "C": "आखेट",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Which of the following is not a plantation crop?",
+        "prashna": "निम्न में से कौन रोपण फसल नहीं है ?",
+        "options": {
+            "A": "Coffee",
+            "B": "Sugarcane",
+            "C": "Wheat",
+            "D": "Rubber"
+        },
+        "vikalpa": {
+            "A": "कॉफी",
+            "B": "गन्ना",
+            "C": "गेहूँ",
+            "D": "रबड़"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "'Pastoralism' is related to which economic activity?",
+        "prashna": "'पशुचारण' किस आर्थिक क्रियाकलाप से सम्बन्धित है ?",
+        "options": {
+            "A": "Primary activity",
+            "B": "Secondary activity",
+            "C": "Tertiary activity",
+            "D": "Quaternary activity"
+        },
+        "vikalpa": {
+            "A": "प्राथमिक क्रियाकलाप",
+            "B": "द्वितीयक क्रियाकलाप",
+            "C": "तृतीयक क्रियाकलाप",
+            "D": "चतुर्थ क्रियाकलाप"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Nagpur plan is related to",
+        "prashna": "नागपुर योजना सम्बन्धित है।",
+        "options": {
+            "A": "Road transport",
+            "B": "Water transport",
+            "C": "Air transport",
+            "D": "Pipeline"
+        },
+        "vikalpa": {
+            "A": "सड़क परिवहन से",
+            "B": "जल परिवहन से",
+            "C": "वायु परिवहन से",
+            "D": "पाइपलाइन से"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "The extent of National Waterway No. 1 is",
+        "prashna": "राष्ट्रीय जलमार्ग संख्या 1 का विस्तार है",
+        "options": {
+            "A": "Allahabad to Haldia",
+            "B": "Sadiya to Dhubri",
+            "C": "Kottapuram to Kollam",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "इलाहाबाद से हल्दिया",
+            "B": "सदिया से धुबरी",
+            "C": "कोटापुरम से कोल्लम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "Hazira of Hazira-Vijaypur-Jagdishpur (HVJ) pipeline is located in",
+        "prashna": "हजीरा-विजयपुर-जगदीशपुर (HVJ) पाइपलाइन का हजीरा अवस्थित है",
+        "options": {
+            "A": "Madhya Pradesh",
+            "B": "Uttar Pradesh",
+            "C": "Gujarat",
+            "D": "Bihar"
+        },
+        "vikalpa": {
+            "A": "मध्य प्रदेश में",
+            "B": "उत्तर प्रदेश में",
+            "C": "गुजरात में",
+            "D": "बिहार में"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "The extension of Konkan railway is not in which state?",
+        "prashna": "कोंकण रेलवे का विस्तार किस राज्य में नहीं है ?",
+        "options": {
+            "A": "Gujarat",
+            "B": "Goa",
+            "C": "Maharashtra",
+            "D": "Karnataka"
+        },
+        "vikalpa": {
+            "A": "गुजरात",
+            "B": "गोवा",
+            "C": "महाराष्ट्र",
+            "D": "कर्नाटक"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "When was the Indian Railways established?",
+        "prashna": "भारतीय रेलवे की स्थापना कब हुई ?",
+        "options": {
+            "A": "1852",
+            "B": "1862",
+            "C": "1853",
+            "D": "1854"
+        },
+        "vikalpa": {
+            "A": "1852",
+            "B": "1862",
+            "C": "1853",
+            "D": "1854"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "INSAT is related to",
+        "prashna": "इनसैट का संबंध है",
+        "options": {
+            "A": "Satellite communication",
+            "B": "Air transport",
+            "C": "Pollution",
+            "D": "Survey"
+        },
+        "vikalpa": {
+            "A": "उपग्रह संचार से",
+            "B": "वायु परिवहन से",
+            "C": "प्रदूषण से",
+            "D": "सर्वेक्षण से"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "The largest port of India is",
+        "prashna": "भारत का सबसे बड़ा पत्तन है।",
+        "options": {
+            "A": "Mumbai",
+            "B": "Paradip",
+            "C": "Haldia",
+            "D": "Chennai"
+        },
+        "vikalpa": {
+            "A": "मुम्बई",
+            "B": "पारादीप",
+            "C": "हल्दिया",
+            "D": "चेन्नई"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is dry farming?",
+        "prashna": "शुष्क कृषि क्या है ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Mention two push factors of migration.",
+        "prashna": "प्रवास के दो प्रतिकर्ष कारकों का उल्लेख कीजिए।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is a mega city?",
+        "prashna": "मेगा सिटी क्या है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is rain water harvesting technique?",
+        "prashna": "वर्षा जल संग्रहण तकनीक क्या है ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What is population composition?",
+        "prashna": "जनसंख्या संघटन क्या है ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Differentiate between determinism and possibilism.",
+        "prashna": "निश्चयवाद और संभववाद के बीच अंतर स्पष्ट कीजिए।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Write the importance of Mediterranean agriculture.",
+        "prashna": "भूमध्यसागरीय कृषि के महत्त्व को लिखिए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Mention two non-renewable sources of energy.",
+        "prashna": "ऊर्जा के दो अनवीकरणीय स्रोतों का उल्लेख कीजिए।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Mention four copper producing centres of India.",
+        "prashna": "भारत के चार ताँबा उत्पादक केन्द्रों का उल्लेख कीजिए।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Name four cotton textile industry centres of India.",
+        "prashna": "भारत के चार सूती वस्त्र उद्योग केन्द्रों के नाम लिखिए।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What do you understand by human development?",
+        "prashna": "मानव विकास से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "What is negative balance of trade?",
+        "prashna": "ऋणात्मक व्यापार संतुलन क्या है ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Name two iron and steel industry centres of North India.",
+        "prashna": "उत्तर भारत के दो लौह इस्पात उद्योग केन्द्रों के नाम लिखिए।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Mention two causes of land degradation.",
+        "prashna": "भू-निम्नीकरण के दो कारणों का उल्लेख"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What is the difference between pollution and pollutants?",
+        "prashna": "प्रदूषण तथा प्रदूषकों में क्या अंतर है ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Name two international airports of India.",
+        "prashna": "भारत के दो अंतर्राष्ट्रीय हवाई अड्डों के नाम लिखिए।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Define human geography.",
+        "prashna": "मानव भूगोल को परिभाषित कीजिए।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "How is crude death rate calculated?",
+        "prashna": "अशोधित मृत्यु दर की गणना कैसे की जाती है?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What is the importance of age structure?",
+        "prashna": "आयु संरचना का क्या महत्त्व है ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Name two sub-fields of economic geography.",
+        "prashna": "आर्थिक भूगोल के दो उपक्षेत्रों के नाम लिखिए।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Discuss the three stages of demographic transition.",
+        "prashna": "जनांकिकीय संक्रमण की तीन अवस्थाओं की विवेचना कीजिए।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Describe the characteristics of plantation agriculture.",
+        "prashna": "रोपण कृषि की विशेषताओं का वर्णन कीजिए।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Classify towns on the basis of functions.",
+        "prashna": "कार्यों के आधार पर नगरों को वर्गीकृत कीजिए।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Write a short note on noise pollution.",
+        "prashna": "ध्वनि प्रदूषण पर एक संक्षिप्त टिप्पणी लिखिए।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Describe the importance of Suez Canal route in international trade.",
+        "prashna": "अंतर्राष्ट्रीय व्यापार में स्वेज नहर मार्ग के महत्व का वर्णन कीजिए।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Draw a map of India and locate the following:",
+        "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :",
+        "sub_questions": {
+            "A": "Bhilai",
+            "B": "Panipat",
+            "C": "Lucknow",
+            "D": "Haridwar",
+            "E": "Son river"
+        },
+        "anuprashna": {
+            "A": "भिलाई",
+            "B": "पानीपत",
+            "C": "लखनऊ",
+            "D": "हरिद्वार",
+            "E": "सोन नदी"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+{
+  "2021": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Discuss the non-conventional sources of energy.",
+      "prashna": "ऊर्जा के अपारंपरिक स्रोतों की विवेचना कीजिए ।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Give an account of the petroleum resources of India.",
+      "prashna": "भारत के पेट्रोलियम संसाधन का विवरण दीजिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Draw a map of India and show the following :",
+      "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :",
+      "sub_questions": {
+        "A": "Kaveri river",
+        "B": "Jaipur",
+        "C": "Gandhinagar",
+        "D": "Nagpur",
+        "E": "Digboi"
+      },
+      "anuprashna": {
+        "A": "कावेरी नदी",
+        "B": "जयपुर",
+        "C": "गांधीनगर",
+        "D": "नागपुर",
+        "E": "डिगबोई"
+      }
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "2021": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Village settled around a lake will come under which pattern ?",
+      "prashna": "झील के चारों ओर बसा गाँव किस प्रतिरूप में आयेगा ?",
+      "options": {
+        "A": "Rectangular",
+        "B": "Radial",
+        "C": "Circular",
+        "D": "Star"
+      },
+      "vikalpa": {
+        "A": "आयताकार",
+        "B": "अरीय",
+        "C": "वृत्ताकार",
+        "D": "तारा"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which of the following is a commercial city?",
+      "prashna": "निम्नलिखित में कौन व्यावसायिक नगर है ?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Pittsburgh",
+        "C": "Beijing",
+        "D": "Amsterdam"
+      },
+      "vikalpa": {
+        "A": "जैरुसलम",
+        "B": "पिट्सबर्ग",
+        "C": "बीजिंग",
+        "D": "एम्सटर्डम"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which of the following is the capital of Australia ?",
+      "prashna": "निम्नलिखित में से कौन ऑस्ट्रेलिया की राजधानी है ?",
+      "options": {
+        "A": "Canberra",
+        "B": "Addis Ababa",
+        "C": "Beijing",
+        "D": "Perth"
+      },
+      "vikalpa": {
+        "A": "कैनबेरा",
+        "B": "अदीस अबाबा",
+        "C": "बीजिंग",
+        "D": "पर्थ"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Village settled along a river will come under which pattern ?",
+      "prashna": "नदी के सहारे बसा गाँव किस प्रतिरूप में आयेगा ?",
+      "options": {
+        "A": "Rectangular",
+        "B": "Radial",
+        "C": "Circular",
+        "D": "Linear"
+      },
+      "vikalpa": {
+        "A": "आयताकार",
+        "B": "अरीय",
+        "C": "वृत्ताकार",
+        "D": "रेखीय"
+      }
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements",
+      "question": "Discuss the problems of urban settlements in developing countries.",
+      "prashna": "विकासशील देशों में नगरीय बस्तियों की समस्याओं की विवेचना कीजिए ।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "A garrison town is related to",
+      "prashna": "गैरिसन नगर का संबंध है",
+      "options": {
+        "A": "Cantonment",
+        "B": "Trade",
+        "C": "Coast",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "छावनी से",
+        "B": "व्यापार से",
+        "C": "तट से",
+        "D": "इनमें से सभी से"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "A linear city develops",
+      "prashna": "रेखीय नगर का विकास होता है",
+      "options": {
+        "A": "Along a river",
+        "B": "Along a lake",
+        "C": "On mountains",
+        "D": "In plains"
+      },
+      "vikalpa": {
+        "A": "नदी के सहारे",
+        "B": "झील के सहारे",
+        "C": "पर्वतों पर",
+        "D": "मैदान में"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "What type of settlements are found on mountains?",
+      "prashna": "पर्वतों पर किस प्रकार की बस्तियाँ पाई जाती हैं ?",
+      "options": {
+        "A": "Circular",
+        "B": "Terraced",
+        "C": "Rectangular",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वृत्ताकार",
+        "B": "सीढ़ीनुमा",
+        "C": "आयताकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Shanty town is related to",
+      "prashna": "शेंटी टाउन का संबंध है",
+      "options": {
+        "A": "Metropolis",
+        "B": "Slum",
+        "C": "Twin town",
+        "D": "Coastal town"
+      },
+      "vikalpa": {
+        "A": "महानगर से",
+        "B": "गंदी बस्ती से",
+        "C": "जुड़वां नगर से",
+        "D": "तटीय नगर से"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "The population of a million city is",
+      "prashna": "मिलियन सिटी की जनसंख्या होती है",
+      "options": {
+        "A": "Less than one lakh",
+        "B": "Less than five lakh",
+        "C": "More than ten lakh",
+        "D": "Less than ten lakh"
+      },
+      "vikalpa": {
+        "A": "एक लाख से कम",
+        "B": "पाँच लाख से कम",
+        "C": "दस लाख से अधिक",
+        "D": "दस लाख से कम"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements",
+      "question": "What is a settlement? Mention its main types.",
+      "prashna": "अधिवास क्या है ? इसके प्रमुख प्रकारों का उल्लेख कीजिए।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements",
+      "question": "What is an industrial settlement?",
+      "prashna": "औद्योगिक बस्ती किसे कहा जाता है ?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements",
+      "question": "Classify rural settlements on the basis of shape.",
+      "prashna": "आकृति के आधार पर ग्रामीण अधिवासों का वर्गीकरण कीजिए।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which is the first urban settlement in the world?",
+      "prashna": "विश्व की प्रथम नगरीय बस्ती कौन है ?",
+      "options": {
+        "A": "Paris",
+        "B": "London",
+        "C": "Delhi",
+        "D": "Manchester"
+      },
+      "vikalpa": {
+        "A": "पेरिस",
+        "B": "लंदन",
+        "C": "दिल्ली",
+        "D": "मेनचेस्टर"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which of the following is a cultural city?",
+      "prashna": "निम्नलिखित में से कौन सांस्कृतिक नगर है ?",
+      "options": {
+        "A": "Mecca",
+        "B": "Jerusalem",
+        "C": "Varanasi",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "मक्का",
+        "B": "जेरुसलम",
+        "C": "वाराणसी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "What pattern of settlement is found along the road?",
+      "prashna": "सड़क के सहारे किस प्रतिरूप की बस्ती मिलती है ?",
+      "options": {
+        "A": "Circular",
+        "B": "Linear",
+        "C": "Rectangular",
+        "D": "Terraced"
+      },
+      "vikalpa": {
+        "A": "गोलाकार",
+        "B": "रेखीय",
+        "C": "आयताकार",
+        "D": "सीढ़ीनुमा"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "The meaning of Megalopolis is",
+      "prashna": "मेगालोपोलिस का अर्थ होता है",
+      "options": {
+        "A": "Million City",
+        "B": "Conurbation",
+        "C": "Mega City",
+        "D": "Great City"
+      },
+      "vikalpa": {
+        "A": "मिलियन सिटी",
+        "B": "सन्नगर",
+        "C": "मेगा सिटी",
+        "D": "विशाल नगर"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements",
+      "question": "What is a mega city?",
+      "prashna": "मेगा सिटी क्या है ?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements",
+      "question": "Classify towns on the basis of functions.",
+      "prashna": "कार्यों के आधार पर नगरों को वर्गीकृत कीजिए।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which of the following is the capital of Australia ?",
+      "prashna": "निम्नलिखित में कौन आस्ट्रेलिया की राजधानी है ?",
+      "options": {
+        "A": "Sydney",
+        "B": "Canberra",
+        "C": "Perth",
+        "D": "Melbourne"
+      },
+      "vikalpa": {
+        "A": "सिडनी",
+        "B": "कैनबरा",
+        "C": "पर्थ",
+        "D": "मेलबोर्न"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which of the following is an urban problem ?",
+      "prashna": "निम्न में कौन एक नगरीय समस्या है ?",
+      "options": {
+        "A": "Air pollution",
+        "B": "Scarcity of drinking water",
+        "C": "Slum",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "वायु प्रदूषण",
+        "B": "पेयजल की कमी",
+        "C": "मलिन बस्ती",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Circular pattern of settlement is found along",
+      "prashna": "वृत्ताकार बस्ती प्रतिरूप पाया जाता है",
+      "options": {
+        "A": "Lake",
+        "B": "River",
+        "C": "Coast",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "झील के पास",
+        "B": "नदी के पास",
+        "C": "तट के पास",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Patrick Geddes is related to",
+      "prashna": "पैट्रिक गिडिज का सम्बन्ध है",
+      "options": {
+        "A": "Conurbation",
+        "B": "Megalopolis",
+        "C": "Village",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सन्नगर से",
+        "B": "मेगालोपोलिस से",
+        "C": "गाँव से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements",
+      "question": "What is the difference between rural and urban settlements ?",
+      "prashna": "ग्रामीण एवं नगरीय बस्तियों में क्या अन्तर है ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which pattern of settlement is found along a road?",
+      "prashna": "सड़क के सहारे किस प्रतिरूप की बस्ती मिलती है ?",
+      "options": {
+        "A": "Circular",
+        "B": "Rectangular",
+        "C": "Linear",
+        "D": "Terraced"
+      },
+      "vikalpa": {
+        "A": "गोलाकार",
+        "B": "आयताकार",
+        "C": "रेखीय",
+        "D": "सीढ़ीनुमा"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Who had coined the Word Conurbation?",
+      "prashna": "सन्नगर शब्द का प्रयोग किसने किया था?",
+      "options": {
+        "A": "Patrick Geddes",
+        "B": "Griffith Taylor",
+        "C": "Trewartha",
+        "D": "Jean Gottman"
+      },
+      "vikalpa": {
+        "A": "पैट्रिक गिडिज",
+        "B": "ग्रिफिथ टेलर",
+        "C": "ट्रिवार्था",
+        "D": "जीन गोटमेन"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "The population of million city is:",
+      "prashna": "मिलियन सिटी की जनसंख्या होती है:",
+      "options": {
+        "A": "Less than one Lac",
+        "B": "Less than five lacs",
+        "C": "More than ten lacs",
+        "D": "Less than ten lacs"
+      },
+      "vikalpa": {
+        "A": "एक लाख से कम",
+        "B": "पाँच लाख से कम",
+        "C": "दस लाख से अधिक",
+        "D": "दस लाख से कम"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements",
+      "question": "Mention any four patterns of rural settlements.",
+      "prashna": "ग्रामीण अधिवासों के किन्हीं चार प्रतिरूपों का उल्लेख कीजिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Where is Circular pattern of settlement found?",
+      "prashna": "वृत्ताकार बस्ती प्रतिरूप कहाँ पाया जाता है?",
+      "options": {
+        "A": "Around the lake",
+        "B": "Along the river",
+        "C": "Along the Coast",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "झील के चतुर्दिक",
+        "B": "नदी के सहारे",
+        "C": "तट के सहारे",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Partick Geddes is related to:",
+      "prashna": "पैट्रिक गिडिज का संबंध हैः",
+      "options": {
+        "A": "Conurbation",
+        "B": "megalopolis",
+        "C": "Village",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सन्नगर से",
+        "B": "मेगालोपोलिस से",
+        "C": "गाँव से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Human Settlements",
+      "question": "Which of the following is an industrial city?",
+      "prashna": "निम्नलिखित में से कौन औद्यौगिक नगर है ?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Canberra",
+        "C": "Winnipeg",
+        "D": "Pittsburgh"
+      },
+      "vikalpa": {
+        "A": "जैरुसलम",
+        "B": "केनबेरा",
+        "C": "विनिपेग",
+        "D": "पिट्सबर्ग"
+      }
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements",
+      "question": "Describe the problems of rural settlements in developing countries?",
+      "prashna": "विकासशील देशों में ग्रामीण बस्तियों की समस्याओं का वर्णन कीजिए?"
+    }
+  ]
+}

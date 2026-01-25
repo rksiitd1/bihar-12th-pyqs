@@ -1,0 +1,494 @@
+{
+  "2021": [
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "The megalopolis having the highest population is",
+      "prashna": "सर्वाधिक जनसंख्या वाला मेगालोपोलिस है",
+      "options": {
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "vikalpa": {
+        "A": "मुम्बई",
+        "B": "दिल्ली",
+        "C": "कोलकाता",
+        "D": "चेन्नई"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Dharavi slum is located in",
+      "prashna": "धारावी मलिन बस्ती स्थित है",
+      "options": {
+        "A": "Kolkata",
+        "B": "Mumbai",
+        "C": "Delhi",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कोलकाता में",
+        "B": "मुम्बई में",
+        "C": "दिल्ली में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Draw a map of India and show the following:",
+      "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :",
+      "sub_questions": {
+        "A": "Udaipur",
+        "B": "Shimla",
+        "C": "Bhubaneshwar",
+        "D": "Hyderabad",
+        "E": "Narmada river."
+      },
+      "anuprashna": {
+        "A": "उदयपुर",
+        "B": "शिमला",
+        "C": "भुवनेश्वर",
+        "D": "हैदराबाद",
+        "E": "नर्मदा नदी ।"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "What type of settlements are found in the Bundelkhand region?",
+      "prashna": "बुंदेलखंड प्रदेश में किस प्रकार की बस्तियाँ पायी जाती है ?",
+      "options": {
+        "A": "Hamlet settlements",
+        "B": "Clustered settlements",
+        "C": "Dispersed settlements",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पल्ली बस्तियाँ",
+        "B": "गुच्छित बस्तियाँ",
+        "C": "प्रकीर्ण बस्तियाँ",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which of the following is a city located in North India?",
+      "prashna": "निम्न में उत्तर भारत में अवस्थित नगर है",
+      "options": {
+        "A": "Pune",
+        "B": "Chennai",
+        "C": "Kochi",
+        "D": "Agra"
+      },
+      "vikalpa": {
+        "A": "पुणे",
+        "B": "चेन्नई",
+        "C": "कोच्चि",
+        "D": "आगरा"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Ghaziabad is an example of",
+      "prashna": "गाजियाबाद एक उदाहरण है",
+      "options": {
+        "A": "Ancient city",
+        "B": "Satellite town",
+        "C": "Medieval city",
+        "D": "Modern city"
+      },
+      "vikalpa": {
+        "A": "प्राचीन नगर का",
+        "B": "सेटेलाइट (अनुषंगी) नगर का",
+        "C": "मध्यकालीन नगर का",
+        "D": "आधुनिक नगर का"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which of the following cities is not located in Gujarat?",
+      "prashna": "निम्न नगरों में कौन गुजरात में अवस्थित नहीं है ?",
+      "options": {
+        "A": "Surat",
+        "B": "Nashik",
+        "C": "Rajkot",
+        "D": "Kandla"
+      },
+      "vikalpa": {
+        "A": "सूरत",
+        "B": "नासिक",
+        "C": "राजकोट",
+        "D": "कांडला"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "In which state is the metropolitan city of Meerut located?",
+      "prashna": "मेरठ महानगरीय शहर किस राज्य में अवस्थित है",
+      "options": {
+        "A": "Bihar",
+        "B": "Rajasthan",
+        "C": "Kerala",
+        "D": "Uttar Pradesh"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "राजस्थान",
+        "C": "केरल",
+        "D": "उत्तर प्रदेश"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "The capital of Sikkim is",
+      "prashna": "सिक्किम की राजधानी है",
+      "options": {
+        "A": "Shillong",
+        "B": "Imphal",
+        "C": "Patna",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "शिलांग",
+        "B": "इंफाल",
+        "C": "पटना",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Draw a map of India and show the following: (A) Patna (B) Chennai (C) Ganga River (D) Jamshedpur (E) Mumbai.",
+      "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए : (A) पटना (B) चेन्नई (C) गंगा नदी (D) जमशेदपुर (E) मुम्बई ।",
+      "sub_questions": {
+        "A": "Patna",
+        "B": "Chennai",
+        "C": "Ganga River",
+        "D": "Jamshedpur",
+        "E": "Mumbai"
+      },
+      "anuprashna": {
+        "A": "पटना",
+        "B": "चेन्नई",
+        "C": "गंगा नदी",
+        "D": "जमशेदपुर",
+        "E": "मुम्बई"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which of the following is not a mining town?",
+      "prashna": "निम्न में से कौन खनन नगर नहीं है ?",
+      "options": {
+        "A": "Jharia",
+        "B": "Raniganj",
+        "C": "Khetri",
+        "D": "Patna"
+      },
+      "vikalpa": {
+        "A": "झरिया",
+        "B": "रानीगंज",
+        "C": "खेतड़ी",
+        "D": "पटना"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Singareni is a",
+      "prashna": "सिंगरेनी है",
+      "options": {
+        "A": "Capital city",
+        "B": "Mining town",
+        "C": "Tourist town",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजधानी नगर",
+        "B": "खनन नगर",
+        "C": "पर्यटक नगर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Draw a map of India and locate the following:",
+      "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :",
+      "sub_questions": {
+        "A": "Bhilai",
+        "B": "Panipat",
+        "C": "Lucknow",
+        "D": "Haridwar",
+        "E": "Son river"
+      },
+      "anuprashna": {
+        "A": "भिलाई",
+        "B": "पानीपत",
+        "C": "लखनऊ",
+        "D": "हरिद्वार",
+        "E": "सोन नदी"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "The capital of Sikkim is",
+      "prashna": "सिक्किम की राजधानी है",
+      "options": {
+        "A": "Dispur",
+        "B": "Imphal",
+        "C": "Shillong",
+        "D": "Gangtok"
+      },
+      "vikalpa": {
+        "A": "दिसपुर",
+        "B": "इम्फाल",
+        "C": "शिलांग",
+        "D": "गंगटोक"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which of the following is an educational town ?",
+      "prashna": "निम्न में से कौन शैक्षणिक नगर है ?",
+      "options": {
+        "A": "Ajmer",
+        "B": "Srinagar",
+        "C": "Roorkee",
+        "D": "Imphal"
+      },
+      "vikalpa": {
+        "A": "अजमेर",
+        "B": "श्रीनगर",
+        "C": "रुड़की",
+        "D": "इम्फाल"
+      }
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Draw a map of India and show the following:",
+      "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :",
+      "sub_questions": {
+        "A": "Narmada river",
+        "B": "Delhi",
+        "C": "Jamshedpur",
+        "D": "Mumbai",
+        "E": "Chennai"
+      },
+      "anuprashna": {
+        "A": "नर्मदा नदी",
+        "B": "दिल्ली",
+        "C": "जमशेदपुर",
+        "D": "मुम्बई",
+        "E": "चेन्नई"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Singareni is :",
+      "prashna": "सिंगरेनी है:",
+      "options": {
+        "A": "Capital town",
+        "B": "Mining town",
+        "C": "Tourist town",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजधानी नगर",
+        "B": "खनन नगर",
+        "C": "पर्यटक नगर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which types of rural settlement found in Bundelkhand region?",
+      "prashna": "बुंदेलखंड प्रदेश में किस प्रकार की ग्रामीण बस्तियाँ पायी जाती हैं?",
+      "options": {
+        "A": "Hamleted settlements",
+        "B": "Clustered settlements",
+        "C": "Dispersed settlement",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पल्ली बस्तियाँ",
+        "B": "गुच्छित बस्तियाँ",
+        "C": "प्रविकीर्ण बस्तियाँ",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Ghaziabad is an example of:",
+      "prashna": "गाजियाबाद एक उदाहरण है:",
+      "options": {
+        "A": "Ancient town",
+        "B": "Medieval town",
+        "C": "Modern town",
+        "D": "Satellite town"
+      },
+      "vikalpa": {
+        "A": "प्राचीन नगर का",
+        "B": "मध्यकालीन नगर का",
+        "C": "आधुनिक नगर का",
+        "D": "अनुषंगी नगर का"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which megalopolis has the highest population in India?",
+      "prashna": "भारत में सर्वाधिक जनसंख्या वाला मेगालोपोलिस कौन है?",
+      "options": {
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "vikalpa": {
+        "A": "मुम्बई",
+        "B": "दिल्ली",
+        "C": "कोलकाता",
+        "D": "चेन्नई"
+      }
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Write the names four medieval cities of India.",
+      "prashna": "भारत के चार मध्यकालीन नगरों के नाम लिखिए।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Draw a map of India and show the following:",
+      "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए:",
+      "sub_questions": {
+        "A": "Hyderabad",
+        "B": "Kanyakumari",
+        "C": "Gaya",
+        "D": "Jaipur",
+        "E": "Godavari River"
+      },
+      "anuprashna": {
+        "A": "हैदराबाद",
+        "B": "कन्याकुमारी",
+        "C": "गया",
+        "D": "जयपुर",
+        "E": "गोदावरी नदी"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Ghaziabad is an example of :",
+      "prashna": "गाजियाबाद उदाहरण हैः",
+      "options": {
+        "A": "Ancient town",
+        "B": "Medieval town",
+        "C": "Modern town",
+        "D": "Satellite town"
+      },
+      "vikalpa": {
+        "A": "प्राचीन नगर का",
+        "B": "मध्यकालीन नगर का",
+        "C": "आधुनिक नगर का",
+        "D": "अनुषंगी नगर का"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which of the following are types of rural settlements ?",
+      "prashna": "निम्नलिखित में से कौन ग्रामीण बस्तियों के प्रकार हैं ?",
+      "options": {
+        "A": "Clustered Settlementts",
+        "B": "Hamleted Settlements",
+        "C": "Dispersed Settlements",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "गुच्छित बस्तियाँ",
+        "B": "पल्ली बस्तियाँ",
+        "C": "प्रकीर्ण बस्तियाँ",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Which of the following is a garrison town?",
+      "prashna": "निम्न में से कौन गैरिसन नगर है ?",
+      "options": {
+        "A": "Mathura",
+        "B": "Raniganj",
+        "C": "Jalandhar",
+        "D": "Satna"
+      },
+      "vikalpa": {
+        "A": "मथुरा",
+        "B": "रानीगंज",
+        "C": "जालंधर",
+        "D": "सतना"
+      }
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "Human Settlements (India)",
+      "question": "Write the names of four metropolitan cities of india.",
+      "prashna": "भारत के चार महानगरों के नाम लिखें।"
+    }
+  ]
+}

@@ -1,0 +1,1432 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which of the following is the river basin of western India?",
+        "prashna": "निम्नलिखित में कौन पश्चिमी भारत की नदी बेसिन है ?",
+        "options": {
+            "A": "Mahi basin",
+            "B": "Kosi basin",
+            "C": "Ganga basin",
+            "D": "Son basin"
+        },
+        "vikalpa": {
+            "A": "माही बेसिन",
+            "B": "कोसी बेसिन",
+            "C": "गंगा बेसिन",
+            "D": "सोन बेसिन"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "The most important jute producing region is",
+        "prashna": "सबसे महत्वपूर्ण जूट उत्पादक क्षेत्र है",
+        "options": {
+            "A": "Ganga delta",
+            "B": "Krishna delta",
+            "C": "Godavari delta",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "गंगा डेल्टा",
+            "B": "कृष्णा डेल्टा",
+            "C": "गोदावरी डेल्टा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Bababudan hill is in",
+        "prashna": "बाबाबूदन पहाड़ी है",
+        "options": {
+            "A": "Karnataka",
+            "B": "Goa",
+            "C": "Jharkhand",
+            "D": "Odisha"
+        },
+        "vikalpa": {
+            "A": "कर्नाटक में",
+            "B": "गोआ में",
+            "C": "झारखण्ड में",
+            "D": "ओडिशा में"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following states is famous for Gondwana coal ?",
+        "prashna": "निम्नलिखित राज्यों में कौन गोंडवाना कोयला के लिए प्रसिद्ध है ?",
+        "options": {
+            "A": "Nagaland",
+            "B": "Tripura",
+            "C": "Tamil Nadu",
+            "D": "Jharkhand"
+        },
+        "vikalpa": {
+            "A": "नागालैण्ड",
+            "B": "त्रिपुरा",
+            "C": "तमिलनाडु",
+            "D": "झारखण्ड"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The most important factor influencing population distribution is",
+        "prashna": "जनसंख्या वितरण को प्रभावित करने वाला सबसे महत्वपूर्ण कारक है",
+        "options": {
+            "A": "Landform",
+            "B": "Soil",
+            "C": "Natural vegetation",
+            "D": "Climate"
+        },
+        "vikalpa": {
+            "A": "स्थलाकृति",
+            "B": "मिट्टी",
+            "C": "प्राकृतिक वनस्पति",
+            "D": "जलवायु"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which pollution is caused by industrialisation ?",
+        "prashna": "औद्योगीकरण से कौन-सा प्रदूषण होता है ?",
+        "options": {
+            "A": "Water pollution",
+            "B": "Air pollution",
+            "C": "Noise pollution",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "जल प्रदूषण",
+            "B": "वायु प्रदूषण",
+            "C": "ध्वनि प्रदूषण",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Handloom industry is",
+        "prashna": "हथकरघा उद्योग है",
+        "options": {
+            "A": "basic industry",
+            "B": "cottage industry",
+            "C": "footloose industry",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "आधारभूत उद्योग",
+            "B": "कुटीर उद्योग",
+            "C": "स्वच्छंद उद्योग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Activities related to high degree and level of innovation are called",
+        "prashna": "उच्च परिमाण और स्तर वाले अन्वेषण से सम्बन्धित क्रियाकलापों को कहा जाता है",
+        "options": {
+            "A": "Secondary activities",
+            "B": "Quinary activities",
+            "C": "Quaternary activities",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "द्वितीयक क्रियाकलाप",
+            "B": "पंचम क्रियाकलाप",
+            "C": "चतुर्थ क्रियाकलाप",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which is the main source of irrigation in north India ?",
+        "prashna": "उत्तर भारत में सिंचाई का मुख्य स्रोत कौन है ?",
+        "options": {
+            "A": "Canal",
+            "B": "Tubewell",
+            "C": "Pond",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "नहर",
+            "B": "नलकूप",
+            "C": "तालाब",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following minerals is called 'brown diamond'?",
+        "prashna": "निम्नलिखित खनिजों में किसको 'भूरा हीरा' कहा जाता है ?",
+        "options": {
+            "A": "Iron ore",
+            "B": "Mica",
+            "C": "Manganese",
+            "D": "Lignite"
+        },
+        "vikalpa": {
+            "A": "लौह अयस्क",
+            "B": "अभ्रक",
+            "C": "मैंगनीज",
+            "D": "लिग्नाइट"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In which of the following states Kaiga atomic power centre is located?",
+        "prashna": "निम्नलिखित राज्यों में किसमें कैगा नाभिकीय ऊर्जा केन्द्र अवस्थित है ?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "Karnataka",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "महाराष्ट्र",
+            "C": "कर्नाटक",
+            "D": "गुजरात"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "In which state is Bailadila iron ore region located ?",
+        "prashna": "बैलाडिला लौह अयस्क क्षेत्र किस राज्य में स्थित है ?",
+        "options": {
+            "A": "Maharashtra",
+            "B": "Jharkhand",
+            "C": "Madhya Pradesh",
+            "D": "Chhattisgarh"
+        },
+        "vikalpa": {
+            "A": "महाराष्ट्र",
+            "B": "झारखंड",
+            "C": "मध्य प्रदेश",
+            "D": "छत्तीसगढ़"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Kendujhar manganese region is located in",
+        "prashna": "केन्दुझर मैंगनीज क्षेत्र स्थित है",
+        "options": {
+            "A": "Madhya Pradesh",
+            "B": "Jharkhand",
+            "C": "Odisha",
+            "D": "Chhattisgarh"
+        },
+        "vikalpa": {
+            "A": "मध्य प्रदेश में",
+            "B": "झारखंड में",
+            "C": "ओडिशा में",
+            "D": "छत्तीसगढ़ में"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following is non-conventional source of energy ?",
+        "prashna": "निम्नलिखित में कौन ऊर्जा का गैर-परम्परागत स्रोत है ?",
+        "options": {
+            "A": "Coal",
+            "B": "Hydel power",
+            "C": "Solar energy",
+            "D": "Crude oil"
+        },
+        "vikalpa": {
+            "A": "कोयला",
+            "B": "जल विद्युत",
+            "C": "सौर ऊर्जा",
+            "D": "खनिज तेल"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "As per 2011 Census the density of population of Bihar was",
+        "prashna": "2011 की जनगणना के अनुसार बिहार का जनसंख्या घनत्व था",
+        "options": {
+            "A": "1126 persons/sq.km",
+            "B": "1006 persons/sq.km",
+            "C": "906 persons/sq.km",
+            "D": "1106 persons/sq.km"
+        },
+        "vikalpa": {
+            "A": "1126 व्यक्ति / वर्ग किमी",
+            "B": "1006 व्यक्ति / वर्ग किमी",
+            "C": "906 व्यक्ति / वर्ग किमी",
+            "D": "1106 व्यक्ति / वर्ग किमी"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "When was the first complete Census held in India ?",
+        "prashna": "भारत में पूर्ण जनगणना पहली बार कब हुई थी ?",
+        "options": {
+            "A": "1881",
+            "B": "1901",
+            "C": "1781",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1881",
+            "B": "1901",
+            "C": "1781",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "As per 2011 Census the urban population in India is",
+        "prashna": "2011 की जनगणना के अनुसार भारत में नगरीय आबादी है",
+        "options": {
+            "A": "31.16%",
+            "B": "35.16%",
+            "C": "36.16%",
+            "D": "37.16%"
+        },
+        "vikalpa": {
+            "A": "31.16%",
+            "B": "35.16%",
+            "C": "36.16%",
+            "D": "37.16%"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which of the following is the main reason of male migration in India ?",
+        "prashna": "निम्नलिखित में से कौन भारत में पुरुष प्रवास का मुख्य कारण है ?",
+        "options": {
+            "A": "Marriage",
+            "B": "Business",
+            "C": "Work and employment",
+            "D": "Education"
+        },
+        "vikalpa": {
+            "A": "विवाह",
+            "B": "व्यवसाय",
+            "C": "काम और रोजगार",
+            "D": "शिक्षा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following states has the lowest sex ratio in the age-group of $0-6$ years ?",
+        "prashna": "निम्नलिखित राज्यों में किसका $0-6$ आयु वर्ग में लिंगानुपात निम्नतम है ?",
+        "options": {
+            "A": "Haryana",
+            "B": "Gujarat",
+            "C": "Punjab",
+            "D": "Himachal Pradesh"
+        },
+        "vikalpa": {
+            "A": "हरियाणा",
+            "B": "गुजरात",
+            "C": "पंजाब",
+            "D": "हिमाचल प्रदेश"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which of the following states has the highest proportion of urban population according to 2011 Census ?",
+        "prashna": "2011 की जनगणना के अनुसार निम्नलिखित राज्यों में से किसमें नगरीय जनसंख्या का अनुपात सर्वाधिक है ?",
+        "options": {
+            "A": "Tamil Nadu",
+            "B": "Maharashtra",
+            "C": "Goa",
+            "D": "Kerala"
+        },
+        "vikalpa": {
+            "A": "तमिलनाडु",
+            "B": "महाराष्ट्र",
+            "C": "गोआ",
+            "D": "केरल"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Main cause of soil degradation in irrigated areas is",
+        "prashna": "सिंचित क्षेत्रों में मृदा निम्नीकरण का प्रमुख कारण है",
+        "options": {
+            "A": "Gully erosion",
+            "B": "Salinisation of soils",
+            "C": "Wind erosion",
+            "D": "Siltation"
+        },
+        "vikalpa": {
+            "A": "अवनालिका अपरदन",
+            "B": "मृदा लवणता",
+            "C": "वायु अपरदन",
+            "D": "सिल्ट का जमाव"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "As per 2011 Census which state has the lowest density of population?",
+        "prashna": "2011 की जनगणना के अनुसार किस राज्य की जनसंख्या का घनत्व सबसे कम है ?",
+        "options": {
+            "A": "Arunachal Pradesh",
+            "B": "Meghalaya",
+            "C": "Kerala",
+            "D": "Assam"
+        },
+        "vikalpa": {
+            "A": "अरुणाचल प्रदेश",
+            "B": "मेघालय",
+            "C": "केरल",
+            "D": "असम"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "As per 2011 Census the population of Bihar was",
+        "prashna": "2011 की जनगणना के अनुसार बिहार की जनसंख्या थी",
+        "options": {
+            "A": "10.41 crores",
+            "B": "11.41 crores",
+            "C": "9.61 crores",
+            "D": "8.51 crores"
+        },
+        "vikalpa": {
+            "A": "10.41 करोड़",
+            "B": "11.41 करोड़",
+            "C": "9.61 करोड़",
+            "D": "8.51 करोड़"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Which of the following states has the highest population ?",
+        "prashna": "निम्नलिखित राज्यों में से किसकी जनसंख्या सर्वाधिक है ?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Bihar",
+            "C": "West Bengal",
+            "D": "Maharashtra"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "बिहार",
+            "C": "पश्चिम बंगाल",
+            "D": "महाराष्ट्र"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Horticulture is related to",
+        "prashna": "हॉर्टिकल्चर सम्बन्धित है",
+        "options": {
+            "A": "flower",
+            "B": "cereal",
+            "C": "pulse",
+            "D": "fruit and vegetable"
+        },
+        "vikalpa": {
+            "A": "फूल से",
+            "B": "अन्न से",
+            "C": "दाल से",
+            "D": "फल एवं सब्जी से"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "The main cause of soil erosion in arid areas is",
+        "prashna": "शुष्क क्षेत्रों में मृदा अपरदन का मुख्य कारण है",
+        "options": {
+            "A": "gully erosion",
+            "B": "siltation",
+            "C": "wind erosion",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "अवनालिका अपरदन",
+            "B": "सिल्ट-जमाव",
+            "C": "वायु अपरदन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "The main source of irrigation in South India is",
+        "prashna": "दक्षिण भारत में सिंचाई का मुख्य स्रोत कौन है ?",
+        "options": {
+            "A": "canal",
+            "B": "tubewell",
+            "C": "tank",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "नहर",
+            "B": "नलकूप",
+            "C": "तालाब",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Tarapur atomic power centre is located in",
+        "prashna": "तारापुर नाभिकीय ऊर्जा केन्द्र अवस्थित है",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Maharashtra",
+            "C": "Karnataka",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश में",
+            "B": "महाराष्ट्र में",
+            "C": "कर्नाटक में",
+            "D": "गुजरात में"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Where is the headquarters of OPEC ( Organisation of Petroleum Exporting Countries) ?",
+        "prashna": "ओपेक (आर्गेनाइजेशन ऑफ पेट्रोलियम एक्सपोर्टिंग कंट्रीज) का मुख्यालय कहाँ है ?",
+        "options": {
+            "A": "Vienna",
+            "B": "Jakarta",
+            "C": "Hanoi",
+            "D": "Geneva"
+        },
+        "vikalpa": {
+            "A": "वियना",
+            "B": "जकार्ता",
+            "C": "हनोई",
+            "D": "जेनेवा"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Village settled around a lake will come under which pattern ?",
+        "prashna": "झील के चारों ओर बसा गाँव किस प्रतिरूप में आयेगा ?",
+        "options": {
+            "A": "Rectangular",
+            "B": "Radial",
+            "C": "Circular",
+            "D": "Star"
+        },
+        "vikalpa": {
+            "A": "आयताकार",
+            "B": "अरीय",
+            "C": "वृत्ताकार",
+            "D": "तारा"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Which of the following is a commercial city?",
+        "prashna": "निम्नलिखित में कौन व्यावसायिक नगर है ?",
+        "options": {
+            "A": "Jerusalem",
+            "B": "Pittsburgh",
+            "C": "Beijing",
+            "D": "Amsterdam"
+        },
+        "vikalpa": {
+            "A": "जैरुसलम",
+            "B": "पिट्सबर्ग",
+            "C": "बीजिंग",
+            "D": "एम्सटर्डम"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "North Atlantic route connects",
+        "prashna": "उत्तर अटलांटिक मार्ग जोड़ता है",
+        "options": {
+            "A": "North America with Europe",
+            "B": "North America with Africa",
+            "C": "Europe with Asia",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उत्तरी अमेरिका को यूरोप से",
+            "B": "उत्तरी अमेरिका को अफ्रीका से",
+            "C": "यूरोप को एशिया से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Which type of cultivation was developed by the Europeans in their colonies ?",
+        "prashna": "यूरोपवासियों द्वारा अपने उपनिवेशों में किस प्रकार की कृषि का विकास किया गया था ?",
+        "options": {
+            "A": "Milpa",
+            "B": "Plantation farming",
+            "C": "Mixed farming",
+            "D": "Viticulture"
+        },
+        "vikalpa": {
+            "A": "मिल्पा",
+            "B": "रोपण कृषि",
+            "C": "मिश्रित कृषि",
+            "D": "अंगूर की खेती"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Farming of citrus fruits is related to",
+        "prashna": "खट्टे फलों की कृषि सम्बन्धित है",
+        "options": {
+            "A": "Mixed farming",
+            "B": "Plantation farming",
+            "C": "Mediterranean agriculture",
+            "D": "Co-operative farming"
+        },
+        "vikalpa": {
+            "A": "मिश्रित कृषि से",
+            "B": "रोपण कृषि से",
+            "C": "भूमध्यसागरीय कृषि से",
+            "D": "सहकारी कृषि से"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Which of the following is the capital of Australia ?",
+        "prashna": "निम्नलिखित में से कौन ऑस्ट्रेलिया की राजधानी है ?",
+        "options": {
+            "A": "Canberra",
+            "B": "Addis Ababa",
+            "C": "Beijing",
+            "D": "Perth"
+        },
+        "vikalpa": {
+            "A": "कैनबेरा",
+            "B": "अदीस अबाबा",
+            "C": "बीजिंग",
+            "D": "पर्थ"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Which component is considered as important in the concept of Possibilism ?",
+        "prashna": "'संभववाद' की अवधारणा में किस घटक को महत्वपूर्ण माना गया है ?",
+        "options": {
+            "A": "Natural component",
+            "B": "Human component",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्राकृतिक घटक",
+            "B": "मानवीय घटक",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which of the following regions is not included in the densely populated regions of the world ?",
+        "prashna": "विश्व के सघन जनसंख्या क्षेत्रों में निम्नलिखित में से कौन क्षेत्र सम्मिलित नहीं है ?",
+        "options": {
+            "A": "Western Europe",
+            "B": "South-East Asia",
+            "C": "South-West Africa",
+            "D": "North-East North America"
+        },
+        "vikalpa": {
+            "A": "पश्चिमी यूरोप",
+            "B": "दक्षिण-पूर्व एशिया",
+            "C": "दक्षिण-पश्चिम अफ्रीका",
+            "D": "उत्तर-पूर्व उत्तरी अमेरिका"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "Which one of the following is not a pull factor of human migration ?",
+        "prashna": "निम्नलिखित में कौन एक जन-स्थानान्तरण का अपकर्ष कारक नहीं है ?",
+        "options": {
+            "A": "better living conditions",
+            "B": "Favourable climate",
+            "C": "Poor living conditions",
+            "D": "Peace and stability"
+        },
+        "vikalpa": {
+            "A": "रहन-सहन की अच्छी दशाएँ",
+            "B": "अनुकूल जलवायु",
+            "C": "रहन-सहन की निम्न दशाएँ",
+            "D": "शांति एवं स्थायित्व"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Which country of the world has the highest population ?",
+        "prashna": "विश्व के किस देश की जनसंख्या सर्वाधिक है ?",
+        "options": {
+            "A": "United States of America",
+            "B": "India",
+            "C": "China",
+            "D": "Indonesia"
+        },
+        "vikalpa": {
+            "A": "संयुक्त राज्य अमेरिका",
+            "B": "भारत",
+            "C": "चीन",
+            "D": "इण्डोनेशिया"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following is not monoculture ?",
+        "prashna": "निम्नलिखित में कौन एकल कृषि नहीं है ?",
+        "options": {
+            "A": "Mixed farming",
+            "B": "Dairy farming",
+            "C": "Plantation farming",
+            "D": "Commercial grain farming"
+        },
+        "vikalpa": {
+            "A": "मिश्रित कृषि",
+            "B": "डेरी कृषि",
+            "C": "रोपण कृषि",
+            "D": "व्यापारिक अनाज कृषि"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which of the following is not a plantation crop ?",
+        "prashna": "निम्नलिखित में कौन रोपण फसल नहीं है ?",
+        "options": {
+            "A": "Coffee",
+            "B": "Wheat",
+            "C": "Sugarcane",
+            "D": "Rubber"
+        },
+        "vikalpa": {
+            "A": "कॉफी",
+            "B": "गेहूँ",
+            "C": "गन्ना",
+            "D": "रबड़"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Extensive commercial grain farming is not practised in",
+        "prashna": "विस्तृत व्यापारिक अनाज-उत्पादक कृषि नहीं की जाती है",
+        "options": {
+            "A": "Prairies",
+            "B": "Steppes",
+            "C": "Pampas",
+            "D": "Amazon basin"
+        },
+        "vikalpa": {
+            "A": "प्रेयरी क्षेत्र में",
+            "B": "स्टैपीज क्षेत्र में",
+            "C": "पम्पास क्षेत्र में",
+            "D": "अमेजन बेसिन में"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "The nucleus of the Hugli industrial region is",
+        "prashna": "हुगली औद्योगिक प्रदेश का केन्द्र है",
+        "options": {
+            "A": "Kolkata-Howrah",
+            "B": "Kolkata-Medinipur",
+            "C": "Kolkata-Rishra",
+            "D": "Kolkata-Konnagar"
+        },
+        "vikalpa": {
+            "A": "कोलकाता-हावड़ा",
+            "B": "कोलकाता-मेदिनीपुर",
+            "C": "कोलकाता-रिषरा",
+            "D": "कोलकाता-कोन्नगर"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "The first radio programme in India was broadcast in",
+        "prashna": "भारत में पहला रेडियो कार्यक्रम प्रसारित हुआ था",
+        "options": {
+            "A": "1936",
+            "B": "1911",
+            "C": "1923",
+            "D": "1927"
+        },
+        "vikalpa": {
+            "A": "1936 में",
+            "B": "1911 में",
+            "C": "1923 में",
+            "D": "1927 में"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Indian Railway was introduced in",
+        "prashna": "भारतीय रेल की शुरुआत हुई",
+        "options": {
+            "A": "1853",
+            "B": "1753",
+            "C": "1863",
+            "D": "1760"
+        },
+        "vikalpa": {
+            "A": "1853 में",
+            "B": "1753 में",
+            "C": "1863 में",
+            "D": "1760 में"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Kochi port is located in",
+        "prashna": "कोच्चि पत्तन अवस्थित है",
+        "options": {
+            "A": "Karnataka",
+            "B": "Odisha",
+            "C": "Kerala",
+            "D": "Tamil Nadu"
+        },
+        "vikalpa": {
+            "A": "कर्नाटक में",
+            "B": "ओडिशा में",
+            "C": "केरल में",
+            "D": "तमिलनाडु में"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Waterborne disease is",
+        "prashna": "जल-जन्य रोग है",
+        "options": {
+            "A": "respiratory infection",
+            "B": "conjunctivitis",
+            "C": "diarrhoea",
+            "D": "bronchitis"
+        },
+        "vikalpa": {
+            "A": "श्वसन संक्रमण",
+            "B": "नेत्रश्लेष्मल शोथ",
+            "C": "अतिसार",
+            "D": "श्वासनली शोथ"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "The megalopolis having the highest population is",
+        "prashna": "सर्वाधिक जनसंख्या वाला मेगालोपोलिस है",
+        "options": {
+            "A": "Mumbai",
+            "B": "Delhi",
+            "C": "Kolkata",
+            "D": "Chennai"
+        },
+        "vikalpa": {
+            "A": "मुम्बई",
+            "B": "दिल्ली",
+            "C": "कोलकाता",
+            "D": "चेन्नई"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Dharavi slum is located in",
+        "prashna": "धारावी मलिन बस्ती स्थित है",
+        "options": {
+            "A": "Kolkata",
+            "B": "Mumbai",
+            "C": "Delhi",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "कोलकाता में",
+            "B": "मुम्बई में",
+            "C": "दिल्ली में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "Which of the following is the most important factor in the interaction between man and environment ?",
+        "prashna": "निम्नलिखित में कौन मानव और पर्यावरण के बीच अन्योन्य क्रिया का सर्वाधिक महत्वपूर्ण कारक है ?",
+        "options": {
+            "A": "Human intelligence",
+            "B": "Technology",
+            "C": "People's perception",
+            "D": "Human brotherhood"
+        },
+        "vikalpa": {
+            "A": "मानव बुद्धिमत्ता",
+            "B": "प्रौद्योगिकी",
+            "C": "लोगों के अनुभव",
+            "D": "मानवीय भाईचारा"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Which component is considered important in the concept of determinism ?",
+        "prashna": "नियतिवाद संकल्पना में किस घटक को महत्वपूर्ण माना गया है ?",
+        "options": {
+            "A": "Natural component",
+            "B": "Human component",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्राकृतिक घटक",
+            "B": "मानवीय घटक",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Which of the following is not a plantation crop ?",
+        "prashna": "निम्नलिखित में कौन रोपण फसल नहीं है ?",
+        "options": {
+            "A": "Coffee",
+            "B": "Wheat",
+            "C": "Sugarcane",
+            "D": "Rubber"
+        },
+        "vikalpa": {
+            "A": "कॉफी",
+            "B": "गेहूँ",
+            "C": "गन्ना",
+            "D": "रबड़"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Which of the following is a primary activity ?",
+        "prashna": "निम्नलिखित में कौन प्राथमिक क्रियाकलाप है ?",
+        "options": {
+            "A": "Farming",
+            "B": "Trade",
+            "C": "Weaving",
+            "D": "Jute industry"
+        },
+        "vikalpa": {
+            "A": "खेती",
+            "B": "व्यापार",
+            "C": "बुनाई",
+            "D": "जूट उद्योग"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Suez Canal connects",
+        "prashna": "स्वेज नहर जोड़ती है",
+        "options": {
+            "A": "Indian ocean with Pacific ocean",
+            "B": "Pacific ocean with Atlantic ocean",
+            "C": "Atlantic ocean with Arctic ocean",
+            "D": "Red sea with Mediterranean sea"
+        },
+        "vikalpa": {
+            "A": "हिन्द महासागर को प्रशांत महासागर से",
+            "B": "प्रशांत महासागर को अटलांटिक महासागर से",
+            "C": "अटलांटिक महासागर को आर्कटिक महासागर से",
+            "D": "लाल सागर को भूमध्य सागर से"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Netaji Subhash Chandra Bose International Airport is in",
+        "prashna": "नेताजी सुभाषचन्द्र बोस अन्तरराष्ट्रीय हवाई अड्डा है",
+        "options": {
+            "A": "Odisha",
+            "B": "West Bengal",
+            "C": "Maharashtra",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "ओडिशा में",
+            "B": "पश्चिम बंगाल में",
+            "C": "महाराष्ट्र में",
+            "D": "गुजरात में"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Village settled along a river will come under which pattern ?",
+        "prashna": "नदी के सहारे बसा गाँव किस प्रतिरूप में आयेगा ?",
+        "options": {
+            "A": "Rectangular",
+            "B": "Radial",
+            "C": "Circular",
+            "D": "Linear"
+        },
+        "vikalpa": {
+            "A": "आयताकार",
+            "B": "अरीय",
+            "C": "वृत्ताकार",
+            "D": "रेखीय"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Which of the following produces raw material for other industries ?",
+        "prashna": "निम्नलिखित में कौन दूसरे उद्योगों के लिए कच्चा माल तैयार करता है ?",
+        "options": {
+            "A": "Basic industry",
+            "B": "Cottage industry",
+            "C": "Footloose industry",
+            "D": "Small-scale industry"
+        },
+        "vikalpa": {
+            "A": "आधारभूत उद्योग",
+            "B": "कुटीर उद्योग",
+            "C": "स्वच्छंद उद्योग",
+            "D": "छोटे पैमाने का उद्योग"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Which of the following is a tertiary activity?",
+        "prashna": "निम्नांकित में कौन तृतीयक क्रियाकलाप है ?",
+        "options": {
+            "A": "Farming",
+            "B": "Trading",
+            "C": "Weaving",
+            "D": "Hunting"
+        },
+        "vikalpa": {
+            "A": "खेती",
+            "B": "व्यापार",
+            "C": "बुनाई",
+            "D": "आखेट"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Which of the following is not a secondary activity ?",
+        "prashna": "निम्नलिखित में कौन द्वितीयक क्रियाकलाप नहीं है ?",
+        "options": {
+            "A": "Catching fish",
+            "B": "Iron smelting",
+            "C": "Making garments",
+            "D": "Making basket"
+        },
+        "vikalpa": {
+            "A": "मछली पकड़ना",
+            "B": "लौह प्रगलन",
+            "C": "वस्त्र निर्माण",
+            "D": "टोकरी बनाना"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "The Trans-Continental Stuart Highway connects",
+        "prashna": "ट्रान्स-महाद्वीपीय स्टुअर्ट महामार्ग जोड़ता है",
+        "options": {
+            "A": "Vancouver with St. John's",
+            "B": "Chengdu with Lhasa",
+            "C": "Edmonton with Anchorage",
+            "D": "Darwin with Melbourne"
+        },
+        "vikalpa": {
+            "A": "बैंकूवर को सेंट जॉन्स से",
+            "B": "चेंगडू को ल्हासा से",
+            "C": "एडमोन्टन को एनकोरेज से",
+            "D": "डार्विन को मेलबोर्न से"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Panama canal connects",
+        "prashna": "पनामा नहर जोड़ती है",
+        "options": {
+            "A": "Pacific ocean with Indian ocean",
+            "B": "Caribbean sea with Gulf of Mexico",
+            "C": "Pacific ocean with Atlantic ocean",
+            "D": "Atlantic ocean with Indian ocean"
+        },
+        "vikalpa": {
+            "A": "प्रशान्त महासागर को हिन्द महासागर से",
+            "B": "कैरीबियन सागर को मैक्सिको की खाड़ी से",
+            "C": "प्रशान्त महासागर को अटलांटिक महासागर से",
+            "D": "अटलांटिक महासागर को हिन्द महासागर से"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Main seaports of the world are",
+        "prashna": "विश्व के प्रमुख समुद्री पत्तन हैं",
+        "options": {
+            "A": "Naval ports",
+            "B": "Oil ports",
+            "C": "Comprehensive ports",
+            "D": "Industrial ports"
+        },
+        "vikalpa": {
+            "A": "नौसेना पत्तन",
+            "B": "तेल पत्तन",
+            "C": "विस्तृत पत्तन",
+            "D": "औद्योगिक पत्तन"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Which of the following continents has the maximum flow of global trade ?",
+        "prashna": "निम्नलिखित महाद्वीपों में किससे विश्व व्यापार का सर्वाधिक प्रवाह होता है ?",
+        "options": {
+            "A": "Asia",
+            "B": "North America",
+            "C": "Europe",
+            "D": "Africa"
+        },
+        "vikalpa": {
+            "A": "एशिया",
+            "B": "उत्तरी अमेरिका",
+            "C": "यूरोप",
+            "D": "अफ्रीका"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Noamundi iron ore region is located in",
+        "prashna": "नोआमुंडी लौह अयस्क क्षेत्र स्थित है",
+        "options": {
+            "A": "Maharashtra",
+            "B": "Jharkhand",
+            "C": "Madhya Pradesh",
+            "D": "Chhattisgarh"
+        },
+        "vikalpa": {
+            "A": "महाराष्ट्र में",
+            "B": "झारखंड में",
+            "C": "मध्य प्रदेश में",
+            "D": "छत्तीसगढ़ में"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Green revolution was started in India in",
+        "prashna": "भारत में हरित क्रांति शुरू हुई थी",
+        "options": {
+            "A": "1950's",
+            "B": "1960's",
+            "C": "1970's",
+            "D": "1980's"
+        },
+        "vikalpa": {
+            "A": "1950 के दशक में",
+            "B": "1960 के दशक में",
+            "C": "1970 के दशक में",
+            "D": "1980 के दशक में"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "Kolkata port is located in",
+        "prashna": "कोलकाता पत्तन स्थित है",
+        "options": {
+            "A": "Karnataka",
+            "B": "Odisha",
+            "C": "Kerala",
+            "D": "West Bengal"
+        },
+        "vikalpa": {
+            "A": "कर्नाटक में",
+            "B": "ओडिशा में",
+            "C": "केरल में",
+            "D": "पश्चिम बंगाल में"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Which of the following diseases is not airborne ?",
+        "prashna": "निम्नलिखित रोगों में से कौन वायु जन्य नहीं है ?",
+        "options": {
+            "A": "Respiratory infection",
+            "B": "Conjunctivitis",
+            "C": "Diarrhoea",
+            "D": "Bronchitis"
+        },
+        "vikalpa": {
+            "A": "श्वसन संक्रमण",
+            "B": "नेत्रश्लेष्मल शोथ",
+            "C": "अतिसार",
+            "D": "श्वासनली शोथ"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "The coffee region of Brazil is called",
+        "prashna": "ब्राजील के कॉफी क्षेत्र को कहा जाता है",
+        "options": {
+            "A": "Fazenda",
+            "B": "Agenda",
+            "C": "Milpa",
+            "D": "Ladang"
+        },
+        "vikalpa": {
+            "A": "फेजेण्डा",
+            "B": "एजेण्डा",
+            "C": "मिल्पा",
+            "D": "लदांग"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Manipal Software Technology Park is situated in",
+        "prashna": "मणिपाल सॉफ्टवेयर तकनीकी पार्क अवस्थित है",
+        "options": {
+            "A": "Sikkim",
+            "B": "Karnataka",
+            "C": "Andhra Pradesh",
+            "D": "Tamil Nadu"
+        },
+        "vikalpa": {
+            "A": "सिक्किम में",
+            "B": "कर्नाटक में",
+            "C": "आंध्र प्रदेश में",
+            "D": "तमिलनाडु में"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which of the following is the most polluted river ?",
+        "prashna": "निम्नलिखित में सर्वाधिक प्रदूषित नदी कौन है ?",
+        "options": {
+            "A": "Ravi",
+            "B": "Godavari",
+            "C": "Brahmaputra",
+            "D": "Yamuna"
+        },
+        "vikalpa": {
+            "A": "रावी",
+            "B": "गोदावरी",
+            "C": "ब्रह्मपुत्र",
+            "D": "यमुना"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Name four important centres of cotton textile industry of Maharashtra.",
+        "prashna": "महाराष्ट्र के चार प्रमुख सूती वस्त्र उद्योग केन्द्रों के नाम लिखें ।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What do you mean by communication?",
+        "prashna": "संचार से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is watershed management ?",
+        "prashna": "जल संभरण प्रबंधन क्या है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Write the names of four iron ore producing states of India.",
+        "prashna": "भारत के चार लौह-अयस्क उत्पादक राज्यों के नाम लिखिए ।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Define Human Geography.",
+        "prashna": "मानव भूगोल को परिभाषित कीजिए ।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Distinguish between birth rate and death rate.",
+        "prashna": "जन्म दर और मृत्यु दर में अन्तर स्पष्ट कीजिए ।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What is free trade ?",
+        "prashna": "मुक्त व्यापार क्या है ?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Mention two reasons of declining child sex ratio in India.",
+        "prashna": "भारत में घटते शिशु लिंगानुपात के दो कारणों का उल्लेख कीजिए ।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "How is sex-ratio measured ?",
+        "prashna": "लिंग-अनुपात कैसे मापा जाता है ?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Classify industries on the basis of size.",
+        "prashna": "आकार के आधार पर उद्योगों को वर्गीकृत कीजिए ।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Name four industrial regions of India.",
+        "prashna": "भारत के चार प्रमुख औद्योगिक प्रदेशों के नाम बताइए ।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Which are the main means of transportation in India?",
+        "prashna": "भारत में परिवहन के मुख्य साधन कौन हैं ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Distinguish between net sown area and gross sown area.",
+        "prashna": "निवल बोया गया क्षेत्र तथा सकल बोया गया क्षेत्र में अन्तर स्पष्ट करें ।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Mention four sources of noise pollution.",
+        "prashna": "ध्वनि प्रदूषण के चार स्रोतों का उल्लेख करें ।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What is Orient express ?",
+        "prashna": "ओरिएंट एक्सप्रेस क्या है ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Mention the importance of the Danube waterway.",
+        "prashna": "डेन्यूब जलमार्ग के महत्व का उल्लेख करें ।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Which are the two basic regions of human development ?",
+        "prashna": "मानव विकास के दो मूलभूत क्षेत्र कौन से हैं ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Differentiate between immigration and emigration.",
+        "prashna": "आप्रवास और उत्प्रवास में अन्तर स्पष्ट करें ।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What is digital divide ?",
+        "prashna": "अंकीय विभाजक क्या है ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What is trans-continental railway ?",
+        "prashna": "पारमहाद्वीपीय रेलमार्ग क्या है ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Differentiate between nomadic herding and commercial livestock rearing.",
+        "prashna": "चलवासी पशुचारण और व्यापारिक पशुपालन में अंतर कीजिए ।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Describe the importance of Suez canal route in international trade.",
+        "prashna": "अन्तरराष्ट्रीय व्यापार में स्वेज नहर मार्ग के महत्त्व का वर्णन कीजिए ।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Discuss the problems of urban settlements in developing countries.",
+        "prashna": "विकासशील देशों में नगरीय बस्तियों की समस्याओं की विवेचना कीजिए ।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Give an account of production and distribution of paddy in India.",
+        "prashna": "भारत में धान के उत्पादन एवं वितरण का विवरण दें ।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Discuss the non-conventional sources of energy.",
+        "prashna": "ऊर्जा के अपारंपरिक स्रोतों की विवेचना कीजिए ।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Draw a map of India and show the following:",
+        "prashna": "भारत का मानचित्र बनाइए और निम्नलिखित को प्रदर्शित कीजिए :",
+        "sub_questions": {
+            "A": "Udaipur",
+            "B": "Shimla",
+            "C": "Bhubaneshwar",
+            "D": "Hyderabad",
+            "E": "Narmada river."
+        },
+        "anuprashna": {
+            "A": "उदयपुर",
+            "B": "शिमला",
+            "C": "भुवनेश्वर",
+            "D": "हैदराबाद",
+            "E": "नर्मदा नदी ।"
+        }
+    }
+]

@@ -1,0 +1,869 @@
+{
+  "2021": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Bababudan hill is in",
+      "prashna": "बाबाबूदन पहाड़ी है",
+      "options": {
+        "A": "Karnataka",
+        "B": "Goa",
+        "C": "Jharkhand",
+        "D": "Odisha"
+      },
+      "vikalpa": {
+        "A": "कर्नाटक में",
+        "B": "गोआ में",
+        "C": "झारखण्ड में",
+        "D": "ओडिशा में"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following states is famous for Gondwana coal ?",
+      "prashna": "निम्नलिखित राज्यों में कौन गोंडवाना कोयला के लिए प्रसिद्ध है ?",
+      "options": {
+        "A": "Nagaland",
+        "B": "Tripura",
+        "C": "Tamil Nadu",
+        "D": "Jharkhand"
+      },
+      "vikalpa": {
+        "A": "नागालैण्ड",
+        "B": "त्रिपुरा",
+        "C": "तमिलनाडु",
+        "D": "झारखण्ड"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following minerals is called 'brown diamond'?",
+      "prashna": "निम्नलिखित खनिजों में किसको 'भूरा हीरा' कहा जाता है ?",
+      "options": {
+        "A": "Iron ore",
+        "B": "Mica",
+        "C": "Manganese",
+        "D": "Lignite"
+      },
+      "vikalpa": {
+        "A": "लौह अयस्क",
+        "B": "अभ्रक",
+        "C": "मैंगनीज",
+        "D": "लिग्नाइट"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In which of the following states Kaiga atomic power centre is located?",
+      "prashna": "निम्नलिखित राज्यों में किसमें कैगा नाभिकीय ऊर्जा केन्द्र अवस्थित है ?",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Maharashtra",
+        "C": "Karnataka",
+        "D": "Gujarat"
+      },
+      "vikalpa": {
+        "A": "उत्तर प्रदेश",
+        "B": "महाराष्ट्र",
+        "C": "कर्नाटक",
+        "D": "गुजरात"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In which state is Bailadila iron ore region located ?",
+      "prashna": "बैलाडिला लौह अयस्क क्षेत्र किस राज्य में स्थित है ?",
+      "options": {
+        "A": "Maharashtra",
+        "B": "Jharkhand",
+        "C": "Madhya Pradesh",
+        "D": "Chhattisgarh"
+      },
+      "vikalpa": {
+        "A": "महाराष्ट्र",
+        "B": "झारखंड",
+        "C": "मध्य प्रदेश",
+        "D": "छत्तीसगढ़"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Kendujhar manganese region is located in",
+      "prashna": "केन्दुझर मैंगनीज क्षेत्र स्थित है",
+      "options": {
+        "A": "Madhya Pradesh",
+        "B": "Jharkhand",
+        "C": "Odisha",
+        "D": "Chhattisgarh"
+      },
+      "vikalpa": {
+        "A": "मध्य प्रदेश में",
+        "B": "झारखंड में",
+        "C": "ओडिशा में",
+        "D": "छत्तीसगढ़ में"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following is non-conventional source of energy ?",
+      "prashna": "निम्नलिखित में कौन ऊर्जा का गैर-परम्परागत स्रोत है ?",
+      "options": {
+        "A": "Coal",
+        "B": "Hydel power",
+        "C": "Solar energy",
+        "D": "Crude oil"
+      },
+      "vikalpa": {
+        "A": "कोयला",
+        "B": "जल विद्युत",
+        "C": "सौर ऊर्जा",
+        "D": "खनिज तेल"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Tarapur atomic power centre is located in",
+      "prashna": "तारापुर नाभिकीय ऊर्जा केन्द्र अवस्थित है",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Maharashtra",
+        "C": "Karnataka",
+        "D": "Gujarat"
+      },
+      "vikalpa": {
+        "A": "उत्तर प्रदेश में",
+        "B": "महाराष्ट्र में",
+        "C": "कर्नाटक में",
+        "D": "गुजरात में"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Noamundi iron ore region is located in",
+      "prashna": "नोआमुंडी लौह अयस्क क्षेत्र स्थित है",
+      "options": {
+        "A": "Maharashtra",
+        "B": "Jharkhand",
+        "C": "Madhya Pradesh",
+        "D": "Chhattisgarh"
+      },
+      "vikalpa": {
+        "A": "महाराष्ट्र में",
+        "B": "झारखंड में",
+        "C": "मध्य प्रदेश में",
+        "D": "छत्तीसगढ़ में"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following iron ore mines is in Chhattisgarh?",
+      "prashna": "निम्न में से कौन लौह अयस्क खान छत्तीसगढ़ में है ?",
+      "options": {
+        "A": "Noamundi",
+        "B": "Kiriburu",
+        "C": "Bailadila",
+        "D": "Badampahar"
+      },
+      "vikalpa": {
+        "A": "नोआमुंडी",
+        "B": "किरीबुरू",
+        "C": "बैलाडीला",
+        "D": "बदामपहड़"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following is a radioactive mineral?",
+      "prashna": "निम्न में से कौन रेडियोसक्रिय खनिज है ?",
+      "options": {
+        "A": "Uranium",
+        "B": "Thorium",
+        "C": "Zirconium",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "यूरेनियम",
+        "B": "थोरियम",
+        "C": "जिरकोनियम",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Raniganj is famous for",
+      "prashna": "रानीगंज प्रसिद्ध है",
+      "options": {
+        "A": "Copper",
+        "B": "Coal",
+        "C": "Diamond",
+        "D": "Uranium"
+      },
+      "vikalpa": {
+        "A": "ताँबा के लिए",
+        "B": "कोयला के लिए",
+        "C": "हीरा के लिए",
+        "D": "यूरेनियम के लिए"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Pykara hydroelectric project is in",
+      "prashna": "पाय कारा जलविद्युत परियोजना है",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Punjab",
+        "C": "Assam",
+        "D": "Manipur"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु में",
+        "B": "पंजाब में",
+        "C": "असम में",
+        "D": "मणिपुर में"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Panchpatmali mine is related to which mineral?",
+      "prashna": "पंचपटमाली खान किस खनिज से सम्बन्धित है ?",
+      "options": {
+        "A": "Gold",
+        "B": "Bauxite",
+        "C": "Uranium",
+        "D": "Petroleum"
+      },
+      "vikalpa": {
+        "A": "सोना",
+        "B": "बॉक्साइट",
+        "C": "यूरेनियम",
+        "D": "पेट्रोलियम"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Dhanbad is famous for",
+      "prashna": "धनबाद प्रसिद्ध है",
+      "options": {
+        "A": "Coal",
+        "B": "Capital",
+        "C": "Tourism",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कोयला के लिए",
+        "B": "राजधानी के लिए",
+        "C": "पर्यटन के लिए",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following is a metallic mineral?",
+      "prashna": "निम्न में से कौन धात्विक खनिज है ?",
+      "options": {
+        "A": "Iron",
+        "B": "Manganese",
+        "C": "Copper",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "लोहा",
+        "B": "मैगनीज",
+        "C": "ताँबा",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Bailadila is famous for",
+      "prashna": "बैलाडीला प्रसिद्ध है",
+      "options": {
+        "A": "Iron ore",
+        "B": "Coal",
+        "C": "Copper",
+        "D": "Mica"
+      },
+      "vikalpa": {
+        "A": "लौह-अयस्क के लिए",
+        "B": "कोयला के लिए",
+        "C": "ताँबा के लिए",
+        "D": "अभ्रक के लिए"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Gurumahisani mine is related to which mineral?",
+      "prashna": "गुरुमहिसानी खान किस खनिज से सम्बन्धित है ?",
+      "options": {
+        "A": "Iron ore",
+        "B": "Coal",
+        "C": "Bauxite",
+        "D": "Copper"
+      },
+      "vikalpa": {
+        "A": "लौह-अयस्क",
+        "B": "कोयला",
+        "C": "बॉक्साइट",
+        "D": "ताँबा"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "The leading state in bauxite production is",
+      "prashna": "बॉक्साइट उत्पादन में अग्रणी राज्य है",
+      "options": {
+        "A": "Odisha",
+        "B": "Goa",
+        "C": "Assam",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "ओडिशा",
+        "B": "गोवा",
+        "C": "असम",
+        "D": "कर्नाटक"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following is a renewable source of energy?",
+      "prashna": "निम्नलिखित में से कौन ऊर्जा का नवीकरणीय स्रोत है ?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Natural Gas",
+        "D": "Solar energy"
+      },
+      "vikalpa": {
+        "A": "कोयला",
+        "B": "पेट्रोलियम",
+        "C": "प्राकृतिक गैस",
+        "D": "सौर ऊर्जा"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In which state is Kalpakkam?",
+      "prashna": "कलपक्कम किस राज्य में है?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Kerala",
+        "C": "Gujarat",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु",
+        "B": "केरल",
+        "C": "गुजरात",
+        "D": "कर्नाटक"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Kakrapara is situated in which state ?",
+      "prashna": "काकरापाड़ा किस राज्य में स्थित है ?",
+      "options": {
+        "A": "Goa",
+        "B": "Rajasthan",
+        "C": "Karnataka",
+        "D": "Gujarat"
+      },
+      "vikalpa": {
+        "A": "गोवा",
+        "B": "राजस्थान",
+        "C": "कर्नाटक",
+        "D": "गुजरात"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "What is Mumbai High ?",
+      "prashna": "मुम्बई हाई क्या है ?",
+      "options": {
+        "A": "Coal area",
+        "B": "Petroleum area",
+        "C": "Copper area",
+        "D": "Mica area"
+      },
+      "vikalpa": {
+        "A": "कोयला क्षेत्र",
+        "B": "पेट्रोलियम क्षेत्र",
+        "C": "ताँबा क्षेत्र",
+        "D": "अभ्रक क्षेत्र"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Baba Budan hills are famous for",
+      "prashna": "बाबा बूदन की पहाड़ियाँ प्रसिद्ध हैं",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Iron ore",
+        "D": "Mica"
+      },
+      "vikalpa": {
+        "A": "कोयला के लिए",
+        "B": "पेट्रोलियम के लिए",
+        "C": "लौह अयस्क के लिए",
+        "D": "अभ्रक के लिए"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Bailadila is in which state ?",
+      "prashna": "बैलाडीला किस राज्य में है ?",
+      "options": {
+        "A": "Chhattisgarh",
+        "B": "Gujarat",
+        "C": "Madhya Pradesh",
+        "D": "Goa"
+      },
+      "vikalpa": {
+        "A": "छत्तीसगढ़",
+        "B": "गुजरात",
+        "C": "मध्य प्रदेश",
+        "D": "गोवा"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Digboi is famous for",
+      "prashna": "डिगबोई प्रसिद्ध है",
+      "options": {
+        "A": "Iron",
+        "B": "Petroleum",
+        "C": "Copper",
+        "D": "Silver"
+      },
+      "vikalpa": {
+        "A": "लोहा के लिए",
+        "B": "पेट्रोलियम के लिए",
+        "C": "ताँबा के लिए",
+        "D": "चाँदी के लिए"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following is the leading state in Mica production ?",
+      "prashna": "निम्न में से कौन अभ्रक उत्पादन में अग्रणी राज्य है ?",
+      "options": {
+        "A": "Jharkhand",
+        "B": "Odisha",
+        "C": "West Bengal",
+        "D": "Bihar"
+      },
+      "vikalpa": {
+        "A": "झारखण्ड",
+        "B": "ओडिशा",
+        "C": "पश्चिम बंगाल",
+        "D": "बिहार"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Rawatbhata is in which state ?",
+      "prashna": "रावतभाटा किस राज्य में है ?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Uttar Pradesh",
+        "C": "Gujarat",
+        "D": "Goa"
+      },
+      "vikalpa": {
+        "A": "राजस्थान में",
+        "B": "उत्तर प्रदेश में",
+        "C": "गुजरात में",
+        "D": "गोवा में"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which one of the following is a non-renewable source of energy ?",
+      "prashna": "निम्न में से कौन ऊर्जा का अनवीकरणीय स्रोत है ?",
+      "options": {
+        "A": "Solar energy",
+        "B": "Hydel power",
+        "C": "Wind energy",
+        "D": "Thermal power"
+      },
+      "vikalpa": {
+        "A": "सौर ऊर्जा",
+        "B": "जल शक्ति",
+        "C": "पवन ऊर्जा",
+        "D": "तापीय ऊर्जा"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "When was the Atomic Energy Commission established ?",
+      "prashna": "परमाणु ऊर्जा आयोग की स्थापना कब हुई थी ?",
+      "options": {
+        "A": "1948",
+        "B": "1950",
+        "C": "1951",
+        "D": "1960"
+      },
+      "vikalpa": {
+        "A": "1948",
+        "B": "1950",
+        "C": "1951",
+        "D": "1960"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Naharkatiya minoral oil field is located in",
+      "prashna": "नहरकटिया खनिज तेल क्षेत्र अवस्थित है",
+      "options": {
+        "A": "Gujarat",
+        "B": "Assam",
+        "C": "Rajasthan",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "गुजरात में",
+        "B": "असम में",
+        "C": "राजस्थान में",
+        "D": "महाराष्ट्र में"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Where was the first atomic power project established in India?",
+      "prashna": "भारत में प्रथम नाभिकीय ऊर्जा परियोजना कहाँ स्थापित की गई थी?",
+      "options": {
+        "A": "Narora",
+        "B": "Kalpakkam",
+        "C": "Tarapur",
+        "D": "Kaiga"
+      },
+      "vikalpa": {
+        "A": "नरोरा में",
+        "B": "कलपक्कम में",
+        "C": "तारापुर में",
+        "D": "कैगा में"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Noamundi iron ore region is in which state?",
+      "prashna": "नोआमुंडी लौह अयस्क क्षेत्र किस राज्य में है?",
+      "options": {
+        "A": "Maharashtra",
+        "B": "Madhya Pradesh",
+        "C": "Jharkhand",
+        "D": "Chhattisgarh"
+      },
+      "vikalpa": {
+        "A": "महाराष्ट्र",
+        "B": "मध्य प्रदेश",
+        "C": "झारखंड",
+        "D": "छत्तीसगढ़"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following states is famous for Gondwana coal?",
+      "prashna": "निम्नलिखित राज्यों में कौन गोंडवाना कोयला के लिए प्रसिद्ध है?",
+      "options": {
+        "A": "Nagaland",
+        "B": "Tamil Nadu",
+        "C": "Jharkhand",
+        "D": "Tripura"
+      },
+      "vikalpa": {
+        "A": "नागालैण्ड",
+        "B": "तमिलनाडु",
+        "C": "झारखण्ड",
+        "D": "त्रिपुरा"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In which of the following states are the major oil fields located?",
+      "prashna": "निम्नलिखित राज्यों में से किसमें से प्रमुख तेल क्षेत्र स्थित है ?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Bihar",
+        "C": "Assam",
+        "D": "Tamil Nadu"
+      },
+      "vikalpa": {
+        "A": "राजस्थान",
+        "B": "बिहार",
+        "C": "असम",
+        "D": "तमिलनाडु"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Panchpatmali mine associated with which mineral?",
+      "prashna": "पंचपटमाली खान किस खनिज से सम्बन्धित है?",
+      "options": {
+        "A": "Gold",
+        "B": "Uranium",
+        "C": "Petroleum",
+        "D": "Bauxite"
+      },
+      "vikalpa": {
+        "A": "सोना",
+        "B": "यूरेनियम",
+        "C": "पेट्रोलियम",
+        "D": "बॉक्साइट"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In which of the following states Kaiga atomic power centre is located?",
+      "prashna": "निम्नलिखित राज्यों में किसमें कैगा नाभिकीय ऊर्जा केन्द्र अवस्थित है?",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Maharashtra",
+        "C": "Karnataka",
+        "D": "Gujarat"
+      },
+      "vikalpa": {
+        "A": "उत्तर-प्रदेश",
+        "B": "महाराष्ट्र",
+        "C": "कर्नाटक",
+        "D": "गुजरात"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Bailadila is famous for which mineral?",
+      "prashna": "बैलाडीला किस खनिज के लिए प्रसिद्ध है?",
+      "options": {
+        "A": "Iron ore",
+        "B": "Coal",
+        "C": "Copper",
+        "D": "Mica"
+      },
+      "vikalpa": {
+        "A": "लौह अयस्क",
+        "B": "कोयला",
+        "C": "ताँबा",
+        "D": "अभ्रक"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "When was the Atomic Energy Commission established?",
+      "prashna": "परमाणु ऊर्जा आयोग की स्थापना कब हुई थी?",
+      "options": {
+        "A": "1948",
+        "B": "1950",
+        "C": "1951",
+        "D": "1960"
+      },
+      "vikalpa": {
+        "A": "1948",
+        "B": "1950",
+        "C": "1951",
+        "D": "1960"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Digboi is famous for:",
+      "prashna": "डिगबोई प्रसिद्ध हैः",
+      "options": {
+        "A": "Iron",
+        "B": "Petroleum",
+        "C": "Copper",
+        "D": "Silver"
+      },
+      "vikalpa": {
+        "A": "लोहा के लिए",
+        "B": "पेट्रोलियम के लिए",
+        "C": "ताँबा के लिए",
+        "D": "चाँदी के लिए"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "What is Mumbai High?",
+      "prashna": "मुम्बई हाई क्या है?",
+      "options": {
+        "A": "Coal area",
+        "B": "Petroleum area",
+        "C": "Copper area",
+        "D": "Mica area"
+      },
+      "vikalpa": {
+        "A": "कोयला क्षेत्र",
+        "B": "पेट्रोलियम क्षेत्र",
+        "C": "ताँबा क्षेत्र",
+        "D": "अभ्रक क्षेत्र"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In Which state is Balaghat manganese area located?",
+      "prashna": "बालाघाट मैंगनीज क्षेत्र किस राज्य मे स्थित है?",
+      "options": {
+        "A": "Odisha",
+        "B": "Chhattishgarh",
+        "C": "Jharkhand",
+        "D": "Madhya Pradesh"
+      },
+      "vikalpa": {
+        "A": "ओडिशा",
+        "B": "छत्तीसगढ़",
+        "C": "झारखण्ड",
+        "D": "मध्य प्रदेश"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Noamundi iron ore region is located in:",
+      "prashna": "नोआमुंडी लौह अयस्क क्षेत्र स्थित हैः",
+      "options": {
+        "A": "Maharashtra",
+        "B": "Madhya Pradesh",
+        "C": "Jharkhand",
+        "D": "Chhattishgarh"
+      },
+      "vikalpa": {
+        "A": "महाराष्ट्र में",
+        "B": "मध्य प्रदेश में",
+        "C": "झारखण्ड में",
+        "D": "छत्तीसगढ़ में"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "Which of the following states is famous for Gondwana coal?",
+      "prashna": "निम्नलिखित राज्यों में कौन गोंडवाना कोयला के लिए प्रसिद्ध है?",
+      "options": {
+        "A": "Nagaland",
+        "B": "Tamil Nadu",
+        "C": "Jharkhand",
+        "D": "Tripura"
+      },
+      "vikalpa": {
+        "A": "नागालैंड",
+        "B": "तमिलनाडु",
+        "C": "झारखण्ड",
+        "D": "त्रिपुरा"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Mineral and Energy Resources",
+      "question": "In Which of the following States is Kaiga atomic power centre located?",
+      "prashna": "निम्नलिखित राज्यों में किसमें कैगा नाभिकीय ऊर्जा केन्द्र अवस्थित है?",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Maharashtra",
+        "C": "Gujarat",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "उत्तर प्रदेश",
+        "B": "महाराष्ट्र",
+        "C": "गुजरात",
+        "D": "कर्नाटक"
+      }
+    }
+  ]
+}

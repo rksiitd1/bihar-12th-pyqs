@@ -1,0 +1,451 @@
+{
+  "2021": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "The nucleus of the Hugli industrial region is",
+      "prashna": "हुगली औद्योगिक प्रदेश का केन्द्र है",
+      "options": {
+        "A": "Kolkata-Howrah",
+        "B": "Kolkata-Medinipur",
+        "C": "Kolkata-Rishra",
+        "D": "Kolkata-Konnagar"
+      },
+      "vikalpa": {
+        "A": "कोलकाता-हावड़ा",
+        "B": "कोलकाता-मेदिनीपुर",
+        "C": "कोलकाता-रिषरा",
+        "D": "कोलकाता-कोन्नगर"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Manipal Software Technology Park is situated in",
+      "prashna": "मणिपाल सॉफ्टवेयर तकनीकी पार्क अवस्थित है",
+      "options": {
+        "A": "Sikkim",
+        "B": "Karnataka",
+        "C": "Andhra Pradesh",
+        "D": "Tamil Nadu"
+      },
+      "vikalpa": {
+        "A": "सिक्किम में",
+        "B": "कर्नाटक में",
+        "C": "आंध्र प्रदेश में",
+        "D": "तमिलनाडु में"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Vizag is related to",
+      "prashna": "विजाग का संबंध है",
+      "options": {
+        "A": "Cotton textile industry",
+        "B": "Iron-steel industry",
+        "C": "Sugar industry",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सूती वस्त्र उद्योग से",
+        "B": "लौह-इस्पात उद्योग से",
+        "C": "चीनी उद्योग से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Bhadravati is related to",
+      "prashna": "भद्रावती का सम्बन्ध है",
+      "options": {
+        "A": "Iron-steel",
+        "B": "Cotton textile",
+        "C": "Petrochemicals",
+        "D": "Port"
+      },
+      "vikalpa": {
+        "A": "लौह- इस्पात से",
+        "B": "सूती वस्त्र से",
+        "C": "पेट्रो रसायन से",
+        "D": "बंदरगाह से"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Sindri is famous for",
+      "prashna": "सिन्दरी प्रसिद्ध है",
+      "options": {
+        "A": "Fertilizer factory",
+        "B": "Nuclear power plant",
+        "C": "Cotton textile industry",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उर्वरक कारखाना के लिए",
+        "B": "नाभिकीय ऊर्जा संयंत्र के लिए",
+        "C": "सूती वस्त्र उद्योग के लिए",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "In which state is the Panipat oil refinery located?",
+      "prashna": "पानीपत तेलशोधन केन्द्र किस राज्य में अवस्थित है ?",
+      "options": {
+        "A": "Haryana",
+        "B": "Bihar",
+        "C": "Kerala",
+        "D": "Assam"
+      },
+      "vikalpa": {
+        "A": "हरियाणा",
+        "B": "बिहार",
+        "C": "केरल",
+        "D": "असम"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "In which state is the Alappuzha industrial center located?",
+      "prashna": "अलापुझा औद्योगिक केन्द्र किस राज्य में अवस्थित है ?",
+      "options": {
+        "A": "Bihar",
+        "B": "Sikkim",
+        "C": "Tripura",
+        "D": "Kerala"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "सिक्किम",
+        "C": "त्रिपुरा",
+        "D": "केरल"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Where is the Hubli cotton textile center?",
+      "prashna": "हुबली सूती वस्त्र केन्द्र कहाँ है ?",
+      "options": {
+        "A": "Karnataka",
+        "B": "West Bengal",
+        "C": "Bihar",
+        "D": "Haryana"
+      },
+      "vikalpa": {
+        "A": "कर्नाटक",
+        "B": "पश्चिम बंगाल",
+        "C": "बिहार",
+        "D": "हरियाणा"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Rourkela steel plant is located in",
+      "prashna": "राउरकेला इस्पात संयंत्र अवस्थित है",
+      "options": {
+        "A": "Jharkhand",
+        "B": "Rajasthan",
+        "C": "Odisha",
+        "D": "West Bengal"
+      },
+      "vikalpa": {
+        "A": "झारखण्ड में",
+        "B": "राजस्थान में",
+        "C": "ओडिशा में",
+        "D": "पश्चिम बंगाल में"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Where is the Tata Iron-Steel Plant located?",
+      "prashna": "टाटा लौह-इस्पात संयंत्र कहाँ स्थित है ?",
+      "options": {
+        "A": "Bhilai",
+        "B": "Bhadravati",
+        "C": "Jamshedpur",
+        "D": "Durgapur"
+      },
+      "vikalpa": {
+        "A": "भिलाई",
+        "B": "भद्रावती",
+        "C": "जमशेदपुर",
+        "D": "दुर्गापुर"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Manchester of India is",
+      "prashna": "भारत का मैनचेस्टर है",
+      "options": {
+        "A": "Kanpur",
+        "B": "Lucknow",
+        "C": "Ahmedabad",
+        "D": "Indore"
+      },
+      "vikalpa": {
+        "A": "कानपुर",
+        "B": "लखनऊ",
+        "C": "अहमदाबाद",
+        "D": "इंदौर"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Trombay industrial centre is in which state?",
+      "prashna": "ट्राम्बे औद्योगिक केन्द्र किस राज्य में है ?",
+      "options": {
+        "A": "Gujarat",
+        "B": "Maharashtra",
+        "C": "Goa",
+        "D": "West Bengal"
+      },
+      "vikalpa": {
+        "A": "गुजरात",
+        "B": "महाराष्ट्र",
+        "C": "गोवा",
+        "D": "पश्चिम बंगाल"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "New Industrial Policy was implemented in",
+      "prashna": "नई औद्योगिक नीति लागू की गई",
+      "options": {
+        "A": "1981",
+        "B": "1990",
+        "C": "1991",
+        "D": "2001"
+      },
+      "vikalpa": {
+        "A": "1981 में",
+        "B": "1990 में",
+        "C": "1991 में",
+        "D": "2001 में"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Which of the following is a leading state in sugar production ?",
+      "prashna": "निम्न में से कौन चीनी उत्पादन में अग्रणी राज्य है ?",
+      "options": {
+        "A": "Bihar",
+        "B": "Maharashtra",
+        "C": "Goa",
+        "D": "Uttar Pradesh"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "महाराष्ट्र",
+        "C": "गोवा",
+        "D": "उत्तर प्रदेश"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Vadodara is situated in which state ?",
+      "prashna": "वड़ोदरा किस राज्य में अवस्थित है ?",
+      "options": {
+        "A": "Goa",
+        "B": "Maharashtra",
+        "C": "Gujarat",
+        "D": "West Bengal"
+      },
+      "vikalpa": {
+        "A": "गोवा",
+        "B": "महाराष्ट्र",
+        "C": "गुजरात",
+        "D": "पश्चिम बंगाल"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "In which year was Bokaro steel plant established ?",
+      "prashna": "बोकारो इस्पात संयंत्र की स्थापना किस वर्ष हुई थी ?",
+      "options": {
+        "A": "1964",
+        "B": "1965",
+        "C": "1966",
+        "D": "1984"
+      },
+      "vikalpa": {
+        "A": "1964 में",
+        "B": "1965 में",
+        "C": "1966 में",
+        "D": "1984 में"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Where was the first cotton mill established in India ?",
+      "prashna": "भारत में प्रथम सूती मिल की स्थापना कहाँ हुई थी ?",
+      "options": {
+        "A": "Kolkata",
+        "B": "Gandhinagar",
+        "C": "Mumbai",
+        "D": "Dhanbad"
+      },
+      "vikalpa": {
+        "A": "कोलकाता",
+        "B": "गाँधीनगर",
+        "C": "मुम्बई",
+        "D": "धनबाद"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "The extent of Hugli industrial region is:",
+      "prashna": "हुगली औद्योगिक प्रदेश का विस्तार है:",
+      "options": {
+        "A": "Kolkata to Howrah",
+        "B": "Kolkata to Medinipur",
+        "C": "Bansberia to Risra",
+        "D": "Bansberia to Birlanager"
+      },
+      "vikalpa": {
+        "A": "कोलकाता से हावड़ा तक",
+        "B": "कोलकाता से मेदिनीपुर तक",
+        "C": "बाँसबेरिया से रिसरा तक",
+        "D": "बाँसबेरिया से बिड़लानगर तक"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Rourkela steel Plant is located in which state?",
+      "prashna": "राउरकेला इस्पात संयंत्र किस राज्य में अवस्थित है?",
+      "options": {
+        "A": "West Bengal",
+        "B": "Rajasthan",
+        "C": "Odisha",
+        "D": "Jharkhand"
+      },
+      "vikalpa": {
+        "A": "पश्चिम बंगाल में",
+        "B": "राजस्थान में",
+        "C": "ओडिशा में",
+        "D": "झारखण्ड में"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Handloom industry is:",
+      "prashna": "हथकरघा उधोग है:",
+      "options": {
+        "A": "Basic industry",
+        "B": "Cottage industry",
+        "C": "Footloose industry",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आधारभूत उद्योग",
+        "B": "कुटीर उद्योग",
+        "C": "स्वच्छंद उद्योग",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Which of the following is not a mineral-based industry?",
+      "prashna": "निम्न में से कौन खनिज-आधारित उद्योग नहीं है?",
+      "options": {
+        "A": "Copper industry",
+        "B": "Cement industry",
+        "C": "Cotton textile industry",
+        "D": "Iron and Steel industry"
+      },
+      "vikalpa": {
+        "A": "ताँबा उद्योग",
+        "B": "सीमेंट उद्योग",
+        "C": "सूती वस्त्र उद्योग",
+        "D": "लोहा एवं इस्पात उद्योग"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Where is Hubli cotton textile centre located?",
+      "prashna": "हुबली सूती वस्त्र उद्योग केन्द्र कहाँ अवस्थित है?",
+      "options": {
+        "A": "West Bengal",
+        "B": "Karnataka",
+        "C": "Tamil Nadu",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "पश्चिम बंगाल",
+        "B": "कर्नाटक",
+        "C": "तमिलनाडु",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Manufacturing Industries",
+      "question": "Iron and Steel industry is:",
+      "prashna": "लोहा एवं इस्पात उद्योग हैः",
+      "options": {
+        "A": "Basic industry",
+        "B": "Footloose industry",
+        "C": "Cottage industry",
+        "D": "Small scale industry"
+      },
+      "vikalpa": {
+        "A": "आधारभूत उद्योग",
+        "B": "स्वच्छंद उद्योग",
+        "C": "कुटीर उद्योग",
+        "D": "छोटे पैमाने का उद्योग"
+      }
+    }
+  ]
+}

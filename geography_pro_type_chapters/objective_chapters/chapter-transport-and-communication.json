@@ -1,0 +1,565 @@
+{
+  "2021": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "North Atlantic route connects",
+      "prashna": "उत्तर अटलांटिक मार्ग जोड़ता है",
+      "options": {
+        "A": "North America with Europe",
+        "B": "North America with Africa",
+        "C": "Europe with Asia",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तरी अमेरिका को यूरोप से",
+        "B": "उत्तरी अमेरिका को अफ्रीका से",
+        "C": "यूरोप को एशिया से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Suez Canal connects",
+      "prashna": "स्वेज नहर जोड़ती है",
+      "options": {
+        "A": "Indian ocean with Pacific ocean",
+        "B": "Pacific ocean with Atlantic ocean",
+        "C": "Atlantic ocean with Arctic ocean",
+        "D": "Red sea with Mediterranean sea"
+      },
+      "vikalpa": {
+        "A": "हिन्द महासागर को प्रशांत महासागर से",
+        "B": "प्रशांत महासागर को अटलांटिक महासागर से",
+        "C": "अटलांटिक महासागर को आर्कटिक महासागर से",
+        "D": "लाल सागर को भूमध्य सागर से"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The Trans-Continental Stuart Highway connects",
+      "prashna": "ट्रान्स-महाद्वीपीय स्टुअर्ट महामार्ग जोड़ता है",
+      "options": {
+        "A": "Vancouver with St. John's",
+        "B": "Chengdu with Lhasa",
+        "C": "Edmonton with Anchorage",
+        "D": "Darwin with Melbourne"
+      },
+      "vikalpa": {
+        "A": "बैंकूवर को सेंट जॉन्स से",
+        "B": "चेंगडू को ल्हासा से",
+        "C": "एडमोन्टन को एनकोरेज से",
+        "D": "डार्विन को मेलबोर्न से"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Panama canal connects",
+      "prashna": "पनामा नहर जोड़ती है",
+      "options": {
+        "A": "Pacific ocean with Indian ocean",
+        "B": "Caribbean sea with Gulf of Mexico",
+        "C": "Pacific ocean with Atlantic ocean",
+        "D": "Atlantic ocean with Indian ocean"
+      },
+      "vikalpa": {
+        "A": "प्रशान्त महासागर को हिन्द महासागर से",
+        "B": "कैरीबियन सागर को मैक्सिको की खाड़ी से",
+        "C": "प्रशान्त महासागर को अटलांटिक महासागर से",
+        "D": "अटलांटिक महासागर को हिन्द महासागर से"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Main seaports of the world are",
+      "prashna": "विश्व के प्रमुख समुद्री पत्तन हैं",
+      "options": {
+        "A": "Naval ports",
+        "B": "Oil ports",
+        "C": "Comprehensive ports",
+        "D": "Industrial ports"
+      },
+      "vikalpa": {
+        "A": "नौसेना पत्तन",
+        "B": "तेल पत्तन",
+        "C": "विस्तृत पत्तन",
+        "D": "औद्योगिक पत्तन"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Nagasaki is an example of a",
+      "prashna": "नागासाकी उदाहरण है।",
+      "options": {
+        "A": "Oil port",
+        "B": "Fishing port",
+        "C": "Entrepot port",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "तेल पत्तन का",
+        "B": "मत्स्यन पत्तन का",
+        "C": "आंत्रेपी पत्तन का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The tunnel connecting the cities of Paris and London is",
+      "prashna": "पेरिस और लंदन शहर को जोड़नेवाली सुरंग है।",
+      "options": {
+        "A": "Channel Tunnel",
+        "B": "Satellite Tunnel",
+        "C": "Postal Tunnel",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "चैनल टनल",
+        "B": "सेटेलाइट टनल",
+        "C": "पोस्टल टनल",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "In which country is the highway between St. John's and Vancouver?",
+      "prashna": "किस देश में सेंट जॉन से वैंकूवर के बीच महामार्ग है ?",
+      "options": {
+        "A": "South Africa",
+        "B": "Australia",
+        "C": "India",
+        "D": "Canada"
+      },
+      "vikalpa": {
+        "A": "दक्षिण अफ्रीका",
+        "B": "ऑस्ट्रेलिया",
+        "C": "भारत",
+        "D": "कनाडा"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Air India is related to",
+      "prashna": "एयर इण्डिया सम्बन्धित है",
+      "options": {
+        "A": "Internet",
+        "B": "Satellite",
+        "C": "Airway",
+        "D": "Highway"
+      },
+      "vikalpa": {
+        "A": "इंटरनेट से",
+        "B": "उपग्रह से",
+        "C": "वायुमार्ग से",
+        "D": "महामार्ग से"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Which route is used for trade between Argentina and Europe?",
+      "prashna": "किस मार्ग का उपयोग अर्जेन्टीना एवं यूरोप के बीच व्यापार के लिए होता है ?",
+      "options": {
+        "A": "North Atlantic sea route",
+        "B": "Suez route",
+        "C": "Panama route",
+        "D": "Cape route"
+      },
+      "vikalpa": {
+        "A": "उत्तरी अटलांटिक समुद्री मार्ग",
+        "B": "स्वेज मार्ग",
+        "C": "पनामा मार्ग",
+        "D": "केप मार्ग"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Big Inch is related to",
+      "prashna": "बिग इंच सम्बन्धित है",
+      "options": {
+        "A": "Railway",
+        "B": "Airway",
+        "C": "Pipeline",
+        "D": "Waterway"
+      },
+      "vikalpa": {
+        "A": "रेलमार्ग से",
+        "B": "वायुमार्ग से",
+        "C": "पाइपलाइन से",
+        "D": "जलमार्ग से"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "When did the first train run in the world?",
+      "prashna": "विश्व में सर्वप्रथम रेलगाड़ी कब चली ?",
+      "options": {
+        "A": "1825",
+        "B": "1853",
+        "C": "1925",
+        "D": "1862"
+      },
+      "vikalpa": {
+        "A": "1825",
+        "B": "1853",
+        "C": "1925",
+        "D": "1862"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The densest rail network in the world is found in",
+      "prashna": "विश्व का सघनतम रेलतंत्र पाया जाता है।",
+      "options": {
+        "A": "Europe",
+        "B": "Asia",
+        "C": "Africa",
+        "D": "North America"
+      },
+      "vikalpa": {
+        "A": "यूरोप में",
+        "B": "एशिया में",
+        "C": "अफ्रीका में",
+        "D": "उत्तरी अमेरिका में"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The arteries of circulation are related to",
+      "prashna": "परिसंचरण की धमनियाँ सम्बन्धित है।",
+      "options": {
+        "A": "Roadways",
+        "B": "Railways",
+        "C": "Waterways",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सड़क मार्ग से",
+        "B": "रेलमार्ग से",
+        "C": "जलमार्ग से",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Gibraltar is related to",
+      "prashna": "जिब्राल्टर का सम्बन्ध है",
+      "options": {
+        "A": "Roadway",
+        "B": "Pipeline",
+        "C": "Sea route",
+        "D": "Airway"
+      },
+      "vikalpa": {
+        "A": "सड़क मार्ग से",
+        "B": "पाइपलाइन से",
+        "C": "समुद्री मार्ग से",
+        "D": "वायु मार्ग से"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Where is Port Said ?",
+      "prashna": "पोर्ट सईद कहाँ है ?",
+      "options": {
+        "A": "Morocco",
+        "B": "Egypt",
+        "C": "Portugal",
+        "D": "Algeria"
+      },
+      "vikalpa": {
+        "A": "मोरक्को",
+        "B": "मिस्र",
+        "C": "पुर्तगाल",
+        "D": "अल्जीरिया"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The Great Lakes waterway is associated with which continent ?",
+      "prashna": "ग्रेट लेक्स जलमार्ग किस महादेश से सम्बन्धित है ?",
+      "options": {
+        "A": "Europe",
+        "B": "Asia",
+        "C": "Africa",
+        "D": "North America"
+      },
+      "vikalpa": {
+        "A": "यूरोप",
+        "B": "एशिया",
+        "C": "अफ्रीका",
+        "D": "उत्तरी अमेरिका"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "What is the length of the Panama Canal ?",
+      "prashna": "पनामा नहर की लम्बाई कितनी है ?",
+      "options": {
+        "A": "60 km",
+        "B": "72 km",
+        "C": "50 km",
+        "D": "160 km"
+      },
+      "vikalpa": {
+        "A": "60 किलोमीटर",
+        "B": "72 किलोमीटर",
+        "C": "50 किलोमीटर",
+        "D": "160 किलोमीटर"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Big Trunk Route is associated with",
+      "prashna": "वृहद् ट्रंक मार्ग सम्बन्धित है",
+      "options": {
+        "A": "Suez Canal",
+        "B": "Panama Canal",
+        "C": "Northern Atlantic Sea Route",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्वेज नहर से",
+        "B": "पनामा नहर से",
+        "C": "उत्तरी अटलांटिक समुद्री मार्ग से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Channel tunnel connects",
+      "prashna": "चैनल टनल जोड़ता है",
+      "options": {
+        "A": "London-Berlin",
+        "B": "Berlin-Paris",
+        "C": "Paris-London",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "लंदन-बर्लिन",
+        "B": "बर्लिन-पेरिस",
+        "C": "पेरिस-लंदन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Where is Dover port ?",
+      "prashna": "डोवर पत्तन कहाँ है ?",
+      "options": {
+        "A": "England",
+        "B": "France",
+        "C": "Denmark",
+        "D": "Sweden"
+      },
+      "vikalpa": {
+        "A": "इंग्लैण्ड",
+        "B": "फ्रांस",
+        "C": "डेनमार्क",
+        "D": "स्वीडन"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "What is the width of metre gauge rail line?",
+      "prashna": "मीटर गेज रेल लाइन की चौड़ाई कितनी होती है?",
+      "options": {
+        "A": "1.6 m",
+        "B": "1.7 m",
+        "C": "1.5 m",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "1.6 मीटर",
+        "B": "1.7 मीटर",
+        "C": "1.5 मीटर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The Big inch is related to:",
+      "prashna": "बिग इंच संबंधित है?",
+      "options": {
+        "A": "Railway",
+        "B": "Airway",
+        "C": "Waterway",
+        "D": "Pipeline"
+      },
+      "vikalpa": {
+        "A": "रेल मार्ग",
+        "B": "वायुमार्ग से",
+        "C": "जलमार्ग से",
+        "D": "पाइपलाइन से"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "World's main sea ports belong to which of the following types?",
+      "prashna": "विश्व के प्रमुख समुद्री पत्तन निम्नलिखित में किस प्रकार के हैं?",
+      "options": {
+        "A": "Naval ports",
+        "B": "Oil ports",
+        "C": "Comprehensive port",
+        "D": "Industrial port"
+      },
+      "vikalpa": {
+        "A": "नौसेना पत्तन",
+        "B": "तेल पत्तन",
+        "C": "विस्तृत पत्तन",
+        "D": "औद्योगिक पत्तन"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The Trans-continental Stuart Highway connects:",
+      "prashna": "ट्रान्स-महादीपीय स्टुअर्ट महामार्ग जोड़ता है।",
+      "options": {
+        "A": "Vancouver with St. John",
+        "B": "Darwin with Melbourne",
+        "C": "Edmonton with Anchorage",
+        "D": "Chengdu with Lhasa"
+      },
+      "vikalpa": {
+        "A": "वैंकूवर को सेंट जोन्स से",
+        "B": "डार्विन को मेलबोर्न से",
+        "C": "एडमोन्टन को एंकॉरेज",
+        "D": "चेंगडू को ल्हासा से"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "Where is Port Said?",
+      "prashna": "पोर्ट सईद कहाँ है?",
+      "options": {
+        "A": "portugal",
+        "B": "Cyprus",
+        "C": "Egypt",
+        "D": "Libya"
+      },
+      "vikalpa": {
+        "A": "पुर्तगाल",
+        "B": "साइप्रस",
+        "C": "मिश्र",
+        "D": "लीबिया"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "In which country is the highway between St. John's and Vancouver?",
+      "prashna": "सेंट जॉन से वैंकूवर के बीच का महामार्ग किस देश में है?",
+      "options": {
+        "A": "Mexico",
+        "B": "Australia",
+        "C": "Canada",
+        "D": "United States of America"
+      },
+      "vikalpa": {
+        "A": "मैक्सिको",
+        "B": "आस्ट्रेलिया",
+        "C": "कनाडा",
+        "D": "संयुक्त राज्य अमेरिका"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "World's main sea ports belong to which type?",
+      "prashna": "विश्व के प्रमुख समुद्री पत्तन किस प्रकार के हैं ?",
+      "options": {
+        "A": "Industrial port",
+        "B": "Naval port",
+        "C": "Comprehensive port",
+        "D": "Oil port"
+      },
+      "vikalpa": {
+        "A": "औद्योगिक पत्तन",
+        "B": "नौसेना पत्तन",
+        "C": "विस्तृत पत्तन",
+        "D": "तेल पत्तन"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Transport and Communication",
+      "question": "The Great Lakes Waterway is associated with which continent?",
+      "prashna": "ग्रेट लेक्स जलमार्ग किस महादेश से संबंधित है?",
+      "options": {
+        "A": "Europe",
+        "B": "Asia",
+        "C": "North America",
+        "D": "Africa"
+      },
+      "vikalpa": {
+        "A": "यूरोप",
+        "B": "एशिया",
+        "C": "उत्तरी अमेरिका",
+        "D": "अफ्रीका"
+      }
+    }
+  ]
+}

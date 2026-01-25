@@ -1,0 +1,683 @@
+{
+  "2021": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "As per 2011 Census the density of population of Bihar was",
+      "prashna": "2011 की जनगणना के अनुसार बिहार का जनसंख्या घनत्व था",
+      "options": {
+        "A": "1126 persons/sq.km",
+        "B": "1006 persons/sq.km",
+        "C": "906 persons/sq.km",
+        "D": "1106 persons/sq.km"
+      },
+      "vikalpa": {
+        "A": "1126 व्यक्ति / वर्ग किमी",
+        "B": "1006 व्यक्ति / वर्ग किमी",
+        "C": "906 व्यक्ति / वर्ग किमी",
+        "D": "1106 व्यक्ति / वर्ग किमी"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "When was the first complete Census held in India ?",
+      "prashna": "भारत में पूर्ण जनगणना पहली बार कब हुई थी ?",
+      "options": {
+        "A": "1881",
+        "B": "1901",
+        "C": "1781",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "1881",
+        "B": "1901",
+        "C": "1781",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "As per 2011 Census the urban population in India is",
+      "prashna": "2011 की जनगणना के अनुसार भारत में नगरीय आबादी है",
+      "options": {
+        "A": "31.16%",
+        "B": "35.16%",
+        "C": "36.16%",
+        "D": "37.16%"
+      },
+      "vikalpa": {
+        "A": "31.16%",
+        "B": "35.16%",
+        "C": "36.16%",
+        "D": "37.16%"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the lowest sex ratio in the age-group of $0-6$ years ?",
+      "prashna": "निम्नलिखित राज्यों में किसका $0-6$ आयु वर्ग में लिंगानुपात निम्नतम है ?",
+      "options": {
+        "A": "Haryana",
+        "B": "Gujarat",
+        "C": "Punjab",
+        "D": "Himachal Pradesh"
+      },
+      "vikalpa": {
+        "A": "हरियाणा",
+        "B": "गुजरात",
+        "C": "पंजाब",
+        "D": "हिमाचल प्रदेश"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the highest proportion of urban population according to 2011 Census ?",
+      "prashna": "2011 की जनगणना के अनुसार निम्नलिखित राज्यों में से किसमें नगरीय जनसंख्या का अनुपात सर्वाधिक है ?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Maharashtra",
+        "C": "Goa",
+        "D": "Kerala"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु",
+        "B": "महाराष्ट्र",
+        "C": "गोआ",
+        "D": "केरल"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "As per 2011 Census which state has the lowest density of population?",
+      "prashna": "2011 की जनगणना के अनुसार किस राज्य की जनसंख्या का घनत्व सबसे कम है ?",
+      "options": {
+        "A": "Arunachal Pradesh",
+        "B": "Meghalaya",
+        "C": "Kerala",
+        "D": "Assam"
+      },
+      "vikalpa": {
+        "A": "अरुणाचल प्रदेश",
+        "B": "मेघालय",
+        "C": "केरल",
+        "D": "असम"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "As per 2011 Census the population of Bihar was",
+      "prashna": "2011 की जनगणना के अनुसार बिहार की जनसंख्या थी",
+      "options": {
+        "A": "10.41 crores",
+        "B": "11.41 crores",
+        "C": "9.61 crores",
+        "D": "8.51 crores"
+      },
+      "vikalpa": {
+        "A": "10.41 करोड़",
+        "B": "11.41 करोड़",
+        "C": "9.61 करोड़",
+        "D": "8.51 करोड़"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the highest population ?",
+      "prashna": "निम्नलिखित राज्यों में से किसकी जनसंख्या सर्वाधिक है ?",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Bihar",
+        "C": "West Bengal",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "उत्तर प्रदेश",
+        "B": "बिहार",
+        "C": "पश्चिम बंगाल",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Mention two reasons of declining child sex ratio in India.",
+      "prashna": "भारत में घटते शिशु लिंगानुपात के दो कारणों का उल्लेख कीजिए ।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to the 2011 census, the population density of India is",
+      "prashna": "2011 की जनगणना के अनुसार भारत में जनसंख्या का घनत्व है",
+      "options": {
+        "A": "815",
+        "B": "382",
+        "C": "215",
+        "D": "940"
+      },
+      "vikalpa": {
+        "A": "815",
+        "B": "382",
+        "C": "215",
+        "D": "940"
+      }
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Mention the major periods of population growth in India.",
+      "prashna": "भारत में जनसंख्या वृद्धि की प्रमुख अवधियों का उल्लेख कीजिए।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which is the least literate state of India?",
+      "prashna": "भारत का सबसे कम साक्षर राज्य है",
+      "options": {
+        "A": "Bihar",
+        "B": "Jharkhand",
+        "C": "Rajasthan",
+        "D": "Goa"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "झारखंड",
+        "C": "राजस्थान",
+        "D": "गोवा"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the lowest population density?",
+      "prashna": "निम्न राज्यों में से किसका जनसंख्या घनत्व सबसे कम है ?",
+      "options": {
+        "A": "Arunachal Pradesh",
+        "B": "Assam",
+        "C": "Mizoram",
+        "D": "Sikkim"
+      },
+      "vikalpa": {
+        "A": "अरुणाचल प्रदेश",
+        "B": "असम",
+        "C": "मिजोरम",
+        "D": "सिक्किम"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "The annual growth rate of population in India is",
+      "prashna": "भारत में जनसंख्या की वार्षिक वृद्धि दर है",
+      "options": {
+        "A": "3%",
+        "B": "4%",
+        "C": "2.6%",
+        "D": "1.64%"
+      },
+      "vikalpa": {
+        "A": "3%",
+        "B": "4%",
+        "C": "2.6%",
+        "D": "1.64%"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to 2011 census, literacy in India is",
+      "prashna": "2011 की जनगणना के अनुसार, भारत में साक्षरता है।",
+      "options": {
+        "A": "63 percent",
+        "B": "73 percent",
+        "C": "74.04 percent",
+        "D": "65 percent"
+      },
+      "vikalpa": {
+        "A": "63 प्रतिशत",
+        "B": "73 प्रतिशत",
+        "C": "74.04 प्रतिशत",
+        "D": "65 प्रतिशत"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "The year of the 'Great Divide' of census in India is",
+      "prashna": "भारत में जनगणना का महान विभाजक' वर्ष है।",
+      "options": {
+        "A": "1951",
+        "B": "1931",
+        "C": "1921",
+        "D": "1971"
+      },
+      "vikalpa": {
+        "A": "1951",
+        "B": "1931",
+        "C": "1921",
+        "D": "1971"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "What is the rank of India in terms of population in the world?",
+      "prashna": "विश्व में जनसंख्या की दृष्टि से भारत का स्थान कौन-सा है ?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "vikalpa": {
+        "A": "पहला",
+        "B": "दूसरा",
+        "C": "तीसरा",
+        "D": "चौथा"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to 2011 census, the population of India is",
+      "prashna": "2011 की जनगणना के अनुसार भारत की जनसंख्या है",
+      "options": {
+        "A": "121 crores",
+        "B": "125 crores",
+        "C": "130 crores",
+        "D": "135 crores"
+      },
+      "vikalpa": {
+        "A": "121 करोड़",
+        "B": "125 करोड़",
+        "C": "130 करोड़",
+        "D": "135 करोड़"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Urban population in India in 2011 was",
+      "prashna": "2011 में भारत में नगरीय जनसंख्या थी",
+      "options": {
+        "A": "31.16 per cent",
+        "B": "30 per cent",
+        "C": "35 per cent",
+        "D": "40 per cent"
+      },
+      "vikalpa": {
+        "A": "31.16 प्रतिशत",
+        "B": "30 प्रतिशत",
+        "C": "35 प्रतिशत",
+        "D": "40 प्रतिशत"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "The lowest female literacy in India in 2011 was in",
+      "prashna": "भारत में 2011 में महिला साक्षरता सबसे कम थी",
+      "options": {
+        "A": "Bihar",
+        "B": "Chhattisgarh",
+        "C": "Madhya Pradesh",
+        "D": "Jharkhand"
+      },
+      "vikalpa": {
+        "A": "बिहार में",
+        "B": "छत्तीसगढ़ में",
+        "C": "मध्य प्रदेश में",
+        "D": "झारखण्ड में"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which state has the highest density of population ?",
+      "prashna": "किस राज्य का जनसंख्या घनत्व सर्वाधिक है ?",
+      "options": {
+        "A": "West Bengal",
+        "B": "Bihar",
+        "C": "Kerala",
+        "D": "Punjab"
+      },
+      "vikalpa": {
+        "A": "पश्चिम बंगाल",
+        "B": "बिहार",
+        "C": "केरल",
+        "D": "पंजाब"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the highest literacy rate ?",
+      "prashna": "निम्न राज्यों में से किसकी साक्षरता दर सर्वाधिक है ?",
+      "options": {
+        "A": "Gujarat",
+        "B": "Kerala",
+        "C": "Tamil Nadu",
+        "D": "West Bengal"
+      },
+      "vikalpa": {
+        "A": "गुजरात",
+        "B": "केरल",
+        "C": "तमिलनाडु",
+        "D": "पश्चिम बंगाल"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which linguistic family has the lowest population in India?",
+      "prashna": "किस भाषाई परिवार की भारत में जनसंख्या सबसे कम है?",
+      "options": {
+        "A": "Dravidian",
+        "B": "Indo-European",
+        "C": "Sino-Tibetan",
+        "D": "Austric"
+      },
+      "vikalpa": {
+        "A": "द्रविड",
+        "B": "भारतीय – यूरोपीय",
+        "C": "चीनी-तिब्बती",
+        "D": "आस्ट्रिक"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to census 2011, which of the following states has the lowest density of population?",
+      "prashna": "2011 की जनगणना के अनुसार, निम्नलिखित राज्यों में से किसकी जनसंख्या का घनत्त्व सबसे कम है?",
+      "options": {
+        "A": "Assam",
+        "B": "Arunachal Pradesh",
+        "C": "Sikkim",
+        "D": "Mizoram"
+      },
+      "vikalpa": {
+        "A": "असम",
+        "B": "अरुणाचल प्रदेश",
+        "C": "सिक्किम",
+        "D": "मिजोरम"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to 2011 census the density of population in India is:",
+      "prashna": "2011 की जनगणना के अनुसार भारत में जनसंख्या का घनत्त्व है।",
+      "options": {
+        "A": "810 persons / sq. km.",
+        "B": "382 persons / sq. km.",
+        "C": "282 persons / sq.km.",
+        "D": "362 persons / sq.km."
+      },
+      "vikalpa": {
+        "A": "810 व्यक्ति / वर्ग किमी.",
+        "B": "382 व्यक्ति / वर्ग किमी.",
+        "C": "282 व्यक्ति / वर्ग किमी.",
+        "D": "362 व्यक्ति / वर्ग किमी."
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which year is the \"great divide\" in Indian census?",
+      "prashna": "भारत में जनगणना का \"महान विभाजक\" वर्ष कौन है?",
+      "options": {
+        "A": "1951",
+        "B": "1731",
+        "C": "1921",
+        "D": "1971"
+      },
+      "vikalpa": {
+        "A": "1951",
+        "B": "1931",
+        "C": "1921",
+        "D": "1971"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the lowest sex ratio in the age-group of 0-6 years?",
+      "prashna": "निम्नलिखित राज्यों में से किसमें 0-6 आयु वर्ग में लिंगानुपात निम्नतम है?",
+      "options": {
+        "A": "Haryana",
+        "B": "Gujarat",
+        "C": "Punjab",
+        "D": "Himachal Pradesh"
+      },
+      "vikalpa": {
+        "A": "हरियाणा",
+        "B": "गुजरात",
+        "C": "पंजाब",
+        "D": "हिमाचल प्रदेश"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the highest proportion of urban population according to 2011 census?",
+      "prashna": "2011 की जनगणना के अनुसार निम्नलिखित राज्यों में से किसमें नगरीय जनसंख्या का अनुपात सर्वाधिक है ?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Maharashtra",
+        "C": "Goa",
+        "D": "Kerala"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु",
+        "B": "महाराष्ट्र",
+        "C": "गोवा",
+        "D": "केरल"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "What is physiological density?",
+      "prashna": "कायिक घनत्त्व क्या है?"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "What are the major occupation categories as per 2011 census of India?",
+      "prashna": "2011 की जनगणना के अनुसार भारत में प्रमुख व्यावसायिक संवर्ग क्या है?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to 2011 census the density of population in India is :",
+      "prashna": "2011 की जनगणना के अनुसार भारत में जनसंख्या का घनत्व है ?",
+      "options": {
+        "A": "282 Persons / sq.km.",
+        "B": "382 Persons/sq.km.",
+        "C": "352 Persons/ sq.km.",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "282 व्यक्ति/वर्ग किमी.",
+        "B": "382 व्यक्ति/वर्ग किमी.",
+        "C": "352 व्यक्ति/वर्ग किमी.",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following linguistic families in India has the highest population ?",
+      "prashna": "भारत में निम्नलिखित भाषाई परिवारों में से किसकी जनसंख्या सर्वाधिक है ?",
+      "options": {
+        "A": "Dravidian",
+        "B": "Indo-European",
+        "C": "Sino-Tibetan",
+        "D": "Austric"
+      },
+      "vikalpa": {
+        "A": "द्रविड",
+        "B": "भारतीय-यूरोपीय",
+        "C": "चीनी-तिब्बती",
+        "D": "आस्ट्रिक"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "According to 2011 census the density of population of Bihar was :",
+      "prashna": "2011 की जनगणना के अनुसार बिहार की जनसंख्या का घनत्व था :",
+      "options": {
+        "A": "1126 Persons/sq.km",
+        "B": "1006 Persons/sq.km.",
+        "C": "906 Persons/sq.km",
+        "D": "1106 Persons/sq.km"
+      },
+      "vikalpa": {
+        "A": "1126 व्यक्ति/वर्ग किमी.",
+        "B": "1006 व्यक्ति /वर्ग किमी.",
+        "C": "906 व्यक्ति/वर्ग किमी.",
+        "D": "1106 व्यक्ति/वर्ग किमी"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Urban population in India in 2011 was :",
+      "prashna": "2011 में भारत में नगरीय जनसंख्या थी :",
+      "options": {
+        "A": "31.16 Per cent",
+        "B": "27.3 Per cent",
+        "C": "26.84 Per cent",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "31.16 प्रतिशत",
+        "B": "27.3 प्रतिशत",
+        "C": "26.84 प्रतिशत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Which of the following states has the highest population?",
+      "prashna": "निम्नलिखित राज्यों में किसकी जनसंख्या सर्वाधिक है ?",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Bihar",
+        "C": "West Bengal",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "उत्तर प्रदेश",
+        "B": "बिहार",
+        "C": "पश्चिम बंगाल",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "How many minimum days of employment in a year is necessary for the main workers ?",
+      "prashna": "मुख्य श्रमिकों को एक वर्ष में न्यूनतम कितने दिन रोजगार मिलना आवश्यक है ?",
+      "options": {
+        "A": "60 days",
+        "B": "80 days",
+        "C": "200 days",
+        "D": "183 days"
+      },
+      "vikalpa": {
+        "A": "60 दिन",
+        "B": "80 दिन",
+        "C": "200 दिन",
+        "D": "183 दिन"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "Where was the lowest female literacy in India in 2011 ?",
+      "prashna": "भारत में 2011 में महिला साक्षरता सबसे कम कहाँ थी ?",
+      "options": {
+        "A": "Bihar",
+        "B": "Chhattisgarh",
+        "C": "Madhya Pradesh",
+        "D": "Jharkhand"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "छत्तीसगढ़",
+        "C": "मध्य प्रदेश",
+        "D": "झारखण्ड"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "What is physiological density?",
+      "prashna": "कायिक घनत्व क्या है?"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter_name": "Population: Distribution, Density, Growth and Composition",
+      "question": "What do you mean by the composition of working population?",
+      "prashna": "श्रमजीवी जनसंख्या संगठन से आप क्या समझते हैं?"
+    }
+  ]
+}

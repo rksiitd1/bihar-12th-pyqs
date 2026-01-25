@@ -1,0 +1,337 @@
+{
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Which of the following is the river basin of western India?",
+      "prashna": "निम्नलिखित में कौन पश्चिमी भारत की नदी बेसिन है ?",
+      "options": {
+        "A": "Mahi basin",
+        "B": "Kosi basin",
+        "C": "Ganga basin",
+        "D": "Son basin"
+      },
+      "vikalpa": {
+        "A": "माही बेसिन",
+        "B": "कोसी बेसिन",
+        "C": "गंगा बेसिन",
+        "D": "सोन बेसिन"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Which is the main source of irrigation in north India ?",
+      "prashna": "उत्तर भारत में सिंचाई का मुख्य स्रोत कौन है ?",
+      "options": {
+        "A": "Canal",
+        "B": "Tubewell",
+        "C": "Pond",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "नहर",
+        "B": "नलकूप",
+        "C": "तालाब",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "The main source of irrigation in South India is",
+      "prashna": "दक्षिण भारत में सिंचाई का मुख्य स्रोत कौन है ?",
+      "options": {
+        "A": "canal",
+        "B": "tubewell",
+        "C": "tank",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "नहर",
+        "B": "नलकूप",
+        "C": "तालाब",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "The problem related to water resources in India is",
+      "prashna": "भारत में जल संसाधन से जुड़ी समस्या है",
+      "options": {
+        "A": "Distribution",
+        "B": "Availability",
+        "C": "Conservation",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "वितरण",
+        "B": "उपलब्धता",
+        "C": "संरक्षण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Neeru-Meeru is related to",
+      "prashna": "नीरू - मीरू सम्बन्धित है।",
+      "options": {
+        "A": "Watershed management",
+        "B": "Irrigation management",
+        "C": "Pollution management",
+        "D": "Environment management"
+      },
+      "vikalpa": {
+        "A": "जल संभर प्रबंधन से",
+        "B": "सिंचाई प्रबंधन से",
+        "C": "प्रदूषण प्रबंधन से",
+        "D": "पर्यावरण प्रबंधन से"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "The direction of flow of the Luni river is",
+      "prashna": "लूनी नदी के प्रवाह की दिशा है।",
+      "options": {
+        "A": "Eastern",
+        "B": "Western",
+        "C": "Southern",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूर्वी",
+        "B": "पश्चिमी",
+        "C": "दक्षिणी",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Hirakud project is in",
+      "prashna": "हीराकुड परियोजना है",
+      "options": {
+        "A": "Odisha",
+        "B": "Bihar",
+        "C": "Jharkhand",
+        "D": "Chhattisgarh"
+      },
+      "vikalpa": {
+        "A": "ओडिशा में",
+        "B": "बिहार में",
+        "C": "झारखंड में",
+        "D": "छत्तीसगढ़ में"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Which of the following is a river of South India?",
+      "prashna": "निम्न में से कौन दक्षिण भारत की नदी है ?",
+      "options": {
+        "A": "Ganga",
+        "B": "Hooghly",
+        "C": "Damodar",
+        "D": "Krishna"
+      },
+      "vikalpa": {
+        "A": "गंगा",
+        "B": "हुगली",
+        "C": "दामोदर",
+        "D": "कृष्णा"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "What percentage of the total water on Earth is fresh water?",
+      "prashna": "पृथ्वी पर कुल जल का कितना प्रतिशत भाग अलवणीय जल है ?",
+      "options": {
+        "A": "2 percent",
+        "B": "3 percent",
+        "C": "4 percent",
+        "D": "1 percent"
+      },
+      "vikalpa": {
+        "A": "2 प्रतिशत",
+        "B": "3 प्रतिशत",
+        "C": "4 प्रतिशत",
+        "D": "1 प्रतिशत"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Harike barrage is in which state ?",
+      "prashna": "हरिके बाँध किस राज्य में है ?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Punjab",
+        "C": "Haryana",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "राजस्थान",
+        "B": "पंजाब",
+        "C": "हरियाणा",
+        "D": "कर्नाटक"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Where is the Pykara hydroelectric project ?",
+      "prashna": "पायकारा जलविद्युत परियोजना कहाँ है?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Punjab",
+        "C": "Jharkhand",
+        "D": "Assam"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु में",
+        "B": "पंजाब में",
+        "C": "झारखंड में",
+        "D": "असम में"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Which of the following is the river basin of western India?",
+      "prashna": "निम्नलिखित में कौन पश्चिमी भारत की नदी बेसिन है?",
+      "options": {
+        "A": "Mahi basin",
+        "B": "Ganga basin",
+        "C": "Son basin",
+        "D": "Kosi basin"
+      },
+      "vikalpa": {
+        "A": "माही बेसिन",
+        "B": "गंगा बेसिन",
+        "C": "सोन बेसिन",
+        "D": "कोसी बेसिन"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Which of the following is the smallest basin?",
+      "prashna": "निम्नालिखित में कौन सबसे छोटी बेसिन है?",
+      "options": {
+        "A": "Godavari basin",
+        "B": "Krishna basin",
+        "C": "Narmada basin",
+        "D": "Tapi basin"
+      },
+      "vikalpa": {
+        "A": "गोदावरी बेसिन",
+        "B": "कृष्णा बेसिन",
+        "C": "नर्मदा बेसिन",
+        "D": "तापी बेसिन"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Niru-Miru is related to:",
+      "prashna": "नीरू – मीरू सम्बन्धित है:",
+      "options": {
+        "A": "Watershed management",
+        "B": "Irrigation management",
+        "C": "Pollution management",
+        "D": "Environmental management"
+      },
+      "vikalpa": {
+        "A": "जलसंभर प्रबंधन से",
+        "B": "सिंचाई प्रबंधन से",
+        "C": "प्रदूषण-प्रबंधन से",
+        "D": "पर्यावरण प्रबंधन से"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Pykara hydroelectric project is in :",
+      "prashna": "पायकारा जलविद्युत परियोजना है :",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Punjab",
+        "C": "Jharkhand",
+        "D": "Assam"
+      },
+      "vikalpa": {
+        "A": "तमिलनाडु में",
+        "B": "पंजाब में",
+        "C": "झारखण्ड में",
+        "D": "असम में"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "Which of the following rivers does not flow towards the east?",
+      "prashna": "निम्नलिखित नदियों में कौन पूर्व की ओर प्रवाहित नहीं होती हैं?",
+      "options": {
+        "A": "Mahanadi",
+        "B": "Subarnarekha",
+        "C": "Tapi",
+        "D": "Krishna"
+      },
+      "vikalpa": {
+        "A": "महानदी",
+        "B": "स्वर्णरेखा",
+        "C": "तापी",
+        "D": "कृष्णा"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Water Resources",
+      "question": "The problem related to water resource of India is:",
+      "prashna": "भारत में जल संसाधन से जुड़ी समस्या हैः",
+      "options": {
+        "A": "Conservation",
+        "B": "Distribution",
+        "C": "Availability",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "संरक्षण",
+        "B": "वितरण",
+        "C": "उपलब्धता",
+        "D": "इनमें से सभी"
+      }
+    }
+  ]
+}
