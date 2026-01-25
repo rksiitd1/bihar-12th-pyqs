@@ -6,27 +6,8 @@ Implement a standardized data processing pipeline for Bihar Board Class 12 Polit
 ---
 
 ### 🔍 Phase 1: Knowledge Discovery
-1. **Syllabus Research**: Research for the official **NCERT Class 12 Political Science syllabus**.
-2. **Chapter Extraction**: Compile a clean list of chapter titles.
-
-**Part A: Contemporary World Politics**
-- The End of Bipolarity
-- Contemporary Centres of Power
-- Contemporary South Asia
-- International Organizations
-- Security in the Contemporary World
-- Environment and Natural Resources
-- Globalization
-
-**Part B: Politics in India Since Independence**
-- Challenges of Nation-Building
-- Era of One-Party Dominance
-- Politics of Planned Development
-- India's External Relations
-- Challenges to and Restoration of the Congress System
-- The Crisis of Democratic Order
-- Regional Aspirations
-- Recent Developments in Indian Politics
+1. **Syllabus Research**: Perform a targeted web search for the official **NCERT Class 12 Political Science syllabus**.
+2. **Chapter Extraction**: Compile a clean list of chapter titles. This list will serve as the ground truth for AI-driven annotation in Phase 3.
 
 ---
 

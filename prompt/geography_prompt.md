@@ -1,0 +1,57 @@
+# Project Brief: Geography Data Pipeline Implementation
+
+### 🎯 Objective
+Implement a standardized data processing pipeline for Bihar Board Class 12 Geography Previous Year Questions (2021-2026), ensuring 100% structural and functional parity with the existing History, Geography, and Mathematics pipelines.
+
+---
+
+### 🔍 Phase 1: Knowledge Discovery
+1. **Syllabus Research**: Perform a targeted web search for the official **NCERT Class 12 Geography syllabus**.
+2. **Chapter Extraction**: Compile a clean list of chapter titles. This list will serve as the ground truth for AI-driven annotation in Phase 3.
+
+---
+
+### 🏗️ Phase 2: Script Implementation
+> **Crucial Requirement**: The following scripts must mirror the logic, naming conventions, and directory structures of the existing subject scripts.
+
+1. **Extraction** (`batch_processing_geography.py`):
+   - Scope: All PDFs in `geography_papers/`.
+   - Action: Utilize the shared `process_question_paper` utility to generate raw JSON in `geography_data/`.
+
+2. **Annotation** (`batch_annotate_geography.py`):
+   - Logic: Feed raw questions to Gemini (using `models/gemini-3-flash-preview`).
+   - Task: Map each question to the NCERT chapters identified in Phase 1.
+   - Output: Annotated JSON in `geography_data_annotated/`.
+
+3. **Consolidation** (`merge_geography.py`):
+   - Action: Merge yearly annotated files into a single master database: `geography_pro/geography_all_years.json`.
+
+4. **Multi-View Organization**:
+   - `split_geography_by_chapter.py`: Generate chapter-specific JSON files.
+   - `split_geography_by_type.py`: Generate type-specific JSON files (Objective, Short, Long).
+   - `split_geography_types_by_chapters.py`: Generate granular type-chapter matrices.
+
+---
+
+### 🚀 Phase 3: Pipeline Execution
+> [!IMPORTANT]
+> The following commands **MUST** be executed sequentially. Each script depends on the output of the previous one. An agent should request user permission for the entire sequence at once before starting.
+
+```powershell
+python batch_processing_geography.py
+python batch_annotate_geography.py
+python merge_geography.py
+python split_geography_by_chapter.py
+python split_geography_by_type.py
+python split_geography_types_by_chapters.py
+```
+
+---
+
+### 📝 Phase 4: Finalization
+1. **Documentation**: Update `README.md` to document the Geography scripts.
+2. **Version Control**: Stage and commit changes.
+
+### ⚠️ Technical Guardrails
+- **Maintain Consistency**: Follow the exactly same JSON structure and logging format as other subjects.
+- **Reference Existing Code**: Treat `batch_processing_mathematics.py` and `batch_annotate_history.py` as primary templates.
