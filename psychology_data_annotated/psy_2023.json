@@ -1,0 +1,1507 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "What is a virus?",
+        "prashna": "वायरस क्या है ?",
+        "options": {
+            "A": "Pathogens",
+            "B": "Antigens",
+            "C": "Antibodies",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पैथोजेन्स",
+            "B": "एन्टीजेन्स",
+            "C": "एंटीबॉडीज",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Cannon belongs to which field?",
+        "prashna": "कैनन किस क्षेत्र से संबंधित हैं ?",
+        "options": {
+            "A": "Motivation",
+            "B": "Stress",
+            "C": "Emotion",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अभिप्रेरणा",
+            "B": "प्रतिबल",
+            "C": "संवेग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "Which of the following is Bulimia disorder?",
+        "prashna": "निम्नलिखित में से कौन बुलिमिया विकार है ?",
+        "options": {
+            "A": "Eating disorder",
+            "B": "Moral disorder",
+            "C": "Emotional disorder",
+            "D": "Character disorder"
+        },
+        "vikalpa": {
+            "A": "भोजन विकार",
+            "B": "नैतिक विकार",
+            "C": "भावात्मक विकार",
+            "D": "चरित्र विकार"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "The difference between normal, abnormal and superior is only of",
+        "prashna": "सामान्य, असामान्य तथा श्रेष्ठ में केवल अंतर होता है",
+        "options": {
+            "A": "Quantity",
+            "B": "Distance",
+            "C": "Sequence",
+            "D": "Time"
+        },
+        "vikalpa": {
+            "A": "मात्रा का",
+            "B": "दूरी का",
+            "C": "क्रम का",
+            "D": "समय का"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "Down syndrome is a type of disease",
+        "prashna": "डाउन संलक्षण एक प्रकार का रोग है",
+        "options": {
+            "A": "Glandular disease",
+            "B": "Phobia",
+            "C": "Stomach disease",
+            "D": "Mental retardation"
+        },
+        "vikalpa": {
+            "A": "ग्रंथिक रोग",
+            "B": "दुर्भीति",
+            "C": "पेट की बीमारी",
+            "D": "मानसिक दुर्बलता"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "Somatoform disorder is related to",
+        "prashna": "कार्यरूप विकार संबंधित है",
+        "options": {
+            "A": "Physical problem",
+            "B": "Psychological problem",
+            "C": "Genetic problem",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "शारीरिक समस्या से",
+            "B": "मनोवैज्ञानिक समस्या से",
+            "C": "आनुवंशिक समस्या से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "In which category of disorder is anxiety disorder placed?",
+        "prashna": "चिन्ता विकृति को विकृति की किस श्रेणी में रखा जाता है ?",
+        "options": {
+            "A": "Mood disorder",
+            "B": "Psychoneurotic disorder",
+            "C": "Stress disorder",
+            "D": "Thinking disorder"
+        },
+        "vikalpa": {
+            "A": "मनोदशा विकृति",
+            "B": "मन:स्नायु विकृति",
+            "C": "प्रतिबल विकृति",
+            "D": "चिन्तन विकृति"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "A person who is very cheerful, social and talkative is called",
+        "prashna": "जो व्यक्ति बहुत हँसमुख, सामाजिक एवं बानी होता है, कहलाता है",
+        "options": {
+            "A": "Introvert",
+            "B": "Extrovert",
+            "C": "Ambivert",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अन्तर्मुखी",
+            "B": "बहिर्मुखी",
+            "C": "उभयमुखी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Which of the following is a projective technique?",
+        "prashna": "निम्नलिखित में से कौन-सी प्रक्षेपी प्रविधि है ?",
+        "options": {
+            "A": "TAT",
+            "B": "Block design test",
+            "C": "Adjustment inventory",
+            "D": "General intelligence test"
+        },
+        "vikalpa": {
+            "A": "टीएटी",
+            "B": "ब्लाक डिजाइन परीक्षण",
+            "C": "समायोजन इनवेंट्री",
+            "D": "सामान्य बुद्धि परीक्षण"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Hardy personality is called",
+        "prashna": "तगड़ा व्यक्तित्व को कहा जाता है",
+        "options": {
+            "A": "'C' personality",
+            "B": "'H' personality",
+            "C": "'D' personality",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "'सी' व्यक्तित्व",
+            "B": "'एच' व्यक्तित्व",
+            "C": "'डी' व्यक्तित्व",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "When the observer himself is a part of observation, it is called",
+        "prashna": "प्रेक्षक जब स्वयं प्रेक्षण का एक हिस्सा होता है, तो उसे कहा जाता है",
+        "options": {
+            "A": "Non-participant observation",
+            "B": "Interview",
+            "C": "Participant observation",
+            "D": "Naturalistic observation"
+        },
+        "vikalpa": {
+            "A": "असहभागी प्रेक्षण",
+            "B": "साक्षात्कार",
+            "C": "सहभागी प्रेक्षण",
+            "D": "स्वाभाविक प्रेक्षण"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Hans Selye belongs to which field?",
+        "prashna": "हंस सेल्ये, किस क्षेत्र से संबंधित हैं ?",
+        "options": {
+            "A": "Motivation",
+            "B": "Stress",
+            "C": "Emotion",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अभिप्रेरण",
+            "B": "तनाव",
+            "C": "संवेग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Which of the following is not a source of psychological stress?",
+        "prashna": "निम्नांकित में से कौन मनोवैज्ञानिक दबाव का स्रोत नहीं है ?",
+        "options": {
+            "A": "Frustration",
+            "B": "Conflict",
+            "C": "Social stress",
+            "D": "Traumatic events"
+        },
+        "vikalpa": {
+            "A": "कुंठा",
+            "B": "द्वंद्व",
+            "C": "सामाजिक दबाव",
+            "D": "अभिघातज घटनाएँ"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Hindrance in goal attainment and blocking of needs and motives leads to",
+        "prashna": "लक्ष्य प्राप्ति में बाधा और आवश्यकताओं एवं अभिप्रेरकों के अवरूद्ध होने से उत्पन्न होता है",
+        "options": {
+            "A": "Conflict",
+            "B": "Frustration",
+            "C": "Internal pressure",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "द्वंद्व",
+            "B": "कुंठा",
+            "C": "आन्तरिक दबाव",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "Delusion of persecution is a symptom of",
+        "prashna": "उत्पीड़न भ्रमासक्ति एक लक्षण है",
+        "options": {
+            "A": "Somatoform disorder",
+            "B": "Schizophrenia",
+            "C": "Mood disorder",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "कायरूप विकार का",
+            "B": "मनोविदलता का",
+            "C": "भावदशा विकार का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter_name": "Therapeutic Approaches",
+        "question": "Which therapy was propounded by Carl Rogers?",
+        "prashna": "कार्ल रोजर्स द्वारा किस चिकित्सा का प्रतिपादन हुआ ?",
+        "options": {
+            "A": "Psychodynamic therapy",
+            "B": "Behaviour therapy",
+            "C": "Client-centered therapy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मनोगत्यात्मक चिकित्सा",
+            "B": "व्यवहार चिकित्सा",
+            "C": "क्लायंट केन्द्रित चिकित्सा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter_name": "Therapeutic Approaches",
+        "question": "On which principle is behavior therapy based?",
+        "prashna": "व्यवहार चिकित्सा किस सिद्धांत पर आधारित है ?",
+        "options": {
+            "A": "Principle of learning",
+            "B": "Principle of motivation",
+            "C": "Principle of perception",
+            "D": "Principle of forgetting"
+        },
+        "vikalpa": {
+            "A": "अधिगम का सिद्धांत",
+            "B": "अभिप्रेरणा का सिद्धांत",
+            "C": "प्रत्यक्षण का सिद्धांत",
+            "D": "विस्मरण का सिद्धांत"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter_name": "Therapeutic Approaches",
+        "question": "What is breathing exercise called in Yoga?",
+        "prashna": "श्वसन अभ्यास को योग में क्या कहा जाता है ?",
+        "options": {
+            "A": "Meditation",
+            "B": "Asana",
+            "C": "Pranayama",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ध्यान",
+            "B": "आसन",
+            "C": "प्राणायाम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter_name": "Therapeutic Approaches",
+        "question": "In which therapy method is systematic desensitization used?",
+        "prashna": "क्रमबद्ध असंवेदीकरण किस चिकित्सा विधि में उपयोग किया जाता है ?",
+        "options": {
+            "A": "Behaviour therapy",
+            "B": "Logotherapy",
+            "C": "Client-centered therapy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "व्यवहार चिकित्सा",
+            "B": "लोगो चिकित्सा",
+            "C": "क्लायंट केन्द्रित चिकित्सा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter_name": "Therapeutic Approaches",
+        "question": "The objective of psychotherapy is",
+        "prashna": "मनोचिकित्सा का उद्देश्य है",
+        "options": {
+            "A": "Constructive adjustment",
+            "B": "Destructive adjustment",
+            "C": "Assisting in improving lifestyle",
+            "D": "Both (A) and (C)"
+        },
+        "vikalpa": {
+            "A": "रचनात्मक समायोजन",
+            "B": "विध्वंसात्मक समायोजन",
+            "C": "जीवन शैली के सुधार में सहायता करना",
+            "D": "(A) एवं (C) दोनों"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter_name": "Therapeutic Approaches",
+        "question": "Who established Logotherapy?",
+        "prashna": "उद्बोधक चिकित्सा को स्थापित किया",
+        "options": {
+            "A": "Albert Ellis",
+            "B": "Viktor E. Frankl",
+            "C": "Sigmund Freud",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अल्बर्ट एलिस ने",
+            "B": "विक्टर ई० फ्रैंकल ने",
+            "C": "सिगमण्ड फ्रायड ने",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "Who propounded the concept of Intelligence Quotient?",
+        "prashna": "बुद्धि लब्धि के संप्रत्यय का प्रतिपादन किसने किया ?",
+        "options": {
+            "A": "Binet",
+            "B": "Stern",
+            "C": "Gardner",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बिने",
+            "B": "स्टर्न",
+            "C": "गार्डनर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "Who said 'Intelligence is global capacity'?",
+        "prashna": "किसने 'बुद्धि को सार्वभौम क्षमता' कहा है ?",
+        "options": {
+            "A": "Wechsler",
+            "B": "Binet",
+            "C": "Titchner",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वेश्लर",
+            "B": "बिने",
+            "C": "टिचवर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "Who among the following is the propounder of the uni-factor theory of intelligence?",
+        "prashna": "बुद्धि के एक-कारक सिद्धांत के प्रतिपादक निम्न में से कौन हैं ?",
+        "options": {
+            "A": "Alfred Binet",
+            "B": "Charles Spearman",
+            "C": "Thorndike",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अल्फ्रेड बिने",
+            "B": "चार्ल्स स्पीयरमैन",
+            "C": "थार्नडाइक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "People whose IQ is between $80-89$ are called",
+        "prashna": "जिन व्यक्तियों की बुद्धि लब्धि $80-89$ के बीच होती है उन्हें कहते है",
+        "options": {
+            "A": "Gifted",
+            "B": "Moron",
+            "C": "Dull",
+            "D": "Normal"
+        },
+        "vikalpa": {
+            "A": "प्रतिभाशाली",
+            "B": "मूढ़ बुद्धि",
+            "C": "मंद",
+            "D": "सामान्य"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "In which year was the PASS model of intelligence developed?",
+        "prashna": "किस वर्ष बुद्धि का पास-मॉडल विकसित हुआ ?",
+        "options": {
+            "A": "1975",
+            "B": "1994",
+            "C": "1954",
+            "D": "2001"
+        },
+        "vikalpa": {
+            "A": "1975",
+            "B": "1994",
+            "C": "1954",
+            "D": "2001"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "Who defined 'Intelligence as the ability of abstract thinking'?",
+        "prashna": "'बुद्धि को अमूर्त चिन्तन की योग्यता के रूप में' किसने परिभाषित किया ?",
+        "options": {
+            "A": "Terman",
+            "B": "Buckingham",
+            "C": "Buehler",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "टरमन",
+            "B": "बकिंगघम",
+            "C": "बुहलर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "Which of the following is not a verbal test?",
+        "prashna": "निम्न में से कौन शाब्दिक परीक्षण नहीं है ?",
+        "options": {
+            "A": "Pass along test",
+            "B": "Block design test",
+            "C": "Binet test",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "पास एलौंग परीक्षण",
+            "B": "ब्लॉक डिजाइन परीक्षण",
+            "C": "बिने परीक्षण",
+            "D": "(A) एवं (B) दोनों"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "chapter_name": "Psychology and Life",
+        "question": "In which branch of psychology is the human-environment relationship studied?",
+        "prashna": "मनोविज्ञान की किस शाखा में मानव-पर्यावरण संबंध का अध्ययन किया जाता है",
+        "options": {
+            "A": "Social psychology",
+            "B": "Environmental psychology",
+            "C": "Industrial psychology",
+            "D": "Child psychology"
+        },
+        "vikalpa": {
+            "A": "सामाजिक मनोविज्ञान",
+            "B": "पर्यावरणीय मनोविज्ञान",
+            "C": "औद्योगिक मनोविज्ञान",
+            "D": "बाल मनोविज्ञान"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "The behavior of a crowd is",
+        "prashna": "भीड़ का व्यवहार है",
+        "options": {
+            "A": "Irrational",
+            "B": "Rational",
+            "C": "Logical",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अविवेकी",
+            "B": "विवेकपूर्ण",
+            "C": "तर्कपूर्ण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "chapter_name": "Psychology and Life",
+        "question": "How is social disadvantage produced?",
+        "prashna": "सामाजिक असुविधा कैसे उत्पन्न होती है ?",
+        "options": {
+            "A": "By discrimination",
+            "B": "By aggression",
+            "C": "By deprivation",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "भेदभाव से",
+            "B": "आक्रामकता से",
+            "C": "वंचन से",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "Which skills are required to become an effective counselor?",
+        "prashna": "एक प्रभावी परामर्शदाता बनने के लिए किन कौशलों की आवश्यकता है",
+        "options": {
+            "A": "Observational skill",
+            "B": "Specific skill",
+            "C": "General skill",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "प्रेक्षणाम्मक कौशल",
+            "B": "विशिष्ट कौशल",
+            "C": "सामान्य कौशल",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "Which of the following is not an element of communication?",
+        "prashna": "निम्नलिखित में से कौन संचार का तत्व नहीं है ?",
+        "options": {
+            "A": "Speaking",
+            "B": "Listening",
+            "C": "Body language",
+            "D": "Empathy"
+        },
+        "vikalpa": {
+            "A": "बोलना",
+            "B": "सुनना",
+            "C": "शारीरिक भाषा",
+            "D": "तदनुभूति"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "Which of the following is not a counseling skill?",
+        "prashna": "निम्नांकित में से कौन परामर्श कौशल नहीं है ?",
+        "options": {
+            "A": "Empathy",
+            "B": "Authenticity",
+            "C": "Positive regard",
+            "D": "Active listening"
+        },
+        "vikalpa": {
+            "A": "तदनुभूति",
+            "B": "प्रामाणिकता",
+            "C": "स्वीकारात्मक सम्मान",
+            "D": "सक्रिय सुनना"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "In counseling, the relationship is",
+        "prashna": "परामर्श में सम्बन्ध होता है।",
+        "options": {
+            "A": "Social",
+            "B": "Helping",
+            "C": "Objective",
+            "D": "Individualistic"
+        },
+        "vikalpa": {
+            "A": "सामाजिक",
+            "B": "सहायतापरक",
+            "C": "वस्तुपरक",
+            "D": "व्यक्तिपरक"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "Which of the following is not an element of attitude?",
+        "prashna": "निम्नांकित में से कौन मनोवृत्ति का तत्व नहीं है ?",
+        "options": {
+            "A": "Cognitive element",
+            "B": "Affective element",
+            "C": "Memory element",
+            "D": "Behavioral element"
+        },
+        "vikalpa": {
+            "A": "संज्ञानात्मक तत्व",
+            "B": "भावात्मक तत्व",
+            "C": "स्मृति तत्व",
+            "D": "व्यवहारपरक तत्व"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "Prejudice is a type of",
+        "prashna": "पूर्वाग्रह एक प्रकार है",
+        "options": {
+            "A": "Attitude",
+            "B": "Basic instinct",
+            "C": "Emotion",
+            "D": "Motivation"
+        },
+        "vikalpa": {
+            "A": "मनोवृत्ति का",
+            "B": "मूल प्रवृत्ति",
+            "C": "संवेग का",
+            "D": "प्रेरणा का"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "Which of the following is not a cause of social facilitation?",
+        "prashna": "निम्नांकित में से कौन सामाजिक सरलीकरण का कारण नहीं है ?",
+        "options": {
+            "A": "Arousal",
+            "B": "Evaluation apprehension",
+            "C": "Stereotype",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उत्तेजन",
+            "B": "मूल्यांकन आशंका",
+            "C": "रूढ़ियुक्ति",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "Who first introduced the concept of Stereotype?",
+        "prashna": "रूढ़ियुक्ति से सर्वप्रथम परिचित कराया",
+        "options": {
+            "A": "Thurstone",
+            "B": "Linton",
+            "C": "Walter Lippmann",
+            "D": "Allport"
+        },
+        "vikalpa": {
+            "A": "थर्स्टन ने",
+            "B": "लिंटन ने",
+            "C": "वाल्टर लिपमैन ने",
+            "D": "ऑलपोर्ट ने"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "Who propounded the concept of cognitive dissonance?",
+        "prashna": "संज्ञानात्मक असंवादिता संप्रत्यय का प्रतिपादन किसने किया था ?",
+        "options": {
+            "A": "Myers",
+            "B": "Festinger",
+            "C": "Heider",
+            "D": "Byrne"
+        },
+        "vikalpa": {
+            "A": "मायर्स",
+            "B": "फेस्टिंगर",
+            "C": "हाईडर",
+            "D": "बर्न"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "In the context of P-O-X triangle model, which statement is correct?",
+        "prashna": "पी-ओ-एक्स त्रिकोण मॉडल के संदर्भ में कौन-सा कथन सही है ?",
+        "options": {
+            "A": "There can be one person",
+            "B": "There can be two persons",
+            "C": "There can be three persons",
+            "D": "At least four persons are mandatory"
+        },
+        "vikalpa": {
+            "A": "एक व्यक्ति हो सकते हैं",
+            "B": "दो व्यक्ति हो सकते हैं",
+            "C": "तीन व्यक्ति हो सकते हैं",
+            "D": "कम-से-कम चार व्यक्ति अनिवार्य हैं"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "Which of the following is not an element of group structure?",
+        "prashna": "निम्नांकित में से कौन समूह संरचना का तत्व नहीं है ?",
+        "options": {
+            "A": "Role",
+            "B": "Norms",
+            "C": "Status",
+            "D": "Group think"
+        },
+        "vikalpa": {
+            "A": "भूमिका",
+            "B": "मानक",
+            "C": "पद",
+            "D": "समूह सोच"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Who created the topographical model of personality?",
+        "prashna": "व्यक्तित्व के आकारात्मक मॉडल का निर्माण किसने किया ?",
+        "options": {
+            "A": "Maslow",
+            "B": "Allport",
+            "C": "Rogers",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मस्लो",
+            "B": "आलपोर्ट",
+            "C": "रोजर्स",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "The concept of collective unconscious is called",
+        "prashna": "सामूहिक अचेतन की अवधारणा को कहा जाता है",
+        "options": {
+            "A": "Complex",
+            "B": "Archetypes",
+            "C": "Persona",
+            "D": "Compulsion"
+        },
+        "vikalpa": {
+            "A": "मनोग्रन्थि",
+            "B": "आद्य प्रारूप",
+            "C": "परसोना",
+            "D": "बाध्यता"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "How many statements are there in MMPI?",
+        "prashna": "एमएमपीआई में कितने कथन हैं?",
+        "options": {
+            "A": "314",
+            "B": "418",
+            "C": "550",
+            "D": "816"
+        },
+        "vikalpa": {
+            "A": "314",
+            "B": "418",
+            "C": "550",
+            "D": "816"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Who developed $16$ Pf?",
+        "prashna": "$16$ Pf को किसने विकसित किया ?",
+        "options": {
+            "A": "Allport",
+            "B": "Cattell",
+            "C": "Rogers",
+            "D": "Erikson"
+        },
+        "vikalpa": {
+            "A": "आलपोर्ट",
+            "B": "केटैल",
+            "C": "रोजर्स",
+            "D": "इरिक्सन"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Who is the pioneer of the trait approach of personality theory?",
+        "prashna": "व्यक्तित्व सिद्धान्त के शीलगुण उपागम का अग्रणी कौन है ?",
+        "options": {
+            "A": "Jung",
+            "B": "Allport",
+            "C": "Freud",
+            "D": "Sheldon"
+        },
+        "vikalpa": {
+            "A": "युंग",
+            "B": "आलपोर्ट",
+            "C": "फ्रायड",
+            "D": "शेल्डन"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Who are the creators of the Thematic Apperception Test?",
+        "prashna": "कथानक संप्रत्यक्षण परीक्षण के निर्माता कौन हैं ?",
+        "options": {
+            "A": "Morgan and Rosenzweig",
+            "B": "Murray and Morgan",
+            "C": "Rorschach and Murray",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मार्गन एवं रोजेनविग",
+            "B": "मरे एवं मार्गन",
+            "C": "रोशार्क एवं मरे",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Who is the father of the humanistic approach?",
+        "prashna": "मानवतावादी उपागम के जनक कौन हैं ?",
+        "options": {
+            "A": "Rogers",
+            "B": "Erich Fromm",
+            "C": "Maslow",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "रोजर्स",
+            "B": "इरिक फ्रोम",
+            "C": "मस्लो",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "Which is not a cause of group conflict?",
+        "prashna": "समूह संघर्ष का कारण कौन नहीं है ?",
+        "options": {
+            "A": "Lack of communication",
+            "B": "Relative deprivation",
+            "C": "Reward structure",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "संचार की कमी",
+            "B": "सापेक्ष वंचन",
+            "C": "पुरस्कार संरचना",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "chapter_name": "Psychology and Life",
+        "question": "Which of the following is not a cause of aggression?",
+        "prashna": "निम्नांकित में से कौन आक्रामकता का कारण नहीं है ?",
+        "options": {
+            "A": "Frustration",
+            "B": "Child rearing",
+            "C": "Modeling",
+            "D": "Behavioral medicine"
+        },
+        "vikalpa": {
+            "A": "कुंठा",
+            "B": "बच्चो का पालन-पोषण",
+            "C": "मॉडलिंग",
+            "D": "व्यवहारपरक औषध"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "chapter_name": "Psychology and Life",
+        "question": "To which category does an earthquake belong?",
+        "prashna": "भूकंप किस श्रेणी से संबंधित है ?",
+        "options": {
+            "A": "Social",
+            "B": "Political",
+            "C": "Natural",
+            "D": "Religious"
+        },
+        "vikalpa": {
+            "A": "सामाजिक",
+            "B": "राजनीतिक",
+            "C": "प्राकृतिक",
+            "D": "धार्मिक"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "Which of the following is an example of a primary group?",
+        "prashna": "निम्न में से कौन प्राथमिक समूह का उदाहरण है ?",
+        "options": {
+            "A": "Family",
+            "B": "Class",
+            "C": "Playground",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "परिवार",
+            "B": "वर्ग",
+            "C": "खेल का मैदान",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "Who classified groups into primary group and secondary group?",
+        "prashna": "किसने समूह का वर्गीकरण प्राथमिक समूह तथा द्वितीयक समूह में किया है ?",
+        "options": {
+            "A": "MacIver",
+            "B": "Allport",
+            "C": "W.G. Sumner",
+            "D": "Charles Cooley"
+        },
+        "vikalpa": {
+            "A": "मैकाइवर",
+            "B": "आलपोर्ट",
+            "C": "डब्ल्यू.जी.समनर",
+            "D": "चार्ल्स कूले"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "The most desirable condition for a reference group is",
+        "prashna": "एक सन्दर्भ समूह के लिए सर्वाधिक वांछित अवस्था है",
+        "options": {
+            "A": "Size of the group",
+            "B": "Influence of the group",
+            "C": "Membership of the group",
+            "D": "Identification with the group"
+        },
+        "vikalpa": {
+            "A": "समूह का आकार",
+            "B": "समूह का प्रभाव",
+            "C": "समूह की सदस्यता",
+            "D": "समूह के साथ सम्बद्धता"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "chapter_name": "Psychology and Life",
+        "question": "What is the measurement of noise pollution?",
+        "prashna": "ध्वनि प्रदूषण का मापन क्या है ?",
+        "options": {
+            "A": "Bel",
+            "B": "Microbel",
+            "C": "Decibel",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बेल",
+            "B": "माइक्रोबेल",
+            "C": "डेसिबेल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Reaction to external stressors is called",
+        "prashna": "बाहय आबेधक के प्रति प्रतिक्रिया को कहा जाता है",
+        "options": {
+            "A": "Adjustment",
+            "B": "Adaptation",
+            "C": "Burn-out",
+            "D": "Strain"
+        },
+        "vikalpa": {
+            "A": "समायोजन",
+            "B": "अनुकूलन",
+            "C": "बर्न-आउट",
+            "D": "खिंचाव"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "The propounder of the cognitive theory of stress is",
+        "prashna": "दबाव के संज्ञानात्मक सिद्धान्त के प्रतिपादक हैं",
+        "options": {
+            "A": "Lazarus",
+            "B": "Spearman",
+            "C": "Thurstone",
+            "D": "Thorndike"
+        },
+        "vikalpa": {
+            "A": "लेजारस",
+            "B": "स्पीयरमैन",
+            "C": "थर्स्टन",
+            "D": "थार्नडाइक"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Which of the following is social stress?",
+        "prashna": "निम्नलिखित में से कौन सामाजिक प्रतिबल है ?",
+        "options": {
+            "A": "Conflict",
+            "B": "Frustration",
+            "C": "Divorce",
+            "D": "Earthquake"
+        },
+        "vikalpa": {
+            "A": "द्वंद्व",
+            "B": "कुंठा",
+            "C": "विवाह विच्छेद",
+            "D": "भूकंप"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "The stages in General Adaptation Syndrome are",
+        "prashna": "सामान्य अनुकूलन संलक्षण में अवस्थाएँ हैं।",
+        "options": {
+            "A": "Five",
+            "B": "Three",
+            "C": "Four",
+            "D": "Two"
+        },
+        "vikalpa": {
+            "A": "पाँच",
+            "B": "तीन",
+            "C": "चार",
+            "D": "दो"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Negative aspect of stress is",
+        "prashna": "प्रतिबल का नकारात्मक पहलू है",
+        "options": {
+            "A": "Hyperstress",
+            "B": "Distress",
+            "C": "Eustress",
+            "D": "Hypostress"
+        },
+        "vikalpa": {
+            "A": "हाइपरस्ट्रेस",
+            "B": "डिस्ट्रेस",
+            "C": "यूस्ट्रेस",
+            "D": "हाइपोस्ट्रेस"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "How many types of bipolar disorder are there?",
+        "prashna": "द्विध्रुवीय मनोविकृति के कितने प्रकार हैं ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "chapter_name": "Psychological Disorders",
+        "question": "How many axes are there in DSM-IV RT?",
+        "prashna": "DSM-IV RT में कितने आयाम है ?",
+        "options": {
+            "A": "Five",
+            "B": "Six",
+            "C": "Four",
+            "D": "Seven"
+        },
+        "vikalpa": {
+            "A": "पाँच",
+            "B": "छः",
+            "C": "चार",
+            "D": "सात"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "According to Thurstone, how many mental abilities of intelligence are there?",
+        "prashna": "थर्स्टन के अनुसार बुद्धि की कितनी मानसिक योग्यताएँ हैं ?",
+        "options": {
+            "A": "7",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "7",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "According to Gardner, which of the following is not considered a type of intelligence?",
+        "prashna": "गार्डनर के अनुसार निम्नांकित में से किस बुद्धि का एक प्रकार नहीं माना गया है?",
+        "options": {
+            "A": "G-factor",
+            "B": "Spatial",
+            "C": "Logical-Mathematical",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जी-कारक को",
+            "B": "स्थानिक को",
+            "C": "तार्किक गणितीय को",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "People whose IQ is between $90$ to $100$ are called",
+        "prashna": "जिन व्यक्तियों की बुद्धि लब्धि $90$ से $100$ के बीच होती है, उन्हें कहते हैं",
+        "options": {
+            "A": "Moron",
+            "B": "Gifted",
+            "C": "Dull",
+            "D": "Average"
+        },
+        "vikalpa": {
+            "A": "मूढ़ बुद्धि",
+            "B": "प्रतिभाशाली",
+            "C": "मंद",
+            "D": "औसत"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Which of the following will not be considered a type of self?",
+        "prashna": "निम्नलिखित में से किसे स्व का प्रकार नहीं माना जाएगा ?",
+        "options": {
+            "A": "Identity self",
+            "B": "Self-esteem",
+            "C": "Personal self",
+            "D": "Relational self"
+        },
+        "vikalpa": {
+            "A": "पहचान स्व",
+            "B": "आत्म सम्मान",
+            "C": "व्यक्तिगत स्व",
+            "D": "संबंधात्मक स्व"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Which of the following is a personal trait?",
+        "prashna": "निम्नलिखित में से कौन व्यक्तिगत शीलगुण है ?",
+        "options": {
+            "A": "Dominance",
+            "B": "Motivation",
+            "C": "Emotion",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रभुत्व",
+            "B": "अभिप्रेरण",
+            "C": "संवेग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Which of the following is guided by the pleasure principle?",
+        "prashna": "निम्नलिखित में से कौन आनंद नियम से निर्देशित होता है ?",
+        "options": {
+            "A": "Id",
+            "B": "Superego",
+            "C": "Ego",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उपांहु",
+            "B": "पराहं",
+            "C": "अहं",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "chapter_name": "Self and Personality",
+        "question": "Which model was propounded by Freud?",
+        "prashna": "फ्रायड ने किस मॉडल का प्रतिपादन किया ?",
+        "options": {
+            "A": "Cognitive model",
+            "B": "Behaviorist model",
+            "C": "Psychodynamic model",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संज्ञानात्मक मॉडल",
+            "B": "व्यवहारवादी मॉडल",
+            "C": "मनोगत्यात्मक मॉडल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "State the meaning of schema.",
+        "prashna": "स्कीमा का अर्थ बताएँ।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter_name": "Attitude and Social Cognition",
+        "question": "What are the characteristics of pro-social behavior?",
+        "prashna": "प्रसामाजिक व्यवहार की विशेषताएँ क्या हैं ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter_name": "Psychology and Life",
+        "question": "Define environmental psychology.",
+        "prashna": "पर्यावरणीय मनोविज्ञान को परिभाषित करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "State the meaning of counseling skill.",
+        "prashna": "परामर्श कौशल का अर्थ बताएँ।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "Define group.",
+        "prashna": "समूह की परिभाषा दें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "What do you understand by in-group?",
+        "prashna": "अंतः समूह से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter_name": "Psychological Disorders",
+        "question": "What is Bulimia Nervosa?",
+        "prashna": "बुलिमिया नरवोसा क्या है ?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter_name": "Psychological Disorders",
+        "question": "State the meaning of mania.",
+        "prashna": "उन्माद का अर्थ बताएँ।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Define stress.",
+        "prashna": "दबाव की परिभाषा दें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "What is General Adaptation Syndrome?",
+        "prashna": "सामान्य अनुकूलन संलक्षण क्या है ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter_name": "Psychological Disorders",
+        "question": "What is delusion?",
+        "prashna": "व्यामोह क्या है ?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "What is intelligence?",
+        "prashna": "बुद्धि क्या है ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter_name": "Developing Psychological Skills",
+        "question": "State the meaning of interview.",
+        "prashna": "साक्षात्कार का अर्थ बताएं।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter_name": "Self and Personality",
+        "question": "What do you understand by self-concept?",
+        "prashna": "आत्म संप्रत्यय से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter_name": "Self and Personality",
+        "question": "Define personality.",
+        "prashna": "व्यक्तित्व की परिभाषा दें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "What do you understand by adaptive behavior?",
+        "prashna": "समायोजी व्यवहार से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "chapter_name": "Psychological Disorders",
+        "question": "What do you understand by anxiety?",
+        "prashna": "दुश्चिता से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "chapter_name": "Variations in Psychological Attributes",
+        "question": "State the meaning of emotional intelligence.",
+        "prashna": "सांवेगिक बुद्धि का अर्थ बताएँ।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "chapter_name": "Self and Personality",
+        "question": "What do you understand by self-esteem?",
+        "prashna": "आत्म-सम्मान से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter_name": "Self and Personality",
+        "question": "What do you understand by self? Describe the various types of self.",
+        "prashna": "स्व से आप क्या समझते हैं? स्व के विभिन्न प्रकारों का वर्णन करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter_name": "Self and Personality",
+        "question": "Briefly describe the trait approach to personality.",
+        "prashna": "व्यक्तित्व के शीलगुण उपागम का संक्षिप्त वर्णन करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter_name": "Meeting Life Challenges",
+        "question": "Describe the main sources of stress.",
+        "prashna": "दबाव के मुख्य स्रोतों का वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter_name": "Psychological Disorders",
+        "question": "State the symptoms of the main types of phobia.",
+        "prashna": "दुर्भीति के प्रमुख प्रकारों के लक्षण बताएँ।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "chapter_name": "Psychology and Life",
+        "question": "Describe the effects of television on human behavior.",
+        "prashna": "दूरदर्शन से मानव व्यवहार पर होनेवाले प्रभावों का वर्णन करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "chapter_name": "Social Influence and Group Processes",
+        "question": "Describe the various types of group.",
+        "prashna": "समूह के विभिन्न प्रकारों का वर्णन करें।"
+    }
+]

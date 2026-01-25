@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Educational Psychology is :",
+        "prashna": "शिक्षा मनोविज्ञान है :",
+        "options": {
+            "A": "Theoretical Psychology",
+            "B": "Applied Psychology",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सैद्धान्तिक मनोविज्ञान",
+            "B": "व्यवहारिक मनोविज्ञान",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Who is the author of book \"Exceptional Children\"?",
+        "prashna": "‘एक्सेपशनल चिल्ड्रेन’ पुस्तक के लेखक कौन हैं ?",
+        "options": {
+            "A": "Orlansky",
+            "B": "Freud",
+            "C": "Sheldon",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "औरलैन्सकी",
+            "B": "फ्रायड",
+            "C": "शेल्डन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which of the following component is not in the motivational cycle?",
+        "prashna": "निम्न में से कौन-सा तत्व अभिप्रेरक चक्र में नहीं है ?",
+        "options": {
+            "A": "Need",
+            "B": "Tension",
+            "C": "Drive",
+            "D": "Incentive"
+        },
+        "vikalpa": {
+            "A": "आवश्यकता",
+            "B": "तनाव",
+            "C": "अर्न्तनोद",
+            "D": "प्रोत्साहन"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Physically handicapped children should be given -",
+        "prashna": "शारीरिक विकलांग बच्चों को देना चाहिए –",
+        "options": {
+            "A": "General education",
+            "B": "Special education",
+            "C": "Mixture of both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सामान्य शिक्षा",
+            "B": "विशिष्ट शिक्षा",
+            "C": "दोनो का मिश्रण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which one of the following is not Sheldon's personality type?",
+        "prashna": "निम्नलिखित में से कौन शेल्डन के व्यक्तित्व प्रकार नहीं है ?",
+        "options": {
+            "A": "Ectomorphy type",
+            "B": "Mesomorphy type",
+            "C": "Endomorphy type",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "लम्बकार प्रकार",
+            "B": "आयताकार प्रकार",
+            "C": "गोलाकार प्रकार",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "In which stage 'Oedipus complex' is experienced?",
+        "prashna": "किस अवस्था में ‘मातृप्रेम ग्रन्थि’ का अनुभव होता है ?",
+        "options": {
+            "A": "Oral stage",
+            "B": "Genital stage",
+            "C": "Phallic stage",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मुखावस्था में",
+            "B": "जननेन्द्रिय अवस्था में",
+            "C": "लिंग प्रधान अवस्था में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Who developed Ink Blot Test ?",
+        "prashna": "स्याही धब्बा परीक्षण किसने विकसित किया ?",
+        "options": {
+            "A": "Henry Murray",
+            "B": "Herman Rorschach",
+            "C": "Adler",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "हेनरी मरे",
+            "B": "हरमन रोशार्क",
+            "C": "एडलर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Who proposed the Introversion- Extroversion dimension of personality?",
+        "prashna": "व्यक्तित्व के अन्तर्मुखता–बहिर्मुखता आयम का प्रतिपादन किसने किया ?",
+        "options": {
+            "A": "Jung",
+            "B": "Eysenck",
+            "C": "Cattell",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "युंग",
+            "B": "आइजेंक",
+            "C": "कैटेल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Who said, “Self is the way in which he sees himself”?",
+        "prashna": "किसने कहा, “व्यक्ति जिस रुप में अपने आप को देखता है, वही उसकी आत्म है” ?",
+        "options": {
+            "A": "Deniel Goleman",
+            "B": "Mayer",
+            "C": "Kretch & Crutchfield",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "डेनियल गोलमैन",
+            "B": "मेयर",
+            "C": "क्रेच और क्रचफील्ड",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Who has propounded Self theory of personality?",
+        "prashna": "व्यक्तित्व का आत्म सिद्धान्त किसने प्रतिपादित किया ?",
+        "options": {
+            "A": "Rogers",
+            "B": "Marlow",
+            "C": "Allport",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "रोजर्स",
+            "B": "मास्लो",
+            "C": "आलपोर्ट",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Who has propounded the Concept of General Adaptation Syndrome?",
+        "prashna": "सामान्य अनुकूलन संलक्षण के संप्रत्यय का प्रतिपादन किसने किया ?",
+        "options": {
+            "A": "Holmes",
+            "B": "Hans Selye",
+            "C": "Lazarus",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "होल्मस",
+            "B": "हंस सेली",
+            "C": "लेजारस",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "What is the other name of positive stress?",
+        "prashna": "स्वीकारात्मक तनाव का दूसरा नाम क्या है ?",
+        "options": {
+            "A": "Eustress",
+            "B": "Distress",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "यूस्ट्रेंस",
+            "B": "डिस्र्टेंस",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The stress which we produce in our self is called, -",
+        "prashna": "वे दबाव जिन्हें हम अपने मन में उत्पन्न करते हैं, उन्हें कहा जाता है –",
+        "options": {
+            "A": "Environmental stress",
+            "B": "Psychological stress",
+            "C": "Physical stress",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पर्यावरणीय दबाव",
+            "B": "मनोवैज्ञानिक दबाव",
+            "C": "भौतिक दबाव",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following is social stress?",
+        "prashna": "निम्नलिखित में से कौन सामाजिक तनाव है ?",
+        "options": {
+            "A": "Flood",
+            "B": "Earthquake",
+            "C": "Divorce",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बाढ़",
+            "B": "भूकंप",
+            "C": "विवाह–विच्छेद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Whose study supports that unmanaged work produces stress?",
+        "prashna": "अप्रबंधित कार्य में तनाव उत्पन्न करता है, इसकी पुष्टि निम्नांकित में किनके अध्ययनों से होती है ?",
+        "options": {
+            "A": "Rice",
+            "B": "Rogers",
+            "C": "Harlow",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "राईस",
+            "B": "रोजर्स",
+            "C": "हारलो",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "What is the first stage of General Adaptation Syndrome?",
+        "prashna": "सामान्य अनुकूलन संलक्षण की प्रथम अवस्था क्या है ?",
+        "options": {
+            "A": "Stage of exhaustion",
+            "B": "stage of resistance",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "परिश्रांति की अवस्था",
+            "B": "प्रतिरोध की अवस्था",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Who is the father of modern Psychiatry?",
+        "prashna": "आधुनिक मनोरोगविज्ञान के जनक कौन हैं ?",
+        "options": {
+            "A": "Phillppe Pinel",
+            "B": "Sheldon",
+            "C": "Binet",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फिलिप पिनेल",
+            "B": "शेल्डन",
+            "C": "बिने",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Who is the author of famous book ‘The interpretation of dream’?",
+        "prashna": "प्रसिद्ध पुस्तक ‘दी इन्टरप्रेटेशन ऑफ ड्रीम’ के लेखक कौन हैं ?",
+        "options": {
+            "A": "Freud",
+            "B": "Jung",
+            "C": "Watson",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फ्रायड",
+            "B": "पुंग",
+            "C": "वाटसन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following is a characteristic of abnormal behaviour?",
+        "prashna": "निम्नलिखित में से कौन असामान्य व्यवहार की विशेषता है ?",
+        "options": {
+            "A": "Mental imbalance",
+            "B": "Disorganized personality",
+            "C": "Poor adjustment",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "मानसिक असंतुलन",
+            "B": "विघटित व्यक्तित्व",
+            "C": "अपर्याप्त समायोजन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "What is the other name of Depressive disorder?",
+        "prashna": "विषादी विकार को अन्य किस नाम से जाना जाता है ?",
+        "options": {
+            "A": "Unipolar disorder",
+            "B": "Bipolar disorder",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एक ध्रुवीय विकार",
+            "B": "द्विध्रुवीय विकार",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "What is called the irrational fear from dog?",
+        "prashna": "कुत्ता से अयुक्तिसंगत भय को क्या कहते हैं ?",
+        "options": {
+            "A": "Ailurophobia",
+            "B": "Cynophobia",
+            "C": "Insectophobia",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एल्यूरोफोबिया",
+            "B": "साइनोफोबिया",
+            "C": "इन्सेक्टोफोबिया",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Cause of post-traumatic stress disorder is. -",
+        "prashna": "उत्तर अभिघातज तनाव विकार का करण है, –",
+        "options": {
+            "A": "Flood",
+            "B": "Cyclone",
+            "C": "Earthquake",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "बाढ़",
+            "B": "चक्रवात",
+            "C": "भूकंप",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "The purpose of psychotherapy is -",
+        "prashna": "मनोचिकित्सा का उद्देश्य है –",
+        "options": {
+            "A": "Constructive adjustment",
+            "B": "To assist in the improvement of lifestyle",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "रचनात्मक समायोजन",
+            "B": "जीवन शैली के सुधार में सहायता करना",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Who was the propounder of Electro-shock therapy?",
+        "prashna": "विद्युत–आघात चिकित्सा के प्रतिपादक कौन थें ?",
+        "options": {
+            "A": "Cerlelli and Bini",
+            "B": "Perlis",
+            "C": "Monitz",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सरलेठी तथा बिनी",
+            "B": "पल्से",
+            "C": "मोनिज",
+            "D": "इनमें से काई नहीं"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Which therapy was propounded by Jung?",
+        "prashna": "युंग द्वारा किस चिकित्सा का प्रतिपादन हुआ ?",
+        "options": {
+            "A": "Analytical therapy",
+            "B": "Behaviour therapy",
+            "C": "Cognitive therapy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "विश्लेषणात्मक चिकित्सा",
+            "B": "व्यवहार चिकित्सा",
+            "C": "संज्ञानात्मक चिकित्सा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "What is the practice of breathing called in yoga?",
+        "prashna": "श्वसन अभ्यास को योग में क्या कहा जाता है ?",
+        "options": {
+            "A": "Asana",
+            "B": "Meditation",
+            "C": "Pranayama",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आसन",
+            "B": "ध्यान",
+            "C": "प्राणायाम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which technique is used by Bandura to remove phobia?",
+        "prashna": "बैण्डुरा ने दुर्भीति को दूर करने के लिए किस प्रविधि को उपयोग किया है ?",
+        "options": {
+            "A": "Modelling",
+            "B": "Aversive Conditioning",
+            "C": "Systematic desensitization",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मॉडलिंग",
+            "B": "विरुचि अनुबंध",
+            "C": "क्रमबद्ध असंवेदीकरण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Attitude is -",
+        "prashna": "मनोवृत्ति है –",
+        "options": {
+            "A": "Inherited",
+            "B": "Acquired",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वंशगत",
+            "B": "अर्जित",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Leon Festinger is related to which field?",
+        "prashna": "लियॉन फेस्टिंगर किस क्षेत्र से संबंधित हैं ?",
+        "options": {
+            "A": "Emotion",
+            "B": "Attitude change",
+            "C": "Stress",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संवेग",
+            "B": "मनोवृत्ति परिवर्तन",
+            "C": "तनाव",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Which one is a characteristic of stereotypes?",
+        "prashna": "निम्न में से कौन रूढ़ियुक्तियों की एक विशेषता है ?",
+        "options": {
+            "A": "Mental picture",
+            "B": "Widely agreed belief",
+            "C": "Relatively stable",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "मानसिक प्रतिमा",
+            "B": "पूर्ण सम्मत विश्वास",
+            "C": "अपेक्षाकृत स्थिर",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Which of the following is an ingredient of attitude?",
+        "prashna": "निम्नलिखित में से कौन मनोवृत्ति के संघटक हैं ?",
+        "options": {
+            "A": "Cognitive",
+            "B": "Affective",
+            "C": "Behavioural",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "संज्ञानात्मक",
+            "B": "भावात्मक",
+            "C": "व्यवहारात्मक",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "In Fritz Heider's $P-O-x$ model 'o' represents-",
+        "prashna": "फ्रिट्ज हाइडर के $P-O-x$ मॉडल में ‘O’ प्रतिनिधित्व करता है, –",
+        "options": {
+            "A": "Person",
+            "B": "Other Person",
+            "C": "Any object",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "व्यक्ति",
+            "B": "अन्य व्यक्ति",
+            "C": "कोई वस्तु",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Thurston scale is,",
+        "prashna": "थर्सटन मापनी विधि है –",
+        "options": {
+            "A": "5 Point scale",
+            "B": "7 Point scale",
+            "C": "11 Point scale",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "5 बिन्दु स्केल",
+            "B": "7 बिन्दु स्केल",
+            "C": "11 बिन्दु स्केल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Who introduced primary group?",
+        "prashna": "प्राथमिक समूह को किसने प्रस्तुत किया ?",
+        "options": {
+            "A": "Sumner",
+            "B": "Charles Cooley",
+            "C": "Kurt Lewin",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "समनर",
+            "B": "चार्ल्स कूले",
+            "C": "कर्ट लेविन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "What is the minimum number required for the composition of a social group?",
+        "prashna": "एक सामाजिक समूह की संरचना के लिए कम से कम कितने सदस्यों की आवश्यकता होती है ?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "इनमें से कोई नही"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Crowd behaviour is-",
+        "prashna": "भीड़ का व्यवहार है –",
+        "options": {
+            "A": "Irrational",
+            "B": "Rational",
+            "C": "Logical",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अविवेकी",
+            "B": "विवेकपूर्ण",
+            "C": "तर्कपूर्ण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which of the following is not a secondary group?",
+        "prashna": "निम्न में से कौन द्वितीयक समूह नहीं है ?",
+        "options": {
+            "A": "Political party",
+            "B": "Family",
+            "C": "Industrial organization",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "राजनैतिक दल",
+            "B": "परिवार",
+            "C": "औद्योगिक संगठन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "A Bandwagon effect is the cause of which?",
+        "prashna": "बैडवैगन प्रभाव किसका एक कारण है ?",
+        "options": {
+            "A": "Group polarisation",
+            "B": "Group Cohesiveness",
+            "C": "Group norm",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "समूह ध्रुवीकरण",
+            "B": "समूह एकाग्रता",
+            "C": "समूह मानक",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Ingratiation, Reciprocity, and Multiple request are techniques of -",
+        "prashna": "चाटुकारिता, पारस्परिकता तथा बहु अनुरोध प्रविधियाँ हैं, –",
+        "options": {
+            "A": "Conformity",
+            "B": "Compliance",
+            "C": "Obedience",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अनुरूपता",
+            "B": "अनुपालन",
+            "C": "आज्ञापालन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following is a cause of group Conflict?",
+        "prashna": "निम्नलिखित में से कौन समूह संघर्ष का कारण है ?",
+        "options": {
+            "A": "Feeling of insecurity",
+            "B": "Frustration",
+            "C": "Destructive instinct",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "असुरक्षा का भाव",
+            "B": "कुंठा",
+            "C": "ध्वंसात्मक प्रवृति",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Who propounded Insight theory of aggression?",
+        "prashna": "आक्रमण के मूल प्रवृति सिद्धान्त का प्रतिपादन किसने किया ?",
+        "options": {
+            "A": "Dollard",
+            "B": "Freud",
+            "C": "Bandura",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "डोलार्ड",
+            "B": "फ्रायड",
+            "C": "बन्डूरा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which of the following divas is celebrated on 5th June?",
+        "prashna": "5 जून को निम्नांकित में से कौन दिवस मनाया जाता है ?",
+        "options": {
+            "A": "World Literacy Day",
+            "B": "World environment day",
+            "C": "World AIDS Day",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "विश्व साक्षरता दिवस",
+            "B": "विश्व पर्यावरण दिवस",
+            "C": "विश्व एड्स दिवस",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "What is the measurement of sound?",
+        "prashna": "ध्वनि प्रदूषण का मापन क्या है ?",
+        "options": {
+            "A": "Bel",
+            "B": "Microbel",
+            "C": "Decibel",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बेल",
+            "B": "माइक्रोबेल",
+            "C": "डेसिबेल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Which type of disaster is earthquake?",
+        "prashna": "भूकंप किस प्रकार की आपदा है ?",
+        "options": {
+            "A": "Political",
+            "B": "Natural",
+            "C": "Religion",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "राजनैतिक",
+            "B": "प्राकृतिक",
+            "C": "धार्मिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Where Madhav National Park is located?",
+        "prashna": "माधव राष्ट्रीय उद्यान कहाँ स्थित है ?",
+        "options": {
+            "A": "Bihar",
+            "B": "Madhya Pradesh",
+            "C": "Uttar Pradesh",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बिहार",
+            "B": "मध्य प्रदेश",
+            "C": "उत्तर प्रदेश",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "The harmful effect of the Sun's ultraviolet rays is -",
+        "prashna": "सूर्य की पराबैंगनी किरणों का दुष्परिणाम है, –",
+        "options": {
+            "A": "Infantile deformities",
+            "B": "Burning of skin",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "शिशु विकृतियाँ",
+            "B": "चमड़ी का जलना",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Who is the propounder of the Concept Eros' and Thanatos?",
+        "prashna": "‘इरोस’ तथा ‘थेनेटोस’ संप्रत्यय के प्रतिपादक कौन हैं ?",
+        "options": {
+            "A": "Freud",
+            "B": "Jung",
+            "C": "Adler",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फ्रायड",
+            "B": "पुंग",
+            "C": "एडलर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Which of the following is a cause of emergence of leadership?",
+        "prashna": "निम्नलिखित में से कौन नेतृत्व के उद्भव के कारण है ?",
+        "options": {
+            "A": "Group Complexity",
+            "B": "Group Crises",
+            "C": "Group instability",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "समूह की जटिलता",
+            "B": "समूह संकट",
+            "C": "समूह अस्थिरता",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "According to Bogardus how many types of leaders?",
+        "prashna": "बोगार्डिस के अनुसार नेता के कितने प्रकार हैं ?",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "8",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "5",
+            "C": "8",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "In Comparison with Authoritarian leader the Democratic leader is more -",
+        "prashna": "सत्तावादी नेता की तुलना में प्रजातांत्रिक नेता अधिक होता है, –",
+        "options": {
+            "A": "Task Oriented",
+            "B": "Member Oriented",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "कार्य उन्मुखी",
+            "B": "सदस्य उन्मुखी",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Generally, the IQ of mentally deficient children is -",
+        "prashna": "सामान्यतः मानसिक रूप से मंदित बच्चों की बुद्धि लब्धि होती है –",
+        "options": {
+            "A": "Above 100",
+            "B": "Below 70",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "100 से ऊपर",
+            "B": "70 से नीचे",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Who said, \"Learning process will proceed best if motivated\"?",
+        "prashna": "किसने कहा “सीखने की प्रक्रिया अच्छी तरह तभी होगी जबकि अभिप्रेरक हो” ?",
+        "options": {
+            "A": "Anderson",
+            "B": "Adler",
+            "C": "Jung",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एण्डरसन",
+            "B": "एडलर",
+            "C": "युंग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Who propounded ‘type-c’ personality?",
+        "prashna": "‘टाईप–सी’ व्यक्तित्व का प्रतिपादन किसने किया ?",
+        "options": {
+            "A": "Morris",
+            "B": "Rosenman",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मोरिस",
+            "B": "रोजेनमैन",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "According to Eysenck, \" what is another pole of emotional stability\"?",
+        "prashna": "आइजेंक के अनुसार सांवेगिक स्थिरता का दूसरा ध्रुव क्या है ?",
+        "options": {
+            "A": "Introversion",
+            "B": "Extroversion",
+            "C": "Neuroticism",
+            "D": "Psychoticism"
+        },
+        "vikalpa": {
+            "A": "मोरिस",
+            "B": "रोजेनमैन",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Topographical aspect of mind is -",
+        "prashna": "मन के आकारात्मक पहलू हैं, –",
+        "options": {
+            "A": "Unconscious",
+            "B": "Subconscious",
+            "C": "Conscious",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अचेतन",
+            "B": "अर्धचेतन",
+            "C": "चेतन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "What is measured by MMPI?",
+        "prashna": "एम०एम०पी० आई० से किसका मापन होता है ?",
+        "options": {
+            "A": "Personality",
+            "B": "Intelligence",
+            "C": "Adjustment",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "व्यक्तित्व का",
+            "B": "बुद्धि का",
+            "C": "समायोजन का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "‘Grapes are sour’ is the example of which defence mechanism?",
+        "prashna": "‘अंगुर खट्टे हैं’ यह किस रक्षा प्रक्रम का उदाहरण है ?",
+        "options": {
+            "A": "Repression",
+            "B": "Reaction formation",
+            "C": "Projection",
+            "D": "Rationalization"
+        },
+        "vikalpa": {
+            "A": "दमन",
+            "B": "प्रतिक्रिया निर्माण",
+            "C": "प्रक्षेपण",
+            "D": "यौक्तिकीकरण"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "What is called the irrational fear from height?",
+        "prashna": "ऊँचाई से अयुक्तिसंगत भय को क्या कहते हैं ?",
+        "options": {
+            "A": "Brontophobia",
+            "B": "Acrophobia",
+            "C": "Aerophobia",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ब्रोन्टोफोबिया",
+            "B": "एक्रोफोबिया",
+            "C": "एरोफोबिया",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Normal and abnormal differ in",
+        "prashna": "सामान्य और असामान्य के बीच अन्तर होता है, –",
+        "options": {
+            "A": "Degree",
+            "B": "Kind",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मात्रा का",
+            "B": "प्रकार का",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Repeating word or phrase very frequently is symptom of -",
+        "prashna": "बार–बार शब्द या वाक्यांश को दोहराना लक्षण है, –",
+        "options": {
+            "A": "Obsessive Compulsive neurosis",
+            "B": "Hysteria",
+            "C": "Schizophrenia",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मनोग्रस्तता–बाध्यता स्नायु विकृति",
+            "B": "हिस्टीरिया",
+            "C": "मनोविदलता",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Aphonia and mutism are symptoms of -",
+        "prashna": "एफोनिया एवं मुटिज्म लक्षण हैं –",
+        "options": {
+            "A": "Compulsion",
+            "B": "Paranoia",
+            "C": "Conversion hysteria",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बाध्यता के",
+            "B": "स्थिर व्यामोह के",
+            "C": "रूपान्तर हिस्टीरिया के",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "Who propounded the term manic-depressive psychosis?",
+        "prashna": "उत्साह विषाद मनोविकृति पद का प्रतिपादन किसने किया ?",
+        "options": {
+            "A": "Brown",
+            "B": "Kraeplin",
+            "C": "Freud",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ब्राउन",
+            "B": "क्रेपलिन",
+            "C": "फ्रायड",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Which of the following is a mental disorder?",
+        "prashna": "निम्नांकित में से कौन मानसिक विकृति है ?",
+        "options": {
+            "A": "Mental retardation",
+            "B": "Bipolar disorder",
+            "C": "Organic brain disorder",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "मानसिक दुर्बलता",
+            "B": "द्विध्रुवीय विकार",
+            "C": "कायिक मस्तिष्क विकृति",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Who propounded Gestalt therapy?",
+        "prashna": "गेस्टाल्ट चिकित्सा को किसने प्रतिपादित किया ?",
+        "options": {
+            "A": "Bandura",
+            "B": "Fritz Perls",
+            "C": "Beck",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बैण्डुरा",
+            "B": "फ्रित्स पर्ल्स",
+            "C": "बेक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Principles of learning are used in -",
+        "prashna": "सीखने के सिद्धान्त का प्रयोग होता है, –",
+        "options": {
+            "A": "In Psychoanalytic therapy",
+            "B": "In Behaviour therapy",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मनोविश्लेषण चिकित्सा में",
+            "B": "व्यवहार चिकित्सा में",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "What is the other name of Cognitive-behaviour therapy?",
+        "prashna": "संज्ञानात्मक व्यवहार चिकित्सा का दूसरा नाम क्या है ?",
+        "options": {
+            "A": "Behaviour therapy",
+            "B": "Cognitive therapy",
+            "C": "(A) and (B) both",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "व्यवहार चिकित्सा",
+            "B": "संज्ञानात्मक चिकित्सा",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "The one who take help in a counselling is called, -",
+        "prashna": "परामर्श में सहायता प्राप्त करनेवाले को कहा जाता है, –",
+        "options": {
+            "A": "Counselee",
+            "B": "Counsellor",
+            "C": "Doctor",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "परामर्शी",
+            "B": "परामर्शदाता",
+            "C": "चिकित्सक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "Which of the following is not Counselling skill?",
+        "prashna": "निम्नांकित में से कौन परामर्श कौशल नहीं है ?",
+        "options": {
+            "A": "Positive regard",
+            "B": "Emphasis",
+            "C": "Communication",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "स्वीकारात्मक सम्मान",
+            "B": "तदनुभूति",
+            "C": "संप्रेषण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Which of the following is an example of non-verbal Communication?",
+        "prashna": "निम्नांकित में से कौन सा अशाब्दिक संचार का उदाहरण है ?",
+        "options": {
+            "A": "Speaking on the phone",
+            "B": "E-mail",
+            "C": "Text message",
+            "D": "Nodding to indicate agreement"
+        },
+        "vikalpa": {
+            "A": "फोन पर बात करना",
+            "B": "ईमेल",
+            "C": "टेक्स्ट संदेश",
+            "D": "सहमति दर्शाने के लिए सिर हिलाना"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which is not the counselling related essential element?",
+        "prashna": "परामर्श संबंधी आवश्यक तत्व कौन नहीं है ?",
+        "options": {
+            "A": "Confidentiality",
+            "B": "Co-operation",
+            "C": "Collectivity",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "गोपनीयता",
+            "B": "सहयोग",
+            "C": "सामूहिकता",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is educational psychology?",
+        "prashna": "शिक्षा मनोविज्ञान किसे कहते हैं ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Point out any two causes of indiscipline.",
+        "prashna": "अनुशासनहीनता के दो कारणों का उल्लेख करें"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is personality?",
+        "prashna": "व्यक्तित्व क्या है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What are the characteristics of Superego?",
+        "prashna": "पराहं की क्या विशेषताएँ हैं ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Describe introvert type of personality.",
+        "prashna": "अन्तर्मुखी प्रकार के व्यक्तित्व का वर्णन करें"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is stress?",
+        "prashna": "तनाव किसे कहते हैं ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Write any two measures of reducing stress.",
+        "prashna": "प्रतिबल को दूर करने के किन्हीं दो उपायों को लिखें ?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is agora phobia?",
+        "prashna": "एगोरा दुर्भीति किसे कहते हैं ?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Name the main types of anxiety disorder.",
+        "prashna": "दुश्चिंता मनोविकार के मुख्य प्रकारों के नाम बताएँ।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What is Autism?",
+        "prashna": "ऑटिज्म क्या है ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is drug therapy?",
+        "prashna": "औषध चिकित्सा क्या है ?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "What are the types of Psychotherapy?",
+        "prashna": "मनोचिकित्सा के प्रकार कौन–कौन से हैं ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What is yoga?",
+        "prashna": "योग क्या है ?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Define prejudice.",
+        "prashna": "पूर्वधारणा को परिभाषित करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What do you mean by affective ingredients of attitude?",
+        "prashna": "मनोवृत्ति के भावात्मक संघटक से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What is counselling?",
+        "prashna": "परामर्श क्या है ?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What is interview skill?",
+        "prashna": "साक्षात्कार कौशल क्या है ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What is waste management?",
+        "prashna": "अवशिष्ट प्रबंधन क्या है ?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What is formal group?",
+        "prashna": "औपचारिक समूह क्या है ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Define leadership.",
+        "prashna": "नेतृत्व को परिभाषित करें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Describe the main function of a leader.",
+        "prashna": "एक नेता के मुख्य कार्यों का वर्णन करें"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Suggest a suitable programme for mentally retarded children.",
+        "prashna": "मन्दबुद्धि बालकों की शिक्षा–व्यवस्था के लिए एक कार्यक्रम प्रस्तुत करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Describe Kretschmer's personality type.",
+        "prashna": "क्रेुशमर के व्यक्तित्व प्रकारों का वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Describe the causes of mood disorder.",
+        "prashna": "मनोदशा विकार के कारणों का वर्णन करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Describe the ethics of Counselling.",
+        "prashna": "परामर्श की नैतिकता का वर्णन करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Describe the social factors of formation of attitude.",
+        "prashna": "मनोवृत्ति निर्माण के सामाजिक कारकों का वर्णन करें।"
+    }
+]
