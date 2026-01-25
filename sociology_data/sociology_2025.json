@@ -1,0 +1,2030 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Who is the author of the book ‘Indian Society’?",
+        "prashna": "‘इंडियन सोसाइटी’ पुस्तक के लेखक कौन हैं?",
+        "options": {
+            "A": "S.C. Dube",
+            "B": "M.N. Srinivas",
+            "C": "Hetukar Jha",
+            "D": "Sachchidanand"
+        },
+        "vikalpa": {
+            "A": "एस.सी. दुबे",
+            "B": "एम.एन. श्रीनिवास",
+            "C": "हेतुकर झा",
+            "D": "सच्चिदानंद"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "From which language has the term ‘Sociology’ been derived?",
+        "prashna": "‘सोशियोलॉजी’ शब्दावली की उत्पत्ति किस भाषा से हुई है?",
+        "options": {
+            "A": "Latin and French",
+            "B": "Latin",
+            "C": "Latin and Greek",
+            "D": "Greek"
+        },
+        "vikalpa": {
+            "A": "लैटिन और फ्रेंच",
+            "B": "लैटिन",
+            "C": "लैटिन और ग्रीक",
+            "D": "ग्रीक"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which among the following is the aim of Hindu marriage?",
+        "prashna": "निम्न में से कौन हिंदू विवाह का उद्देश्य है?",
+        "options": {
+            "A": "Religious duty",
+            "B": "Progeny",
+            "C": "Sexual relation",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "धार्मिक कर्तव्य",
+            "B": "पुत्र प्राप्ति",
+            "C": "रति",
+            "D": "उपर्युक्त सभी"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "What is Muslim marriage?",
+        "prashna": "मुस्लिम विवाह क्या है?",
+        "options": {
+            "A": "Contract",
+            "B": "Sacrament",
+            "C": "Friendship",
+            "D": "Strong bond"
+        },
+        "vikalpa": {
+            "A": "समझौता",
+            "B": "संस्कार",
+            "C": "मित्रता",
+            "D": "मजबूत रिश्ता"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "How many categories of kinship are there?",
+        "prashna": "नातेदारी की कितनी श्रेणियाँ होती हैं?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "‘Grandfather’ comes under which category of kinship?",
+        "prashna": "‘दादा’ नातेदारी के किस श्रेणी के अंतर्गत आते हैं?",
+        "options": {
+            "A": "Primary kin",
+            "B": "Secondary kin",
+            "C": "Tertiary kin",
+            "D": "Internal kin"
+        },
+        "vikalpa": {
+            "A": "प्राथमिक नातेदार",
+            "B": "द्वितीयक नातेदार",
+            "C": "तृतीयक नातेदार",
+            "D": "आंतरिक नातेदार"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "In which society ‘marriage by service’ in found?",
+        "prashna": "किस समाज में सेवा विवाह का प्रचलन है?",
+        "options": {
+            "A": "Hindu Society",
+            "B": "Muslim Society",
+            "C": "Tribal Society",
+            "D": "Sikh Society"
+        },
+        "vikalpa": {
+            "A": "हिंदू समाज",
+            "B": "मुस्लिम समाज",
+            "C": "आदिवासी समाज",
+            "D": "सिख समाज"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "There are how many types of Hindu marriage?",
+        "prashna": "हिंदू विवाह कितने प्रकार हैं?",
+        "options": {
+            "A": "Five",
+            "B": "Seven",
+            "C": "Eight",
+            "D": "Ten"
+        },
+        "vikalpa": {
+            "A": "पाँच",
+            "B": "सात",
+            "C": "आठ",
+            "D": "दस"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which of the following is not kinship usage?",
+        "prashna": "निम्न में से कौन नातेदारी की रीति नहीं है?",
+        "options": {
+            "A": "Avoidance",
+            "B": "Avunculate",
+            "C": "Joking relation",
+            "D": "Sororate"
+        },
+        "vikalpa": {
+            "A": "परिहार",
+            "B": "मातुलेय परिहार",
+            "C": "परिहास संबंध",
+            "D": "सोरोरेट"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Who said “Caste is a closed class”?",
+        "prashna": "किसने कहा “जाति एक बंद वर्ग है”?",
+        "options": {
+            "A": "Majumdar",
+            "B": "N.K. Datta",
+            "C": "Ghurye",
+            "D": "Sachchidanand"
+        },
+        "vikalpa": {
+            "A": "मजुमदार",
+            "B": "एन.के. दत्ता",
+            "C": "घुरिये",
+            "D": "सच्चिदानंद"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In which society Asur vivah was practiced?",
+        "prashna": "किस समाज में असुर विवाह का प्रचलन था?",
+        "options": {
+            "A": "Tribal Society",
+            "B": "Hindu Society",
+            "C": "Christian Society",
+            "D": "Muslim Society"
+        },
+        "vikalpa": {
+            "A": "आदिवासी समाज",
+            "B": "हिंदू समाज",
+            "C": "ईसाई समाज",
+            "D": "मुस्लिम समाज"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "How many features of caste system is narrated By Ghurye?",
+        "prashna": "घुरिये द्वारा जाति व्यवस्था की कितनी विशेषताओं का उल्लेख किया गया है?",
+        "options": {
+            "A": "Six",
+            "B": "Seven",
+            "C": "Eight",
+            "D": "Eleven"
+        },
+        "vikalpa": {
+            "A": "छः",
+            "B": "सात",
+            "C": "आठ",
+            "D": "ग्यारह"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Class system is the result of which of the following?",
+        "prashna": "वर्ग व्यवस्था निम्न में से किसका परिणाम है?",
+        "options": {
+            "A": "Social Conflict",
+            "B": "Unemployment",
+            "C": "Varna System",
+            "D": "Industrialisation"
+        },
+        "vikalpa": {
+            "A": "सामाजिक संघर्ष का",
+            "B": "बेरोजगारी का",
+            "C": "वर्ण व्यवस्था का",
+            "D": "औद्योगिकीकरण का"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Who developed the concept of westernization?",
+        "prashna": "पश्चिमीकरण की अवधारणा किसने विकसित की?",
+        "options": {
+            "A": "A. R. Desai",
+            "B": "S. C. Dube",
+            "C": "M. N. Srinivas",
+            "D": "G. S. Ghurye"
+        },
+        "vikalpa": {
+            "A": "ए.आर.देसाई",
+            "B": "एस.सी. दुबे",
+            "C": "एम.एन. श्रीनिवास",
+            "D": "जी.एस. घुरिये"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Who advocated Brahminical theory of origin of caste system?",
+        "prashna": "किसने जाति व्यवस्था की उत्पत्ति के ब्राह्मणवादी सिद्धांत की वकालत किया?",
+        "options": {
+            "A": "Majumdar",
+            "B": "Rislay",
+            "C": "Ghurye",
+            "D": "Nesfield"
+        },
+        "vikalpa": {
+            "A": "मजुमदार",
+            "B": "रिस्ले",
+            "C": "घुरिये",
+            "D": "नेसफील्ड"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "What is a marriage in which a women of lower caste marries a man of the upper caste as?",
+        "prashna": "वह विवाह में एक निम्न जाति की स्त्री उच्च जाति के पुरुष से विवाह करती है, उसे क्या कहते हैं?",
+        "options": {
+            "A": "Exogamy",
+            "B": "Hypergamy",
+            "C": "Endogamy",
+            "D": "Hypogamy"
+        },
+        "vikalpa": {
+            "A": "बहिर्विवाह",
+            "B": "अनुलोम विवाह",
+            "C": "अन्तर्विवाह",
+            "D": "प्रतिलोम"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Who imagined the establishment of classless society?",
+        "prashna": "वर्ग-विहीन समाज की स्थापना की कल्पना किसने की?",
+        "options": {
+            "A": "Karl Marks",
+            "B": "Heney",
+            "C": "Herbert Rislay",
+            "D": "Engals"
+        },
+        "vikalpa": {
+            "A": "कार्ल मार्क्स",
+            "B": "हेनी",
+            "C": "हर्बर्ट रिस्ले",
+            "D": "एंगिल्स"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Who acts as a judge in the Gram Panchayat?",
+        "prashna": "ग्राम पंचायत में कौन न्यायाधीश की भूमिका अदा करता है?",
+        "options": {
+            "A": "Mukhiya",
+            "B": "Gram Sevak",
+            "C": "Sarpanch",
+            "D": "Panch"
+        },
+        "vikalpa": {
+            "A": "मुखिया",
+            "B": "ग्राम सेवक",
+            "C": "सरपंच",
+            "D": "पंच"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which one of following states was the first to introduce Panchayati Raj System?",
+        "prashna": "निम्नलिखित में से किस राज्य ने पंचायती राज व्यवस्था सर्वप्रथम क्रियाविन्त किया?",
+        "options": {
+            "A": "Madhya Pradesh",
+            "B": "Utter Pradesh",
+            "C": "Bihar",
+            "D": "Rajasthan"
+        },
+        "vikalpa": {
+            "A": "मध्य प्रदेश",
+            "B": "उत्तर प्रदेश",
+            "C": "बिहार",
+            "D": "राजस्थान"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which among the following is the lowest unit of the Panchayati Raj institution?",
+        "prashna": "पंचायती राज संस्था में निम्न में से कौन निम्नतम इकाई है?",
+        "options": {
+            "A": "Gram Panchayat",
+            "B": "Gila Parishad",
+            "C": "Panchayat samiti",
+            "D": "Panchayat Sevak"
+        },
+        "vikalpa": {
+            "A": "ग्राम पंचायत",
+            "B": "जिला परिषद्",
+            "C": "पंचायत समिति",
+            "D": "पंचायत सेवक"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "In which year Integrated child development scheme(ICDS) was launched in India?",
+        "prashna": "भारत में किस वर्ष बाल विकास सेवा प्रारम्भ किया गया?",
+        "options": {
+            "A": "1975",
+            "B": "1985",
+            "C": "1974",
+            "D": "2011"
+        },
+        "vikalpa": {
+            "A": "1975",
+            "B": "1985",
+            "C": "1974",
+            "D": "2011"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Who is the author of the book “The Consequences of Modernity”?",
+        "prashna": "“द कॉन्सिक्वेन्सेस ऑफ मॉडर्निटी” पुस्तक के लेखक कौन हैं?",
+        "options": {
+            "A": "Yogendra Singh",
+            "B": "Bergal",
+            "C": "Giddens",
+            "D": "Marton"
+        },
+        "vikalpa": {
+            "A": "योगेंद्र सिंह",
+            "B": "बर्गेल",
+            "C": "गिडेन्स",
+            "D": "मर्टन"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "In which year P.M.R.Y. was launched in India?",
+        "prashna": "भारत में किस वर्ष प्रधानमंत्री रोजगार योजना शुरू की गई?",
+        "options": {
+            "A": "1993",
+            "B": "1994",
+            "C": "2009",
+            "D": "2011"
+        },
+        "vikalpa": {
+            "A": "1993",
+            "B": "1994",
+            "C": "2009",
+            "D": "2011"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Gender disparity is not related to which of the following?",
+        "prashna": "लैंगिक विषमता का संबंध निम्न में से किससे नहीं है?",
+        "options": {
+            "A": "Social value",
+            "B": "Economy",
+            "C": "Political value",
+            "D": "Consumerism"
+        },
+        "vikalpa": {
+            "A": "सामाजिक मूल्यों से",
+            "B": "अर्थव्यवस्था से",
+            "C": "राजनीतिक मूल्यों से",
+            "D": "उपभोक्तावाद से"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "In which year was Balika Samridhi Yojna launched?",
+        "prashna": "किस वर्ष बालिका समृद्धि योजना शुरुआत की गई?",
+        "options": {
+            "A": "1995",
+            "B": "1997",
+            "C": "1998",
+            "D": "1999"
+        },
+        "vikalpa": {
+            "A": "1995",
+            "B": "1997",
+            "C": "1998",
+            "D": "1999"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Who was the first to raise voice against sati Pratha in India?",
+        "prashna": "भारत में सती किसने सर्वप्रथम सती प्रथा के विरुद्ध आवाज उठाई?",
+        "options": {
+            "A": "Ishwarchandra Vidyasagar",
+            "B": "Mahatma Gandhi",
+            "C": "Raja Ram Mohan Roy",
+            "D": "Annie Besant"
+        },
+        "vikalpa": {
+            "A": "ईश्वरचंद्र विद्यासागर",
+            "B": "महात्मा गाँधी",
+            "C": "राजा राम मोहन राय",
+            "D": "ऐनी बेसेंट"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "In which year the child Marriage Restraint Act was implemented?",
+        "prashna": "बाल विवाह निरोधक अधिनियम किस वर्ष लागू किया गया था?",
+        "options": {
+            "A": "1910",
+            "B": "1929",
+            "C": "1925",
+            "D": "1939"
+        },
+        "vikalpa": {
+            "A": "1910",
+            "B": "1929",
+            "C": "1925",
+            "D": "1939"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Select the basic system for the low status of woman in India?",
+        "prashna": "भारत में स्त्रियों की निम्न स्थिति की मौलिक कारण चुनें?",
+        "options": {
+            "A": "Joint family",
+            "B": "Nuclear family",
+            "C": "Urbanization",
+            "D": "Modernization"
+        },
+        "vikalpa": {
+            "A": "संयुक्त परिवार",
+            "B": "एकल परिवार",
+            "C": "शहरीकरण",
+            "D": "आधुनिकीकरण"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Who invocated the woman to take part in Indian Freedom Movement?",
+        "prashna": "महिलाओं को भारतीय स्वतंत्रता आंदोलन में शामिल होने का आवाहन किसने किया?",
+        "options": {
+            "A": "Mahatma Gandhi",
+            "B": "Jawarharlal Nehru",
+            "C": "Kasturba Gandhi",
+            "D": "Lokmanya Tilak"
+        },
+        "vikalpa": {
+            "A": "महात्मा गाँधी",
+            "B": "जवाहरलाल नेहरू",
+            "C": "कस्तूरबा गाँधी",
+            "D": "लोकमान्य तिलक"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "What is Gender?",
+        "prashna": "लिंग (जेंडर) क्या है?",
+        "options": {
+            "A": "Biological concept",
+            "B": "Socio-cultural concept",
+            "C": "Psychological concept",
+            "D": "Political concept"
+        },
+        "vikalpa": {
+            "A": "जैविक अवधारणा",
+            "B": "सामाजिक–सांस्कृतिक अवधारणा",
+            "C": "मनोवैज्ञानिक अवधारणा",
+            "D": "राजनीतिक अवधारणा"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "“SABLA” scheme is focused on which of the following?",
+        "prashna": "“सबला योजना” निम्न में किस पर केन्द्रित है?",
+        "options": {
+            "A": "Destitute women",
+            "B": "Adolescent girls",
+            "C": "Maternity benefits",
+            "D": "Child labour"
+        },
+        "vikalpa": {
+            "A": "असहाय महिलाओं पर",
+            "B": "किशोरियों पर",
+            "C": "मातृत्व लाभ पर",
+            "D": "बाल श्रम पर"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "What is the basis of determination of class according to Marx?",
+        "prashna": "मार्क्स के अनुसार वर्ग निर्धारण का आधार क्या है?",
+        "options": {
+            "A": "Economy",
+            "B": "Social",
+            "C": "Political",
+            "D": "Cultural"
+        },
+        "vikalpa": {
+            "A": "आर्थिक",
+            "B": "सामाजिक",
+            "C": "राजनीतिक",
+            "D": "सांस्कृतिक"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "In which period the status of women was extremely low?",
+        "prashna": "महिलाओं की सामाजिक स्थिति किस काल में सर्वाधिक निम्न थी?",
+        "options": {
+            "A": "Vedic Period",
+            "B": "Mughal Period",
+            "C": "Buddhist Period",
+            "D": "Gupta Period"
+        },
+        "vikalpa": {
+            "A": "वैदिक काल",
+            "B": "मुगल काल",
+            "C": "बौद्ध काल",
+            "D": "गुप्त काल"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following is not a form of social stratification?",
+        "prashna": "निम्न में से कौन सामाजिक स्तरीकरण का स्वरूप नहीं है?",
+        "options": {
+            "A": "Religion",
+            "B": "Class",
+            "C": "Caste",
+            "D": "Gender"
+        },
+        "vikalpa": {
+            "A": "धर्म",
+            "B": "वर्ग",
+            "C": "जाति",
+            "D": "लिंग"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Who said, “Religion is the belief in spiritual being”?",
+        "prashna": "किसने कहा, “धर्म आध्यात्मिक शक्ति में विश्वास है”?",
+        "options": {
+            "A": "Tylor",
+            "B": "Malinaski",
+            "C": "Frager",
+            "D": "Majumdar"
+        },
+        "vikalpa": {
+            "A": "टॉयलर",
+            "B": "मालीनास्की",
+            "C": "फ्रेजर",
+            "D": "मजुमदार"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "In which year was Dowry Prohibition Act Passed?",
+        "prashna": "किस वर्ष दहेज निरोधक अधिनियम पारित हुआ था?",
+        "options": {
+            "A": "1956",
+            "B": "1959",
+            "C": "1961",
+            "D": "1992"
+        },
+        "vikalpa": {
+            "A": "1956",
+            "B": "1959",
+            "C": "1961",
+            "D": "1992"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "What is the main cause of communalism in India?",
+        "prashna": "भारत में साम्प्रदायिकता का मुख्य कारण क्या है?",
+        "options": {
+            "A": "Criminal attitude",
+            "B": "Poverty and Unemployment",
+            "C": "Political self",
+            "D": "Cultural difference"
+        },
+        "vikalpa": {
+            "A": "आपराधिक मनोवृत्ति",
+            "B": "निर्धनता एवं बेरोजगारी",
+            "C": "राजनीतिक स्वार्थ",
+            "D": "सांस्कृतिक भिन्नताएँ"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "What does social change refer to?",
+        "prashna": "सामाजिक परिवर्तन से क्या तात्पर्य है?",
+        "options": {
+            "A": "Change in social relationship",
+            "B": "Change in social interaction",
+            "C": "Change in social group",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "सामाजिक संबंधों में बदलाव",
+            "B": "सामाजिक संपर्क में बदलाव",
+            "C": "सामाजिक समूह में परिवर्तन",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Which among the following is not the meaning of secularism?",
+        "prashna": "निम्नलिखित में से कौन सा धर्मनिरपेक्षता का अर्थ नहीं है?",
+        "options": {
+            "A": "Co-existence of different religion",
+            "B": "The state not having its own religion",
+            "C": "Respect for other religion",
+            "D": "Religious rigidity"
+        },
+        "vikalpa": {
+            "A": "विभिन्न धर्मों का सह–अस्तित्व",
+            "B": "राज्य का अपना कोई धर्म न होना",
+            "C": "अन्य धर्मों के प्रति श्रद्धा",
+            "D": "धार्मिक कट्टरता"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Who coined the term “Social Change”?",
+        "prashna": "“सोशल चेंज” शब्दावली का प्रयोग सर्वप्रथम किसने किया?",
+        "options": {
+            "A": "Ogburn",
+            "B": "Durkheim",
+            "C": "Spencer",
+            "D": "Morgan"
+        },
+        "vikalpa": {
+            "A": "ऑगबर्न",
+            "B": "दुर्खीम",
+            "C": "स्पेंसर",
+            "D": "मार्गन"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which among the following in not the motivator of globalization?",
+        "prashna": "निम्न में से कौन वैश्वीकरण का प्रेरक नहीं है?",
+        "options": {
+            "A": "Search of market",
+            "B": "Electronics and computer network",
+            "C": "Multinational investment",
+            "D": "Indegenous"
+        },
+        "vikalpa": {
+            "A": "बाजार की खोज",
+            "B": "इलेक्ट्रॉनिक्स और कंप्यूटर नेटवर्क",
+            "C": "बहुराष्ट्रीय विनियोग",
+            "D": "देशज"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which among the following is called the fourth pillar of democracy?",
+        "prashna": "निम्न में से किसे प्रजातंत्र का चौथा स्तंभ कहा जाता है?",
+        "options": {
+            "A": "Media",
+            "B": "Parliament",
+            "C": "Judiciary",
+            "D": "Cabinet"
+        },
+        "vikalpa": {
+            "A": "जनसंचार",
+            "B": "संसद",
+            "C": "न्यायपालिका",
+            "D": "मंत्री परिषद"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "How many ways of acquiring mates are there in tribal society?",
+        "prashna": "जनजातियों में जीवन साथी चुनाव करने की कितने पद्धतियाँ हैं?",
+        "options": {
+            "A": "Eight",
+            "B": "Seven",
+            "C": "Five",
+            "D": "Eleven"
+        },
+        "vikalpa": {
+            "A": "आठ",
+            "B": "सात",
+            "C": "पाँच",
+            "D": "ग्यारह"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Which of the following organization initialed welfare works for tribals?",
+        "prashna": "निम्न में से किस संगठन ने जनजातियों के लिए कल्याण कार्यों को शुरू किया?",
+        "options": {
+            "A": "Serve seva sangh",
+            "B": "Adim Seva Sangh",
+            "C": "Janasangh",
+            "D": "Christian Missionaries"
+        },
+        "vikalpa": {
+            "A": "सर्व सेवा संघ",
+            "B": "आदिम सेवा संघ",
+            "C": "जनसंघ",
+            "D": "क्रिश्चियन मिशनरी"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "In which year National commission for women was established?",
+        "prashna": "किस वर्ष राष्ट्रीय महिला आयोग का गठन हुआ था?",
+        "options": {
+            "A": "2005",
+            "B": "1947",
+            "C": "1975",
+            "D": "1992"
+        },
+        "vikalpa": {
+            "A": "2005",
+            "B": "1947",
+            "C": "1975",
+            "D": "1992"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "In which Year for the first time Prevention of corruption Act was enacted?",
+        "prashna": "सर्वप्रथम किस वर्ष भ्रष्टाचार निरोधक कानून पारित हुआ था?",
+        "options": {
+            "A": "1947",
+            "B": "1948",
+            "C": "1955",
+            "D": "1960"
+        },
+        "vikalpa": {
+            "A": "1947",
+            "B": "1948",
+            "C": "1955",
+            "D": "1960"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Minority is a:-",
+        "prashna": "अल्पसंख्यक एक है–",
+        "options": {
+            "A": "Sociological concept",
+            "B": "Psychological concept",
+            "C": "Political concept",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "समाजशास्त्रीय संकल्पना",
+            "B": "मनोवैज्ञानिक संकल्पना",
+            "C": "राजनीतिक संकल्पना",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Who was the chairman of Mandal Commission?",
+        "prashna": "मंडल आयोग के अध्यक्ष कौन थे?",
+        "options": {
+            "A": "Mangni Lal Mandal",
+            "B": "Ram Narayan mandal",
+            "C": "Bindeshewari Prasad Mandal",
+            "D": "Dhanik Lal Mandal"
+        },
+        "vikalpa": {
+            "A": "मंगनी लाल मंडल",
+            "B": "राम नारायण मंडल",
+            "C": "बिंदेश्वरी प्रसाद मंडल",
+            "D": "धनिक लाल मंडल"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Into how many parts has S.C Dube divided the Indian tribes geographically?",
+        "prashna": "एस.सी. दुबे ने भौगोलिक दृष्टि से भारतीय जनजातियों को कितने भागों में विभाजित किया है?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "Who said, “Stritification system derives from common values”?",
+        "prashna": "किसने कहा, “संरेखण प्रणाली सामान्य मूल्यों से उत्पन्न होती है”?",
+        "options": {
+            "A": "Parsons",
+            "B": "K. Devis",
+            "C": "Tumin",
+            "D": "M. Young"
+        },
+        "vikalpa": {
+            "A": "पार्सन्स",
+            "B": "के.डेविस",
+            "C": "ट्यूमिन",
+            "D": "एम.यंग"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Which of the following is not the socio-cultural basis of social stratification?",
+        "prashna": "सामाजिक स्तरीकरण का सामाजिक–सांस्कृतिक आधार निम्न में से नहीं है?",
+        "options": {
+            "A": "Religion",
+            "B": "Occupation",
+            "C": "Race",
+            "D": "Property"
+        },
+        "vikalpa": {
+            "A": "धर्म",
+            "B": "व्यवसाय",
+            "C": "प्रजाति",
+            "D": "सम्पत्ति"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Who gave the term “Scheduled Caste”?",
+        "prashna": "“अनुसूचित जाति” शब्द किसने दिया?",
+        "options": {
+            "A": "GandhiJi",
+            "B": "Ambedkar",
+            "C": "Welar",
+            "D": "Durkhim"
+        },
+        "vikalpa": {
+            "A": "गाँधीजी",
+            "B": "अम्बेडकर",
+            "C": "वेलर",
+            "D": "दुर्खीम"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "The secular aspect of caste is associated with which of the following?",
+        "prashna": "जाति का धर्मनिरपेक्ष पहलू निम्नलिखित में से किससे संबंधित है?",
+        "options": {
+            "A": "Religious group",
+            "B": "Community life",
+            "C": "Government and Politics",
+            "D": "Cultural group"
+        },
+        "vikalpa": {
+            "A": "धार्मिक समूह",
+            "B": "सामुदायिक जीवन",
+            "C": "सरकार और राजनीति",
+            "D": "सांस्कृतिक समूह"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Who is the author of the book ‘Manav Aur Sanskariti’?",
+        "prashna": "‘मानव और संस्कृति’ पुस्तक के लेखक कौन हैं?",
+        "options": {
+            "A": "S.V. katkar",
+            "B": "S.C. Dube",
+            "C": "G.S. Ghurye",
+            "D": "K.M. Pannikar"
+        },
+        "vikalpa": {
+            "A": "एस.वी. काटकर",
+            "B": "एस.सी. दुबे",
+            "C": "जी.एस. घुरिये",
+            "D": "के.एम. पणिक्कर"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "The word ‘caste’ has been derived from which language?",
+        "prashna": "‘कास्ट’ शब्द कर उत्पत्ति किस भाषा से हुई है?",
+        "options": {
+            "A": "English",
+            "B": "Portuguese",
+            "C": "Spanish",
+            "D": "Chinese"
+        },
+        "vikalpa": {
+            "A": "अंग्रेजी",
+            "B": "पुर्तगाली",
+            "C": "स्पेनिश",
+            "D": "चीनी"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "The rural area surrounded by the city known as?",
+        "prashna": "ग्रामीण क्षेत्र जो शहर के द्वारा घिरा होता है, उसे क्या कहा जाता है?",
+        "options": {
+            "A": "Sub-urban",
+            "B": "Hinterland",
+            "C": "Urban Village",
+            "D": "Slums"
+        },
+        "vikalpa": {
+            "A": "उपशहरी",
+            "B": "आंरिक इलाके",
+            "C": "नगरीय गाँव",
+            "D": "गन्दी बस्ती"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Who has divided the growth of town into six stage?",
+        "prashna": "किन्होंने शहरों के विकास को छः चरणों में विभाजित किया है?",
+        "options": {
+            "A": "Lousis wirth",
+            "B": "Mumford",
+            "C": "Thompson",
+            "D": "Giddes"
+        },
+        "vikalpa": {
+            "A": "लुइस विर्थ",
+            "B": "ममफोर्ड",
+            "C": "थोम्पसन",
+            "D": "गिड्स"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "In which part of Rig Veda four varnas are mentioned?",
+        "prashna": "ऋग्वेद के किस भाग में चार वर्णों की चर्चा की गई है?",
+        "options": {
+            "A": "Purushsukta",
+            "B": "Suruti",
+            "C": "Vaisakha",
+            "D": "Mimansa"
+        },
+        "vikalpa": {
+            "A": "पुरुषसूक्त",
+            "B": "सुरुति",
+            "C": "वैसख",
+            "D": "मिमांसा"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "While studying a society Srinivas has given the concept of sanskritization on the basis of study of which state?",
+        "prashna": "एक समाज का अध्ययन करते समय श्रीनिवास ने किस राज्य के अध्ययन के आधार पर संस्कृतिकरण की अवधारणा दी है?",
+        "options": {
+            "A": "Karnataka",
+            "B": "Kerala",
+            "C": "TamilNadu",
+            "D": "Bihar"
+        },
+        "vikalpa": {
+            "A": "कर्नाटक",
+            "B": "केरल",
+            "C": "तमिलनाडू",
+            "D": "बिहार"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "What is Mukhiya known as among santhal tribal?",
+        "prashna": "संथाल जनजाति में मुखिया को क्या कहा जाता है?",
+        "options": {
+            "A": "Manjhi",
+            "B": "Parminik",
+            "C": "Sardar",
+            "D": "Godet"
+        },
+        "vikalpa": {
+            "A": "मांझी",
+            "B": "परमाणिक",
+            "C": "सरदार",
+            "D": "गोदेत"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "To which of the following tribal cultural is associated?",
+        "prashna": "जनजातीय संस्कृति निम्न में से किससे का संबंधित है?",
+        "options": {
+            "A": "Land, Nature and Rituals",
+            "B": "Folk tradition",
+            "C": "Economy and customs",
+            "D": "Religion only"
+        },
+        "vikalpa": {
+            "A": "भूमि, प्रकृति और रिवाज",
+            "B": "लोक परम्परा",
+            "C": "अर्थिकी और प्रथा",
+            "D": "केवल धर्म"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "What is not included in the concept of society?",
+        "prashna": "समाज की अवधारणा में क्या सम्मिलित नहीं है?",
+        "options": {
+            "A": "Reciprocity",
+            "B": "Differences",
+            "C": "Interdependence",
+            "D": "Adherence to time"
+        },
+        "vikalpa": {
+            "A": "पारस्परिकता",
+            "B": "विभिन्नता",
+            "C": "परस्पर निर्भरता",
+            "D": "समय का पालन"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "Who among the following emphasized the role of ‘ideas’ in social change?",
+        "prashna": "निम्न में से किसने सामाजिक परिवर्तन में ‘विचारों’ की भूमिका पर बल दिया?",
+        "options": {
+            "A": "Karl Marks",
+            "B": "Max Weber",
+            "C": "Pareto",
+            "D": "Toynbea"
+        },
+        "vikalpa": {
+            "A": "कार्ल मार्क्स",
+            "B": "मैक्स वेबर",
+            "C": "पैरेटो",
+            "D": "टॉयनबी"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Which on of the following is not the change-Promoting movement?",
+        "prashna": "निम्न में से कौन–सा परिवर्तन–संवर्धक आंदोलन नहीं है?",
+        "options": {
+            "A": "Literacy movement",
+            "B": "Women’s Liberation Movements",
+            "C": "Dalit Movement",
+            "D": "Anti Reservation Movement"
+        },
+        "vikalpa": {
+            "A": "साक्षरता आंदोलन",
+            "B": "महिला मुक्ति आंदोलन",
+            "C": "दलित आंदोलन",
+            "D": "आरक्षण–विरोधी आंदोलन"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Which one of the following statements about sanskritijation is correct?",
+        "prashna": "निम्न में से कौन वाक्यांश संस्कृतिकरण के लिए सत्य है?",
+        "options": {
+            "A": "It is a process of structural change",
+            "B": "It started with the advent of British rule in India",
+            "C": "It is an exogenous source of change",
+            "D": "It is a process of positional change"
+        },
+        "vikalpa": {
+            "A": "यह संरचनात्मक परिवर्तन की प्रक्रिया है।",
+            "B": "इसकी शुरुआत ब्रिटिश शासनकाल में हुई।",
+            "C": "यह समाजिक परिवर्तन का बहिर्जात स्रोत है।",
+            "D": "यह स्थिति परिवर्तन की एक प्रक्रिया है।"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "Who founded ‘Prarthna Samaj’?",
+        "prashna": "‘प्रार्थना समाज’ की स्थापना किसने की?",
+        "options": {
+            "A": "Ram G. Ranade",
+            "B": "Bhandarkar",
+            "C": "Both (A) and (B)",
+            "D": "None of the two"
+        },
+        "vikalpa": {
+            "A": "राम जी. रानाडे",
+            "B": "भंडारकर",
+            "C": "(A) और (B) दोनों",
+            "D": "दोनों में से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Who among the following does not belong to French School of Sociology?",
+        "prashna": "निम्न में से कौन समाजशास्त्र के फ्रांसीसी स्कूल से संबंधित नहीं है?",
+        "options": {
+            "A": "August Comte",
+            "B": "Durkheim",
+            "C": "Pareto",
+            "D": "Montesque"
+        },
+        "vikalpa": {
+            "A": "अगस्त कॉम्ट",
+            "B": "दुर्खीम",
+            "C": "पैरेटो",
+            "D": "मोन्टेस्क्यू"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "Who introduced Sociology in Bombay University in 1919?",
+        "prashna": "बम्बई विश्वविद्यालय में 1919 ई. में समाजशास्त्र की शुरुआत किसने की?",
+        "options": {
+            "A": "M.N. Srinivas",
+            "B": "Ghurye",
+            "C": "Patrick Giddes",
+            "D": "R.K. Mukherjee"
+        },
+        "vikalpa": {
+            "A": "एम.एन. श्रीनिवास",
+            "B": "घुरिये",
+            "C": "पैट्रिक गिड्स",
+            "D": "आर.के. मुखर्जी"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Which one of the following helps to maintain the structural distance between castes?",
+        "prashna": "निम्न में से क्या जातियों के बीच संरचनात्मक दूरी बनाए रखने में मदद करता है?",
+        "options": {
+            "A": "Economic state",
+            "B": "Political Power",
+            "C": "Land ownership",
+            "D": "Purity and pollution"
+        },
+        "vikalpa": {
+            "A": "आर्थिक प्रस्थिति",
+            "B": "राजनीतिक शक्ति",
+            "C": "भू–स्वामित्व",
+            "D": "पवित्रता और प्रदूषण"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which one of the following is not the impact of globalization on India?",
+        "prashna": "निम्न में से कौन सा भारत पर वैश्वीकरण का प्रभाव नहीं है?",
+        "options": {
+            "A": "Increase in national income",
+            "B": "Women awareness",
+            "C": "Nationalization",
+            "D": "Increase in agricultural product"
+        },
+        "vikalpa": {
+            "A": "राष्ट्रीय आय में वृद्धि",
+            "B": "महिला जागरूकता",
+            "C": "राष्ट्रीयकरण",
+            "D": "कृषि उत्पादन में वृद्धि"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "question": "Which one of the following is the second stage of primitive economy?",
+        "prashna": "निम्न में से कौन आदिम अर्थव्यवस्था का दूसरा स्तर है?",
+        "options": {
+            "A": "Hunting stage",
+            "B": "Agricultural stage",
+            "C": "Pastoral stage",
+            "D": "Industrial stage"
+        },
+        "vikalpa": {
+            "A": "शिकार जीवन",
+            "B": "कृषि स्तर",
+            "C": "पुश चारण स्तर",
+            "D": "औद्योगिक स्तर"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "question": "The Scope of Sociology has been divided into how many parts?",
+        "prashna": "समाजशास्त्र के विषय क्षेत्र को कितने भागों में बाँटा गया है?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "question": "Which factor did Marx consider important in social change?",
+        "prashna": "मार्क्स ने सामाजिक परिवर्तन में किस कारक को महत्वपूर्ण माना है?",
+        "options": {
+            "A": "Economic",
+            "B": "Political",
+            "C": "Religions",
+            "D": "Cultural"
+        },
+        "vikalpa": {
+            "A": "आर्थिक",
+            "B": "राजनीतिक",
+            "C": "धार्मिक",
+            "D": "सांस्कृतिक"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "question": "Who among the following had given the concept of institution?",
+        "prashna": "संस्था की अवधारणा निम्न में से किसने दी थी?",
+        "options": {
+            "A": "Max",
+            "B": "Max Weber",
+            "C": "Spencer",
+            "D": "Marshal"
+        },
+        "vikalpa": {
+            "A": "मैक्स",
+            "B": "मैक्स वेबर",
+            "C": "स्पेंसर",
+            "D": "मार्शल"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "question": "Who called the transformation of rural areas into urban areas as urbanization?",
+        "prashna": "किसने ग्रामीण क्षेत्रों को नगरीय क्षेत्रों में परिवर्तन को नगरीकरण कहा है?",
+        "options": {
+            "A": "Bergel",
+            "B": "Anderson",
+            "C": "Mumford",
+            "D": "Cooley"
+        },
+        "vikalpa": {
+            "A": "बर्गेल",
+            "B": "एण्डरसन",
+            "C": "ममफोर्ड",
+            "D": "कूले"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "question": "When ‘International Girl Child Day’ is celebrated?",
+        "prashna": "‘अंतरराष्ट्रीय बालिका दिवस’ कब मनाया जाता है?",
+        "options": {
+            "A": "11 October",
+            "B": "11 September",
+            "C": "12 August",
+            "D": "11 June"
+        },
+        "vikalpa": {
+            "A": "11 अक्टूबर",
+            "B": "11 सितंबर",
+            "C": "12 अगस्त",
+            "D": "11 जून"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "question": "Who among the following the deputy chief Minister of Bihar?",
+        "prashna": "निम्न में से कौन बिहार के उपमुख्यमंत्री हैं?",
+        "options": {
+            "A": "Vijay Sinha",
+            "B": "Samrat Choudhary",
+            "C": "Both A and B",
+            "D": "Neither A nor B"
+        },
+        "vikalpa": {
+            "A": "विजय सिन्हा",
+            "B": "सम्राट चौधरी",
+            "C": "A और B दोनों",
+            "D": "न तो A और न ही B"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "question": "In which year Ladakh was established as a Union Territory of India?",
+        "prashna": "किस वर्ष लद्दाख को भारत के केन्द्र शासित प्रदेश के रूप में स्थापित किया गया?",
+        "options": {
+            "A": "2019",
+            "B": "2020",
+            "C": "2021",
+            "D": "2022"
+        },
+        "vikalpa": {
+            "A": "2019",
+            "B": "2020",
+            "C": "2021",
+            "D": "2022"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "question": "The Jan Aushadhi Kendra related to which of the following?",
+        "prashna": "जन औषधि केन्द्र निम्न में से किससे संबंधित है?",
+        "options": {
+            "A": "Affordable house",
+            "B": "Affordable clothes",
+            "C": "Affordable Medicine",
+            "D": "Affordable food"
+        },
+        "vikalpa": {
+            "A": "सस्ती मकान",
+            "B": "सस्ती कपड़ा",
+            "C": "सस्ता दवाई",
+            "D": "सस्ती भोजन"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "question": "Who is the Education Minister of Bihar?",
+        "prashna": "बिहार के शिक्षा मंत्री कौन हैं?",
+        "options": {
+            "A": "Ashok Chaudhary",
+            "B": "Samrat Chaudhary",
+            "C": "Sunil Kumar",
+            "D": "None of the above"
+        },
+        "vikalpa": {
+            "A": "अशोक चौधरी",
+            "B": "सम्राट चौधरी",
+            "C": "सुनील कुमार",
+            "D": "उपरोक्त में से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "question": "Which among the following is weakened by industrialization?",
+        "prashna": "निम्न में से किसको औद्योगिकीकरण कमजोर करता है?",
+        "options": {
+            "A": "Role of religion in social life",
+            "B": "Father’s authority in the family",
+            "C": "Caste System",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "सामाजिक जीवन में धर्म की भूमिका",
+            "B": "परिवार में पिता का अधिकार",
+            "C": "जाति व्यवस्था",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "question": "Which of the following is not the basis of community?",
+        "prashna": "निम्नलिखित में से कौन समुदाय का आधार नहीं है?",
+        "options": {
+            "A": "Common locality",
+            "B": "Community Sentiment",
+            "C": "Common Political ideology",
+            "D": "Common way of life"
+        },
+        "vikalpa": {
+            "A": "सामान्य स्थानीयता",
+            "B": "सामुदायिक भावना",
+            "C": "सामान्य राजनीतिक विचारधारा",
+            "D": "सामान्य जीवन शैली"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "question": "By whom the modern Society is governed?",
+        "prashna": "आधुनिक समाज किसके द्वारा शासित होता है?",
+        "options": {
+            "A": "Conventions",
+            "B": "Rule of law",
+            "C": "Devine law",
+            "D": "Physical force"
+        },
+        "vikalpa": {
+            "A": "कन्वेंशन",
+            "B": "कानून का शासन",
+            "C": "दैवीय कानून",
+            "D": "शारीरिक बल"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "question": "How will you be related to your father’s brother-in-law’s mother?",
+        "prashna": "आप अपने पिता के साला की माँ से कैसे संबंधित होंगे?",
+        "options": {
+            "A": "Mami",
+            "B": "Nani",
+            "C": "Mausi",
+            "D": "Sister"
+        },
+        "vikalpa": {
+            "A": "मामी",
+            "B": "नानी",
+            "C": "मौसी",
+            "D": "बहन"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "question": "Which of the following is the change in a desired direction?",
+        "prashna": "निम्न में से कौन–सा इच्छित दिशा में परिवर्तन है?",
+        "options": {
+            "A": "Evolution",
+            "B": "Progress",
+            "C": "Development",
+            "D": "Sustainable development"
+        },
+        "vikalpa": {
+            "A": "उद्विकास",
+            "B": "प्रगति",
+            "C": "विकास",
+            "D": "सतत विकास"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "question": "Which of the following factors is not an obstacle to National Integration in India?",
+        "prashna": "भारत में निम्न में से कौन सा कारक राष्ट्रीय एकता में बाधक नहीं है?",
+        "options": {
+            "A": "Casteism",
+            "B": "Regionalism",
+            "C": "Fanaticism",
+            "D": "Education"
+        },
+        "vikalpa": {
+            "A": "जातिवाद",
+            "B": "क्षेत्रवाद",
+            "C": "धमान्धता",
+            "D": "शिक्षा"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "question": "Which among the following is not a form of social change?",
+        "prashna": "निम्न में से कौन सामाजिक परिवर्तन का स्वरूप नहीं है?",
+        "options": {
+            "A": "Development",
+            "B": "Progress",
+            "C": "Evolution",
+            "D": "Unemployment"
+        },
+        "vikalpa": {
+            "A": "विकास",
+            "B": "प्रगति",
+            "C": "उद्विकास",
+            "D": "बेरोजगारी"
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "question": "What is main parameter to measure urbanization?",
+        "prashna": "नगरीकरण मापने का प्रमुख पैमाना क्या है?",
+        "options": {
+            "A": "Population",
+            "B": "Density of Population",
+            "C": "Modern values",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "जनसंख्या",
+            "B": "जनसंख्या का घनत्व",
+            "C": "आधुनिक मूल्य",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "question": "What is the consequence of modernization?",
+        "prashna": "आधुनिकीकरण का परिणाम क्या है?",
+        "options": {
+            "A": "Emergence of new classes",
+            "B": "Growth in literacy",
+            "C": "Unemployment",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "नए वर्गों का उदय",
+            "B": "साक्षरता में वृद्धि",
+            "C": "बेरोजगारी",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "question": "Who is presently the president of Indian Sociological Society?",
+        "prashna": "भारतीय समाजशास्त्र परिषद के अध्यक्ष वर्तमान में कौन हैं?",
+        "options": {
+            "A": "R. Indra",
+            "B": "Anand Kumar",
+            "C": "Maitrayee Chaudhary",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आर.इन्द्र",
+            "B": "आनंद कुमार",
+            "C": "मैत्रेयी चौधरी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "question": "Which one of the following in the national festival of India?",
+        "prashna": "निम्न में से कौन भारत का राष्ट्रीय त्यौहार है?",
+        "options": {
+            "A": "Republic Day",
+            "B": "Holi",
+            "C": "Dashara",
+            "D": "Dipawali"
+        },
+        "vikalpa": {
+            "A": "गणतंत्र दिवस",
+            "B": "होली",
+            "C": "दशहरा",
+            "D": "दीपावली"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "question": "Which one of the following is a feature of Indian cultural?",
+        "prashna": "भारतीय संस्कृति की निम्न में से कौन सी विशेषता है?",
+        "options": {
+            "A": "Dominance of religion",
+            "B": "Belief in Karmfal",
+            "C": "Belief in soul and rebirth",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "धर्म का प्रधानता",
+            "B": "कर्मफल में विश्वास",
+            "C": "आत्मा और पुनर्जन्म में विश्वास",
+            "D": "ये सभी"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "question": "Who said, “Civilization means the city”?",
+        "prashna": "किसने कहा, “सभ्यता का अर्थ नगर होता है”?",
+        "options": {
+            "A": "K. Davis",
+            "B": "E.E. Bargal",
+            "C": "L. Wirth",
+            "D": "R.Bierstaedt"
+        },
+        "vikalpa": {
+            "A": "के. डेविस",
+            "B": "ई.ई. बर्गेल",
+            "C": "एल. विर्थ",
+            "D": "आर.बीयरस्टेड"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "question": "Which one of the following is not a primary kin?",
+        "prashna": "निम्न में से कौन सा प्राथमिक संबंधी नहीं है?",
+        "options": {
+            "A": "Husband-wife",
+            "B": "Uncle-Nephew",
+            "C": "Brother-sister",
+            "D": "Father-Son"
+        },
+        "vikalpa": {
+            "A": "पति–पत्नी",
+            "B": "चाचा–भतीजा",
+            "C": "भाई–बहन",
+            "D": "पिता–पुत्र"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "question": "Which of the following is not an important basis in the formation of a society?",
+        "prashna": "निम्न में से कौन सा समाज के निर्माण में महत्वपूर्ण आधार नहीं है?",
+        "options": {
+            "A": "Usage",
+            "B": "Procedural",
+            "C": "Material cultural",
+            "D": "Social control"
+        },
+        "vikalpa": {
+            "A": "रीतियाँ",
+            "B": "कार्यप्रणाली",
+            "C": "भौतिक सांस्कृतिक",
+            "D": "सामाजिक नियंत्रण"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "question": "What is systematic effort to acquire new information called?",
+        "prashna": "नवीन ज्ञान को प्राप्त करने के क्रमबद्ध प्रयास को क्या कहा जाता है?",
+        "options": {
+            "A": "Survey",
+            "B": "Research",
+            "C": "Schedule",
+            "D": "Questionnaire"
+        },
+        "vikalpa": {
+            "A": "सर्वेक्षण",
+            "B": "अनुसंधान",
+            "C": "अनुसूची",
+            "D": "प्रश्नावली"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "question": "What does Sociology and Economics both study?",
+        "prashna": "समाजशास्त्र और अर्थशास्त्र दोनों किसका अध्ययन करती हैं?",
+        "options": {
+            "A": "Unemployment",
+            "B": "Family",
+            "C": "State",
+            "D": "Political Party"
+        },
+        "vikalpa": {
+            "A": "बेरोजगारी",
+            "B": "परिवार",
+            "C": "राज्य",
+            "D": "राजनीतिक दल"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "question": "“Sociology is a craft”, who stated this?",
+        "prashna": "“समाजशास्त्र एक शिल्प है”, यह किसका कथन है?",
+        "options": {
+            "A": "C. wright mills",
+            "B": "Alex Inkeles",
+            "C": "MacIver",
+            "D": "Herbert Spencer"
+        },
+        "vikalpa": {
+            "A": "सी. राइट मिल्स",
+            "B": "एलेक्स इंकेल्स",
+            "C": "मेकाईवर",
+            "D": "हर्बर्ट स्पेंसर"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "question": "What is the most important factor of social change?",
+        "prashna": "सामाजिक परिवर्तन का सबसे महत्वपूर्ण कारक क्या है?",
+        "options": {
+            "A": "Technology",
+            "B": "Population",
+            "C": "Law",
+            "D": "Religion"
+        },
+        "vikalpa": {
+            "A": "प्रौद्योगिकी",
+            "B": "जनसंख्या",
+            "C": "कानून",
+            "D": "धर्म"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "question": "A family, a school and a church are example of what?",
+        "prashna": "एक परिवार, एक स्कूल और एक चर्च किसके उदाहरण हैं?",
+        "options": {
+            "A": "Social group",
+            "B": "Social institution",
+            "C": "Social organization",
+            "D": "Social culture"
+        },
+        "vikalpa": {
+            "A": "सामाजिक समूह",
+            "B": "सामाजिक संस्था",
+            "C": "सामाजिक संगठन",
+            "D": "सामाजिक संस्कृति"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Describe two aims of Hindu marriage.",
+        "prashna": "हिन्दू विवाह के दो उद्देश्य वर्णन करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Explain two characteristics of Indian Society.",
+        "prashna": "भारतीय समाज की दो विशेषताओं का उल्लेख करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Define national integration.",
+        "prashna": "राष्ट्रीय एकता को परिभाषित करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Explain two characterization of social class.",
+        "prashna": "सामाजिक वर्ग की दो विशेषताओं का उल्लेख करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Explain two causes of industrialization in India.",
+        "prashna": "भारत में औद्योगिकीकरण के दो कारणों को स्पष्ट करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Describe any two ways of acquiring mates in tribal Society.",
+        "prashna": "जनजातीय समाज में जीवनसाथी प्राप्त करने के किन्हीं दो तरीकों का वर्णन करें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Explain two functions of religion.",
+        "prashna": "धर्म के दो प्रकारों का उल्लेख करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What do you understand by social media?",
+        "prashna": "सोशल मीडिया से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Describe two causes for poor health of woman.",
+        "prashna": "महिलाओं के कमजोर स्वास्थ्य के दो कारणों का वर्णन करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What do you understand by H.I.V?",
+        "prashna": "एच.आई.वी. से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Explain any two problems of girl child.",
+        "prashna": "बालिका शिशु की किन्हीं दो समस्याओं का उल्लेख करें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "What do you understand by human trafficking?",
+        "prashna": "मानव तस्करी से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Write the names of any four scheduled Tribe communities.",
+        "prashna": "किन्हीं चार अनुसूचित जनजाति समुदायों के नाम लिखें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Describe two main functions of kinship.",
+        "prashna": "नातेदारी के दो प्रमुख प्रकार्यों का वर्णन करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Explain any two causes of unemployment in Bihar.",
+        "prashna": "बिहार में बेरोजगारी के किन्हीं दो कारणों उल्लेख करें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Describe two effects of urbanization.",
+        "prashna": "नगरीकरण के दो प्रभावों का वर्णन करें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Describe two functions of Mukhiya.",
+        "prashna": "मुखिया के दो कार्यों का वर्णन करें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Throw light on two harmful effects of corruption.",
+        "prashna": "भ्रष्टाचार के दो दुष्परिणामों पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Describe two features of secularism.",
+        "prashna": "धर्मनिरपेक्षता की दो विशेषताओं का वर्णन करें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Throw light on two problems of tribals.",
+        "prashna": "जनजातियों की दो समस्याओं पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "Describe two demerits of caste system.",
+        "prashna": "जाति व्यवस्था के दो दोषों का वर्णन करें।"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "Throw light on two functions of ‘Jiwika’.",
+        "prashna": "जीविका के दो कार्यों पर प्रकाश डालें।"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "What do you understand by reproductive rights?",
+        "prashna": "प्रजनन अधिकार से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "What are child rights?",
+        "prashna": "बाल अधिकार क्या हैं?"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "question": "Discuss two evil effects of drug addition.",
+        "prashna": "मादकद्रव्य व्यसन दो दुष्परिणामों की चर्चा करें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "What do you mean by ‘Gandharv vivah’?",
+        "prashna": "गंधर्व विवाह से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "question": "Describe two forms of social change.",
+        "prashna": "सामाजिक परिवर्तन के दो स्वरूपों का वर्णन करें।"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "question": "What is Gram Sabha?",
+        "prashna": "ग्राम सभा क्या है?"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "question": "Describe two problems of minority communities.",
+        "prashna": "अल्पसंख्यक समुदायों की दो समस्याओं का वर्णन करें।"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "question": "Throw light on two causes of caste conflict.",
+        "prashna": "जातीय संघर्ष के दो कारणों पर प्रकाश डालें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Discuss the main characteristics of Indian culture.",
+        "prashna": "भारतीय संस्कृति की प्रमुख विशेषताओं की विवेचना करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Discuss the concept and usages of kinship.",
+        "prashna": "नातेदारी की अवधारणा और रीतियों का वर्णन करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Distinguish between caste and class.",
+        "prashna": "जाति और वर्ग में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Discuss the functions of Panchayati Raj.",
+        "prashna": "पंचायती राज के कार्यों की विवेचना करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Write an essay on reproductive health.",
+        "prashna": "प्रजनन स्वास्थ्य पर एक निबन्ध लिखें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Evaluate the steps taken by the government for the welfare of tribes.",
+        "prashna": "जनजातियों कल्याण के लिए सरकार द्वारा उठाए गए कदमों का मूल्यांकन करें।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "Discuss the effects of corruption in public life.",
+        "prashna": "सार्वजनिक जीवन में भ्रष्टाचार के प्रभावों की विवेचना करें।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "Throw light on main problems of scheduled castes.",
+        "prashna": "अनुसूचित जाति की प्रमुख समस्याओं पर प्रकाश डालें।"
+    }
+]

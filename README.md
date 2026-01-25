@@ -39,6 +39,7 @@ python batch_annotate_political_science.py # For Political Science
 python batch_annotate_psychology.py        # For Psychology
 python batch_annotate_economics.py         # For Economics
 python batch_annotate_music.py             # For Music
+python batch_annotate_sociology.py         # For Sociology
 
 # 5. Merge all years into one file
 python merge_biology.py
@@ -52,6 +53,7 @@ python merge_political_science.py
 python merge_psychology.py
 python merge_economics.py
 python merge_music.py
+python merge_sociology.py
 
 # 6. Split by chapter or type
 python split_biology_by_chapter.py
@@ -71,6 +73,9 @@ python split_economics_types_by_chapters.py
 python split_music_by_chapter.py
 python split_music_by_type.py
 python split_music_types_by_chapters.py
+python split_sociology_by_chapter.py
+python split_sociology_by_type.py
+python split_sociology_types_by_chapters.py
 ```
 
 ---
@@ -106,6 +111,7 @@ python split_music_types_by_chapters.py
 | `batch_processing_psychology.py` | `psychology_papers/*.pdf` | `psychology_data/*.json` | Batch PDF extraction for psychology |
 | `batch_processing_economics.py` | `economics_papers/*.pdf` | `economics_data/*.json` | Batch PDF extraction for economics |
 | `batch_processing_music.py` | `music_papers/*.pdf` | `music_data/*.json` | Batch PDF extraction for music |
+| `batch_processing_sociology.py` | `sociology_papers/*.pdf` | `sociology_data/*.json` | Batch PDF extraction for sociology |
 
 ### Stage 2: Annotate with Chapters/Topics
 
@@ -121,6 +127,7 @@ python split_music_types_by_chapters.py
 | `batch_annotate_psychology.py` | `psychology_data/*.json` | `psychology_data_annotated/*.json` | Adds chapter info for psychology |
 | `batch_annotate_economics.py` | `economics_data/*.json` | `economics_data_annotated/*.json` | Adds chapter info for economics |
 | `batch_annotate_music.py` | `music_data/*.json` | `music_data_annotated/*.json` | Adds chapter info for music |
+| `batch_annotate_sociology.py` | `sociology_data/*.json` | `sociology_data_annotated/*.json` | Adds chapter info for sociology |
 | `annotate_questions_with_chapters.py` | Single file (interactive) | Annotated JSON | Interactive single-file annotator |
 | `annotate_questions_with_topics_physics.py` | Single file (interactive) | Annotated JSON | Physics with topics |
 
@@ -139,6 +146,7 @@ python split_music_types_by_chapters.py
 | `merge_psychology.py` | `psychology_data_annotated/` | `psychology_pro/psychology_all_years.json` | Combines all years |
 | `merge_economics.py` | `economics_data_annotated/` | `economics_pro/economics_all_years.json` | Combines all years |
 | `merge_music.py` | `music_data_annotated/` | `music_pro/music_all_years.json` | Combines all years |
+| `merge_sociology.py` | `sociology_data_annotated/` | `sociology_pro/sociology_all_years.json` | Combines all years |
 
 ### Stage 4: Split for Analysis
 
@@ -368,6 +376,7 @@ python split_political_science_by_chapter.py
 python split_psychology_by_chapter.py
 python split_economics_by_chapter.py
 python split_music_by_chapter.py
+python split_sociology_by_chapter.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -389,6 +398,7 @@ python split_political_science_by_type.py
 python split_psychology_by_type.py
 python split_economics_by_type.py
 python split_music_by_type.py
+python split_sociology_by_type.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -414,6 +424,7 @@ python split_political_science_types_by_chapters.py
 python split_psychology_types_by_chapters.py
 python split_economics_types_by_chapters.py
 python split_music_types_by_chapters.py
+python split_sociology_types_by_chapters.py
 ```
 
 - **Input:** `{subject}_pro_types/type-{type}.json`
