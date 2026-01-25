@@ -1,0 +1,1477 @@
+{
+  "2021": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is not a variable input?",
+      "prashna": "निम्न में कौन परिवर्ती आगत नहीं है?",
+      "options": {
+        "A": "Labour",
+        "B": "Machine",
+        "C": "Raw material",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "श्रमिक",
+        "B": "मशीन",
+        "C": "कच्चा माल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Fixed inputs remain fixed in which period?",
+      "prashna": "स्थिर आगत किस काल में स्थिर रहते हैं?",
+      "options": {
+        "A": "Short run",
+        "B": "Long run",
+        "C": "Both periods",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अल्पकाल में",
+        "B": "दीर्घकाल में",
+        "C": "दोनों काल में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "In the law of variable proportions, what is the change in marginal product?",
+      "prashna": "परिवर्ती अनुपात के नियम में सीमांत उत्पाद में क्या परिवर्तन होता है?",
+      "options": {
+        "A": "It falls",
+        "B": "It increases",
+        "C": "It remains constant",
+        "D": "Finally, it falls"
+      },
+      "vikalpa": {
+        "A": "गिरावट होती है",
+        "B": "वृद्धि होती है",
+        "C": "स्थिर रहता है",
+        "D": "अंततः गिरावट होती है"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What kind of input is a machine used by a firm?",
+      "prashna": "फर्म द्वारा प्रयुक्त मशीन किस तरह का आगत है?",
+      "options": {
+        "A": "Variable",
+        "B": "Fixed",
+        "C": "Technique",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "परिवर्ती",
+        "B": "स्थिर",
+        "C": "तकनीक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What is shown on both axes of a production isoquant map?",
+      "prashna": "उत्पादन अनधिमान वक्र चित्र के दोनों अक्षों पर क्या दर्शाया जाता है?",
+      "options": {
+        "A": "Factor",
+        "B": "Production",
+        "C": "Satisfaction",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कारक",
+        "B": "उत्पादन",
+        "C": "संतुष्टि",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "In the long run, which factor can a firm change?",
+      "prashna": "दीर्घकाल में फर्म किस कारक में परिवर्तन ला सकता है?",
+      "options": {
+        "A": "Fixed factor",
+        "B": "Variable factor",
+        "C": "Both (A) and (B)",
+        "D": "Neither (A) nor (B)"
+      },
+      "vikalpa": {
+        "A": "स्थिर कारक",
+        "B": "परिवर्ती कारक",
+        "C": "(a) और (b) दोनों",
+        "D": "न (a) में और न (b) में"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The shape of the Total Fixed Cost curve is?",
+      "prashna": "कुल स्थिर लागत चक्र का आकार होता है?",
+      "options": {
+        "A": "Vertical line",
+        "B": "Horizontal line",
+        "C": "U-shaped",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उर्ध्वाधर रेखा",
+        "B": "क्षितिज रेखा",
+        "C": "U आकार का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What is the shape of the marginal product curve and average product curve?",
+      "prashna": "सीमांत उत्पादन वक्र एवं औसत उत्पाद वक्र का क्या आकार होता है?",
+      "options": {
+        "A": "Like the English letter 'U'",
+        "B": "Inverted 'U' shape",
+        "C": "Like the English letter 'S'",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अंग्रेजी अक्षर 'U' की तरह",
+        "B": "उल्टे 'U' की आकृति",
+        "C": "अंग्रेजी अक्षर 'S' की तरह",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If total cost is TC, total variable cost is VC and total fixed cost is FC, then which equation is correct?",
+      "prashna": "यदि कुल लागत TC, कुल परिवर्ती लागत VC तथा कुल स्थिर लागत FC हो तो कौन समीकरण सही है ?",
+      "options": {
+        "A": "$TC = VC + FC$",
+        "B": "$TC - VC = FC$",
+        "C": "$TC - FC = VC$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$TC = VC + FC$",
+        "B": "$TC - VC = FC$",
+        "C": "$TC - FC = VC$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If total production cost of output $q_1$ and $q_1 - 1$ units are 50 rupees and 40 rupees respectively, what will be the marginal cost?",
+      "prashna": "निर्गत $q_1$ एवं $q_1 - 1$ इकाइयों की कुल उत्पादन लागत क्रमशः 50 रुपये एवं 40 रुपये हो तो सीमांत लागत क्या होगी?",
+      "options": {
+        "A": "50 rupees",
+        "B": "90 rupees",
+        "C": "40 rupees",
+        "D": "10 rupees"
+      },
+      "vikalpa": {
+        "A": "50 रुपये",
+        "B": "90 रुपये",
+        "C": "40 रुपये",
+        "D": "10 रुपये"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "At which point does the marginal cost curve intersect the average cost curve?",
+      "prashna": "सीमांत लागत वक्र औसत लागत वक्र को किस बिन्दु पर काटती है?",
+      "options": {
+        "A": "Maximum point",
+        "B": "Minimum point",
+        "C": "In the increasing region",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उच्चतम बिन्दु",
+        "B": "न्यूनतम बिन्दु",
+        "C": "बढ़ते हुए क्षेत्र में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is profit?",
+      "prashna": "लाभ क्या है?"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is the shape of the total fixed cost curve?",
+      "prashna": "कुल स्थिर लागत वक्र की आकृति कैसी होती है?"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is the variable cost of a producer?",
+      "prashna": "उत्पादनकर्ता का परिवर्ती लागत क्या होता है?"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What do you understand by the average product of a firm?",
+      "prashna": "किसी फर्म के औसत उत्पाद से आप क्या समझते हैं?"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Production function is expressed as",
+      "prashna": "उत्पादन फलन को व्यक्त करता है",
+      "options": {
+        "A": "$Q_x = P_x$",
+        "B": "$Q_x = D_x$",
+        "C": "$Q_x = f(A, B, C, D)$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$Q_x = P_x$",
+        "B": "$Q_x = D_x$",
+        "C": "$Q_x = f(A, B, C, D)$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is not a factor of production?",
+      "prashna": "निम्नलिखित में से कौन उत्पत्ति का साधन नहीं है?",
+      "options": {
+        "A": "Land",
+        "B": "Labour",
+        "C": "Money",
+        "D": "Capital"
+      },
+      "vikalpa": {
+        "A": "भूमि",
+        "B": "श्रम",
+        "C": "मुद्रा",
+        "D": "पूँजी"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The basic reason of operating the Law of Diminishing Return is",
+      "prashna": "उत्पत्ति ह्रास नियम लागू होने का मुख्य कारण कौन-सा है ?",
+      "options": {
+        "A": "Scarcity of factors",
+        "B": "Imperfect substitution between factors",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "साधनों की सीमितता",
+        "B": "साधनों का अपूर्ण स्थानापन्न होना",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Law of variable proportion is related to",
+      "prashna": "परिवर्तनशील अनुपात का नियम सम्बन्धित है",
+      "options": {
+        "A": "Both short-run and long-run",
+        "B": "Long-run",
+        "C": "Short-run",
+        "D": "Very long-run"
+      },
+      "vikalpa": {
+        "A": "अल्पकाल एवं दीर्घकाल दोनों से",
+        "B": "दीर्घकाल से",
+        "C": "अल्पकाल से",
+        "D": "अति दीर्घकाल से"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The alternative name of opportunity cost is",
+      "prashna": "अवसर लागत का वैकल्पिक नाम है",
+      "options": {
+        "A": "Economic cost",
+        "B": "Equilibrium price",
+        "C": "Marginal cost",
+        "D": "Average cost"
+      },
+      "vikalpa": {
+        "A": "आर्थिक लागत",
+        "B": "सन्तुलन मूल्य",
+        "C": "सीमान्त लागत",
+        "D": "औसत लागत"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which factors are used in short-run production process?",
+      "prashna": "अल्पकाल में उत्पादन प्रक्रिया में निम्नलिखित में कौन-से साधन होते हैं ?",
+      "options": {
+        "A": "Fixed factors",
+        "B": "Variable factors",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्थिर साधन",
+        "B": "परिवर्तनशील साधन",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "With the increase in production, the difference between total cost and total fixed cost",
+      "prashna": "उत्पादन में वृद्धि के साथ-साथ कुल लागत और कुल स्थिर लागत का अन्तर",
+      "options": {
+        "A": "remains constant",
+        "B": "increases",
+        "C": "decreases",
+        "D": "both increases and decreases"
+      },
+      "vikalpa": {
+        "A": "स्थिर रहता है",
+        "B": "बढ़ता है",
+        "C": "घटता जाता है",
+        "D": "बढ़ता-घटता रहता है"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is marginal production?",
+      "prashna": "सीमान्त उत्पादन क्या है ?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is cost function?",
+      "prashna": "लागत फलन क्या है ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What does an entrepreneur receive in return for bearing the risk of the organization?",
+      "prashna": "व्यवस्था की जोखिम सहने के बदले में उद्यमी क्या प्राप्त करता है ?",
+      "options": {
+        "A": "Interest",
+        "B": "Rent",
+        "C": "Wages",
+        "D": "Profit"
+      },
+      "vikalpa": {
+        "A": "ब्याज",
+        "B": "लगान",
+        "C": "मजदूरी",
+        "D": "लाभ"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Other things remaining constant, what expresses the positive relationship between the price of a commodity and the quantity supplied?",
+      "prashna": "अन्य बातें समान रहें तो वस्तु की कीमत तथा पूर्ति की मात्रा में धनात्मक सम्बन्ध व्यक्त करता है ?",
+      "options": {
+        "A": "Law of Demand",
+        "B": "Law of Supply",
+        "C": "Elasticity of Supply",
+        "D": "Supply Function"
+      },
+      "vikalpa": {
+        "A": "माँग का नियम",
+        "B": "पूर्ति का नियम",
+        "C": "पूर्ति की लोच",
+        "D": "पूर्ति फलन"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following statements is true?",
+      "prashna": "निम्नांकित में से कौन-सा कथन सत्य है ?",
+      "options": {
+        "A": "Supply is perfectly elastic in the short run.",
+        "B": "The degrees of elasticity of supply can be divided into three parts.",
+        "C": "The elasticity of supply of a commodity does not depend on the nature of that commodity.",
+        "D": "There are two methods of measuring elasticity of supply."
+      },
+      "vikalpa": {
+        "A": "अल्पकाल में पूर्ति पूर्णतः लोचदार होती हैं।",
+        "B": "पूर्ति की लोच की श्रेणियों को तीन भागों में बाँटा जा सकता है।",
+        "C": "किसी वस्तु की पूर्ति की लोच उस वस्तु की प्रकृति पर निर्भर नहीं करती है",
+        "D": "पूर्ति लोच की माप की दो विधियाँ हैं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What is the main reason for the application of the Law of Diminishing Returns?",
+      "prashna": "उत्पत्ति हास नियम लागू होने के मुख्य कारण कौन-सा है ?",
+      "options": {
+        "A": "Scarcity of factors",
+        "B": "Imperfect substitution of factors",
+        "C": "Both (a) and (b)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "साधनों की सीमितता",
+        "B": "साधनों का अपूर्ण स्थानापन्न",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Long-run production function is related to which of the following?",
+      "prashna": "दीर्घकालीन उत्पादन फलन का सम्बन्ध निम्न में से किससे है ?",
+      "options": {
+        "A": "Law of Demand",
+        "B": "Law of Increasing Returns",
+        "C": "Law of Returns to Scale",
+        "D": "Elasticity of Demand"
+      },
+      "vikalpa": {
+        "A": "माँग के नियम",
+        "B": "उत्पत्ति वृद्धि नियम",
+        "C": "पैमाने का प्रतिफल नियम",
+        "D": "माँग की लोच"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Active factor of production is:",
+      "prashna": "उत्पादन का सक्रिय साधन है",
+      "options": {
+        "A": "Capital",
+        "B": "Labor",
+        "C": "Land",
+        "D": "Organization"
+      },
+      "vikalpa": {
+        "A": "पूँजी",
+        "B": "श्रम",
+        "C": "भूमि",
+        "D": "संगठन"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is not a fixed cost?",
+      "prashna": "निम्नलिखित में से कौन स्थिर लागत नहीं है ?",
+      "options": {
+        "A": "Insurance premium",
+        "B": "Interest",
+        "C": "Cost of raw material",
+        "D": "Rent of factory"
+      },
+      "vikalpa": {
+        "A": "बीमे का प्रीमियम",
+        "B": "ब्याज",
+        "C": "कच्चे माल की लागत",
+        "D": "फैक्ट्री का किराया"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "When average cost is falling, what is the relationship between marginal cost and average cost?",
+      "prashna": "जब औसत लागत घट रही हो तो सीमान्त लागत, औसत लागत की तुलना में क्या होती है ?",
+      "options": {
+        "A": "$MC > AC$",
+        "B": "$MC = AC$",
+        "C": "$MC < AC$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$MC > AC$",
+        "B": "$MC = AC$",
+        "C": "$MC < AC$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The elasticity of a supply line passing through the origin of the axes is:",
+      "prashna": "अक्षों के केन्द्र से निकलने वाली पूर्ति रेखा की लोच होती है।",
+      "options": {
+        "A": "Less than unit",
+        "B": "More than unit",
+        "C": "Equal to unit",
+        "D": "Equal to zero"
+      },
+      "vikalpa": {
+        "A": "इकाई से कम",
+        "B": "इकाई से अधिक",
+        "C": "इकाई के बराबर",
+        "D": "शून्य के बराबर"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is not a factor of production?",
+      "prashna": "निम्नलिखित में से कौन उत्पत्ति का साधन नहीं है ?",
+      "options": {
+        "A": "Land",
+        "B": "Labor",
+        "C": "Money",
+        "D": "Capital"
+      },
+      "vikalpa": {
+        "A": "भूमि",
+        "B": "श्रम",
+        "C": "मुद्रा",
+        "D": "पूँजी"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "$e_s = 0$ means the elasticity of supply is:",
+      "prashna": "$e_s = 0$ का अर्थ है कि पूर्ति की लोच",
+      "options": {
+        "A": "Perfectly elastic",
+        "B": "Perfectly inelastic",
+        "C": "Less elastic",
+        "D": "Unitary elastic"
+      },
+      "vikalpa": {
+        "A": "पूर्णतः लोचदार है",
+        "B": "पूर्णतः बेलोचदार है",
+        "C": "कम लोचदार है",
+        "D": "इकाई लोचदार है"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is Cost Function?",
+      "prashna": "लागत फलन क्या है ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Differentiate between individual supply and market supply.",
+      "prashna": "व्यक्तिगत पूर्ति तथा बाजार पूर्ति में अंतर स्पष्ट कीजिए।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Define Production Function.",
+      "prashna": "उत्पादन फलन को परिभाषित कीजिए।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is termed as economic cost ?",
+      "prashna": "निम्न में किसे आर्थिक लागत की संज्ञा दी गई है ?",
+      "options": {
+        "A": "Production cost",
+        "B": "Fixed cost",
+        "C": "Monetary cost",
+        "D": "Economic cost"
+      },
+      "vikalpa": {
+        "A": "उत्पादन लागत",
+        "B": "स्थिर लागत",
+        "C": "मौद्रिक लागत",
+        "D": "आर्थिक लागत"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The marginal cost curve cuts the average variable cost curve at which point ?",
+      "prashna": "सीमांत लागत वक्र औसत परिवर्ती लागत वक्र को किस बिन्दु पर काटता है ?",
+      "options": {
+        "A": "Highest point",
+        "B": "Minimum point",
+        "C": "In declining portion",
+        "D": "In rising portion"
+      },
+      "vikalpa": {
+        "A": "उच्चतम बिन्दु पर",
+        "B": "न्यूनतम बिन्दु पर",
+        "C": "गिरते हुए खण्ड में",
+        "D": "उठते हुए खण्ड में"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following curves is of shape of English letter 'U' ?",
+      "prashna": "निम्न में कौन वक्र अंग्रेजी अक्षर 'U' के आकार का होता है ?",
+      "options": {
+        "A": "Total fixed cost curve",
+        "B": "Total cost curve",
+        "C": "Total variable cost curve",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कुल स्थिर लागत वक्र",
+        "B": "कुल लागत वक्र",
+        "C": "कुल परिवर्ती लागत वक्र",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "(Total cost of $q$ units of output) - (Total cost of $q - 1$ units of output) = ?",
+      "prashna": "($q$ इकाई उत्पादन पर कुल लागत) – ($q - 1$ इकाई उत्पादन पर कुल लागत) = ?",
+      "options": {
+        "A": "Average cost",
+        "B": "Marginal cost",
+        "C": "Fixed cost",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "औसत लागत",
+        "B": "सीमांत लागत",
+        "C": "स्थिर लागत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Marginal cost curve and average cost curve, both are of which shape ?",
+      "prashna": "सीमांत लागत वक्र एवं औसत लागत वक्र, दोनों किस आकार के होते हैं ?",
+      "options": {
+        "A": "Inverted 'U' shaped",
+        "B": "Parallel to $x$-axis",
+        "C": "Inverted 'S' shaped",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उल्टे 'U' आकार का",
+        "B": "$x$-अक्ष के समांतर",
+        "C": "उल्टे 'S' आकार का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If all inputs are increased $t (t > 1)$ times such that output also increases $t$ times then what is this called ?",
+      "prashna": "यदि सभी आगतों में $t (t > 1)$ गुनी वृद्धि होती है जिससे उत्पादन भी $t$ गुना बढ़ जाता है तो इसे क्या कहते हैं ?",
+      "options": {
+        "A": "Constant returns to scale",
+        "B": "Increasing returns to scale",
+        "C": "Diminishing returns to scale",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्थिर पैमाने का प्रतिफल",
+        "B": "वर्धमान पैमाने का प्रतिफल",
+        "C": "ह्रासमान पैमाने का प्रतिफल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "In Cobb-Douglass production function $q = x_1^{\\alpha} \\times x_2^{\\beta}$, if $\\alpha + \\beta > 1$, then what does it show ?",
+      "prashna": "कॉब-डगलस उत्पादन फलन $q = x_1^{\\alpha} \\times x_2^{\\beta}$ में यदि $\\alpha + \\beta > 1$, तो यह क्या दर्शाता है ?",
+      "options": {
+        "A": "Constant returns to scale",
+        "B": "Increasing returns to scale",
+        "C": "Decreasing returns to scale",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्थिर पैमाने का प्रतिफल",
+        "B": "वर्धमान पैमाने का प्रतिफल",
+        "C": "ह्रासमान पैमाने का प्रतिफल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "At zero level of output total cost = ?",
+      "prashna": "निर्गत के शून्य स्तर पर कुल लागत = ?",
+      "options": {
+        "A": "Marginal cost",
+        "B": "Fixed cost",
+        "C": "Total variable cost",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सीमांत लागत",
+        "B": "स्थिर लागत",
+        "C": "कुल परिवर्ती लागत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "$\\Delta\\text{Total cost} / \\Delta q = ?",
+      "prashna": "$\\Delta\\text{कुल लागत} / \\Delta q = ?",
+      "options": {
+        "A": "Average cost",
+        "B": "Marginal cost",
+        "C": "Total variable cost",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "औसत लागत",
+        "B": "सीमांत लागत",
+        "C": "कुल परिवर्ती लागत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What is the slope of short run average fixed cost curve ?",
+      "prashna": "अल्पकाल औसत स्थिर लागत वक्र की ढाल क्या होती है ?",
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऋणात्मक",
+        "B": "धनात्मक",
+        "C": "शून्य",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If other inputs are constant then increase in use of one input causes what changes in marginal output ?",
+      "prashna": "अन्य आगत स्थिर हों तो किसी एक आगत के प्रयोग में वृद्धि की जाए तो सीमांत उत्पादन में क्या परिवर्तन होता है ?",
+      "options": {
+        "A": "It decreases",
+        "B": "It increases",
+        "C": "It remains constant",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "गिरावट आती है",
+        "B": "वृद्धि होती है",
+        "C": "स्थिर रहती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What is the set of combinations of two inputs which produces equal level of output called ?",
+      "prashna": "दो आगतों के संयोगों का वह सेट जो समान निर्गत स्तर का उत्पादन करते हैं, क्या कहलाते हैं ?",
+      "options": {
+        "A": "Isoquant curve",
+        "B": "Indifference curve",
+        "C": "Isocost curve",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समोत्पाद वक्र",
+        "B": "अनधिमान वक्र",
+        "C": "समलागत रेखा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Quantities of which of the following inputs can be varied in the long run ?",
+      "prashna": "निम्न में किस आगत की मात्रा को दीर्घकाल में परिवर्तित किया जा सकता है ?",
+      "options": {
+        "A": "Labour",
+        "B": "Raw material",
+        "C": "Machine",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "श्रम",
+        "B": "कच्चा माल",
+        "C": "मशीन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "At which point does marginal cost curve cut the average cost curve ?",
+      "prashna": "सीमांत लागत वक्र औसत लागत वक्र को किस बिन्दु पर काटती है ?",
+      "options": {
+        "A": "At highest point",
+        "B": "At lowest point",
+        "C": "At mid-point",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उच्चतम बिन्दु पर",
+        "B": "न्यूनतम बिन्दु पर",
+        "C": "मध्य बिन्दु पर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "In the law of variable proportion, which proportion is varied ?",
+      "prashna": "परिवर्ती अनुपात के नियम में किसके अनुपात में परिवर्तन किया जाता है ?",
+      "options": {
+        "A": "Proportion between fixed and variable inputs",
+        "B": "The ratio between marginal and average products",
+        "C": "The proportion between marginal and total products",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्थिर एवं परिवर्ती आगतों के अनुपात में",
+        "B": "सीमांत और औसत उत्पादों के अनुपात में",
+        "C": "सीमांत और कुल उत्पादों के अनुपात में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If there is an increase of $t$ times in factors of production as a result of which output increases $t$ times then what will this be called ?",
+      "prashna": "यदि उत्पादन के कारकों में $t$ गुना वृद्धि की जाए जिससे उत्पादन में भी $t$ गुना वृद्धि हो, तो उसे क्या कहेंगे ?",
+      "options": {
+        "A": "Increasing returns to scale",
+        "B": "Decreasing returns to scale",
+        "C": "Constant returns to scale",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वर्धमान अनुमापी प्रतिफल",
+        "B": "ह्रासमान अनुमापी प्रतिफल",
+        "C": "स्थिर अनुमापी प्रतिफल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "As the quantity of input increases, in the beginning what change takes place in the short run marginal cost curve ?",
+      "prashna": "जैसे-जैसे निर्गत में वृद्धि होती है, शुरू में अल्पकालीन सीमांत लागत वक्र में क्या परिवर्तन होता है ?",
+      "options": {
+        "A": "Increases",
+        "B": "Declines",
+        "C": "Remains constant",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वृद्धि होती है",
+        "B": "गिरावट आती है",
+        "C": "स्थिर रहती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following equations is correct ?",
+      "prashna": "निम्न में से कौन समीकरण सही है ?",
+      "options": {
+        "A": "Average variable cost = Total variable cost / Output",
+        "B": "Total variable cost = Average Variable Cost x Quantity",
+        "C": "Average cost = Total cost / q",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "औसत परिवर्ती लागत = कुल परिवर्ती लागत / निर्गत",
+        "B": "कुल परिवर्ती लागत = औसत परिवर्ती लागत x मात्रा",
+        "C": "औसत लागत = कुल लागत / q",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following curves cuts which curve at its minimum point ?",
+      "prashna": "निम्न में कौन वक्र, किस वक्र को उसके न्यूनतम बिन्दु पर काटता है ?",
+      "options": {
+        "A": "Marginal cost curve cuts Total cost curve",
+        "B": "Marginal cost curve cuts Average cost curve",
+        "C": "Marginal cost curve cuts Fixed cost curve",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सीमांत लागत वक्र कुल लागत वक्र को",
+        "B": "सीमांत लागत वक्र औसत लागत वक्र को",
+        "C": "सीमांत लागत वक्र स्थिर लागत वक्र को",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "State the law of diminishing marginal productivity.",
+      "prashna": "ह्रासमान सीमांत उत्पादकता नियम को बतायें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Draw average variable cost curve.",
+      "prashna": "औसत परिवर्ती लागत वक्र चित्रित करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Show total cost, marginal cost and average cost with the help of diagrams.",
+      "prashna": "कुल लागत, सीमांत लागत एवं औसत लागत को चित्रों द्वारा दर्शायें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is a factor(s) of production?",
+      "prashna": "उत्पादन के निम्न में से कौन से घटक है?",
+      "options": {
+        "A": "Land",
+        "B": "Labour",
+        "C": "Capital",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "भूमि",
+        "B": "श्रम",
+        "C": "पूँजी",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "In production function, production is a function of ?",
+      "prashna": "उत्पादन फलन में उत्पादन किसका फलन है?",
+      "options": {
+        "A": "Price",
+        "B": "Factors of production",
+        "C": "Total expenditure",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कीमत का",
+        "B": "उत्पत्ति के साधनों का",
+        "C": "कुल व्यय का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Long-run production function is related to which of the following?",
+      "prashna": "दीर्घकालीन उत्पादन फलन का सम्बन्ध निम्न में से किससे है?",
+      "options": {
+        "A": "Law of demand",
+        "B": "Law of increasing return",
+        "C": "Law of return to scale",
+        "D": "Elasticity of demand"
+      },
+      "vikalpa": {
+        "A": "माँग के नियम से",
+        "B": "उत्पत्ति वृद्धि नियम से",
+        "C": "पैमाने के प्रतिफल नियम से",
+        "D": "माँग की लोच से"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Law of variable proportion is related to:",
+      "prashna": "परिवर्तनशील अनुपात का नियम संबंधित है:",
+      "options": {
+        "A": "Both short term and long term",
+        "B": "Long term",
+        "C": "Short term",
+        "D": "Very long- term"
+      },
+      "vikalpa": {
+        "A": "अल्पकाल और दीर्घकाल दोनों से",
+        "B": "दीर्घकाल से",
+        "C": "अल्पकाल से",
+        "D": "अति दीर्घकाल"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "When Average Product (AP) is maximum, then Marginal Product (MP) is?",
+      "prashna": "जब औसत उत्पाद ($AP$) अधिकतम होता है, तब सीमान्त उत्पाद ($MP$)?",
+      "options": {
+        "A": "Equal to AP",
+        "B": "Less than AP",
+        "C": "More than AP",
+        "D": "Can be any one of the above"
+      },
+      "vikalpa": {
+        "A": "औसत उत्पाद के समान होता है",
+        "B": "औसत उत्पाद से कम होता है",
+        "C": "औसत उत्पाद से अधिक होता है",
+        "D": "उपर्युक्त में से कोई भी हो सकता है"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The production function a firm is:",
+      "prashna": "एक फर्म का उत्पादन फलन है:",
+      "options": {
+        "A": "Production",
+        "B": "Relationship between input and output",
+        "C": "cost",
+        "D": "factors"
+      },
+      "vikalpa": {
+        "A": "उत्पादन",
+        "B": "आगतों एवं निर्गतों में सम्बन्ध",
+        "C": "लागत",
+        "D": "साधन"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "When total fixed cost of production of 100 units is ₹ 30 and the average variable cost is ₹ 3, then the total cost will be-",
+      "prashna": "जब 100 इकाई उत्पादन करने की कुल स्थिर लागत ₹ 30 हो और औसत परिवर्ती लागत ₹ 3 हो तो कुल लागत होगी-",
+      "options": {
+        "A": "₹ 3",
+        "B": "₹ 30",
+        "C": "₹ 270",
+        "D": "₹ 330"
+      },
+      "vikalpa": {
+        "A": "₹ 3",
+        "B": "₹ 30",
+        "C": "₹ 270",
+        "D": "₹ 330"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The shaped of average cost curve is:",
+      "prashna": "औसत लागत वक्र का आकार होता है–",
+      "options": {
+        "A": "U Shaped",
+        "B": "Rectangular hyperbola shaped",
+        "C": "Line parallel to x-axis",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$U$ अकार जैसा",
+        "B": "आयताकार अतिपरवलय आकर",
+        "C": "$X$-अक्ष की समानान्तर रेखा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following statement is true ?",
+      "prashna": "निम्न में से कौन सा कथन सत्य है?",
+      "options": {
+        "A": "AC=TFC–TVC",
+        "B": "AC = AFC + TVC",
+        "C": "AC=TFC+AVC",
+        "D": "AC =AFC + AVC"
+      },
+      "vikalpa": {
+        "A": "AC=TFC–TVC",
+        "B": "AC = AFC + TVC",
+        "C": "AC=TFC+AVC",
+        "D": "AC =AFC + AVC"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is included in Monetary cost?",
+      "prashna": "मौद्रिक लागत में निम्नलिखित में किसे सम्मिलित किया जाता है?",
+      "options": {
+        "A": "Implicit Cost",
+        "B": "Normal Profit",
+        "C": "Explicit Cost",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "अव्यक्त लागतें",
+        "B": "सामान्य लाभ",
+        "C": "व्यक्त लागतें",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is not fixed cost ?",
+      "prashna": "निम्नलिखित में से कौन स्थिर लागत नहीं है?",
+      "options": {
+        "A": "Interest",
+        "B": "Insurance Premium",
+        "C": "Cost of Raw Material",
+        "D": "Factory Rent"
+      },
+      "vikalpa": {
+        "A": "ब्याज",
+        "B": "बीमे का प्रीमियम",
+        "C": "कच्चे माल की लागत",
+        "D": "फैक्ट्री का किराया"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is meant by fixed factors of production?",
+      "prashna": "उत्पादन के स्थिर साधनों से क्या तात्पर्य है?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Define Marginal Cost.",
+      "prashna": "सीमांत लागत की परिभाषा दीजिए।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Distinguish difference between fixed and variable cost.",
+      "prashna": "स्थिर एवं परिवर्तनशील लागत में अंतर स्पष्ट कीजिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following factors cannot be changed in the short run?",
+      "prashna": "इनमें से किस कारक को हम अल्पकाल में नहीं परिवर्तित कर सकते हैं?",
+      "options": {
+        "A": "Labour",
+        "B": "Fertilizers",
+        "C": "Irrigation",
+        "D": "Machine / Tractor"
+      },
+      "vikalpa": {
+        "A": "श्रम",
+        "B": "उर्वरक खाद",
+        "C": "सिंचाई",
+        "D": "मशीन / ट्रैक्टर"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "$\\frac{\\Delta q}{\\Delta x_1}$ defines which component of a production function $q = f(x_1, \\bar{x}_2)$?",
+      "prashna": "$\\frac{\\Delta q}{\\Delta x_1}$, उत्थान फलन $q = f(x_1, \\bar{x}_2)$ में किस घटक को परिभाषित करता है?",
+      "options": {
+        "A": "Average Product",
+        "B": "Marginal Product",
+        "C": "Total Product",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "औसत उत्पाद को",
+        "B": "सीमांत उत्पाद को",
+        "C": "कुल उत्पाद को",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The shape of which of these curves is that of ‘inverted U’?",
+      "prashna": "इनमें से किस वक्र का आकार ‘उल्टा U’ आकृति का होता है?",
+      "options": {
+        "A": "Marginal Product",
+        "B": "Total Product",
+        "C": "Average Product",
+        "D": "Only (A) and (C)"
+      },
+      "vikalpa": {
+        "A": "सीमांत उत्पाद",
+        "B": "कुल उत्पाद",
+        "C": "औसत उत्पाद",
+        "D": "(A) एवं (C) दोनों"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Total variable cost $(TVC) = ?$ where Total cost is $TC$ and total fixed cost is $TFC$?",
+      "prashna": "कुल परिवर्त्ती लागन $(TVC) = ?$ जहाँ कुल लागत $TC$ एवं कुल स्थिर लागत $TFC$ हो?",
+      "options": {
+        "A": "$TC - TFC$",
+        "B": "$TC \\div TFC$",
+        "C": "$TC + TFC$",
+        "D": "$TC \\times TFC$"
+      },
+      "vikalpa": {
+        "A": "$TC - TFC$",
+        "B": "$TC \\div TFC$",
+        "C": "$TC + TFC$",
+        "D": "$TC \\times TFC$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If the output increases $t$ times when the quantity of factors in the production function is increased ‘$t$’ times, then what would this result be called?",
+      "prashna": "यदि उत्पादन फलन में कारकों की मात्रा में $t$ गुणा वृद्धि करने पर निर्गत में $t$ गुणा वृद्धि होती है तो इस परिणाम को क्या नाम देंगे?",
+      "options": {
+        "A": "Decreasing returns to scale",
+        "B": "Increasing returns to scale",
+        "C": "Constant returns to scale",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पैमाने का घटता प्रतिफल",
+        "B": "वर्धमान पैमाने का प्रतिफल",
+        "C": "स्थिर पैमाने का प्रतिफल",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "What is the shape of average fixed cost curve?",
+      "prashna": "औसत स्थिर लागत वक्र का क्या आकार होता है?",
+      "options": {
+        "A": "Inverted S",
+        "B": "Horizontal straight line",
+        "C": "U shaped",
+        "D": "Rectangular Hyperbola"
+      },
+      "vikalpa": {
+        "A": "उल्टा S",
+        "B": "समस्तरीय रेखा",
+        "C": "U आकार",
+        "D": "आयताकार अतिपरवल"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of these short run curves is not ‘U Shaped’?",
+      "prashna": "इनमें कौन अल्पकालीन वक्र ‘U आकार’ का नहीं होता है?",
+      "options": {
+        "A": "Marginal cost curve",
+        "B": "Average cost curve",
+        "C": "Average fixed cost curve",
+        "D": "Only (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "सीमांत लागत वक्र",
+        "B": "औसत लागत वक्र",
+        "C": "औसत स्थिर लागत वक्र",
+        "D": "केवल (A) एवं (B)"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The average cost curve is the sum of what?",
+      "prashna": "औसत लागत वक्र किसका योग है?",
+      "options": {
+        "A": "Average fixed cost",
+        "B": "Average variable cost",
+        "C": "Marginal cost",
+        "D": "Only (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "औसत स्थिर लागत",
+        "B": "औसत परिवर्त्ती लागत",
+        "C": "सीमांत लागत",
+        "D": "केवल (A) एवं (B)"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "Which of the following is not shaped as ‘Inverted U’?",
+      "prashna": "इनमें कौन वक्र ‘उल्टे U’ आकार का नहीं होता है?",
+      "options": {
+        "A": "Marginal Product Curve",
+        "B": "Average Product Curve",
+        "C": "Total Product Curve",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सीमांत उत्पाद वक्र",
+        "B": "औसत उत्पाद वक्र",
+        "C": "कुल उत्पाद वक्र",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "If $f(tx_1, tx_2) > t \\cdot f(x_1, x_2)$, then which returns to scale does it depict? (Here $t > 1$)",
+      "prashna": "यदि $f(tx_1, tx_2) > t \\cdot f(x_1, x_2)$ तो यह किस पैमाने के प्रतिफल को दर्शाता है? (यहाँ $t > 1$)",
+      "options": {
+        "A": "Increasing",
+        "B": "Constant",
+        "C": "Decreasing",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वर्धमान",
+        "B": "स्थिर",
+        "C": "ह्रासमान",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Production and Costs",
+      "question": "The correct definition of short run marginal cost is?",
+      "prashna": "अल्पकालीन सीमांत लागत की सही परिभाषा है –",
+      "options": {
+        "A": "$\\Delta \\text{Total cost} / \\Delta q$",
+        "B": "$\\text{Total cost} / q$",
+        "C": "$(\\text{Total cost at } q_1) - (\\text{Total cost at } q_1-1)$",
+        "D": "Only (A) and (C)"
+      },
+      "vikalpa": {
+        "A": "$\\Delta \\text{कुल लागत} / \\Delta q$",
+        "B": "$\\text{कुल लागत} / q$",
+        "C": "($q_1$ पर कुल लागत) - ($q_{1-1}$ पर कुल लागत)",
+        "D": "(A) एवं (C) दोनों"
+      }
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Draw total product curve.",
+      "prashna": "कुल उत्पाद वक्र चित्रित करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "Define diminishing returns to scale.",
+      "prashna": "पैमाने के ह्रासमान प्रतिफल को परिभाषित करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "What is the expression for total cost?",
+      "prashna": "कुल लागत की क्या अभिव्यक्ति है?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "Production and Costs",
+      "question": "In a single diagram draw average variable cost curve and average cost curve.",
+      "prashna": "एक ही चित्र में औसत परिवर्ती लागत वक्र एवं औसत लागत वक्र चित्रित करें।"
+    }
+  ]
+}

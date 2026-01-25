@@ -1,0 +1,1515 @@
+{
+  "2021": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the sum of all factor payments in an economy?",
+      "prashna": "अर्थव्यवस्था के समस्त कारक अदायगी का योग क्या होता है?",
+      "options": {
+        "A": "National Income",
+        "B": "Market Income",
+        "C": "Entrepreneur's Income",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रीय आय",
+        "B": "बाजार आय",
+        "C": "उद्यमी की आय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "If the market value of a bread is 75 rupees and wheat and other intermediate goods worth 50 rupees were used to make it, what will be the value added of the baker (bread maker)?",
+      "prashna": "यदि किसी ब्रेड का बाजार मूल्य 75 रुपये है और उसे बनाने में 50 रुपये मूल्य का गेहूँ एवं अन्य मध्यवर्ती वस्तुएँ प्रयुक्त हुई हो तो बेकर (ब्रेड बनाने वाला) का मूल्यवर्धित क्या होगा?",
+      "options": {
+        "A": "50 rupees",
+        "B": "75 rupees",
+        "C": "25 rupees",
+        "D": "100 rupees"
+      },
+      "vikalpa": {
+        "A": "50 रुपये",
+        "B": "75 रुपये",
+        "C": "25 रुपये",
+        "D": "100 रुपये"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "If the Gross Value Added of a firm is GVA, then what will $\\sum GVA$ (sum of GVA of all firms) be called?",
+      "prashna": "यदि किसी फर्म का सकल मूल्यवर्धित GVA हो, तो $\\sum GVA$ (सभी फर्मों के सकल मूल्यवर्धित का योग) क्या कहलायेगा?",
+      "options": {
+        "A": "Net Value Added",
+        "B": "Gross Domestic Product",
+        "C": "Depreciation",
+        "D": "Net Domestic Product"
+      },
+      "vikalpa": {
+        "A": "निवल मूल्यवर्धित",
+        "B": "सकल घरेलू उत्पाद",
+        "C": "मूल्य ह्रास",
+        "D": "निवल घरेलू उत्पाद"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "At what price is Real Gross Domestic Product measured?",
+      "prashna": "वास्तविक सकल घरेलू उत्पाद को किस मूल्य पर मापा जाता है?",
+      "options": {
+        "A": "At constant prices",
+        "B": "At base year prices",
+        "C": "At current prices",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "स्थिर कीमतों पर",
+        "B": "आधार वर्ष कीमतों पर",
+        "C": "वर्तमान कीमतों पर",
+        "D": "(a) और (b) दोनों"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Between any two years, if prices of all goods and services double while production remains constant, what will be the change in real income?",
+      "prashna": "किन्हीं दो वर्षों के बीच यदि सभी वस्तुओं और सेवाओं की कीमतें दोगुनी हो जाती है जबकि उत्पादन स्थिर हो तो वास्तविक आय में क्या परिवर्तन होगा?",
+      "options": {
+        "A": "Will double",
+        "B": "Will be halved",
+        "C": "Will remain constant",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "दोगुना हो जाएगा",
+        "B": "आधा हो जाएगा",
+        "C": "स्थिर रहेगा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is not a capital good?",
+      "prashna": "निम्न में कौन पूँजीगत वस्तु नहीं है?",
+      "options": {
+        "A": "Tools",
+        "B": "Equipment",
+        "C": "Machine",
+        "D": "Steel sheet"
+      },
+      "vikalpa": {
+        "A": "औजार",
+        "B": "उपकरण",
+        "C": "मशीन",
+        "D": "इस्पात की चादर"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the common standard for all final goods and services produced in the economy?",
+      "prashna": "अर्थव्यवस्था में उत्पादित सभी अंतिम वस्तुओं तथा सेवाओं का सामान्य मापदंड क्या है?",
+      "options": {
+        "A": "Ton",
+        "B": "Count number",
+        "C": "Litre",
+        "D": "Money (Rupee)"
+      },
+      "vikalpa": {
+        "A": "टन",
+        "B": "गिनती की संख्या",
+        "C": "लीटर",
+        "D": "मुद्रा (रुपया)"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the increase in machine capital stock (flow of new machine) called?",
+      "prashna": "मशीन पूँजी स्टॉक में वृद्धि (नई मशीन के प्रवाह) को क्या कहते हैं?",
+      "options": {
+        "A": "Gross Investment",
+        "B": "Net Investment",
+        "C": "Replacement Investment",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सकल निवेश",
+        "B": "निवल निवेश",
+        "C": "प्रतिस्थापन निवेश",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Why is the adjustment of wear and tear (depreciation) in existing capital stock done?",
+      "prashna": "विद्यमान पूँजी स्टॉक में टूट-फूट का समायोजन (मूल्य ह्रास) क्यों किया जाता है?",
+      "options": {
+        "A": "To increase capital stock",
+        "B": "To save the held capital stock",
+        "C": "To replace old machine with new machine",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "पूँजी स्टॉक में अभिवृद्धि के लिए",
+        "B": "धारित पूँजी स्टॉक को बचाने के लिए",
+        "C": "पुरानी मशीन को नई मशीन से प्रतिस्थापन करने के लिए",
+        "D": "(b) एवं (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is added in the calculation of domestic product by the product method?",
+      "prashna": "उत्पादन विधि द्वारा घरेलू उत्पाद की गणना में किसे जोड़ते हैं?",
+      "options": {
+        "A": "Production",
+        "B": "Value added",
+        "C": "Income",
+        "D": "Expenditure"
+      },
+      "vikalpa": {
+        "A": "उत्पादन को",
+        "B": "मूल्यवर्धित को",
+        "C": "आय को",
+        "D": "व्यय को"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Semi-finished goods are termed as",
+      "prashna": "अर्द्धनिर्मित वस्तुएँ क्या कहलाती हैं?",
+      "options": {
+        "A": "Capital goods",
+        "B": "Intermediate goods",
+        "C": "Final goods",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजीगत वस्तुएँ",
+        "B": "मध्यवर्ती वस्तुएँ",
+        "C": "अन्तिम उत्पाद",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Increase in stock of capital is known as",
+      "prashna": "पूँजी के स्टॉक की वृद्धि कहलाती है",
+      "options": {
+        "A": "Capital loss",
+        "B": "Capital profit",
+        "C": "Capital formation",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजी ह्रास",
+        "B": "पूँजी लाभ",
+        "C": "पूँजी निर्माण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is not flow?",
+      "prashna": "निम्नलिखित में कौन-सा प्रवाह नहीं है ?",
+      "options": {
+        "A": "Capital",
+        "B": "Income",
+        "C": "Investment",
+        "D": "Depreciation"
+      },
+      "vikalpa": {
+        "A": "पूँजी",
+        "B": "आय",
+        "C": "निवेश",
+        "D": "मूल्य ह्रास"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is the equilibrium condition of circular flow in four-sector economy?",
+      "prashna": "चार क्षेत्रीय अर्थव्यवस्था के चक्रीय प्रवाह में संतुलन के लिए शर्त निम्नलिखित में कौन सी है ?",
+      "options": {
+        "A": "C + I",
+        "B": "C + I + G",
+        "C": "C + I + G + (X - M)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "C + I",
+        "B": "C + I + G",
+        "C": "C + I + G + (X - M)",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which one is included in three-sector model?",
+      "prashna": "तीन-क्षेत्रीय मॉडल में निम्नलिखित में कौन शामिल है?",
+      "options": {
+        "A": "Family",
+        "B": "Firm",
+        "C": "Government",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "परिवार",
+        "B": "फर्म",
+        "C": "सरकार",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which one of the following is included in flow?",
+      "prashna": "प्रवाह के अन्तर्गत निम्नलिखित में कौन शामिल है?",
+      "options": {
+        "A": "Consumption",
+        "B": "Investment",
+        "C": "Income",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "निवेश",
+        "C": "आय",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following affects national income?",
+      "prashna": "निम्नलिखित में से कौन-सा राष्ट्रीय आय को प्रभावित करता है ?",
+      "options": {
+        "A": "Goods and Service tax",
+        "B": "Corporation tax",
+        "C": "Subsidies",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु एवं सेवा कर",
+        "B": "निगम कर",
+        "C": "आर्थिक सहायता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is GNP calculated on fixed price?",
+      "prashna": "स्थिर मूल्य पर आकलित सकल राष्ट्रीय उत्पाद क्या है?",
+      "options": {
+        "A": "Real GNP",
+        "B": "Real GDP",
+        "C": "Money GNP",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक GNP",
+        "B": "वास्तविक GDP",
+        "C": "मुद्रा GNP",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "In which of the following are Depreciation expenses included?",
+      "prashna": "घिसावट व्यय किसमें सम्मिलित रहता है ?",
+      "options": {
+        "A": "$GNP_{MP}$",
+        "B": "$NNP_{MP}$",
+        "C": "$NNP_{PC}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$GNP_{MP}$",
+        "B": "$NNP_{MP}$",
+        "C": "$NNP_{PC}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which one of the following is included in primary sector?",
+      "prashna": "प्राथमिक क्षेत्र में निम्नलिखित में कौन शामिल है?",
+      "options": {
+        "A": "Land",
+        "B": "Forest",
+        "C": "Mining",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "भूमि",
+        "B": "वन",
+        "C": "खनन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "To include the value of goods or services more than one time in calculating National Income is called",
+      "prashna": "राष्ट्रीय आय के आकलन में किसी वस्तु या सेवा का मूल्य एक से अधिक बार शामिल करना कहलाता है",
+      "options": {
+        "A": "Single counting",
+        "B": "Double counting",
+        "C": "Multiply counting",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एकल गणना",
+        "B": "दोहरी गणना",
+        "C": "बहु ल गणना",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which service of the following is included in secondary sector?",
+      "prashna": "द्वितीयक क्षेत्र के अन्तर्गत निम्नलिखित में कौन-सी सेवा सम्मिलित है ?",
+      "options": {
+        "A": "Insurance",
+        "B": "Manufacturing",
+        "C": "Trade",
+        "D": "Banking"
+      },
+      "vikalpa": {
+        "A": "बीमा",
+        "B": "विनिर्माण",
+        "C": "व्यापार",
+        "D": "बैंकिंग"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is not included in the calculation of Gross National Product?",
+      "prashna": "सकल राष्ट्रीय उत्पाद की गणना में निम्नलिखित में किसे सम्मिलित नहीं किया जाता है ?",
+      "options": {
+        "A": "Purchase and sale of old commodities",
+        "B": "Intermediate commodities",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पुरानी वस्तुओं का क्रय-विक्रय",
+        "B": "मध्यवर्ती वस्तुएँ",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is included in the calculation of National Income?",
+      "prashna": "राष्ट्रीय आय की गणना में निम्नलिखित में से किसे सम्मिलित किया जाता है ?",
+      "options": {
+        "A": "New final goods and services",
+        "B": "Intermediate goods",
+        "C": "Sale and purchase of old goods",
+        "D": "Transfer payments"
+      },
+      "vikalpa": {
+        "A": "नई अंतिम वस्तुएँ एवं सेवाएँ",
+        "B": "मध्यवर्ती वस्तुएँ",
+        "C": "पुरानी वस्तुओं का क्रय-विक्रय",
+        "D": "हस्तांतरण भुगतान"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is GNP Deflator?",
+      "prashna": "GNP अवस्फीतिक क्या है ?",
+      "options": {
+        "A": "$GNP \\text{ Deflator} = \\frac{\\text{Nominal GNP}}{\\text{Real GNP}} \\times 100$",
+        "B": "$GNP \\text{ Deflator} = \\frac{\\text{Real GNP}}{\\text{Nominal GNP}} \\times 100$",
+        "C": "$GNP \\text{ Deflator} = \\frac{\\text{Real GNP}}{\\text{Nominal GNP}}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$GNP \\text{ अवस्फीतिक} = \\frac{\\text{नकद GNP}}{\\text{वास्तविक GNP}} \\times 100$",
+        "B": "$GNP \\text{ अवस्फीतिक} = \\frac{\\text{वास्तविक GNP}}{\\text{नकद GNP}} \\times 100$",
+        "C": "$GNP \\text{ अवस्फीतिक} = \\frac{\\text{वास्तविक GNP}}{\\text{नकद GNP}}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Who made the first attempt at social accounting of national income?",
+      "prashna": "किसने राष्ट्रीय आय का लेखांकन का पहला प्रयास किया ?",
+      "options": {
+        "A": "Keynes",
+        "B": "Kuznets",
+        "C": "Gadgil",
+        "D": "Gregory King"
+      },
+      "vikalpa": {
+        "A": "कीन्स",
+        "B": "कुजनेट्स",
+        "C": "गाडगिल",
+        "D": "ग्रेगरी किंग"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the Gross National Product calculated at constant prices?",
+      "prashna": "स्थिर मूल्य पर आकलित सकल राष्ट्रीय उत्पाद क्या है ?",
+      "options": {
+        "A": "Real GNP",
+        "B": "Real GDP",
+        "C": "Money GNP",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक GNP",
+        "B": "वास्तविक GDP",
+        "C": "मुद्रा GNP",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is added in the calculation of Domestic Product by Production Method?",
+      "prashna": "उत्पादन विधि द्वारा घरेलू उत्पाद की गणना में किसे जोड़ा जाता है ?",
+      "options": {
+        "A": "Production",
+        "B": "Value added",
+        "C": "Income",
+        "D": "Expenditure"
+      },
+      "vikalpa": {
+        "A": "उत्पादन को",
+        "B": "वर्धित मूल्य को",
+        "C": "आप को",
+        "D": "व्यय को"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is a stock?",
+      "prashna": "निम्नलिखित में से कौन-सा स्टॉक है ?",
+      "options": {
+        "A": "Income",
+        "B": "Investment",
+        "C": "Profit",
+        "D": "Wealth"
+      },
+      "vikalpa": {
+        "A": "आय",
+        "B": "निवेश",
+        "C": "लाभ",
+        "D": "सम्पत्ति"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is the condition for equilibrium in the circular flow of a four-sector economy model?",
+      "prashna": "चार क्षेत्रीय अर्थव्यवस्था मॉडल के चक्रीय प्रवाह में सन्तुलन के लिए शर्त निम्नलिखित में से कौन-सी है ?",
+      "options": {
+        "A": "$C + 1$",
+        "B": "$C + I + G$",
+        "C": "$C + I + G + (X-M)$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$C + 1$",
+        "B": "$C + I + G$",
+        "C": "$C + I + G + (X-M)$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which service is included under the Tertiary Sector?",
+      "prashna": "तृतीयक क्षेत्र के अन्तर्गत निम्न में से कौन-सी सेवा सम्मिलित है ?",
+      "options": {
+        "A": "Agriculture",
+        "B": "Communication",
+        "C": "Mining",
+        "D": "Construction"
+      },
+      "vikalpa": {
+        "A": "कृषि",
+        "B": "संचार",
+        "C": "खनन",
+        "D": "निर्माण"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following statements is false?",
+      "prashna": "निम्नलिखित में से कौन-सा कथन असत्य है ?",
+      "options": {
+        "A": "GNP is a national concept.",
+        "B": "Consumption of fixed capital is called depreciation.",
+        "C": "Disposable Income = Private Income - Direct Taxes",
+        "D": "Subsidies are added in the calculation of $NDP_{FC}$."
+      },
+      "vikalpa": {
+        "A": "जी. एन. पी. (GNP) एक राष्ट्रीय अवधारणा है",
+        "B": "स्थायी पूँजी के उपभोग को मूल्य हास कहते हैं।",
+        "C": "प्रयोज्य आय = निजी आय - प्रत्यक्ष कर",
+        "D": "NDP FC की गणना में अनुदान जोड़ा जाता है।"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "The market value of final goods and services produced within an economy in a year is called:",
+      "prashna": "किसी अर्थव्यवस्था में एक वर्ष के अन्तर्गत उत्पादित अन्तिम वस्तुओं तथा सेवाओं के बाजार मूल्य को कहते हैं",
+      "options": {
+        "A": "Gross National Product",
+        "B": "National Income",
+        "C": "Gross Domestic Product",
+        "D": "Net National Product"
+      },
+      "vikalpa": {
+        "A": "कुल राष्ट्रीय उत्पाद",
+        "B": "राष्ट्रीय आप",
+        "C": "कुल घरेलू उत्पाद",
+        "D": "विशुद्ध राष्ट्रीय उत्पाद"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "The income of which factor of production is called profit ?",
+      "prashna": "उत्पादन के किस संसाधन के आय को लाभ कहते हैं ?",
+      "options": {
+        "A": "Labour",
+        "B": "Capital",
+        "C": "Land",
+        "D": "Entrepreneur"
+      },
+      "vikalpa": {
+        "A": "श्रम",
+        "B": "पूँजी",
+        "C": "भूमि",
+        "D": "उद्यमी"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What are the goods that are not destroyed by short term consumption called ?",
+      "prashna": "वह वस्तु जो अल्पकालिक उपभोग से नष्ट नहीं होती, क्या कहलाती है ?",
+      "options": {
+        "A": "Intermediate goods",
+        "B": "Final goods",
+        "C": "Durable goods",
+        "D": "Capital goods"
+      },
+      "vikalpa": {
+        "A": "मध्यवर्ती वस्तु",
+        "B": "अंतिम वस्तु",
+        "C": "टिकाऊ वस्तु",
+        "D": "पूँजीगत वस्तु"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "In the problem of double counting, which good is counted twice ?",
+      "prashna": "दोहरी गणना की समस्या में किस वस्तु की गणना दो बार हो जाती है ?",
+      "options": {
+        "A": "Final good",
+        "B": "Intermediate good",
+        "C": "Capital good",
+        "D": "Durable good"
+      },
+      "vikalpa": {
+        "A": "अंतिम वस्तु",
+        "B": "मध्यवर्ती वस्तु",
+        "C": "पूँजीगत वस्तु",
+        "D": "टिकाऊ वस्तु"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is under the category of services ?",
+      "prashna": "निम्न में कौन सेवाओं की श्रेणी में आता है ?",
+      "options": {
+        "A": "Canteen",
+        "B": "Insurance",
+        "C": "Coaching",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "जलपान गृह",
+        "B": "बीमा",
+        "C": "कोचिंग",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following variables is defined for a time period ?",
+      "prashna": "निम्न में से किस चर को एक समयावधि के लिए परिभाषित किया जाता है ?",
+      "options": {
+        "A": "Income",
+        "B": "Consumption",
+        "C": "Investment",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "आय",
+        "B": "उपभोग",
+        "C": "निवेश",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is capital of economy ?",
+      "prashna": "निम्न में से कौन अर्थव्यवस्था की पूँजी है ?",
+      "options": {
+        "A": "Building",
+        "B": "Office place",
+        "C": "Road, bridge, airport",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "भवन",
+        "B": "कार्यालय का स्थान",
+        "C": "सड़क, सेतु, हवाई अड्डा",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the adjustment for routine wear and tear of capital goods called ?",
+      "prashna": "पूँजीगत वस्तुओं की नियमित टूट-फूट के समायोजन को क्या कहते हैं ?",
+      "options": {
+        "A": "Gross investment",
+        "B": "Net investment",
+        "C": "Depreciation",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सकल निवेश",
+        "B": "निवल निवेश",
+        "C": "मूल्य ह्रास",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Who purchases capital goods ?",
+      "prashna": "पूँजीगत वस्तुओं का क्रय कौन करता है ?",
+      "options": {
+        "A": "Consumer",
+        "B": "Businessman",
+        "C": "Entrepreneur",
+        "D": "All of them"
+      },
+      "vikalpa": {
+        "A": "उपभोक्ता",
+        "B": "व्यापारी",
+        "C": "उद्यमी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "From where does a man get the ability to purchase goods ?",
+      "prashna": "किसी व्यक्ति के पास वस्तुओं को खरीदने की क्षमता किससे आती है ?",
+      "options": {
+        "A": "From capital",
+        "B": "From income",
+        "C": "From land",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजी से",
+        "B": "आय से",
+        "C": "भूमि से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Who demands the factors of production in circular flow of income of simple economy ?",
+      "prashna": "सरल अर्थव्यवस्था के आय के वर्तुल प्रवाह में उत्पादन के कारकों की माँग कौन करता है ?",
+      "options": {
+        "A": "Household sector",
+        "B": "Business sector",
+        "C": "Foreign sector",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "परिवार क्षेत्रक",
+        "B": "व्यापार क्षेत्रक",
+        "C": "विदेश क्षेत्रक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "In an economy what is the expenditure made by household sector called ?",
+      "prashna": "अर्थव्यवस्था में परिवार क्षेत्रक द्वारा किए गए व्यय को क्या कहते हैं ?",
+      "options": {
+        "A": "Investment expenditure",
+        "B": "Consumption expenditure",
+        "C": "Import expenditure",
+        "D": "Export expenditure"
+      },
+      "vikalpa": {
+        "A": "निवेश व्यय",
+        "B": "उपभोग व्यय",
+        "C": "आयात व्यय",
+        "D": "निर्यात व्यय"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What kind of goods does a firm consume during the process of production ?",
+      "prashna": "फर्म उत्पादन प्रक्रम में कैसी वस्तुओं का उपभोग करती हैं ?",
+      "options": {
+        "A": "Raw material",
+        "B": "Intermediate goods",
+        "C": "Final goods",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "कच्चा माल",
+        "B": "मध्यवर्ती वस्तुएँ",
+        "C": "अंतिम वस्तुएँ",
+        "D": "(A) और (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "In Gross value added - $A$ = Net value added, what is $A$ ?",
+      "prashna": "सकल मूल्य वर्धित - $A$ = निवल मूल्य वर्धित, यहाँ $A$ क्या है ?",
+      "options": {
+        "A": "Depreciation",
+        "B": "Value added",
+        "C": "Sale of firm",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "मूल्य ह्रास",
+        "B": "मूल्य वर्धित",
+        "C": "फर्म की बिक्री",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Nominal gross domestic product is measured at which prices ?",
+      "prashna": "मौद्रिक सकल घरेलू उत्पाद की गणना किन मूल्यों पर की जाती है ?",
+      "options": {
+        "A": "At current prices",
+        "B": "At base year prices",
+        "C": "At constant prices",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वर्तमान कीमतों पर",
+        "B": "आधार वर्ष कीमतों पर",
+        "C": "स्थिर कीमतों पर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "If consumer price index for 2023 is being prepared in which prices would be compared with 2010 prices, then what are 2023 and 2010 respectively ?",
+      "prashna": "यदि 2023 का उपभोक्ता मूल्य सूचकांक तैयार किया जा रहा है जिसमें मूल्यों की तुलना 2010 के कीमतों से की जायेगी, तो 2023 एवं 2010 क्रमशः क्या हैं ?",
+      "options": {
+        "A": "Base year, current year",
+        "B": "Current year, current year",
+        "C": "Current year, base year",
+        "D": "Base year, base year"
+      },
+      "vikalpa": {
+        "A": "आधार वर्ष, चालू वर्ष",
+        "B": "चालू वर्ष, चालू वर्ष",
+        "C": "चालू वर्ष, आधार वर्ष",
+        "D": "आधार वर्ष, आधार वर्ष"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "For preparing consumer price index of 2020, the prices of which year would be used for comparison ?",
+      "prashna": "वर्ष 2020 का उपभोक्ता मूल्य सूचकांक तैयार करने में, किस वर्ष के मूल्य से तुलना की जायेगी ?",
+      "options": {
+        "A": "Current year",
+        "B": "Base year",
+        "C": "2023",
+        "D": "1947"
+      },
+      "vikalpa": {
+        "A": "वर्तमान वर्ष",
+        "B": "आधार वर्ष",
+        "C": "2023",
+        "D": "1947"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "If a country's gross domestic product is greater than its gross national product then what would be the net factor income earned from abroad ?",
+      "prashna": "यदि किसी देश का सकल घरेलू उत्पाद उसके सकल राष्ट्रीय उत्पाद से अधिक हो तो विदेशों से प्राप्त निवल कारक आय क्या होगी ?",
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऋणात्मक",
+        "B": "धनात्मक",
+        "C": "शून्य",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Net Indirect Taxes = Indirect taxes - $Z$ ?",
+      "prashna": "निवल अप्रत्यक्ष कर = अप्रत्यक्ष कर - $Z$ ?",
+      "options": {
+        "A": "$Z$ = Direct Taxes",
+        "B": "$Z$ = Factor",
+        "C": "$Z$ = Corporation Tax",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$Z$ = प्रत्यक्ष कर",
+        "B": "$Z$ = उपादान",
+        "C": "$Z$ = निगम कर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Cooking gas (LPG) at lower rate is an example of",
+      "prashna": "सस्ते दर पर रसोई गैस किसका उदाहरण है ?",
+      "options": {
+        "A": "Subsidy",
+        "B": "Direct tax",
+        "C": "Indirect tax",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उपादान का",
+        "B": "प्रत्यक्ष कर का",
+        "C": "अप्रत्यक्ष कर का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is not physical capital stock ?",
+      "prashna": "निम्न में कौन भौतिक पूँजी स्टॉक नहीं है ?",
+      "options": {
+        "A": "Machine",
+        "B": "Buildings",
+        "C": "Roads",
+        "D": "Fruits"
+      },
+      "vikalpa": {
+        "A": "मशीन",
+        "B": "भवन",
+        "C": "सड़क",
+        "D": "फल"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What are the variables which are defined at a particular point of time called ?",
+      "prashna": "जिन परिवर्तों की परिभाषा एक निश्चित काल बिन्दु पर की जाती है क्या कहलाती हैं ?",
+      "options": {
+        "A": "Stock variables",
+        "B": "Flow variables",
+        "C": "Constant variables",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्टॉक चर",
+        "B": "प्रवाह चर",
+        "C": "स्थिर चर",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which one of the following is included in a ‘stock’?",
+      "prashna": "‘स्टॉक’ के अन्तर्गत निम्नलिखित में से कौन शामिल हैं?",
+      "options": {
+        "A": "Quantity of money",
+        "B": "Wealth",
+        "C": "Quantity of wheat stored in ware-house",
+        "D": "All these"
+      },
+      "vikalpa": {
+        "A": "मुद्र का मात्रा",
+        "B": "धन",
+        "C": "गोदाम में रखी गेहूँ की मात्रा",
+        "D": "ये सभी"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which one of the following is included in Circular Flow?",
+      "prashna": "चक्रीय प्रवाह के अन्तर्गत निम्नलिखित में कौन शामिल है?",
+      "options": {
+        "A": "Real Flow",
+        "B": "Monetary Flow",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक प्रवाह",
+        "B": "मौद्रिक प्रवाह",
+        "C": "(A) एवं (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which are of the following is included in flow?",
+      "prashna": "प्रवाह के अन्तर्गत निम्नलिखित में कौन शामिल है?",
+      "options": {
+        "A": "Consumption",
+        "B": "Investment",
+        "C": "Income",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "निवेश",
+        "C": "आय",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which is the equilibrium condition of circular flow in four sector model?",
+      "prashna": "चार क्षेत्रीय अर्थव्यवस्था के चक्रीय प्रवाह में संतुलन के लिए शर्त निम्नलिखित में कौन सी है?",
+      "options": {
+        "A": "C + I",
+        "B": "C + I + G",
+        "C": "$C + I + G + (X - M)$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "C + I",
+        "B": "C + I + G",
+        "C": "$C + I + G + (X - M)$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Net National Income at Factor cost is called?",
+      "prashna": "साधन लागत पर शुद्ध राष्ट्रीय उत्पाद को कहा जता है?",
+      "options": {
+        "A": "National income",
+        "B": "Gross investment",
+        "C": "Domestic income",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रीय आय",
+        "B": "सकल निवेश",
+        "C": "घरेलु आय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "The market value of all final goods and service produced in an economy over a year is called:",
+      "prashna": "किसी अर्थव्यवस्था में एक वर्ष के अन्तर्गत उत्पादित अंतिम वस्तुओं तथा सेवाओं के बाजार मूल्य को कहते हैं:",
+      "options": {
+        "A": "Gross National Product",
+        "B": "National Income",
+        "C": "Gross Domestic Income",
+        "D": "Net National Product"
+      },
+      "vikalpa": {
+        "A": "कुल राष्ट्रीय उत्पाद",
+        "B": "राष्ट्रीय आय",
+        "C": "कुल घरेलु आय",
+        "D": "विशुद्ध राष्ट्रीय उत्पाद"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which sector is included in an Economy?",
+      "prashna": "एक अर्थव्यवस्था में कौन सा क्षेत्र सम्मिलित रहता है?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "प्राथमिक",
+        "B": "द्वितीयक",
+        "C": "तृतीयक",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which is included in primary sector?",
+      "prashna": "प्राथमिक क्षेत्र में निम्नलिखित में कौन शामिल है?",
+      "options": {
+        "A": "Land",
+        "B": "Forest",
+        "C": "Mining",
+        "D": "All these"
+      },
+      "vikalpa": {
+        "A": "भूमि",
+        "B": "वन",
+        "C": "खनन",
+        "D": "ये सभी"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which one of the following is included in secondary sector?",
+      "prashna": "द्वितीयक क्षेत्र में निम्नलिखित में कौन सी सेवाओं को सम्मिलित किया जाता है?",
+      "options": {
+        "A": "Insurance",
+        "B": "Manufacturing",
+        "C": "Trade",
+        "D": "Banking"
+      },
+      "vikalpa": {
+        "A": "बीमा",
+        "B": "विनिर्माण",
+        "C": "व्यापार",
+        "D": "बैंकिंग"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which are of the following is a component of profit?",
+      "prashna": "लाभ के निम्नलिखित में कौन – से घटक हैं?",
+      "options": {
+        "A": "Dividend",
+        "B": "Undistributed profit",
+        "C": "Corporate Profit Tax",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "लाभांश",
+        "B": "अवितरित लाभ",
+        "C": "निगम लाभ कर",
+        "D": "उपर्युक्त सभी"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following is durable consumer good?",
+      "prashna": "इनमें कौन टिकाऊ उपभोक्ता वस्तु है?",
+      "options": {
+        "A": "Roti",
+        "B": "Butter",
+        "C": "Ladyfinger",
+        "D": "Fridge"
+      },
+      "vikalpa": {
+        "A": "रोटी",
+        "B": "मक्खन",
+        "C": "भिंडी",
+        "D": "फ्रिज"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the wealth received as gift from the nature is called?",
+      "prashna": "उपहारस्वरूप प्रकृति से प्राप्त संपदा क्या कहलाती है?",
+      "options": {
+        "A": "Forest",
+        "B": "Farm",
+        "C": "River",
+        "D": "Land"
+      },
+      "vikalpa": {
+        "A": "जंगल",
+        "B": "खेत",
+        "C": "नदी",
+        "D": "भूमि"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What are those goods which are ultimately consumed by the consumer called?",
+      "prashna": "ऐसी वस्तुएँ जिनका अंतिम उपयोग उपभोक्ता द्वारा किया जाता है क्या कहलाती है?",
+      "options": {
+        "A": "Intermediate Goods",
+        "B": "Raw material",
+        "C": "Final Goods",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "मध्यवर्ती वस्तुएँ",
+        "B": "कच्चा माल",
+        "C": "अंतिम वस्तुएँ",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the food, clothing and entertainment services that are purchased by consumers, called?",
+      "prashna": "आहार, वस्त्र तथा मनोरंजन सेवाएँ जिनका उपभोक्ता द्वारा क्रय किया जाता है, उन्हें क्या कहते हैं?",
+      "options": {
+        "A": "Capital goods",
+        "B": "Intermediate goods",
+        "C": "Consumer goods",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजीगत वस्तुएँ",
+        "B": "मध्यवर्ती वस्तुएँ",
+        "C": "उपभोग वस्तुएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "In what form are steel sheets used for making motor vehicles or utensils?",
+      "prashna": "इस्पात के चादर का मोटर गाड़ी बनाने या बर्तन बनाने में उपयोग किस रूप में किया जाता है?",
+      "options": {
+        "A": "In the form of Capital goods",
+        "B": "In the form of consumption goods",
+        "C": "In the form of final goods",
+        "D": "In the form of Intermediate goods"
+      },
+      "vikalpa": {
+        "A": "पूँजीगत वस्तु के रूप में",
+        "B": "उपभोग वस्तु के रूप में",
+        "C": "अंतिम वस्तु के रूप में",
+        "D": "मध्यवर्ती वस्तु के रूप में"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "In three sector economy, the factor services is provided by which sector?",
+      "prashna": "एक तीन क्षेत्रीय अर्थव्यवस्था में कारक सेवाएँ किस क्षेत्र द्वारा प्रदान किया जाता है?",
+      "options": {
+        "A": "By Firms",
+        "B": "By Government",
+        "C": "By Household",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "फर्मों द्वारा",
+        "B": "सरकार द्वारा",
+        "C": "परिवार द्वारा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is produced by production process in the economy?",
+      "prashna": "अर्थव्यवस्था में उत्पादन प्रक्रम से क्या–क्या सृजित होता है?",
+      "options": {
+        "A": "Consumer goods and services",
+        "B": "Factor income- Profit, wages etc",
+        "C": "Capital goods",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "उपभोक्ता वस्तुओं एवं सेवाओं का",
+        "B": "कारक आय-लाभ, मजदूरी इत्यादि।",
+        "C": "पूँजीगत वस्तुओं का",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is the remuneration for entrepreneurial contribution called?",
+      "prashna": "उद्यमवृत्ति के योगदान का पारिश्रमिक क्या कहलाता है?",
+      "options": {
+        "A": "Rent",
+        "B": "Interest",
+        "C": "Wages",
+        "D": "Profit"
+      },
+      "vikalpa": {
+        "A": "लगान",
+        "B": "ब्याज",
+        "C": "मजदूरी",
+        "D": "लाभ"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the following investments creates only additional new machine?",
+      "prashna": "इनमें से किस निवेश से केवल अतिरिक्त नई मशीन का सृजन होता है?",
+      "options": {
+        "A": "Gross Investment",
+        "B": "Depreciation",
+        "C": "Net Investment",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सकल निवेश",
+        "B": "मूल्य ह्रास",
+        "C": "निवल निवेश",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is true about depreciation?",
+      "prashna": "मूल्यह्रास के विषय में क्या सही है?",
+      "options": {
+        "A": "It is replacement expense",
+        "B": "It is an accounting concept",
+        "C": "It is flow of actual replacement expenditure",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "यह प्रतिस्थापन व्यय है",
+        "B": "यह लेखांकन संकल्पना है",
+        "C": "यह वास्तविक प्रतिस्थापना व्यय का प्रवाह है",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "If the production of a country is evaluated by the production method (A), income method (B) and expenditure method (C), then which of these is correct?",
+      "prashna": "यदि उत्पादन विधि (A), आय विधि (B) एवं व्यय विधि (C) से किसी देश के उत्पादन का मूल्यांकन किया जाए तो इनमें कौन सही है?",
+      "options": {
+        "A": "A > B > C",
+        "B": "A < B < C",
+        "C": "A = B = C",
+        "D": "A < B > C"
+      },
+      "vikalpa": {
+        "A": "A > B > C",
+        "B": "A < B < C",
+        "C": "A = B = C",
+        "D": "A < B > C"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "Which of the of the following is not a component of Gross Domestic Product (GDP) calculation by expenditure method?",
+      "prashna": "इनमें कौन व्यय विधि द्वारा सकल घरेलू उत्पाद (GDP) गणना का घटक नहीं है?",
+      "options": {
+        "A": "Consumption",
+        "B": "Investment",
+        "C": "Net Export",
+        "D": "Wages"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "निवेश",
+        "C": "निवल निर्यात",
+        "D": "मजदूरी"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "The correct calculation of GDP by income method is - [Firm A: Wages=20, Profit=30; Firm B: Wages=60, Profit=90]",
+      "prashna": "आय विधि द्वारा सकल घरेलू उत्पाद की सही गणना है – [फर्म A: मजदूरी=20, लाभ=30; फर्म B: मजदूरी=60, लाभ=90]",
+      "options": {
+        "A": "50",
+        "B": "150",
+        "C": "120",
+        "D": "200"
+      },
+      "vikalpa": {
+        "A": "50",
+        "B": "150",
+        "C": "120",
+        "D": "200"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "What is subtracted from Gross Domestic Product (GDP) at market price to get GDP at factor cost?",
+      "prashna": "साधन लागत पर सकल घरेलू उत्पाद (GDP) में से बाजार कीमत पर GDP की अपेक्षा क्या घटाया जाता है?",
+      "options": {
+        "A": "Depreciation",
+        "B": "Indirect Tax",
+        "C": "Net Indirect Tax",
+        "D": "Subsidies"
+      },
+      "vikalpa": {
+        "A": "मूल्य ह्रास",
+        "B": "अप्रत्यक्ष कर",
+        "C": "निवल अप्रत्यक्ष कर",
+        "D": "उपदान"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "National Income Accounting",
+      "question": "If monetary gross domestic product is GDP and the real gross domestic product is gdp then what would be the gross domestic product deflator?",
+      "prashna": "यदि मौद्रिक सकल घरेलू उत्पाद GDP है और वास्तविक सकल घरेलू उत्पाद gdp है तो सकल घरेलू उत्पाद अवस्फीति क्या होगा?",
+      "options": {
+        "A": "$GDP/gdp$",
+        "B": "$(GDP/gdp) \\times 100$",
+        "C": "$gdp/GDP$",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "$GDP/gdp$",
+        "B": "$(GDP/gdp) \\times 100$",
+        "C": "$gdp/GDP$",
+        "D": "(A) एवं (B) दोनों"
+      }
+    }
+  ]
+}

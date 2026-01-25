@@ -1,0 +1,888 @@
+{
+  "2021": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is true about $\\bar{C}$ in the consumption equation $C = \\bar{C} + CY$?",
+      "prashna": "उपभोग समीकरण $C = \\bar{C} + CY$ में $\\bar{C}$ के विषय में क्या सही है?",
+      "options": {
+        "A": "$\\bar{C} > 0$",
+        "B": "$\\bar{C}$ is the level of minimum consumption",
+        "C": "$\\bar{C}$ is the constant value given in the model",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$\\bar{C} > 0$",
+        "B": "$\\bar{C}$ न्यूनतम उपभोग का स्तर है।",
+        "C": "$\\bar{C}$ मॉडल में दिया हुआ स्थिर मान है।",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is $C$ in the multiplier $\\frac{1}{1-C}$?",
+      "prashna": "गुणक $\\frac{1}{1-C}$ में $C$ क्या है?",
+      "options": {
+        "A": "Consumption",
+        "B": "Subsistence level of consumption",
+        "C": "Marginal Propensity to Consume",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "उपभोग का जीवन निर्वाह स्तर",
+        "C": "सीमांत उपभोग प्रवृत्ति",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If $0 < C < 1$, what will be the minimum value of the multiplier $\\frac{1}{1-C}$?",
+      "prashna": "यदि $0 < C < 1$ तो गुणक $\\frac{1}{1-C}$ का न्यूनतम मान क्या होगा?",
+      "options": {
+        "A": "Equal to unity",
+        "B": "Less than unity",
+        "C": "More than unity",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "इकाई के बराबर",
+        "B": "इकाई से कम",
+        "C": "इकाई से अधिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "How is Marginal Propensity to Consume (MPC) defined?",
+      "prashna": "सीमांत उपभोग प्रवृत्ति (MPC) को कैसे परिभाषित करते हैं?.",
+      "options": {
+        "A": "$MPC = C/Y$",
+        "B": "$MPC = C/Y$",
+        "C": "$MPC = \\Delta C / \\Delta Y$",
+        "D": "$MPC = \\Delta Y / \\Delta C$"
+      },
+      "vikalpa": {
+        "A": "$MPC = C/Y$",
+        "B": "$MPC = C/Y$",
+        "C": "$MPC = \\Delta C / \\Delta Y$",
+        "D": "$MPC = \\Delta Y / \\Delta C$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If Marginal Propensity to Consume (MPC) is 0.7, what will be the Marginal Propensity to Save (MPS)?",
+      "prashna": "यदि सीमांत उपभोग प्रवृत्ति (MPC) 0.7 हो तो सीमांत बचत प्रवृत्ति (MPS) क्या होगी?",
+      "options": {
+        "A": "0.7",
+        "B": "0.25",
+        "C": "0.3",
+        "D": "-0.3"
+      },
+      "vikalpa": {
+        "A": "0.7",
+        "B": "0.25",
+        "C": "0.3",
+        "D": "-0.3"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If Marginal Propensity to Save (MPS) is 0.1, what will be the investment multiplier?",
+      "prashna": "यदि सीमांत बचत प्रवृत्ति (MPS) 0.1 हो तो निवेश गुणक क्या होगा?",
+      "options": {
+        "A": "1",
+        "B": "10",
+        "C": "100",
+        "D": "1.10"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "10",
+        "C": "100",
+        "D": "1.10"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "For Keynes, investment implies",
+      "prashna": "कीन्स के अनुसार विनियोग से अभिप्राय है।",
+      "options": {
+        "A": "Financial Investment",
+        "B": "Real investment",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वित्तीय विनियोग से",
+        "B": "वास्तविक विनियोग से",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "The main component of aggregate demand is",
+      "prashna": "सामूहिक माँग का प्रमुख घटक है।",
+      "options": {
+        "A": "Individual consumption",
+        "B": "Public consumption",
+        "C": "Investment",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "व्यक्तिगत उपभोग",
+        "B": "सार्वजनिक उपभोग",
+        "C": "विनियोग",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which is the determining factor for investment?",
+      "prashna": "निवेश के निर्धारक घटक कौन से हैं",
+      "options": {
+        "A": "Marginal efficiency of capital",
+        "B": "Rate of interest",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजी की सीमान्त क्षमता",
+        "B": "ब्याज की दर",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "In keynesian viewpoint where is the equilibrium level of income and employment in the economy established?",
+      "prashna": "कीन्स के अनुसार अर्थव्यवस्था में आय एवं रोजगार का सन्तुलित स्तर कहाँ स्थापित होता है ?",
+      "options": {
+        "A": "$AD > AS$",
+        "B": "$AD < AS$",
+        "C": "$AD = AS$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$AD > AS$",
+        "B": "$AD < AS$",
+        "C": "$AD = AS$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which one of the following is true?",
+      "prashna": "निम्न में कौन-सा सत्य है ?",
+      "options": {
+        "A": "$MPC + MPS = 0$",
+        "B": "$MPC + MPS < 1$",
+        "C": "$MPC + MPS = 1$",
+        "D": "$MPC + MPS > 1$"
+      },
+      "vikalpa": {
+        "A": "$MPC + MPS = 0$",
+        "B": "$MPC + MPS < 1$",
+        "C": "$MPC + MPS = 1$",
+        "D": "$MPC + MPS > 1$"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "According to Keynesian saving-investment viewpoint, income-employment equilibrium will be determined at which point?",
+      "prashna": "कीन्स के बचत निवेश दृष्टिकोण के अनुसार आय-रोजगार सन्तुलन निर्धारण निम्नलिखित में किस बिन्दु पर होगा ?",
+      "options": {
+        "A": "$S > I$",
+        "B": "$I > S$",
+        "C": "$I = S$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$S > I$",
+        "B": "$I > S$",
+        "C": "$I = S$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "On which of the following does Keynesian theory of employment depend?",
+      "prashna": "कीन्स का रोजगार सिद्धान्त निम्नलिखित में से किस पर निर्भर है?",
+      "options": {
+        "A": "Effective demand",
+        "B": "Supply",
+        "C": "Production efficiency",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रभावपूर्ण माँग",
+        "B": "पूर्ति",
+        "C": "उत्पादन क्षमता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Through which of the following formulae can Multiplier be expressed?",
+      "prashna": "गुणक को निम्नलिखित में किस सूत्र द्वारा व्यक्त किया जा सकता है ?",
+      "options": {
+        "A": "$K = \frac{ΔS}{ΔI}$",
+        "B": "$K = \frac{ΔY}{ΔI}$",
+        "C": "$K = I = S$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$K = \frac{ΔS}{ΔI}$",
+        "B": "$K = \frac{ΔY}{ΔI}$",
+        "C": "$K = I = S$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "The value of Keynesian Investment Multiplier depends on",
+      "prashna": "कीन्स के विनियोग गुणक का मूल्य किस पर निर्भर है?",
+      "options": {
+        "A": "Level of Income",
+        "B": "Marginal productivity of capital",
+        "C": "Marginal propensity to consume",
+        "D": "Investment level"
+      },
+      "vikalpa": {
+        "A": "आय का स्तर",
+        "B": "पूँजी की सीमान्त उत्पादकता",
+        "C": "सीमान्त उपभोग प्रवृत्ति",
+        "D": "विनियोग की मात्रा"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which of the following is known as the state of deficient demand in Keynesian economy?",
+      "prashna": "कीन्स की अर्थव्यवस्था में न्यून माँग की दशा को किस नाम से जाना जाता है?",
+      "options": {
+        "A": "Full employment equilibrium",
+        "B": "Under employment equilibrium",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूर्ण रोजगार संतुलन",
+        "B": "अपूर्ण रोजगार संतुलन",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "In situation of deflationary gap",
+      "prashna": "अस्फीतिक अन्तराल दशाओं में",
+      "options": {
+        "A": "Demand increases rapidly",
+        "B": "Supply increases rapidly",
+        "C": "Both supply and demand are equal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "माँग में तेजी से वृद्धि होती है",
+        "B": "पूर्ति में तेजी से वृद्धि होती हैं।",
+        "C": "पूर्ति एवं माँग दोनों बराबर होते हैं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which major fiscal measure is to be adopted in correcting inflationary gap?",
+      "prashna": "स्फीतिक अन्तराल को ठीक करने के लिए प्रमुख राजकोषीय उपाय कौन से हैं?",
+      "options": {
+        "A": "Reduce in public expenditure",
+        "B": "Increase in taxes",
+        "C": "Increase in public debt",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सार्वजनिक व्यय में कटौती",
+        "B": "करों में वृद्धि",
+        "C": "सार्वजनिक ऋणों में वृद्धि",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which one is the corrective measure for deficient demand?",
+      "prashna": "न्यून माँग को ठीक करने के निम्नलिखित में कौन से उपाय हैं ?",
+      "options": {
+        "A": "Fiscal measures",
+        "B": "Monetary measures",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजकोषीय उपाय",
+        "B": "मौद्रिक उपाय",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Marginal Propensity to Consume (MPC) is:",
+      "prashna": "सीमान्त उपभोग प्रवृति",
+      "options": {
+        "A": "$MPC = \\frac{Y}{C}$",
+        "B": "$MPC = \\frac{\\Delta Y}{\\Delta C}$",
+        "C": "$MPC = \\frac{C}{Y}$",
+        "D": "$MPC = \\frac{\\Delta C}{\\Delta Y}$"
+      },
+      "vikalpa": {
+        "A": "$MPC = \\frac{Y}{C}$",
+        "B": "$MPC = \\frac{\\Delta Y}{\\Delta C}$",
+        "C": "$MPC = \\frac{C}{Y}$",
+        "D": "$MPC = \\frac{\\Delta C}{\\Delta Y}$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the ratio of total income and total consumption called?",
+      "prashna": "कुल आय और कुल उपभोग के अनुपात को क्या कहते हैं ?",
+      "options": {
+        "A": "Average Propensity to Invest",
+        "B": "Average Propensity to Save",
+        "C": "Average Propensity to Consume",
+        "D": "Marginal Propensity to Consume"
+      },
+      "vikalpa": {
+        "A": "औसत निवेश प्रवृति",
+        "B": "औसत बचत प्रवृति",
+        "C": "औसत उपभोग प्रवृति",
+        "D": "सीमान्त उपभोग प्रवृति"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Who first presented the concept of Inflationary Gap?",
+      "prashna": "किसने सबसे पहले स्फीतिक अन्तराल की अवधारणा प्रस्तुत की ?",
+      "options": {
+        "A": "Robertson",
+        "B": "Keynes",
+        "C": "Halm",
+        "D": "Malthus"
+      },
+      "vikalpa": {
+        "A": "रॉबर्टसन",
+        "B": "कीन्स",
+        "C": "हाल्म",
+        "D": "माल्थस"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which of the following statements is true?",
+      "prashna": "कौन-सा कथन सत्य है ?",
+      "options": {
+        "A": "$MPC + MPS = 0$",
+        "B": "$MPC + MPS < 1$",
+        "C": "$MPC + MPS = 1$",
+        "D": "$MPC + MPS > 1$"
+      },
+      "vikalpa": {
+        "A": "$MPC + MPS = 0$",
+        "B": "$MPC + MPS < 1$",
+        "C": "$MPC + MPS = 1$",
+        "D": "$MPC + MPS > 1$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which of the following is Marginal Propensity to Consume?",
+      "prashna": "सीमान्त उपभोग प्रवृति निम्न में से कौन है ?",
+      "options": {
+        "A": "$\\frac{\\Delta Y}{\\Delta C}$",
+        "B": "$\\frac{\\Delta C}{\\Delta Y}$",
+        "C": "$\\frac{\\Delta Y}{\\Delta I}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\Delta Y}{\\Delta C}$",
+        "B": "$\\frac{\\Delta C}{\\Delta Y}$",
+        "C": "$\\frac{\\Delta Y}{\\Delta I}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What will be the investment multiplier if Marginal Propensity to Save (MPS) is 0.2?",
+      "prashna": "निवेश गुणक क्या होगा यदि सीमान्त बचत प्रवृति (MPS) 0.2 हो ?",
+      "options": {
+        "A": "200",
+        "B": "5",
+        "C": "2",
+        "D": "1.20"
+      },
+      "vikalpa": {
+        "A": "200",
+        "B": "5",
+        "C": "2",
+        "D": "1.20"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "In the multiplier $\\frac{1}{1-C}$, what is $C$?",
+      "prashna": "गुणक $\\frac{1}{1-C}$ में C क्या है ?",
+      "options": {
+        "A": "Consumption",
+        "B": "Marginal Propensity to Consume",
+        "C": "Consumption standard of living",
+        "D": "Capital"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "सीमान्त उपभोग प्रवृति",
+        "C": "उपभोग का जीवन निर्वाह स्तर",
+        "D": "पूँजी"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Who was the father of the Employment Multiplier theory?",
+      "prashna": "रोजगार गुणक सिद्धान्त के जनक कौन थे ?",
+      "options": {
+        "A": "Keynes",
+        "B": "Kahn",
+        "C": "Hansen",
+        "D": "Marshall"
+      },
+      "vikalpa": {
+        "A": "कीन्स",
+        "B": "काहन",
+        "C": "हेन्सेन",
+        "D": "मार्शल"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the relation between saving and income called?",
+      "prashna": "बचत और आय के संबंध को क्या कहते हैं ?",
+      "options": {
+        "A": "Consumption function",
+        "B": "Investment function",
+        "C": "Saving function",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "उपभोग फलन",
+        "B": "निवेश फलन",
+        "C": "बचत फलन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the component of Aggregate Demand in an open economy?",
+      "prashna": "एक खुली अर्थव्यवस्था में सामूहिक माँग का संघटक कौन है ?",
+      "options": {
+        "A": "Consumption",
+        "B": "Investment",
+        "C": "Consumption + Government Expenditure",
+        "D": "Consumption + Investment + Government Expenditure + Net Export"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "निवेश",
+        "C": "उपभोग + सरकारी व्यय",
+        "D": "उपभोग + निवेश + सरकारी व्यय + शुद्ध निर्यात"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If Marginal Propensity to Consume (MPC) is 0.2, what will be the Marginal Propensity to Save?",
+      "prashna": "यदि सीमान्त उपभोग प्रवृति (MPC) 0.2 हो तो सीमान्त बचत प्रवृति क्या होगी ?",
+      "options": {
+        "A": "0.8",
+        "B": "0.2",
+        "C": "0.4",
+        "D": "-0.2"
+      },
+      "vikalpa": {
+        "A": "0.8",
+        "B": "0.2",
+        "C": "0.4",
+        "D": "-0.2"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Deflationary Gap measures:",
+      "prashna": "अवस्फीतिक अन्तराल माप बताता है।",
+      "options": {
+        "A": "Deficient demand",
+        "B": "Excess demand",
+        "C": "Full equilibrium",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "न्यून माँग",
+        "B": "आधिक्य माँग",
+        "C": "पूर्ण सन्तुलन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What are the reasons for excess demand from the following?",
+      "prashna": "अतिरेक माँग होने के निम्नलिखित में कौन से कारण है ?",
+      "options": {
+        "A": "Rise in public expenditure",
+        "B": "Rise in money supply",
+        "C": "Rise in taxes",
+        "D": "Both (a) and (b)"
+      },
+      "vikalpa": {
+        "A": "सार्वजनिक व्यय में वृद्धि",
+        "B": "मुद्रा की पूर्ति में वृद्धि",
+        "C": "करों में वृद्धि",
+        "D": "(a) और (b) दोनों"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which fiscal measure is not used to correct deficient demand?",
+      "prashna": "किस राजकोषीय उपाय के अन्तर्गत न्यून माँग को सही करने हेतु नहीं किया जाता है?",
+      "options": {
+        "A": "Public expenditure",
+        "B": "Taxation",
+        "C": "Public debt",
+        "D": "Bank rate"
+      },
+      "vikalpa": {
+        "A": "सार्वजनिक व्यय",
+        "B": "करारोपण",
+        "C": "सार्वजनिक ऋण",
+        "D": "बैंक दर"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "In consumption function $C = \\bar{C} + cY$, what is $c$ ?",
+      "prashna": "उपभोग फलन $C = \\bar{C} + cY$ में $c$ क्या है ?",
+      "options": {
+        "A": "$\\frac{\\Delta C}{\\Delta Y}$",
+        "B": "Minimum subsistence consumption",
+        "C": "Autonomous consumption",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\Delta C}{\\Delta Y}$",
+        "B": "न्यूनतम जीवन यापन उपभोग",
+        "C": "स्वायत्त उपभोग",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "In $Y = \\bar{C} + \\bar{I} + G + c (Y - \\bar{I})$, which of the following is autonomous term ?",
+      "prashna": "$Y = \\bar{C} + \\bar{I} + G + c (Y - \\bar{I})$ में कौन-कौन स्वायत्त पद हैं ?",
+      "options": {
+        "A": "$\\bar{C}$",
+        "B": "$\\bar{I}$",
+        "C": "$G$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$\\bar{C}$",
+        "B": "$\\bar{I}$",
+        "C": "$G$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the value of $c$ in consumption function $C = \\bar{C} + cY$ ?",
+      "prashna": "उपभोग फलन $C = \\bar{C} + cY$ में $c$ का क्या मान होता है ?",
+      "options": {
+        "A": "More than zero",
+        "B": "Equal to one",
+        "C": "Less than one",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "शून्य से अधिक",
+        "B": "एक के बराबर",
+        "C": "एक से कम",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If the marginal propensity to consume is equal to one then what would be the value of multiplier ?",
+      "prashna": "यदि सीमांत उपभोग प्रवृत्ति एक हो तो गुणक का मान क्या होगा ?",
+      "options": {
+        "A": "Zero",
+        "B": "1",
+        "C": "1000",
+        "D": "Infinite"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "1",
+        "C": "1000",
+        "D": "असीम"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "In the theory of effective demand theory what does $45^{\\circ}$ line show ?",
+      "prashna": "प्रभावी माँग सिद्धांत में $45^{\\circ}$ रेखा क्या दर्शाती है ?",
+      "options": {
+        "A": "$Y = AD$",
+        "B": "$AD = AS$",
+        "C": "Market equilibrium line",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$Y = AD$",
+        "B": "$AD = AS$",
+        "C": "बाजार संतुलन रेखा",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If the marginal propensity to save increases then what would happen to quantity of savings ?",
+      "prashna": "यदि सीमांत बचत प्रवृत्ति बढ़ जाती है तो बचत की मात्रा में क्या परिवर्तन होगा ?",
+      "options": {
+        "A": "Would increase",
+        "B": "Would remain constant",
+        "C": "Would decrease",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ेगी",
+        "B": "स्थिर रहेगी",
+        "C": "घटेगी",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Which increases due to increases in aggregate demand of equilibrium level of income and production?",
+      "prashna": "आय एवं उत्पादन के संतुलन स्तर पर सामूहिक माँग में वृद्धि होने पर किसमें वृद्धि होती है?",
+      "options": {
+        "A": "Employment",
+        "B": "Production",
+        "C": "Income",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "रोजगार",
+        "B": "उत्पादन",
+        "C": "आय",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "Keynesian multiplier theory establishes relationship between which of the following?",
+      "prashna": "कीन्स का गुणक सिद्धांत निम्न में से किसके बीच सम्बन्ध स्थापित करता है?",
+      "options": {
+        "A": "Investment and Income",
+        "B": "Income and Consumption",
+        "C": "Saving and Investment",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "निवेश तथा आय के बीच",
+        "B": "आय तथा उपभोग के बीच",
+        "C": "बचत तथा निवेश के बीच",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is induced consumption in consumption function $C = \\bar{C} + cY$?",
+      "prashna": "उपभोग फलन $C = \\bar{C} + cY$ में प्रेरित उपभोग कौन है?",
+      "options": {
+        "A": "$C$",
+        "B": "$\\bar{C}$",
+        "C": "$cY$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$C$",
+        "B": "$\\bar{C}$",
+        "C": "$cY$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the correct definition of marginal propensity to consume?",
+      "prashna": "सीमान्त उपभोग प्रवृत्ति की सही परिभाषा क्या है?",
+      "options": {
+        "A": "$\\Delta \\bar{C} / \\Delta Y$",
+        "B": "$\\Delta C / \\Delta Y$",
+        "C": "$\\Delta Y / \\Delta C$",
+        "D": "$\\Delta Y / \\Delta \\bar{C}$"
+      },
+      "vikalpa": {
+        "A": "$\\Delta \\bar{C} / \\Delta Y$",
+        "B": "$\\Delta C / \\Delta Y$",
+        "C": "$\\Delta Y / \\Delta C$",
+        "D": "$\\Delta Y / \\Delta \\bar{C}$"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "If investment $I$ is a constant $\\bar{I}$ and consumption $C$ is $\\bar{C} + cY$, then what will be the aggregate demand?",
+      "prashna": "यदि $I$ (निवेश) $\\bar{I}$ (स्थिरांक) है और $C$ (उपभोग) $\\bar{C} + cY$ है, तो प्रत्याशित समस्त माँग क्या होगी?",
+      "options": {
+        "A": "$C + I$",
+        "B": "$\\bar{I} + \\bar{C} + cY$",
+        "C": "$\\bar{A} + cY$ where $\\bar{A} = \\bar{C} + \\bar{I}$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$C + I$",
+        "B": "$\\bar{I} + \\bar{C} + cY$",
+        "C": "$\\bar{A} + cY$ जहाँ $\\bar{A} = \\bar{C} + \\bar{I}$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the correct definition of marginal propensity to save?",
+      "prashna": "सीमान्त बचत प्रवृत्ति की सही परिभाषा क्या है?",
+      "options": {
+        "A": "$\\Delta S / \\Delta Y$",
+        "B": "$\\Delta C / \\Delta Y$",
+        "C": "$S / Y$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$\\Delta S / \\Delta Y$",
+        "B": "$\\Delta C / \\Delta Y$",
+        "C": "$S / Y$",
+        "D": "इनमे सभी"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Determination of Income and Employment",
+      "question": "What is the value of autonomous expenditure multiplier?",
+      "prashna": "स्वायत्त व्यय गुणक का मान क्या होता है?",
+      "options": {
+        "A": "$1 / (1 - MPC)$",
+        "B": "$1 / MPS$",
+        "C": "$1 / MPC$",
+        "D": "Only (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "$1 / (1 - MPC)$",
+        "B": "$1 / MPS$",
+        "C": "$1 / MPC$",
+        "D": "केवल (A) एवं (B)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "2021": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "If quantity supplied is $q^S$ and quantity demanded is $q^D$, then what will $q^S - q^D > 0$ indicate?",
+      "prashna": "यदि पूर्ति की मात्रा $q^S$ और माँग की मात्रा $q^D$ हो तो $q^S - q^D > 0$ क्या दर्शायेगा?",
+      "options": {
+        "A": "Excess demand",
+        "B": "Excess supply",
+        "C": "Equilibrium",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अधिमाँग",
+        "B": "अधिपूर्ति",
+        "C": "संतुलन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "For which good/service is a minimum support price given?",
+      "prashna": "न्यूनतम निर्धारित मूल्य किस वस्तु / सेवा के लिए दिया जाता है?",
+      "options": {
+        "A": "Tea leaves",
+        "B": "Wheat",
+        "C": "Wages",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "चाय पत्ती",
+        "B": "गेहूँ",
+        "C": "मजदूरी",
+        "D": "(b) एवं (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "In which market is production higher and price lower?",
+      "prashna": "किस बाजार में उत्पादन अधिक होता है और मूल्य कम होता है?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Oligopoly",
+        "C": "Perfect Competition",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "एकाधिकार",
+        "B": "अल्पाधिकार",
+        "C": "पूर्ण प्रतियोगिता",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "If $p_e$ is equilibrium price and $p_m$ is market price, when will the situation of excess supply arise?",
+      "prashna": "यदि $p_e$ संतुलन कीमत हो और $p_m$ बाजार कीमत तो अधिपूर्ति की स्थिति कब उत्पन्न होगी?",
+      "options": {
+        "A": "$p_e = p_m$",
+        "B": "$p_e > p_m$",
+        "C": "$p_e < p_m$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$p_e = p_m$",
+        "B": "$p_e > p_m$",
+        "C": "$p_e < p_m$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "If in a situation of equilibrium, the supply curve shifts to the right, what change will occur in the price and quantity in the new equilibrium?",
+      "prashna": "यदि किसी संतुलन की स्थिति में पूर्ति वक्र दायीं ओर शिफ्ट करता है, तो नये संतुलन में मूल्य एवं मात्रा में क्या परिवर्तन होगा?",
+      "options": {
+        "A": "Price will increase, quantity will decrease",
+        "B": "Price will decrease, quantity will increase",
+        "C": "Price will increase, quantity will increase",
+        "D": "Price will decrease, quantity will decrease"
+      },
+      "vikalpa": {
+        "A": "मूल्य बढ़ेगा, मात्रा घटेगी",
+        "B": "मूल्य घटेगा, मात्रा बढ़ेगी",
+        "C": "मूल्य बढ़ेगा, मात्रा बढ़ेगी",
+        "D": "मूल्य घटेगा, मात्रा घटेगी"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "What is the correct meaning of the word 'Market'?",
+      "prashna": "'बाजार' शब्द का सही अर्थ क्या है?",
+      "options": {
+        "A": "Place of buying and selling",
+        "B": "Rural Haat-market",
+        "C": "Super market",
+        "D": "Any medium (place, telephone, internet) through which buying and selling of a commodity can take place"
+      },
+      "vikalpa": {
+        "A": "क्रय-विक्रय स्थल",
+        "B": "ग्रामीण हाट-बाजार",
+        "C": "सुपर बाजार",
+        "D": "कोई माध्यम (स्थान, टेलिफोन, इंटरनेट) जिसके द्वारा वस्तु का क्रय-विक्रय हो सके"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Price of a commodity is determined at a point where",
+      "prashna": "वस्तु की कीमत उस बिन्दु पर निर्धारित होती है जहाँ",
+      "options": {
+        "A": "Demand of the commodity is high",
+        "B": "Supply of the commodity is high",
+        "C": "Demand and supply of the commodity are equal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु की माँग अधिक हो",
+        "B": "वस्तु की पूर्ति अधिक हो",
+        "C": "वस्तु की माँग और पूर्ति बराबर हो",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "In very short period, supply will be",
+      "prashna": "अति अल्पकाल में पूर्ति होगी",
+      "options": {
+        "A": "Perfectly elastic",
+        "B": "Perfectly inelastic",
+        "C": "Elastic",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूर्णतः लोचदार",
+        "B": "पूर्णतः बेलोचदार",
+        "C": "लोचदार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Market price is associated with",
+      "prashna": "बाजार मूल्य सम्बन्धित होता है",
+      "options": {
+        "A": "Price of very short period",
+        "B": "Normal price",
+        "C": "Permanent price",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अति अल्पकालीन मूल्य से",
+        "B": "सामान्य मूल्य से",
+        "C": "स्थायी मूल्य से",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "\"Equilibrium is that state in which there is no pure tendency of motion.\" Whose statement is this?",
+      "prashna": "\"साम्य वह स्थिति है जिसमें गति की शुद्ध प्रवृत्ति न हो।\" यह कथन किनका है ?",
+      "options": {
+        "A": "Boulding",
+        "B": "Stigler",
+        "C": "Hicks",
+        "D": "Chamberlin"
+      },
+      "vikalpa": {
+        "A": "बोल्डिंग",
+        "B": "स्टिगलर",
+        "C": "हिक्स",
+        "D": "चैम्बरलिन"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Who presented the idea of time element in the price determination process?",
+      "prashna": "निम्नलिखित में से किसने कीमत निर्धारण प्रक्रिया में समय तत्व का विचार प्रस्तुत किया ?",
+      "options": {
+        "A": "Ricardo",
+        "B": "Walras",
+        "C": "Marshall",
+        "D": "Pigou"
+      },
+      "vikalpa": {
+        "A": "रिकार्डों",
+        "B": "वालरस",
+        "C": "मार्शल",
+        "D": "पीगू"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "The price of a commodity is determined in perfect competition by:",
+      "prashna": "पूर्ण प्रतियोगिता में किसी वस्तु का मूल्य निर्धारित होता है।",
+      "options": {
+        "A": "Bargaining",
+        "B": "Cost of production",
+        "C": "Marginal utility",
+        "D": "Demand and supply"
+      },
+      "vikalpa": {
+        "A": "मोल-भाव द्वारा",
+        "B": "उत्पादन लागत द्वारा",
+        "C": "सीमान्त उपयोगिता द्वारा",
+        "D": "माँग एवं पूर्ति द्वारा"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "When market supply is equal to market demand then this situation is called",
+      "prashna": "जब बाजार पूर्ति बाजार माँग के बराबर हो, तो इस स्थिति को क्या कहते हैं ?",
+      "options": {
+        "A": "Equilibrium",
+        "B": "Excess demand",
+        "C": "Excess supply",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "संतुलन",
+        "B": "अधिमाँग",
+        "C": "अधिपूर्ति",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "At a price more than equilibrium price, what will be supply ($S$) compared to demand ($D$) ?",
+      "prashna": "संतुलन मूल्य से अधिक किसी मूल्य पर माँग ($D$) की अपेक्षा पूर्ति ($S$) क्या होगी ?",
+      "options": {
+        "A": "$D > S$",
+        "B": "$D < S$",
+        "C": "$D = S$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$D > S$",
+        "B": "$D < S$",
+        "C": "$D = S$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "In which situation is the change in equilibrium price and quantity is in the same direction ?",
+      "prashna": "किस स्थिति में संतुलन कीमत तथा मात्रा में परिवर्तन की दिशा एक होती है ?",
+      "options": {
+        "A": "When demand curve shifts rightward",
+        "B": "When supply curve shifts rightward",
+        "C": "When supply curve shifts leftward",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जब माँग वक्र दाहिने शिफ्ट करता है",
+        "B": "जब पूर्ति वक्र दाहिने शिफ्ट करता है",
+        "C": "जब पूर्ति वक्र बायें शिफ्ट करता है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Wheat sold at ration shop is an example of",
+      "prashna": "राशन की दुकान में मिलने वाला गेहूँ किसका उदाहरण है ?",
+      "options": {
+        "A": "Ceiling price",
+        "B": "Minimum support price",
+        "C": "Equilibrium price",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उच्चतम निर्धारित कीमत का",
+        "B": "निम्नतम निर्धारित कीमत का",
+        "C": "संतुलन कीमत का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "The minimum support price policy gives rise to which problem ?",
+      "prashna": "निम्नतम निर्धारित कीमत नीति से किसकी समस्या उत्पन्न होती है ?",
+      "options": {
+        "A": "Excess supply",
+        "B": "Excess demand",
+        "C": "Low supply",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अधिपूर्ति की",
+        "B": "अधिमाँग की",
+        "C": "निम्न पूर्ति की",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Which factor determines equilibrium price?",
+      "prashna": "संतुलन कीमत के निर्धारक घटक कौन से हैं?",
+      "options": {
+        "A": "Demand for commodity",
+        "B": "supply of commodity",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु की माँग",
+        "B": "वस्तु की पूर्ति",
+        "C": "(A) एवं (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Who said, “price is determined by both demand and supply forces.”",
+      "prashna": "“किसी वस्तु की कीमत माँग और पूर्ति की शक्तियों द्वारा निर्धारित होती है” किसने कहा था?",
+      "options": {
+        "A": "Jevons",
+        "B": "Walras",
+        "C": "Marshall",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जेवन्स",
+        "B": "वालरस",
+        "C": "मार्शल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Price of a commodity is determined at a point where",
+      "prashna": "कीमत उस बिंदु पर निर्धारित होती है जहाँः",
+      "options": {
+        "A": "Demand of goods exceeds",
+        "B": "Supply of goods exceeds",
+        "C": "Demand of goods and supply of goods to be equal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु की माँग अधिक हो",
+        "B": "वस्तु की पूर्ति अधिक हो",
+        "C": "वस्तु की माँग और वस्तु की पूर्ति बराबर हो",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Market price is found in:",
+      "prashna": "बाजार मूल्य पाया जाता है:",
+      "options": {
+        "A": "Short period market",
+        "B": "Long period market",
+        "C": "Very long period market",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अल्पकालीन बाजार में",
+        "B": "दीर्घकालीन बाजार में",
+        "C": "अतिदीर्घकालीन बाजार में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "In very short period supply will be :",
+      "prashna": "अति अल्पकाल में पूर्ति होगी:",
+      "options": {
+        "A": "Perfectly elastic",
+        "B": "Perfectly inelastic",
+        "C": "Elastic",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूर्णतः लोचदार",
+        "B": "पूर्णतः बेलोचदार",
+        "C": "लोचदार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Demand is in a State of excess when",
+      "prashna": "माँग आधिक्य की स्थिति होती है जबः",
+      "options": {
+        "A": "Quantity of demand is high",
+        "B": "Demand and supply are equal",
+        "C": "Demand is higher than supply",
+        "D": "Demand is less than supply"
+      },
+      "vikalpa": {
+        "A": "माँग की मात्रा अत्यधिक हो",
+        "B": "माँग एवं पूर्ति बराबर हो",
+        "C": "पूर्ति की तुलना में माँग अधिक हो",
+        "D": "पूर्ति की तुलना में माँग कम हो"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Which is/are the component of factor(s) price determination?",
+      "prashna": "साधन कीमत निर्धारण के निम्न में कौन–से घटक हैं?",
+      "options": {
+        "A": "Rent",
+        "B": "Wages",
+        "C": "Interest",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "लगान",
+        "B": "मजदूरी",
+        "C": "ब्याज",
+        "D": "उपर्युक्त सभी"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "In a perfectly competitive market, which forces remove disequilibrium?",
+      "prashna": "पूर्ण प्रतिस्पर्द्धी बाजार में किस शक्ति द्वारा असंतुलन दूर किया जाता है?",
+      "options": {
+        "A": "Government",
+        "B": "Visible hand",
+        "C": "Invisible hand",
+        "D": "Market mechanism"
+      },
+      "vikalpa": {
+        "A": "सरकार",
+        "B": "‘दृश्य हाथ’",
+        "C": "‘अदृश्य हाथ’",
+        "D": "बाजार तंत्र"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "What will be the relation between market price $(p_m)$ and equilibrium price $(p_e)$ in case of excess demand?",
+      "prashna": "अधिमाँग की स्थिति में बाजार मूल्य $(p_m)$ और संतुलन की कीमत $(p_e)$ के बीच क्या संबंध होगा?",
+      "options": {
+        "A": "$p_e > p_m$",
+        "B": "$p_m = p_e$",
+        "C": "$p_m > p_e$",
+        "D": "$p_m \\le p_e$"
+      },
+      "vikalpa": {
+        "A": "$p_e > p_m$",
+        "B": "$p_m = p_e$",
+        "C": "$p_m > p_e$",
+        "D": "$p_m \\le p_e$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "If the demand curve shifts leftward and the supply curve also shifts leftward, what will be the change in equilibrium quantity?",
+      "prashna": "यदि माँग वक्र बायीं ओर शिफ्ट करता है और पूर्ति वक्र भी बायीं ओर शिफ्ट करता है तो संतुलन मात्रा में क्या परिवर्तन होगा?",
+      "options": {
+        "A": "It will decrease",
+        "B": "It will increase",
+        "C": "Will remain unchanged",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कमी आयेगी",
+        "B": "वृद्धि होगी",
+        "C": "अपरिवर्तित रहेगा",
+        "D": "इनमें कोई भी"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "Which of these is the Minimum Support price? (See figure)",
+      "prashna": "इनमें कौन निम्नतम निर्धारित मूल्य है? (चित्र देखें)",
+      "options": {
+        "A": "$p^*$",
+        "B": "$p_e$",
+        "C": "$p^0$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$p^*$",
+        "B": "$p_e$",
+        "C": "$p^0$",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Market Equilibrium",
+      "question": "If the equilibrium price of wheat in the market is $p_e$ and the price ceiling is $p_{max}$ then what will be the price of wheat sold in the ration shop?",
+      "prashna": "यदि बाजार में गेहूँ का संतुलन मूल्य $(p_e)$ है और उच्चतम निर्धारित कीमत $p_{max}$ तो राशन की दुकानों में बेचे जाने वाले गेहूँ का मूल्य होगा?",
+      "options": {
+        "A": "$p_{max} > p_e$",
+        "B": "$p_{max} < p_e$",
+        "C": "$p_{max} = p_e$",
+        "D": "$p_{max} \\ge p_e$"
+      },
+      "vikalpa": {
+        "A": "$p_{max} > p_e$",
+        "B": "$p_{max} < p_e$",
+        "C": "$p_{max} = p_e$",
+        "D": "$p_{max} \\ge p_e$"
+      }
+    }
+  ]
+}

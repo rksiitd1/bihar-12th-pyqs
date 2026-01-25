@@ -1,0 +1,1592 @@
+{
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which value of paper currency is higher?",
+      "prashna": "कागजी मुद्रा का कौन मूल्य अधिक होता है?",
+      "options": {
+        "A": "Face value",
+        "B": "Intrinsic value",
+        "C": "Market value",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अंकित मूल्य",
+        "B": "आंतरिक मूल्य",
+        "C": "बाजार मूल्य",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Money is an intermediate good that has simplified which process?",
+      "prashna": "मुद्रा एक मध्यवर्ती वस्तु है जिसने किस प्रक्रिया को सरल कर दिया है?",
+      "options": {
+        "A": "Transaction (Exchange)",
+        "B": "Calculation and expression of value",
+        "C": "Store of value",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "लेन-देन (विनिमय)",
+        "B": "मूल्य गणना एवं अभिव्यक्ति",
+        "C": "मूल्य संचय",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Why cannot gold, real estate, houses, and bonds perform the function of money?",
+      "prashna": "सोना, भू-संपत्ति, मकान एवं बंधपत्र मुद्रा का कार्य क्यों नहीं कर सकते हैं?",
+      "options": {
+        "A": "They do not have the quality of store of value",
+        "B": "They are not easily convertible into other goods",
+        "C": "They do not have universal acceptability",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "इनमें मूल्य संचय का गुण नहीं है",
+        "B": "दूसरे वस्तु के रूप में आसानी से परिवर्तनीय नहीं है।",
+        "C": "इसकी सार्वभौमिक स्वीकार्यता नहीं है",
+        "D": "(b) एवं (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Who controls the money supply in the country?",
+      "prashna": "देश में मुद्रा की पूर्ति पर नियंत्रण किसका है?",
+      "options": {
+        "A": "Reserve Bank of India",
+        "B": "Bank of India",
+        "C": "State Bank of India",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "भारतीय रिजर्व बैंक",
+        "B": "बैंक ऑफ इंडिया",
+        "C": "स्टेट बैंक ऑफ इंडिया",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What does a bank do with the funds deposited in the bank?",
+      "prashna": "बैंक में जमा किए गए कोषों का बैंक क्या करता है?",
+      "options": {
+        "A": "Keeps the entire fund safe to give to depositors",
+        "B": "Keeps a part of the fund to give to depositors",
+        "C": "Keeps a part for depositors and lends the remaining part on interest",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "पूरा कोष जमाकर्ताओं को देने के लिए सुरक्षित रखता है",
+        "B": "कोष का कुछ भाग जमाकर्ताओं को देने के लिए रखता है",
+        "C": "एक भाग जमाकर्ताओं को देने के लिए रखकर शेष भाग ब्याज पर उधार देता है",
+        "D": "(b) एवं (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "That portion of total deposits of a bank which the bank keeps in cash to pay depositors is called?",
+      "prashna": "बैंक के कुल जमा का वह अंश जो बैंक जमाकर्ताओं को देने के लिए नकद रखता है, क्या कहलाता है?",
+      "options": {
+        "A": "Statutory Liquidity Ratio",
+        "B": "Cash Reserve Ratio",
+        "C": "Open Market Operation",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सांविधिक तरलता अनुपात",
+        "B": "नकद आरक्षित जमा अनुपात",
+        "C": "खुली बाजार क्रिया",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What are 'Open Market Operations'?",
+      "prashna": "'खुले बाजार की क्रियाएँ' क्या है?",
+      "options": {
+        "A": "Purchase of government bonds by the bank",
+        "B": "Sale of government bonds by the bank",
+        "C": "Providing loans to commercial banks by the central bank",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "बैंक द्वारा सरकारी बांड्स की खरीद",
+        "B": "बैंक द्वारा सरकारी बांड्स का विक्रय",
+        "C": "केन्द्रीय बैंक द्वारा व्यावसायिक बैंक को ऋण प्रदान करना",
+        "D": "(a) एवं (b) दोनों"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "On what does the demand for money for speculative purposes depend?",
+      "prashna": "सट्टा के उद्देश्य से मुद्रा की माँग किस पर निर्भर करती है?",
+      "options": {
+        "A": "National Income",
+        "B": "Price level",
+        "C": "Market rate of interest",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रीय आय",
+        "B": "मूल्य स्तर",
+        "C": "बाजार ब्याज दर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "'$M_1$ + Net time deposits of commercial banks' matches with which definition of money supply?",
+      "prashna": "'$M_1$ + व्यावसायिक बैंकों की निवल आवधिक जमाएँ', मुद्रा पूर्ति के किस परिभाषा से मेल खाता है?",
+      "options": {
+        "A": "$M_2$",
+        "B": "$M_3$",
+        "C": "$M_4$",
+        "D": "$M_5$"
+      },
+      "vikalpa": {
+        "A": "$M_2$",
+        "B": "$M_3$",
+        "C": "$M_4$",
+        "D": "$M_5$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is called Narrow Money?",
+      "prashna": "निम्न में किसे संकुचित मुद्रा कहा जाता है?",
+      "options": {
+        "A": "$M_1$",
+        "B": "$M_2$",
+        "C": "$M_3$ and $M_4$",
+        "D": "Both $M_1$ and $M_2$"
+      },
+      "vikalpa": {
+        "A": "$M_1$",
+        "B": "$M_2$",
+        "C": "$M_3$ एवं $M_4$",
+        "D": "$M_1$ एवं $M_2$ दोनों"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is the correct definition of money multiplier? (Where M is stock of money and H is high powered money)?",
+      "prashna": "निम्न में कौन मुद्रा गुणक की सही परिभाषा है? (यहाँ M मुद्रा का स्टॉक है और H उच्च शक्तिशाली मुद्रा है)?",
+      "options": {
+        "A": "$M \\times H$",
+        "B": "$H \\times M$",
+        "C": "$M/H$",
+        "D": "$H/M$"
+      },
+      "vikalpa": {
+        "A": "$M \\times H$",
+        "B": "$H \\times M$",
+        "C": "$M/H$",
+        "D": "$H/M$"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is the banker to the government?",
+      "prashna": "निम्न में कौन सरकार का बैंकर है?",
+      "options": {
+        "A": "Central Bank",
+        "B": "Commercial Bank",
+        "C": "Cooperative Bank",
+        "D": "Rural Bank"
+      },
+      "vikalpa": {
+        "A": "केन्द्रीय बैंक",
+        "B": "व्यावसायिक बैंक",
+        "C": "सहकारी बैंक",
+        "D": "ग्रामीण बैंक"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following financial investments has a higher interest rate?",
+      "prashna": "निम्न में किस वित्तीय निवेश की ब्याज दर अधिक होता है?",
+      "options": {
+        "A": "Demand deposit",
+        "B": "Time deposit",
+        "C": "Credit/Loan",
+        "D": "National Savings Certificate"
+      },
+      "vikalpa": {
+        "A": "माँग जमा",
+        "B": "अविधिक जमा",
+        "C": "उधार/ऋण",
+        "D": "राष्ट्रीय बचत पत्र"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What is the value of interest rate in 'Liquidity Trap'?",
+      "prashna": "'तरलता पाश' में ब्याज दर का मान क्या होता है?",
+      "options": {
+        "A": "High",
+        "B": "Low",
+        "C": "Minimum",
+        "D": "Average"
+      },
+      "vikalpa": {
+        "A": "ऊँचा",
+        "B": "कम",
+        "C": "न्यूनतम",
+        "D": "औसत"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Give a description of any two functions of the Central Bank.",
+      "prashna": "केन्द्रीय बैंक के किन्हीं दो कार्यों का विवरण दें।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What do you understand by Cash Reserve Ratio?",
+      "prashna": "नकद आरक्षित अनुपात से आप क्या समझते हैं?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What does a bank do with the funds deposited in the bank?",
+      "prashna": "बैंक में जमा किये गए कोषों का बैंक क्या करता है?"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What are the main functions of money? Explain.",
+      "prashna": "मुद्रा के प्रमुख कार्य क्या हैं? समझाइए।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "How does a commercial bank create credit? Explain with an example.",
+      "prashna": "व्यावसायिक बैंक किस प्रकार साख का निर्माण करती है? उदाहरण के साथ समझायें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Credit money is increased when CRR",
+      "prashna": "साख मुद्रा का विस्तार होता है जब नगद कोष अनुपात",
+      "options": {
+        "A": "falls",
+        "B": "rises",
+        "C": "both (A) and (B) possible",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "घटता है",
+        "B": "बढ़ता है",
+        "C": "(A) और (B) दोनों सम्भव",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "The main function of commercial bank is",
+      "prashna": "व्यावसायिक बैंक का प्रमुख कार्य",
+      "options": {
+        "A": "Credit control",
+        "B": "Advancing to other banks",
+        "C": "Accept deposits from customers",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "साख नियंत्रण करना",
+        "B": "अन्य बैंकों को ऋण देना",
+        "C": "ग्राहकों का जमा स्वीकार करना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following deposits are accepted mainly by the commercial banks?",
+      "prashna": "व्यावसायिक बैंकों द्वारा स्वीकार की जानेवाली प्रमुख जमाएँ निम्न में कौन-सी है",
+      "options": {
+        "A": "Current Deposits",
+        "B": "Savings Deposits",
+        "C": "Fixed Deposits",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "चालू जमा",
+        "B": "बचत जमा",
+        "C": "सावधि जमा",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is the function of central bank?",
+      "prashna": "केन्द्रीय बैंक के निम्नलिखित में कौन-से कार्य हैं?",
+      "options": {
+        "A": "Monopoly of note issue",
+        "B": "Banker of the Government",
+        "C": "Custodian of foreign exchange reserves",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "नोट निर्गमन का एकाधिकार",
+        "B": "सरकार का बैंकर",
+        "C": "विदेशी विनिमय कोषों का संरक्षक",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which is the central bank of India?",
+      "prashna": "भारत का केन्द्रीय बैंक निम्नलिखित में कौन-सा है ?",
+      "options": {
+        "A": "Reserve Bank of India.",
+        "B": "State Bank of India",
+        "C": "Central Bank of India",
+        "D": "Bank of India"
+      },
+      "vikalpa": {
+        "A": "रिजर्व बैंक ऑफ इण्डिया",
+        "B": "स्टेट बैंक ऑफ इण्डिया",
+        "C": "सेन्ट्रल बैंक ऑफ इण्डिया",
+        "D": "बैंक ऑफ इण्डिया"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is the major objective of credit control?",
+      "prashna": "साख नियंत्रण के प्रमुख उद्देश्य निम्नलिखित में कौन-से हैं?",
+      "options": {
+        "A": "To maintain price stability",
+        "B": "To stabilize foreign exchange rate",
+        "C": "To promote production and employment",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कीमत स्थिरता स्थापित करना",
+        "B": "विदेशी विनिमय दर में स्थिरता लाना",
+        "C": "उत्पादन एवं रोजगार वृद्धि के उपाय करना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "When were 14 big scheduled commercial banks in India nationalised?",
+      "prashna": "भारत में 14 बड़े अनुसूचित व्यावसायिक बैंकों का राष्ट्रीयकरण कब किया गया ?",
+      "options": {
+        "A": "1949",
+        "B": "1955",
+        "C": "1969",
+        "D": "2000"
+      },
+      "vikalpa": {
+        "A": "1949 में",
+        "B": "1955 में",
+        "C": "1969 में",
+        "D": "2000 में"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is included in qualitative method of controlling credit?",
+      "prashna": "गुणात्मक साख नियंत्रण के अन्तर्गत निम्नलिखित में किसे शामिल किया जाता है।",
+      "options": {
+        "A": "Change in marginal requirements of loans",
+        "B": "Credit rationing",
+        "C": "Direct action",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ऋणों की सीमान्त आवश्यकता में परिवर्तन",
+        "B": "साख की राशनिंग",
+        "C": "प्रत्यक्ष कार्यवाही",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Priority sector includes",
+      "prashna": "प्राथमिकता क्षेत्र में सम्मिलित होता है",
+      "options": {
+        "A": "Agriculture",
+        "B": "Retail trading",
+        "C": "Small industries",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कृषि",
+        "B": "खुदरा व्यापार",
+        "C": "लघु उद्योग",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which one is the difficulty of Barter system?",
+      "prashna": "वस्तु विनिमय प्रणाली की निम्नलिखित में कौन-सी कठिनाई है ?",
+      "options": {
+        "A": "Lack of double coincidence",
+        "B": "Difficulty of division of the goods",
+        "C": "Lack of general acceptable measure of value",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "दोहरा संयोग का अभाव",
+        "B": "वस्तु विभाजन में कठिनाई",
+        "C": "सर्वमान्य मूल्य मापक का अभाव",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which one of the following is included in the primary function of money?",
+      "prashna": "मुद्रा के प्राथमिक कार्य के अन्तर्गत निम्नलिखित में से किसे शामिल किया जाता है?",
+      "options": {
+        "A": "Medium of exchange",
+        "B": "Measure of value",
+        "C": "Both (A) and (B)",
+        "D": "Store of value"
+      },
+      "vikalpa": {
+        "A": "विनिमय का माध्यम",
+        "B": "मूल्य का मापक",
+        "C": "(A) और (B) दोनों",
+        "D": "मूल्य का संचय"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "The function of money includes",
+      "prashna": "मुद्रा के कार्यों में सम्मिलित है",
+      "options": {
+        "A": "Value determination",
+        "B": "Store of value",
+        "C": "Means of exchange",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "मूल्य निर्धारण करना",
+        "B": "मूल्य संचित करना",
+        "C": "विनिमय का माध्यम प्रस्तुत करना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is the difference between 'Bank Rate' and 'Interest Rate'?",
+      "prashna": "\"बैंक दर' एवं 'ब्याज दर में क्या अन्तर है?"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "State the main demerits of money.",
+      "prashna": "मुद्रा के प्रमुख दोष बताइए"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "State the qualities of good money.",
+      "prashna": "श्रेष्ठ मुद्रा के गुण बताइए।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Define 'clearing house'.",
+      "prashna": "'समाशोधन गृह' को परिभाषित कीजिए।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is Barter system? Mention its difficulties.",
+      "prashna": "वस्तु विनिमय प्रणाली क्या है? इसकी कठिनाइयाँ बताइए।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Explain briefly the primary functions of a commercial bank.",
+      "prashna": "एक व्यावसायिक बैंक के मुख्य कार्यों का संक्षिप्त वर्णन कीजिए।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Narasimham Committee is related to which of the following?",
+      "prashna": "नरसिम्हम समिति का सम्बन्ध निम्नलिखित में से किससे है ?",
+      "options": {
+        "A": "Tax reforms",
+        "B": "Banking reforms",
+        "C": "Agriculture reforms",
+        "D": "Education reforms"
+      },
+      "vikalpa": {
+        "A": "कर सुधार",
+        "B": "बैंकिंग सुधार",
+        "C": "कृषि सुधार",
+        "D": "शिक्षा सुधार"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "In which year was the Banking Ombudsman Scheme announced?",
+      "prashna": "बैंकिंग लोकपाल योजना की घोषणा किस वर्ष की गई ?",
+      "options": {
+        "A": "1990",
+        "B": "1995",
+        "C": "1997",
+        "D": "2000"
+      },
+      "vikalpa": {
+        "A": "1990",
+        "B": "1995",
+        "C": "1997",
+        "D": "2000"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "According to whom \"Money is the pivot around which the whole economy revolves\"?",
+      "prashna": "निम्नलिखित में से किसके अनुसार \"मुद्रा वह धुरी है जिसके चारों ओर समस्त अर्थव्यवस्था चक्कर लगाती है\" ?",
+      "options": {
+        "A": "Keynes",
+        "B": "Robertson",
+        "C": "Marshall",
+        "D": "Hawtrey"
+      },
+      "vikalpa": {
+        "A": "कीन्स",
+        "B": "रॉबर्टसन",
+        "C": "मार्शल",
+        "D": "हाट्रे"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is narrow money?",
+      "prashna": "निम्नांकित में से कौन संकुचित मुद्रा है",
+      "options": {
+        "A": "$M_1$",
+        "B": "$M_2$",
+        "C": "$M_3$ and $M_4$",
+        "D": "$M_1$ and $M_2$"
+      },
+      "vikalpa": {
+        "A": "$M_1$",
+        "B": "$M_2$",
+        "C": "$M_3$ एवं $M_4$",
+        "D": "$M_1$ एवं $M_2$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "On what does the speculative demand for money depend?",
+      "prashna": "सट्टा के उद्देश्य से मुद्रा की माँग किस पर निर्भर करती है ?",
+      "options": {
+        "A": "National income",
+        "B": "Price level",
+        "C": "Market rate of interest",
+        "D": "Expenditure"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रीय आप",
+        "B": "मूल्य स्तर",
+        "C": "बाजार ब्याज दर",
+        "D": "व्यय"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "According to whom \"Money is what money does\"?",
+      "prashna": "निम्नलिखित में से किसके अनुसार \"मुद्रा वह है जो मुद्रा का कार्य करे\" ?",
+      "options": {
+        "A": "Hartley Withers",
+        "B": "Hawtrey",
+        "C": "Prof. Thomas",
+        "D": "Keynes"
+      },
+      "vikalpa": {
+        "A": "हार्टले विदर्स",
+        "B": "हाट्रे",
+        "C": "प्रो. थामस",
+        "D": "कीन्स"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is not a function of money?",
+      "prashna": "निम्नलिखित में से कौन-सा मुद्रा का कार्य नहीं है ?",
+      "options": {
+        "A": "Medium of exchange",
+        "B": "Price stability",
+        "C": "Store of value",
+        "D": "Unit of account"
+      },
+      "vikalpa": {
+        "A": "विनिमय का माध्यम",
+        "B": "कीमत स्थिरता",
+        "C": "मूल्य संचय",
+        "D": "लेखा की इकाई"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Who divided the functions of money into static and dynamic?",
+      "prashna": "मुद्रा के स्थैतिक एवं गत्यात्मक कार्यों का विभाजन किसने किया ?",
+      "options": {
+        "A": "Ragnar Frisch",
+        "B": "Paul Einzig",
+        "C": "Marshall",
+        "D": "Hawtrey"
+      },
+      "vikalpa": {
+        "A": "रैगनर फ्रिश",
+        "B": "पॉल ऐजिंग",
+        "C": "मार्शल",
+        "D": "हाट्रे"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Credit Multiplier is:",
+      "prashna": "साख गुणक होता है",
+      "options": {
+        "A": "$\\frac{1}{CRR}$",
+        "B": "$\\text{Cash} + \\frac{1}{CRR}$",
+        "C": "$\\text{Cash} + CRR$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{CRR}$",
+        "B": "नकद + $\\frac{1}{CRR}$",
+        "C": "नकद + CRR",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "The Reserve Bank of India is:",
+      "prashna": "भारतीय रिजर्व बैंक है",
+      "options": {
+        "A": "Central Bank",
+        "B": "Commercial Bank",
+        "C": "Co-operative Bank",
+        "D": "Regional Bank"
+      },
+      "vikalpa": {
+        "A": "केन्द्रीय बैंक",
+        "B": "व्यापारिक बैंक",
+        "C": "सहकारी बैंक",
+        "D": "ग्रामीण बैंक"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Who regulates the money supply?",
+      "prashna": "मुद्रा पूर्ति का नियमन कौन करता है ?",
+      "options": {
+        "A": "Government of India",
+        "B": "Reserve Bank of India",
+        "C": "Commercial Bank",
+        "D": "Planning Commission"
+      },
+      "vikalpa": {
+        "A": "भारत सरकार",
+        "B": "रिजर्व बैंक ऑफ इण्डिया",
+        "C": "व्यापारिक बैंक",
+        "D": "योजना आयोग"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "In which year did Banking Sector Reforms start in India?",
+      "prashna": "भारत में बैंकिंग क्षेत्र सुधार किस वर्ष प्रारम्भ हुआ ?",
+      "options": {
+        "A": "1969",
+        "B": "1981",
+        "C": "1991",
+        "D": "2001"
+      },
+      "vikalpa": {
+        "A": "1969",
+        "B": "1981",
+        "C": "1991",
+        "D": "2001"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What is the value of rate of interest in Liquidity Trap?",
+      "prashna": "तरलता पाश में ब्याज दर का क्या मान रहता है ? -",
+      "options": {
+        "A": "Average",
+        "B": "Minimum",
+        "C": "High",
+        "D": "Low"
+      },
+      "vikalpa": {
+        "A": "औसत",
+        "B": "न्यूनतम",
+        "C": "ऊँचा",
+        "D": "कम"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Who issues one rupee note in India?",
+      "prashna": "भारत में एक रुपया का नोट कौन जारी करता है ?",
+      "options": {
+        "A": "Reserve Bank of India",
+        "B": "State Bank of India",
+        "C": "Ministry of Finance, Government of India",
+        "D": "World Bank"
+      },
+      "vikalpa": {
+        "A": "भारतीय रिजर्व बैंक",
+        "B": "भारतीय स्टेट बैंक",
+        "C": "भारत सरकार का वित्त मंत्रालय",
+        "D": "विश्व बैंक"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Explain the difference between Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR).",
+      "prashna": "नकद कोषानुपात और सांवधिक तरलता अनुपात में अंतर स्पष्ट करें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "State two functions of a Commercial Bank.",
+      "prashna": "व्यापारिक बैंक के दो कार्यों को बताइए।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is Legal Tender Money?",
+      "prashna": "विधिग्राहय मुद्रा क्या है ?"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is Monetary Policy?",
+      "prashna": "मौद्रिक नीति क्या है ?"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What are the instruments of Monetary Policy of the Reserve Bank of India?",
+      "prashna": "भारतीय रिजर्व बैंक की मौद्रिक नीति के कौन-कौन से उपकरण हैं ?"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following means of exchange has universal acceptance ?",
+      "prashna": "निम्न में से किसकी विनिमय के माध्यम के रूप में सार्वभौमिक स्वीकार्यता है ?",
+      "options": {
+        "A": "Bond",
+        "B": "Gold",
+        "C": "Land Asset",
+        "D": "Legal tender"
+      },
+      "vikalpa": {
+        "A": "बंधपत्र",
+        "B": "सोना",
+        "C": "भू-संपत्ति",
+        "D": "विधिग्राह्य मुद्रा"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What would be the change in demand for money for transaction purposes due to rise in prices ?",
+      "prashna": "मूल्य वृद्धि से लेनदेन संव्यवहार के लिए मुद्रा की माँग में क्या परिवर्तन होगा ?",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain constant",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ेगी",
+        "B": "घटेगी",
+        "C": "स्थिर रहेगी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Of the alternative measures of supply of money by Reserve Bank of India which is the correct component of $M_1$ ?",
+      "prashna": "भारतीय रिजर्व बैंक की मुद्रा की पूर्ति के वैकल्पिक मापों में $M_1$ का कौन सही घटक है ?",
+      "options": {
+        "A": "Currency note and coins (CC)",
+        "B": "Demand deposits (DD)",
+        "C": "Savings deposit in post office savings bank",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "करेंसी नोट और सिक्के (CC)",
+        "B": "माँग जमा (DD)",
+        "C": "डाकघर बचत बैंक में बचत जमाएँ",
+        "D": "(A) और (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Time deposits are kept in which account ?",
+      "prashna": "आवधिक जमा किस खाते में रखा जाता है ?",
+      "options": {
+        "A": "Term Deposit Account",
+        "B": "Savings Deposit Account",
+        "C": "Current Account",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आवधि जमा खाता",
+        "B": "बचत जमा खाता",
+        "C": "चालू जमा खाता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "If currency is $CU$ and deposits is $DD$ then what would be currency deposit ratio ?",
+      "prashna": "यदि करेंसी $CU$ हो और जमा $DD$ हो तो करेंसी जमा अनुपात क्या होगा ?",
+      "options": {
+        "A": "$CU/DD$",
+        "B": "$DD/CU$",
+        "C": "$DD \\times CU$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$CU/DD$",
+        "B": "$DD/CU$",
+        "C": "$DD \\times CU$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "As compared to the rate of interest on deposits in bank, the rate of interest on loans is",
+      "prashna": "बैंक के जमा पर ब्याज की दर की अपेक्षा ऋण पर ब्याज की दर क्या होती है ?",
+      "options": {
+        "A": "more",
+        "B": "equal",
+        "C": "less",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अधिक होती है",
+        "B": "बराबर होती है",
+        "C": "कम होती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What will the Reserve Bank do if it wants to increase high powered money ?",
+      "prashna": "यदि रिजर्व बैंक को उच्च शक्तिशाली मुद्रा में वृद्धि करनी है तो वह क्या करेगा ?",
+      "options": {
+        "A": "Will purchase government securities",
+        "B": "Will sell government securities",
+        "C": "Will increase cash reserve ratio",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सरकारी प्रतिभूतियों का क्रय करेगा",
+        "B": "सरकारी प्रतिभूतियों का विक्रय करेगा",
+        "C": "नकद आरक्षित अनुपात में वृद्धि करेगा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Write the equation for transactionary demand for money.",
+      "prashna": "लेन-देन के लिए मुद्रा की माँग का समीकरण लिखें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Define demand deposit.",
+      "prashna": "माँग जमा को परिभाषित करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "By which process does bank provide loan to a person ?",
+      "prashna": "बैंक किसी व्यक्ति को किस प्रक्रिया द्वारा ऋण देता है ?"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What are the important functions of money ? Write with examples.",
+      "prashna": "मुद्रा के प्रमुख कार्य क्या-क्या हैं ? उदाहरण के साथ लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Advantage(s) of Barter System is/are:",
+      "prashna": "वस्तु विनिमय प्रणाली के लाभ हैं:",
+      "options": {
+        "A": "Simple System",
+        "B": "More Mutual Cooperation",
+        "C": "No Economic disparities",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "सरल प्रणाली",
+        "B": "आपसी सहयोग पर वृद्धि",
+        "C": "आर्थिक असमानताएं नहीं",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "“Money is what money does” who said it?",
+      "prashna": "“मुद्रा वह है जो मुद्रा का कार्य करें” किसने कहा था?",
+      "options": {
+        "A": "Hartley Withers",
+        "B": "Hawtrey",
+        "C": "Prof. Thomas",
+        "D": "Keynes"
+      },
+      "vikalpa": {
+        "A": "हार्टले विदर्स",
+        "B": "हाट्रे",
+        "C": "प्रो. थॉमस",
+        "D": "कीन्स"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "The functions of money is",
+      "prashna": "मुद्रा के कार्य हैं",
+      "options": {
+        "A": "Medium exchange",
+        "B": "Measure of value",
+        "C": "Store of value",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "विनिमय का माध्यम",
+        "B": "मूल्य का मापक",
+        "C": "मूल्य का संचय",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is Legal Tender Money?",
+      "prashna": "निम्न में से कौन विधिग्राह्य मुद्रा है?",
+      "options": {
+        "A": "Credit Money",
+        "B": "Circulated Paper Money",
+        "C": "Draft",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "साख मुद्रा",
+        "B": "प्रचलित पत्र मुद्रा",
+        "C": "ड्राफ्ट",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the primary function of Commercial Bank?",
+      "prashna": "व्यापारिक बैंक के प्राथमिक कार्य कौन से हैं?",
+      "options": {
+        "A": "Accepting deposits",
+        "B": "Provide loans",
+        "C": "Credit creation",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "जमाएँ स्वीकार करना",
+        "B": "ऋण देना",
+        "C": "साख निर्माण",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Credit Multiplier is:",
+      "prashna": "साख गुणक होता है:",
+      "options": {
+        "A": "$\\frac{1}{CRR}$",
+        "B": "$Cash \\times \\frac{1}{CRR}$",
+        "C": "$Cash \\times CRR$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{1}{CRR}$",
+        "B": "$नकद \\times \\frac{1}{CRR}$",
+        "C": "$नकद \\times CRR$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Commercial bank:",
+      "prashna": "व्यापारिक बैंक:",
+      "options": {
+        "A": "Issue currency notes",
+        "B": "Accept deposits from customers",
+        "C": "Provide loan to customers",
+        "D": "Only (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "नोट निर्गमन करता है",
+        "B": "ग्राहकों से जमा स्वीकार करता है",
+        "C": "ग्राहकों को ऋण देता है",
+        "D": "केवल (B) एवं (C)"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which type of currency is issued by the central bank?",
+      "prashna": "केंद्रीय बैंक द्वारा कौन सी मुद्रा जारी की जाती है?",
+      "options": {
+        "A": "Currency",
+        "B": "Credit money",
+        "C": "Coins",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "चल मुद्रा",
+        "B": "साख मुद्रा",
+        "C": "सिक्के",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Who issues paper currency in the country?",
+      "prashna": "देश में कागजी नोट जारी करने का कार्य कौन करता है?",
+      "options": {
+        "A": "Commercial bank",
+        "B": "Central Bank",
+        "C": "Industrial Bank",
+        "D": "World Bank"
+      },
+      "vikalpa": {
+        "A": "व्यापारिक बैंक",
+        "B": "केंद्रीय बैंक",
+        "C": "औद्योगिक बैंक",
+        "D": "विश्व बैंक"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is a qualitative method of credit control?",
+      "prashna": "निम्न में से कौन साख नियंत्रण की गुणात्मक विधि है?",
+      "options": {
+        "A": "Change in cash reserve ratio of Banks",
+        "B": "Restriction on consumer credit",
+        "C": "Open market operation",
+        "D": "Change in Bank Rate"
+      },
+      "vikalpa": {
+        "A": "बैंकों के नकद कोष अनुपात में परिवर्तन",
+        "B": "उपभोक्ता साख पर नियंत्रण",
+        "C": "खुले बाजार का कार्यक्रम",
+        "D": "बैंक दर में परिवर्तन"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Who regulates money supply?",
+      "prashna": "मुद्रा पूर्ति का नियंत्रण कौन करता है?",
+      "options": {
+        "A": "Government of India",
+        "B": "Reserve Bank of India",
+        "C": "Commercial Bank",
+        "D": "Planning Commission"
+      },
+      "vikalpa": {
+        "A": "भारत सरकार",
+        "B": "रिजर्व बैंक ऑफ इंडिया",
+        "C": "वाणिज्यिक बैंक",
+        "D": "योजना आयोग"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Credit money is increased when CRR ?",
+      "prashna": "साख मुद्रा का विस्तार होता है जब CRR:",
+      "options": {
+        "A": "Falls",
+        "B": "Rises",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "घटता है",
+        "B": "बढ़ता है",
+        "C": "(A) एवं (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "With which Narsimham committee is related to:",
+      "prashna": "नरसिम्हम समिति का सम्बन्ध किस से है?",
+      "options": {
+        "A": "Tax Reform",
+        "B": "Banking Reform",
+        "C": "Agriculture Reform",
+        "D": "Infrastructure reform"
+      },
+      "vikalpa": {
+        "A": "कर सुधार",
+        "B": "बैंकिंग सुधार",
+        "C": "कृषि सुधार",
+        "D": "आधारभूत संरचना सुधार"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "How many banks were Nationalised in 1980 ?",
+      "prashna": "1980 में कुल कितने बैंकों का राष्ट्रीयकरण किया गया था?",
+      "options": {
+        "A": "20",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "20",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "State two secondary functions of money.",
+      "prashna": "मुद्रा के दो गौण कार्य बतायें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Who creates credit in the Economy?",
+      "prashna": "अर्थव्यवस्था में साख निर्माण कौन करता है?"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is meant by Open market operation?",
+      "prashna": "खुले बाजार की कार्यवाही से क्या आशय है?"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Mention any two recommendations of first Narsimham committee.",
+      "prashna": "प्रथम नरसिम्हम समिति की किन्हीं दो सिफारिशों को लिखें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is bank rate policy?",
+      "prashna": "बैंक दर नीति क्या है?"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Explain the main functions of Reserve Bank of India.",
+      "prashna": "भारतीय रिजर्व बैंक के मुख्य कार्यों का वर्णन करें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "In what form does accumulation of wealth for future takes place?",
+      "prashna": "भविष्य के लिए धन संचय का कार्य किस रुप में होता है?",
+      "options": {
+        "A": "Gold",
+        "B": "Assets",
+        "C": "Bonds",
+        "D": "Money"
+      },
+      "vikalpa": {
+        "A": "सोना",
+        "B": "संपत्ति",
+        "C": "बंध पत्र",
+        "D": "मुद्रा"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Which of the following is not a function of money?",
+      "prashna": "इनमें कौन मुद्रा का कार्य नहीं है?",
+      "options": {
+        "A": "Unit of Account",
+        "B": "Medium of Exchange",
+        "C": "Measure inflation",
+        "D": "Store of Value"
+      },
+      "vikalpa": {
+        "A": "लेखा की इकाई",
+        "B": "विनिमय का माध्यम",
+        "C": "मुद्रास्फीति मापना",
+        "D": "मूल्य संचय"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "On what does the demand for money for transactions depend?",
+      "prashna": "संव्यवहार के लिए मुद्रा की माँग किस पर निर्भर करती है?",
+      "options": {
+        "A": "On the value of transaction",
+        "B": "On the rate of interest",
+        "C": "People's payment habits",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "संव्यवहार के मूल्य पर",
+        "B": "ब्याज की दर पर",
+        "C": "लोगों की भुगतान आदतें",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What measures does the bank take to return the depositor’s money?",
+      "prashna": "बैंक जमाकर्त्ताओं का पैसा वापस करने के लिए क्या उपाय करता है?",
+      "options": {
+        "A": "A portion of the deposited fund is used to pay back the money to depositor.",
+        "B": "Takes loan",
+        "C": "Receives from the Reserve Bank",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जमा कोषों का एक भाग जमाकर्त्ताओं का पैसा वापस करने में उपयोग करता है",
+        "B": "ऋण लेता है",
+        "C": "रिजर्व बैंक से प्राप्त करता है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What role does a Bank play between people who have a lot of money(savers), and those who need money (the borrowers)?",
+      "prashna": "बैंक अधिक धन वाले(बचत वाले) से धन प्राप्त कर जिनको धन की आवश्यकता है(ऋण लेने वाले) के बीच कौन सी भूमिका निभाता है?",
+      "options": {
+        "A": "of Intermediary",
+        "B": "of Usurer",
+        "C": "of Businessman",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "मध्यस्थ की",
+        "B": "सूदखोर की",
+        "C": "व्यवसायी की",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What is Reserves + Loan called for bank?",
+      "prashna": "बैंक के लिए कोष + ऋण क्या कहलाता है?",
+      "options": {
+        "A": "Net Worth",
+        "B": "Liabilities",
+        "C": "Deposits",
+        "D": "Assets"
+      },
+      "vikalpa": {
+        "A": "नेटवर्थ",
+        "B": "देनदारियाँ",
+        "C": "जमाएँ",
+        "D": "आस्तियाँ"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "Currency + Demand Deposits = ?",
+      "prashna": "करेंसी + माँग जमाएँ = ?",
+      "options": {
+        "A": "$M_4$",
+        "B": "$M_3$",
+        "C": "$M_2$",
+        "D": "$M_1$"
+      },
+      "vikalpa": {
+        "A": "$M_4$",
+        "B": "$M_3$",
+        "C": "$M_2$",
+        "D": "$M_1$"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What is margin requirement?",
+      "prashna": "सीमा अनिवार्यता क्या है?",
+      "options": {
+        "A": "Monetary measure of credit control",
+        "B": "Limit for giving loan",
+        "C": "Qualitative measure of credit control",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "साख नियंत्रण का मौद्रिक उपाय",
+        "B": "ऋण देने की सीमा",
+        "C": "साख नियंत्रणा का गुणात्मक उपाय",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What is $k$ in the equation $M_p^d = kT$?",
+      "prashna": "समीकरण $M_p^d = kT$ में $k$ क्या है?",
+      "options": {
+        "A": "$1/V$",
+        "B": "The stock of money that people wish to hold at any given time",
+        "C": "Positive constant",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$1/V$",
+        "B": "मुद्रा का वह स्टॉक जो किसी एक समय लोग रखना चाहते हैं",
+        "C": "धनात्मक स्थिरांक",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "What becomes of the speculative demand for money at the minimum interest rate $r_{min}$?",
+      "prashna": "न्यूनतम ब्याज दर $r_{min}$ पर सट्टा के लिए मुद्रा की माँग क्या हो जाती है?",
+      "options": {
+        "A": "Increases",
+        "B": "Becomes zero",
+        "C": "Becomes Minimum",
+        "D": "Becomes Infinite"
+      },
+      "vikalpa": {
+        "A": "बढ़ जाती है",
+        "B": "शून्य हो जाती है",
+        "C": "न्यूनतम हो जाती है",
+        "D": "असीम होती है"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "Money and Banking",
+      "question": "In which year did demonetization take place?",
+      "prashna": "विमुद्रीकरण किस वर्ष हुआ था?",
+      "options": {
+        "A": "2025",
+        "B": "2020",
+        "C": "2019",
+        "D": "2016"
+      },
+      "vikalpa": {
+        "A": "2025",
+        "B": "2020",
+        "C": "2019",
+        "D": "2016"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is barter system? write with suitable examples.",
+      "prashna": "वस्तु विनिमय प्रणाली क्या है? सोदाहरण लिखें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Write two properties of paper currency.",
+      "prashna": "कागजी मुद्रा के दो गुण लिखें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter_name": "Money and Banking",
+      "question": "What is the definition of money supply $M_1$?",
+      "prashna": "मुद्रा पूर्ति $M_1$ की क्या परिभाषा है?"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "Money and Banking",
+      "question": "Describe the functions of commercial bank.",
+      "prashna": "व्यावसायिक बैंक के कार्यों का वर्णन करें।"
+    }
+  ]
+}

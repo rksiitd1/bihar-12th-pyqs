@@ -1,0 +1,2030 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which value of paper currency is higher?",
+        "prashna": "कागजी मुद्रा का कौन मूल्य अधिक होता है?",
+        "options": {
+            "A": "Face value",
+            "B": "Intrinsic value",
+            "C": "Market value",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अंकित मूल्य",
+            "B": "आंतरिक मूल्य",
+            "C": "बाजार मूल्य",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "What is true about $\\bar{C}$ in the consumption equation $C = \\bar{C} + CY$?",
+        "prashna": "उपभोग समीकरण $C = \\bar{C} + CY$ में $\\bar{C}$ के विषय में क्या सही है?",
+        "options": {
+            "A": "$\\bar{C} > 0$",
+            "B": "$\\bar{C}$ is the level of minimum consumption",
+            "C": "$\\bar{C}$ is the constant value given in the model",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "$\\bar{C} > 0$",
+            "B": "$\\bar{C}$ न्यूनतम उपभोग का स्तर है।",
+            "C": "$\\bar{C}$ मॉडल में दिया हुआ स्थिर मान है।",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "What is $C$ in the multiplier $\\frac{1}{1-C}$?",
+        "prashna": "गुणक $\\frac{1}{1-C}$ में $C$ क्या है?",
+        "options": {
+            "A": "Consumption",
+            "B": "Subsistence level of consumption",
+            "C": "Marginal Propensity to Consume",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उपभोग",
+            "B": "उपभोग का जीवन निर्वाह स्तर",
+            "C": "सीमांत उपभोग प्रवृत्ति",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "If $0 < C < 1$, what will be the minimum value of the multiplier $\\frac{1}{1-C}$?",
+        "prashna": "यदि $0 < C < 1$ तो गुणक $\\frac{1}{1-C}$ का न्यूनतम मान क्या होगा?",
+        "options": {
+            "A": "Equal to unity",
+            "B": "Less than unity",
+            "C": "More than unity",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "इकाई के बराबर",
+            "B": "इकाई से कम",
+            "C": "इकाई से अधिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "What is the sum of all factor payments in an economy?",
+        "prashna": "अर्थव्यवस्था के समस्त कारक अदायगी का योग क्या होता है?",
+        "options": {
+            "A": "National Income",
+            "B": "Market Income",
+            "C": "Entrepreneur's Income",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "राष्ट्रीय आय",
+            "B": "बाजार आय",
+            "C": "उद्यमी की आय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "What is the recovery of loans provided by the Central Government?",
+        "prashna": "केन्द्र सरकार द्वारा प्रदत्त ऋणों की वसूली क्या है?",
+        "options": {
+            "A": "Capital Expenditure",
+            "B": "Capital Receipts",
+            "C": "Revenue Receipts",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पूँजीगत व्यय",
+            "B": "पूँजीगत प्राप्तियाँ",
+            "C": "राजस्व प्राप्तियाँ",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Other things remaining equal, what happens to consumption due to a cut in taxes?",
+        "prashna": "अन्य बातें सामान्य रहीं तो करों में कटौती से, उपभोग में क्या होता है?",
+        "options": {
+            "A": "Increase",
+            "B": "Reduction",
+            "C": "Negative Increase",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वृद्धि",
+            "B": "कटौती",
+            "C": "ऋणात्मक वृद्धि",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "What is the value of the transfer multiplier?",
+        "prashna": "अंतरण गुणक का मान क्या होता है?",
+        "options": {
+            "A": "$\\frac{C}{1-C}$",
+            "B": "$\\frac{1}{1-C}$",
+            "C": "$\\frac{-C}{1-C}$",
+            "D": "$\\frac{1-C}{1-C}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{C}{1-C}$",
+            "B": "$\\frac{1}{1-C}$",
+            "C": "$\\frac{-C}{1-C}$",
+            "D": "$\\frac{1-C}{1-C}$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "How is the multiplier of an open economy compared to a closed economy?",
+        "prashna": "खुली अर्थव्यवस्था का गुणक बंद अर्थव्यवस्था की अपेक्षा कैसा होता है?",
+        "options": {
+            "A": "Larger",
+            "B": "Smaller",
+            "C": "Equal",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बड़ा",
+            "B": "छोटा",
+            "C": "समान",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "What happens to domestic output and exports due to an increase in foreign income?",
+        "prashna": "विदेशी आय में वृद्धि से घरेलू निर्गत और निर्यात को क्या होता है?",
+        "options": {
+            "A": "Decrease",
+            "B": "Increase",
+            "C": "Deficit",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ह्रास",
+            "B": "वृद्धि",
+            "C": "घाटा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "If the market value of a bread is 75 rupees and wheat and other intermediate goods worth 50 rupees were used to make it, what will be the value added of the baker (bread maker)?",
+        "prashna": "यदि किसी ब्रेड का बाजार मूल्य 75 रुपये है और उसे बनाने में 50 रुपये मूल्य का गेहूँ एवं अन्य मध्यवर्ती वस्तुएँ प्रयुक्त हुई हो तो बेकर (ब्रेड बनाने वाला) का मूल्यवर्धित क्या होगा?",
+        "options": {
+            "A": "50 rupees",
+            "B": "75 rupees",
+            "C": "25 rupees",
+            "D": "100 rupees"
+        },
+        "vikalpa": {
+            "A": "50 रुपये",
+            "B": "75 रुपये",
+            "C": "25 रुपये",
+            "D": "100 रुपये"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "If the Gross Value Added of a firm is GVA, then what will $\\sum GVA$ (sum of GVA of all firms) be called?",
+        "prashna": "यदि किसी फर्म का सकल मूल्यवर्धित GVA हो, तो $\\sum GVA$ (सभी फर्मों के सकल मूल्यवर्धित का योग) क्या कहलायेगा?",
+        "options": {
+            "A": "Net Value Added",
+            "B": "Gross Domestic Product",
+            "C": "Depreciation",
+            "D": "Net Domestic Product"
+        },
+        "vikalpa": {
+            "A": "निवल मूल्यवर्धित",
+            "B": "सकल घरेलू उत्पाद",
+            "C": "मूल्य ह्रास",
+            "D": "निवल घरेलू उत्पाद"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "At what price is Real Gross Domestic Product measured?",
+        "prashna": "वास्तविक सकल घरेलू उत्पाद को किस मूल्य पर मापा जाता है?",
+        "options": {
+            "A": "At constant prices",
+            "B": "At base year prices",
+            "C": "At current prices",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "स्थिर कीमतों पर",
+            "B": "आधार वर्ष कीमतों पर",
+            "C": "वर्तमान कीमतों पर",
+            "D": "(a) और (b) दोनों"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Between any two years, if prices of all goods and services double while production remains constant, what will be the change in real income?",
+        "prashna": "किन्हीं दो वर्षों के बीच यदि सभी वस्तुओं और सेवाओं की कीमतें दोगुनी हो जाती है जबकि उत्पादन स्थिर हो तो वास्तविक आय में क्या परिवर्तन होगा?",
+        "options": {
+            "A": "Will double",
+            "B": "Will be halved",
+            "C": "Will remain constant",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "दोगुना हो जाएगा",
+            "B": "आधा हो जाएगा",
+            "C": "स्थिर रहेगा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Money is an intermediate good that has simplified which process?",
+        "prashna": "मुद्रा एक मध्यवर्ती वस्तु है जिसने किस प्रक्रिया को सरल कर दिया है?",
+        "options": {
+            "A": "Transaction (Exchange)",
+            "B": "Calculation and expression of value",
+            "C": "Store of value",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "लेन-देन (विनिमय)",
+            "B": "मूल्य गणना एवं अभिव्यक्ति",
+            "C": "मूल्य संचय",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Why cannot gold, real estate, houses, and bonds perform the function of money?",
+        "prashna": "सोना, भू-संपत्ति, मकान एवं बंधपत्र मुद्रा का कार्य क्यों नहीं कर सकते हैं?",
+        "options": {
+            "A": "They do not have the quality of store of value",
+            "B": "They are not easily convertible into other goods",
+            "C": "They do not have universal acceptability",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "इनमें मूल्य संचय का गुण नहीं है",
+            "B": "दूसरे वस्तु के रूप में आसानी से परिवर्तनीय नहीं है।",
+            "C": "इसकी सार्वभौमिक स्वीकार्यता नहीं है",
+            "D": "(b) एवं (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Who controls the money supply in the country?",
+        "prashna": "देश में मुद्रा की पूर्ति पर नियंत्रण किसका है?",
+        "options": {
+            "A": "Reserve Bank of India",
+            "B": "Bank of India",
+            "C": "State Bank of India",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "भारतीय रिजर्व बैंक",
+            "B": "बैंक ऑफ इंडिया",
+            "C": "स्टेट बैंक ऑफ इंडिया",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "What does a bank do with the funds deposited in the bank?",
+        "prashna": "बैंक में जमा किए गए कोषों का बैंक क्या करता है?",
+        "options": {
+            "A": "Keeps the entire fund safe to give to depositors",
+            "B": "Keeps a part of the fund to give to depositors",
+            "C": "Keeps a part for depositors and lends the remaining part on interest",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "पूरा कोष जमाकर्ताओं को देने के लिए सुरक्षित रखता है",
+            "B": "कोष का कुछ भाग जमाकर्ताओं को देने के लिए रखता है",
+            "C": "एक भाग जमाकर्ताओं को देने के लिए रखकर शेष भाग ब्याज पर उधार देता है",
+            "D": "(b) एवं (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "That portion of total deposits of a bank which the bank keeps in cash to pay depositors is called?",
+        "prashna": "बैंक के कुल जमा का वह अंश जो बैंक जमाकर्ताओं को देने के लिए नकद रखता है, क्या कहलाता है?",
+        "options": {
+            "A": "Statutory Liquidity Ratio",
+            "B": "Cash Reserve Ratio",
+            "C": "Open Market Operation",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सांविधिक तरलता अनुपात",
+            "B": "नकद आरक्षित जमा अनुपात",
+            "C": "खुली बाजार क्रिया",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "What is the function of an entrepreneur as an economic agent?",
+        "prashna": "उद्यमी का आर्थिक एजेंट के रूप में क्या कार्य है?",
+        "options": {
+            "A": "Organization",
+            "B": "Coordination",
+            "C": "Risk bearing",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "संगठन",
+            "B": "समन्वयन",
+            "C": "जोखिम वहन करना",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "The inverse relationship between the consumer's demand for a commodity and the price of the commodity is called?",
+        "prashna": "किसी वस्तु के लिए उपभोक्ता की माँग तथा वस्तु की कीमत के बीच प्रतिलोम सम्बन्ध कहलाता है",
+        "options": {
+            "A": "Law of Price",
+            "B": "Law of Demand",
+            "C": "Law of Commodity",
+            "D": "Law of Consumer"
+        },
+        "vikalpa": {
+            "A": "कीमत का नियम",
+            "B": "माँग का नियम",
+            "C": "वस्तु का नियम",
+            "D": "उपभोक्ता का नियम"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Which of the following is a pair of substitute goods?",
+        "prashna": "निम्न में कौन संयोग स्थानापन्न वस्तुओं का है?",
+        "options": {
+            "A": "Tea and Sugar",
+            "B": "Bread and Butter",
+            "C": "Tea and Coffee",
+            "D": "Pen and Ink"
+        },
+        "vikalpa": {
+            "A": "चाय एवं चीनी",
+            "B": "ब्रेड एवं मक्खन",
+            "C": "चाय एवं काफी",
+            "D": "कलम तथा स्याही"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "If the demand for LED bulbs increases when the price of electricity decreases, then how are the two related?",
+        "prashna": "बिजली की कीमत घटने पर एल. इ. डी. बल्ब की माँग बढ़ जाए तो दोनों किस प्रकार हैं?",
+        "options": {
+            "A": "Complementary",
+            "B": "Substitute",
+            "C": "Luxury",
+            "0": "Absolute Necessity"
+        },
+        "vikalpa": {
+            "A": "पूरक",
+            "B": "स्थानापन्न",
+            "C": "विलासिता",
+            "D": "परम आवश्यकता"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "What will be the price elasticity of demand $|e_D|$ for a perfectly inelastic demand curve?",
+        "prashna": "पूर्णतः बेलोचदार माँग वक्र की कीमत माँग की लोच $|e_D|$ क्या होगी?",
+        "options": {
+            "A": "$|e_D| = 1$",
+            "B": "$|e_D| = \\infty$",
+            "C": "$|e_D| = 0$",
+            "D": "$|e_D| < 1$"
+        },
+        "vikalpa": {
+            "A": "$|e_D| = 1$",
+            "B": "$|e_D| = \\infty$",
+            "C": "$|e_D| = 0$",
+            "D": "$|e_D| < 1$"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "What will be the price elasticity of demand $|e_D|$ at the midpoint of a linear demand curve?",
+        "prashna": "एक रेखीय माँग वक्र के मध्य बिन्दु पर कीमत माँग की लोच $|e_D|$ क्या होगी?",
+        "options": {
+            "A": "$|e_D| = 0$",
+            "B": "$|e_D| = 1$",
+            "C": "$|e_D| = \\infty$",
+            "D": "$1 < |e_D| < \\infty$"
+        },
+        "vikalpa": {
+            "A": "$|e_D| = 0$",
+            "B": "$|e_D| = 1$",
+            "C": "$|e_D| = \\infty$",
+            "D": "$1 < |e_D| < \\infty$"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which statement is correct in the context of normal profit?",
+        "prashna": "सामान्य लाभ के संदर्भ में कौन कथन सही है?",
+        "options": {
+            "A": "This is the minimum expected profit of firms",
+            "B": "It is equal to the opportunity cost",
+            "C": "Normal profit = Explicit cost + Opportunity cost",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "यह फर्मों का न्यूनतम अपेक्षित लाभ है",
+            "B": "यह अवसर लागत के बराबर होता",
+            "C": "सामान्य लाभ = स्पष्ट लागत + अवसर लागत",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which of the following demand curves is perfectly inelastic?",
+        "prashna": "निम्न में कौन माँग वक्र पूर्ण रूप से लोचहीन होता है?",
+        "options": {
+            "A": "Linear demand curve",
+            "B": "Rectangular hyperbola demand curve",
+            "C": "Vertical demand curve",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "रैखिक माँग वक्र",
+            "B": "आयताकार अतिपरवलय माँग वक्र",
+            "C": "ऊर्ध्वाधर माँग वक्र",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which of the following is not a variable input?",
+        "prashna": "निम्न में कौन परिवर्ती आगत नहीं है?",
+        "options": {
+            "A": "Labour",
+            "B": "Machine",
+            "C": "Raw material",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "श्रमिक",
+            "B": "मशीन",
+            "C": "कच्चा माल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Fixed inputs remain fixed in which period?",
+        "prashna": "स्थिर आगत किस काल में स्थिर रहते हैं?",
+        "options": {
+            "A": "Short run",
+            "B": "Long run",
+            "C": "Both periods",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अल्पकाल में",
+            "B": "दीर्घकाल में",
+            "C": "दोनों काल में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "In the law of variable proportions, what is the change in marginal product?",
+        "prashna": "परिवर्ती अनुपात के नियम में सीमांत उत्पाद में क्या परिवर्तन होता है?",
+        "options": {
+            "A": "It falls",
+            "B": "It increases",
+            "C": "It remains constant",
+            "D": "Finally, it falls"
+        },
+        "vikalpa": {
+            "A": "गिरावट होती है",
+            "B": "वृद्धि होती है",
+            "C": "स्थिर रहता है",
+            "D": "अंततः गिरावट होती है"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "What is the definition of elasticity of demand?",
+        "prashna": "माँग की लोच की क्या परिभाषा है?",
+        "options": {
+            "A": "$\\frac{\\Delta q / q^o}{\\Delta p / p^o} \\times 100$",
+            "B": "$\\frac{\\Delta q / q^o \\times 100}{\\Delta p / p^o \\times 100}$",
+            "C": "$\\frac{\\Delta q}{\\Delta p} \\cdot \\frac{p^o}{q^o}$",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\Delta q / q^o}{\\Delta p / p^o} \\times 100$",
+            "B": "$\\frac{\\Delta q / q^o \\times 100}{\\Delta p / p^o \\times 100}$",
+            "C": "$\\frac{\\Delta q}{\\Delta p} \\cdot \\frac{p^o}{q^o}$",
+            "D": "(b) और (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "What is the unit of elasticity of demand?",
+        "prashna": "माँग की लोच की इकाई क्या है?",
+        "options": {
+            "A": "Rupee",
+            "B": "Kilogram",
+            "C": "It is a pure number",
+            "D": "Rupee per kilogram"
+        },
+        "vikalpa": {
+            "A": "रुपया",
+            "B": "किलोग्राम",
+            "C": "यह एक शुद्ध संख्या है",
+            "D": "रुपया प्रति किलोग्राम"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "What kind of input is a machine used by a firm?",
+        "prashna": "फर्म द्वारा प्रयुक्त मशीन किस तरह का आगत है?",
+        "options": {
+            "A": "Variable",
+            "B": "Fixed",
+            "C": "Technique",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "परिवर्ती",
+            "B": "स्थिर",
+            "C": "तकनीक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "What is shown on both axes of a production isoquant map?",
+        "prashna": "उत्पादन अनधिमान वक्र चित्र के दोनों अक्षों पर क्या दर्शाया जाता है?",
+        "options": {
+            "A": "Factor",
+            "B": "Production",
+            "C": "Satisfaction",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "कारक",
+            "B": "उत्पादन",
+            "C": "संतुष्टि",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "In the long run, which factor can a firm change?",
+        "prashna": "दीर्घकाल में फर्म किस कारक में परिवर्तन ला सकता है?",
+        "options": {
+            "A": "Fixed factor",
+            "B": "Variable factor",
+            "C": "Both (A) and (B)",
+            "D": "Neither (A) nor (B)"
+        },
+        "vikalpa": {
+            "A": "स्थिर कारक",
+            "B": "परिवर्ती कारक",
+            "C": "(a) और (b) दोनों",
+            "D": "न (a) में और न (b) में"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "The shape of the Total Fixed Cost curve is?",
+        "prashna": "कुल स्थिर लागत चक्र का आकार होता है?",
+        "options": {
+            "A": "Vertical line",
+            "B": "Horizontal line",
+            "C": "U-shaped",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उर्ध्वाधर रेखा",
+            "B": "क्षितिज रेखा",
+            "C": "U आकार का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "From which point does the supply of a competitive firm start?",
+        "prashna": "प्रतिस्पर्धी फर्म की पूर्ति किस बिन्दु से शुरू होती है?",
+        "options": {
+            "A": "From the minimum point of marginal cost curve",
+            "B": "From the minimum point of average cost curve",
+            "C": "From the minimum point of variable cost curve",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सीमांत लागत वक्र के न्यूनतम बिन्दु से",
+            "B": "औसत लागत वक्र के न्यूनतम बिन्दु से",
+            "C": "परिवर्ती लागत वक्र के न्यूनतम बिन्दु से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "If quantity supplied is $q^S$ and quantity demanded is $q^D$, then what will $q^S - q^D > 0$ indicate?",
+        "prashna": "यदि पूर्ति की मात्रा $q^S$ और माँग की मात्रा $q^D$ हो तो $q^S - q^D > 0$ क्या दर्शायेगा?",
+        "options": {
+            "A": "Excess demand",
+            "B": "Excess supply",
+            "C": "Equilibrium",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अधिमाँग",
+            "B": "अधिपूर्ति",
+            "C": "संतुलन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "For which good/service is a minimum support price given?",
+        "prashna": "न्यूनतम निर्धारित मूल्य किस वस्तु / सेवा के लिए दिया जाता है?",
+        "options": {
+            "A": "Tea leaves",
+            "B": "Wheat",
+            "C": "Wages",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "चाय पत्ती",
+            "B": "गेहूँ",
+            "C": "मजदूरी",
+            "D": "(b) एवं (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "In which market is production higher and price lower?",
+        "prashna": "किस बाजार में उत्पादन अधिक होता है और मूल्य कम होता है?",
+        "options": {
+            "A": "Monopoly",
+            "B": "Oligopoly",
+            "C": "Perfect Competition",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "एकाधिकार",
+            "B": "अल्पाधिकार",
+            "C": "पूर्ण प्रतियोगिता",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "What are 'Open Market Operations'?",
+        "prashna": "'खुले बाजार की क्रियाएँ' क्या है?",
+        "options": {
+            "A": "Purchase of government bonds by the bank",
+            "B": "Sale of government bonds by the bank",
+            "C": "Providing loans to commercial banks by the central bank",
+            "D": "Both (A) and (B)"
+        },
+        "vikalpa": {
+            "A": "बैंक द्वारा सरकारी बांड्स की खरीद",
+            "B": "बैंक द्वारा सरकारी बांड्स का विक्रय",
+            "C": "केन्द्रीय बैंक द्वारा व्यावसायिक बैंक को ऋण प्रदान करना",
+            "D": "(a) एवं (b) दोनों"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "On what does the demand for money for speculative purposes depend?",
+        "prashna": "सट्टा के उद्देश्य से मुद्रा की माँग किस पर निर्भर करती है?",
+        "options": {
+            "A": "National Income",
+            "B": "Price level",
+            "C": "Market rate of interest",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "राष्ट्रीय आय",
+            "B": "मूल्य स्तर",
+            "C": "बाजार ब्याज दर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "'$M_1$ + Net time deposits of commercial banks' matches with which definition of money supply?",
+        "prashna": "'$M_1$ + व्यावसायिक बैंकों की निवल आवधिक जमाएँ', मुद्रा पूर्ति के किस परिभाषा से मेल खाता है?",
+        "options": {
+            "A": "$M_2$",
+            "B": "$M_3$",
+            "C": "$M_4$",
+            "D": "$M_5$"
+        },
+        "vikalpa": {
+            "A": "$M_2$",
+            "B": "$M_3$",
+            "C": "$M_4$",
+            "D": "$M_5$"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Which of the following is called Narrow Money?",
+        "prashna": "निम्न में किसे संकुचित मुद्रा कहा जाता है?",
+        "options": {
+            "A": "$M_1$",
+            "B": "$M_2$",
+            "C": "$M_3$ and $M_4$",
+            "D": "Both $M_1$ and $M_2$"
+        },
+        "vikalpa": {
+            "A": "$M_1$",
+            "B": "$M_2$",
+            "C": "$M_3$ एवं $M_4$",
+            "D": "$M_1$ एवं $M_2$ दोनों"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "What is the meaning of Ceteris Paribus?",
+        "prashna": "सेटेरिस पारिबस का क्या अर्थ है?",
+        "options": {
+            "A": "If other things remain the same.",
+            "B": "If all things remain the same",
+            "C": "If some things remain the same",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "यदि अन्य बातें समान रहें।",
+            "B": "यदि सभी बातें समान रहे",
+            "C": "यदि कुछ बातें समान रहें",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "How is Marginal Propensity to Consume (MPC) defined?",
+        "prashna": "सीमांत उपभोग प्रवृत्ति (MPC) को कैसे परिभाषित करते हैं?.",
+        "options": {
+            "A": "$MPC = C/Y$",
+            "B": "$MPC = C/Y$",
+            "C": "$MPC = \\Delta C / \\Delta Y$",
+            "D": "$MPC = \\Delta Y / \\Delta C$"
+        },
+        "vikalpa": {
+            "A": "$MPC = C/Y$",
+            "B": "$MPC = C/Y$",
+            "C": "$MPC = \\Delta C / \\Delta Y$",
+            "D": "$MPC = \\Delta Y / \\Delta C$"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "If Marginal Propensity to Consume (MPC) is 0.7, what will be the Marginal Propensity to Save (MPS)?",
+        "prashna": "यदि सीमांत उपभोग प्रवृत्ति (MPC) 0.7 हो तो सीमांत बचत प्रवृत्ति (MPS) क्या होगी?",
+        "options": {
+            "A": "0.7",
+            "B": "0.25",
+            "C": "0.3",
+            "D": "-0.3"
+        },
+        "vikalpa": {
+            "A": "0.7",
+            "B": "0.25",
+            "C": "0.3",
+            "D": "-0.3"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "If Marginal Propensity to Save (MPS) is 0.1, what will be the investment multiplier?",
+        "prashna": "यदि सीमांत बचत प्रवृत्ति (MPS) 0.1 हो तो निवेश गुणक क्या होगा?",
+        "options": {
+            "A": "1",
+            "B": "10",
+            "C": "100",
+            "D": "1.10"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "10",
+            "C": "100",
+            "D": "1.10"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Which of the following comes under the category of public goods?",
+        "prashna": "निम्न में कौन सार्वजनिक वस्तु की श्रेणी में आता है?",
+        "options": {
+            "A": "Roads",
+            "B": "Government administration",
+            "C": "National security",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "सड़के",
+            "B": "सरकारी प्रशासन",
+            "C": "राष्ट्रीय सुरक्षा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "When will there be a deficit in the current account of international trade?",
+        "prashna": "अंतर्राष्ट्रीय व्यापार के चालू खाते में घाटा कब होगा?",
+        "options": {
+            "A": "Receipts = Payments",
+            "B": "Receipts > Payments",
+            "C": "Receipts < Payments",
+            "D": "Receipts $\\geq$ Payments"
+        },
+        "vikalpa": {
+            "A": "प्राप्तियाँ = भुगतान",
+            "B": "प्राप्तियाँ > भुगतान",
+            "C": "प्राप्ति < भुगतान",
+            "D": "प्राप्तियाँ $\\geq$ भुगतान"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "In which field is the problem of inflation studied?",
+        "prashna": "मुद्रास्फीति की समस्या का अध्ययन किसमें किया जाता है?",
+        "options": {
+            "A": "Microeconomics",
+            "B": "Macroeconomics",
+            "C": "International Economics",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "व्यष्टि अर्थशास्त्र",
+            "B": "समष्टि अर्थशास्त्र",
+            "C": "अंतर्राष्ट्रीय अर्थशास्त्र",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "What is the scope of study of Macroeconomics?",
+        "prashna": "समष्टि अर्थशास्त्र के अध्ययन का क्षेत्र क्या होता है?",
+        "options": {
+            "A": "Individual production level",
+            "B": "Individual income",
+            "C": "Individual prices",
+            "D": "Production, income and price levels of the entire economy"
+        },
+        "vikalpa": {
+            "A": "व्यक्तिगत उत्पादन स्तर",
+            "B": "व्यक्तिगत आय",
+            "C": "व्यक्तिगत कीमतें",
+            "D": "सम्पूर्ण अर्थव्यवस्था का उत्पादन, आय तथा कीमतों का स्तर"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Which of the following is not a symptom of the Great Depression?",
+        "prashna": "निम्न में कौन महामंदी का लक्षण नहीं है?",
+        "options": {
+            "A": "Rising unemployment rate",
+            "B": "Decrease in demand for goods in the market",
+            "C": "Fall in production",
+            "D": "Rising price level"
+        },
+        "vikalpa": {
+            "A": "बढ़ती बेरोजगारी दर",
+            "B": "बाजार में वस्तुओं की माँग में कमी",
+            "C": "उत्पादन में गिरावट",
+            "D": "कीमत का बढ़ता स्तर"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Which sector owns the resources of production in the economy?",
+        "prashna": "अर्थव्यवस्था में उत्पादन के संसाधनों का स्वामित्व किस क्षेत्र के पास होता है?",
+        "options": {
+            "A": "Government sector",
+            "B": "External sector",
+            "C": "Producer sector",
+            "D": "Household sector"
+        },
+        "vikalpa": {
+            "A": "सरकारी क्षेत्रक",
+            "B": "बाह्य क्षेत्रक",
+            "C": "उत्पादक क्षेत्रक",
+            "D": "परिवार क्षेत्रक"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "By which sector is the function of investment carried out in the economy?",
+        "prashna": "अर्थव्यवस्था में निवेश का कार्य किस क्षेत्रक द्वारा किया जाता है?",
+        "options": {
+            "A": "Government sector",
+            "B": "External sector",
+            "C": "Production sector (Firm)",
+            "D": "Household sector"
+        },
+        "vikalpa": {
+            "A": "सरकारी क्षेत्रक",
+            "B": "बाह्य क्षेत्रक",
+            "C": "उत्पादन क्षेत्रक (फर्म)",
+            "D": "पारिवारिक क्षेत्रक"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Which of the following is not the role of government in an economy?",
+        "prashna": "अर्थव्यवस्था में निम्न में से कौन सरकार की भूमिका नहीं है?",
+        "options": {
+            "A": "Enforcing laws",
+            "B": "Creation of infrastructure",
+            "C": "Earning profit",
+            "D": "Doing social welfare work"
+        },
+        "vikalpa": {
+            "A": "कानून लागू करवाना",
+            "B": "आधारभूत संरचनाओं का निर्माण",
+            "C": "लाभ कमाना",
+            "D": "सामाजिक कल्याण का कार्य करना"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Which of the following is not a capital good?",
+        "prashna": "निम्न में कौन पूँजीगत वस्तु नहीं है?",
+        "options": {
+            "A": "Tools",
+            "B": "Equipment",
+            "C": "Machine",
+            "D": "Steel sheet"
+        },
+        "vikalpa": {
+            "A": "औजार",
+            "B": "उपकरण",
+            "C": "मशीन",
+            "D": "इस्पात की चादर"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "What is the common standard for all final goods and services produced in the economy?",
+        "prashna": "अर्थव्यवस्था में उत्पादित सभी अंतिम वस्तुओं तथा सेवाओं का सामान्य मापदंड क्या है?",
+        "options": {
+            "A": "Ton",
+            "B": "Count number",
+            "C": "Litre",
+            "D": "Money (Rupee)"
+        },
+        "vikalpa": {
+            "A": "टन",
+            "B": "गिनती की संख्या",
+            "C": "लीटर",
+            "D": "मुद्रा (रुपया)"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "What is the increase in machine capital stock (flow of new machine) called?",
+        "prashna": "मशीन पूँजी स्टॉक में वृद्धि (नई मशीन के प्रवाह) को क्या कहते हैं?",
+        "options": {
+            "A": "Gross Investment",
+            "B": "Net Investment",
+            "C": "Replacement Investment",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सकल निवेश",
+            "B": "निवल निवेश",
+            "C": "प्रतिस्थापन निवेश",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Why is the adjustment of wear and tear (depreciation) in existing capital stock done?",
+        "prashna": "विद्यमान पूँजी स्टॉक में टूट-फूट का समायोजन (मूल्य ह्रास) क्यों किया जाता है?",
+        "options": {
+            "A": "To increase capital stock",
+            "B": "To save the held capital stock",
+            "C": "To replace old machine with new machine",
+            "D": "Both (B) and (C)"
+        },
+        "vikalpa": {
+            "A": "पूँजी स्टॉक में अभिवृद्धि के लिए",
+            "B": "धारित पूँजी स्टॉक को बचाने के लिए",
+            "C": "पुरानी मशीन को नई मशीन से प्रतिस्थापन करने के लिए",
+            "D": "(b) एवं (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "How are the central problems of a mixed economy solved?",
+        "prashna": "एक मिश्रित अर्थव्यवस्था की केन्द्रीय समस्याओं का समाधान किसके द्वारा होता है?",
+        "options": {
+            "A": "By market mechanism",
+            "B": "By planning mechanism",
+            "C": "By control on price",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "बाजार तंत्र द्वारा",
+            "B": "योजना तंत्र द्वारा",
+            "C": "कीमत पर नियंत्रण द्वारा",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "What kind of economies are all the economies of the world?",
+        "prashna": "विश्व की सभी अर्थव्यवस्थाएँ कैसी अर्थव्यवस्थाएँ हैं?",
+        "options": {
+            "A": "Capitalist",
+            "B": "Socialist",
+            "C": "Mixed",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पूँजीवादी",
+            "B": "समाजवादी",
+            "C": "मिश्रित",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "In which branch of economics are the price and quantities of goods and services determined?",
+        "prashna": "वस्तुओं और सेवाओं की कीमत और मात्राएँ किस अर्थशास्त्र की शाखा में निर्धारित होती हैं?",
+        "options": {
+            "A": "Macroeconomics",
+            "B": "Microeconomics",
+            "C": "Normative analysis",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "समष्टि अर्थशास्त्र",
+            "B": "व्यष्टि अर्थशास्त्र",
+            "C": "आदर्शात्मक विश्लेषण",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "If consumer's income (M) increases, then budget set",
+        "prashna": "यदि उपभोक्ता की आय (M) में वृद्धि होती है तो बजट सेट",
+        "options": {
+            "A": "Will become larger",
+            "B": "Will become smaller",
+            "C": "Will remain unchanged",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बड़ा हो जायेगा",
+            "B": "छोटा हो जायेगा",
+            "C": "अपरिवर्तित रहेगा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "How does a rational consumer choose a bundle?",
+        "prashna": "एक युक्तिशील उपभोक्ता कैसे बंडल का चुनाव करता है?",
+        "options": {
+            "A": "Best",
+            "B": "Worst",
+            "C": "Most preferred",
+            "D": "Both (A) and (C)"
+        },
+        "vikalpa": {
+            "A": "सबसे अच्छा",
+            "B": "सबसे खराब",
+            "C": "सर्वाधिक अधिमान वाला",
+            "D": "(a) और (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "In the demand curve, the consumer's demand for a commodity is a function of",
+        "prashna": "माँग वक्र में किसी वस्तु के लिए उपभोक्ता की माँग फलन है",
+        "options": {
+            "A": "Its own price",
+            "B": "Price of other goods",
+            "C": "Weather",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अपने मूल्य का",
+            "B": "अन्य वस्तु के मूल्य का",
+            "C": "मौसम का",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "If the demand curve is $d(p) = a - bp$, then what will be the quantity of demand for the commodity at zero price?",
+        "prashna": "यदि माँग वक्र $d(p) = a - bp$ हो तो शून्य मूल्य पर वस्तु में माँग की मात्रा क्या होगा?",
+        "options": {
+            "A": "$-b$",
+            "B": "$a$",
+            "C": "$p$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$-b$",
+            "B": "$a$",
+            "C": "$p$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "Goods whose demand moves in the direction of your income are called",
+        "prashna": "ऐसी वस्तुएँ जिनकी माँग की मात्रा आप की दिशा में गति करती है कहलाती हैं",
+        "options": {
+            "A": "Inferior goods",
+            "B": "Normal goods",
+            "C": "Complementary goods",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "निम्नस्तरीय वस्तुएँ",
+            "B": "सामान्य वस्तु",
+            "C": "पूरक वस्तुएँ",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "What is the shape of the production possibility curve?",
+        "prashna": "उत्पादन संभावना वक्र का आकार कैसा होता है?",
+        "options": {
+            "A": "Convex to the origin",
+            "B": "Concave",
+            "C": "Straight line",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मूल बिन्दु की ओर उन्नतोदर",
+            "B": "नतोदर",
+            "C": "सीधी रेखा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "What is the reason for the concave shape of the production possibility curve?",
+        "prashna": "उत्पादन संभावना वक्र के नतोदर आकार का क्या कारण है?",
+        "options": {
+            "A": "Increasing opportunity cost",
+            "B": "Decreasing opportunity cost",
+            "C": "Equal opportunity cost",
+            "D": "Negative opportunity cost"
+        },
+        "vikalpa": {
+            "A": "बढ़ती अवसर लागत",
+            "B": "घटती अवसर लागत",
+            "C": "समान अवसर लागत",
+            "D": "ऋणात्मक अवसर लागत"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "question": "In which economic situation does the level of production and employment fall?",
+        "prashna": "किस आर्थिक परिस्थिति में उत्पादन एवं रोजगार का स्तर गिर जाता है?",
+        "options": {
+            "A": "Boom",
+            "B": "Recession",
+            "C": "Inflation",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "उछाल",
+            "B": "मंदी",
+            "C": "मुद्रास्फीति",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "question": "What do the agents of macroeconomics try to do?",
+        "prashna": "समष्टि अर्थशास्त्र के अभिकर्ता क्या करने का प्रयास करते हैं?",
+        "options": {
+            "A": "To earn profit",
+            "B": "To maximize public welfare",
+            "C": "To fulfill the goal of economic agent",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "लाभ कमाने का",
+            "B": "जनता के कल्याण को अधिकतम करने का",
+            "C": "आर्थिक एजेन्ट के लक्ष्य की पूर्ति का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "question": "In which economy is there private ownership?",
+        "prashna": "किस अर्थव्यवस्था में निजी स्वामित्व होता है?",
+        "options": {
+            "A": "Capitalist economy",
+            "B": "Socialist economy",
+            "C": "Mixed economy",
+            "D": "Both (A) and (C)"
+        },
+        "vikalpa": {
+            "A": "पूँजीवादी अर्थव्यवस्था",
+            "B": "समाजवादी अर्थव्यवस्था",
+            "C": "मिश्रित अर्थव्यवस्था",
+            "D": "(a) एवं (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "question": "Expansion in the production of capital goods will lead to an increase in",
+        "prashna": "पूँजीगत वस्तुओं के उत्पादन में विस्तार से वृद्धि होगी।",
+        "options": {
+            "A": "Production capacity of the economy",
+            "B": "In produced goods",
+            "C": "In income",
+            "D": "In all these"
+        },
+        "vikalpa": {
+            "A": "अर्थव्यवस्था की उत्पादन क्षमता में",
+            "B": "उत्पादित वस्तुओं में",
+            "C": "आय में",
+            "D": "इन सभी में"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "question": "Who wrote the book 'Economic Consequences of the Peace'?",
+        "prashna": "'इकोनॉमिक कंसीक्वेंसेंज ऑफ द पीस' किसके द्वारा लिखित पुस्तक है?",
+        "options": {
+            "A": "John Maynard Keynes",
+            "B": "Adam Smith",
+            "C": "David Ricardo",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जॉन मेनार्ड कीन्स",
+            "B": "एडम स्मिथ",
+            "C": "डेविड रिकॉर्डों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "question": "What is added in the calculation of domestic product by the product method?",
+        "prashna": "उत्पादन विधि द्वारा घरेलू उत्पाद की गणना में किसे जोड़ते हैं?",
+        "options": {
+            "A": "Production",
+            "B": "Value added",
+            "C": "Income",
+            "D": "Expenditure"
+        },
+        "vikalpa": {
+            "A": "उत्पादन को",
+            "B": "मूल्यवर्धित को",
+            "C": "आय को",
+            "D": "व्यय को"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "question": "Which of the following is the correct definition of money multiplier? (Where M is stock of money and H is high powered money)?",
+        "prashna": "निम्न में कौन मुद्रा गुणक की सही परिभाषा है? (यहाँ M मुद्रा का स्टॉक है और H उच्च शक्तिशाली मुद्रा है)?",
+        "options": {
+            "A": "$M \\times H$",
+            "B": "$H \\times M$",
+            "C": "$M/H$",
+            "D": "$H/M$"
+        },
+        "vikalpa": {
+            "A": "$M \\times H$",
+            "B": "$H \\times M$",
+            "C": "$M/H$",
+            "D": "$H/M$"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "question": "Which of the following is the banker to the government?",
+        "prashna": "निम्न में कौन सरकार का बैंकर है?",
+        "options": {
+            "A": "Central Bank",
+            "B": "Commercial Bank",
+            "C": "Cooperative Bank",
+            "D": "Rural Bank"
+        },
+        "vikalpa": {
+            "A": "केन्द्रीय बैंक",
+            "B": "व्यावसायिक बैंक",
+            "C": "सहकारी बैंक",
+            "D": "ग्रामीण बैंक"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "question": "Which of the following financial investments has a higher interest rate?",
+        "prashna": "निम्न में किस वित्तीय निवेश की ब्याज दर अधिक होता है?",
+        "options": {
+            "A": "Demand deposit",
+            "B": "Time deposit",
+            "C": "Credit/Loan",
+            "D": "National Savings Certificate"
+        },
+        "vikalpa": {
+            "A": "माँग जमा",
+            "B": "अविधिक जमा",
+            "C": "उधार/ऋण",
+            "D": "राष्ट्रीय बचत पत्र"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "question": "What is the value of interest rate in 'Liquidity Trap'?",
+        "prashna": "'तरलता पाश' में ब्याज दर का मान क्या होता है?",
+        "options": {
+            "A": "High",
+            "B": "Low",
+            "C": "Minimum",
+            "D": "Average"
+        },
+        "vikalpa": {
+            "A": "ऊँचा",
+            "B": "कम",
+            "C": "न्यूनतम",
+            "D": "औसत"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "question": "What is the shape of the marginal product curve and average product curve?",
+        "prashna": "सीमांत उत्पादन वक्र एवं औसत उत्पाद वक्र का क्या आकार होता है?",
+        "options": {
+            "A": "Like the English letter 'U'",
+            "B": "Inverted 'U' shape",
+            "C": "Like the English letter 'S'",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अंग्रेजी अक्षर 'U' की तरह",
+            "B": "उल्टे 'U' की आकृति",
+            "C": "अंग्रेजी अक्षर 'S' की तरह",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "question": "If total cost is TC, total variable cost is VC and total fixed cost is FC, then which equation is correct?",
+        "prashna": "यदि कुल लागत TC, कुल परिवर्ती लागत VC तथा कुल स्थिर लागत FC हो तो कौन समीकरण सही है ?",
+        "options": {
+            "A": "$TC = VC + FC$",
+            "B": "$TC - VC = FC$",
+            "C": "$TC - FC = VC$",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "$TC = VC + FC$",
+            "B": "$TC - VC = FC$",
+            "C": "$TC - FC = VC$",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "question": "If total production cost of output $q_1$ and $q_1 - 1$ units are 50 rupees and 40 rupees respectively, what will be the marginal cost?",
+        "prashna": "निर्गत $q_1$ एवं $q_1 - 1$ इकाइयों की कुल उत्पादन लागत क्रमशः 50 रुपये एवं 40 रुपये हो तो सीमांत लागत क्या होगी?",
+        "options": {
+            "A": "50 rupees",
+            "B": "90 rupees",
+            "C": "40 rupees",
+            "D": "10 rupees"
+        },
+        "vikalpa": {
+            "A": "50 रुपये",
+            "B": "90 रुपये",
+            "C": "40 रुपये",
+            "D": "10 रुपये"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "question": "At which point does the marginal cost curve intersect the average cost curve?",
+        "prashna": "सीमांत लागत वक्र औसत लागत वक्र को किस बिन्दु पर काटती है?",
+        "options": {
+            "A": "Maximum point",
+            "B": "Minimum point",
+            "C": "In the increasing region",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उच्चतम बिन्दु",
+            "B": "न्यूनतम बिन्दु",
+            "C": "बढ़ते हुए क्षेत्र में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "question": "In which market are there many sellers and many buyers?",
+        "prashna": "किस बाजार में अनेक विक्रेता तथा अनेक खरीदार होते हैं?",
+        "options": {
+            "A": "Monopoly",
+            "B": "Monopolistic Competition",
+            "C": "Perfect Competition",
+            "D": "Oligopoly"
+        },
+        "vikalpa": {
+            "A": "एकाधिकार",
+            "B": "एकाधिकारात्मक प्रतियोगिता",
+            "C": "पूर्ण प्रतियोगिता",
+            "D": "अल्पाधिकार"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "question": "If $p_e$ is equilibrium price and $p_m$ is market price, when will the situation of excess supply arise?",
+        "prashna": "यदि $p_e$ संतुलन कीमत हो और $p_m$ बाजार कीमत तो अधिपूर्ति की स्थिति कब उत्पन्न होगी?",
+        "options": {
+            "A": "$p_e = p_m$",
+            "B": "$p_e > p_m$",
+            "C": "$p_e < p_m$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$p_e = p_m$",
+            "B": "$p_e > p_m$",
+            "C": "$p_e < p_m$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "question": "If in a situation of equilibrium, the supply curve shifts to the right, what change will occur in the price and quantity in the new equilibrium?",
+        "prashna": "यदि किसी संतुलन की स्थिति में पूर्ति वक्र दायीं ओर शिफ्ट करता है, तो नये संतुलन में मूल्य एवं मात्रा में क्या परिवर्तन होगा?",
+        "options": {
+            "A": "Price will increase, quantity will decrease",
+            "B": "Price will decrease, quantity will increase",
+            "C": "Price will increase, quantity will increase",
+            "D": "Price will decrease, quantity will decrease"
+        },
+        "vikalpa": {
+            "A": "मूल्य बढ़ेगा, मात्रा घटेगी",
+            "B": "मूल्य घटेगा, मात्रा बढ़ेगी",
+            "C": "मूल्य बढ़ेगा, मात्रा बढ़ेगी",
+            "D": "मूल्य घटेगा, मात्रा घटेगी"
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "question": "In the long run, at what price will free entry and exit of firms stop in a competitive market?",
+        "prashna": "दीर्घकाल में प्रतिस्पर्धी बाजार में फर्मों का निर्वाध प्रवेश और बहिर्गमन किस कीमत पर जाकर रुकेगा?",
+        "options": {
+            "A": "$p = \\text{minimum average cost}$",
+            "B": "$p = \\text{minimum marginal cost}$",
+            "C": "$p = \\text{minimum average variable cost}$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$p = \\text{न्यूनतम औसत लागत}$",
+            "B": "$p = \\text{न्यूनतम सीमांत लागत}$",
+            "C": "$p = \\text{न्यूनतम औसत परिवर्ती लागत}$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "question": "Which is correct for a monopoly market?",
+        "prashna": "एकाधिकार बाजार के लिए कौन सही है?",
+        "options": {
+            "A": "Average Revenue (AR) = Marginal Revenue (MR)",
+            "B": "Marginal Revenue (MR) > Average Revenue (AR)",
+            "C": "Average Revenue (AR) > Marginal Revenue (MR)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "औसत संप्राप्ति (आगम) = सीमांत प्राप्ति (आगम)",
+            "B": "सीमांत संप्राप्ति (आगम) > औसत संप्राप्ति (आगम)",
+            "C": "औसत संप्राप्ति (आगम) > सीमांत संप्राप्ति (आगम)",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "question": "In which market does the consumer receive a very small quantity of production and has to pay a higher price for each unit?",
+        "prashna": "किस बाजार में उपभोक्ता को उत्पादन की अत्यल्प मात्रा प्राप्त होती है और प्रत्येक इकाई के लिए अधिक कीमत अदा करनी पड़ती है?",
+        "options": {
+            "A": "Perfect Competition",
+            "B": "Monopoly",
+            "C": "Oligopoly",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "पूर्ण प्रतियोगिता",
+            "B": "एकाधिकार",
+            "C": "अल्पाधिकार",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "question": "Which of the following is an economic problem?",
+        "prashna": "निम्न में कौन आर्थिक समस्या है?",
+        "options": {
+            "A": "Limited resources",
+            "B": "Infinite wants",
+            "C": "Best use of limited resources for the fulfillment of needs",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सीमित संसाधन",
+            "B": "अनंत इच्छाएँ",
+            "C": "आवश्यकता की पूर्ति के लिए सीमित संसाधनों का उत्कृष्ट उपयोग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "question": "The slope of the production possibility curve is called the Marginal Rate of Transformation (MRT) or Marginal Opportunity Cost. What is the shape of the production possibility frontier with increasing marginal opportunity cost?",
+        "prashna": "उत्पादन संभावना वक्र की ढाल को सीमांत उत्पादन परिवर्तन (रूपांतरण) दर या सीमांत अवसर लागत कहते हैं। सीमांत अवसर लागत बढ़ने से उत्पादन संभावना सीमा का आकार कैसा होता है?",
+        "options": {
+            "A": "Concave to the origin",
+            "B": "Convex to the origin",
+            "C": "Straight line",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मूल बिन्दु की ओर नतोदर",
+            "B": "मूल बिन्दु की ओर उन्नतोदर",
+            "C": "सीधी रेखा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "question": "The choice of any one point on the production possibility curve is a solution to which central problem of an economy?",
+        "prashna": "उत्पादन संभावना वक्र के किसी एक बिन्दु का चयन, अर्थव्यवस्था की किस केन्द्रीय समस्या का हल है?",
+        "options": {
+            "A": "What to produce",
+            "B": "How to produce",
+            "C": "For whom to produce",
+            "D": "Both (A) and (C)"
+        },
+        "vikalpa": {
+            "A": "क्या उत्पादन किया जाए",
+            "B": "कैसे उत्पादन किया जाए",
+            "C": "किसके लिए उत्पादन किया जाए",
+            "D": "(a) एवं (c) दोनों"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "question": "What is the correct meaning of the word 'Market'?",
+        "prashna": "'बाजार' शब्द का सही अर्थ क्या है?",
+        "options": {
+            "A": "Place of buying and selling",
+            "B": "Rural Haat-market",
+            "C": "Super market",
+            "D": "Any medium (place, telephone, internet) through which buying and selling of a commodity can take place"
+        },
+        "vikalpa": {
+            "A": "क्रय-विक्रय स्थल",
+            "B": "ग्रामीण हाट-बाजार",
+            "C": "सुपर बाजार",
+            "D": "कोई माध्यम (स्थान, टेलिफोन, इंटरनेट) जिसके द्वारा वस्तु का क्रय-विक्रय हो सके"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "question": "Which of the following is the correct equation for the budget line?",
+        "prashna": "निम्न में कौन बजट रेखा का सही समीकरण है?",
+        "options": {
+            "A": "$p_1x_1 + p_2x_2 \\leq M$",
+            "B": "$p_1x_1 + p_2x_2 \\geq M$",
+            "C": "$p_1x_1 + p_2x_2 = M$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$p_1x_1 + p_2x_2 \\leq M$",
+            "B": "$p_1x_1 + p_2x_2 \\geq M$",
+            "C": "$p_1x_1 + p_2x_2 = M$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "question": "If commodity $x_1$ is shown on the x-axis and commodity $x_2$ on the y-axis, at which point will the budget line intersect the x-axis?",
+        "prashna": "यदि वस्तु $x_1$ को x-अक्ष पर एवं वस्तु $x_2$ को y-अक्ष पर दर्शाया गया है तो बजट रेखा x-अक्ष को किस बिन्दु पर काटेगी?",
+        "options": {
+            "A": "$M/p_1$",
+            "B": "$M/p_2$",
+            "C": "$M/x_1$",
+            "D": "$M/x_2$"
+        },
+        "vikalpa": {
+            "A": "$M/p_1$",
+            "B": "$M/p_2$",
+            "C": "$M/x_1$",
+            "D": "$M/x_2$"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "question": "What happens to the slope of the budget line when the price of commodity 1 falls?",
+        "prashna": "वस्तु 1 का मूल्य घटने पर बजट रेखा की प्रवणता (ढाल)",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Remains constant",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "बढ़ जाती है",
+            "B": "घट जाती है",
+            "C": "स्थिर रहती है",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "question": "What is the slope of the indifference curve?",
+        "prashna": "अनधिमान वक्र की ढाल (प्रवणता) क्या होती है?",
+        "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "धनात्मक",
+            "B": "ऋणात्मक",
+            "C": "शून्य",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "question": "How is the indifference curve relative to the origin of the axes?",
+        "prashna": "अनधिमान चक्र अक्ष के मूल के सापेक्ष कैसी रेखा होती है?",
+        "options": {
+            "A": "Convex",
+            "B": "Straight",
+            "C": "Concave",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उन्नतोदर",
+            "B": "सीधी",
+            "C": "नतोदर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "question": "In which direction does the demand for income and normal goods move?",
+        "prashna": "आय एवं सामान्य वस्तु की माँग किस दिशा में गति करती है?",
+        "options": {
+            "A": "In the same direction",
+            "B": "In opposite directions",
+            "C": "Both (A) and (B)",
+            "D": "No relationship between them"
+        },
+        "vikalpa": {
+            "A": "समान दिशा में",
+            "B": "विपरीत दिशा में",
+            "C": "(a) एवं (b) दोनों",
+            "D": "इनमें कोई सम्बन्ध नहीं है"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What do you understand by 'Normal Goods'? Give an example.",
+        "prashna": "'सामान्य वस्तु' से आप क्या समझते हैं? उदाहरण दें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Write the 'Law of Demand' with an example.",
+        "prashna": "'माँग के नियम' को सोदाहरण लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Define Price Elasticity of Demand.",
+        "prashna": "कीमत माँग की लोच को परिभाषित करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What is profit?",
+        "prashna": "लाभ क्या है?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Mention two characteristics of a perfectly competitive firm.",
+        "prashna": "पूर्ण प्रतिस्पर्धी फर्म की दो विशेषताओं का उल्लेख करें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Explain market equilibrium.",
+        "prashna": "बाजार संतुलन की व्याख्या कीजिए।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Define service sectors.",
+        "prashna": "सेवा क्षेत्रको परिभाषित करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Give a description of any two functions of the Central Bank.",
+        "prashna": "केन्द्रीय बैंक के किन्हीं दो कार्यों का विवरण दें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What is 'Gross Domestic Product'?",
+        "prashna": "'सकल घरेलू उत्पाद' क्या है?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Mention any two central problems of an economy.",
+        "prashna": "अर्थव्यवस्था की कोई दो केन्द्रीय समस्याओं का उल्लेख करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Define production possibility curve.",
+        "prashna": "उत्पादन संभावना वक्र को परिभाषित करें"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "What is 'Budget Line'?",
+        "prashna": "'बजट रेखा क्या है?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What do you understand by Cash Reserve Ratio?",
+        "prashna": "नकद आरक्षित अनुपात से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Define investment multiplier.",
+        "prashna": "निवेश गुणक को परिभाषित करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What are 'Public Goods'?",
+        "prashna": "'सार्वजनिक वस्तुएँ' क्या है?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What are consumption goods?",
+        "prashna": "उपभोग वस्तुएँ क्या है?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What is personal income?",
+        "prashna": "वैयक्तिक आय क्या है?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What does a bank do with the funds deposited in the bank?",
+        "prashna": "बैंक में जमा किये गए कोषों का बैंक क्या करता है?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "What do you understand by an open economy?",
+        "prashna": "खुली अर्थव्यवस्था से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What are external factors?",
+        "prashna": "बाह्य कारक क्या होते हैं?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "What is the current account of India's foreign trade?",
+        "prashna": "भारत के विदेशी व्यापार का चालू खाता क्या है?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "What are the various sources of tax revenue of the government?",
+        "prashna": "सरकार के कर राजस्व के क्या-क्या स्रोत हैं?"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "What is the shape of the total fixed cost curve?",
+        "prashna": "कुल स्थिर लागत वक्र की आकृति कैसी होती है?"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "What is meant by revenue receipts? Write any two components of revenue receipts.",
+        "prashna": "राजस्व प्राप्तियों से क्या अभिप्राय है? राजस्व प्राप्तियों के किन्हीं दो घटकों को लिखें।"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "question": "Depict a perfectly inelastic ($|e| = 0$) demand curve.",
+        "prashna": "एक पूर्णतया लोचहीन ($|e| = 0$) माँग वक्र चित्रित करें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "What is the variable cost of a producer?",
+        "prashna": "उत्पादनकर्ता का परिवर्ती लागत क्या होता है?"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "question": "What do you understand by the average product of a firm?",
+        "prashna": "किसी फर्म के औसत उत्पाद से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "question": "What is an indifference curve? Illustrate it.",
+        "prashna": "उदासीनता वक्र क्या है? चित्रित करें।"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "question": "Describe the 'Great Depression' of 1929.",
+        "prashna": "1929 की 'महामंदी' का वर्णन करें।"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "question": "What is the definition of capital in economics?",
+        "prashna": "अर्थशास्त्र में पूँजी की क्या परिभाषा है?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Explain consumer equilibrium with the help of indifference curve and budget line.",
+        "prashna": "अनधिमान वक्र एवं बजट रेखा की सहायता से उपभोक्ता संतुलन को स्पष्ट करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Explain elastic, inelastic and unitary elastic demand with the help of diagrams.",
+        "prashna": "लोचदार, लोचहीन एवं इकाई लोच की माँग की चित्र की सहायता से व्याख्या करें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "What are the characteristics of a perfectly competitive market?",
+        "prashna": "एक पूर्ण प्रतिस्पर्धी बाजार के क्या लक्षण हैं?"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "What are the determinants of the supply curve of a firm?",
+        "prashna": "फर्म की पूर्ति वक्र के निर्धारक तत्व कौन-कौन से हैं?"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "How does inequality in the distribution of Gross Domestic Product affect economic welfare?",
+        "prashna": "सकल घरेलू उत्पाद के वितरण में विषमता आर्थिक कल्याण को कैसे प्रभावित करता है?"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "What are the main functions of money? Explain.",
+        "prashna": "मुद्रा के प्रमुख कार्य क्या हैं? समझाइए।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "How does a commercial bank create credit? Explain with an example.",
+        "prashna": "व्यावसायिक बैंक किस प्रकार साख का निर्माण करती है? उदाहरण के साथ समझायें।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "The government needs loans to meet the fiscal deficit. Explain.",
+        "prashna": "राजकोषीय घाटा को पूरा करने के लिए सरकार को ऋण की आवश्यकता पड़ती है। व्याख्या कीजिए।"
+    }
+]

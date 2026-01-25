@@ -1,0 +1,618 @@
+{
+  "2021": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "How is the multiplier of an open economy compared to a closed economy?",
+      "prashna": "खुली अर्थव्यवस्था का गुणक बंद अर्थव्यवस्था की अपेक्षा कैसा होता है?",
+      "options": {
+        "A": "Larger",
+        "B": "Smaller",
+        "C": "Equal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बड़ा",
+        "B": "छोटा",
+        "C": "समान",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What happens to domestic output and exports due to an increase in foreign income?",
+      "prashna": "विदेशी आय में वृद्धि से घरेलू निर्गत और निर्यात को क्या होता है?",
+      "options": {
+        "A": "Decrease",
+        "B": "Increase",
+        "C": "Deficit",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ह्रास",
+        "B": "वृद्धि",
+        "C": "घाटा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "When will there be a deficit in the current account of international trade?",
+      "prashna": "अंतर्राष्ट्रीय व्यापार के चालू खाते में घाटा कब होगा?",
+      "options": {
+        "A": "Receipts = Payments",
+        "B": "Receipts > Payments",
+        "C": "Receipts < Payments",
+        "D": "Receipts $\\geq$ Payments"
+      },
+      "vikalpa": {
+        "A": "प्राप्तियाँ = भुगतान",
+        "B": "प्राप्तियाँ > भुगतान",
+        "C": "प्राप्ति < भुगतान",
+        "D": "प्राप्तियाँ $\\geq$ भुगतान"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What do you understand by an open economy?",
+      "prashna": "खुली अर्थव्यवस्था से आप क्या समझते हैं?"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What is the current account of India's foreign trade?",
+      "prashna": "भारत के विदेशी व्यापार का चालू खाता क्या है?"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following is economic reason of imbalance in Balance of Payment?",
+      "prashna": "भुगतान सन्तुलन में असन्तुलन का निम्न में से कौन आर्थिक कारण है?",
+      "options": {
+        "A": "Internal relationship",
+        "B": "Political instability",
+        "C": "Business cycle",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अन्तः राष्ट्रीय सम्बन्ध",
+        "B": "राजनीतिक अस्थिरता",
+        "C": "व्यापार चक्र",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which one is a demerit of fixed exchange rate?",
+      "prashna": "स्थिर विनिमय दर के निम्नलिखित में कौन-से दोष हैं ?",
+      "options": {
+        "A": "Ignores national interests",
+        "B": "Restricted flow of capital",
+        "C": "Sudden fluctuation in exchange rate",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रीय हितों की अवहेलना",
+        "B": "पूँजी का सीमित प्रवाह",
+        "C": "विनिमय दरों में आकस्मिक उच्चावचन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "During Bretton Woods system most countries had",
+      "prashna": "ब्रेटन वुड्स प्रणाली के समय अधिकांश देशों में था",
+      "options": {
+        "A": "Fixed exchange rate",
+        "B": "Pegged exchange rate",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्थिर विनिमय दर",
+        "B": "अधिकीलित विनिमय दर",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following items are included in Balance of Payment?",
+      "prashna": "भुगतान शेष के अन्तर्गत निम्नलिखित में कौन-सी मदें सम्मिलित होती हैं ?",
+      "options": {
+        "A": "Visible items",
+        "B": "Invisible items",
+        "C": "Capital transfers",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "दृश्य मदें",
+        "B": "अदृश्य मदें",
+        "C": "पूँजी अन्तरण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which one is the item of Current Account?",
+      "prashna": "चालू खाते की निम्नलिखित में कौन-सी मदें है ?",
+      "options": {
+        "A": "Import of visible items",
+        "B": "Expenses of tourists",
+        "C": "Export of visible items",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "दृश्य मदों का आयात",
+        "B": "पर्यटकों का खर्च",
+        "C": "दृश्य मदों का निर्यात",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Capital Account is related to the transfer of which of the following?",
+      "prashna": "पूँजीगत खाता किसके अंतरण से सम्बन्धित है ?",
+      "options": {
+        "A": "Capital",
+        "B": "Financial",
+        "C": "Assets",
+        "D": "Liabilities"
+      },
+      "vikalpa": {
+        "A": "पूँजीगत से",
+        "B": "वित्तीय से",
+        "C": "परिसम्पत्तियों से",
+        "D": "दायित्वों से"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "The deficit in balance of payment can be corrected by which of the following?",
+      "prashna": "भुगतान संतुलन का घाटा किसके द्वारा ठीक किया जा सकता है ?",
+      "options": {
+        "A": "Import substitution",
+        "B": "Export promotion",
+        "C": "Production growth",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "आयात प्रतिस्थापन",
+        "B": "निर्यात संवर्द्धन",
+        "C": "उत्पादन वृद्धि",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "When an economy has relations with another country, what is it called?",
+      "prashna": "जब किसी अर्थव्यवस्था का संबंध किसी दूसरे देश से हो, तो उसे क्या कहा जाता है?",
+      "options": {
+        "A": "Open Economy",
+        "B": "Closed Economy",
+        "C": "Self-reliant Economy",
+        "D": "Mixed Economy"
+      },
+      "vikalpa": {
+        "A": "खुली अर्थव्यवस्था",
+        "B": "बन्द अर्थव्यवस्था",
+        "C": "आत्मनिर्भर अर्थव्यवस्था",
+        "D": "मिश्रित अर्थव्यवस्था"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following is an economic reason for imbalance in Balance of Payments?",
+      "prashna": "भुगतान संतुलन में असंतुलन का निम्न में से कौन आर्थिक कारण है",
+      "options": {
+        "A": "International relations",
+        "B": "Political instability",
+        "C": "Trade cycle",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अन्तर्राष्ट्रीय सम्बन्ध",
+        "B": "राजनीतिक अस्थिरता",
+        "C": "व्यापार चक्र",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What is included under visible items?",
+      "prashna": "दृश्य मदों के अन्तर्गत किसे शामिल किया जाता है ?",
+      "options": {
+        "A": "Banking",
+        "B": "Information",
+        "C": "Machine",
+        "D": "Insurance"
+      },
+      "vikalpa": {
+        "A": "बैंकिंग",
+        "B": "सूचना",
+        "C": "मशीन",
+        "D": "बीमा"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following items will be recorded in the credit side of the Current Account of a country's Balance of Payments?",
+      "prashna": "निम्नांकित में से कौन-सी वस्तु किसी देश के भुगतान संतुलन में चालू खाते के क्रेडिट पक्ष में दर्ज की जाएगी ?",
+      "options": {
+        "A": "Loan from abroad",
+        "B": "Import of machinery",
+        "C": "Export of tea",
+        "D": "Foreign Direct Investment"
+      },
+      "vikalpa": {
+        "A": "विदेश से ऋण",
+        "B": "मशीनरी का आयात",
+        "C": "चाय का निर्यात",
+        "D": "विदेशी प्रत्यक्ष निवेश"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following statements is wrong?",
+      "prashna": "निम्नलिखित में से कौन-सा कथन गलत है ?",
+      "options": {
+        "A": "From an accounting point of view, the Balance of Payments is always in equilibrium.",
+        "B": "Repayment of private loan comes in the liability entry of the Capital Account.",
+        "C": "Cloth and machine are included under invisible items.",
+        "D": "Visible items are included in Balance of Trade."
+      },
+      "vikalpa": {
+        "A": "लेखा की दृष्टि से भुगतान शेष सदैव सन्तुलन की दशा में रहता है",
+        "B": "निजी ऋण का भुगतान पूँजी खाते को देनदारी प्रविष्टि में आता है",
+        "C": "अदृश्य मदों के अन्तर्गत कपड़ा और मशीन को शामिल किया जाता है",
+        "D": "व्यापार शेष में दृश्य मदें सम्मिलित होती हैं"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following is a feature of Balance of Payments?",
+      "prashna": "भुगतान संतुलन की निम्नलिखित में से कौन-सी विशेषता है ?",
+      "options": {
+        "A": "Systematic record",
+        "B": "Fixed time period",
+        "C": "Comprehensiveness",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "क्रमबद्ध लेखा रिकार्ड",
+        "B": "निश्चित समय अवधि",
+        "C": "व्यापकता",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Give the definition of Balance of Payments.",
+      "prashna": "भुगतान शेष की परिभाषा दीजिए।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Describe the merits and demerits of a flexible exchange rate system.",
+      "prashna": "लोचशील विनिमय दर प्रणाली के गुण तथा दोषों का वर्णन करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "In export by a country the goods",
+      "prashna": "निर्यात में किसी देश द्वारा वस्तु",
+      "options": {
+        "A": "are purchased from abroad",
+        "B": "are sold abroad",
+        "C": "capital is invited into the country",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "विदेश से क्रय किया जाता है",
+        "B": "विदेश में विक्रय किया जाता है",
+        "C": "पूँजी देश में आमंत्रित किया जाता है",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "The details of sales and purchases of assets like currency, stock bond etc. are kept in which account ?",
+      "prashna": "परिसंपत्तियों जैसे मुद्रा, स्टॉक, बंधपत्र आदि का क्रय-विक्रय का विवरण किस खाते में होता है ?",
+      "options": {
+        "A": "Current Account",
+        "B": "Capital Account",
+        "C": "Reserve Account",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "चालू खाता",
+        "B": "पूँजी खाता",
+        "C": "आरक्षित खाता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What will decrease due to exchange rate depreciation ?",
+      "prashna": "विनिमय दर में मूल्य ह्रास से क्या घटेगा ?",
+      "options": {
+        "A": "Import",
+        "B": "Export",
+        "C": "Capital investment",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आयात",
+        "B": "निर्यात",
+        "C": "पूँजी निवेश",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What would be the equilibrium of open economy ?",
+      "prashna": "खुली अर्थव्यवस्था का संतुलन क्या होगा ?",
+      "options": {
+        "A": "$Y = C + I$",
+        "B": "$Y = C + I + G$",
+        "C": "$Y = C + I + G + X - M$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$Y = C + I$",
+        "B": "$Y = C + I + G$",
+        "C": "$Y = C + I + G + X - M$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which is larger, the multiplier of open economy or the multiplier of closed economy ?",
+      "prashna": "निम्न में कौन बड़ा है, खुली अर्थव्यवस्था का गुणक अथवा बंद अर्थव्यवस्था का गुणक ?",
+      "options": {
+        "A": "Multiplier of open economy",
+        "B": "Multiplier of closed economy",
+        "C": "Both are equal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "खुली अर्थव्यवस्था का गुणक",
+        "B": "बंद अर्थव्यवस्था का गुणक",
+        "C": "दोनों बराबर हैं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Define exchange rate in terms of rupee and dollar.",
+      "prashna": "विनिमय दर को रुपया और डालर के संदर्भ में परिभाषित करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What do you understand by trade deficit ?",
+      "prashna": "व्यापार घाटा से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What do you understand by open economy ?",
+      "prashna": "खुली अर्थव्यवस्था से आप क्या समझते हैं ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What is fixed exchange rate?",
+      "prashna": "स्थिर विनिमय दर क्या है?"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What is meant by Trade balance?",
+      "prashna": "व्यापार संतुलन से क्या अभिप्राय है?"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Explain the meaning of deficit in balance of payment.",
+      "prashna": "भुगतान शेष में घाटे के अभिप्राय को स्पष्ट कीजिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Tariff (customs duty) is levied on which of the following?",
+      "prashna": "टैरिफ (तटकर) इनमें से किस पर लगाया जाता है?",
+      "options": {
+        "A": "On export",
+        "B": "On Capital investment",
+        "C": "On Import",
+        "D": "On Inflation"
+      },
+      "vikalpa": {
+        "A": "निर्यात पर",
+        "B": "पूँजी निवेश पर",
+        "C": "आयात पर",
+        "D": "महंगाई पर"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What kind of economy is India?",
+      "prashna": "भारत कैसी अर्थव्यवस्था है?",
+      "options": {
+        "A": "Closed",
+        "B": "Open",
+        "C": "Closed for foreign investment",
+        "D": "Protected"
+      },
+      "vikalpa": {
+        "A": "बंद",
+        "B": "खुली",
+        "C": "विदेशी निवेश के लिए बंद",
+        "D": "संरक्षित"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Through which of the following means is the open economy connected to the world economy?",
+      "prashna": "इनमें से किस माध्यम से खुली अर्थव्यवस्था का जुड़ाव विश्व अर्थव्यवस्था से होता है?",
+      "options": {
+        "A": "Output market",
+        "B": "Labour market",
+        "C": "Financial market",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "निर्गत बाजार",
+        "B": "श्रम बाजार",
+        "C": "वित्तीय बाजार",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Which of the following is not a component of the current account?",
+      "prashna": "इनमें से कौन चालू खाते का घटक नहीं है?",
+      "options": {
+        "A": "Investment",
+        "B": "Trade of goods",
+        "C": "Trade of Services",
+        "D": "Transfer payment"
+      },
+      "vikalpa": {
+        "A": "निवेश",
+        "B": "वस्तुओं का व्यापार",
+        "C": "सेवाओं का व्यापार",
+        "D": "अंतरण भुगतान"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What changes does deficit in the balance of payments cause in the official reserves?",
+      "prashna": "अदायगी संतुलन में घाटे से अधिकारिक कोषों में क्या परिवर्तन होता है?",
+      "options": {
+        "A": "It declines",
+        "B": "It increases",
+        "C": "It remains unchanged",
+        "D": "There is no relationship between the two"
+      },
+      "vikalpa": {
+        "A": "कमी आती है",
+        "B": "वृद्धि होती है",
+        "C": "अपरिवर्तित रहता है",
+        "D": "इनके मध्य कोई संबंध नहीं है"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What is the decrease in the foreign exchange rate due to changes in the market forces such as demand and supply called?",
+      "prashna": "बाजार की शक्तियों जैसे माँग एवं पूर्ति में परिवर्तन के कारण विदेशी विनिमय दर में कमी को क्या कहते है?",
+      "options": {
+        "A": "Devaluation",
+        "B": "Depreciation",
+        "C": "Loss in value",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवमूल्यन",
+        "B": "मूल्यह्रास",
+        "C": "मूल्य में हानि",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Define open economy.",
+      "prashna": "खुली अर्थव्यवस्था को परिभाषित करें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "What do you understand by devaluation of rupee?",
+      "prashna": "रुपये के अवमूल्यन से आप क्या समझते हैं?"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter_name": "Open Economy Macroeconomics",
+      "question": "Write two components of capital account.",
+      "prashna": "पूँजी खाता के दो घटकों को लिखें।"
+    }
+  ]
+}

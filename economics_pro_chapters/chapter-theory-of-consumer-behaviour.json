@@ -1,0 +1,2061 @@
+{
+  "2021": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The inverse relationship between the consumer's demand for a commodity and the price of the commodity is called?",
+      "prashna": "किसी वस्तु के लिए उपभोक्ता की माँग तथा वस्तु की कीमत के बीच प्रतिलोम सम्बन्ध कहलाता है",
+      "options": {
+        "A": "Law of Price",
+        "B": "Law of Demand",
+        "C": "Law of Commodity",
+        "D": "Law of Consumer"
+      },
+      "vikalpa": {
+        "A": "कीमत का नियम",
+        "B": "माँग का नियम",
+        "C": "वस्तु का नियम",
+        "D": "उपभोक्ता का नियम"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following is a pair of substitute goods?",
+      "prashna": "निम्न में कौन संयोग स्थानापन्न वस्तुओं का है?",
+      "options": {
+        "A": "Tea and Sugar",
+        "B": "Bread and Butter",
+        "C": "Tea and Coffee",
+        "D": "Pen and Ink"
+      },
+      "vikalpa": {
+        "A": "चाय एवं चीनी",
+        "B": "ब्रेड एवं मक्खन",
+        "C": "चाय एवं काफी",
+        "D": "कलम तथा स्याही"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If the demand for LED bulbs increases when the price of electricity decreases, then how are the two related?",
+      "prashna": "बिजली की कीमत घटने पर एल. इ. डी. बल्ब की माँग बढ़ जाए तो दोनों किस प्रकार हैं?",
+      "options": {
+        "A": "Complementary",
+        "B": "Substitute",
+        "C": "Luxury",
+        "0": "Absolute Necessity"
+      },
+      "vikalpa": {
+        "A": "पूरक",
+        "B": "स्थानापन्न",
+        "C": "विलासिता",
+        "D": "परम आवश्यकता"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What will be the price elasticity of demand $|e_D|$ for a perfectly inelastic demand curve?",
+      "prashna": "पूर्णतः बेलोचदार माँग वक्र की कीमत माँग की लोच $|e_D|$ क्या होगी?",
+      "options": {
+        "A": "$|e_D| = 1$",
+        "B": "$|e_D| = \\infty$",
+        "C": "$|e_D| = 0$",
+        "D": "$|e_D| < 1$"
+      },
+      "vikalpa": {
+        "A": "$|e_D| = 1$",
+        "B": "$|e_D| = \\infty$",
+        "C": "$|e_D| = 0$",
+        "D": "$|e_D| < 1$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What will be the price elasticity of demand $|e_D|$ at the midpoint of a linear demand curve?",
+      "prashna": "एक रेखीय माँग वक्र के मध्य बिन्दु पर कीमत माँग की लोच $|e_D|$ क्या होगी?",
+      "options": {
+        "A": "$|e_D| = 0$",
+        "B": "$|e_D| = 1$",
+        "C": "$|e_D| = \\infty$",
+        "D": "$1 < |e_D| < \\infty$"
+      },
+      "vikalpa": {
+        "A": "$|e_D| = 0$",
+        "B": "$|e_D| = 1$",
+        "C": "$|e_D| = \\infty$",
+        "D": "$1 < |e_D| < \\infty$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following demand curves is perfectly inelastic?",
+      "prashna": "निम्न में कौन माँग वक्र पूर्ण रूप से लोचहीन होता है?",
+      "options": {
+        "A": "Linear demand curve",
+        "B": "Rectangular hyperbola demand curve",
+        "C": "Vertical demand curve",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "रैखिक माँग वक्र",
+        "B": "आयताकार अतिपरवलय माँग वक्र",
+        "C": "ऊर्ध्वाधर माँग वक्र",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the definition of elasticity of demand?",
+      "prashna": "माँग की लोच की क्या परिभाषा है?",
+      "options": {
+        "A": "$\\frac{\\Delta q / q^o}{\\Delta p / p^o} \\times 100$",
+        "B": "$\\frac{\\Delta q / q^o \\times 100}{\\Delta p / p^o \\times 100}$",
+        "C": "$\\frac{\\Delta q}{\\Delta p} \\cdot \\frac{p^o}{q^o}$",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\Delta q / q^o}{\\Delta p / p^o} \\times 100$",
+        "B": "$\\frac{\\Delta q / q^o \\times 100}{\\Delta p / p^o \\times 100}$",
+        "C": "$\\frac{\\Delta q}{\\Delta p} \\cdot \\frac{p^o}{q^o}$",
+        "D": "(b) और (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the unit of elasticity of demand?",
+      "prashna": "माँग की लोच की इकाई क्या है?",
+      "options": {
+        "A": "Rupee",
+        "B": "Kilogram",
+        "C": "It is a pure number",
+        "D": "Rupee per kilogram"
+      },
+      "vikalpa": {
+        "A": "रुपया",
+        "B": "किलोग्राम",
+        "C": "यह एक शुद्ध संख्या है",
+        "D": "रुपया प्रति किलोग्राम"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If consumer's income (M) increases, then budget set",
+      "prashna": "यदि उपभोक्ता की आय (M) में वृद्धि होती है तो बजट सेट",
+      "options": {
+        "A": "Will become larger",
+        "B": "Will become smaller",
+        "C": "Will remain unchanged",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बड़ा हो जायेगा",
+        "B": "छोटा हो जायेगा",
+        "C": "अपरिवर्तित रहेगा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "How does a rational consumer choose a bundle?",
+      "prashna": "एक युक्तिशील उपभोक्ता कैसे बंडल का चुनाव करता है?",
+      "options": {
+        "A": "Best",
+        "B": "Worst",
+        "C": "Most preferred",
+        "D": "Both (A) and (C)"
+      },
+      "vikalpa": {
+        "A": "सबसे अच्छा",
+        "B": "सबसे खराब",
+        "C": "सर्वाधिक अधिमान वाला",
+        "D": "(a) और (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "In the demand curve, the consumer's demand for a commodity is a function of",
+      "prashna": "माँग वक्र में किसी वस्तु के लिए उपभोक्ता की माँग फलन है",
+      "options": {
+        "A": "Its own price",
+        "B": "Price of other goods",
+        "C": "Weather",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अपने मूल्य का",
+        "B": "अन्य वस्तु के मूल्य का",
+        "C": "मौसम का",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If the demand curve is $d(p) = a - bp$, then what will be the quantity of demand for the commodity at zero price?",
+      "prashna": "यदि माँग वक्र $d(p) = a - bp$ हो तो शून्य मूल्य पर वस्तु में माँग की मात्रा क्या होगा?",
+      "options": {
+        "A": "$-b$",
+        "B": "$a$",
+        "C": "$p$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$-b$",
+        "B": "$a$",
+        "C": "$p$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Goods whose demand moves in the direction of your income are called",
+      "prashna": "ऐसी वस्तुएँ जिनकी माँग की मात्रा आप की दिशा में गति करती है कहलाती हैं",
+      "options": {
+        "A": "Inferior goods",
+        "B": "Normal goods",
+        "C": "Complementary goods",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "निम्नस्तरीय वस्तुएँ",
+        "B": "सामान्य वस्तु",
+        "C": "पूरक वस्तुएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following is the correct equation for the budget line?",
+      "prashna": "निम्न में कौन बजट रेखा का सही समीकरण है?",
+      "options": {
+        "A": "$p_1x_1 + p_2x_2 \\leq M$",
+        "B": "$p_1x_1 + p_2x_2 \\geq M$",
+        "C": "$p_1x_1 + p_2x_2 = M$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$p_1x_1 + p_2x_2 \\leq M$",
+        "B": "$p_1x_1 + p_2x_2 \\geq M$",
+        "C": "$p_1x_1 + p_2x_2 = M$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If commodity $x_1$ is shown on the x-axis and commodity $x_2$ on the y-axis, at which point will the budget line intersect the x-axis?",
+      "prashna": "यदि वस्तु $x_1$ को x-अक्ष पर एवं वस्तु $x_2$ को y-अक्ष पर दर्शाया गया है तो बजट रेखा x-अक्ष को किस बिन्दु पर काटेगी?",
+      "options": {
+        "A": "$M/p_1$",
+        "B": "$M/p_2$",
+        "C": "$M/x_1$",
+        "D": "$M/x_2$"
+      },
+      "vikalpa": {
+        "A": "$M/p_1$",
+        "B": "$M/p_2$",
+        "C": "$M/x_1$",
+        "D": "$M/x_2$"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What happens to the slope of the budget line when the price of commodity 1 falls?",
+      "prashna": "वस्तु 1 का मूल्य घटने पर बजट रेखा की प्रवणता (ढाल)",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ जाती है",
+        "B": "घट जाती है",
+        "C": "स्थिर रहती है",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the slope of the indifference curve?",
+      "prashna": "अनधिमान वक्र की ढाल (प्रवणता) क्या होती है?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धनात्मक",
+        "B": "ऋणात्मक",
+        "C": "शून्य",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "How is the indifference curve relative to the origin of the axes?",
+      "prashna": "अनधिमान चक्र अक्ष के मूल के सापेक्ष कैसी रेखा होती है?",
+      "options": {
+        "A": "Convex",
+        "B": "Straight",
+        "C": "Concave",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उन्नतोदर",
+        "B": "सीधी",
+        "C": "नतोदर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "In which direction does the demand for income and normal goods move?",
+      "prashna": "आय एवं सामान्य वस्तु की माँग किस दिशा में गति करती है?",
+      "options": {
+        "A": "In the same direction",
+        "B": "In opposite directions",
+        "C": "Both (A) and (B)",
+        "D": "No relationship between them"
+      },
+      "vikalpa": {
+        "A": "समान दिशा में",
+        "B": "विपरीत दिशा में",
+        "C": "(a) एवं (b) दोनों",
+        "D": "इनमें कोई सम्बन्ध नहीं है"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What do you understand by 'Normal Goods'? Give an example.",
+      "prashna": "'सामान्य वस्तु' से आप क्या समझते हैं? उदाहरण दें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Write the 'Law of Demand' with an example.",
+      "prashna": "'माँग के नियम' को सोदाहरण लिखें।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Define Price Elasticity of Demand.",
+      "prashna": "कीमत माँग की लोच को परिभाषित करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is 'Budget Line'?",
+      "prashna": "'बजट रेखा क्या है?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Depict a perfectly inelastic ($|e| = 0$) demand curve.",
+      "prashna": "एक पूर्णतया लोचहीन ($|e| = 0$) माँग वक्र चित्रित करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is an indifference curve? Illustrate it.",
+      "prashna": "उदासीनता वक्र क्या है? चित्रित करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Explain consumer equilibrium with the help of indifference curve and budget line.",
+      "prashna": "अनधिमान वक्र एवं बजट रेखा की सहायता से उपभोक्ता संतुलन को स्पष्ट करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Explain elastic, inelastic and unitary elastic demand with the help of diagrams.",
+      "prashna": "लोचदार, लोचहीन एवं इकाई लोच की माँग की चित्र की सहायता से व्याख्या करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Who basically propounded the concept of law of equimarginal utility?",
+      "prashna": "सम-सीमान्त उपयोगिता नियम के विचार के मूल प्रतिपादक कौन थे ?",
+      "options": {
+        "A": "Marshall",
+        "B": "Gossen",
+        "C": "Ricardo",
+        "D": "Mill"
+      },
+      "vikalpa": {
+        "A": "मार्शल",
+        "B": "गोसेन",
+        "C": "रिकार्डो",
+        "D": "मिल"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The propounder of law of diminishing marginal utility is",
+      "prashna": "सीमान्त उपयोगिता ह्रास नियम के प्रतिपादक हैं",
+      "options": {
+        "A": "Gossen",
+        "B": "Adam Smith",
+        "C": "Chapman",
+        "D": "Hicks"
+      },
+      "vikalpa": {
+        "A": "गोसेन",
+        "B": "एडम स्मिथ",
+        "C": "चैपमैन",
+        "D": "हिक्स"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The ability of satisfying human wants in a good is called",
+      "prashna": "किसी वस्तु में मानवीय आवश्यकता की पूर्ति की क्षमता को कहते हैं",
+      "options": {
+        "A": "Productivity",
+        "B": "Satisfaction",
+        "C": "Utility",
+        "D": "Profitability"
+      },
+      "vikalpa": {
+        "A": "उत्पादकता",
+        "B": "सन्तुष्टि",
+        "C": "उपयोगिता",
+        "D": "लाभदायकता"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "On consumption of every additional unit of commodity, marginal utility",
+      "prashna": "वस्तु की हर अगली इकाई के प्रयोग से सीमान्त उपयोगिता",
+      "options": {
+        "A": "diminishes",
+        "B": "increases",
+        "C": "remains constant",
+        "D": "becomes zero"
+      },
+      "vikalpa": {
+        "A": "घटती है",
+        "B": "बढ़ती है",
+        "C": "समान रहती है",
+        "D": "शून्य हो जाती है।"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "With a rise in price the demand for 'Giffen' goods",
+      "prashna": "मूल्य वृद्धि से 'गिफिन' वस्तुओं की माँग",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains constant",
+        "D": "becomes unstable"
+      },
+      "vikalpa": {
+        "A": "बढ़ जाती है",
+        "B": "घट जाती है",
+        "C": "स्थिर रहती है",
+        "D": "अस्थिर हो जाती है"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Law of equi-marginal utility is called",
+      "prashna": "सम-सीमान्त उपयोगिता नियम को कहा जाता है",
+      "options": {
+        "A": "Law of increasing utility",
+        "B": "Law of diminishing utility",
+        "C": "Law of substitution",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उपयोगिता वृद्धि नियम",
+        "B": "उपयोगिता ह्रास नियम",
+        "C": "प्रतिस्थापन का नियम",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Who propounded the ordinal utility theory?",
+      "prashna": "उपयोगिता का क्रमवाचक सिद्धान्त किसने दिया ?",
+      "options": {
+        "A": "Marshall",
+        "B": "Hicks and Allen",
+        "C": "Ricardo",
+        "D": "Pigou"
+      },
+      "vikalpa": {
+        "A": "मार्शल",
+        "B": "हिक्स एवं ऐलन",
+        "C": "रिकार्डो",
+        "D": "पीगू"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The slope of indifference curve shows",
+      "prashna": "तटस्थता वक्र का झुकाव दिखाता है।",
+      "options": {
+        "A": "The price ratio",
+        "B": "Diminishing",
+        "C": "Factor substitution",
+        "D": "Marginal utility"
+      },
+      "vikalpa": {
+        "A": "कीमत अनुपात",
+        "B": "घटता हुआ",
+        "C": "घटक प्रतिस्थापन",
+        "D": "सीमान्त उपयोगिता"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Demand curve generally slopes",
+      "prashna": "माँग वक्र का ढाल सामान्यतः होता है।",
+      "options": {
+        "A": "Upward from left to right",
+        "B": "Downward from left to right",
+        "C": "Parallel to X-axis",
+        "D": "Parallel to Y-axis"
+      },
+      "vikalpa": {
+        "A": "बायें से दायें ऊपर की ओर",
+        "B": "बायें से दायें नीचे की ओर",
+        "C": "X- अक्ष के समानान्तर",
+        "D": "Y-अक्ष के समानान्तर"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "For which of the following changes there is no change in demand?",
+      "prashna": "निम्नलिखित में से किसके परिवर्तन से माँग में परिवर्तन नहीं होता ?",
+      "options": {
+        "A": "Change in price",
+        "B": "Change in income",
+        "C": "Change in taste and fashion",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "मूल्य में परिवर्तन",
+        "B": "आय में परिवर्तन",
+        "C": "रुचि तथा फैशन में परिवर्तन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Price elasticity of demand means",
+      "prashna": "माँग की कीमत लोच से अभिप्राय है",
+      "options": {
+        "A": "Change in demand due to change in price",
+        "B": "Change in demand",
+        "C": "Change in real income",
+        "D": "Change in price"
+      },
+      "vikalpa": {
+        "A": "कीमत में परिवर्तन के कारण माँग में परिवर्तन",
+        "B": "माँग में परिवर्तन",
+        "C": "वास्तविक आय में परिवर्तन",
+        "D": "कीमत में परिवर्तन"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "With which method, is elasticity of demand measured?",
+      "prashna": "माँग की लोच की माप निम्नलिखित में किस विधि से की जाती है?",
+      "options": {
+        "A": "Total expenditure method",
+        "B": "Percentage or proportionate method",
+        "C": "Point method",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कुल व्यय विधि",
+        "B": "प्रतिशत या आनुपातिक विधि",
+        "C": "बिन्दु विधि",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Explain the meaning of consumer's equilibrium.",
+      "prashna": "उपभोक्ता सन्तुलन के अर्थ को समझाइए।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is derived demand?",
+      "prashna": "व्युत्पन्न माँग किसे कहते हैं ?"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is indifference curve?",
+      "prashna": "उदासीनता वक्र किसे कहते हैं ?"
+    },
+    {
+      "id": "short_29",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What are inferior goods? Give any two examples.",
+      "prashna": "निम्न स्तरीय वस्तु किसे कहते हैं ? कोई दो उदाहरण दें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "When does demand become inelastic?",
+      "prashna": "माँग कब बेलोचदार होती है ?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Why does demand curve slope downward from left to right?",
+      "prashna": "माँग वक्र बायें से दायें नीचे क्यों गिरता है ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Goods which are used in place of each other are called:",
+      "prashna": "ऐसी वस्तुएँ जिनका एक-दूसरे के बदले प्रयोग किया जाता है, कहलाती है।",
+      "options": {
+        "A": "Complementary goods",
+        "B": "Substitute goods",
+        "C": "Comfort goods",
+        "D": "Luxury goods"
+      },
+      "vikalpa": {
+        "A": "पूरक वस्तुएँ",
+        "B": "स्थानापन्न वस्तुएँ",
+        "C": "आरामदायक वस्तुएँ",
+        "D": "विलासिता वस्तुएँ"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The slope of demand curve is generally:",
+      "prashna": "माँग वक्र की ढाल सामान्यतः होती है।",
+      "options": {
+        "A": "From left to right upwards",
+        "B": "From left to right downwards",
+        "C": "Parallel to x-axis",
+        "D": "Perpendicular to x-axis"
+      },
+      "vikalpa": {
+        "A": "बायें से दायें ऊपर की ओर",
+        "B": "बायें से दायें नीचे की ओर",
+        "C": "x-अक्ष के समान्तर",
+        "D": "x-अक्ष पर लम्बवत"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Contraction of demand occurs when:",
+      "prashna": "माँग का संकुचन तब होता है जब",
+      "options": {
+        "A": "Price rises and demand falls",
+        "B": "Price rises and demand also rises",
+        "C": "Price remains constant and demand falls",
+        "D": "Price falls but demand remains constant"
+      },
+      "vikalpa": {
+        "A": "कीमत बढ़ती है और माँग घटती है",
+        "B": "कीमत बढ़ती है और माँग भी बढ़ती है",
+        "C": "कीमत स्थिर रहती है और माँग घटती है",
+        "D": "कीमत घटती है लेकिन माँग स्थिर रहती है"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "With a rise in price, the demand for Giffen goods:",
+      "prashna": "मूल्य वृद्धि से गिफिन वस्तुओं की माँग",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes unstable"
+      },
+      "vikalpa": {
+        "A": "बढ़ जाती है",
+        "B": "घट जाती है",
+        "C": "स्थिर रहती है",
+        "D": "अस्थिर हो जाती है"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What does a Rectangular Hyperbola demand curve show?",
+      "prashna": "आयताकार अतिपरवलयाकार माँग वक्र निम्न में से क्या दिखाता है ?",
+      "options": {
+        "A": "Perfectly inelastic demand",
+        "B": "Perfectly elastic demand",
+        "C": "Unitary elastic demand",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूर्ण बेलोचदार माँग",
+        "B": "पूर्ण लोचदार माँग",
+        "C": "इकाई माँग लोच",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The elasticity of demand for necessary goods is:",
+      "prashna": "आवश्यक वस्तुओं की माँग की लोच होती है।",
+      "options": {
+        "A": "Zero",
+        "B": "More than unit",
+        "C": "Infinite",
+        "D": "Less than unit"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "इकाई से अधिक",
+        "C": "असीमित",
+        "D": "इकाई से कम"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "How many types of elasticity of demand are there?",
+      "prashna": "माँग की लोच कितने प्रकार की होती है ?",
+      "options": {
+        "A": "Seven",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "vikalpa": {
+        "A": "सात",
+        "B": "तीन",
+        "C": "चार",
+        "D": "पाँच"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following statements is true?",
+      "prashna": "निम्नांकित में से कौन-सा कथन सत्य है ?",
+      "options": {
+        "A": "The elasticity of demand for necessary goods is zero.",
+        "B": "Elasticity of demand is a qualitative statement.",
+        "C": "The percentage method for measuring elasticity of demand was propounded by Marshall.",
+        "D": "There are six types of elasticity of demand."
+      },
+      "vikalpa": {
+        "A": "आवश्यक वस्तु की माँग की लोच शून्य होती है",
+        "B": "माँग की लोच गुणात्मक कथन है।",
+        "C": "मांग की लोच मापने के लिए प्रतिशत विधि का प्रतिपादन मार्शल ने किया था",
+        "D": "माँग की लोच छह प्रकार की होती है"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "When total utility is maximum, marginal utility is:",
+      "prashna": "जब कुल उपयोगिता अधिकतम होती है तब सीमान्त उपयोगिता",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धनात्मक होती है",
+        "B": "ऋणात्मक होती है",
+        "C": "शून्य होती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The power of a commodity to satisfy human wants is called its:",
+      "prashna": "किसी वस्तु में मानवीय आवश्यकता की पूर्ति को क्षमता को कहते हैं इसकी",
+      "options": {
+        "A": "Productivity",
+        "B": "Satisfaction",
+        "C": "Utility",
+        "D": "Profitability"
+      },
+      "vikalpa": {
+        "A": "उत्पादकता",
+        "B": "सन्तुष्टि",
+        "C": "उपयोगिता",
+        "D": "लाभदायकता"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "With a rise in the price of coffee, the demand for tea:",
+      "prashna": "कॉफी के मूल्य में वृद्धि होने से चाय की माँग",
+      "options": {
+        "A": "Increases",
+        "B": "Remains constant",
+        "C": "Decreases",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ती है",
+        "B": "स्थिर रहती है",
+        "C": "घटती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the slope of an Indifference Curve?",
+      "prashna": "उदासीनता वक्र की क्या ढाल होती है ?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धनात्मक",
+        "B": "ऋणात्मक",
+        "C": "शून्य",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Who was the propounder of the Law of Diminishing Marginal Utility?",
+      "prashna": "सीमान्त उपयोगिता हास नियम के प्रतिपादक कौन थे ?",
+      "options": {
+        "A": "Gossen",
+        "B": "Adam Smith",
+        "C": "Chapman",
+        "D": "Hicks"
+      },
+      "vikalpa": {
+        "A": "गोसेन",
+        "B": "एडम स्मिथ",
+        "C": "चैपमैन",
+        "D": "हिक्स"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the Law of Equi-Marginal Utility called?",
+      "prashna": "जब सीमान्त उपयोगिता नियम को कहा जाता है",
+      "options": {
+        "A": "Law of increasing utility",
+        "B": "Law of diminishing utility",
+        "C": "Law of substitution",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उपयोगिता वृद्धि नियम",
+        "B": "उपयोगिता हास नियम",
+        "C": "प्रतिस्थापन का नियम",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "State the essential elements of Demand.",
+      "prashna": "माँग के आवश्यक तत्व बताइए।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is an Indifference Curve?",
+      "prashna": "उदासीनता वक्र क्या है ?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What do you understand by Utility?",
+      "prashna": "उपयोगिता से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "When is the elasticity of demand unitary?",
+      "prashna": "माँग की लोच कब इकाई होती है ?"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is Demand Function?",
+      "prashna": "माँग फलन क्या है ?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is 'Budget Line'?",
+      "prashna": "'बजट रेखा' क्या है ?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is Demand? Explain the determinants of Demand.",
+      "prashna": "माँग क्या है ? माँग के निर्धारक तत्वों को समझाइए ।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is a group of many indifference curves called?",
+      "prashna": "कई अनधिमान वक्र के समूह को क्या कहते हैं ?",
+      "options": {
+        "A": "Indifference bundle",
+        "B": "Indifference map",
+        "C": "Indifference diagram",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अनधिमान बंडल",
+        "B": "अनधिमान मानचित्र",
+        "C": "अनधिमान रेखाचित्र",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The graphical representation of combination of two goods which provide equal satisfaction to consumer is called",
+      "prashna": "दो वस्तुओं के ऐसे संयोगों का ग्राफीय निरूपण जो कि उपभोक्ता को समान संतुष्टि प्रदान करते हैं, क्या कहलाती है ?",
+      "options": {
+        "A": "Indifference curve",
+        "B": "Iso-utility curve",
+        "C": "Budget line",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "अनधिमान वक्र",
+        "B": "समान तुष्टिगुण वक्र",
+        "C": "बजट रेखा",
+        "D": "(A) और (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the marginal rate of substitution of indifference curve ?",
+      "prashna": "अनधिमान वक्र की सीमांत प्रतिस्थापना दर क्या होती है ?",
+      "options": {
+        "A": "Increasing",
+        "B": "Decreasing",
+        "C": "Constant",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वर्धमान",
+        "B": "ह्रासमान",
+        "C": "स्थिर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "At the optimum point of consumer, what does the budget line do to indifference curve?",
+      "prashna": "उपभोक्ता के इष्टतम बिन्दु पर बजट रेखा अनधिमान वक्र को क्या करती है ?",
+      "options": {
+        "A": "Cuts",
+        "B": "Touches",
+        "C": "Cuts two times",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "काटती है",
+        "B": "स्पर्श करती है",
+        "C": "दो बार काटती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the slope of demand curve ?",
+      "prashna": "माँग वक्र की ढाल क्या होती है ?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Vertical",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धनात्मक",
+        "B": "ऋणात्मक",
+        "C": "उर्ध्वाधर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What would happen to demand for normal goods with rise in income ?",
+      "prashna": "सामान्य वस्तु की माँग आय में वृद्धि के साथ क्या होगी ?",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain constant",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ेगी",
+        "B": "घटेगी",
+        "C": "स्थिर रहेगी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the market demand curve of demand curves of different individuals ?",
+      "prashna": "बाजार माँग वक्र अलग-अलग व्यक्तियों के माँग वक्र का क्या होता है ?",
+      "options": {
+        "A": "Sum",
+        "B": "Horizontal summation",
+        "C": "Difference",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "योग",
+        "B": "समस्तरीय संकलन",
+        "C": "अंतर",
+        "D": "(A) और (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If the demand curve for a good is vertical then what would be the elasticity of demanded ?",
+      "prashna": "यदि वस्तु की माँग वक्र उर्ध्वाधर है तो माँग की लोच $|e_d|$ क्या होगी ?",
+      "options": {
+        "A": "$|e_d| = 1$",
+        "B": "$|e_d| = 0$",
+        "C": "$|e_d| = \\infty$",
+        "D": "$|e_d| < 1$"
+      },
+      "vikalpa": {
+        "A": "$|e_d| = 1$",
+        "B": "$|e_d| = 0$",
+        "C": "$|e_d| = \\infty$",
+        "D": "$|e_d| < 1$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "At the point where the straight line demand curve cuts the $x$-axis, what is the value of elasticity of demand ?",
+      "prashna": "एक रैखिक माँग वक्र जिस बिन्दु पर $x$-अक्ष को काटता है वहाँ माँग की लोच का मान क्या होता है ?",
+      "options": {
+        "A": "$|e_d| = 0$",
+        "B": "$|e_d| = 1$",
+        "C": "$|e_d| = \\infty$",
+        "D": "$|e_d| < 1$"
+      },
+      "vikalpa": {
+        "A": "$|e_d| = 0$",
+        "B": "$|e_d| = 1$",
+        "C": "$|e_d| = \\infty$",
+        "D": "$|e_d| < 1$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The equation of demand curve is $p \\cdot q = e$ where $p$ is price, $q$ is quantity and $e$ is constant. What would be the shape of this demand curve ?",
+      "prashna": "माँग वक्र का समीकरण $p \\cdot q = e$ जहाँ $p$ मूल्य, $q$ मात्रा और $e$ स्थिर है। इस माँग वक्र का क्या आकार होगा ?",
+      "options": {
+        "A": "Downward sloping curve",
+        "B": "Rectangular hyperbola",
+        "C": "Straight line",
+        "D": "Vertical line"
+      },
+      "vikalpa": {
+        "A": "नीचे की ओर झुका वक्र",
+        "B": "आयताकार अतिपरवलय",
+        "C": "सीधी रेखा",
+        "D": "उर्ध्वाधर रेखा"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "In the equation of budget line $p_1 x_1 + p_2 x_2 = M$, what are $p_1, p_2$ ?",
+      "prashna": "बजट रेखा के समीकरण $p_1 x_1 + p_2 x_2 = M$, में $p_1, p_2$ क्या हैं ?",
+      "options": {
+        "A": "Prices of good 1 and good 2",
+        "B": "Quantities of good 1 and good 2",
+        "C": "Income of consumer",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु 1 एवं वस्तु 2 के मूल्य",
+        "B": "वस्तु 1 एवं वस्तु 2 की मात्रा",
+        "C": "उपभोक्ता की आय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is complementary good ? Give examples.",
+      "prashna": "पूरक वस्तु क्या है ? उदाहरण दें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Draw a demand curve whose price elasticity of demand $e = 1$.",
+      "prashna": "ऐसा माँग वक्र चित्रित करें जिसके कीमत माँग की लोच $e = 1$ हो।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is price elasticity of demand ?",
+      "prashna": "माँग की कीमत लोच क्या है ?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Define budget line.",
+      "prashna": "बजट रेखा को परिभाषित करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Draw consumer indifference curve.",
+      "prashna": "उपभोक्ता अनधिमान वक्र को चित्रित करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is demand function ?",
+      "prashna": "माँग फलन क्या है ?"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Show consumer's equilibrium with the help of indifference curve.",
+      "prashna": "अनधिमान वक्र के द्वारा उपभोक्ता संतुलन को दर्शायें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Consumer behaviour is studied in :",
+      "prashna": "उपभोक्ता व्यवहार का अध्ययन किया जाता है:",
+      "options": {
+        "A": "Micro Economics",
+        "B": "Macro Economics",
+        "C": "Income Theory",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सूक्ष्म अर्थशास्त्र में",
+        "B": "व्यापक अर्थशास्त्र में",
+        "C": "आय सिद्धांत में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which is the First law of Gossen?",
+      "prashna": "गोसेन का प्रथम नियम निम्न में कौन है?",
+      "options": {
+        "A": "Law of Demand",
+        "B": "Law of diminishing Marginal utility",
+        "C": "Law of Equi-Marginal utility",
+        "D": "Consumer’s Surplus"
+      },
+      "vikalpa": {
+        "A": "माँग का नियम",
+        "B": "सीमान्त उपयोगिता ह्रास नियम",
+        "C": "सम–सीमान्त उपयोगिता नियम",
+        "D": "उपभोक्ता की बचत"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Budget line indicates",
+      "prashna": "बजट रेखा दर्शाती है",
+      "options": {
+        "A": "Price Ratio",
+        "B": "Income Ratio",
+        "C": "Cost ratio",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "मूल्य अनुपात",
+        "B": "आय अनुपात",
+        "C": "लागत अनुपात",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "From which of the following is the slope of indifference curve is measured?",
+      "prashna": "उदासीनता वक्र की ढाल निम्नांकित में से किससे मापी जाती है?",
+      "options": {
+        "A": "Increasing MRS",
+        "B": "Marginal rate of transformation",
+        "C": "Marginal rate of substitution (MRS)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ती सीमान्त प्रतिस्थापन दर",
+        "B": "सीमान्त रूपान्तरण दर",
+        "C": "सीमान्त प्रतिस्थापन दर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Consumption of every additional unit of commodity, marginal utility",
+      "prashna": "वस्तु की हर अगली इकाई के प्रयोग से सीमांत उपयोगिता",
+      "options": {
+        "A": "Diminishing",
+        "B": "Increasing",
+        "C": "Remains Constant",
+        "D": "Become & zero"
+      },
+      "vikalpa": {
+        "A": "घटती है",
+        "B": "बढ़ती है",
+        "C": "स्थिर रहती है",
+        "D": "शून्य हो जाती है"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "How we calculate marginal utility?",
+      "prashna": "सीमान्त उपयोगिता हम कैसे निकालते हैं?",
+      "options": {
+        "A": "$\\frac{\\Delta TU}{\\Delta Q}$",
+        "B": "$\\frac{\\Delta MU}{\\Delta Q}$",
+        "C": "$\\frac{\\Delta Q}{\\Delta TU}$",
+        "D": "$\\frac{\\Delta Q}{\\Delta MU}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\Delta TU}{\\Delta Q}$",
+        "B": "$\\frac{\\Delta MU}{\\Delta Q}$",
+        "C": "$\\frac{\\Delta Q}{\\Delta TU}$",
+        "D": "$\\frac{\\Delta Q}{\\Delta MU}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Utility can be measured by:",
+      "prashna": "उपयोगिता की माप की जा सकती है:",
+      "options": {
+        "A": "Money",
+        "B": "Exchange of goods",
+        "C": "Weight of the goods",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "मुद्रा के द्वारा",
+        "B": "वस्तुओं के विनिमय द्वारा",
+        "C": "वस्तु के वजन द्वारा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Who propounded the ordinal utility theory?",
+      "prashna": "उपयोगिता का क्रम वाचक सिद्धांत किसने दिया?",
+      "options": {
+        "A": "Marshall",
+        "B": "Pigou",
+        "C": "Hicks & Allen",
+        "D": "Ricardo"
+      },
+      "vikalpa": {
+        "A": "मार्शल",
+        "B": "पिगू",
+        "C": "हिक्स और एलन",
+        "D": "रिकार्डो"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Utility in economics means:",
+      "prashna": "अर्थशास्त्र में उपयोगिता का आशय:",
+      "options": {
+        "A": "Want satisfying power of a commodity",
+        "B": "Pleasure",
+        "C": "Happiness",
+        "D": "Usefulness"
+      },
+      "vikalpa": {
+        "A": "किसी वस्तु में आवश्यकता पूरी करने की शक्ति",
+        "B": "आनंद",
+        "C": "खुशी",
+        "D": "उपादेयता"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "When total utility is fixed then Marginal utility is:",
+      "prashna": "कुल उपयोगिता जब स्थिर होती है तब सीमान्त उपयोगिता होती है:",
+      "options": {
+        "A": "Zero",
+        "B": "Positive",
+        "C": "Negative",
+        "D": "Qualitative"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "धनात्मक",
+        "C": "ऋणात्मक",
+        "D": "गुणात्मक"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Demand curve generally slopes",
+      "prashna": "माँग वक्र का सामान्यतः ढाल होता है",
+      "options": {
+        "A": "Upward from left to right",
+        "B": "Downward from left to right",
+        "C": "Parallel to x-axis",
+        "D": "Parallel to y-axis"
+      },
+      "vikalpa": {
+        "A": "बायें से दायें ऊपर की ओर",
+        "B": "बायें से दायें नीचे की ओर",
+        "C": "$X$-अक्ष के समानान्तर",
+        "D": "$Y$-अक्ष के समानान्तर"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following is a reason for fall in demand?",
+      "prashna": "माँग में कमी के निम्नलिखित में कौन से कारण है?",
+      "options": {
+        "A": "Fall in income",
+        "B": "Fall in number of buyers",
+        "C": "Fall in taste of consumer",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "आय में कमी",
+        "B": "क्रेताओं की संख्या में कमी",
+        "C": "उपभोक्ता की रुचि में कमी",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Goods which can alternatively be used, are called:",
+      "prashna": "ऐसी वस्तुएँ जिनका एक–दूसरे के बदले प्रयोग किया जाता है, कहलाता है:",
+      "options": {
+        "A": "Complementary goods",
+        "B": "Substituted goods",
+        "C": "Comfort goods",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पुरक वस्तुएँ",
+        "B": "स्थानापन्न वस्तुएँ",
+        "C": "आरामदायक वस्तुएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "With the rise in coffee price, the demand of tea:",
+      "prashna": "कॉफी के मूल्य में वृद्धि होने से चाय की माँग:",
+      "options": {
+        "A": "Rise",
+        "B": "Remains stable",
+        "C": "Falls",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बढ़ती है",
+        "B": "स्थिर रहता है",
+        "C": "घटती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "In the following the example of substitute goods is:",
+      "prashna": "निम्न में स्थानापन्न वस्तुओं का उदाहरण है:",
+      "options": {
+        "A": "Tea and Sugar",
+        "B": "Shoes and Socks",
+        "C": "Pen and Ink",
+        "D": "Tea and Coffee"
+      },
+      "vikalpa": {
+        "A": "चाय तथा चीनी",
+        "B": "जूते एवं जुराब",
+        "C": "कलम एवं स्याही",
+        "D": "चाय तथा कॉफी"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "For luxury goods the demand is:",
+      "prashna": "विलासिता की वस्तुओं की माँग है:",
+      "options": {
+        "A": "Inelastic",
+        "B": "Elastic",
+        "C": "Highly elastic",
+        "D": "Perfectly inelastic"
+      },
+      "vikalpa": {
+        "A": "बेलोचदार होती है",
+        "B": "लोचदार होती है",
+        "C": "अत्यधिक लोचदार होती है",
+        "D": "पूर्णतया बेलोचदार होती है"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following shows elasticity less than one?",
+      "prashna": "इकाई से कम माँग की लोच को निम्नलिखित में कौन व्यक्त करता है?",
+      "options": {
+        "A": "Necessary Goods",
+        "B": "Comforts goods",
+        "C": "Luxuries goods",
+        "D": "All of the above"
+      },
+      "vikalpa": {
+        "A": "आवश्यक वस्तु",
+        "B": "आरामदायक वस्तु",
+        "C": "विलासिता वस्तु",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Who propounded the percentage or proportionate method of measuring elasticity of demand?",
+      "prashna": "माँग की लोच मापने के लिए प्रतिशत या आनुपातिक रीति का प्रतिपादन किस ने किया?",
+      "options": {
+        "A": "Marshall",
+        "B": "Flux",
+        "C": "Hicks",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "मार्शल",
+        "B": "फ्लक्स",
+        "C": "हिक्स",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "How many types of elasticity of demand has?",
+      "prashna": "माँग की लोच कितने प्रकार की होती है?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "Six",
+        "D": "Seven"
+      },
+      "vikalpa": {
+        "A": "तीन",
+        "B": "पांच",
+        "C": "छः",
+        "D": "सात"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Elasticity of demand for substitute goods is:",
+      "prashna": "स्थानापन्न वस्तुओं की माँग की लोच होती है:",
+      "options": {
+        "A": "Zero",
+        "B": "Positive",
+        "C": "Negative",
+        "D": "Always less than unity one"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "धनात्मक",
+        "C": "ऋणात्मक",
+        "D": "हमेशा इकाई से कम"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If the increase in income of consumer reduces the demand of commodity ‘X’, the commodity ‘X’ will be:",
+      "prashna": "यदि उपभोक्ता की आय में वृद्धि से वस्तु ‘X’की माँग कम हो जाती है तो वस्तु ‘X’ होगी",
+      "options": {
+        "A": "Life Saving goods",
+        "B": "Essential goods",
+        "C": "Luxury goods",
+        "D": "Giffin Goods"
+      },
+      "vikalpa": {
+        "A": "जीवन रक्षक वस्तु",
+        "B": "आवश्यक वस्तु",
+        "C": "विलासिता वस्तु",
+        "D": "गिफिन वस्तु"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Price elasticity of demand means:",
+      "prashna": "माँग की कीमत लोच से अभिप्राय है:",
+      "options": {
+        "A": "Change in demand due to change in price",
+        "B": "Charge in demand",
+        "C": "Charge in real income",
+        "D": "Charge in price"
+      },
+      "vikalpa": {
+        "A": "कीमत में परिवर्तन के कारण माँग में परिवर्तन",
+        "B": "माँग में परिवर्तन",
+        "C": "वास्तविक आय में परिवर्तन",
+        "D": "कीमत में परिवर्तन"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following is a reason of change in demand?",
+      "prashna": "माँग में परिवर्तन के निम्नलिखित कौन से कारण हैं?",
+      "options": {
+        "A": "Change in consumers income",
+        "B": "Change in price of Related goods",
+        "C": "Population increase",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "उपभोक्ता की आय में परिवर्तन",
+        "B": "संबंधित वस्तुओं की कीमत में परिवर्तन",
+        "C": "जनसंख्या वृद्धि",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Define consumer’s Equilibrium.",
+      "prashna": "उपभोक्ता संतुलन की परिभाषा दीजिए।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Mention two differences between ‘Desire’ and ‘Demand’",
+      "prashna": "‘इच्छा’ और ‘माँग’ में दो अंतर बतायें?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "When the demand becomes Perfectly Elastic Demand?",
+      "prashna": "माँग कब पूर्णतः लोचदार माँग बनती है?"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is derived Demand?",
+      "prashna": "व्युत्पन्न माँग किसे कहते हैं?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What are the exception of Law of Demand? Explain",
+      "prashna": "मांग के नियम के क्या अपवाद है? समझाए।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Explain the factors determining elasticity of demand.",
+      "prashna": "मांग की लोच को प्रभावित करने वाले तत्वों की व्याख्या कीजिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the collection of all bundles that a consumer can purchased from his income at current market price is called?",
+      "prashna": "उन सभी मंडलों $(x_1, x_2)$ का संग्रह जो उपभोक्ता वर्तमान बाजार कीमत पर अपनी आय से खरीद सकता है, क्या कहलाती है?",
+      "options": {
+        "A": "Budget Set",
+        "B": "Budget Constraint",
+        "C": "Price Set",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "बजट सेट",
+        "B": "बजट प्रतिबंध",
+        "C": "मूल्य सेट",
+        "D": "(A) एवं (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If $p_1x_1 + p_2x_2 = M$ is the budget line, then what will be the $x$-intercept?",
+      "prashna": "यदि बजट रेखा $p_1x_1 + p_2x_2 = M$ है तो $x$- अंतखंड क्या होगा?",
+      "options": {
+        "A": "$M/P_2$",
+        "B": "$M/P_1$",
+        "C": "$P_1/P_2$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$M/P_2$",
+        "B": "$M/P_1$",
+        "C": "$P_1/P_2$",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "A budget line indicates how many units of good 2 $(\\Delta x_2)$ the consumer can purchase by giving up $(\\Delta x_1)$ unit of good 1? That quantity is -",
+      "prashna": "बजट रेखा की ढाल यह बताती है कि उपभोक्ता वस्तु 1 की $\\Delta x_1$ इकाई छोड़कर वस्तु 2 की कितनी $(\\Delta x_2)$ मात्रा क्रय कर सकता है? वह मात्रा है -",
+      "options": {
+        "A": "$p_1/p_2$",
+        "B": "$p_2/p_1$",
+        "C": "$-p_1/p_2$",
+        "D": "$-p_2/p_1$"
+      },
+      "vikalpa": {
+        "A": "$p_1/p_2$",
+        "B": "$p_2/p_1$",
+        "C": "$-p_1/p_2$",
+        "D": "$-p_2/p_1$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If the price of commodity 1 in budget line increases then what will be the change in the slope of a new budget line?",
+      "prashna": "यदि बजट रेखा में वस्तु 1 की कीमत बढ़ती है, तो नए बजट रेखा की ढाल (प्रवणता) में क्या परिवर्तन होगा?",
+      "options": {
+        "A": "Will increase",
+        "B": "Will decrease",
+        "C": "There will be no change",
+        "D": "There is no relation between the price of the good and the budget line"
+      },
+      "vikalpa": {
+        "A": "बढ़ जायेगी",
+        "B": "घट जायेगी",
+        "C": "कोई परिवर्तन नहीं होगा",
+        "D": "वस्तु के मूल्य एवं बजट रेखा में कोई संबंध नहीं है"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "For bundles lying on an indifference curve the consumer is-",
+      "prashna": "अनधिमान वक्र पर स्थित बंडलों के प्रति उपभोक्ता -",
+      "options": {
+        "A": "Biased",
+        "B": "Indifferent",
+        "C": "Inconsistent",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पक्षपाती रहता हैं",
+        "B": "तटस्थ रहता हैं",
+        "C": "परस्पर विरोधी",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the slope of indifference curve usually?",
+      "prashna": "अनधिमान वक्र की ढाल सामान्यतः क्या होती है?",
+      "options": {
+        "A": "Negative",
+        "B": "Convex to the origin",
+        "C": "Decreasing",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ऋणात्मक",
+        "B": "मूल बिंदु की ओर उत्तल",
+        "C": "घटती हुई",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "In economics what type of a person a consumer generally considered to be?",
+      "prashna": "अर्थशास्त्र में साधारणतः उपभोक्ता को कैसा व्यक्ति माना जाता है?",
+      "options": {
+        "A": "Fool",
+        "B": "Rational",
+        "C": "Clever",
+        "D": "Confused"
+      },
+      "vikalpa": {
+        "A": "बुद्धू",
+        "B": "युक्तिशील",
+        "C": "चालाक",
+        "D": "भ्रांत (विमूढ़)"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The demand for a commodity depends on which of the following factors?",
+      "prashna": "किसी वस्तु की माँग इनमें से किस अवयव पर निर्भर करती है?",
+      "options": {
+        "A": "Price of the commodity",
+        "B": "Income of the consumer",
+        "C": "Taste of the consumer",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु की कीमत",
+        "B": "उपभोक्ता की आय",
+        "C": "उपभोक्ता की अभिरुचि",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "The demand curve shows the relationship between?",
+      "prashna": "माँग वक्र किसके बीच संबंध को दर्शाता है?",
+      "options": {
+        "A": "Price of the commodity and quantity demanded",
+        "B": "Consumer’s income and quantity demanded",
+        "C": "Consumer’s taste and quantity demanded",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वस्तु के मूल्य एवं माँग की मात्रा",
+        "B": "उपभोक्ता की आय एवं वस्तु के माँग की मात्रा",
+        "C": "उपभोक्ता की अभिरुचि एवं माँग की मात्रा",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following is an exception to the law of demand?",
+      "prashna": "इनमें कौन माँग के नियम का अपवाद है?",
+      "options": {
+        "A": "Normal goods",
+        "B": "Inferior goods",
+        "C": "Giffen goods",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सामान्य वस्तुएँ",
+        "B": "घटिया (निम्नस्तरीय) वस्तुएँ",
+        "C": "गिफेन वस्तुएँ",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the correct description of the slope of a linear demand curve?",
+      "prashna": "एक रैखिक माँग वक्र की ढाल का सही विवरण क्या है?",
+      "options": {
+        "A": "Same at every point",
+        "B": "Different at all points",
+        "C": "Different at some points and same at some points",
+        "D": "Positive"
+      },
+      "vikalpa": {
+        "A": "हर बिंदु पर समान",
+        "B": "सभी बिंदुओं पर अलग-अलग",
+        "C": "कुछ बिंदुओं पर अलग-अलग एवं कुछ बिन्दुओं पर समान",
+        "D": "धनात्मक"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "If the consumer’s taste for a product declines, what change occurs in the demand curve?",
+      "prashna": "यदि उपभोक्ता की किसी वस्तु के प्रति रूचि घट जाती है, तो माँग वक्र में क्या परिवर्तन होगा?",
+      "options": {
+        "A": "Will Shift leftward",
+        "B": "Will shift rightward",
+        "C": "Will Shift upward",
+        "D": "Will not Shift"
+      },
+      "vikalpa": {
+        "A": "बायीं ओर शिफ्ट करेगा",
+        "B": "दायीं ओर शिफ्ट करेगा",
+        "C": "ऊपर की ओर शिफ्ट करेगा",
+        "D": "शिफ्ट नहीं करेगा"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is obtained by adding the horizontal demand curves of different individuals?",
+      "prashna": "अलग-अलग व्यक्तियों के समस्तरीय माँग वक्रों को जोड़ने से क्या प्राप्त होता है?",
+      "options": {
+        "A": "Supply curve",
+        "B": "Revenue Curve",
+        "C": "Cost Curve",
+        "D": "Market Demand Curve"
+      },
+      "vikalpa": {
+        "A": "पूर्ति वक्र",
+        "B": "संप्राप्ति वक्र",
+        "C": "लागत वक्र",
+        "D": "बाजार माँग वक्र"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Which of the following goods has elasticity of demand greater than one $(e_d > 1)$?",
+      "prashna": "इनमें से किस वस्तु के माँग की लोच एक से अधिक $(e_d > 1)$ है?",
+      "options": {
+        "A": "Food Articles",
+        "B": "Comfort goods",
+        "C": "Luxury goods",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "खाद्य पदार्थ",
+        "B": "आरमदायक वस्तु",
+        "C": "विलासिता की वस्तुएँ",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Write the definition of total Utility and Marginal Utility.",
+      "prashna": "कुल उपयोगिता एवं सीमान्त उपयोगिता की परिभाषा लिखें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is indifference curve? Draw.",
+      "prashna": "अनधिमान वक्र क्या है? चित्रित करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Give example of substitute goods and complementary goods.",
+      "prashna": "स्थानापन्न वस्तुएँ एवं पूरक वस्तुएँ का उदाहरण दें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "What is the definition of price elasticity of demand?",
+      "prashna": "कीमत माँग की लोच की क्या परिभाषा है?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Explain consumer equilibrium through indifference curve.",
+      "prashna": "अनधिमान वक्र के द्वारा उपभोक्ता के संतुलन की सचित्र व्याख्या करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Theory of Consumer Behaviour",
+      "question": "Define price elasticity of demand. Draw demand curves with price elasticity of demand $|e_d| = 0$, $|e_d| = 1$ and $|e_d| = \\infty$.",
+      "prashna": "मूल्य माँग की लोच परिभाषित करें। माँग वक्रों को चित्रित करें, जिनके माँग की लोच $|e_d| = 0$, $|e_d| = 1$ एवं $|e_d| = \\infty$."
+    }
+  ]
+}

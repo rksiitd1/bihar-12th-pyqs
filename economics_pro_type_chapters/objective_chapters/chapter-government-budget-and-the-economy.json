@@ -1,0 +1,546 @@
+{
+  "2021": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is the recovery of loans provided by the Central Government?",
+      "prashna": "केन्द्र सरकार द्वारा प्रदत्त ऋणों की वसूली क्या है?",
+      "options": {
+        "A": "Capital Expenditure",
+        "B": "Capital Receipts",
+        "C": "Revenue Receipts",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजीगत व्यय",
+        "B": "पूँजीगत प्राप्तियाँ",
+        "C": "राजस्व प्राप्तियाँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Other things remaining equal, what happens to consumption due to a cut in taxes?",
+      "prashna": "अन्य बातें सामान्य रहीं तो करों में कटौती से, उपभोग में क्या होता है?",
+      "options": {
+        "A": "Increase",
+        "B": "Reduction",
+        "C": "Negative Increase",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वृद्धि",
+        "B": "कटौती",
+        "C": "ऋणात्मक वृद्धि",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is the value of the transfer multiplier?",
+      "prashna": "अंतरण गुणक का मान क्या होता है?",
+      "options": {
+        "A": "$\\frac{C}{1-C}$",
+        "B": "$\\frac{1}{1-C}$",
+        "C": "$\\frac{-C}{1-C}$",
+        "D": "$\\frac{1-C}{1-C}$"
+      },
+      "vikalpa": {
+        "A": "$\\frac{C}{1-C}$",
+        "B": "$\\frac{1}{1-C}$",
+        "C": "$\\frac{-C}{1-C}$",
+        "D": "$\\frac{1-C}{1-C}$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following comes under the category of public goods?",
+      "prashna": "निम्न में कौन सार्वजनिक वस्तु की श्रेणी में आता है?",
+      "options": {
+        "A": "Roads",
+        "B": "Government administration",
+        "C": "National security",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सड़के",
+        "B": "सरकारी प्रशासन",
+        "C": "राष्ट्रीय सुरक्षा",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Tax revenue of the government includes.",
+      "prashna": "सरकार के कर राजस्व के अन्तर्गत शामिल है",
+      "options": {
+        "A": "Income tax",
+        "B": "Corporate tax",
+        "C": "Customs duty",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "आयकर",
+        "B": "निगम कर",
+        "C": "सीमा शुल्क",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which type of expenditure is made in bridge construction?",
+      "prashna": "निम्नलिखित में से कौन-सा व्यय एक पुल के निर्माण में होता है?",
+      "options": {
+        "A": "Capital expenditure",
+        "B": "Revenue expenditure",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पूँजीगत व्यय",
+        "B": "राजस्व व्यय",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is the component of Budget receipts?",
+      "prashna": "बजट प्राप्तियों के संघटक निम्नलिखित में कौन हैं ?",
+      "options": {
+        "A": "Revenue receipts",
+        "B": "Capital receipts",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजस्व प्राप्तियाँ",
+        "B": "पूँजीगत प्राप्तियाँ",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "The expenditure which does not create assets for the government is called",
+      "prashna": "ऐसे व्यय, जो सरकार के लिए किसी परिसम्पत्ति का सृजन नहीं करते, कहलाते है",
+      "options": {
+        "A": "Revenue expenditure",
+        "B": "Capital expenditure",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजस्व व्यय",
+        "B": "पूँजीगत व्यय",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is capital expenditure of the government?",
+      "prashna": "निम्नलिखित में से कौन-सा सरकार का पूँजीगत व्यय है?",
+      "options": {
+        "A": "Payment of interest",
+        "B": "Purchase of house",
+        "C": "Expenditure on machinery",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ब्याज का भुगतान",
+        "B": "मकान का क्रय",
+        "C": "मशीनरी व्यय",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Benefit of Income tax is received by",
+      "prashna": "आयकर का लाभ प्राप्त होता है",
+      "options": {
+        "A": "Central Government",
+        "B": "State Government",
+        "C": "Both Central Government and State Government",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "केन्द्र सरकार को",
+        "B": "राज्य सरकार को",
+        "C": "केन्द्र एवं राज्य सरकार दोनों को",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is not an indirect tax?",
+      "prashna": "निम्नांकित में से कौन वस्तु कर नहीं है ?",
+      "options": {
+        "A": "GST",
+        "B": "Excise Duty",
+        "C": "VAT",
+        "D": "Income Tax"
+      },
+      "vikalpa": {
+        "A": "जी एस टी",
+        "B": "उत्पाद शुल्क",
+        "C": "वैट",
+        "D": "आयकर"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is the period of a budget?",
+      "prashna": "बजट की अवधि क्या होती है ?",
+      "options": {
+        "A": "Annual",
+        "B": "Two years",
+        "C": "Five years",
+        "D": "Ten years"
+      },
+      "vikalpa": {
+        "A": "वार्षिक",
+        "B": "दो वर्ष",
+        "C": "पाँच वर्ष",
+        "D": "दस वर्ष"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is an indirect tax?",
+      "prashna": "निम्न में से कौन अप्रत्यक्ष कर है ?",
+      "options": {
+        "A": "Income tax",
+        "B": "Wealth tax",
+        "C": "Corporation tax",
+        "D": "Sales tax"
+      },
+      "vikalpa": {
+        "A": "आयकर",
+        "B": "सम्पत्ति कर",
+        "C": "निगम कर",
+        "D": "बिक्री कर"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is the correct measure of Primary Deficit?",
+      "prashna": "निम्न में से कौन प्राथमिक घाटे की सही माप है ?",
+      "options": {
+        "A": "Fiscal Deficit - Revenue Deficit",
+        "B": "Revenue Deficit - Interest Payment",
+        "C": "Fiscal Deficit - Interest Payment",
+        "D": "Capital Expenditure - Revenue Expenditure"
+      },
+      "vikalpa": {
+        "A": "राजकोषीय घाटा - राजस्व घाटा",
+        "B": "राजस्व घाटा - ब्याज भुगतान",
+        "C": "राजकोषीय घाटा - ब्याज भुगतान",
+        "D": "पूँजीगत व्यय - राजस्व व्यय"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is not a revenue receipt?",
+      "prashna": "निम्नलिखित में से कौन-सी राजस्व प्राप्ति नहीं है ?",
+      "options": {
+        "A": "Recovery of loans",
+        "B": "Foreign grants",
+        "C": "Profits of public enterprises",
+        "D": "Wealth tax"
+      },
+      "vikalpa": {
+        "A": "ऋणों की वसूली",
+        "B": "विदेशी अनुदान",
+        "C": "सार्वजनिक उपक्रम के लाभ",
+        "D": "सम्पत्ति कर"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What does the government do to change the distribution of income ?",
+      "prashna": "सरकार आय के वितरण को बदलने के लिए क्या करती है ?",
+      "options": {
+        "A": "More taxes from the rich",
+        "B": "More expenditure on the poor",
+        "C": "Provision of public goods",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "धनी से अधिक कर",
+        "B": "गरीबों पर अधिक खर्च",
+        "C": "सार्वजनिक वस्तुओं का प्रावधान",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which is the most important head of capital receipts ?",
+      "prashna": "पूँजीगत प्राप्तियों की सबसे मुख्य मद क्या है ?",
+      "options": {
+        "A": "Public debt",
+        "B": "Small savings",
+        "C": "The income from the sale of shares of government enterprises",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बाजार ऋण",
+        "B": "लघु बचतें",
+        "C": "सार्वजनिक उपक्रमों के शेयर की बिक्री से आय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is the main objective of fiscal policy ?",
+      "prashna": "राजकोषीय नीति का मुख्य उद्देश्य क्या है ?",
+      "options": {
+        "A": "Increase in output",
+        "B": "Achieve high level of employment",
+        "C": "Increase in income",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "निर्गत में वृद्धि",
+        "B": "उच्च रोजगार स्तर प्राप्त करना",
+        "C": "आय में वृद्धि",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is government expenditure multiplier ?",
+      "prashna": "सरकारी व्यय गुणक क्या है ?",
+      "options": {
+        "A": "$\\frac{\\Delta Y}{\\Delta T} = \\frac{-c}{1-c}$",
+        "B": "$\\frac{\\Delta Y}{\\Delta G} = \\frac{1}{1-c}$",
+        "C": "One",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\Delta Y}{\\Delta T} = \\frac{-c}{1-c}$",
+        "B": "$\\frac{\\Delta Y}{\\Delta G} = \\frac{1}{1-c}$",
+        "C": "एक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is the value of balanced budget multiplier ?",
+      "prashna": "संतुलित बजट गुणक का मान क्या है ?",
+      "options": {
+        "A": "Zero",
+        "B": "One",
+        "C": "Two",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "एक",
+        "C": "दो",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Due to which of the following there would be burden on future generation ?",
+      "prashna": "निम्न में से किससे अगली पीढ़ी पर बोझ पड़ेगा ?",
+      "options": {
+        "A": "Expenditure",
+        "B": "Tax",
+        "C": "Debt",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "व्यय से",
+        "B": "कर से",
+        "C": "ऋण से",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which one is included in Fiscal Policy?",
+      "prashna": "राजकोषीय नीति के अन्तर्गत किसे शामिल किया जाता है?",
+      "options": {
+        "A": "Public Expenditure",
+        "B": "Taxation",
+        "C": "Public Debt",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "सार्वजनिक व्यय",
+        "B": "करारोपण",
+        "C": "सार्वजनिक ऋण",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is not a revenue receipt?",
+      "prashna": "निम्नलिखित में कौन सी राजस्व प्राप्ति नहीं है?",
+      "options": {
+        "A": "Recovery of Loans",
+        "B": "Foreign Grants",
+        "C": "Profit of Public Enterprises",
+        "D": "Wealth Tax"
+      },
+      "vikalpa": {
+        "A": "ऋणों की वसूली",
+        "B": "विदेशी अनुदान",
+        "C": "सार्वजनिक उपक्रमों के लाभ",
+        "D": "संपत्ति कर"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of the following is not a public good?",
+      "prashna": "निम्नलिखित में से कौन सार्वजनिक वस्तु नहीं है?",
+      "options": {
+        "A": "Roads",
+        "B": "National Defence",
+        "C": "Government health services",
+        "D": "Car (Private Car)"
+      },
+      "vikalpa": {
+        "A": "सड़कें",
+        "B": "राष्ट्रीय सुरक्षा",
+        "C": "सरकारी स्वास्थ्य सेवा",
+        "D": "कार (गाड़ी)"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What are public goods like relative to private goods?",
+      "prashna": "निजी वस्तुओं की तरह सार्वजनिक वस्तुएँ क्या होती है?",
+      "options": {
+        "A": "Competitive",
+        "B": "Non-Rivalry",
+        "C": "Non-Excludability",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "प्रतिद्वन्द्वात्मक",
+        "B": "प्रतिद्वन्द्वात्मक नहीं होती है",
+        "C": "गैर अपवर्जनीय",
+        "D": "(B) एवं (C) दोनों"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "Which of these is revenue expenditure?",
+      "prashna": "इनमें कौन राजस्व व्यय है?",
+      "options": {
+        "A": "Miscellaneous service",
+        "B": "Interest payment on loan",
+        "C": "Grants given to State governments",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "विविध सेवा",
+        "B": "ऋण ब्याज अदायगी",
+        "C": "राज्य सरकारों को दिया गया अनुदान",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "How is the gross fiscal deficit financed?",
+      "prashna": "सकल राजकोषीय घाटा का वित्त पोषण कैसे किया जाना है?",
+      "options": {
+        "A": "By acquiring net domestic debt",
+        "B": "By acquiring loan from Reserve Bank of India",
+        "C": "Taking loan from abroad",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "निवल घरेलू ऋण ग्रहण कर",
+        "B": "भारतीय रिजर्व बैंक से ऋण ग्रहण कर",
+        "C": "विदेशों से ऋण ग्रहण कर",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Government Budget and the Economy",
+      "question": "What is the value of balanced budget multiplier?",
+      "prashna": "संतुलित बजट गुणक का क्या मान होता है?",
+      "options": {
+        "A": "$[1 / (1 - c)] + [-c / (1 - c)]$",
+        "B": "$(1 - c) / (1 - c)$",
+        "C": "1",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$[1 / (1 - c)] + [-c / (1 - c)]$",
+        "B": "$(1 - c) / (1 - c)$",
+        "C": "1",
+        "D": "इनमें सभी"
+      }
+    }
+  ]
+}

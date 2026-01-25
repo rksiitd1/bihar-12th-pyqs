@@ -1,0 +1,1094 @@
+{
+  "2021": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which statement is correct in the context of normal profit?",
+      "prashna": "सामान्य लाभ के संदर्भ में कौन कथन सही है?",
+      "options": {
+        "A": "This is the minimum expected profit of firms",
+        "B": "It is equal to the opportunity cost",
+        "C": "Normal profit = Explicit cost + Opportunity cost",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "यह फर्मों का न्यूनतम अपेक्षित लाभ है",
+        "B": "यह अवसर लागत के बराबर होता",
+        "C": "सामान्य लाभ = स्पष्ट लागत + अवसर लागत",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "From which point does the supply of a competitive firm start?",
+      "prashna": "प्रतिस्पर्धी फर्म की पूर्ति किस बिन्दु से शुरू होती है?",
+      "options": {
+        "A": "From the minimum point of marginal cost curve",
+        "B": "From the minimum point of average cost curve",
+        "C": "From the minimum point of variable cost curve",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सीमांत लागत वक्र के न्यूनतम बिन्दु से",
+        "B": "औसत लागत वक्र के न्यूनतम बिन्दु से",
+        "C": "परिवर्ती लागत वक्र के न्यूनतम बिन्दु से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market are there many sellers and many buyers?",
+      "prashna": "किस बाजार में अनेक विक्रेता तथा अनेक खरीदार होते हैं?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Monopolistic Competition",
+        "C": "Perfect Competition",
+        "D": "Oligopoly"
+      },
+      "vikalpa": {
+        "A": "एकाधिकार",
+        "B": "एकाधिकारात्मक प्रतियोगिता",
+        "C": "पूर्ण प्रतियोगिता",
+        "D": "अल्पाधिकार"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In the long run, at what price will free entry and exit of firms stop in a competitive market?",
+      "prashna": "दीर्घकाल में प्रतिस्पर्धी बाजार में फर्मों का निर्वाध प्रवेश और बहिर्गमन किस कीमत पर जाकर रुकेगा?",
+      "options": {
+        "A": "$p = \\text{minimum average cost}$",
+        "B": "$p = \\text{minimum marginal cost}$",
+        "C": "$p = \\text{minimum average variable cost}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$p = \\text{न्यूनतम औसत लागत}$",
+        "B": "$p = \\text{न्यूनतम सीमांत लागत}$",
+        "C": "$p = \\text{न्यूनतम औसत परिवर्ती लागत}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Mention two characteristics of a perfectly competitive firm.",
+      "prashna": "पूर्ण प्रतिस्पर्धी फर्म की दो विशेषताओं का उल्लेख करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What are the characteristics of a perfectly competitive market?",
+      "prashna": "एक पूर्ण प्रतिस्पर्धी बाजार के क्या लक्षण हैं?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What are the determinants of the supply curve of a firm?",
+      "prashna": "फर्म की पूर्ति वक्र के निर्धारक तत्व कौन-कौन से हैं?"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market demand curve of a firm is perfectly elastic?",
+      "prashna": "किस बाजार में फर्म का माँग वक्र पूर्ण लोचदार होता है?",
+      "options": {
+        "A": "Perfect competition",
+        "B": "Monopoly",
+        "C": "Monopolistic competition",
+        "D": "Oligopoly"
+      },
+      "vikalpa": {
+        "A": "पूर्ण प्रतियोगिता",
+        "B": "एकाधिकार",
+        "C": "एकाधिकारी प्रतियोगिता",
+        "D": "अल्पाधिकार"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Homogeneous product is a characteristic of",
+      "prashna": "समरूप उत्पाद विशेषता है",
+      "options": {
+        "A": "Only perfect competition",
+        "B": "Only perfect oligopoly",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "केवल पूर्ण प्रतियोगिता की",
+        "B": "केवल पूर्ण अल्पाधिकार की",
+        "C": "(A) और (B) दोनों की",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Demand curve of a firm is perfectly elastic under",
+      "prashna": "एक फर्म का माँग वक्र पूर्ण लोचदार होता है",
+      "options": {
+        "A": "Perfect competition",
+        "B": "Monopoly",
+        "C": "Monopolistic competition",
+        "D": "Oligopoly"
+      },
+      "vikalpa": {
+        "A": "पूर्ण प्रतियोगिता में",
+        "B": "एकाधिकार में",
+        "C": "एका आधिकारिक प्रतियोगिता में",
+        "D": "अल्पाधिकार में"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "A perfect competitive firm faces",
+      "prashna": "एक पूर्ण प्रतियोगी फर्म को किसका सामना करना पड़ता है?",
+      "options": {
+        "A": "Fixed Price",
+        "B": "Constant AR",
+        "C": "Constant MR",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "स्थिर कीमत",
+        "B": "स्थिर औसत आगम",
+        "C": "स्थिर सीमान्त आगम",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "AR is shown as",
+      "prashna": "AR प्रदर्शित किया जाता है।",
+      "options": {
+        "A": "$TR/Q$",
+        "B": "$ΔQ/P$",
+        "C": "$ΔTR/ΔQ$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$TR/Q$ से",
+        "B": "$ΔQ/P$ से",
+        "C": "$ΔTR/ΔQ$ से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In perfect competition, which of the following remains constant?",
+      "prashna": "पूर्ण प्रतियोगिता में क्या स्थिर रहता है?",
+      "options": {
+        "A": "AR",
+        "B": "MR",
+        "C": "Both AR and MR",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "AR",
+        "B": "MR",
+        "C": "AR तथा MR दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In every market situation which condition is necessary to be fulfilled for firm's equilibrium?",
+      "prashna": "प्रत्येक बाजार दशा में एक फर्म के सन्तुलन के लिए कौन-सी शर्त पूरी होनी आवश्यक है ?",
+      "options": {
+        "A": "$AR = MR$",
+        "B": "$MR = MC$",
+        "C": "MC curve should cut MR curve from below",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "$AR = MR$",
+        "B": "$MR = MC$",
+        "C": "MC वक्र MR वक्र को नीचे से काटे",
+        "D": "(B) और (C) दोनों"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In final equilibrium situation of firm",
+      "prashna": "फर्म की अन्तिम संतुलन दशा में",
+      "options": {
+        "A": "MC curve cuts MR from above",
+        "B": "MC curve cuts MR from below",
+        "C": "Both (A) and (B)",
+        "D": "All are false"
+      },
+      "vikalpa": {
+        "A": "MC वक्र MR को ऊपर से काटता है",
+        "B": "MC वक्र MR को नीचे से काटता है",
+        "C": "(A) और (B) दोनों",
+        "D": "सभी असत्य हैं"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which of the following is the reason of decrease in supply?",
+      "prashna": "पूर्ति में कमी के निम्नलिखित में कौन-से कारण हैं?",
+      "options": {
+        "A": "Increase in production cost",
+        "B": "Increase in price of substitute",
+        "C": "Fall in number of firms in the industry",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "उत्पादन लागत में वृद्धि",
+        "B": "स्थानापन्न वस्तुओं की कीमतों में वृद्धि",
+        "C": "उद्योग में फर्मों की संख्या में कमी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "With which of the following is supply associated?",
+      "prashna": "पूर्ति निम्नलिखित में से किससे जुड़ी होती है?",
+      "options": {
+        "A": "A time period",
+        "B": "Price",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "किसी समय की अवधि",
+        "B": "कीमत",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is called that quantity of a good, which a seller becomes ready to sell in the market at fixed price and particular time?",
+      "prashna": "वस्तु की उस मात्रा को क्या कहते हैं, जिसे विक्रेता बाजार में निश्चित समय तथा कीमत पर बेचने के लिए तैयार हो ?",
+      "options": {
+        "A": "Supply",
+        "B": "Elasticity of supply",
+        "C": "Elasticity demand",
+        "D": "Demand"
+      },
+      "vikalpa": {
+        "A": "पूर्ति",
+        "B": "पूर्ति की लोच",
+        "C": "माँग की लोच",
+        "D": "माँग"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "When the proportionate change in the supply of goods is more than the proportionate change in its price, the elasticity of supply will be",
+      "prashna": "जब किसी वस्तु की पूर्ति में आनुपातिक परिवर्तन उसकी कीमत में होने वाले आनुपातिक परिवर्तन से अधिक होता है, तो पूर्ति की लोच होगी",
+      "options": {
+        "A": "less than unit",
+        "B": "equal to unit",
+        "C": "greater than unit",
+        "D": "infinite"
+      },
+      "vikalpa": {
+        "A": "इकाई से कम",
+        "B": "इकाई के बराबर",
+        "C": "इकाई से अधिक",
+        "D": "अनन्त"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "$e_s = 0$ means that elasticity of supply is",
+      "prashna": "$e_s = 0$ का अर्थ है कि पूर्ति की लोच",
+      "options": {
+        "A": "Perfectly elastic",
+        "B": "Perfectly inelastic",
+        "C": "Less elastic",
+        "D": "unit elastic"
+      },
+      "vikalpa": {
+        "A": "पूर्णतः लोचदार है",
+        "B": "पूर्णतः बेलोचदार है",
+        "C": "कम लोचदार है",
+        "D": "इकाई लोचदार है।"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "When a firm is price taker?",
+      "prashna": "कब फर्म कीमत प्राप्तकर्ता होती है ?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is Break-even point?",
+      "prashna": "सम-विच्छेद बिन्दु क्या है ?"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is market supply?",
+      "prashna": "बाजार पूर्ति क्या है ?"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What do you mean by elasticity of supply?",
+      "prashna": "पूर्ति के लोच से आप क्या समझते हैं ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market $AR = MR$?",
+      "prashna": "किस बाजार में AR = MR होता है ?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Monopolistic Competition",
+        "C": "Perfect Competition",
+        "D": "Oligopoly"
+      },
+      "vikalpa": {
+        "A": "एकाधिकार",
+        "B": "एकाधिकारी प्रतियोगिता",
+        "C": "पूर्ण प्रतियोगिता",
+        "D": "अल्पाधिकार"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which condition must be satisfied for the equilibrium of a firm in every market condition?",
+      "prashna": "प्रत्येक बाजार दशा में एक फर्म के संतुलन के लिए कौन-सी शर्त पूरी होनी आवश्यक है?",
+      "options": {
+        "A": "$AR=MC$",
+        "B": "$MR=MC$",
+        "C": "MC curve cuts MR curve from below",
+        "D": "Both (b) and (c)"
+      },
+      "vikalpa": {
+        "A": "$AR=MC$",
+        "B": "$MR=MC$",
+        "C": "MC वक्र MR वक्र को नीचे से काटे",
+        "D": "(b) और (c) दोनों"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market is the price lower and production higher?",
+      "prashna": "निम्नांकित में से किस बाजार में मूल्य कम और उत्पादन अधिक होता है ?",
+      "options": {
+        "A": "Perfect Competition",
+        "B": "Oligopoly",
+        "C": "Monopoly",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पूर्ण प्रतियोगिता",
+        "B": "अल्पाधिकार",
+        "C": "एकाधिकार",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Homogeneous product is a feature of:",
+      "prashna": "समरूप उत्पाद विशेषता है।",
+      "options": {
+        "A": "Perfect Competition only",
+        "B": "Pure Oligopoly only",
+        "C": "Both (a) and (b)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "केवल पूर्ण प्रतियोगिता की",
+        "B": "केवल पूर्ण अल्पाधिकार की",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market is the demand curve of a firm perfectly elastic?",
+      "prashna": "किस बाजार में फर्म का माँग वक्र पूर्ण लोचदार होता है ?",
+      "options": {
+        "A": "Perfect Competition",
+        "B": "Monopoly",
+        "C": "Monopolistic Competition",
+        "D": "Oligopoly"
+      },
+      "vikalpa": {
+        "A": "पूर्ण प्रतियोगिता",
+        "B": "एकाधिकार",
+        "C": "एकाधिकारी प्रतियोगिता",
+        "D": "अल्पाधिकार"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Explain the characteristics of Perfect Competition.",
+      "prashna": "पूर्ण प्रतियोगिता की विशेषताओं की व्याख्या कीजिए।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is Break-even Point?",
+      "prashna": "सम-विच्छेद बिन्दु क्या है ?"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Explain Total Revenue, Average Revenue, and Marginal Revenue.",
+      "prashna": "कुल आगम, औसत आगम और सीमान्त आगम की व्याख्या कीजिए।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is Perfect Competition? State the features of Perfect Competition.",
+      "prashna": "पूर्ण प्रतियोगिता क्या है ? पूर्ण प्रतियोगिता की विशेषताएँ बताइए।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "When will the entry and exit of firms in the market stop ?",
+      "prashna": "फर्मों का बाजार में प्रवेश और बहिर्गमन कब रुकेगा ?",
+      "options": {
+        "A": "When firms are earning supernormal profit",
+        "B": "When the firms are earning normal profit",
+        "C": "When firms are experiencing loss",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जब फर्में अधि-सामान्य लाभ अर्जित कर रही हों",
+        "B": "जब फर्में सामान्य लाभ अर्जित कर रही हों",
+        "C": "जब फर्मों को हानि हो रही हो",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the market where both consumer and firms are price takers called ?",
+      "prashna": "ऐसा बाजार जिसमें उपभोक्ता और फर्म दोनों कीमत स्वीकारकर्ता हों, क्या कहलाता है ?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Perfect competition",
+        "C": "Oligopoly",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एकाधिकार",
+        "B": "पूर्ण प्रतिस्पर्द्धा",
+        "C": "अल्पाधिकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What do we mean by the word 'market' ?",
+      "prashna": "‘बाजार’ शब्द का आशय किससे है ?",
+      "options": {
+        "A": "Place like a square, local market etc.",
+        "B": "Means by which the buyer and seller are in touch with each other like phone",
+        "C": "Online shopping portal",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "स्थान से जैसे चौक, स्थानीय बाजार आदि",
+        "B": "माध्यम जिसके द्वारा क्रेता-विक्रेता संपर्क में हों जैसे फोन",
+        "C": "ऑनलाइन शॉपिंग पोर्टल",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Due to technological progress, in which direction will a firm's supply curve shift ?",
+      "prashna": "प्रौद्योगिकीय प्रगति से फर्म की पूर्ति वक्र किस ओर शिफ्ट करेगी ?",
+      "options": {
+        "A": "Leftward",
+        "B": "Rightward",
+        "C": "Upward",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बायीं ओर",
+        "B": "दाहिनी ओर",
+        "C": "ऊपर की ओर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the difference between firm's total revenue and total cost ?",
+      "prashna": "फर्म की कुल संप्राप्ति एवं कुल लागत का अंतर क्या है ?",
+      "options": {
+        "A": "Marginal cost",
+        "B": "Average variable cost",
+        "C": "Minimum average cost",
+        "D": "Profit"
+      },
+      "vikalpa": {
+        "A": "सीमांत लागत",
+        "B": "औसत परिवर्ती लागत",
+        "C": "न्यूनतम औसत लागत",
+        "D": "लाभ"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Why is perfectly competitive firm called price taker ?",
+      "prashna": "पूर्ण प्रतिस्पर्द्धी फर्म को कीमत स्वीकारक क्यों कहा जाता है ?"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Show the price line of a competitive firm with the help of diagram.",
+      "prashna": "किसी प्रतिस्पर्द्धी फर्म की कीमत रेखा को चित्र द्वारा दर्शायें।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Clarify profit maximization of a competitive firm with the help of diagram.",
+      "prashna": "एक प्रतिस्पर्द्धी फर्म के लाभ अधिकतमीकरण को चित्र द्वारा स्पष्ट करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "MR is shown as:",
+      "prashna": "MR प्रदर्शित किया जाता है",
+      "options": {
+        "A": "$\\frac{\\Delta TR}{\\Delta Q}$",
+        "B": "$\\frac{TR}{Q}$",
+        "C": "$\\frac{\\Delta AR}{Q}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\\frac{\\Delta TR}{\\Delta Q}$",
+        "B": "$\\frac{TR}{Q}$",
+        "C": "$\\frac{\\Delta AR}{Q}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market AR=MR?",
+      "prashna": "किस बाजार में $AR = MR$ होता है?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Monopolistic competition",
+        "C": "Both (A) and (B)",
+        "D": "Perfect Competition"
+      },
+      "vikalpa": {
+        "A": "एकाधिकार",
+        "B": "एकाधिकारी प्रतियोगिता",
+        "C": "(A) एवं (B) दोनों",
+        "D": "पूर्ण प्रतियोगिता"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which of the following statement is true?",
+      "prashna": "निम्नलिखित में कौन–सा कथन सही है?",
+      "options": {
+        "A": "AR and Price are same",
+        "B": "AR curve and Demand curve are Same.",
+        "C": "Both (A) and (B)",
+        "D": "None these"
+      },
+      "vikalpa": {
+        "A": "औसत आगम (AR) और कीमत एक है",
+        "B": "औसत आगम रेखा और माँग रेखा एक है",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "For a firm’s equilibrium:",
+      "prashna": "फर्म के संतुलन में होता है",
+      "options": {
+        "A": "MR=MC",
+        "B": "MR>MC",
+        "C": "MR<MC",
+        "D": "MR=MC=0"
+      },
+      "vikalpa": {
+        "A": "MR=MC",
+        "B": "MR>MC",
+        "C": "MR<MC",
+        "D": "MR=MC=0"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which is a method of producer’s equilibrium?",
+      "prashna": "उत्पादक संतुलन की निम्नलिखित में कौन सी रीतियाँ हैं?",
+      "options": {
+        "A": "TR and TC Method",
+        "B": "MR and MC Method",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कल आगम एवं कुल लागत रीति",
+        "B": "सीमान्त आगम एवं सीमान्त लागत रीति",
+        "C": "(A) एवं (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "A firm produces in the State of loss when:",
+      "prashna": "एक फर्म हानि की स्थिति में उत्पादन तब करती है जब",
+      "options": {
+        "A": "Price is greater than AC",
+        "B": "Price is equal to AC",
+        "C": "Price is more than AVC",
+        "D": "Price is less than AVC"
+      },
+      "vikalpa": {
+        "A": "मूल्य औसत लागत से अधिक हो",
+        "B": "मूल्य औसत लागत के बराबर हो",
+        "C": "मूल्य औसत परिवर्तनशील लागत से अधिक हो",
+        "D": "मूल्य औसत परिवर्तनशील लागत से कम हो"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Determining factor of Supply of goods is:",
+      "prashna": "वस्तु की पूर्ति के निर्धारक घटक है–",
+      "options": {
+        "A": "Price of goods",
+        "B": "Price of Related goods",
+        "C": "Price of Factors of Production",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "वस्तु की कीमत",
+        "B": "संबंधित वस्तुओं की कीमत",
+        "C": "उत्पादन साधनों की कीमत",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which type of relationship is found between quantity supplied of a goods and its price?",
+      "prashna": "किसी वस्तु की पूर्ति की मात्रा और उसकी कीमत के बीच किस प्रकार का सम्बन्ध पाया जाता है?",
+      "options": {
+        "A": "Inverse",
+        "B": "Direct",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "विलोम",
+        "B": "प्रत्यक्ष",
+        "C": "(A) एवं (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "If the price of goods rises by 60% but supply increases by only 5%, the supply of goods will be -",
+      "prashna": "यदि किसी वस्तु की कीमत में 60% की वृद्धि हो, परन्तु पूर्ति में केवल 5% की वृद्धि हो, ऐसी वस्तु की पूर्ति होगी:",
+      "options": {
+        "A": "Highly elastic",
+        "B": "Elastic",
+        "C": "Inelastic",
+        "D": "Perfectly Inelastic"
+      },
+      "vikalpa": {
+        "A": "अत्यधिक लोचदार",
+        "B": "लोचदार",
+        "C": "बेलोचदार",
+        "D": "पूर्णतः बेलोचदार"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which of the following is the characteristic of a market?",
+      "prashna": "बाजार की निम्नलिखित में कौन–सी विशेषता है?",
+      "options": {
+        "A": "One Area",
+        "B": "Presence of both buyers and sellers",
+        "C": "Single Price of the commodity",
+        "D": "All the above"
+      },
+      "vikalpa": {
+        "A": "एक क्षेत्र",
+        "B": "क्रेताओं एवं विक्रेताओं की उपस्थिति",
+        "C": "वस्तु का एक मूल्य",
+        "D": "उपर्युक्त सभी"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market demand curve of a firm is perfectly elastic?",
+      "prashna": "किस बाजार में फर्म की माँग वक्र पूर्ण लोचदार होता है?",
+      "options": {
+        "A": "Perfect competition",
+        "B": "Monopoly",
+        "C": "Monopolistic competition",
+        "D": "Oligopoly"
+      },
+      "vikalpa": {
+        "A": "पूर्ण प्रतियोगिता",
+        "B": "एकाधिकार",
+        "C": "एकाधिकारी प्रतियोगिता",
+        "D": "अल्पाधिकार"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Which of the following remains constant in perfect competition?",
+      "prashna": "पूर्ण प्रतियोगिता में क्या स्थिर रहता है?",
+      "options": {
+        "A": "AR",
+        "B": "MR",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "AR",
+        "B": "MR",
+        "C": "(A) एवं (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What types of goods do all firms produce in perfect competition market?",
+      "prashna": "पूर्ण प्रतियोगिता बाजार में सभी फर्में किस प्रकार की वस्तुओं का उत्पादन करती है?",
+      "options": {
+        "A": "Near replacement",
+        "B": "Homogeneous",
+        "C": "Differentiated",
+        "D": "Inferior"
+      },
+      "vikalpa": {
+        "A": "निकट प्रतिस्थापक",
+        "B": "समरूप",
+        "C": "विभेदीकृत",
+        "D": "घटिया"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "When does the Total revenue (TR) starts declining?",
+      "prashna": "कुल आगम कब घटना प्रारंभ कर देती है?"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the meaning of Firm’s Equilibrium?",
+      "prashna": "फर्म के संतुलन से क्या तात्पर्य है?"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "State the Law of Supply.",
+      "prashna": "पूर्ति का नियम बतायें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What does price elasticity of supply mean?",
+      "prashna": "पूर्ति की कीमत लोच का क्या अभिप्राय है?"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Write two features of perfect competition.",
+      "prashna": "पूर्ण प्रतियोगिता की दो विशेषता लिखें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Explain the methods of measuring elasticity of Supply.",
+      "prashna": "पूर्ति की लोच मापने की विधियाँ समझाए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which market are there many firms?",
+      "prashna": "किस बाजार में अनेक फर्में होती है?",
+      "options": {
+        "A": "Perfect competition",
+        "B": "Monopoly",
+        "C": "Oligopoly",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पूर्ण प्रतिस्पर्द्धा",
+        "B": "एकाधिकार",
+        "C": "अल्पाधिकार",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Average revenue = Marginal Revenue = ?",
+      "prashna": "औसत संप्राप्ति = सीमान्त संप्राप्ति = ?",
+      "options": {
+        "A": "$q$",
+        "B": "$p \\times q$",
+        "C": "$p \\div q$",
+        "D": "$p$"
+      },
+      "vikalpa": {
+        "A": "$q$",
+        "B": "$p \\times q$",
+        "C": "$p \\div q$",
+        "D": "$p$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the necessary condition for maximisation of profit of any firm?",
+      "prashna": "किसी भी फर्म के लाभ अधिकतमीकरण के लिए आवश्यक शर्त क्या है?",
+      "options": {
+        "A": "Marginal Cost = Marginal Revenue",
+        "B": "Marginal Cost = Market Price",
+        "C": "Average Cost = Average Revenue",
+        "D": "Only (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "सीमांत लागत = सीमांत आगम",
+        "B": "सीमांत लागत = बाजार कीमत",
+        "C": "औसत लागत = औसत आगम",
+        "D": "केवल (A) और (B)"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What will happen if the price in a perfectly competitive market falls below the minimum point of the average variable cost of the firm?",
+      "prashna": "यदि पूर्ण प्रतियोगिता बाजार में कीमत किसी फर्म के औसत परिवर्ती लागत के न्यूनतम बिन्दु से कम हो जाए तो क्या होगा?",
+      "options": {
+        "A": "The Firm will continue production.",
+        "B": "The Firm will stop production.",
+        "C": "The Firm will incur loss by producing.",
+        "D": "Only (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "फर्म उत्पादन जारी रखेगी",
+        "B": "फर्म उत्पादन बंद करेगी",
+        "C": "फर्म को उत्पादन करने से घाटा होगा",
+        "D": "केवल (B) और (C)"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the correct definition of normal profit?",
+      "prashna": "सामान्य लाभ की सही परिभाषा क्या है?",
+      "options": {
+        "A": "It is the opportunity cost of inputs",
+        "B": "It is minimum expected profit of the firm",
+        "C": "This is included in the calculation of total cost",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "यह आगतों का अवसर लागत है।",
+        "B": "यह फर्म का न्यूनतम अपेक्षित लाभ है।",
+        "C": "यह कुल लागत की गणना में शामिल होता है।",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which direction does the supply curve of a firm shift due to technological progress?",
+      "prashna": "प्रौद्योगिकी प्रगति से फर्म का पूर्ति वैक किस ओर गमन करता है?",
+      "options": {
+        "A": "Rightward",
+        "B": "Downward",
+        "C": "Leftward",
+        "D": "Only (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "दाहिनी ओर",
+        "B": "नीचे की ओर",
+        "C": "बायीं ओर",
+        "D": "केवल (A) और (B)"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What will be the value of price elasticity of supply $(e_s)$ of the supply curve point S?",
+      "prashna": "S बिन्दु पर पूर्ति वक्र की कीमत लोच $(e_s)$ का मान क्या है?",
+      "options": {
+        "A": "$e_s = 0$",
+        "B": "$e_s = 1$",
+        "C": "$e_s < 1$",
+        "D": "$e_s > 1$"
+      },
+      "vikalpa": {
+        "A": "$e_s = 0$",
+        "B": "$e_s = 1$",
+        "C": "$e_s < 1$",
+        "D": "$e_s > 1$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "In which of the following markets is a firm a price taker?",
+      "prashna": "इसमें से किस बाजार की फर्म कीमत स्वीकारक होती है?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Oligopoly",
+        "C": "Perfect competition",
+        "D": "Monopolistic competition"
+      },
+      "vikalpa": {
+        "A": "एकाधिकार",
+        "B": "अल्पाधिकार",
+        "C": "पूर्ण प्रतिस्पर्द्धा",
+        "D": "एकाधिकारी प्रतियोगिता"
+      }
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the definition of total revenue?",
+      "prashna": "कुल संप्राप्ति की क्या परिभाषा है?"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What does price elasticity of supply show?",
+      "prashna": "पूर्ति की कीमत लोच क्या दर्शाती है?"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "What is the average revenue of price taker firm?",
+      "prashna": "कीमत स्वीकारक फर्म की औसत संप्राप्ति क्या होती है?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "The Theory of the Firm under Perfect Competition",
+      "question": "Explain with diagram the Shutdown point of perfect competition firm.",
+      "prashna": "पूर्ण प्रतिस्पर्द्धा फर्म के उत्पादन बंदी बिन्दु की सचित्र व्याख्या करें।"
+    }
+  ]
+}
