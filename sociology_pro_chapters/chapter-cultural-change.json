@@ -1,0 +1,986 @@
+{
+  "2021": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "What is the result of modernization?",
+      "prashna": "आधुनिकीकरण का क्या परिणाम है?",
+      "options": {
+        "A": "Rise of new classes",
+        "B": "Increase in literacy",
+        "C": "Unemployment",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "नये वर्गों का उदय",
+        "B": "साक्षरता में वृद्धि",
+        "C": "बेरोजगारी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is not a process that brings change in the Indian cultural structure?",
+      "prashna": "निम्न में से कौन एक भारतीय सांस्कृतिक संरचना में परिवर्तन लाने वाली प्रक्रिया नहीं है?",
+      "options": {
+        "A": "Sanskritization",
+        "B": "Industrialization",
+        "C": "Westernization",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "संस्कृतीकरण",
+        "B": "औद्योगिकीकरण",
+        "C": "पश्चिमीकरण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "How is the speed of change in non-material culture?",
+      "prashna": "अभौतिक संस्कृति में परिवर्तन की गति कैसी होती है?",
+      "options": {
+        "A": "Slow",
+        "B": "Fast",
+        "C": "Both (a) and (b)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धीमी",
+        "B": "तीव्र",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who gave the concept of Sanskritization?",
+      "prashna": "संस्कृतीकरण की अवधारणा किसने दी ?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "M. N. Srinivas",
+        "C": "Hetukar Jha",
+        "D": "S. C. Dube"
+      },
+      "vikalpa": {
+        "A": "योगेन्द्र सिंह",
+        "B": "एम. एन. श्रीनिवास",
+        "C": "हेतुकर झा",
+        "D": "एस. सी. दुबे"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is not a social problem?",
+      "prashna": "निम्न में से कौन सामाजिक समस्या नहीं है ?",
+      "options": {
+        "A": "Child Labor",
+        "B": "Corruption",
+        "C": "Smuggling",
+        "D": "Modernization"
+      },
+      "vikalpa": {
+        "A": "बालश्रम",
+        "B": "भ्रष्टाचार",
+        "C": "तस्करी",
+        "D": "आधुनिकीकरण"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who called Sanskritization a process of anticipatory socialization?",
+      "prashna": "किसने संस्कृतीकरण को प्रत्याशित समाजीकरण की प्रक्रिया कहा ?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "S. C. Dube",
+        "C": "K. Davis",
+        "D": "C. H. Cooley"
+      },
+      "vikalpa": {
+        "A": "योगेन्द्र सिंह",
+        "B": "एस. सी. दूबे",
+        "C": "के. डेविस",
+        "D": "सी. एच. कूले"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Define the process of Westernization.",
+      "prashna": "पश्चिमीकरण की प्रक्रिया को परिभाषित करें।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Describe three features of Sanskritization.",
+      "prashna": "संस्कृतीकरण की तीन विशेषताओं का वर्णन करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "When did the trend of modernization start in the world?",
+      "prashna": "विश्व में आधुनिकीकरण की प्रवृत्ति कब प्रारम्भ हुई ?",
+      "options": {
+        "A": "16th Century",
+        "B": "17th Century",
+        "C": "18th Century",
+        "D": "15th Century"
+      },
+      "vikalpa": {
+        "A": "16वीं शताब्दी",
+        "B": "17वीं शताब्दी",
+        "C": "18वीं शताब्दी",
+        "D": "15वीं शताब्दी"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is a rational explanation of religion?",
+      "prashna": "निम्न में से कौन धर्म की तार्किक व्याख्या है?",
+      "options": {
+        "A": "Sanskritization",
+        "B": "Secularization",
+        "C": "Westernization",
+        "D": "Modernization"
+      },
+      "vikalpa": {
+        "A": "संस्कृतिकरण",
+        "B": "लौकिकीकरण",
+        "C": "पश्चिमीकरण",
+        "D": "आधुनिकीकरण"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is not a characteristic of modernization?",
+      "prashna": "निम्न में से कौन आधुनिकीकरण की विशेषता नहीं है ?",
+      "options": {
+        "A": "Development of Democratic Values",
+        "B": "Importance of Tradition",
+        "C": "Development of Science and Technology",
+        "D": "Social Mobility"
+      },
+      "vikalpa": {
+        "A": "लोकतांत्रिक मूल्यों का विकास",
+        "B": "परम्परा का महत्व",
+        "C": "विज्ञान एवं प्रौद्योगिकी का विकास",
+        "D": "सामाजिक गतिशीलता"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "In which year was the Widow Remarriage Act passed?",
+      "prashna": "विधवा पुनर्विवाह अधिनियम किस वर्ष पारित हुआ ?",
+      "options": {
+        "A": "1856",
+        "B": "1956",
+        "C": "1961",
+        "D": "1975"
+      },
+      "vikalpa": {
+        "A": "1856",
+        "B": "1956",
+        "C": "1961",
+        "D": "1975"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which is a process in which people of low Hindu caste change their customs in the context of high caste people?",
+      "prashna": "कौन एक ऐसी प्रक्रिया है जिसमें निम्न हिन्दू जाति के लोग उच्च जाति के लोगों के संदर्भ में अपनी प्रथाओं का परिवर्तित करते हैं ?",
+      "options": {
+        "A": "Sanskritization",
+        "B": "Modernization",
+        "C": "Westernization",
+        "D": "Secularization"
+      },
+      "vikalpa": {
+        "A": "संस्कृतिकरण",
+        "B": "आधुनिकीकरण",
+        "C": "पश्चिमीकरण",
+        "D": "धर्मनिरपेक्षीकरण"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who propounded the theory of Cultural Lag?",
+      "prashna": "सांस्कृतिक विलम्बन का सिद्धान्त किसने प्रतिपादित किया ?",
+      "options": {
+        "A": "Bierstedt",
+        "B": "Ogburn",
+        "C": "Tylor",
+        "D": "Kroeber"
+      },
+      "vikalpa": {
+        "A": "बियरस्टिड",
+        "B": "ऑगबर्न",
+        "C": "टायलर",
+        "D": "क्रोबर"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who said, \"The study of its traditions is essential to understand the change in Indian society\"?",
+      "prashna": "किसने कहा, \"भारतीय समाज में परिवर्तन को समझने के लिए इसकी परम्पराओं का अध्ययन अनिवार्य है\"",
+      "options": {
+        "A": "G. S. Ghurye",
+        "B": "Dr. P. Mukerji",
+        "C": "N. K. Bose",
+        "D": "Radhakamal Mukerjee"
+      },
+      "vikalpa": {
+        "A": "जी. एस. घुरिये",
+        "B": "डॉ. पी. मुखर्जी",
+        "C": "एन.के .बोस",
+        "D": "राधाकमल मुखर्जी"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "In which year did Srinivas propound the concept of Westernization?",
+      "prashna": "पश्चिमीकरण की अवधारणा श्रीनिवास ने किस वर्ष प्रतिपादित किया ?",
+      "options": {
+        "A": "1947",
+        "B": "1952",
+        "C": "1957",
+        "D": "1962"
+      },
+      "vikalpa": {
+        "A": "1947",
+        "B": "1952",
+        "C": "1957",
+        "D": "1962"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "What do you understand by secularization?",
+      "prashna": "लौकिकीकरण से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Write two definitions of modernization.",
+      "prashna": "आधुनिकीकरण को दो परिभाषा लिखें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Mention two effects of Western culture on Indian culture.",
+      "prashna": "भारतीय संस्कृति पर पश्चिमीकरण संस्कृति के दो प्रभावों का उल्लेख करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Discuss the concept and characteristics of Westernization.",
+      "prashna": "पश्चिमीकरण की अवधारणा एवं विशेषताओं की विवेचना करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Social change is linked with:",
+      "prashna": "सामाजिक परिवर्तन जुड़ा हुआ है।",
+      "options": {
+        "A": "Normative system",
+        "B": "Cultural system",
+        "C": "Belief system",
+        "D": "Value system"
+      },
+      "vikalpa": {
+        "A": "प्रतिमान व्यवस्था से",
+        "B": "सांस्कृतिक व्यवस्था से",
+        "C": "विश्वास व्यवस्था से",
+        "D": "मूल्य व्यवस्था"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who has defined modernization on the basis of Power, Youth, Skills and Rationality?",
+      "prashna": "शक्ति, युवा, निपुणता तथा तार्किकता के आधार पर आधुनिकीकरण को किसने परिभाषित किया है ?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "Lerner",
+        "C": "S. C. Dube",
+        "D": "Hetukar Jha"
+      },
+      "vikalpa": {
+        "A": "योगेन्द्र सिंह",
+        "B": "लर्नर",
+        "C": "एस. सी. दूबे",
+        "D": "हेतुकर झा"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "By studying which people did Srinivas develop the concept of Sanskritization?",
+      "prashna": "किन लोगों का अध्ययन कर श्रीनिवास में संस्कृतिकरण की अवधारणा विकसित किया?",
+      "options": {
+        "A": "Mullu",
+        "B": "Nayar",
+        "C": "Lingayat",
+        "D": "Coorg"
+      },
+      "vikalpa": {
+        "A": "मल्लु",
+        "B": "नायर",
+        "C": "लिंगायत",
+        "D": "कुर्ग"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is not a form of social change?",
+      "prashna": "निम्न में से कौन सामाजिक परिवर्तन का स्वरूप नहीं है ?",
+      "options": {
+        "A": "Development",
+        "B": "Progress",
+        "C": "Evolution",
+        "D": "Unemployment"
+      },
+      "vikalpa": {
+        "A": "विकास",
+        "B": "प्रगति",
+        "C": "उद्विकास",
+        "D": "बेरोजगारी"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "What is the consequence of modernization?",
+      "prashna": "आधुनिकीकरण का क्या परिणाम है ?",
+      "options": {
+        "A": "Rise of new classes",
+        "B": "Illiteracy",
+        "C": "Unemployment",
+        "D": "Caste conflict"
+      },
+      "vikalpa": {
+        "A": "नये वर्गों का उदय",
+        "B": "निरक्षरता",
+        "C": "बेरोजगारी",
+        "D": "जाति संघर्ष"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is not a process that brings change in Indian cultural structure?",
+      "prashna": "निम्न में से कौन एक भारतीय सांस्कृतिक संरचना में परिवर्तन लाने वाली प्रक्रिया नहीं है ?",
+      "options": {
+        "A": "Sanskritization",
+        "B": "Industrialization",
+        "C": "Westernization",
+        "D": "Secularization"
+      },
+      "vikalpa": {
+        "A": "संस्कृतिकरण",
+        "B": "औद्योगीकरण",
+        "C": "पश्चिमीकरण",
+        "D": "लौकिकीकरण"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who called Sanskritization a process of anticipatory socialization?",
+      "prashna": "किसने संस्कृतिकरण को प्रत्याशित समाजीकरण की प्रक्रिया कहा ?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "S. C. Dube",
+        "C": "K. Davis",
+        "D": "C. H. Cooley"
+      },
+      "vikalpa": {
+        "A": "योगेन्द्र सिंह",
+        "B": "एस. सी. दूबे",
+        "C": "के. डेविस",
+        "D": "सी. एच. कूले"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who first raised their voice against the Sati system in India?",
+      "prashna": "भारत में किसने सर्वप्रथम सती प्रथा के विरुद्ध आवाज उठाई थी ?",
+      "options": {
+        "A": "Ishwar Chandra Vidyasagar",
+        "B": "Mahatma Gandhi",
+        "C": "Raja Rammohan Roy",
+        "D": "Annie Besant"
+      },
+      "vikalpa": {
+        "A": "ईश्वरचन्द्र विद्यासागर",
+        "B": "महात्मा गाँधी",
+        "C": "राजा राममोहन राय",
+        "D": "ऐनी बेसेन्ट"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Mention two causes of social change.",
+      "prashna": "सामाजिक परिवर्तन के दो कारणों का उल्लेख करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who wrote the book ‘Social Change’?",
+      "prashna": "‘सोशल चेंज’ नामक पुस्तक किसके द्वारा लिखी गई है ?",
+      "options": {
+        "A": "Ogburn",
+        "B": "Sorokin",
+        "C": "Spencer",
+        "D": "Max Weber"
+      },
+      "vikalpa": {
+        "A": "ऑगबर्न",
+        "B": "सोरोकिन",
+        "C": "स्पेंसर",
+        "D": "मैक्स वेबर"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "What is the result of modernization ?",
+      "prashna": "आधुनिकीकरण का क्या परिणाम है ?",
+      "options": {
+        "A": "Emergence of new classes",
+        "B": "Industrialization",
+        "C": "Unemployment",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "नये वर्गों का उदय",
+        "B": "औद्योगिकीकरण",
+        "C": "बेरोजगारी",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which one of the following is not a process to bring about change in Indian cultural structure ?",
+      "prashna": "निम्न में से कौन एक भारतीय सांस्कृतिक संरचना में परिवर्तन लाने वाली प्रक्रिया नहीं है ?",
+      "options": {
+        "A": "Sanskritization",
+        "B": "Industrialization",
+        "C": "Westernization",
+        "D": "Secularization"
+      },
+      "vikalpa": {
+        "A": "संस्कृतिकरण",
+        "B": "औद्योगिकीकरण",
+        "C": "पश्चिमीकरण",
+        "D": "लौकिकीकरण"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who has called Sanskritization as anticipatory Socialization ?",
+      "prashna": "किसने संस्कृतीकरण को प्रत्याशित समाजीकरण की प्रक्रिया कहा ?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "S. C. Dube",
+        "C": "K. Davis",
+        "D": "C. H. Cooley"
+      },
+      "vikalpa": {
+        "A": "योगेन्द्र सिंह",
+        "B": "एस. सी. दूबे",
+        "C": "के. डेविस",
+        "D": "सी. एच. कूले"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "The concept of Sanskritization is closely related to which of the following ?",
+      "prashna": "संस्कृतिकरण की अवधारणा निम्न में से किससे घनिष्ठ रूप से संबंधित है ?",
+      "options": {
+        "A": "Reference group",
+        "B": "Primary group",
+        "C": "Interest group",
+        "D": "Tertiary group"
+      },
+      "vikalpa": {
+        "A": "संदर्भ समूह",
+        "B": "प्राथमिक समूह",
+        "C": "हित समूह",
+        "D": "तृतीयक समूह"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who among the following is associated with the cyclical theory of social change ?",
+      "prashna": "निम्न में से कौन सामाजिक परिवर्तन के चक्रीय सिद्धांत से जुड़े हैं ?",
+      "options": {
+        "A": "Sorokin",
+        "B": "Hobhouse",
+        "C": "Parsons",
+        "D": "Merton"
+      },
+      "vikalpa": {
+        "A": "सोरोकिन",
+        "B": "हॉबहाउस",
+        "C": "पारसन्स",
+        "D": "मर्टन"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who has analyzed social change on the basis of little and great tradition ?",
+      "prashna": "लघु एवं वृहद परम्परा के आधार पर किन्होंने सामाजिक परिवर्तन को विश्लेषित किया ?",
+      "options": {
+        "A": "M. N. Srinivas",
+        "B": "Robert Redfield",
+        "C": "S. C. Dube",
+        "D": "Hetukar Jha"
+      },
+      "vikalpa": {
+        "A": "एम. एन. श्रीनिवास",
+        "B": "राबर्ट रेडफिल्ड",
+        "C": "एस. सी. दूबे",
+        "D": "हेतुकर झा"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who propounded the concept of Sanskritization ?",
+      "prashna": "संस्कृतिकरण की अवधारणा किसने दी ?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "M. N. Srinivas",
+        "C": "Hetukar Jha",
+        "D": "S. C. Dube"
+      },
+      "vikalpa": {
+        "A": "योगेन्द्र सिंह",
+        "B": "एम. एन. श्रीनिवास",
+        "C": "हेतुकर झा",
+        "D": "एस. सी. दूबे"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which among the following is not a social problem ?",
+      "prashna": "निम्न में से कौन सामाजिक समस्या नहीं है ?",
+      "options": {
+        "A": "Child labour",
+        "B": "Corruption",
+        "C": "Trafficking",
+        "D": "Modernization"
+      },
+      "vikalpa": {
+        "A": "बालश्रम",
+        "B": "भ्रष्टाचार",
+        "C": "तस्करी",
+        "D": "आधुनिकीकरण"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "What is Bhakti movement ?",
+      "prashna": "भक्ति आन्दोलन क्या है ?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Define the process of westernization.",
+      "prashna": "पश्चिमीकरण की प्रक्रिया को परिभाषित करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Describe three characteristics of Sanskritization.",
+      "prashna": "संस्कृतिकरण की तीन विशेषताओं का वर्णन करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who developed the concept of westernization?",
+      "prashna": "पश्चिमीकरण की अवधारणा किसने विकसित की?",
+      "options": {
+        "A": "A. R. Desai",
+        "B": "S. C. Dube",
+        "C": "M. N. Srinivas",
+        "D": "G. S. Ghurye"
+      },
+      "vikalpa": {
+        "A": "ए.आर.देसाई",
+        "B": "एस.सी. दुबे",
+        "C": "एम.एन. श्रीनिवास",
+        "D": "जी.एस. घुरिये"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who is the author of the book “The Consequences of Modernity”?",
+      "prashna": "“द कॉन्सिक्वेन्सेस ऑफ मॉडर्निटी” पुस्तक के लेखक कौन हैं?",
+      "options": {
+        "A": "Yogendra Singh",
+        "B": "Bergal",
+        "C": "Giddens",
+        "D": "Marton"
+      },
+      "vikalpa": {
+        "A": "योगेंद्र सिंह",
+        "B": "बर्गेल",
+        "C": "गिडेन्स",
+        "D": "मर्टन"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who was the first to raise voice against sati Pratha in India?",
+      "prashna": "भारत में सती किसने सर्वप्रथम सती प्रथा के विरुद्ध आवाज उठाई?",
+      "options": {
+        "A": "Ishwarchandra Vidyasagar",
+        "B": "Mahatma Gandhi",
+        "C": "Raja Ram Mohan Roy",
+        "D": "Annie Besant"
+      },
+      "vikalpa": {
+        "A": "ईश्वरचंद्र विद्यासागर",
+        "B": "महात्मा गाँधी",
+        "C": "राजा राम मोहन राय",
+        "D": "ऐनी बेसेंट"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "In which year the child Marriage Restraint Act was implemented?",
+      "prashna": "बाल विवाह निरोधक अधिनियम किस वर्ष लागू किया गया था?",
+      "options": {
+        "A": "1910",
+        "B": "1929",
+        "C": "1925",
+        "D": "1939"
+      },
+      "vikalpa": {
+        "A": "1910",
+        "B": "1929",
+        "C": "1925",
+        "D": "1939"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "While studying a society Srinivas has given the concept of sanskritization on the basis of study of which state?",
+      "prashna": "एक समाज का अध्ययन करते समय श्रीनिवास ने किस राज्य के अध्ययन के आधार पर संस्कृतिकरण की अवधारणा दी है?",
+      "options": {
+        "A": "Karnataka",
+        "B": "Kerala",
+        "C": "TamilNadu",
+        "D": "Bihar"
+      },
+      "vikalpa": {
+        "A": "कर्नाटक",
+        "B": "केरल",
+        "C": "तमिलनाडू",
+        "D": "बिहार"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which one of the following statements about sanskritijation is correct?",
+      "prashna": "निम्न में से कौन वाक्यांश संस्कृतिकरण के लिए सत्य है?",
+      "options": {
+        "A": "It is a process of structural change",
+        "B": "It started with the advent of British rule in India",
+        "C": "It is an exogenous source of change",
+        "D": "It is a process of positional change"
+      },
+      "vikalpa": {
+        "A": "यह संरचनात्मक परिवर्तन की प्रक्रिया है।",
+        "B": "इसकी शुरुआत ब्रिटिश शासनकाल में हुई।",
+        "C": "यह समाजिक परिवर्तन का बहिर्जात स्रोत है।",
+        "D": "यह स्थिति परिवर्तन की एक प्रक्रिया है।"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who founded ‘Prarthna Samaj’?",
+      "prashna": "‘प्रार्थना समाज’ की स्थापना किसने की?",
+      "options": {
+        "A": "Ram G. Ranade",
+        "B": "Bhandarkar",
+        "C": "Both (A) and (B)",
+        "D": "None of the two"
+      },
+      "vikalpa": {
+        "A": "राम जी. रानाडे",
+        "B": "भंडारकर",
+        "C": "(A) और (B) दोनों",
+        "D": "दोनों में से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "What is the consequence of modernization?",
+      "prashna": "आधुनिकीकरण का परिणाम क्या है?",
+      "options": {
+        "A": "Emergence of new classes",
+        "B": "Growth in literacy",
+        "C": "Unemployment",
+        "D": "All of the above"
+      },
+      "vikalpa": {
+        "A": "नए वर्गों का उदय",
+        "B": "साक्षरता में वृद्धि",
+        "C": "बेरोजगारी",
+        "D": "उपरोक्त सभी"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Who said \"Culture is a man made part of environment\" ?",
+      "prashna": "किन्होंने कहा \"संस्कृति पर्यावरण का मानव निर्मित भाग हैं\" ?",
+      "options": {
+        "A": "Herskovits",
+        "B": "Maciver and Page",
+        "C": "Tylor",
+        "D": "Kroeber"
+      },
+      "vikalpa": {
+        "A": "हर्षकोविट्स",
+        "B": "मेकाइवर एवं पेज",
+        "C": "टायलर",
+        "D": "क्रोबर"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Sanskritization refers to :",
+      "prashna": "संस्कृतिकरण बोध कराता है",
+      "options": {
+        "A": "Adoption of Trival Custom by Upper Castes",
+        "B": "Adopation of Upper Caste Custom by Lower Caste",
+        "C": "Conversion to Sanskrit Knowledge",
+        "D": "Migration from Village to City"
+      },
+      "vikalpa": {
+        "A": "उच्च जातियो द्वारा जनजातिय प्रजाओं को अपनाना",
+        "B": "निम्न जातियो द्वारा उच्च जाति की प्रजाओं को अपनाना",
+        "C": "संस्कृत भाषा को अपनाना",
+        "D": "गाँव से नगर की ओर प्रवजन करना"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which Classical Dance originats from Kerla?",
+      "prashna": "किस शास्त्रीय नृत्य की उत्पत्ति केरल से हुई ?",
+      "options": {
+        "A": "Kathak",
+        "B": "Kathakali",
+        "C": "Odissi",
+        "D": "Manipuri"
+      },
+      "vikalpa": {
+        "A": "कथक",
+        "B": "कथकली",
+        "C": "ओड़ीसी",
+        "D": "मणिपूरी"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which River is considered most sacred in Hindu Culture?",
+      "prashna": "हिन्दु संस्कृति में किस नदी को सबसे पवित्र माना जाता है ?",
+      "options": {
+        "A": "Yamuna",
+        "B": "Narmada",
+        "C": "Ganga",
+        "D": "Godavari"
+      },
+      "vikalpa": {
+        "A": "यमुना",
+        "B": "नर्मदा",
+        "C": "गंगा",
+        "D": "गोदावरी"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is not a features of Indian Culture ?",
+      "prashna": "निम्न में कोन भारतीय संस्कृति की विशेषता नही है ?",
+      "options": {
+        "A": "Continuity and Change",
+        "B": "Materialism only",
+        "C": "Unity in diversity",
+        "D": "Spirctual Orientation"
+      },
+      "vikalpa": {
+        "A": "निरंतरता एवं परिवर्तन",
+        "B": "सिर्फ भौतिक वाद",
+        "C": "विविधता में एकता",
+        "D": "अध्यात्मिक उन्मुखीकरण"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "Which of the following is an example of Social Reform movement in India?",
+      "prashna": "निम्न में कौन भारत में सुधार आंदोलन का उदाहरण है ?",
+      "options": {
+        "A": "Non-Cooperation Movement",
+        "B": "Arya Samaj",
+        "C": "Quit India Movement",
+        "D": "Swadeshi Movement"
+      },
+      "vikalpa": {
+        "A": "असहयोग आंदोलन",
+        "B": "आर्य समाज",
+        "C": "भारत छोड़ो आंदोलन",
+        "D": "स्वदेशी आंदोलन"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Cultural Change",
+      "question": "The Concept of Westernization primirly focus on which of the following?",
+      "prashna": "पश्चिमीकरण की अवधारणा मूल रूप से किस पर केन्द्रित है?",
+      "options": {
+        "A": "Political Independence",
+        "B": "Economic Reforms",
+        "C": "Cultural Change",
+        "D": "Religious Conversion"
+      },
+      "vikalpa": {
+        "A": "राजनीतिक स्वतंत्रता",
+        "B": "आर्थिक सुधार",
+        "C": "सांस्कृतिक परिवर्तन",
+        "D": "धर्मांतरण"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Mention two characteristics of Indian Culture?",
+      "prashna": "भारतीय संस्कृति की दो विशेषताओं का उल्लेख करें?"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "What is Cultural lag?",
+      "prashna": "सांस्कृतिक विलम्बना क्या हैं?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Classify two elements of non- material culture of Indian Culture?",
+      "prashna": "भारतीय संस्कृति के दो भौतिक तत्वों को स्पष्ट करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "Cultural Change",
+      "question": "Write an essay on Sanskritisation?",
+      "prashna": "संस्कृतिकरण पर एक निबंध लिखें ?"
+    }
+  ]
+}
