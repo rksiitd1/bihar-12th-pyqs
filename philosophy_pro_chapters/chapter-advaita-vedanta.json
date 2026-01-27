@@ -1,0 +1,718 @@
+{
+  "2021": [
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara, who is the absolute conscious reality?",
+      "prashna": "शंकर के अनुसार निरपेक्षतः चेतन कौन सत्ता है?",
+      "options": {
+        "A": "World (Jagat)",
+        "B": "Individual Soul (Jivatman)",
+        "C": "Body",
+        "D": "Brahman"
+      },
+      "vikalpa": {
+        "A": "जगत्",
+        "B": "जीवात्मा",
+        "C": "शरीर",
+        "D": "ब्रह्म"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What has Shankara called the nature of existence of a dream?",
+      "prashna": "शंकर ने स्वप्न के अस्तित्व के स्वरूप को क्या कहा है ?",
+      "options": {
+        "A": "Apparent existence (Pratibhasika)",
+        "B": "Empirical existence (Vyavaharika)",
+        "C": "Ultimate existence (Paramarthika)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिभाषिक सत्ता",
+        "B": "व्यावहारिक सत्ता",
+        "C": "पारमार्थिक सत्ता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara, what is the soul liberated from the body?",
+      "prashna": "शंकर के अनुसार शरीर से मुक्त आत्मा क्या है ?",
+      "options": {
+        "A": "Jiva",
+        "B": "Maya",
+        "C": "Brahman",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जीव",
+        "B": "माया",
+        "C": "ब्रह्म",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara, what is Maya?",
+      "prashna": "शंकर के अनुसार माया क्या है ?",
+      "options": {
+        "A": "Brahman",
+        "B": "Power of Brahman",
+        "C": "Imaginary reality",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ब्रह्म",
+        "B": "ब्रह्म की शक्ति",
+        "C": "कल्पनात्मक सत्ता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "In Advaita Vedanta, the world is:",
+      "prashna": "अद्वैत वेदान्त में जगत् है",
+      "options": {
+        "A": "Absolutely true",
+        "B": "Absolutely false",
+        "C": "Mithya (Illusion)",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पूर्णतः सत्य",
+        "B": "पूर्णतः असत्य",
+        "C": "मिथ्या",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the name of that power of Maya which hides the reality of Brahman?",
+      "prashna": "माया की उस शक्ति का क्या नाम है जो ब्रह्म की सत्ता को छिपा लेता है ?",
+      "options": {
+        "A": "Prajna",
+        "B": "Samadhi",
+        "C": "Avarana (Concealment)",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "प्रज्ञा",
+        "B": "समाधि",
+        "C": "आवरण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "On which text is Shankara's Advaita Vedanta philosophy based?",
+      "prashna": "शंकर के अद्वैत वेदान्त का दर्शन किस ग्रंथ पर आधारित है ?",
+      "options": {
+        "A": "Ramayana",
+        "B": "Mahabharata",
+        "C": "Puranas",
+        "D": "Upanishads"
+      },
+      "vikalpa": {
+        "A": "रामायण",
+        "B": "महाभारत",
+        "C": "पुराण",
+        "D": "उपनिषद्"
+      }
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Describe Shankara's concept of the Self (Atman).",
+      "prashna": "शंकर के आत्म विचार का वर्णन करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the Supreme Soul limited by the adjuncts of body and mind?",
+      "prashna": "शरीर और मन उपाधियों से सीमित परमात्मा क्या है ?",
+      "options": {
+        "A": "Maya",
+        "B": "Jivatma",
+        "C": "Brahma",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "माया",
+        "B": "जीवात्मा",
+        "C": "ब्रह्मा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the empirical reality in Shankara's philosophy?",
+      "prashna": "शंकर के दर्शन में व्यावहारिक सत्ता क्या है ?",
+      "options": {
+        "A": "Nirguna Ishvara",
+        "B": "Brahma",
+        "C": "Jagat (World)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "निर्गुण ईश्वर",
+        "B": "ब्रह्म",
+        "C": "जगत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Which philosophy did Shankaracharya propound?",
+      "prashna": "शंकराचार्य ने किस दर्शन को प्रतिपादित किया है ?",
+      "options": {
+        "A": "Dvaitavada",
+        "B": "Vishishtadvaitavada",
+        "C": "Bhedabhedavada",
+        "D": "Advaitavada"
+      },
+      "vikalpa": {
+        "A": "द्वैतवाद",
+        "B": "विशिष्टाद्वैतवाद",
+        "C": "भेदाभेदवाद",
+        "D": "अद्वैतवाद"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Advaitavada, what is the only reality?",
+      "prashna": "अद्वैतवाद के अनुसार वह एकमात्र तत्व क्या है ?",
+      "options": {
+        "A": "Parabrahma",
+        "B": "Nirguna Brahma",
+        "C": "Brahma",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "परब्रह्म",
+        "B": "निर्गुण ब्रह्म",
+        "C": "ब्रह्म",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Advaitavada, who creates the universe?",
+      "prashna": "अद्वैतवाद के अनुसार विश्व की सृष्टि कौन करता है ?",
+      "options": {
+        "A": "Apara Brahma",
+        "B": "Ishvara",
+        "C": "Saguna Brahma",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अपर ब्रह्म",
+        "B": "ईश्वर",
+        "C": "सगुण ब्रह्म",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "In the context of the ultimate reality, which metaphysics does Advaita Vedanta adopt?",
+      "prashna": "मूल तत्व के संदर्भ में अद्वैत वेदान्त किस तत्व मीमांसा को अपनाता है ?",
+      "options": {
+        "A": "Pure Monism",
+        "B": "Dualism",
+        "C": "Qualified Monism",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "शुद्ध एकवाद",
+        "B": "द्वैतवाद",
+        "C": "विशिष्ट द्वैतवाद",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is at the root of Advaita Vedanta?",
+      "prashna": "अद्वैत वेदान्त के मूल में क्या है ?",
+      "options": {
+        "A": "Yoga Vidya",
+        "B": "Brahma Vidya",
+        "C": "Jagat Vidya",
+        "D": "Maya Vidya"
+      },
+      "vikalpa": {
+        "A": "योग विद्या",
+        "B": "ब्रह्म विद्या",
+        "C": "जगत विद्या",
+        "D": "माया विद्या"
+      }
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Explain Shankara's theory of 'Vivartavada' in the context of the relationship between Brahma and the world.",
+      "prashna": "ब्रह्म और जगत् के संबंध के संदर्भ में शंकर के विवर्तवाद के सिद्धान्त की व्याख्या करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Advaita Vedanta, the world is:",
+      "prashna": "अद्वैत वेदान्त के अनुसार जगत है।",
+      "options": {
+        "A": "Ultimate Reality (Paramarthika Satta)",
+        "B": "Empirical Reality (Vyavaharika Satta)",
+        "C": "Apparent Reality (Pratibhasika Satta)",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पारमार्थिक सत्ता",
+        "B": "व्यावहारिक सत्ता",
+        "C": "प्रातिभासिक सत्ता",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Which of the following is not a branch of Vedanta?",
+      "prashna": "निम्न में से कौन-सी वेदान्त की शाखा नहीं है ?",
+      "options": {
+        "A": "Advaita",
+        "B": "Vishishtadvaita",
+        "C": "Dvaitavada",
+        "D": "Kshanikavada"
+      },
+      "vikalpa": {
+        "A": "अद्वैत",
+        "B": "विशिष्टाद्वैत",
+        "C": "द्वैतवाद",
+        "D": "क्षणिकवाद"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara, who is the absolute conscious reality?",
+      "prashna": "शंकर के अनुसार निरपेक्षतः चेतन सत्ता कौन है ?",
+      "options": {
+        "A": "Brahman",
+        "B": "God",
+        "C": "Jivatma",
+        "D": "World"
+      },
+      "vikalpa": {
+        "A": "ब्रह्म",
+        "B": "ईश्वर",
+        "C": "जीवात्मा",
+        "D": "जगत्"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara's philosophy, what is the Ultimate Reality (Paramarthika Satta)?",
+      "prashna": "शंकर ने दर्शन के अनुसार पारमार्थिक सत्ता क्या है ?",
+      "options": {
+        "A": "Brahman",
+        "B": "World",
+        "C": "God",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ब्रह्म",
+        "B": "जगत्",
+        "C": "ईश्वर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Which philosophy did Ramanujacharya propound?",
+      "prashna": "रामानुजाचार्य ने किस दर्शन को प्रतिपादित किया है ?",
+      "options": {
+        "A": "Advaitavada",
+        "B": "Vishishtadvaitavada",
+        "C": "Dvaitavada",
+        "D": "Bhedabhedavada"
+      },
+      "vikalpa": {
+        "A": "अद्वैतवाद",
+        "B": "विशिष्टाद्वैतवाद",
+        "C": "द्वैतवाद",
+        "D": "भेदाभेदवाद"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara, Brahman is:",
+      "prashna": "शंकर के अनुसार ब्रह्म हैं",
+      "options": {
+        "A": "Sat",
+        "B": "Chit",
+        "C": "Ananda",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सत्",
+        "B": "चित्",
+        "C": "आनन्द",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Who is the founder of Advaita Vedanta?",
+      "prashna": "अद्वैत वेदान्त के प्रवर्तक कौन है?",
+      "options": {
+        "A": "Shankara",
+        "B": "Ramanuja",
+        "C": "Nimbarka",
+        "D": "Madhva"
+      },
+      "vikalpa": {
+        "A": "शंकर",
+        "B": "रामानुज",
+        "C": "निम्बार्क",
+        "D": "मध्व"
+      }
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Is the world unreal according to Shankara?",
+      "prashna": "क्या शंकर के अनुसार जगत् असत्य है ?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Why is Shankara's philosophy called Advaitavada?",
+      "prashna": "शंकर का दर्शन अद्वैतवाद क्यों कहा जाता है ?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Discuss the nature of Brahman according to Shankara.",
+      "prashna": "शंकर के अनुसार ब्रह्म के स्वरूप की विवेचना करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara which one of the following is the only reality ?",
+      "prashna": "शंकर के अनुसार निम्नलिखित में से कौन एकमात्र सत् है ?",
+      "options": {
+        "A": "God",
+        "B": "Maya",
+        "C": "Brahman",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ईश्वर",
+        "B": "माया",
+        "C": "ब्रह्म",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Shankara, the reality of the world is",
+      "prashna": "शंकर के अनुसार, जगत की सत्ता है",
+      "options": {
+        "A": "Apparent",
+        "B": "Empirical",
+        "C": "Absolute",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिभासिक",
+        "B": "व्यावहारिक",
+        "C": "पारमार्थिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Explain the nature of God according to Shankara ?",
+      "prashna": "शंकर के अनुसार ईश्वर के स्वरूप की व्याख्या करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Distinguish between Empirical and Absolute Reality ?",
+      "prashna": "व्यावहारिक एवं पारमार्थिक सत्ता में अंतर करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the nature of liberation in Advaita Vedanta?",
+      "prashna": "अद्वैत वेदान्त में मोक्ष का स्वरूप है -",
+      "options": {
+        "A": "Rebirth",
+        "B": "Union of self and Brahman",
+        "C": "Devotion",
+        "D": "Renunciation"
+      },
+      "vikalpa": {
+        "A": "पुनर्जन्म",
+        "B": "आत्मा और ब्रह्म की एकता",
+        "C": "भक्ति",
+        "D": "त्याग"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "The author of Brahmsutra is -",
+      "prashna": "ब्रह्मसूत्र के रचयिता हैं -",
+      "options": {
+        "A": "Badarayan",
+        "B": "Buddha",
+        "C": "Gautam",
+        "D": "Patanjali"
+      },
+      "vikalpa": {
+        "A": "बादरायण",
+        "B": "बुद्ध",
+        "C": "गौतम",
+        "D": "पतंजलि"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to shankar, who is Sat-Chit-Anand?",
+      "prashna": "शंकर के अनुसार सत्-चित्-आनन्द कौन है ?",
+      "options": {
+        "A": "Body",
+        "B": "Maya",
+        "C": "Brahman",
+        "D": "None of These"
+      },
+      "vikalpa": {
+        "A": "शरीर",
+        "B": "माया",
+        "C": "ब्रह्म",
+        "D": "इनमे से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Advaita vedanta, consciousness belongs to the soul -",
+      "prashna": "अद्वैत वेदान्त के अनुसार चैतन्य आत्मा का है -",
+      "options": {
+        "A": "Substance of",
+        "B": "Quality of",
+        "C": "Nature of",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "द्रव्य",
+        "B": "गुण",
+        "C": "स्वरूप",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Shankara calls Advaita as ?",
+      "prashna": "शंकर अद्वैत को कहते हैं ?",
+      "options": {
+        "A": "Ishwar",
+        "B": "Maya",
+        "C": "Brahman",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ईश्वर",
+        "B": "माया",
+        "C": "ब्रह्म",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Why Shankara’s philosophy is Called Advaitvada?",
+      "prashna": "शंकर का दर्शन अद्वैतवाद क्यों कहा जाता है ?"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the difference between Tatastha Lakshan and Swaroop Lakshan of Brahma according to Shankara?",
+      "prashna": "शंकर के अनुसार ब्रह्म के तटस्थ लक्षण और स्वरूप लक्षण में क्या अंतर है ?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the nature of liberation in Advaita Vedanta?",
+      "prashna": "अद्वैत वेदान्त में मोक्ष का स्वरूप है –",
+      "options": {
+        "A": "Rebirth",
+        "B": "Union of self and Brahman",
+        "C": "Devotion",
+        "D": "Renunciation"
+      },
+      "vikalpa": {
+        "A": "पुनर्जन्म",
+        "B": "आत्मा और ब्रह्म की एकता",
+        "C": "भक्ति",
+        "D": "त्याग"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "The author of Brahmshtra is -",
+      "prashna": "ब्रह्मसूत्र के रचयिता हैं –",
+      "options": {
+        "A": "Badarayan",
+        "B": "Buddha",
+        "C": "Gautam",
+        "D": "Patanjali"
+      },
+      "vikalpa": {
+        "A": "बादरायण",
+        "B": "बुद्ध",
+        "C": "गौतम",
+        "D": "पतंजलि"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to shankar, who is Sat-Chit-Anand?",
+      "prashna": "शंकर के अनुसार सत्–चित्–आनन्द कौन है ?",
+      "options": {
+        "A": "Body",
+        "B": "Maya",
+        "C": "Brahman",
+        "D": "None of These"
+      },
+      "vikalpa": {
+        "A": "शरीर",
+        "B": "माया",
+        "C": "ब्रह्म",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "According to Advaita vedanta, consciousness belongs to the soul -",
+      "prashna": "अद्वैत वेदान्त के अनुसार चैतन्य आत्मा का है –",
+      "options": {
+        "A": "Substance of",
+        "B": "Quality of",
+        "C": "Nature of",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "द्रव्य",
+        "B": "गुण",
+        "C": "स्वरूप",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Shankara calls Advaita as ?",
+      "prashna": "शंकर अद्वैत को कहते हैं ?",
+      "options": {
+        "A": "Ishwar",
+        "B": "Maya",
+        "C": "Brahman",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ईश्वर",
+        "B": "माया",
+        "C": "ब्रह्म",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "Why Shankara’s philosophy is Called Advaitvada?",
+      "prashna": "शंकर का दर्शन अद्वैतवाद क्यों कहा जाता है ?"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter_name": "Advaita Vedanta",
+      "question": "What is the difference between Tatastha Lakshan and Swaroop Lakshan of Brahma according to Shankara?",
+      "prashna": "शंकर के अनुसार ब्रह्म के तटस्थ लक्षण और स्वरूप लक्षण में क्या अंतर है ?"
+    }
+  ]
+}

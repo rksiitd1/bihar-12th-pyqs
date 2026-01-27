@@ -1,0 +1,2030 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Charvaka rejects which one of the following elements ?",
+        "prashna": "निम्नलिखित में से किस तत्व को चार्वाक नहीं मानता है ?",
+        "options": {
+            "A": "Earth",
+            "B": "Water",
+            "C": "Air",
+            "D": "Ether"
+        },
+        "vikalpa": {
+            "A": "पृथ्वी",
+            "B": "जल",
+            "C": "वायु",
+            "D": "आकाश"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "What is the meaning of ‘Jina’ under Jainism ?",
+        "prashna": "जैन दर्शन के अंतर्गत ‘जिन्’ शब्द का अर्थ होता है ?",
+        "options": {
+            "A": "Conqueror",
+            "B": "Loser",
+            "C": "Aspirant",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "विजेता",
+            "B": "परास्त",
+            "C": "महत्वाकांक्षी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which one of the following is not a Heterodox Philosophy ?",
+        "prashna": "निम्नलिखित में से कौन सा एक नास्तिक दर्शन नहीं है ?",
+        "options": {
+            "A": "Buddhism",
+            "B": "Jainism",
+            "C": "Yoga Philosophy",
+            "D": "Charvaka Philosophy"
+        },
+        "vikalpa": {
+            "A": "बौद्ध दर्शन",
+            "B": "जैन दर्शन",
+            "C": "योग दर्शन",
+            "D": "चार्वाक दर्शन"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "According to Indian Philosophy, the word ‘Orthodox’ means ?",
+        "prashna": "भारतीय दर्शन के अनुसार ‘आस्तिक’ शब्द का अर्थ होता है ?",
+        "options": {
+            "A": "Those who believe in God",
+            "B": "Those who accept the authority of the vedas",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ईश्वर में विश्वास करने वाला",
+            "B": "वेदों की प्रामाणिकता में विश्वास करने वाला",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which of the following is known as ‘Lokayata Philosophy’ ?",
+        "prashna": "निम्नलिखित में से किसे ‘लोकायत दर्शन’ के नाम से जाना जाता है ?",
+        "options": {
+            "A": "Buddhism",
+            "B": "Nyaya Philosophy",
+            "C": "Charvaka Philosophy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बौद्ध दर्शन",
+            "B": "न्याय दर्शन",
+            "C": "चार्वाक दर्शन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Who among of the following is regarded as the founder of Sankhya Philosophy ?",
+        "prashna": "निम्नलिखित में से कौन सांख्य दर्शन के प्रवर्तक माने जाते हैं ?",
+        "options": {
+            "A": "Shankara",
+            "B": "Kapila",
+            "C": "Mahavira",
+            "D": "Jaimini"
+        },
+        "vikalpa": {
+            "A": "शंकर",
+            "B": "कपिल",
+            "C": "महावीर",
+            "D": "जैमिनि"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "‘Pudgala’ and ‘Jiva’ are related with which one of the following Philosophical schools ?",
+        "prashna": "‘पुद्गल’ एवं ‘जीव’ का संबंध निम्नलिखित में से किस दर्शन से है ?",
+        "options": {
+            "A": "Buddhism",
+            "B": "Jainism",
+            "C": "Advaita Vedanta",
+            "D": "Sankhya Philosophy"
+        },
+        "vikalpa": {
+            "A": "बौद्ध दर्शन",
+            "B": "जैन दर्शन",
+            "C": "अद्वैत वेदान्त",
+            "D": "सांख्य दर्शन"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "No-soul theory is associated with which one of the following Philosophy ?",
+        "prashna": "अनात्मवाद का संबंध निम्नलिखित में से किस दर्शन से है ?",
+        "options": {
+            "A": "Yoga Philosophy",
+            "B": "Nyaya Philosophy",
+            "C": "Buddhism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "योग दर्शन",
+            "B": "न्याय दर्शन",
+            "C": "बौद्ध दर्शन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which one of the following is rejected by Charvaka ?",
+        "prashna": "चार्वाक द्वारा निम्नलिखित में से किस एक को अस्वीकार किया गया है ?",
+        "options": {
+            "A": "Perception",
+            "B": "Kama",
+            "C": "Moksha",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रत्यक्ष",
+            "B": "काम",
+            "C": "मोक्ष",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "How many types of Noble truth are accepted by Buddha ?",
+        "prashna": "बुद्ध के द्वारा कितने प्रकार के आर्य सत्य को स्वीकार किया गया है ?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "तीन",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Jainism believes in",
+        "prashna": "जैन दर्शन विश्वास करता है",
+        "options": {
+            "A": "Anekantavada",
+            "B": "Syadvada",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अनेकान्तवाद में",
+            "B": "स्याद्वाद में",
+            "C": "(A) और (B) दोनों में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which of the following is associated with Purushartha ?",
+        "prashna": "निम्नलिखित में से कौन सा पुरुषार्थ में सम्मिलित है ?",
+        "options": {
+            "A": "Dharma",
+            "B": "Artha",
+            "C": "Kama",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "धर्म",
+            "B": "अर्थ",
+            "C": "काम",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Which one of the following is the basic nature of Indian Philosophy ?",
+        "prashna": "निम्नलिखित में से कौन सी एक भारतीय दर्शन की मूल प्रकृति है ?",
+        "options": {
+            "A": "Spiritual",
+            "B": "Natural",
+            "C": "Psychological",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आध्यात्मिक",
+            "B": "प्राकृतिक",
+            "C": "मनोवैज्ञानिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which one of the following does not believe in the existence of Soul ?",
+        "prashna": "निम्नलिखित में से कौन आत्मा के अस्तित्व में विश्वास नहीं करता है ?",
+        "options": {
+            "A": "Nyaya Philosophy",
+            "B": "Sankhya Philosophy",
+            "C": "Charvaka Philosophy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "न्याय दर्शन",
+            "B": "सांख्य दर्शन",
+            "C": "चार्वाक दर्शन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The concept of Rta is related to :",
+        "prashna": "ऋत की अवधारणा संबंधित है",
+        "options": {
+            "A": "Indian Philosophy",
+            "B": "Western Philosophy",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "भारतीय दर्शन से",
+            "B": "पाश्चात्य दर्शन से",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which one of the following is the odd ?",
+        "prashna": "निम्नलिखित में से कौन सा एक विषम है ?",
+        "options": {
+            "A": "Yoga Philosophy",
+            "B": "Sankhya Philosophy",
+            "C": "Vaisesika Philosophy",
+            "D": "Jainism"
+        },
+        "vikalpa": {
+            "A": "योग दर्शन",
+            "B": "सांख्य दर्शन",
+            "C": "वैशेषिक दर्शन",
+            "D": "जैन दर्शन"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Eightfold nobel path of Buddha consists of :",
+        "prashna": "बुद्ध के अष्टांगिक मार्ग में सम्मिलित हैं",
+        "options": {
+            "A": "Right views",
+            "B": "Right resolve",
+            "C": "Right speech",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "सम्यक् दृष्टि",
+            "B": "सम्यक् संकल्प",
+            "C": "सम्यक् वाक्",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which one of the following is not a characteristics of Sankhya’s Prakriti?",
+        "prashna": "सांख्य दर्शन के अनुसार निम्नलिखित में से कौन सी विशेषता प्रकृति की नहीं है ?",
+        "options": {
+            "A": "Prakriti is independent",
+            "B": "Prakriti is the root-cause of the world of objects.",
+            "C": "Prakriti is eternal",
+            "D": "Prakriti possesses the quality of Consciousness"
+        },
+        "vikalpa": {
+            "A": "प्रकृति स्वतंत्र है",
+            "B": "प्रकृति विश्व के समस्त वस्तुओं का मूल कारण है",
+            "C": "प्रकृति नित्य है",
+            "D": "प्रकृति चेतनशील है"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "The final step of Astanga Yogamarga is",
+        "prashna": "अष्टांग योगमार्ग का अंतिम सोपान है",
+        "options": {
+            "A": "Pratyahara",
+            "B": "Dharana",
+            "C": "Dhyana",
+            "D": "Samadhi"
+        },
+        "vikalpa": {
+            "A": "प्रत्याहार",
+            "B": "धारणा",
+            "C": "ध्यान",
+            "D": "समाधि"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which one of the following is also known as Aulukya Philosophy ?",
+        "prashna": "निम्नलिखित में से किसे औलूक्य दर्शन के नाम से भी जाना जाता है ?",
+        "options": {
+            "A": "Vaisesika Philosophy",
+            "B": "Nyaya Philosophy",
+            "C": "Yoga Philosophy",
+            "D": "Sankhya Philosophy"
+        },
+        "vikalpa": {
+            "A": "वैशेषिक दर्शन को",
+            "B": "न्याय दर्शन को",
+            "C": "योग दर्शन को",
+            "D": "सांख्य दर्शन को"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "How many kinds of valid means of knowledge has been accepted by Nyaya Philosophy ?",
+        "prashna": "न्याय दर्शन के अनुसार कितने प्रकार के प्रमाण स्वीकार किए गए हैं ?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "तीन",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Vyapti is related to",
+        "prashna": "व्याप्ति का संबंध है",
+        "options": {
+            "A": "Perception",
+            "B": "Inference",
+            "C": "Comparison",
+            "D": "Verbal Testimony"
+        },
+        "vikalpa": {
+            "A": "प्रत्यक्ष से",
+            "B": "अनुमान से",
+            "C": "उपमान से",
+            "D": "शब्द से"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "According to Gotama, which of the following are kinds of Inference ?",
+        "prashna": "गौतम के अनुसार निम्नलिखित में से कौन अनुमान के प्रकार हैं ?",
+        "options": {
+            "A": "Purvavat",
+            "B": "Shesavat",
+            "C": "Samanyatodrista",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "पूर्ववत्",
+            "B": "शेषवत्",
+            "C": "सामान्यतोदृष्ट",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Which one of the following Pramanas has been accepted by Charvaka?",
+        "prashna": "चार्वाक के द्वारा निम्नलिखित में से कौन सा प्रमाण स्वीकार किया गया है ?",
+        "options": {
+            "A": "Perception",
+            "B": "Inference",
+            "C": "Verval Testimony",
+            "D": "Comparison"
+        },
+        "vikalpa": {
+            "A": "प्रत्यक्ष प्रमाण",
+            "B": "अनुमान प्रमाण",
+            "C": "शब्द प्रमाण",
+            "D": "उपमान प्रमाण"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Who is the writer of Mimamsa-Sutra ?",
+        "prashna": "मीमांसा-सूत्र के रचयिता कौन हैं ?",
+        "options": {
+            "A": "Kapila",
+            "B": "Jaimini",
+            "C": "Shankara",
+            "D": "Mahavira"
+        },
+        "vikalpa": {
+            "A": "कपिल",
+            "B": "जैमिनि",
+            "C": "शंकर",
+            "D": "महावीर"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "According to Vaisesika Philosophy the total number of Padarthas are",
+        "prashna": "वैशेषिक दर्शन के अनुसार कुल पदार्थों की संख्या है",
+        "options": {
+            "A": "Five",
+            "B": "Six",
+            "C": "Seven",
+            "D": "Eight"
+        },
+        "vikalpa": {
+            "A": "पाँच",
+            "B": "छ:",
+            "C": "सात",
+            "D": "आठ"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Nyaya Philosophy accepts the metaphysics of which one of the following schools ?",
+        "prashna": "न्याय दर्शन निम्नलिखित में से किस संप्रदाय की तत्वमीमांसा को स्वीकार करता है ?",
+        "options": {
+            "A": "Vaisesika Philosophy",
+            "B": "Sankhya Philosophy",
+            "C": "Yoga Philosophy",
+            "D": "Jainism"
+        },
+        "vikalpa": {
+            "A": "वैशेषिक दर्शन",
+            "B": "सांख्य दर्शन",
+            "C": "योग दर्शन",
+            "D": "जैन दर्शन"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "According to Shankara which one of the following is the only reality ?",
+        "prashna": "शंकर के अनुसार निम्नलिखित में से कौन एकमात्र सत् है ?",
+        "options": {
+            "A": "God",
+            "B": "Maya",
+            "C": "Brahman",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ईश्वर",
+            "B": "माया",
+            "C": "ब्रह्म",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Which one of the following accepts the existence of God ?",
+        "prashna": "निम्नलिखित में से कौन ईश्वर के अस्तित्व को स्वीकार करता है ?",
+        "options": {
+            "A": "Yoga Philosophy",
+            "B": "Charvaka Philosophy",
+            "C": "Both (A) and (B)",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "योग दर्शन",
+            "B": "चार्वाक दर्शन",
+            "C": "(A) एवं (B) दोनों",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "According to Shankara, the reality of the world is",
+        "prashna": "शंकर के अनुसार, जगत की सत्ता है",
+        "options": {
+            "A": "Apparent",
+            "B": "Empirical",
+            "C": "Absolute",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रतिभासिक",
+            "B": "व्यावहारिक",
+            "C": "पारमार्थिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Who among the following is a Rationalist ?",
+        "prashna": "निम्नलिखित में से कौन बुद्धिवादी है ?",
+        "options": {
+            "A": "Locke",
+            "B": "Berkeley",
+            "C": "Descartes",
+            "D": "Hume"
+        },
+        "vikalpa": {
+            "A": "लॉक",
+            "B": "बर्कले",
+            "C": "देकार्त्त",
+            "D": "ह्यूम"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Who among the following is a supporter of subjective Idealism ?",
+        "prashna": "निम्नलिखित में से कौन आत्मगत प्रत्ययवाद के समर्थक हैं ?",
+        "options": {
+            "A": "Kant",
+            "B": "Berkeley",
+            "C": "Descartes",
+            "D": "Spinoza"
+        },
+        "vikalpa": {
+            "A": "काण्ट",
+            "B": "बर्कले",
+            "C": "देकार्त्त",
+            "D": "स्पिनोजा"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Mind-body relation as per Descartes is known as ?",
+        "prashna": "देकार्त्त का मन-शरीर के संबंध में निम्नलिखित में से कौन सा सिद्धान्त है ?",
+        "options": {
+            "A": "Rationalism",
+            "B": "Interactionism",
+            "C": "Empiricism",
+            "D": "Parallelism"
+        },
+        "vikalpa": {
+            "A": "बुद्धिवाद",
+            "B": "अन्तःक्रियावाद",
+            "C": "अनुभववाद",
+            "D": "समानान्तरवाद"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "How Empiricist Philosophers acquire knowledge ?",
+        "prashna": "अनुभववादी दार्शनिक निम्नलिखित में किस प्रकार ज्ञान की प्राप्ति करते हैं ?",
+        "options": {
+            "A": "Through Reason",
+            "B": "Through Logic",
+            "C": "Through Sense Organs",
+            "D": "Through Science"
+        },
+        "vikalpa": {
+            "A": "बुद्धि के द्वारा",
+            "B": "तर्कशास्त्र के द्वारा",
+            "C": "इंद्रियों के द्वारा",
+            "D": "विज्ञान के द्वारा"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "“Monad is Windowless” - This statement is related to",
+        "prashna": "“चिदणु गवाक्षहीन हैं”– यह कथन संबंधित है",
+        "options": {
+            "A": "Spinoza",
+            "B": "Leibnitz",
+            "C": "Descartes",
+            "D": "Locke"
+        },
+        "vikalpa": {
+            "A": "स्पिनोजा का",
+            "B": "लाइबनिट्ज का",
+            "C": "देकार्त्त का",
+            "D": "लॉक का"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "According to Locke, which one of the following is not a type of quality of the substance ?",
+        "prashna": "लॉक के अनुसार, निम्नलिखित में से कौन द्रव्य के गुण के प्रकार नहीं हैं ?",
+        "options": {
+            "A": "Primary Qualities",
+            "B": "Secondary Qualities",
+            "C": "Mixed Qualities",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मूल गुण",
+            "B": "उपगुण",
+            "C": "मिश्र गुण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "The writer of ‘Ethica’ is",
+        "prashna": "‘इथिका’ के लेखक हैं",
+        "options": {
+            "A": "Spinoza",
+            "B": "Descartes",
+            "C": "Hume",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "स्पिनोजा",
+            "B": "देकार्त्त",
+            "C": "ह्यूम",
+            "D": "काण्ट"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "“Determinatio negation est” – is the statement of one of the following Philosophers ?",
+        "prashna": "“निर्वचनमात्र निषेधात्मक है” – निम्नलिखित में से किस एक दार्शनिक का कथन है।",
+        "options": {
+            "A": "Locke",
+            "B": "Berkeley",
+            "C": "Kant",
+            "D": "Spinoza"
+        },
+        "vikalpa": {
+            "A": "लॉक का",
+            "B": "बर्कले का",
+            "C": "काण्ट का",
+            "D": "स्पिनोजा का"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Hume believes in",
+        "prashna": "ह्यूम विश्वास करते हैं",
+        "options": {
+            "A": "Only one Substance",
+            "B": "Two Substances",
+            "C": "Three Substances",
+            "D": "No Substance"
+        },
+        "vikalpa": {
+            "A": "सिर्फ एक द्रव्य में",
+            "B": "दो द्रव्यों में",
+            "C": "तीन द्रव्यों में",
+            "D": "किसी द्रव्य में नहीं"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following cause is clay for the pot ?",
+        "prashna": "मिट्टी घड़े के लिए निम्नलिखित में से कौन सा कारण है ?",
+        "options": {
+            "A": "Material Cause",
+            "B": "Efficient Cause",
+            "C": "Formal Cause",
+            "D": "Final Cause"
+        },
+        "vikalpa": {
+            "A": "उपादान कारण",
+            "B": "निमित्त कारण",
+            "C": "आकारिक कारण",
+            "D": "अंतिम कारण"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "According to which one of the following thinkers Pineal gland is the abode of mind ?",
+        "prashna": "निम्नलिखित में से किस विचारक के अनुसार पिनियल ग्रंथि मन का निवास है ?",
+        "options": {
+            "A": "Descartes",
+            "B": "Spinoza",
+            "C": "Leibnitz",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "देकार्त्त",
+            "B": "स्पिनोजा",
+            "C": "लाइबनिट्ज़",
+            "D": "काण्ट"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "According to whom among the following, All Ideas are Innate.",
+        "prashna": "निम्नलिखित में किसके अनुसार, सभी प्रत्यय जन्मजात होते हैं ?",
+        "options": {
+            "A": "Locke",
+            "B": "Leibnitz",
+            "C": "Descartes",
+            "D": "Hume"
+        },
+        "vikalpa": {
+            "A": "लॉक",
+            "B": "लाइबनिट्ज़",
+            "C": "देकार्त्त",
+            "D": "ह्यूम"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which of the following theory holds reason as the source of knowledge?",
+        "prashna": "निम्नलिखित में से कौन सा सिद्धान्त बुद्धि को ज्ञान प्राप्ति का स्रोत मानता है ?",
+        "options": {
+            "A": "Idealism",
+            "B": "Rationalism",
+            "C": "Empiricism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अध्यात्मवाद",
+            "B": "बुद्धिवाद",
+            "C": "अनुभववाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Hume rejects, which of the followings ?",
+        "prashna": "ह्यूम निम्नलिखित में से किसका खण्डन करते हैं ?",
+        "options": {
+            "A": "Soul",
+            "B": "Substance",
+            "C": "God",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "आत्मा का",
+            "B": "द्रव्य का",
+            "C": "ईश्वर का",
+            "D": "उपरोक्त सभी का"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "The last portion of Vedas is known as",
+        "prashna": "वेदों के अंतिम भाग को किस नाम से जाना जाता है ?",
+        "options": {
+            "A": "Mantras",
+            "B": "Brahmanas",
+            "C": "Upanishads",
+            "D": "Aranyakas"
+        },
+        "vikalpa": {
+            "A": "मंत्र",
+            "B": "ब्राह्मण",
+            "C": "उपनिषद्",
+            "D": "अरण्यक"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Which one of the following represents Indian Logic ?",
+        "prashna": "निम्नलिखित में से कौन भारतीय तर्कशास्त्र का प्रतिनिधित्व करता है ?",
+        "options": {
+            "A": "Jainism",
+            "B": "Charvaka Philosophy",
+            "C": "Vaisesika Philosophy",
+            "D": "Nyaya Philosophy"
+        },
+        "vikalpa": {
+            "A": "जैन दर्शन",
+            "B": "चार्वाक दर्शन",
+            "C": "वैशेषिक दर्शन",
+            "D": "न्याय दर्शन"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Which one of the following school supports the theory of atomism ?",
+        "prashna": "निम्नलिखित में से कौन सा दर्शन परमाणुवाद के सिद्धान्त का समर्थन करता है ?",
+        "options": {
+            "A": "Vaisesika Philosophy",
+            "B": "Sankhya Philosophy",
+            "C": "Buddhism",
+            "D": "Jainism"
+        },
+        "vikalpa": {
+            "A": "वैशेषिक दर्शन",
+            "B": "सांख्य दर्शन",
+            "C": "बौद्ध दर्शन",
+            "D": "जैन दर्शन"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Which one of the following systems of Indian Philosophy is supporter of Hedonism ?",
+        "prashna": "निम्नलिखित में से कौन सा भारतीय दर्शन सुखवाद का समर्थक है ?",
+        "options": {
+            "A": "Mimamsa Philosophy",
+            "B": "Charvaka Philosophy",
+            "C": "Buddhism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मीमांसा दर्शन",
+            "B": "चार्वाक दर्शन",
+            "C": "बौद्ध दर्शन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Who among the following is an Empirisist ?",
+        "prashna": "निम्नलिखित में से कौन अनुभववादी हैं ?",
+        "options": {
+            "A": "Kant",
+            "B": "Locke",
+            "C": "Descartes",
+            "D": "Spinoza"
+        },
+        "vikalpa": {
+            "A": "काण्ट",
+            "B": "लॉक",
+            "C": "देकार्त्त",
+            "D": "स्पिनोजा"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "Kant’s theory of knowledge is called",
+        "prashna": "काण्ट के ज्ञान विचार को कहा जाता है ?",
+        "options": {
+            "A": "Empiricism",
+            "B": "Rationalism",
+            "C": "Criticism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अनुभववाद",
+            "B": "बुद्धिवाद",
+            "C": "समीक्षावाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Who is the author of the book ‘Critique of Pure Reason’ ?",
+        "prashna": "‘क्रिटिक ऑफ प्योर रिजन’ पुस्तक के लेखक कौन हैं ?",
+        "options": {
+            "A": "Locke",
+            "B": "Kant",
+            "C": "Hegel",
+            "D": "Aristotie"
+        },
+        "vikalpa": {
+            "A": "लॉक",
+            "B": "काण्ट",
+            "C": "हेगेल",
+            "D": "अरस्तू"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Who among the following advocates Utilitarianism ?",
+        "prashna": "निम्नलिखित में कौन सा उपयोगितावाद की वकालत करते हैं ?",
+        "options": {
+            "A": "Marx",
+            "B": "Bentham",
+            "C": "Parmanides",
+            "D": "Thales"
+        },
+        "vikalpa": {
+            "A": "मार्क्स",
+            "B": "बेंथम",
+            "C": "पार्मेनाइडीज",
+            "D": "थेलीज"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Who among the following is the supporter of Representationism ?",
+        "prashna": "निम्नलिखित में से कौन प्रतिनिधित्ववाद के समर्थक हैं ?",
+        "options": {
+            "A": "Locke",
+            "B": "Berkeley",
+            "C": "Hume",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "लॉक",
+            "B": "बर्कले",
+            "C": "ह्यूम",
+            "D": "काण्ट"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "Who among the following advocates the ontological argument for the existence of God ?",
+        "prashna": "निम्नलिखित में से कौन ईश्वर के अस्तित्व के लिए सत्तामूलक प्रमाण की वकालत करते हैं ?",
+        "options": {
+            "A": "St. Anselm",
+            "B": "Socrates",
+            "C": "Plato",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "संत एन्सेलम",
+            "B": "सुकरात",
+            "C": "प्लेटो",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "The number of Monads of Leibnitz is",
+        "prashna": "लाइबनिट्ज़ के चिदबिन्दु संख्या में हैं ?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Many",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "अनेक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Who among the following is the supporter of Abstract Monism ?",
+        "prashna": "निम्नलिखित में से कौन अमूर्त्त एकतत्त्ववाद के समर्थक हैं ?",
+        "options": {
+            "A": "Descartes",
+            "B": "Leibnitiz",
+            "C": "Spinoza",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "देकार्त्त",
+            "B": "लाइबनिट्ज़",
+            "C": "स्पिनोजा",
+            "D": "काण्ट"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Who among the following refutes the theory of Causation ?",
+        "prashna": "निम्नलिखित में से कौन कार्य-कारण सिद्धान्त का खण्डन करते हैं ?",
+        "options": {
+            "A": "Charvaka",
+            "B": "Buddha",
+            "C": "Gotama",
+            "D": "Kapila"
+        },
+        "vikalpa": {
+            "A": "चार्वाक",
+            "B": "बुद्ध",
+            "C": "गौतम",
+            "D": "कपिल"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "Which is the fourth step of Eightfold Path of Yoga ?",
+        "prashna": "योग के अष्टांगिक मार्ग का चौथा सोपान कौन सा है ?",
+        "options": {
+            "A": "Yama",
+            "B": "Asana",
+            "C": "Pratyahara",
+            "D": "Pranayama"
+        },
+        "vikalpa": {
+            "A": "यम",
+            "B": "आसन",
+            "C": "प्रत्याहार",
+            "D": "प्राणायाम"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "According to vaisesika, which of the following is Bhava Padartha ?",
+        "prashna": "वैशेषिक के अनुसार, निम्नलिखित में से कौन भाव पदार्थ है ?",
+        "options": {
+            "A": "Dravya",
+            "B": "Guna",
+            "C": "Karma",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "द्रव्य",
+            "B": "गुण",
+            "C": "कर्म",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "The actions of children and mad men are",
+        "prashna": "शिशुओं तथा पागलों की क्रियाएँ होती हैं",
+        "options": {
+            "A": "Moral Actions",
+            "B": "Non-Moral Actions",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "नैतिक कर्म",
+            "B": "नीतिशून्य कर्म",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Which one of the following is concerned with the study of goodness badness of human conduct ?",
+        "prashna": "निम्नलिखित में से कौन मानव-आचरण की शुभता-अशुभता के अध्ययन से संबंधित है ?",
+        "options": {
+            "A": "Sociology",
+            "B": "Economics",
+            "C": "Ethics",
+            "D": "Psychology"
+        },
+        "vikalpa": {
+            "A": "समाजशास्त्र",
+            "B": "अर्थशास्त्र",
+            "C": "नीतिशास्त्र",
+            "D": "मनोविज्ञान"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "In Buddhism Moksha is known as",
+        "prashna": "बौद्ध दर्शन में मोक्ष को किस नाम से जाना जाता है",
+        "options": {
+            "A": "Nirvana",
+            "B": "Kaivalya",
+            "C": "Mimamsa",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "निर्वाण",
+            "B": "कैवल्य",
+            "C": "मीमांसा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "What is the meaning of the term ‘Morality’ ?",
+        "prashna": "‘मोरेलिटी’ शब्द का क्या अर्थ है ?",
+        "options": {
+            "A": "Custom, Practice or Habit",
+            "B": "Custom only",
+            "C": "Habit only",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "रीति, प्रचलन या आदत",
+            "B": "मात्र प्रचलन",
+            "C": "मात्र आदत",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Which of the following statement is correct ?",
+        "prashna": "निम्नलिखित में से कौन सा कथन सत्य है ?",
+        "options": {
+            "A": "Ethics is an art",
+            "B": "Ethics is a theoretical science",
+            "C": "Ethics is a natural science",
+            "D": "Ethics is a normative science"
+        },
+        "vikalpa": {
+            "A": "नीतिशास्त्र कला है",
+            "B": "नीतिशास्त्र एक सैद्धान्तिक विज्ञान है",
+            "C": "नीतिशास्त्र प्राकृतिक विज्ञान है",
+            "D": "नीतिशास्त्र एक आदर्श-नियामक विज्ञान है"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Who is the Editor of ‘Applied Ethics’ ?",
+        "prashna": "‘अप्लाइड एथिक्स’ के संपादक कौन हैं ?",
+        "options": {
+            "A": "Peter singer",
+            "B": "H. N. Dasgupta",
+            "C": "Karl Jaspers",
+            "D": "None of them"
+        },
+        "vikalpa": {
+            "A": "पीटर सिंगर",
+            "B": "एच. एन. दासगुप्ता",
+            "C": "कार्ल जेस्पर्स",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "Which of the following is not a scope of Applied Ethics ?",
+        "prashna": "निम्नलिखित में से कौन व्यावहारिक नीतिशास्त्र का क्षेत्र नहीं है ?",
+        "options": {
+            "A": "Professional Ethics",
+            "B": "Environmental Ethics",
+            "C": "Metaethics",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "व्यावसायिक नीतिशास्त्र",
+            "B": "पर्यावरणीय नीतिशास्त्र",
+            "C": "अधिनीतिशास्त्र",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Which of the following is a Ethical concept ?",
+        "prashna": "निम्नलिखित में से कौन नैतिक प्रत्यय है ?",
+        "options": {
+            "A": "Right",
+            "B": "Wrong",
+            "C": "Good",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "उचित",
+            "B": "अनुचित",
+            "C": "शुभ",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "“Duty is a categorical Imperative”- whose statement is this ?",
+        "prashna": "“कर्त्तव्य निरपेक्ष आदेश है” – यह कथन किसका है ?",
+        "options": {
+            "A": "Aristotle",
+            "B": "Plato",
+            "C": "Kant",
+            "D": "Mill"
+        },
+        "vikalpa": {
+            "A": "अरस्तू का",
+            "B": "प्लेटो का",
+            "C": "काण्ट का",
+            "D": "मिल का"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Descartes dualism is compared with",
+        "prashna": "देकार्त्त के द्वैतवाद की तुलना की जाती है",
+        "options": {
+            "A": "Hume’s Scepticism",
+            "B": "Sankhya’s Dualism",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ह्यूम के संशयवाद से",
+            "B": "सांख्य के द्वैतवाद से",
+            "C": "(A) एवं (B) दोनों से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "According to Descrates, The idea of God is",
+        "prashna": "देकार्त्त के अनुसार, ईश्वर का प्रत्यय है",
+        "options": {
+            "A": "Innate Ideas",
+            "B": "External Ideas",
+            "C": "Internal Ideas",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जन्मजात प्रत्यय",
+            "B": "बाह्य प्रत्यय",
+            "C": "आंतरिक प्रत्यय",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "question": "To prove the existence of God which one of the following arguments has been given by Leibnitz ?",
+        "prashna": "लाइबनिट्ज़ द्वारा ईश्वर के अस्तित्व को प्रमाणित करने के लिए निम्नलिखित में से कौन सी युक्ति दी गई है ?",
+        "options": {
+            "A": "Teleological Argument",
+            "B": "Cosmological Argument",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रयोजनात्मक युक्ति",
+            "B": "विश्वमीमांसीय युक्ति",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "question": "“Knowledge is a synthetic judgement apriori” – this statement belongs to ?",
+        "prashna": "“ज्ञान संश्लेषणात्मक प्रागुनुभविक निर्णय है” – यह कथन किससे संबंधित है ?",
+        "options": {
+            "A": "Descartes",
+            "B": "Locke",
+            "C": "Mill",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "देकार्त्त से",
+            "B": "लॉक से",
+            "C": "मिल से",
+            "D": "काण्ट से"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "question": "Theory of Fourfold causation is related to",
+        "prashna": "चतुष्कोटि कारणतावाद का सिद्धान्त संबंधित है",
+        "options": {
+            "A": "Aristotle",
+            "B": "Plato",
+            "C": "Socrates",
+            "D": "None of them"
+        },
+        "vikalpa": {
+            "A": "अरस्तू से",
+            "B": "प्लेटो से",
+            "C": "सुकरात से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "question": "“Hume awakened me from dogmatic slumber” – this statement is related to ?",
+        "prashna": "ह्यूम ने मुझे प्रगाढ़ निद्रा से जगा दिया – यह कथन संबंधित है ?",
+        "options": {
+            "A": "Kant",
+            "B": "Hegel",
+            "C": "Locke",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "काण्ट से",
+            "B": "हेगेल से",
+            "C": "लॉक से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "question": "According to theory of causation, the cause and effect are",
+        "prashna": "कारणकार्य नियम के अनुसार, कारण और कार्य होते हैं",
+        "options": {
+            "A": "Unequal",
+            "B": "Equal",
+            "C": "Proportionate",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "असमान",
+            "B": "समान",
+            "C": "आनुपातिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "question": "The theory of causation of sankhya is known as -",
+        "prashna": "सांख्य दर्शन के कारणकार्य नियम को क्या कहा जाता है ?",
+        "options": {
+            "A": "Satkaryavada",
+            "B": "Asatkaryavada",
+            "C": "Vivartavada",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सत्कार्यवाद",
+            "B": "असत्यकार्य़वाद",
+            "C": "विवर्त्तवाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "question": "Who is the supporter of Absolute Idealism ?",
+        "prashna": "निरपेक्ष प्रत्ययवाद के समर्थक कौन हैं ?",
+        "options": {
+            "A": "Hegel",
+            "B": "Berkeley",
+            "C": "Kant",
+            "D": "Locke"
+        },
+        "vikalpa": {
+            "A": "हीगेल",
+            "B": "बर्कले",
+            "C": "काण्ट",
+            "D": "लॉक"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "question": "According to which of the following theory ultimate reality is merely Idea ?",
+        "prashna": "निम्नलिखित में से किस सिद्धान्त के अनुसार परमसत्ता प्रत्यय मात्र है ?",
+        "options": {
+            "A": "Idealism",
+            "B": "Materialism",
+            "C": "Dualism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अध्यात्मवाद",
+            "B": "भौतिकवाद",
+            "C": "द्वैतवाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "question": "The opposite theory of Epistemological Idealism is",
+        "prashna": "ज्ञानमीमांसीय प्रत्ययवाद का विरोधी सिद्धान्त है",
+        "options": {
+            "A": "Realism",
+            "B": "Dualism",
+            "C": "Materialism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वस्तुवाद",
+            "B": "द्वैतवाद",
+            "C": "भौतिकवाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "question": "Which one of the following theories explain mind-body relation ?",
+        "prashna": "निम्नलिखित में कौन-सा सिद्धान्त मन–शरीर संबंध की व्याख्या करता है ?",
+        "options": {
+            "A": "Interactionism",
+            "B": "Parallelism",
+            "C": "Theory of Pre-established Harmony",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "अन्तःक्रियावाद",
+            "B": "समानान्तरवाद",
+            "C": "पूर्वस्थापित सामंजस्यवाद",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "question": "“Objects are independent from knower” – this thaught is related to",
+        "prashna": "“वस्तुएँ ज्ञाता से स्वतंत्र होती हैं” – यह विचार संबंधित है",
+        "options": {
+            "A": "Idealism",
+            "B": "Rationalism",
+            "C": "Criticism",
+            "D": "Realism"
+        },
+        "vikalpa": {
+            "A": "प्रत्ययवाद से",
+            "B": "बुद्धिवाद से",
+            "C": "समीक्षावाद से",
+            "D": "वस्तुवाद से"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "question": "The types of Philosophical Realism are",
+        "prashna": "दार्शनिक वस्तुवाद के प्रकार हैं",
+        "options": {
+            "A": "Representative Realism",
+            "B": "New Realism",
+            "C": "Critical Realism",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "प्रतिनिध्यात्मक वस्तुवाद",
+            "B": "नव वस्तुवाद",
+            "C": "समीक्षात्मक वस्तुवाद",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "question": "Which of the following is an end ?",
+        "prashna": "निम्नलिखित में से कौन सा साध्य है ?",
+        "options": {
+            "A": "Good",
+            "B": "Right",
+            "C": "Value",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "शुभ",
+            "B": "उचित",
+            "C": "मूल्य",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "question": "Which one of the following is a means of Lokasangraha ?",
+        "prashna": "निम्नलिखित में से कौन सा लोकसंग्रह का साधन है ?",
+        "options": {
+            "A": "Niskam Karma",
+            "B": "Sakam Karma",
+            "C": "Akarma",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "निष्काम कर्म",
+            "B": "सकाम कर्म",
+            "C": "अकर्म",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "question": "In which of the following schools, consciousness has been accepted as essential property of the soul ?",
+        "prashna": "निम्नलिखित में किस दर्शन में चेतना को आत्मा का मूल लक्षण माना गया है ?",
+        "options": {
+            "A": "Sankhya Philosophy",
+            "B": "Vaisesika Philosophy",
+            "C": "Nyaya Philosophy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सांख्य दर्शन",
+            "B": "वैशेषिक दर्शन",
+            "C": "न्याय दर्शन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "question": "Which of the following schools does believe in Law of Karma ?",
+        "prashna": "निम्नलिखित में से कौन सा सम्प्रदाय कर्म-सिद्धान्त में विश्वास करता है ?",
+        "options": {
+            "A": "Jainism",
+            "B": "Nyaya Philosophy",
+            "C": "Mimamsa Philosophy",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "जैन दर्शन",
+            "B": "न्याय दर्शन",
+            "C": "मीमांसा दर्शन",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "question": "According to Gita, the path of Salvation is",
+        "prashna": "गीता के अनुसार, मोक्ष प्राप्ति का मार्ग है",
+        "options": {
+            "A": "The Path of knowledge",
+            "B": "The Path of Devotion",
+            "C": "The Path of Action",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "ज्ञानयोग",
+            "B": "भक्तियोग",
+            "C": "कर्मयोग",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "question": "Which one of the following concepts is related to Sankhya Philosophy?",
+        "prashna": "निम्नलिखित में से कौन सी अवधारणा सांख्य दर्शन से जुड़ी हुई है ?",
+        "options": {
+            "A": "Satkaryavada",
+            "B": "Doctrine of Momentairness",
+            "C": "Syadvada",
+            "D": "Anekantvada"
+        },
+        "vikalpa": {
+            "A": "सत्कार्यवाद",
+            "B": "क्षणभंगवाद",
+            "C": "स्याद्वाद",
+            "D": "अनेकान्तवाद"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "question": "Which one of the following is a type of Rna ?",
+        "prashna": "निम्नलिखित में से कौन ऋण के प्रकार हैं ?",
+        "options": {
+            "A": "Risi Rna",
+            "B": "Pitri Rna",
+            "C": "Deva Rna",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "ऋषि ऋण",
+            "B": "पितृ ऋण",
+            "C": "देव ऋण",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "question": "What is the meaning of Rna ?",
+        "prashna": "‘ऋण’ शब्द का अर्थ क्या होता है ?",
+        "options": {
+            "A": "Moral obligation",
+            "B": "Economic Concept",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "नैतिक दायित्व",
+            "B": "आर्थिक सम्प्रत्यय",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "question": "Who among the following is a Pantheist ?",
+        "prashna": "निम्नलिखित में से कौन सर्वेश्वरवादी हैं ?",
+        "options": {
+            "A": "Descartes",
+            "B": "Shankara",
+            "C": "Spinoza",
+            "D": "Leibnitz"
+        },
+        "vikalpa": {
+            "A": "देकार्त्त",
+            "B": "शंकर",
+            "C": "स्पिनोजा",
+            "D": "लाइबनिट्ज"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "question": "Jainism believes in",
+        "prashna": "जैन दर्शन विश्वास करता है",
+        "options": {
+            "A": "Only one substance",
+            "B": "Two Substances",
+            "C": "Many Substances",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "केवल एक द्रव्य में",
+            "B": "दो द्रव्यों में",
+            "C": "अनेक द्रव्यों में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "question": "Who among of the following is also known as Akspada ?",
+        "prashna": "निम्नलिखित में से किसे अक्षपाद के नाम से भी जाना जाता है ?",
+        "options": {
+            "A": "Kapila",
+            "B": "Gotama",
+            "C": "Kanada",
+            "D": "Shankara"
+        },
+        "vikalpa": {
+            "A": "कपिल",
+            "B": "गौतम",
+            "C": "कणाद",
+            "D": "शंकर"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "question": "Shunyavada is a school of",
+        "prashna": "शून्यवाद एक संप्रदाय है",
+        "options": {
+            "A": "Jainism",
+            "B": "Buddhism",
+            "C": "Mimamsa Philosophy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जैन दर्शन का",
+            "B": "बौद्ध दर्शन का",
+            "C": "मीमांसा दर्शन का",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "question": "Which one of the following Philosophy accepts Samvaya as an independent category ?",
+        "prashna": "निम्नलिखित में से कौन सा दर्शन समवाय को एक स्वतंत्र पदार्थ मानता है ?",
+        "options": {
+            "A": "Nyaya Philosophy",
+            "B": "Vaisesika Philosophy",
+            "C": "Sankhya Philosophy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "न्याय दर्शन",
+            "B": "वैशेषिक दर्शन",
+            "C": "सांख्य दर्शन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "question": "Which one of the following statements is correct ?",
+        "prashna": "निम्नलिखित में से कौन सा एक कथन सत्य है ?",
+        "options": {
+            "A": "Ethics and Philosophy have no similarity",
+            "B": "Ethics and Philosophy have no differences",
+            "C": "Ethics and Philosophy have close relationship",
+            "D": "Ethics and Philosophy are opposed to each other"
+        },
+        "vikalpa": {
+            "A": "नीतिशास्त्र एवं दर्शनशास्त्र में कोई समानता नहीं है",
+            "B": "नीतिशास्त्र एवं दर्शनशास्त्र में कोई भेद नहीं है",
+            "C": "नीतिशास्त्र एवं दर्शनशास्त्र में घनिष्ठ संबंध है",
+            "D": "नीतिशास्त्र एवं दर्शनशास्त्र एक दूसरे के विरोधी हैं"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "question": "Which one of the following is a type of action within Normative Ethics ?",
+        "prashna": "मानक नीतिशास्त्र के अंतर्गत निम्नलिखित में से कौन कर्म के प्रकार हैं ?",
+        "options": {
+            "A": "Voluntary Actions",
+            "B": "Non-Voluntary Actions",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ऐच्छिक कर्म",
+            "B": "अनैच्छिक कर्म",
+            "C": "(A) एवं (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "question": "Which one of the following is the branch of Ethics ?",
+        "prashna": "निम्नलिखित में से कौन नीतिशास्त्र की शाखा है ?",
+        "options": {
+            "A": "Normative Ethics",
+            "B": "Meta-Ethics",
+            "C": "Applied Ethics",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "मानक नीतिशास्त्र",
+            "B": "अधिनीतिशास्त्र",
+            "C": "व्यावहारिक नीतिशास्त्र",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "question": "Professional Ethics is relaed to which one of the following ?",
+        "prashna": "व्यावसायिक नीतिशास्त्र निम्नलिखित में से किससे संबंधित है ?",
+        "options": {
+            "A": "Normative Ethics",
+            "B": "Meta-Ethics",
+            "C": "Applied Ethics",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मानक नीतिशास्त्र से",
+            "B": "अधिनीतिशास्त्र से",
+            "C": "व्यावहारिक नीतिशास्त्र से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "question": "“Ethics is the science of human conduct” – This statement is related to",
+        "prashna": "“नीतिशास्त्र मानव-आचरण का विज्ञान है” – यह कथन संबंधित है",
+        "options": {
+            "A": "Mackenzie",
+            "B": "James",
+            "C": "Lillie",
+            "D": "Seth"
+        },
+        "vikalpa": {
+            "A": "मैकेंजी से",
+            "B": "जेम्स से",
+            "C": "लिली से",
+            "D": "सेठ से"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is Materialism ?",
+        "prashna": "भौतिकवाद क्या है ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What do you mean by Subjective Idealism ?",
+        "prashna": "आत्मनिष्ठ अध्यात्मवाद से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is formal cause according to Aristotle.",
+        "prashna": "अरस्तू के अनुसार आकारिक कारण क्या है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What do you mean by Innate Ideas ?",
+        "prashna": "जन्मजात प्रत्यय से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Define Rationalism.",
+        "prashna": "बुद्धिवाद की परिभाषा दें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is the basis of Empiricism ?",
+        "prashna": "अनुभववाद का आधार क्या है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Define Realism.",
+        "prashna": "वस्तुवाद की परिभाषा दें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Define Ethics.",
+        "prashna": "नीतिशास्त्र की परिभाषा दें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Explain Padartha according to vaisesika.",
+        "prashna": "वैशेषिक दर्शन के अनुसार पदार्थ की व्याख्या करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Explain comparison according to Nyaya Philosophy.",
+        "prashna": "न्याय दर्शन के अनुसार उपमान प्रमाण की व्याख्या करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is Pararthanumana ?",
+        "prashna": "परार्थानुमान क्या है ?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Define Perception according to Gotama.",
+        "prashna": "गौतम के अनुसार प्रत्यक्ष की परिभाषा दें।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Explain good as an ethical concept.",
+        "prashna": "नैतिक संप्रत्यय के रूप में शुभ की व्याख्या करें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "What is Determinism ?",
+        "prashna": "नियतत्ववाद क्या है ?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What do you mean by Purushartha ?",
+        "prashna": "पुरुषार्थ से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Define Swadharma according to Bhagavadgita ?",
+        "prashna": "भगवद्गीता के अनुसार स्वधर्म की परिभाषा दें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Why Descartes is called a dualist ?",
+        "prashna": "देकार्त्त को द्वैतवादी क्यों कहा जाता है ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Explain Anekantavada.",
+        "prashna": "अनेकान्तवाद की व्याख्या करें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Explain the nature of God according to Shankara ?",
+        "prashna": "शंकर के अनुसार ईश्वर के स्वरूप की व्याख्या करें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "What do you mean by the concept of Nirvana in Buddhism ?",
+        "prashna": "बौद्ध दर्शन में निर्वाण की अवधारणा से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "What do you mean by Intuitive Perception ?",
+        "prashna": "योगज प्रत्यक्ष से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "Discuss Abhava Padartha in Vaisesika Philosophy ?",
+        "prashna": "वैशेषिक दर्शन में अभाव पदार्थ की विवेचना करें।"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "Distinguish between Empirical and Absolute Reality ?",
+        "prashna": "व्यावहारिक एवं पारमार्थिक सत्ता में अंतर करें।"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "Explain the theory of Pre-established harmony.",
+        "prashna": "पूर्वस्थापित सामंजस्यवाद की व्याख्या करें।"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "question": "Discuss Law of Karma.",
+        "prashna": "कर्मवाद के सिद्धान्त की विवेचना करें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "What do you mean by Pratityasamutpada ?",
+        "prashna": "प्रतीत्यसमुत्पाद से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "question": "What are the differences between Moral and Non-Moral Actions ?",
+        "prashna": "नैतिक कर्म एवं नीतिशून्य कर्म में क्या अंतर है ?"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "question": "Discuss Duty as an ethical concept.",
+        "prashna": "नैतिक संप्रत्यय के रूप में कर्तव्य की विवेचना करें।"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "question": "Discuss cosmological argument for the existence of God.",
+        "prashna": "ईश्वर के अस्तित्व को प्रमाणित करने के लिए विश्वमूलक युक्ति की विवेचना करें।"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "question": "What is Environmental Ethics ?",
+        "prashna": "परिवेशीय नीतिशास्त्र क्या है ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Explain and illustrate Sayadvada.",
+        "prashna": "स्याद्वाद की सोदाहरण व्याख्या करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "What is the nature of perception according to Nyaya Philosophy ?",
+        "prashna": "न्याय दर्शन के अनुसार प्रत्यक्ष का क्या स्वरूप है ?"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Discuss the Eightfold Path of Yoga Philosophy.",
+        "prashna": "योग दर्शन के अष्टांग-मार्ग की विवेचन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Describe the nature of Purusha and Prakriti according to Sankhya Philosophy.",
+        "prashna": "सांख्य दर्शन के अनुसार पुरुष एवं प्रकृति के स्वरूप का वर्णन करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "What is Criticism as an epistemological theory. Give a critical estimation of it.",
+        "prashna": "एक ज्ञानशास्त्रीय सिद्धान्त के रूप में समीक्षावाद क्या है ? इसका एक समीक्षात्मक मूल्यांकन करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Describe Moral argument for the existence of God.",
+        "prashna": "ईश्वर के अस्तित्व के संबंध में नैतिक युक्ति का वर्णन करें।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "Define Environmental Ethics. Enumerate its subject matter.",
+        "prashna": "परिवेशीय नीतिशास्त्र की परिभाषा दें। इसके विषयवस्तु का उल्लेख करें।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "Explain the Fourth Noble truth of Buddhism.",
+        "prashna": "बौद्ध दर्शन के चतुर्थ आर्यसत्य की व्याख्या करें।"
+    }
+]

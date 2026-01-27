@@ -1,0 +1,509 @@
+{
+  "2021": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Which modern Western empiricist demolished the prior assumptions of the cause-effect theory of his predecessors?",
+      "prashna": "किस आधुनिक पाश्चात्य अनुभववादी ने अपने पूर्व के कारण कार्य सिद्धान्त की पूर्व मान्यताओं को धराशायी कर दिया ?",
+      "options": {
+        "A": "Locke",
+        "B": "Berkeley",
+        "C": "Hume",
+        "D": "Spinoza"
+      },
+      "vikalpa": {
+        "A": "लॉक",
+        "B": "बर्कले",
+        "C": "ह्यूम",
+        "D": "स्पिनोज"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "What is the force called that provides motion to matter?",
+      "prashna": "जड़ में गति प्रदान करने वाली शक्ति को क्या कहते हैं?",
+      "options": {
+        "A": "Material cause",
+        "B": "Efficient cause",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उपादान कारण",
+        "B": "निमित्त कारण",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "What is the characteristic of theories explaining the cause-effect relationship?",
+      "prashna": "कारण-कार्य सम्बन्ध बतलाने वाले सिद्धान्तों की क्या विशेषता है ?",
+      "options": {
+        "A": "These are scientific theories",
+        "B": "These are unscientific theories",
+        "C": "These are religious theories",
+        "D": "These are moral theories"
+      },
+      "vikalpa": {
+        "A": "ये वैज्ञानिक सिद्धान्त है",
+        "B": "ये अवैज्ञानिक सिद्धान्त हैं",
+        "C": "ये धार्मिक सिद्धान्त हैं",
+        "D": "ये नैतिक सिद्धान्त हैं."
+      }
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Describe Aristotle's efficient cause.",
+      "prashna": "अरस्तु के निमित्त कारण का वर्णन करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Who has considered cause as the sum of positive and negative conditions?",
+      "prashna": "कारण को भावात्मक और निषेधात्मक उपाधियों का योग किसने माना है ?",
+      "options": {
+        "A": "Aristotle",
+        "B": "Mill",
+        "C": "Hume",
+        "D": "Kant"
+      },
+      "vikalpa": {
+        "A": "अरस्तू",
+        "B": "मिल",
+        "C": "ह्यूम",
+        "D": "काण्ट"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "What is the qualitative characteristic of cause?",
+      "prashna": "कारण का गुणात्मक लक्षण क्या है",
+      "options": {
+        "A": "It is an antecedent event",
+        "B": "It is a non-conditional event",
+        "C": "It is an immediate, invariable, unconditional, antecedent event",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "यह पूर्ववर्ती घटना है।",
+        "B": "यह अनौपाधिक घटना है।",
+        "C": "यह तात्कालिक, नियत, अनौपाधिक, पूर्ववर्ती घटना है।",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "What is the main assumption of Hume's empiricism?",
+      "prashna": "ह्यूम के अनुभववाद की प्रमुख मान्यता क्या है?",
+      "options": {
+        "A": "Causality is not necessary",
+        "B": "Causality is probable",
+        "C": "Necessity is not in the external object and event, it is in our mind",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कार्य-कारण अनिवार्य नहीं है",
+        "B": "कार्य-कारण सम्भाव्य है",
+        "C": "अनिवार्यता बाह्य वस्तु तथा घटना में नहीं, हमारे मन में है",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "According to Aristotle, what are the causes that produce any effect?",
+      "prashna": "अरस्तू के अनुसार किसी कार्य को उत्पन्न करने वाले कारण क्या है?"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Give the definition of Causality.",
+      "prashna": "कारणता की परिभाषा रोजिए।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Should the cause always be the antecedent of the effect?",
+      "prashna": "क्या कारण को हमेशा कार्य का पूर्ववर्ती रहना चाहिए ?"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "The principle of causality is:",
+      "prashna": "कारणता सिद्धान्त है",
+      "options": {
+        "A": "Religious",
+        "B": "Scientific",
+        "C": "Unscientific",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धार्मिक",
+        "B": "वैज्ञानिक",
+        "C": "अवैज्ञानिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "According to Aristotle, cause is:",
+      "prashna": "अरस्तू के अनुसार कारण है",
+      "options": {
+        "A": "Material",
+        "B": "Formal",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उपादान",
+        "B": "आकारिक",
+        "C": "(a) तथा (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "According to Mill, cause is:",
+      "prashna": "मिल के अनुसार कारण है",
+      "options": {
+        "A": "Sum of positive conditions",
+        "B": "Sum of negative conditions",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "भावात्मक उपाधियों का योग",
+        "B": "निषेधात्मक उपाधियों का योग",
+        "C": "(a) तथा (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Which of the following thinkers is related to the principle of Causality?",
+      "prashna": "निम्न में से कौन चिंतक कारणता के सिद्धान्त से संबंधित हैं ?",
+      "options": {
+        "A": "Mill",
+        "B": "Aristotle",
+        "C": "Hume",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "मिल",
+        "B": "अरस्तू",
+        "C": "ह्यूम",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "What is the power that provides motion to matter called?",
+      "prashna": "जड़ में गति प्रदान करने वाली शक्ति को क्या कहते हैं ?",
+      "options": {
+        "A": "Efficient cause",
+        "B": "Material cause",
+        "C": "Formal cause",
+        "D": "Final cause"
+      },
+      "vikalpa": {
+        "A": "निमित्त कारण",
+        "B": "उपादान कारण",
+        "C": "आकारिक कारण",
+        "D": "अंतिम कारण"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Why did Aristotle accept Interactionism (two causes)?",
+      "prashna": "अरस्तू ने अन्तः दो कारण को क्यों स्वीकारा"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Explain the nature of cause.",
+      "prashna": "कारण के स्वरूप की व्याख्या करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Which of the following cause is clay for the pot ?",
+      "prashna": "मिट्टी घड़े के लिए निम्नलिखित में से कौन सा कारण है ?",
+      "options": {
+        "A": "Material Cause",
+        "B": "Efficient Cause",
+        "C": "Formal Cause",
+        "D": "Final Cause"
+      },
+      "vikalpa": {
+        "A": "उपादान कारण",
+        "B": "निमित्त कारण",
+        "C": "आकारिक कारण",
+        "D": "अंतिम कारण"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Who among the following refutes the theory of Causation ?",
+      "prashna": "निम्नलिखित में से कौन कार्य-कारण सिद्धान्त का खण्डन करते हैं ?",
+      "options": {
+        "A": "Charvaka",
+        "B": "Buddha",
+        "C": "Gotama",
+        "D": "Kapila"
+      },
+      "vikalpa": {
+        "A": "चार्वाक",
+        "B": "बुद्ध",
+        "C": "गौतम",
+        "D": "कपिल"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Theory of Fourfold causation is related to",
+      "prashna": "चतुष्कोटि कारणतावाद का सिद्धान्त संबंधित है",
+      "options": {
+        "A": "Aristotle",
+        "B": "Plato",
+        "C": "Socrates",
+        "D": "None of them"
+      },
+      "vikalpa": {
+        "A": "अरस्तू से",
+        "B": "प्लेटो से",
+        "C": "सुकरात से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "According to theory of causation, the cause and effect are",
+      "prashna": "कारणकार्य नियम के अनुसार, कारण और कार्य होते हैं",
+      "options": {
+        "A": "Unequal",
+        "B": "Equal",
+        "C": "Proportionate",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "असमान",
+        "B": "समान",
+        "C": "आनुपातिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "The theory of causation of sankhya is known as -",
+      "prashna": "सांख्य दर्शन के कारणकार्य नियम को क्या कहा जाता है ?",
+      "options": {
+        "A": "Satkaryavada",
+        "B": "Asatkaryavada",
+        "C": "Vivartavada",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सत्कार्यवाद",
+        "B": "असत्यकार्य़वाद",
+        "C": "विवर्त्तवाद",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "What is formal cause according to Aristotle.",
+      "prashna": "अरस्तू के अनुसार आकारिक कारण क्या है ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Fire is cause of smoke, fire is :-",
+      "prashna": "धुएँ का कारण आग है, इसमें आग है :",
+      "options": {
+        "A": "Immediate cause",
+        "B": "Imaginary cause",
+        "C": "Final cause",
+        "D": "Accidental cause"
+      },
+      "vikalpa": {
+        "A": "तत्कालिक कारण",
+        "B": "काल्पनिक कारण",
+        "C": "अंतिम कारण",
+        "D": "आकस्मिक कारण"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Cause must not be ?",
+      "prashna": "कारण कैसा नहीं होना चाहिए ?",
+      "options": {
+        "A": "Necessary",
+        "B": "Accidental",
+        "C": "Real",
+        "D": "Immediate"
+      },
+      "vikalpa": {
+        "A": "नियत",
+        "B": "आकस्मिक",
+        "C": "वास्तविक",
+        "D": "तत्कालिक"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "The clay of a pot is an example of ?",
+      "prashna": "घड़े की मिट्टी किसका उदाहरण है ?",
+      "options": {
+        "A": "Material Cause",
+        "B": "Efficient Cause",
+        "C": "Final Cause",
+        "D": "Formal Cause"
+      },
+      "vikalpa": {
+        "A": "उपादान कारण",
+        "B": "निमित्त कारण",
+        "C": "प्रयोजन कारण",
+        "D": "आकारिक कारण"
+      }
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "How many Causes are accepted by Aristotle? Clarify",
+      "prashna": "अरस्तू ने कितने कारणों को स्वीकारा है ? स्पष्ट करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Clarify the view of Hume regarding causation.",
+      "prashna": "ह्यूम के कारण सम्बन्धी विचार को स्पष्ट करें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Fire is cause of smoke, fire is :-",
+      "prashna": "धुएँ का कारण आग है, इसमें आग है :",
+      "options": {
+        "A": "Immediate cause",
+        "B": "Imaginary cause",
+        "C": "Final cause",
+        "D": "Accidental cause"
+      },
+      "vikalpa": {
+        "A": "तात्कालिक कारण",
+        "B": "काल्पनिक कारण",
+        "C": "अंतिम कारण",
+        "D": "आकस्मिक कारण"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "Cause must not be ?",
+      "prashna": "कारण कैसा नहीं होना चाहिए ?",
+      "options": {
+        "A": "Necessary",
+        "B": "Accidental",
+        "C": "Real",
+        "D": "Immediate"
+      },
+      "vikalpa": {
+        "A": "नियत",
+        "B": "आकस्मिक",
+        "C": "वास्तविक",
+        "D": "तात्कालिक"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "The Causal Principle",
+      "question": "The clay of a pot is an example of ?",
+      "prashna": "घड़े की मिट्टी किसका उदाहरण है ?",
+      "options": {
+        "A": "Material Cause",
+        "B": "Efficient Cause",
+        "C": "Final Cause",
+        "D": "Formal Cause"
+      },
+      "vikalpa": {
+        "A": "उपादान कारण",
+        "B": "निमित्त कारण",
+        "C": "प्रयोजन कारण",
+        "D": "आकारिक कारण"
+      }
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "How many Causes are accepted by Aristotle? Clarify",
+      "prashna": "अरस्तू ने कितने कारणों को स्वीकारा है ? स्पष्ट करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter_name": "The Causal Principle",
+      "question": "Clarify the view of Hume regarding causation.",
+      "prashna": "ह्यूम के कारण सम्बन्धी विचार को स्पष्ट करें।"
+    }
+  ]
+}

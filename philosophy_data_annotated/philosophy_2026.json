@@ -1,0 +1,2168 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "What is the basic principle of Buddhism?",
+        "prashna": "बौद्ध दर्शन का मूल सिद्धान्त क्या है ?",
+        "options": {
+            "A": "Soul is immortal",
+            "B": "Suffering and its cessation are",
+            "C": "God is supreme",
+            "D": "Sacrifice is essential"
+        },
+        "vikalpa": {
+            "A": "आत्मा अमर है",
+            "B": "दुःख और उसका निराकरण है",
+            "C": "ईश्वर सर्वोच्च है",
+            "D": "यज्ञ अनिवार्य है"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "‘Four Noble Truth’ is related to?",
+        "prashna": "‘चार आर्य सत्य’ किससे सम्बन्धित है ?",
+        "options": {
+            "A": "Jainism",
+            "B": "Buddhism",
+            "C": "Vedanta",
+            "D": "Sankhya"
+        },
+        "vikalpa": {
+            "A": "जैन दर्शन",
+            "B": "बौद्ध दर्शन",
+            "C": "वेदान्त दर्शन",
+            "D": "योग दर्शन"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Who gave the Eightfold path?",
+        "prashna": "अष्टांगिक मार्ग किसने दिया ?",
+        "options": {
+            "A": "Mahavira",
+            "B": "Buddha",
+            "C": "Kapila",
+            "D": "Gautama"
+        },
+        "vikalpa": {
+            "A": "महावीर",
+            "B": "बुद्ध",
+            "C": "कपिल",
+            "D": "गौतम"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Which is not emphasized in Buddhism?",
+        "prashna": "बौद्ध दर्शन में किसका महत्त्व नहीं है ?",
+        "options": {
+            "A": "Right view",
+            "B": "Non-violence",
+            "C": "Compassion",
+            "D": "Devotion to God"
+        },
+        "vikalpa": {
+            "A": "सम्यक दृष्टि",
+            "B": "अहिंसा",
+            "C": "करूणा",
+            "D": "ईश्वर भक्ति"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "How many Noble Truths are there in Buddhism?",
+        "prashna": "बौद्ध धर्म में आर्य सत्य है :",
+        "options": {
+            "A": "Four",
+            "B": "five",
+            "C": "Two",
+            "D": "One"
+        },
+        "vikalpa": {
+            "A": "चार",
+            "B": "पाँच",
+            "C": "दो",
+            "D": "एक"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "In Jaina Philosopy, the knowledge obtained through the senses and the mind is called",
+        "prashna": "जैन दर्शन में इन्द्रियों एवं मन से प्राप्त ज्ञान को कहते हैं",
+        "options": {
+            "A": "Mati Gyan",
+            "B": "Shruti Gyan",
+            "C": "Smriti Gyan",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "मति ज्ञान",
+            "B": "श्रुति ज्ञान",
+            "C": "स्मृतिज्ञान",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Who considered Pudgala as matter?",
+        "prashna": "पुद्गल को जड़रूप किसने माना ?",
+        "options": {
+            "A": "Jaina Philosophy",
+            "B": "Yoga philosophy",
+            "C": "Vedanta Philosophy",
+            "D": "Buddha Philosophy"
+        },
+        "vikalpa": {
+            "A": "जैन दर्शन",
+            "B": "योग दर्शन",
+            "C": "वेदान्त दर्शन",
+            "D": "बौद्ध दर्शन"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Syadvada of Jiana Philosophy is :",
+        "prashna": "जैन दर्शन का स्यादवाद है :",
+        "options": {
+            "A": "Idealistic Relativism",
+            "B": "Empiricistic Relativism",
+            "C": "Objective Relativism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रत्ययवादी सापेक्षतावाद",
+            "B": "अनुभववादी सापेक्षतावाद",
+            "C": "वस्तुवादी सापेक्षतावाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Is not related to Jaina Philosophy :",
+        "prashna": "जैन दर्शन से सम्बन्धित नहीं है :",
+        "options": {
+            "A": "Anekantvada",
+            "B": "Syadvada",
+            "C": "Kshanikvada",
+            "D": "Nayvada"
+        },
+        "vikalpa": {
+            "A": "अनेकान्तवाद",
+            "B": "स्यादवाद",
+            "C": "क्षणिकवाद",
+            "D": "नयवाद"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "In Jaina Philosophy, all living beings have been divided into how many categories ?",
+        "prashna": "जैन दर्शन में समस्त जीवों को कितनी श्रेणियों में बाँटा गया हैं ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Eight",
+            "D": "Ten"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "आठ",
+            "D": "दस"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "What is meant by Astika Philosophy ?",
+        "prashna": "आस्तिक दर्शन किसे कहते है ?",
+        "options": {
+            "A": "Those who accept the vedas",
+            "B": "Those who accept God",
+            "C": "Those who accept Soul",
+            "D": "Those who accept spiritual pleasure"
+        },
+        "vikalpa": {
+            "A": "जो वेदों को मानते हैं",
+            "B": "जो ईश्वर को मानते हैं",
+            "C": "जो आत्मा को मानते हैं",
+            "D": "जो आध्यात्मिक सुख मानते हैं"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "With which problem does Indian Philosophy begin ?",
+        "prashna": "भारतीय दर्शन किस समस्या से शुरू होता है ?",
+        "options": {
+            "A": "Suffering",
+            "B": "Wealth",
+            "C": "Liberation",
+            "D": "Science"
+        },
+        "vikalpa": {
+            "A": "दुःख",
+            "B": "धन",
+            "C": "मोक्ष",
+            "D": "विज्ञान"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "The ultimate aim of Indian Philosophy is :-",
+        "prashna": "भारतीय दर्शन का अंतिम लक्ष्य है :-",
+        "options": {
+            "A": "Dharma",
+            "B": "Artha",
+            "C": "Kama",
+            "D": "Moksha"
+        },
+        "vikalpa": {
+            "A": "धर्म",
+            "B": "अर्थ",
+            "C": "काम",
+            "D": "मोक्ष"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Ayathartha Gyan is called ?",
+        "prashna": "अयथार्थ ज्ञान कहलाता है ?",
+        "options": {
+            "A": "Pramana",
+            "B": "Prama",
+            "C": "Aprama",
+            "D": "Moksha"
+        },
+        "vikalpa": {
+            "A": "प्रमाण",
+            "B": "प्रमा",
+            "C": "अप्रमा",
+            "D": "मोक्ष"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "Which schools belong to Astika Schools ?",
+        "prashna": "भारतीय दर्शन की आस्तिक शाखाओं में कौन–कौन से दर्शन आते हैं ?",
+        "options": {
+            "A": "Only Yoga",
+            "B": "Only Sankhya",
+            "C": "Sankhya, Yoga, Nyaya, Vaishashika, Mimansa, Vedanta",
+            "D": "Only Buddhism"
+        },
+        "vikalpa": {
+            "A": "केवल योग",
+            "B": "केवल सांख्य",
+            "C": "सांख्य, योग, न्याय, वैशेषिक, मीमांसा, वेदान्त",
+            "D": "केवल बौद्ध"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "Which of the following pramanas does charvaka refute?",
+        "prashna": "चार्वाक इनमें से किस प्रमाण का खण्डन करता है ?",
+        "options": {
+            "A": "Shabda Pramana",
+            "B": "Arthapati",
+            "C": "Anumana Pramana",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "शब्द प्रमाण",
+            "B": "अर्थापत्ति",
+            "C": "अनुमान प्रमाण",
+            "D": "इन सभी का"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "According to charvaka the world was created :-",
+        "prashna": "चार्वाक के अनुसार विश्व का निर्माण हुआ है",
+        "options": {
+            "A": "By the combination of the four elements",
+            "B": "By the combination of the three elements",
+            "C": "By the combination of the two elements",
+            "D": "By the combination of the five great elements"
+        },
+        "vikalpa": {
+            "A": "चार भूतों के संयोग से",
+            "B": "तीन भूतों के संयोग से",
+            "C": "दो भूतों के संयोग से",
+            "D": "पाँच महाभूतों के संयोग से"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "According to charvaka, how many purusharthas are there ?",
+        "prashna": "चार्वाक के अनुसार पुरुषार्थ कितने हैं ?",
+        "options": {
+            "A": "Five",
+            "B": "Four",
+            "C": "Three",
+            "D": "Two"
+        },
+        "vikalpa": {
+            "A": "पाँच",
+            "B": "चार",
+            "C": "तीन",
+            "D": "दो"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "According to charvaka the world is :",
+        "prashna": "चार्वाक के अनुसार जगत है :-",
+        "options": {
+            "A": "Real",
+            "B": "Unreal",
+            "C": "Cannot be said",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वास्तविक",
+            "B": "अवास्तविक",
+            "C": "कहा नहीं जा सकता",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "Which one of the following pairs is accepted by charvaka ?",
+        "prashna": "निम्नलिखित में से कौन सा एक युग्म चार्वाक स्वीकार करता है ?",
+        "options": {
+            "A": "Vayu and Jala",
+            "B": "Agni and Akasha",
+            "C": "Pratyaksha and Anumana",
+            "D": "Shabda Praman and anumana"
+        },
+        "vikalpa": {
+            "A": "वायु एवं जल",
+            "B": "अग्नि एवं आकाश",
+            "C": "प्रत्यक्ष एवं अनुमान",
+            "D": "शब्द प्रमाण एवं अनुमान"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "Bhagavad Gita is a part of which Scripture ?",
+        "prashna": "भगवद्गीता किस ग्रंथ का अंश हैं ?",
+        "options": {
+            "A": "Nyaysutra",
+            "B": "Upanishad",
+            "C": "Mimansa Sutra",
+            "D": "Mahabharata"
+        },
+        "vikalpa": {
+            "A": "न्यायसूत्र",
+            "B": "उपनिषद्",
+            "C": "मीमांसा–सूत्र",
+            "D": "महाभारत"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "In the Gita, Who is considered the best devotee ?",
+        "prashna": "गीता में भगवान ने किसे सर्वश्रेष्ठ भक्त बताया है ?",
+        "options": {
+            "A": "One who is wise",
+            "B": "One who only worship",
+            "C": "One who devotes with selflessness",
+            "D": "One who wins wars"
+        },
+        "vikalpa": {
+            "A": "जो ज्ञानवान हो",
+            "B": "जो केवल पूजा करे",
+            "C": "जो निष्काम भाव से भक्ति करता है",
+            "D": "जो युद्ध जीते"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "The soul in the Gita is described as :",
+        "prashna": "गीता में आत्मा को किस रूप में बताया गया है ?",
+        "options": {
+            "A": "Perishable",
+            "B": "Changeable",
+            "C": "False",
+            "D": "Eternal"
+        },
+        "vikalpa": {
+            "A": "नाशवान",
+            "B": "परिवर्तनशील",
+            "C": "असत्य",
+            "D": "शाश्वत"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "In Gita, Krishna advised Arjuna to act with which attitude ?",
+        "prashna": "गीता में कृष्ण ने अर्जुन को किस भाव से कर्म करने को कहा ?",
+        "options": {
+            "A": "Escape",
+            "B": "Laziness",
+            "C": "Desire for result",
+            "D": "Selfless attitude"
+        },
+        "vikalpa": {
+            "A": "पलायन से",
+            "B": "आलस्य से",
+            "C": "फल की इच्छा से",
+            "D": "निष्काम भाव से"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "According to the Gita , which is superior?",
+        "prashna": "गीता के अनुसार किसका पालन श्रेष्ठ हैं ?",
+        "options": {
+            "A": "Other’s duty (Paradharma)",
+            "B": "None",
+            "C": "one’s own duty (swadharma)",
+            "D": "only devotion"
+        },
+        "vikalpa": {
+            "A": "परधर्म",
+            "B": "किसी का भी नहीं",
+            "C": "स्वधर्म",
+            "D": "केवल भक्ति"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Nyaya is what kind of Philosophy ?",
+        "prashna": "न्याय दर्शन किस प्रकार का दर्शन है ?",
+        "options": {
+            "A": "Astika",
+            "B": "Nastika",
+            "C": "Both A and B",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आस्तिक",
+            "B": "नास्तिक",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "How many Pramanas are mentioned in Nyaya Philosophy ?",
+        "prashna": "न्याय दर्शन में कितने प्रमाण बताए गए हैं ?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Six"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "छ:"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "According to Nyaya, ignorance is destroyed by ?",
+        "prashna": "न्याय दर्शन में अज्ञान का नाश किससे होता हैं ?",
+        "options": {
+            "A": "Devotion",
+            "B": "Charity",
+            "C": "Knowledge",
+            "D": "Yoga"
+        },
+        "vikalpa": {
+            "A": "भक्ति",
+            "B": "दान",
+            "C": "ज्ञान",
+            "D": "योग"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "On what inference is based in Nyaya Philosophy ?",
+        "prashna": "न्याय दर्शन में अनुमान किस पर आधारित है ?",
+        "options": {
+            "A": "Pratyaksha",
+            "B": "Upmana",
+            "C": "Shabda",
+            "D": "Hetu"
+        },
+        "vikalpa": {
+            "A": "प्रत्यक्ष",
+            "B": "उपमान",
+            "C": "शब्द",
+            "D": "हेतु"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Which of these is the main text of Nyaya Philosophy?",
+        "prashna": "न्याय दर्शन का प्रमुख ग्रंथ इनमें कौन सा है ?",
+        "options": {
+            "A": "Nyaya Sutras",
+            "B": "Yoga Sutras",
+            "C": "Brahma Sutras",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "न्यायसूत्र",
+            "B": "योगसूत्र",
+            "C": "ब्रह्मसूत्र",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "How many Padarthas are in vaisheshika ?",
+        "prashna": "वैशेषिक दर्शन में कितने पदार्थ माने गए हैं ?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "10"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "How many Gunas are mentioned in Vaisheshika philosophy?",
+        "prashna": "वैशेषिक दर्शन में कितने गुण बताए गए हैं ?",
+        "options": {
+            "A": "Twenty",
+            "B": "Twenty Four",
+            "C": "Twenty Eight",
+            "D": "Thirty"
+        },
+        "vikalpa": {
+            "A": "बीस",
+            "B": "चौबीस",
+            "C": "अठाइस",
+            "D": "तीस"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "According to vaisheshika, the world is made of ?",
+        "prashna": "वैशेषिक दर्शन के अनुसार जगत किससे बना है ?",
+        "options": {
+            "A": "Only God",
+            "B": "Atoms",
+            "C": "Shunya",
+            "D": "Mind"
+        },
+        "vikalpa": {
+            "A": "केवल ईश्वर से",
+            "B": "परमाणुओं से",
+            "C": "शून्य से",
+            "D": "मन से"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "In vaisheshika Philosophy, What is that Dravya called whose distinctive quality is consciousness?",
+        "prashna": "वैशेषिक दर्शन में उस द्रव्य को क्या कहते हैं जिसका विशिष्ट गुण चेतना होता है ?",
+        "options": {
+            "A": "Desha",
+            "B": "Kala",
+            "C": "Atman",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "देश",
+            "B": "काल",
+            "C": "आत्मा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "According to vaisheshika philosophy on what Gunas do depend for its existence?",
+        "prashna": "वैशेषिक दर्शन के अनुसार गुण अपने अस्तित्व के लिए किस पर निर्भर करता है ?",
+        "options": {
+            "A": "Dravya",
+            "B": "Samanya",
+            "C": "Vishesha",
+            "D": "Abhava"
+        },
+        "vikalpa": {
+            "A": "द्रव्य",
+            "B": "सामान्य",
+            "C": "विशेष",
+            "D": "अभाव"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "According to Sankhya Philosophy how is Prakriti considered?",
+        "prashna": "सांख्य दर्शन के अनुसार प्रकृति को कैसा माना गया हैं ?",
+        "options": {
+            "A": "Conscious",
+            "B": "Inactive",
+            "C": "Many",
+            "D": "Active"
+        },
+        "vikalpa": {
+            "A": "चेतन",
+            "B": "निष्क्रिय",
+            "C": "अनेक",
+            "D": "सक्रिय"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "According to sankhya philosophy how many types of ego are there?",
+        "prashna": "सांख्य दर्शन के अनुसार अहंकार कितने प्रकार का होता है ?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "तीन",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Which is the Unmanifest element in Sankhya ?",
+        "prashna": "सांख्य दर्शन में अव्यक्त तत्व कौन है ?",
+        "options": {
+            "A": "Purusha",
+            "B": "Prakriti",
+            "C": "Ahamkar",
+            "D": "Buddhi"
+        },
+        "vikalpa": {
+            "A": "पुरूष",
+            "B": "प्रकृति",
+            "C": "अहंकार",
+            "D": "बुद्धि"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "What is the nature of ‘ Tamoguna’ according to sankhya philosophy ?",
+        "prashna": "सांख्य दर्शन के अनुसार तमोगुण का स्वभाव क्या हैं ?",
+        "options": {
+            "A": "Purity",
+            "B": "Active",
+            "C": "Inertia",
+            "D": "Light"
+        },
+        "vikalpa": {
+            "A": "शुद्धता",
+            "B": "क्रियाशीलता",
+            "C": "जड़ता",
+            "D": "प्रकाश"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "What are the three qualities according to sankhya philosophy ?",
+        "prashna": "सांख्य दर्शन के अनुसार तीन गुण कौन–कौन से हैं ?",
+        "options": {
+            "A": "Mana, Buddhi, Ahamkara",
+            "B": "Sata, Raja, Tama",
+            "C": "Dharma, Artha, Kama",
+            "D": "Prithvi, Agni, Vayu"
+        },
+        "vikalpa": {
+            "A": "मन, बुद्धि, अहंकार",
+            "B": "सत्, रज, तम",
+            "C": "धर्म, अर्थ, काम",
+            "D": "पृथ्वी, अग्नि, वायु"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Who wrote Yoga Sutras?",
+        "prashna": "योगसूत्र किसने लिखा हैं ?",
+        "options": {
+            "A": "Shankara",
+            "B": "Ramanuja",
+            "C": "Gautama",
+            "D": "Patanjali"
+        },
+        "vikalpa": {
+            "A": "शंकर",
+            "B": "रामानुज",
+            "C": "गौतम",
+            "D": "पतंजलि"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Which is the first limb of Ashtanya Yoga?",
+        "prashna": "अष्टांग योग का पहला अंग कौन सा हैं ?",
+        "options": {
+            "A": "Asana",
+            "B": "Dharma",
+            "C": "Chittavritti",
+            "D": "Yama"
+        },
+        "vikalpa": {
+            "A": "आसन",
+            "B": "धारणा",
+            "C": "चित्तवृत्ति",
+            "D": "यम"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "According to Patanjali, Yoga means :-",
+        "prashna": "पतंजलि के अनुसार योग का अर्थ है :-",
+        "options": {
+            "A": "Chitttavriti Nirodh",
+            "B": "Bhakti",
+            "C": "Gyana",
+            "D": "Karma"
+        },
+        "vikalpa": {
+            "A": "चित्तवृत्ति निरोध",
+            "B": "भक्ति",
+            "C": "ज्ञान",
+            "D": "कर्म"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "What does Praytahara means in Yoga philosophy?",
+        "prashna": "योग दर्शन में प्रत्याहार का अर्थ है–",
+        "options": {
+            "A": "Meditation",
+            "B": "Control of senses",
+            "C": "Control of breath",
+            "D": "Concentration of mind"
+        },
+        "vikalpa": {
+            "A": "ध्यान लगाना",
+            "B": "इन्द्रियों का संयम",
+            "C": "श्वास का नियंत्रण",
+            "D": "मन का एकाग्र होना"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "The meaning of the word ‘Asteya’ in Yoga Philosophy ?",
+        "prashna": "योग दर्शन में अस्तेय शब्द का अर्थ है :-",
+        "options": {
+            "A": "Illusion",
+            "B": "Non- Stealing",
+            "C": "Meditation",
+            "D": "Renunciation"
+        },
+        "vikalpa": {
+            "A": "भ्रम",
+            "B": "चोरी न करना",
+            "C": "ध्यान करना",
+            "D": "त्याग करना"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "chapter_name": "Advaita Vedanta",
+        "question": "What is the nature of liberation in Advaita Vedanta?",
+        "prashna": "अद्वैत वेदान्त में मोक्ष का स्वरूप है –",
+        "options": {
+            "A": "Rebirth",
+            "B": "Union of self and Brahman",
+            "C": "Devotion",
+            "D": "Renunciation"
+        },
+        "vikalpa": {
+            "A": "पुनर्जन्म",
+            "B": "आत्मा और ब्रह्म की एकता",
+            "C": "भक्ति",
+            "D": "त्याग"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "chapter_name": "Advaita Vedanta",
+        "question": "The author of Brahmshtra is -",
+        "prashna": "ब्रह्मसूत्र के रचयिता हैं –",
+        "options": {
+            "A": "Badarayan",
+            "B": "Buddha",
+            "C": "Gautam",
+            "D": "Patanjali"
+        },
+        "vikalpa": {
+            "A": "बादरायण",
+            "B": "बुद्ध",
+            "C": "गौतम",
+            "D": "पतंजलि"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "chapter_name": "Advaita Vedanta",
+        "question": "According to shankar, who is Sat-Chit-Anand?",
+        "prashna": "शंकर के अनुसार सत्–चित्–आनन्द कौन है ?",
+        "options": {
+            "A": "Body",
+            "B": "Maya",
+            "C": "Brahman",
+            "D": "None of These"
+        },
+        "vikalpa": {
+            "A": "शरीर",
+            "B": "माया",
+            "C": "ब्रह्म",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "chapter_name": "Advaita Vedanta",
+        "question": "According to Advaita vedanta, consciousness belongs to the soul -",
+        "prashna": "अद्वैत वेदान्त के अनुसार चैतन्य आत्मा का है –",
+        "options": {
+            "A": "Substance of",
+            "B": "Quality of",
+            "C": "Nature of",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "द्रव्य",
+            "B": "गुण",
+            "C": "स्वरूप",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "chapter_name": "Advaita Vedanta",
+        "question": "Shankara calls Advaita as ?",
+        "prashna": "शंकर अद्वैत को कहते हैं ?",
+        "options": {
+            "A": "Ishwar",
+            "B": "Maya",
+            "C": "Brahman",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "ईश्वर",
+            "B": "माया",
+            "C": "ब्रह्म",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Rationalism is based on -",
+        "prashna": "बुद्धिवाद किस पर आधारित है ?",
+        "options": {
+            "A": "Tradition",
+            "B": "Experience",
+            "C": "Senses",
+            "D": "Reason"
+        },
+        "vikalpa": {
+            "A": "परम्परा",
+            "B": "अनुभव",
+            "C": "इन्द्रियों",
+            "D": "बुद्धि"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to Rationalism, truth is identified by :-",
+        "prashna": "बुद्धिवाद के अनुसार सत्य की पहचान कैसे होती है ?",
+        "options": {
+            "A": "Experience",
+            "B": "Synthesis",
+            "C": "Complex idea",
+            "D": "Reason and clarity"
+        },
+        "vikalpa": {
+            "A": "अनुभव से",
+            "B": "संश्लेषण से",
+            "C": "जटिल प्रत्यय से",
+            "D": "तर्क और स्पष्टता से"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "‘Leibnitz’ is associated with -",
+        "prashna": "‘लाइबनिज्ज’ किस विचारधारा से जुड़े हैं ?",
+        "options": {
+            "A": "Skepticism",
+            "B": "Empiricism",
+            "C": "Rationalism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संदेहवाद",
+            "B": "अनुभववाद",
+            "C": "बुद्धिवाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Descartes was a Philosopher of which age ?",
+        "prashna": "देकार्त्त किस युग के दार्शनिक थे ?",
+        "options": {
+            "A": "Ancient",
+            "B": "Medieval",
+            "C": "Modern",
+            "D": "Contemporary"
+        },
+        "vikalpa": {
+            "A": "प्राचीन",
+            "B": "मध्यकाल",
+            "C": "आधुनिक",
+            "D": "समकालीन"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "The famous contribution of Descartes is -",
+        "prashna": "देकार्त्त का प्रसिद्ध योगदान है –",
+        "options": {
+            "A": "Method of doubt",
+            "B": "Empiricism",
+            "C": "Criticism",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संदेह–विधि",
+            "B": "अनुभववाद",
+            "C": "समीक्षावाद",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "What was the style of Descartes’ Philosophy ?",
+        "prashna": "देकार्त्त की दर्शन शैली क्या थी ?",
+        "options": {
+            "A": "Analytical",
+            "B": "Synthetical",
+            "C": "Practical",
+            "D": "Religious"
+        },
+        "vikalpa": {
+            "A": "विश्लेषणात्मक",
+            "B": "संश्लेषणात्मक",
+            "C": "प्रायोगिक",
+            "D": "धार्मिक"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to Descartes, God’s existence is proved by ?",
+        "prashna": "देकार्त्त के अनुसार ईश्वर का अस्तित्व किससे सिद्ध होता है ?",
+        "options": {
+            "A": "Experience",
+            "B": "Method of doubt",
+            "C": "Society",
+            "D": "Innate idea"
+        },
+        "vikalpa": {
+            "A": "अनुभव",
+            "B": "संदेह–विधि",
+            "C": "समाज",
+            "D": "जन्मजात प्रत्यय"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "How did Spinoza define God ?",
+        "prashna": "स्पिनोजा ने ईश्वर को कैसे परिभाषित किया ?",
+        "options": {
+            "A": "Religious authority",
+            "B": "Social authority",
+            "C": "Self-existing substance",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "धार्मिक सत्ता",
+            "B": "सामाजिक सत्ता",
+            "C": "स्वयं में विद्यमान पदार्थ",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "Who among the following is a supporter of Pantheism?",
+        "prashna": "इनमें से कौन सर्वेश्वरवाद के समर्थक हैं ?",
+        "options": {
+            "A": "Descartes",
+            "B": "Spinoza",
+            "C": "Leibnitz",
+            "D": "None of them"
+        },
+        "vikalpa": {
+            "A": "देकार्त्त",
+            "B": "स्पिनोजा",
+            "C": "लाइबनिज्ज",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "Who among the following is a supporter of Parallelism?",
+        "prashna": "इनमें से कौन समानान्तरवाद के समर्थक हैं ?",
+        "options": {
+            "A": "Locke",
+            "B": "Hume",
+            "C": "Descartes",
+            "D": "Spinoza"
+        },
+        "vikalpa": {
+            "A": "लॉक",
+            "B": "ह्यूम",
+            "C": "देकार्त्त",
+            "D": "स्पिनोजा"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "According to Leibnitz, a ‘Monad’ is :-",
+        "prashna": "लाइबनिज्ज के अनुसार ‘मोनाड’ क्या है ?",
+        "options": {
+            "A": "Atom of matter",
+            "B": "Soul Like unit",
+            "C": "Part of body",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पदार्थ का अणु",
+            "B": "आत्मा जैसी इकाई",
+            "C": "शरीर का अंग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "According to Leibnitz, the universe is made of ?",
+        "prashna": "लाइबनिज्ज के अनुसार ब्रह्मांड किससे बना है ?",
+        "options": {
+            "A": "Matter",
+            "B": "Atoms",
+            "C": "Monads",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पदार्थ",
+            "B": "परमाणु",
+            "C": "मोनाड",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "According to Leibnitz, monads are -",
+        "prashna": "लाइबनिज्ज के अनुसार मोनाड है –",
+        "options": {
+            "A": "Material Particle",
+            "B": "Body- Parts",
+            "C": "Inseparable and independent",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "भौतिक कण",
+            "B": "शरीर के अंग",
+            "C": "अविभाज्य और स्वतंत्र",
+            "D": "उपर्युक्त सभी"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "Leibnitz considered the basis of knowledge as ?",
+        "prashna": "लाइबनिज्ज ने ज्ञान का आधार किसे माना ?",
+        "options": {
+            "A": "Experience",
+            "B": "Reason",
+            "C": "Society",
+            "D": "Tradition"
+        },
+        "vikalpa": {
+            "A": "अनुभव",
+            "B": "बुद्धि",
+            "C": "समाज",
+            "D": "परंपरा"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According ot Empiricism, the infant’s mind is like -",
+        "prashna": "अनुभववाद के अनुसार शिशु का मस्तिष्क कैसा होता हैं ?",
+        "options": {
+            "A": "Blank Slate",
+            "B": "Full of knowledge",
+            "C": "Full of innate ideas",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "कोरी पट्टी",
+            "B": "ज्ञान से भरा हुआ",
+            "C": "जन्मजात प्रत्ययों से भरा हुआ",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "What type of method does empiricism use?",
+        "prashna": "अनुभववाद किस प्रकार की पद्धति का उपयोग करता है ?",
+        "options": {
+            "A": "Inductive method",
+            "B": "Intuitive method",
+            "C": "Deductive method",
+            "D": "None of thses"
+        },
+        "vikalpa": {
+            "A": "आगमनात्मक पद्धति",
+            "B": "अन्तः प्रेरणा पद्धति",
+            "C": "निगमनात्मक पद्धति",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "What type of Philosopher was Locke?",
+        "prashna": "लॉक किस प्रकार का दार्शनिक था ?",
+        "options": {
+            "A": "Empiricist",
+            "B": "Rationalist",
+            "C": "Realistic",
+            "D": "Critical"
+        },
+        "vikalpa": {
+            "A": "अनुभववादी",
+            "B": "बुद्धिवादी",
+            "C": "यथार्थवादी",
+            "D": "समीक्षावादी"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to Locke, how many types of qualities are there ?",
+        "prashna": "लॉक के अनुसार गुण कितने प्रकार के हैं ?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Seven",
+            "D": "Eight"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "सात",
+            "D": "आठ"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to Locke from where Simple ideas come ?",
+        "prashna": "लॉक के अनुसार ‘साधारण विचार’ कहाँ से आते हैं ?",
+        "options": {
+            "A": "Reason",
+            "B": "Religion",
+            "C": "Experience",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "तर्क",
+            "B": "धर्म",
+            "C": "अनुभव",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Who is the writer of ‘An essay concerning human understanding ?",
+        "prashna": "‘एन एस्से कन्सर्निंग ह्यूमन अंडरस्टैंडिंग’ के लेखक कौन हैं ?",
+        "options": {
+            "A": "Locke",
+            "B": "Berkley",
+            "C": "Spinoza",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "लॉक",
+            "B": "बर्कले",
+            "C": "स्पिनोजा",
+            "D": "कांत"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "Which philosopher’s views regarding materialism were refuted by Berkeley in the beginning of his philosophy?",
+        "prashna": "बर्कले अपने दर्शन के प्रारंभ में जड़वाद सम्बन्धी किस दार्शनिक के विचारों का खण्डन किया था ?",
+        "options": {
+            "A": "Spinoza",
+            "B": "Locke",
+            "C": "Hume",
+            "D": "Descartes"
+        },
+        "vikalpa": {
+            "A": "स्पिनोजा",
+            "B": "लॉक",
+            "C": "ह्यूम",
+            "D": "देकार्त्त"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "From the epistemological point fo view Berkeley was :-",
+        "prashna": "ज्ञानमीमांसीय दृष्टि से बर्कले था –",
+        "options": {
+            "A": "Skeptical philosopher",
+            "B": "Ratioralist philosopher",
+            "C": "Empirical philosopher",
+            "D": "Critical philosopher"
+        },
+        "vikalpa": {
+            "A": "संशयवादी दार्शनिक",
+            "B": "बुद्धिवादी दार्शनिक",
+            "C": "अनुभववादी दार्शनिक",
+            "D": "समीक्षावादी दार्शनिक"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "According to Berkeley, what is the relationship between fundamental qualities and sub-qualities?",
+        "prashna": "बर्कले के अनुसार मूल गुण तथा उपगुण में कैसा सम्बन्ध है ?",
+        "options": {
+            "A": "Seperable",
+            "B": "Inseperable",
+            "C": "Identical",
+            "D": "Psychological"
+        },
+        "vikalpa": {
+            "A": "पृथक",
+            "B": "अपृथक",
+            "C": "तादात्म्य",
+            "D": "मनोवैज्ञानिक"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "According to Berkeley which of the following does not exist ?",
+        "prashna": "बर्कले के अनुसार निम्नलिखित में किसका अस्तित्व नहीं है ?",
+        "options": {
+            "A": "God",
+            "B": "Matter",
+            "C": "soul",
+            "D": "Preception by the soul"
+        },
+        "vikalpa": {
+            "A": "ईश्वर",
+            "B": "जड़ तत्व",
+            "C": "आत्मा",
+            "D": "आत्मा द्वारा प्रत्यक्ष"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "According to Berkeley, matter :",
+        "prashna": "बर्कले के अनुसार पदार्थ :",
+        "options": {
+            "A": "Exists independently",
+            "B": "Does not exist independently",
+            "C": "Exists may as atoms",
+            "D": "Exists eternally"
+        },
+        "vikalpa": {
+            "A": "स्वतंत्र रूप से अस्तित्व रखता है",
+            "B": "स्वतंत्र रूप में अस्तित्व नहीं रखता है",
+            "C": "केवल परमाणुओं के रूप में अस्तित्व रखता है",
+            "D": "सदा के लिए अस्तित्व रखता है"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Who has considered impressions as primary and ideas as secondary ?",
+        "prashna": "किसने संस्कारों को प्राथमिक तथा प्रत्ययों को गौण माना है ?",
+        "options": {
+            "A": "Hume",
+            "B": "Locke",
+            "C": "Descartes",
+            "D": "Kant"
+        },
+        "vikalpa": {
+            "A": "ह्यूम",
+            "B": "लॉक",
+            "C": "देकार्त्त",
+            "D": "कांत"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Hume’s Pure empiricism culminates in which theory?",
+        "prashna": "ह्यूम के शुद्ध अनुभववाद की परिणति किस सिद्धान्त में होती है ?",
+        "options": {
+            "A": "Rationalism",
+            "B": "Skepticism",
+            "C": "Criticism",
+            "D": "Hegelianism"
+        },
+        "vikalpa": {
+            "A": "बुद्धिवाद",
+            "B": "संशयवाद",
+            "C": "समीक्षावाद",
+            "D": "हेगेलवाद"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Which philosopher was strongly influenced by Hume ?",
+        "prashna": "ह्यूम का किस दार्शनिक पर गहरा प्रभाव पड़ा ?",
+        "options": {
+            "A": "Descartes",
+            "B": "Plato",
+            "C": "Kant",
+            "D": "Berkeley"
+        },
+        "vikalpa": {
+            "A": "देकार्त्त",
+            "B": "प्लेटो",
+            "C": "कांत",
+            "D": "बर्कले"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Hume denied the existence of :",
+        "prashna": "ह्यूम ने किसके अस्तित्व का खंडन किया ?",
+        "options": {
+            "A": "Sense experience",
+            "B": "Impressions",
+            "C": "Necessary Causality",
+            "D": "Empiricism"
+        },
+        "vikalpa": {
+            "A": "इन्द्रिय अनुभव",
+            "B": "संस्कार",
+            "C": "आवश्यक कारणता",
+            "D": "अनुभववाद"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to Hume , where does real knowledge come from ?",
+        "prashna": "ह्यूम के अनुसार यथार्थ ज्ञान किससे प्राप्त होता हैं ?",
+        "options": {
+            "A": "Only Reason",
+            "B": "Sense experience",
+            "C": "Innate ideas",
+            "D": "God"
+        },
+        "vikalpa": {
+            "A": "केवल बुद्धि से",
+            "B": "इन्द्रिय अनुभव से",
+            "C": "जन्मजात विचारों से",
+            "D": "ईश्वर से"
+        }
+    },
+    {
+        "id": "obj_81",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Immanued kant was a philosopher of which Country ?",
+        "prashna": "इमैनुएल कांट किस देश के दार्शनिक थे ?",
+        "options": {
+            "A": "India",
+            "B": "Greece",
+            "C": "Germany",
+            "D": "France"
+        },
+        "vikalpa": {
+            "A": "भारत",
+            "B": "यूनान",
+            "C": "जर्मनी",
+            "D": "फ्रांस"
+        }
+    },
+    {
+        "id": "obj_82",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Kant tried to reconcile with ?",
+        "prashna": "कांट ने किसका समन्वय करने का प्रयास किया ?",
+        "options": {
+            "A": "Religion and Science",
+            "B": "Rationalism and Empiricism",
+            "C": "Soul and God",
+            "D": "Sociology and Philosophy"
+        },
+        "vikalpa": {
+            "A": "धर्म और ईश्वर",
+            "B": "बुद्धिवाद और अनुभववाद",
+            "C": "आत्मा और ईश्वर",
+            "D": "समाजशास्त्र और दर्शनशास्त्र"
+        }
+    },
+    {
+        "id": "obj_83",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to kant knowledge is :",
+        "prashna": "कांट के अनुसार ज्ञान है :",
+        "options": {
+            "A": "Rationalist Judgement",
+            "B": "Empiricist Judgement",
+            "C": "Synthetic a Priori Judgement",
+            "D": "A Priori Judgement"
+        },
+        "vikalpa": {
+            "A": "बुद्धिवादी निर्णय",
+            "B": "अनुभववादी निर्णय",
+            "C": "संश्लेषणात्मक",
+            "D": "प्रागनुभविक निर्णय"
+        }
+    },
+    {
+        "id": "obj_84",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "Kant’s philosophy is Known as :",
+        "prashna": "कांट का दर्शन किस नाम से जाना जाता हैं ?",
+        "options": {
+            "A": "Rationalism",
+            "B": "Empiricism",
+            "C": "Criticism",
+            "D": "Hegelianism"
+        },
+        "vikalpa": {
+            "A": "बुद्धिवाद",
+            "B": "अनुभववाद",
+            "C": "समीक्षावाद",
+            "D": "हेगेलवाद"
+        }
+    },
+    {
+        "id": "obj_85",
+        "type": "objective",
+        "chapter_name": "Knowledge and truth",
+        "question": "According to Kant, space and time are?",
+        "prashna": "कांट के अनुसार स्थान और समय है :",
+        "options": {
+            "A": "Real external entities",
+            "B": "Illusion",
+            "C": "Forms of intuition",
+            "D": "Substance"
+        },
+        "vikalpa": {
+            "A": "वास्तविक बाह्य सत्ता",
+            "B": "भ्रम",
+            "C": "अंतर्ज्ञान के रूप",
+            "D": "द्रव्य"
+        }
+    },
+    {
+        "id": "obj_86",
+        "type": "objective",
+        "chapter_name": "The Causal Principle",
+        "question": "Fire is cause of smoke, fire is :-",
+        "prashna": "धुएँ का कारण आग है, इसमें आग है :",
+        "options": {
+            "A": "Immediate cause",
+            "B": "Imaginary cause",
+            "C": "Final cause",
+            "D": "Accidental cause"
+        },
+        "vikalpa": {
+            "A": "तात्कालिक कारण",
+            "B": "काल्पनिक कारण",
+            "C": "अंतिम कारण",
+            "D": "आकस्मिक कारण"
+        }
+    },
+    {
+        "id": "obj_87",
+        "type": "objective",
+        "chapter_name": "The Causal Principle",
+        "question": "Cause must not be ?",
+        "prashna": "कारण कैसा नहीं होना चाहिए ?",
+        "options": {
+            "A": "Necessary",
+            "B": "Accidental",
+            "C": "Real",
+            "D": "Immediate"
+        },
+        "vikalpa": {
+            "A": "नियत",
+            "B": "आकस्मिक",
+            "C": "वास्तविक",
+            "D": "तात्कालिक"
+        }
+    },
+    {
+        "id": "obj_88",
+        "type": "objective",
+        "chapter_name": "The Causal Principle",
+        "question": "The clay of a pot is an example of ?",
+        "prashna": "घड़े की मिट्टी किसका उदाहरण है ?",
+        "options": {
+            "A": "Material Cause",
+            "B": "Efficient Cause",
+            "C": "Final Cause",
+            "D": "Formal Cause"
+        },
+        "vikalpa": {
+            "A": "उपादान कारण",
+            "B": "निमित्त कारण",
+            "C": "प्रयोजन कारण",
+            "D": "आकारिक कारण"
+        }
+    },
+    {
+        "id": "obj_89",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "In idealism the existance of the external world is :-",
+        "prashna": "प्रत्ययवाद में बाह्य जगत की सत्ता है :-",
+        "options": {
+            "A": "Existing independently",
+            "B": "False",
+            "C": "Dependent on matter",
+            "D": "Dependent on consciousness"
+        },
+        "vikalpa": {
+            "A": "स्वतंत्र रूप से विद्यमान",
+            "B": "असत्य",
+            "C": "पदार्थ पर निर्भर",
+            "D": "चेतना पर निर्भर"
+        }
+    },
+    {
+        "id": "obj_90",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "Berkeley was a supporter of ?",
+        "prashna": "बर्कले किसके पक्षधर थे ?",
+        "options": {
+            "A": "Materialism",
+            "B": "Realism",
+            "C": "Idealism",
+            "D": "Atheism"
+        },
+        "vikalpa": {
+            "A": "भौतिकवाद",
+            "B": "वस्तुवाद",
+            "C": "प्रत्ययवाद",
+            "D": "निरीश्वरवाद"
+        }
+    },
+    {
+        "id": "obj_91",
+        "type": "objective",
+        "chapter_name": "Realism and Idealism",
+        "question": "Which is the opposing view of materialism ?",
+        "prashna": "वस्तुवाद का विरोधी दृष्टिकोण कौन सा है ?",
+        "options": {
+            "A": "Empiricism",
+            "B": "Rationalism",
+            "C": "Idealism",
+            "D": "Skepticism"
+        },
+        "vikalpa": {
+            "A": "अनुभववाद",
+            "B": "बुद्धिवाद",
+            "C": "प्रत्ययवाद",
+            "D": "संशयवाद"
+        }
+    },
+    {
+        "id": "obj_92",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "Which type of proof the ontological argument is ?",
+        "prashna": "तात्त्विक तर्क किस प्रकार का प्रमाण है ?",
+        "options": {
+            "A": "Ethical",
+            "B": "Religious",
+            "C": "Logical",
+            "D": "Scientific"
+        },
+        "vikalpa": {
+            "A": "नैतिक",
+            "B": "धार्मिक",
+            "C": "तार्किक",
+            "D": "वैज्ञानिक"
+        }
+    },
+    {
+        "id": "obj_93",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "What is the conclusion of the ontological argument ?",
+        "prashna": "तात्त्विक तर्क का निष्कर्ष क्या है ?",
+        "options": {
+            "A": "God’s existence is imaginary",
+            "B": "God’s existence is proved only by experience",
+            "C": "God’s existence is necessary",
+            "D": "Belief in God is unscientific"
+        },
+        "vikalpa": {
+            "A": "ईश्वर का अस्तित्व काल्पनिक है",
+            "B": "ईश्वर का अस्तित्व केवल अनुभव से सिद्ध होता है",
+            "C": "ईश्वर का अस्तित्व आवश्यक है",
+            "D": "ईश्वर पर विश्वास अवैज्ञानिक है"
+        }
+    },
+    {
+        "id": "obj_94",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "What is the conclusion of the teleological argument ?",
+        "prashna": "प्रयोजनात्मक तर्क का निष्कर्ष क्या हैं ?",
+        "options": {
+            "A": "Universe is self created",
+            "B": "Universe is eternal",
+            "C": "Universe has a designer",
+            "D": "The existence of the universe is false"
+        },
+        "vikalpa": {
+            "A": "ब्रह्मांड स्वतः उत्पन्न हुआ है",
+            "B": "ब्रह्मांड शाश्वत है",
+            "C": "ब्रह्मांड के पीछे एक नियोजक है",
+            "D": "ब्रह्मांड का अस्तित्व असत्य है"
+        }
+    },
+    {
+        "id": "obj_95",
+        "type": "objective",
+        "chapter_name": "Nature of Reality",
+        "question": "Who was a famous proponent of the cosmological argument ?",
+        "prashna": "विश्व सम्बन्धी तर्क का प्रमुख प्रतिपादक कौन था ?",
+        "options": {
+            "A": "Kant",
+            "B": "Thomas Acquninas",
+            "C": "Locke",
+            "D": "Spinoza"
+        },
+        "vikalpa": {
+            "A": "कांट",
+            "B": "थॉमस एक्विनास",
+            "C": "लॉक",
+            "D": "स्पिनोजा"
+        }
+    },
+    {
+        "id": "obj_96",
+        "type": "objective",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "Which of the following is essential for moral actions",
+        "prashna": "नैतिक कर्म के लिए आवश्यक है :-",
+        "options": {
+            "A": "God",
+            "B": "Soul",
+            "C": "Freedom of will",
+            "D": "Good"
+        },
+        "vikalpa": {
+            "A": "ईश्वर",
+            "B": "आत्मा",
+            "C": "इच्छा स्वातंत्र्य",
+            "D": "शुभ"
+        }
+    },
+    {
+        "id": "obj_97",
+        "type": "objective",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "Professional ethics is the study of :-",
+        "prashna": "व्यापार नीतिशास्त्र अध्ययन है –",
+        "options": {
+            "A": "Morality",
+            "B": "Profit",
+            "C": "Ideals",
+            "D": "Values"
+        },
+        "vikalpa": {
+            "A": "नैतिकता का",
+            "B": "लाभ का",
+            "C": "आदर्शों का",
+            "D": "मूल्यों का"
+        }
+    },
+    {
+        "id": "obj_98",
+        "type": "objective",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "Duty meanas :",
+        "prashna": "कर्तव्य का अर्थ है :",
+        "options": {
+            "A": "Moral obligation",
+            "B": "Good",
+            "C": "Experience",
+            "D": "Consequence"
+        },
+        "vikalpa": {
+            "A": "नैतिक दायित्व",
+            "B": "शुभ",
+            "C": "अनुभव",
+            "D": "परिणाम"
+        }
+    },
+    {
+        "id": "obj_99",
+        "type": "objective",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "Goodness is related to :",
+        "prashna": "शुभ का सम्बन्ध किससे है ?",
+        "options": {
+            "A": "Duties",
+            "B": "Moral Values",
+            "C": "Rights",
+            "D": "Desire"
+        },
+        "vikalpa": {
+            "A": "कर्तव्य से",
+            "B": "नैतिक मूल्य से",
+            "C": "अधिकार से",
+            "D": "इच्छा से"
+        }
+    },
+    {
+        "id": "obj_100",
+        "type": "objective",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "In moral philosophy, who said ‘Duty for duty’s sake’ ?",
+        "prashna": "नैतिक दर्शन में ‘कर्तव्य कर्तव्य के लिए है’ किसने कहा था ?",
+        "options": {
+            "A": "Kant",
+            "B": "Hume",
+            "C": "Mill",
+            "D": "Descartes"
+        },
+        "vikalpa": {
+            "A": "कांट",
+            "B": "ह्यूम",
+            "C": "मिल",
+            "D": "देकार्त्त"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "What is the nature of Indian philosophy?",
+        "prashna": "भारतीय दर्शन का स्वरूप क्या है ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "What is notion of Rta in Rigveda? Explain.",
+        "prashna": "ऋग्वेद में प्रतिपादित ऋत क्या है ? समझाइए।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "Discuss the theory of karma in Indian philosophy.",
+        "prashna": "भारतीय दर्शन में कर्म सिद्धान्त की विवेचना कीजिए।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "Explain Moksha as a purushartha.",
+        "prashna": "पुरूषार्थ के रूप में मोक्ष की व्याख्या कीजिए।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "What is the meaning of ‘Darshan’ in the term Bhartiya Darshan?",
+        "prashna": "भारतीय दर्शन शब्द में ‘दर्शन’ का क्या अर्थ है ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "What is karma yoga, according to Gita?",
+        "prashna": "गीता के अनुसार कर्म योग क्या है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "What is Aasakta and Anasakta Karma?",
+        "prashna": "आसक्त एवं अनासक्त कर्म किसे कहा गया है ?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "What are the Eightfold paths of Buddha philosophy?",
+        "prashna": "बौद्ध दर्शन के अष्टांग मार्ग कौन से हैं ?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Explain the meaning of Pratityasamutpada of Buddha philosophy.",
+        "prashna": "बौद्ध दर्शन के प्रतीत्यसमुत्पाद का अर्थ स्पष्ट कीजिए।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "What do you understand by Syadvada?",
+        "prashna": "स्यादवाद से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "What is Asrava and Nirjara? Explain.",
+        "prashna": "आश्रव व निर्जरा क्या है ? स्पष्ट करें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Clarify Nirvikalpa Pratyaksh, according to Nyaya philosophy.",
+        "prashna": "न्याय दर्शन के अनुसार निर्विकल्प प्रत्यक्ष को स्पष्ट करें ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "What is ‘Dravya’, according to vaisheshika. philosophy Clarify.",
+        "prashna": "वैशेषिक दर्शन के अनुसार द्रव्य क्या है ? स्पष्ट करें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Why is Prakriti called as Trigunatmaka? Describe.",
+        "prashna": "प्रकृति को त्रिगुणात्मक क्यों कहा गया है ? समझाइए।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Define Yama according to yoga philosophy.",
+        "prashna": "योग दर्शन के अनुसार यम की परिभाषा दें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "chapter_name": "Advaita Vedanta",
+        "question": "Why Shankara’s philosophy is Called Advaitvada?",
+        "prashna": "शंकर का दर्शन अद्वैतवाद क्यों कहा जाता है ?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "chapter_name": "Advaita Vedanta",
+        "question": "What is the difference between Tatastha Lakshan and Swaroop Lakshan of Brahma according to Shankara?",
+        "prashna": "शंकर के अनुसार ब्रह्म के तटस्थ लक्षण और स्वरूप लक्षण में क्या अंतर है ?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "chapter_name": "Knowledge and truth",
+        "question": "What is the difference between Rationalism and Empiricism?",
+        "prashna": "बुद्धिवाद एवं अनुभववाद में क्या अंतर है ?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "chapter_name": "Knowledge and truth",
+        "question": "What is the limitations of Rationalism?",
+        "prashna": "बुद्धिवाद की सीमाएँ क्या हैं ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "chapter_name": "Knowledge and truth",
+        "question": "Explain Locke's theory of knowledge.",
+        "prashna": "लॉक के ज्ञान सिद्धान्त की व्याख्या कीजिए ?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "chapter_name": "Knowledge and truth",
+        "question": "Explain the salient features of Empiricism.",
+        "prashna": "अनुभववाद की प्रमुख विशेषताओं का वर्णन करें।"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "chapter_name": "Knowledge and truth",
+        "question": "Why Kant's theory of knowledge is called criticism?",
+        "prashna": "कांट के ज्ञान सिद्धान्त को समीक्षावाद क्यो कहा जाता है ?"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "chapter_name": "Knowledge and truth",
+        "question": "Define Knowledge according to Kant.",
+        "prashna": "कांट के अनुसार ज्ञान की परिभाषा दें।"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "chapter_name": "The Causal Principle",
+        "question": "How many Causes are accepted by Aristotle? Clarify",
+        "prashna": "अरस्तू ने कितने कारणों को स्वीकारा है ? स्पष्ट करें।"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "chapter_name": "The Causal Principle",
+        "question": "Clarify the view of Hume regarding causation.",
+        "prashna": "ह्यूम के कारण सम्बन्धी विचार को स्पष्ट करें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "chapter_name": "Nature of Reality",
+        "question": "Discuss the proofs for the existence of God.",
+        "prashna": "ईश्वर के अस्तित्व संबंधी प्रमाणों की चर्चा करें।"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "chapter_name": "Nature of Reality",
+        "question": "What do you mean by ontological proof?",
+        "prashna": "सत्तामूलक प्रमाण से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "chapter_name": "Realism and Idealism",
+        "question": "What do you mean by Idealism?",
+        "prashna": "प्रत्ययवाद से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "What is Environmental ethics? Discuss.",
+        "prashna": "पर्यावरणीय नीतिशास्त्र क्या है ? बताइए।"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "What is Business ethics?",
+        "prashna": "व्यावसायिक नीतिशास्त्र क्या है ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter_name": "Nature and Schools of Indian Philosophy",
+        "question": "What do you mean by the nature of Indian philosophy? Explain.",
+        "prashna": "भारतीय दर्शन के स्वरूप से आपका क्या तात्पर्य है ? स्पष्ट कीजिए।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "chapter_name": "Philosophy of the Bhagavad Gita",
+        "question": "Write the moral teachings of the Gita.",
+        "prashna": "गीता के नैतिक उपदेशों को लिखिए।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter_name": "Buddhism, Jainism",
+        "question": "Explain the concept of four noble truth as expounded in Buddhist philosophy.",
+        "prashna": "बौद्ध दर्शन के अनुसार चार आर्य सत्य की अवधारणा की व्याख्या करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter_name": "Nyaya – Vaisesika and Samkhya – Yoga",
+        "question": "Explain the nature of Purusha according to Sankhya.",
+        "prashna": "सांख्य के अनुसार पुरूष के स्वरूप की व्याख्या करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "chapter_name": "Realism and Idealism",
+        "question": "Critically examine Berkeley's Empiricism.",
+        "prashna": "बर्कले के अनुभववाद की समीक्षात्मक व्याख्या करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "chapter_name": "Nature of Reality",
+        "question": "Give your arguments in context of cosmological argument.",
+        "prashna": "विश्वमूलक युक्ति के सन्दर्भ में अपने तर्क प्रस्तुत करें।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "chapter_name": "Realism and Idealism",
+        "question": "What is Subjective Idealism of Berkeley? Discuss.",
+        "prashna": "बर्कले का आत्मनिष्ठ प्रत्ययवाद क्या है ? चर्चा करें।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "chapter_name": "Environmental Ethics and Professional Ethics",
+        "question": "Discuss Good as an ethical concept.",
+        "prashna": "नैतिक संप्रत्यय के रूप में शुभ का विवेचन करें।"
+    }
+]

@@ -1,0 +1,603 @@
+{
+  "2021": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "What is Nishkama Karma?",
+      "prashna": "निष्काम कर्म क्या है ?",
+      "options": {
+        "A": "Renunciation of action",
+        "B": "Renunciation of the fruits of action",
+        "C": "Selfish action",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कर्म का त्याग है",
+        "B": "कर्मफल का त्याग है",
+        "C": "सकाम कर्म है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "What is the principle of Lokasamgraha?",
+      "prashna": "लोकसंग्रह का सिद्धान्त क्या है ?",
+      "options": {
+        "A": "Altruistic Hedonism",
+        "B": "Universalism",
+        "C": "Perfectionism",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "परार्थ सुखवाद",
+        "B": "सर्वकल्याणवाद",
+        "C": "पूर्णतावाद",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "According to the Bhagavad Gita, who among the following is an incarnation of God?",
+      "prashna": "निम्नलिखित में से कौन भगवद्गीता के अनुसार ईश्वर के अवतार हैं ?",
+      "options": {
+        "A": "Arjuna",
+        "B": "Karna",
+        "C": "Krishna",
+        "D": "Bhima"
+      },
+      "vikalpa": {
+        "A": "अर्जुन",
+        "B": "कर्ण",
+        "C": "कृष्ण",
+        "D": "भीम"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which ideas are found in the Bhagavad Gita?",
+      "prashna": "भगवद्गीता में कौन-से विचार पाये जाते हैं ?",
+      "options": {
+        "A": "Nishkama Karma",
+        "B": "Concept of Yoga",
+        "C": "Lokasamgraha",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "निष्काम कर्म",
+        "B": "योग की अवधारणा",
+        "C": "लोक संग्रह",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "What is the literal meaning of 'Bhagavad Gita'?",
+      "prashna": "'भगवद्गीता' का शाब्दिक अर्थ क्या है ?",
+      "options": {
+        "A": "Song of God",
+        "B": "Existence of God",
+        "C": "Nature of God",
+        "D": "Number of Gods"
+      },
+      "vikalpa": {
+        "A": "ईश्वर का गीत",
+        "B": "ईश्वर का अस्तित्व",
+        "C": "ईश्वर का स्वरूप",
+        "D": "ईश्वर की संख्या"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Who has called the Gita as 'Anasakti Yoga'?",
+      "prashna": "किसने गीता को अनासक्त योग कहा है ?",
+      "options": {
+        "A": "Vinoba",
+        "B": "Gandhi",
+        "C": "Nehru",
+        "D": "Tilak"
+      },
+      "vikalpa": {
+        "A": "विनोबा",
+        "B": "गाँधी",
+        "C": "नेहरू",
+        "D": "तिलक"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "According to Bhagavad Gita, what is that action which is performed without the desire for fruit?",
+      "prashna": "भगवद् गीता के अनुसार वह कर्म क्या है जो बिना फल की इच्छा के किया जाता है ?",
+      "options": {
+        "A": "Sakama Karma",
+        "B": "Nishkama Karma",
+        "C": "Vikarma",
+        "D": "Akarma"
+      },
+      "vikalpa": {
+        "A": "सकाम कर्म",
+        "B": "निष्काम कर्म",
+        "C": "विकर्म",
+        "D": "अकर्म"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which of the following options is correct regarding Bhagavad Gita?",
+      "prashna": "भगवद् गीता के संबंध में निम्नलिखित में से कौन-सा विकल्प सही है ?",
+      "options": {
+        "A": "Bhagavad Gita is the outcome of Krishna-Arjuna dialogue",
+        "B": "Bhagavad Gita is a part of the epic Mahabharata",
+        "C": "Bhagavad Gita is the song of God",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "भगवद् गीता कृष्ण-अर्जुन संवाद का प्रतिफल है",
+        "B": "भगवद् गीता महाभारत महाकाव्य का भाग है",
+        "C": "भगवद् गीता भगवान का गीत है।",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "What is the objective of the idea of 'Loka-samgraha'?",
+      "prashna": "'लोक संग्रह' के विचार का क्या उद्देश्य है ?",
+      "options": {
+        "A": "Welfare of the individuals of a particular caste",
+        "B": "Collection of wealth for the individuals of a particular caste",
+        "C": "Welfare of the individuals of this world",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "किसी वर्ण विशेष के व्यक्तियों का कल्याण",
+        "B": "किसी वर्ण विशेष के व्यक्तियों के लिये धन संग्रह",
+        "C": "इस लोक के व्यक्तियों का कल्याण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which text has enriched Indian philosophy through the concept of Avatar?",
+      "prashna": "भारतीय दर्शन को अवतार की अवधारणा के द्वारा समृद्ध किस ग्रंथ किया है ?",
+      "options": {
+        "A": "Brahma Sutra",
+        "B": "Bhagavad Gita",
+        "C": "Nyaya Sutra",
+        "D": "Shankara Bhashya"
+      },
+      "vikalpa": {
+        "A": "ब्रह्म सूत्र",
+        "B": "भगवद् गीता",
+        "C": "न्याय सूत्र",
+        "D": "शंकर भाष्य"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "The fundamental principle of Nishkama Karma is:",
+      "prashna": "निष्काम कर्म का मूल सिद्धान्त है।",
+      "options": {
+        "A": "Physical pleasure",
+        "B": "Duty for duty's sake",
+        "C": "Material happiness",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "शारीरिक सुख",
+        "B": "कर्तव्य के लिए कर्तव्य",
+        "C": "भौतिक सुख",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which of the following is not a Purushartha?",
+      "prashna": "निम्न में से कौन पुरुषार्थ नहीं है ?",
+      "options": {
+        "A": "Artha (Wealth)",
+        "B": "Dharma (Righteousness)",
+        "C": "Atma (Soul)",
+        "D": "Moksha (Liberation)"
+      },
+      "vikalpa": {
+        "A": "अर्थ",
+        "B": "धर्म",
+        "C": "आत्मा",
+        "D": "मोक्ष"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "The concept of 'Rina' (debt) is related to:",
+      "prashna": "ऋण' की अवधारणा संबंधित है",
+      "options": {
+        "A": "Brahmacharya Ashrama",
+        "B": "Grihastha Ashrama",
+        "C": "Vanaprastha Ashrama",
+        "D": "Sannyasa Ashrama"
+      },
+      "vikalpa": {
+        "A": "ब्रह्मचर्याश्रम से",
+        "B": "गृहस्थाश्रम से",
+        "C": "वानप्रस्थाश्रम से",
+        "D": "संन्यासाश्रम से"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Rita is related to:",
+      "prashna": "ऋत संबंधित है",
+      "options": {
+        "A": "Physical Law",
+        "B": "Religious Law",
+        "C": "Moral Law",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "भौतिक नियम से",
+        "B": "धार्मिक नियम से",
+        "C": "नैतिक नियम से",
+        "D": "इनमें से सभी से"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "The word 'Karma' originated from:",
+      "prashna": " 'कर्म' शब्द की उत्पत्ति हुई है।",
+      "options": {
+        "A": "The root 'Kr'",
+        "B": "The root 'Lu'",
+        "C": "The root 'Karma'",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": " 'कृ' धातु से",
+        "B": " 'लु' धातु से",
+        "C": " 'कर्म' धातु से",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which ideas are found in Bhagavad Gita?",
+      "prashna": "भगवद्गीता में कौन से विचार पाये जाते हैं ?",
+      "options": {
+        "A": "Loksangraha",
+        "B": "Nishkama Karma",
+        "C": "Svadharma",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "लोक संग्रह",
+        "B": "निष्काम कर्म",
+        "C": "स्वधर्म",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which of the following does not come under Purushartha?",
+      "prashna": "निम्नलिखित में से कौन पुरुषार्थ के अन्तर्गत नहीं आता है ?",
+      "options": {
+        "A": "Atma (Soul)",
+        "B": "Dharma",
+        "C": "Moksha",
+        "D": "Artha"
+      },
+      "vikalpa": {
+        "A": "आत्मा",
+        "B": "धर्म",
+        "C": "मोक्ष",
+        "D": "अर्थ"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "According to the Gita, what is the meaning of Yoga?",
+      "prashna": "गीता के अनुसार योग का क्या अर्थ है ?",
+      "options": {
+        "A": "Union with God",
+        "B": "Renunciation",
+        "C": "Samadhi",
+        "D": "Dharma"
+      },
+      "vikalpa": {
+        "A": "ईश्वर से मिलन",
+        "B": "त्याग",
+        "C": "समाधि",
+        "D": "धर्म"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "How many total chapters are in the Gita?",
+      "prashna": "गीता में कुल कितने अध्याय हैं ?",
+      "options": {
+        "A": "Twelve",
+        "B": "Fifteen",
+        "C": "Eighteen",
+        "D": "Twenty-five"
+      },
+      "vikalpa": {
+        "A": "बारह",
+        "B": "पन्द्रह",
+        "C": "अठारह",
+        "D": "पच्चीस"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Which one of the following is a means of Lokasangraha ?",
+      "prashna": "निम्नलिखित में से कौन सा लोकसंग्रह का साधन है ?",
+      "options": {
+        "A": "Niskam Karma",
+        "B": "Sakam Karma",
+        "C": "Akarma",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "निष्काम कर्म",
+        "B": "सकाम कर्म",
+        "C": "अकर्म",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "According to Gita, the path of Salvation is",
+      "prashna": "गीता के अनुसार, मोक्ष प्राप्ति का मार्ग है",
+      "options": {
+        "A": "The Path of knowledge",
+        "B": "The Path of Devotion",
+        "C": "The Path of Action",
+        "D": "All of the above"
+      },
+      "vikalpa": {
+        "A": "ज्ञानयोग",
+        "B": "भक्तियोग",
+        "C": "कर्मयोग",
+        "D": "उपरोक्त सभी"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Bhagavad Gita is a part of which Scripture ?",
+      "prashna": "भगवद्गीता किस ग्रंथ का अंश हैं ?",
+      "options": {
+        "A": "Nyaysutra",
+        "B": "Upanishad",
+        "C": "Mimansa Sutra",
+        "D": "Mahabharata"
+      },
+      "vikalpa": {
+        "A": "न्यायसूत्र",
+        "B": "उपनिषद्",
+        "C": "मीमांसा-सूत्र",
+        "D": "महाभारत"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "In the Gita, Who is considered the best devotee ?",
+      "prashna": "गीता में भगवान ने किसे सर्वश्रेष्ठ भक्त बताया है ?",
+      "options": {
+        "A": "One who is wise",
+        "B": "One who only worship",
+        "C": "One who devotes with selflessness",
+        "D": "One who wins wars"
+      },
+      "vikalpa": {
+        "A": "जो ज्ञानवान हो",
+        "B": "जो केवल पूजा करे",
+        "C": "जो निष्काम भाव से भक्ति करता है",
+        "D": "जो युद्ध जीते"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "The soul in the Gita is described as :",
+      "prashna": "गीता में आत्मा को किस रूप में बताया गया है ?",
+      "options": {
+        "A": "Perishable",
+        "B": "Changeable",
+        "C": "False",
+        "D": "Eternal"
+      },
+      "vikalpa": {
+        "A": "नाशवान",
+        "B": "परिवर्तनशील",
+        "C": "असत्य",
+        "D": "शाश्वत"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "In Gita, Krishna advised Arjuna to act with which attitude ?",
+      "prashna": "गीता में कृष्ण ने अर्जुन को किस भाव से कर्म करने को कहा ?",
+      "options": {
+        "A": "Escape",
+        "B": "Laziness",
+        "C": "Desire for result",
+        "D": "Selfless attitude"
+      },
+      "vikalpa": {
+        "A": "पलायन से",
+        "B": "आलस्य से",
+        "C": "फल की इच्छा से",
+        "D": "निष्काम भाव से"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "According to the Gita , which is superior?",
+      "prashna": "गीता के अनुसार किसका पालन श्रेष्ठ हैं ?",
+      "options": {
+        "A": "Other’s duty (Paradharma)",
+        "B": "None",
+        "C": "one’s own duty (swadharma)",
+        "D": "only devotion"
+      },
+      "vikalpa": {
+        "A": "परधर्म",
+        "B": "किसी का भी नहीं",
+        "C": "स्वधर्म",
+        "D": "केवल भक्ति"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "Bhagavad Gita is a part of which Scripture ?",
+      "prashna": "भगवद्गीता किस ग्रंथ का अंश हैं ?",
+      "options": {
+        "A": "Nyaysutra",
+        "B": "Upanishad",
+        "C": "Mimansa Sutra",
+        "D": "Mahabharata"
+      },
+      "vikalpa": {
+        "A": "न्यायसूत्र",
+        "B": "उपनिषद्",
+        "C": "मीमांसा–सूत्र",
+        "D": "महाभारत"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "In the Gita, Who is considered the best devotee ?",
+      "prashna": "गीता में भगवान ने किसे सर्वश्रेष्ठ भक्त बताया है ?",
+      "options": {
+        "A": "One who is wise",
+        "B": "One who only worship",
+        "C": "One who devotes with selflessness",
+        "D": "One who wins wars"
+      },
+      "vikalpa": {
+        "A": "जो ज्ञानवान हो",
+        "B": "जो केवल पूजा करे",
+        "C": "जो निष्काम भाव से भक्ति करता है",
+        "D": "जो युद्ध जीते"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "The soul in the Gita is described as :",
+      "prashna": "गीता में आत्मा को किस रूप में बताया गया है ?",
+      "options": {
+        "A": "Perishable",
+        "B": "Changeable",
+        "C": "False",
+        "D": "Eternal"
+      },
+      "vikalpa": {
+        "A": "नाशवान",
+        "B": "परिवर्तनशील",
+        "C": "असत्य",
+        "D": "शाश्वत"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "In Gita, Krishna advised Arjuna to act with which attitude ?",
+      "prashna": "गीता में कृष्ण ने अर्जुन को किस भाव से कर्म करने को कहा ?",
+      "options": {
+        "A": "Escape",
+        "B": "Laziness",
+        "C": "Desire for result",
+        "D": "Selfless attitude"
+      },
+      "vikalpa": {
+        "A": "पलायन से",
+        "B": "आलस्य से",
+        "C": "फल की इच्छा से",
+        "D": "निष्काम भाव से"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Philosophy of the Bhagavad Gita",
+      "question": "According to the Gita , which is superior?",
+      "prashna": "गीता के अनुसार किसका पालन श्रेष्ठ हैं ?",
+      "options": {
+        "A": "Other’s duty (Paradharma)",
+        "B": "None",
+        "C": "one’s own duty (swadharma)",
+        "D": "only devotion"
+      },
+      "vikalpa": {
+        "A": "परधर्म",
+        "B": "किसी का भी नहीं",
+        "C": "स्वधर्म",
+        "D": "केवल भक्ति"
+      }
+    }
+  ]
+}
