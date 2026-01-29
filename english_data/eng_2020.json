@@ -1,0 +1,1232 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "She...... be above forty. (Choose the correct verb)",
+        "prashna": "वह ...... चालीस से ऊपर होगी। (सही क्रिया चुनें)",
+        "options": {
+            "A": "will",
+            "B": "needs",
+            "C": "used to",
+            "D": "ought"
+        },
+        "vikalpa": {
+            "A": "will",
+            "B": "needs",
+            "C": "used to",
+            "D": "ought"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Who is the person………. this picture? (Choose the correct preposition)",
+        "prashna": "इस तस्वीर में व्यक्ति कौन है? (सही पूर्वसर्ग चुनें)",
+        "options": {
+            "A": "at",
+            "B": "by",
+            "C": "over",
+            "D": "in"
+        },
+        "vikalpa": {
+            "A": "at",
+            "B": "by",
+            "C": "over",
+            "D": "in"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Please give me..........cake that is on the table. (Choose the correct article)",
+        "prashna": "कृपया मुझे वह केक दें जो मेज पर है। (सही आर्टिकल चुनें)",
+        "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "no article"
+        },
+        "vikalpa": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "कोई आर्टिकल नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Choose the correct sentence",
+        "prashna": "सही वाक्य चुनें",
+        "options": {
+            "A": "I do not like coffee",
+            "B": "I no like coffee",
+            "C": "I had no like coffee",
+            "D": "I will no like coffee"
+        },
+        "vikalpa": {
+            "A": "I do not like coffee",
+            "B": "I no like coffee",
+            "C": "I had no like coffee",
+            "D": "I will no like coffee"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The teacher.........the lesson yesterday. (Choose the correct option)",
+        "prashna": "शिक्षक ने कल पाठ पढ़ाया। (सही विकल्प चुनें)",
+        "options": {
+            "A": "teaches",
+            "B": "taught",
+            "C": "will teach",
+            "D": "has taught"
+        },
+        "vikalpa": {
+            "A": "teaches",
+            "B": "taught",
+            "C": "will teach",
+            "D": "has taught"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "It may rain. We will get wet. (Choose the correct combination)",
+        "prashna": "बारिश हो सकती है। हम भीग जायेंगे। (सही संयोजन चुनें)",
+        "options": {
+            "A": "If it will rain, we get wet",
+            "B": "Had it rained, we get wet",
+            "C": "If it rains, we will get wet",
+            "D": "If it may rain, we get wet"
+        },
+        "vikalpa": {
+            "A": "If it will rain, we get wet",
+            "B": "Had it rained, we get wet",
+            "C": "If it rains, we will get wet",
+            "D": "If it may rain, we get wet"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Please be quiet. I.........my homework. (Choose the best option)",
+        "prashna": "कृपया शांत रहें। मैं अपना होमवर्क ...... रहा हूँ। (सबसे अच्छा विकल्प चुनें)",
+        "options": {
+            "A": "is doing",
+            "B": "will doing",
+            "C": "am doing",
+            "D": "are doing"
+        },
+        "vikalpa": {
+            "A": "is doing",
+            "B": "will doing",
+            "C": "am doing",
+            "D": "are doing"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Rita …........ to the radio. (Choose the correct option)",
+        "prashna": "रीता रेडियो ...... रही है। (सही विकल्प चुनें)",
+        "options": {
+            "A": "is listening",
+            "B": "has listening",
+            "C": "am listening",
+            "D": "had listening"
+        },
+        "vikalpa": {
+            "A": "is listening",
+            "B": "has listening",
+            "C": "am listening",
+            "D": "had listening"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The cat is eating the fish. (Choose the correct Passive voice)",
+        "prashna": "बिल्ली मछली खा रही है। (सही पैसिव वॉइस चुनें)",
+        "options": {
+            "A": "The fish is being eaten by the cat",
+            "B": "The fish was eat by the cat",
+            "C": "The cat is ate by the fish",
+            "D": "The cat had eaten the fish"
+        },
+        "vikalpa": {
+            "A": "The fish is being eaten by the cat",
+            "B": "The fish was eat by the cat",
+            "C": "The cat is ate by the fish",
+            "D": "The cat had eaten the fish"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Choose the correctly spelt word",
+        "prashna": "सही वर्तनी वाला शब्द चुनें",
+        "options": {
+            "A": "Vitamin",
+            "B": "Vitimin",
+            "C": "Vetamin",
+            "D": "Vitemin"
+        },
+        "vikalpa": {
+            "A": "Vitamin",
+            "B": "Vitimin",
+            "C": "Vetamin",
+            "D": "Vitemin"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "He…………classical music for four hours everyday. (Choose the correct option)",
+        "prashna": "वह हर दिन चार घंटे शास्त्रीय संगीत का ...... करता है। (सही विकल्प चुनें)",
+        "options": {
+            "A": "practises",
+            "B": "practise",
+            "C": "is practise",
+            "D": "was practice"
+        },
+        "vikalpa": {
+            "A": "practises",
+            "B": "practise",
+            "C": "is practise",
+            "D": "was practice"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "The mother sat in a corner...........her son take his baby steps. (Choose the best option)",
+        "prashna": "माँ एक कोने में बैठकर अपने बेटे को अपने नन्हे कदम उठाते हुए ...... लगी। (सबसे अच्छा विकल्प चुनें)",
+        "options": {
+            "A": "watched",
+            "B": "watching",
+            "C": "watch",
+            "D": "to watch"
+        },
+        "vikalpa": {
+            "A": "watched",
+            "B": "watching",
+            "C": "watch",
+            "D": "to watch"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Choose the correct sentence",
+        "prashna": "सही वाक्य चुनें",
+        "options": {
+            "A": "Either of three men can do it.",
+            "B": "Any of the three men can do it.",
+            "C": "Either of the three men can do it.",
+            "D": "Any of three men can do it."
+        },
+        "vikalpa": {
+            "A": "Either of three men can do it.",
+            "B": "Any of the three men can do it.",
+            "C": "Either of the three men can do it.",
+            "D": "Any of three men can do it."
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "The windows have been cleaned. (Choose the correct Active voice)",
+        "prashna": "खिड़कियाँ साफ कर दी गई हैं। (सही एक्टिव वॉइस चुनें)",
+        "options": {
+            "A": "Someone may clean the windows",
+            "B": "Someone had cleaned the sindows",
+            "C": "Someone has cleaned the windows",
+            "D": "Someone will clean the windows"
+        },
+        "vikalpa": {
+            "A": "Someone may clean the windows",
+            "B": "Someone had cleaned the sindows",
+            "C": "Someone has cleaned the windows",
+            "D": "Someone will clean the windows"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "You ………… the piano. (Choose the correct option)",
+        "prashna": "तुम पियानो ...... रहे हो। (सही विकल्प चुनें)",
+        "options": {
+            "A": "am playing",
+            "B": "is playing",
+            "C": "are playing",
+            "D": "was playing."
+        },
+        "vikalpa": {
+            "A": "am playing",
+            "B": "is playing",
+            "C": "are playing",
+            "D": "was playing."
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "We ......... him yesterday. (Choose the correct option)",
+        "prashna": "हमने कल उससे मुलाकात की। (सही विकल्प चुनें)",
+        "options": {
+            "A": "were visiting",
+            "B": "visited",
+            "C": "have visited",
+            "D": "will be visiting"
+        },
+        "vikalpa": {
+            "A": "were visiting",
+            "B": "visited",
+            "C": "have visited",
+            "D": "will be visiting"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "We…………. that you would succeed. (Choose the correct option)",
+        "prashna": "हमें ...... थी कि तुम सफल होओगे। (सही विकल्प चुनें)",
+        "options": {
+            "A": "hoping",
+            "B": "hoped",
+            "C": "had hoped",
+            "D": "will hope"
+        },
+        "vikalpa": {
+            "A": "hoping",
+            "B": "hoped",
+            "C": "had hoped",
+            "D": "will hope"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "There is a bridge……….the river. (Choose the correct preposition)",
+        "prashna": "नदी पर एक पुल है। (सही पूर्वसर्ग चुनें)",
+        "options": {
+            "A": "across",
+            "B": "in",
+            "C": "at",
+            "D": "of"
+        },
+        "vikalpa": {
+            "A": "across",
+            "B": "in",
+            "C": "at",
+            "D": "of"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Arti made me....... my shoes before I went into her house. (Choose the correct option)",
+        "prashna": "आरती ने उसके घर जाने से पहले मुझसे मेरे जूते ......। (सही विकल्प चुनें)",
+        "options": {
+            "A": "to take off",
+            "B": "took off",
+            "C": "take off",
+            "D": "taken off"
+        },
+        "vikalpa": {
+            "A": "to take off",
+            "B": "took off",
+            "C": "take off",
+            "D": "taken off"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "He said to me, \"will you post this letter for me?\" (Choose the correct indirect narration)",
+        "prashna": "उसने मुझसे कहा, \"क्या तुम मेरे लिए यह पत्र पोस्ट करोगे?\" (सही इनडायरेक्ट नरेशन चुनें)",
+        "options": {
+            "A": "He asked me if I would post that letter for him",
+            "B": "He asked me if I would post this letter to him",
+            "C": "He asked me if I will post that letter to him",
+            "D": "He said to me if I would post that letter to him"
+        },
+        "vikalpa": {
+            "A": "He asked me if I would post that letter for him",
+            "B": "He asked me if I would post this letter to him",
+            "C": "He asked me if I will post that letter to him",
+            "D": "He said to me if I would post that letter to him"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "He is going…………leave next week. (Choose the correct preposition)",
+        "prashna": "वह अगले हफ्ते छुट्टी ...... जा रहा है। (सही पूर्वसर्ग चुनें)",
+        "options": {
+            "A": "at",
+            "B": "on",
+            "C": "over",
+            "D": "of"
+        },
+        "vikalpa": {
+            "A": "at",
+            "B": "on",
+            "C": "over",
+            "D": "of"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Choose the correct sentence:",
+        "prashna": "सही वाक्य चुनें:",
+        "options": {
+            "A": "She want three egg.",
+            "B": "She wants three egg",
+            "C": "She wanting three eggs",
+            "D": "She wants three eggs"
+        },
+        "vikalpa": {
+            "A": "She want three egg.",
+            "B": "She wants three egg",
+            "C": "She wanting three eggs",
+            "D": "She wants three eggs"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "………..he drive to work? (Choose the best option)",
+        "prashna": "क्या वह गाड़ी चलाकर काम पर जाता है? (सबसे अच्छा विकल्प चुनें)",
+        "options": {
+            "A": "Has",
+            "B": "Don't",
+            "C": "Do",
+            "D": "Does"
+        },
+        "vikalpa": {
+            "A": "Has",
+            "B": "Don't",
+            "C": "Do",
+            "D": "Does"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Yesterday, I....... to buy bread. (Choose the correct option)",
+        "prashna": "कल, मैं ब्रेड खरीदने ......। (सही विकल्प चुनें)",
+        "options": {
+            "A": "go",
+            "B": "going",
+            "C": "to go",
+            "D": "went"
+        },
+        "vikalpa": {
+            "A": "go",
+            "B": "going",
+            "C": "to go",
+            "D": "went"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "The teacher ..........about the weather. (Choose the correct option)",
+        "prashna": "शिक्षक ने मौसम के बारे में ......। (सही विकल्प चुनें)",
+        "options": {
+            "A": "said",
+            "B": "spoke",
+            "C": "talked",
+            "D": "told"
+        },
+        "vikalpa": {
+            "A": "said",
+            "B": "spoke",
+            "C": "talked",
+            "D": "told"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Choose the correct sentence:",
+        "prashna": "सही वाक्य चुनें:",
+        "options": {
+            "A": "He will never speak lie",
+            "B": "He will never tell lie",
+            "C": "He will never say a lie",
+            "D": "He will never tell a lie"
+        },
+        "vikalpa": {
+            "A": "He will never speak lie",
+            "B": "He will never tell lie",
+            "C": "He will never say a lie",
+            "D": "He will never tell a lie"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "She is pleased..........me. (Choose the correct option)",
+        "prashna": "वह मुझसे प्रसन्न है। (सही विकल्प चुनें)",
+        "options": {
+            "A": "at",
+            "B": "on",
+            "C": "with",
+            "D": "from"
+        },
+        "vikalpa": {
+            "A": "at",
+            "B": "on",
+            "C": "with",
+            "D": "from"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "You……..get a new dress tomorrow. (Choose the correct option)",
+        "prashna": "तुम्हें कल एक नई ड्रेस मिल जाएगी। (सही विकल्प चुनें)",
+        "options": {
+            "A": "will",
+            "B": "do",
+            "C": "didn't",
+            "D": "hadn't"
+        },
+        "vikalpa": {
+            "A": "will",
+            "B": "do",
+            "C": "didn't",
+            "D": "hadn't"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "He has broken his leg, so he………. play football. (Choose the correct auxiliary verb)",
+        "prashna": "उसका पैर टूट गया है, इसलिए वह फुटबॉल नहीं ......। (सही सहायक क्रिया चुनें)",
+        "options": {
+            "A": "can't",
+            "B": "should",
+            "C": "must",
+            "D": "needs not"
+        },
+        "vikalpa": {
+            "A": "can't",
+            "B": "should",
+            "C": "must",
+            "D": "needs not"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Choose the correctly spelt word",
+        "prashna": "सही वर्तनी वाला शब्द चुनें",
+        "options": {
+            "A": "Intilligent",
+            "B": "Inteligent",
+            "C": "Intelligent",
+            "D": "Intiligint"
+        },
+        "vikalpa": {
+            "A": "Intilligent",
+            "B": "Inteligent",
+            "C": "Intelligent",
+            "D": "Intiligint"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Let me………the classroom please. (Choose the correct verb)",
+        "prashna": "कृपया मुझे कक्षा से बाहर ...... दें। (सही क्रिया चुनें)",
+        "options": {
+            "A": "To leave",
+            "B": "leaving",
+            "C": "leave",
+            "D": "have left"
+        },
+        "vikalpa": {
+            "A": "To leave",
+            "B": "leaving",
+            "C": "leave",
+            "D": "have left"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Choose the correct sentence",
+        "prashna": "सही वाक्य चुनें",
+        "options": {
+            "A": "I am going now",
+            "B": "I going now",
+            "C": "I gone now",
+            "D": "I will going now"
+        },
+        "vikalpa": {
+            "A": "I am going now",
+            "B": "I going now",
+            "C": "I gone now",
+            "D": "I will going now"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Shyam asked her if she was ill. (Choose the correct direct narration)",
+        "prashna": "श्याम ने उससे पूछा कि क्या वह बीमार है। (सही डायरेक्ट नरेशन चुनें)",
+        "options": {
+            "A": "Shyam asked her. \"You are ill.\"",
+            "B": "Shyam told her. \"Was she ill?\"",
+            "C": "Shyam said to her, \"Are you ill?\"",
+            "D": "Shyam said to her, \"Is she ill?\""
+        },
+        "vikalpa": {
+            "A": "Shyam asked her. \"You are ill.\"",
+            "B": "Shyam told her. \"Was she ill?\"",
+            "C": "Shyam said to her, \"Are you ill?\"",
+            "D": "Shyam said to her, \"Is she ill?\""
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "‘Are you coming with us?' He asked me. (Choose the correct indirect speech)",
+        "prashna": "'क्या तुम हमारे साथ आ रहे हो?' उसने मुझसे पूछा। (सही इनडायरेक्ट स्पीच चुनें)",
+        "options": {
+            "A": "He asked me if I was coming with them",
+            "B": "He asks if I was coming with them",
+            "C": "He had asked if I was coming with them",
+            "D": "He will ask if I am coming with them"
+        },
+        "vikalpa": {
+            "A": "He asked me if I was coming with them",
+            "B": "He asks if I was coming with them",
+            "C": "He had asked if I was coming with them",
+            "D": "He will ask if I am coming with them"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Learning…………isn't easy. (Choose the correct option)",
+        "prashna": "...... सीखना आसान नहीं है। (सही विकल्प चुनें)",
+        "options": {
+            "A": "the French",
+            "B": "French",
+            "C": "of French",
+            "D": "in French"
+        },
+        "vikalpa": {
+            "A": "the French",
+            "B": "French",
+            "C": "of French",
+            "D": "in French"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "A written statement or oath is (Choose the correct option)",
+        "prashna": "एक लिखित कथन या शपथ है (सही विकल्प चुनें)",
+        "options": {
+            "A": "a deed",
+            "B": "an alimony",
+            "C": "a letter",
+            "D": "an affidavit"
+        },
+        "vikalpa": {
+            "A": "एक विलेख (deed)",
+            "B": "एक गुज़ारा भत्ता (alimony)",
+            "C": "एक पत्र",
+            "D": "एक शपथ पत्र (affidavit)"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "John Donne is a…………..poet. (Choose the correct option)",
+        "prashna": "जॉन डोने एक ………….. कवि हैं। (सही विकल्प चुनें)",
+        "options": {
+            "A": "nature",
+            "B": "metaphysical",
+            "C": "cavalier",
+            "D": "romantic"
+        },
+        "vikalpa": {
+            "A": "प्रकृति",
+            "B": "मेटाफिजिकल",
+            "C": "कैवेलियर",
+            "D": "रोमांटिक"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "Standard British English speech came to be known as (Choose the correct option)",
+        "prashna": "मानक ब्रिटिश अंग्रेजी भाषण को किस रूप में जाना जाने लगा (सही विकल्प चुनें)",
+        "options": {
+            "A": "Second language.",
+            "B": "New English",
+            "C": "American English",
+            "D": "Received Pronunciation"
+        },
+        "vikalpa": {
+            "A": "दूसरी भाषा",
+            "B": "न्यू इंग्लिश",
+            "C": "अमेरिकी अंग्रेजी",
+            "D": "रिसीव्ड प्रोनाउंसिएशन (Received Pronunciation)"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "\"And the nightingale is dumb\" is from (Choose the correct option)",
+        "prashna": "\"And the nightingale is dumb\" किस कविता से है (सही विकल्प चुनें)",
+        "options": {
+            "A": "Fire-Hymn",
+            "B": "Ode to Autumn",
+            "C": "Now the Leaves are Falling Fast",
+            "D": "Seetest Love I Do Not Goe"
+        },
+        "vikalpa": {
+            "A": "Fire-Hymn",
+            "B": "Ode to Autumn",
+            "C": "Now the Leaves are Falling Fast",
+            "D": "Seetest Love I Do Not Goe"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Rupert Brooke praises (Choose the correct option)",
+        "prashna": "रूपर्ट ब्रूक किसकी प्रशंसा करते हैं (सही विकल्प चुनें)",
+        "options": {
+            "A": "England",
+            "B": "Germany",
+            "C": "Russia",
+            "D": "America."
+        },
+        "vikalpa": {
+            "A": "इंग्लैंड",
+            "B": "जर्मनी",
+            "C": "रूस",
+            "D": "अमेरिका"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Walter de la Mare makes us aware of the (Choose the correct option)",
+        "prashna": "वाल्टर डी ला मारे हमें किसके बारे में जागरूक करते हैं (सही विकल्प चुनें)",
+        "options": {
+            "A": "inhuman conditions of modern life",
+            "B": "poverty",
+            "C": "dreams",
+            "D": "London life"
+        },
+        "vikalpa": {
+            "A": "आधुनिक जीवन की अमानवीय स्थितियाँ",
+            "B": "गरीबी",
+            "C": "सपने",
+            "D": "लंदन का जीवन"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "What, according to Zakir Hussain, which is the prime instrument of national purpose?",
+        "prashna": "ज़ाकिर हुसैन के अनुसार, राष्ट्रीय उद्देश्य का प्रमुख साधन क्या है?",
+        "options": {
+            "A": "Business",
+            "B": "Service",
+            "C": "Politics",
+            "D": "Education"
+        },
+        "vikalpa": {
+            "A": "व्यवसाय",
+            "B": "सेवा",
+            "C": "राजनीति",
+            "D": "शिक्षा"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "\"In hearts at peace, under an English heaven\" is from (Choose the correct option)",
+        "prashna": "\"In hearts at peace, under an English heaven\" किस कविता से है (सही विकल्प चुनें)",
+        "options": {
+            "A": "Ode to Autumn",
+            "B": "The Soldier",
+            "C": "Song of Myself",
+            "D": "Fire-Hymn"
+        },
+        "vikalpa": {
+            "A": "Ode to Autumn",
+            "B": "The Soldier",
+            "C": "Song of Myself",
+            "D": "Fire-Hymn"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "And the active hands must………… . Lonely on the separate knees. (Choose the correct option)",
+        "prashna": "And the active hands must………… . Lonely on the separate knees. (सही विकल्प चुनें)",
+        "options": {
+            "A": "die",
+            "B": "pluck",
+            "C": "freeze",
+            "D": "snatch"
+        },
+        "vikalpa": {
+            "A": "die",
+            "B": "pluck",
+            "C": "freeze",
+            "D": "snatch"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "\"Ideas That Have Helped Mankind\" is written by (Choose the correct option)",
+        "prashna": "\"Ideas That Have Helped Mankind\" किसके द्वारा लिखा गया है? (सही विकल्प चुनें)",
+        "options": {
+            "A": "Germaine Green",
+            "B": "Pearl S. Buck",
+            "C": "Shiga Naoya",
+            "D": "Bertrand Russell"
+        },
+        "vikalpa": {
+            "A": "जर्मेन ग्रीर (Germaine Greer)",
+            "B": "पर्ल एस. बक",
+            "C": "शिगा नाओया",
+            "D": "बर्ट्रेंड रसेल"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Walter de la Mare was born in (choose the correct option)",
+        "prashna": "वाल्टर डी ला मारे का जन्म कब हुआ था? (सही विकल्प चुनें)",
+        "options": {
+            "A": "1853",
+            "B": "1867",
+            "C": "1873",
+            "D": "1889"
+        },
+        "vikalpa": {
+            "A": "1853",
+            "B": "1867",
+            "C": "1873",
+            "D": "1889"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Bertrand Russell was awarded Nobel Prize in literature in (Choose the correct option)",
+        "prashna": "बर्ट्रेंड रसेल को साहित्य में नोबेल पुरस्कार कब दिया गया था? (सही विकल्प चुनें)",
+        "options": {
+            "A": "1956",
+            "B": "1952",
+            "C": "1950",
+            "D": "1953"
+        },
+        "vikalpa": {
+            "A": "1956",
+            "B": "1952",
+            "C": "1950",
+            "D": "1953"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "English used from the 15th century is called (Choose the correct option)",
+        "prashna": "15वीं शताब्दी से उपयोग की जाने वाली अंग्रेजी को क्या कहा जाता है? (सही विकल्प चुनें)",
+        "options": {
+            "A": "Old English",
+            "B": "Modern English",
+            "C": "Middle English",
+            "D": "Post-modern English"
+        },
+        "vikalpa": {
+            "A": "ओल्ड इंग्लिश",
+            "B": "मॉडर्न इंग्लिश",
+            "C": "मिडल इंग्लिश",
+            "D": "पोस्ट-मॉडर्न इंग्लिश"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "\"The Wasteland\" is written by (Choose the correct option)",
+        "prashna": "\"The Wasteland\" किसके द्वारा लिखा गया है? (सही विकल्प चुनें)",
+        "options": {
+            "A": "T.S. Eliot",
+            "B": "W.H. Auden",
+            "C": "S.T. Coleridge",
+            "D": "John Donne"
+        },
+        "vikalpa": {
+            "A": "टी.एस. इलियट",
+            "B": "डब्ल्यू.एच. ऑडेन",
+            "C": "एस.टी. कोलरिज",
+            "D": "जॉन डोने"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "English language is………….than Sanskrit. (Choose the correct option)",
+        "prashna": "अंग्रेजी भाषा संस्कृत से …………. है। (सही विकल्प चुनें)",
+        "options": {
+            "A": "older",
+            "B": "ancient",
+            "C": "younger",
+            "D": "classical"
+        },
+        "vikalpa": {
+            "A": "पुरानी",
+            "B": "प्राचीन",
+            "C": "युवा (नई)",
+            "D": "शास्त्रीय (क्लासिकल)"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Our forefathers did not invent machinery because (Choose the correct option)",
+        "prashna": "हमारे पूर्वजों ने मशीनरी का आविष्कार नहीं किया क्योंकि (सही विकल्प चुनें)",
+        "options": {
+            "A": "they knew we would become slaves",
+            "B": "they knew we would be happy",
+            "C": "they did not like to see us comfortable",
+            "D": "they were jealous of us."
+        },
+        "vikalpa": {
+            "A": "वे जानते थे कि हम गुलाम बन जाएंगे",
+            "B": "वे जानते थे कि हम खुश रहेंगे",
+            "C": "वे हमें सहज देखना पसंद नहीं करते थे",
+            "D": "वे हमसे ईर्ष्या करते थे"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "\"And stooped and drank a little more\" is from (Choose the correct option)",
+        "prashna": "\"And stooped and drank a little more\" किस कविता से है (सही विकल्प चुनें)",
+        "options": {
+            "A": "Fire-Hymn",
+            "B": "Song of Myself",
+            "C": "Snake",
+            "D": "Ode to Autumn"
+        },
+        "vikalpa": {
+            "A": "Fire-Hymn",
+            "B": "Song of Myself",
+            "C": "Snake",
+            "D": "Ode to Autumn"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "Dr. Zakir Hussain is the author of the piece ‘...........’ (Choose the correct option)",
+        "prashna": "डॉ. जाकिर हुसैन किस लेख के लेखक हैं? (सही विकल्प चुनें)",
+        "options": {
+            "A": "The Artist",
+            "B": "Bharat is My Home",
+            "C": "A Child is Born",
+            "D": "How Free is the Press"
+        },
+        "vikalpa": {
+            "A": "The Artist",
+            "B": "Bharat is My Home",
+            "C": "A Child is Born",
+            "D": "How Free is the Press"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "'Macbeth' and 'Julius Caeser' are written by (Choose the correct option).",
+        "prashna": "'Macbeth' और 'Julius Caeser' किसके द्वारा लिखे गए हैं? (सही विकल्प चुनें)",
+        "options": {
+            "A": "Goldsmith",
+            "B": "Ben Jonson",
+            "C": "Shakespeare",
+            "D": "Sheridan"
+        },
+        "vikalpa": {
+            "A": "गोल्डस्मिथ",
+            "B": "बेन जॉनसन",
+            "C": "शेक्सपियर",
+            "D": "शेरिडन"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "'Savitri' is written by (Choose the correct option)",
+        "prashna": "'सावित्री' किसके द्वारा लिखी गई है? (सही विकल्प चुनें)",
+        "options": {
+            "A": "Aurobindo Ghosh",
+            "B": "Sarojini Naidu",
+            "C": "R.N. Tagore",
+            "D": "Toru Dutt"
+        },
+        "vikalpa": {
+            "A": "अरबिंदो घोष",
+            "B": "सरोजिनी नायडू",
+            "C": "आर.एन. टैगोर",
+            "D": "तोरु दत्त"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "'After all, there is something in Hinduism that has kept it alive up till now' is from (Choose the correct option)",
+        "prashna": "'आखिरकार, हिंदू धर्म में कुछ ऐसा है जिसने इसे अब तक जीवित रखा है' किस लेख से है? (सही विकल्प चुनें)",
+        "options": {
+            "A": "The Earth",
+            "B": "Indian Civilization and Culture",
+            "C": "Bharat is My Home",
+            "D": "I Have a Dream"
+        },
+        "vikalpa": {
+            "A": "The Earth",
+            "B": "Indian Civilization and Culture",
+            "C": "Bharat is My Home",
+            "D": "I Have a Dream"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Radhakrishnan never lost his faith in the (Choose the correct option)",
+        "prashna": "राधाकृष्णन ने कभी भी किसमें अपना विश्वास नहीं खोया? (सही विकल्प चुनें)",
+        "options": {
+            "A": "essential wealth",
+            "B": "essential humanity of man",
+            "C": "essential knowledge",
+            "D": "essential experience"
+        },
+        "vikalpa": {
+            "A": "आवश्यक धन",
+            "B": "मनुष्य की आवश्यक मानवता",
+            "C": "आवश्यक ज्ञान",
+            "D": "आवश्यक अनुभव"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "......... were satisfied with small villages. (Choose the correct option)",
+        "prashna": "......... छोटे गाँवों से संतुष्ट थे। (सही विकल्प चुनें)",
+        "options": {
+            "A": "Old people",
+            "B": "Our ancestors",
+            "C": "Youth",
+            "D": "Adults"
+        },
+        "vikalpa": {
+            "A": "बूढ़े लोग",
+            "B": "हमारे पूर्वज",
+            "C": "युवा",
+            "D": "वयस्क"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "The Great Vowel Shift took place during (Choose the correct option)",
+        "prashna": "ग्रेट वॉवेल शिफ्ट किस काल के दौरान हुआ था? (सही विकल्प चुनें)",
+        "options": {
+            "A": "Modern English",
+            "B": "Middle English",
+            "C": "Old English",
+            "D": "British English."
+        },
+        "vikalpa": {
+            "A": "मॉडर्न इंग्लिश",
+            "B": "मिडल इंग्लिश",
+            "C": "ओल्ड इंग्लिश",
+            "D": "ब्रिटिश इंग्लिश"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "\"And as we walk, we make the pledge that we shall (Choose the correct option)",
+        "prashna": "\"And as we walk, we make the pledge that we shall (सही विकल्प चुनें)",
+        "options": {
+            "A": "always be satisfied",
+            "B": "always fight",
+            "C": "always hate people.",
+            "D": "always march ahead"
+        },
+        "vikalpa": {
+            "A": "always be satisfied",
+            "B": "always fight",
+            "C": "always hate people.",
+            "D": "always march ahead"
+        }
+    },
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "question": "Write an essay on any one of the following in about 150-200 words:\n(a) Village Life\n(b) Discipline\n(c) Work is worship\n(d) A film you have recently watched\n(e) Your college library.",
+        "prashna": "लगभग 150-200 शब्दों में निम्नलिखित में से किसी एक पर निबंध लिखें:\n(क) ग्राम जीवन\n(ख) अनुशासन\n(ग) कर्म ही पूजा है\n(घ) एक फिल्म जो आपने हाल ही में देखी है\n(ङ) आपके कॉलेज का पुस्तकालय।"
+    },
+    {
+        "id": "exp_1_1",
+        "type": "explanation",
+        "question": "Explain any one of the following: The common people lived independently and followed their agricultural occupation.",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: आम लोग स्वतंत्र रूप से रहते थे और अपने कृषि व्यवसाय का पालन करते थे।"
+    },
+    {
+        "id": "exp_1_2",
+        "type": "explanation",
+        "question": "Explain any one of the following: Even more important than the domestication of animals was the invention of agriculture.",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: जानवरों के पालतू बनाने से भी अधिक महत्वपूर्ण कृषि का आविष्कार था।"
+    },
+    {
+        "id": "exp_1_3",
+        "type": "explanation",
+        "question": "Explain any one of the following: Scibei is now engrossed in his pictures. He no longer feels any bitterness towards the teachers....",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: सीबेई अब अपने चित्रों में तल्लीन है। अब उसे शिक्षकों के प्रति कोई कड़वाहट महसूस नहीं होती..."
+    },
+    {
+        "id": "exp_1_4",
+        "type": "explanation",
+        "question": "Explain any one of the following: ...... he knew nothing about the stock-markets. But he knew everything about a hen.",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: ...... वह शेयर बाजारों के बारे में कुछ नहीं जानता था। लेकिन वह एक मुर्गी के बारे में सब कुछ जानता था।"
+    },
+    {
+        "id": "exp_2_1",
+        "type": "explanation",
+        "question": "Explain any one of the following: Macavity, Macavity, there's no one like Macavity For he's fiend in feline shape, a monster of depravity.",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: मैकैविटी, मैकैविटी, मैकैविटी जैसा कोई नहीं है क्योंकि वह बिल्ली के आकार में एक दुष्ट है, नीचता का राक्षस है।"
+    },
+    {
+        "id": "exp_2_2",
+        "type": "explanation",
+        "question": "Explain any one of the following: We saw embers losing their cruel redness\nTo the grey ash that swallows all, half-cooked limbs.",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: हमने अंगारों को अपनी क्रूर लालिमा खोते हुए देखा\nउस राख की ओर जो सब कुछ निगल जाती है, आधे पके हुए अंग।"
+    },
+    {
+        "id": "exp_2_3",
+        "type": "explanation",
+        "question": "Explain any one of the following: He lifted his head from his drinking, as cattle do,\nAnd looked at me vaguely, as drinking cattle do, …………. .",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: उसने पीते हुए अपना सिर उठाया, जैसे मवेशी करते हैं,\nऔर मुझे अस्पष्ट रूप से देखा, जैसे पानी पीते हुए मवेशी करते हैं, …………. ।"
+    },
+    {
+        "id": "exp_2_4",
+        "type": "explanation",
+        "question": "Explain any one of the following: I think she was the most beautiful lady\nThat ever was in the West country.",
+        "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: मुझे लगता है कि वह सबसे खूबसूरत महिला थी\nजो कभी पश्चिमी देश में रही थी।"
+    },
+    {
+        "id": "letter_1_1",
+        "type": "letter_application",
+        "question": "Write a letter to your cousin, asking him about the preparation of his upcoming examination.",
+        "prashna": "अपने चचेरे भाई को एक पत्र लिखें, जिसमें उससे उसकी आगामी परीक्षा की तैयारी के बारे में पूछें।"
+    },
+    {
+        "id": "letter_1_2",
+        "type": "letter_application",
+        "question": "Write an application to your Principal, requesting him to give permission to organize a cultural event in your school.",
+        "prashna": "अपने प्रधानाचार्य को एक आवेदन पत्र लिखें, जिसमें उनसे अपने स्कूल में एक सांस्कृतिक कार्यक्रम आयोजित करने की अनुमति देने का अनुरोध करें।"
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Answer any five of the following in about 40-50 words:",
+        "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:",
+        "sub_questions": {
+            "a": "Why did the poet feel honoured?",
+            "b": "What conditions prevail in the woods?",
+            "c": "What is civilization in the real sense of the term?",
+            "d": "What are the 'trials and tribulations' Martin Luther King, Jr. talks about?",
+            "e": "What is the impact of poverty in medical field?",
+            "f": "What is Dr. Zakir Hussain's concept of education?",
+            "g": "Which event does the expression 'the burning ghat' refer to?",
+            "h": "What are the features of drama?",
+            "i": "Name the areas where English is used as a second language.",
+            "j": "What led English to borrowings?"
+        },
+        "anuprashna": {
+            "a": "कवि ने सम्मानित क्यों महसूस किया?",
+            "b": "जंगलों में कैसी स्थितियाँ व्याप्त हैं?",
+            "c": "शब्द के वास्तविक अर्थ में सभ्यता क्या है?",
+            "d": "मार्टिन लूथर किंग, जूनियर किन 'परीक्षणों और कष्टों' के बारे में बात करते हैं?",
+            "e": "चिकित्सा क्षेत्र में गरीबी का क्या प्रभाव है?",
+            "f": "डॉ. जाकिर हुसैन की शिक्षा की अवधारणा क्या है?",
+            "g": "अभिव्यक्ति 'द बर्निंग घाट' किस घटना को संदर्भित करती है?",
+            "h": "नाटक की विशेषताएं क्या हैं?",
+            "i": "उन क्षेत्रों के नाम बताइए जहाँ अंग्रेजी का प्रयोग दूसरी भाषा के रूप में किया जाता है।",
+            "j": "किस वजह से अंग्रेजी में उधार (borrowings) आए?"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Write a summary of any one of the following poems:\n(i) Snake\n(ii) Sweetest Love, I Do Not Goe\n(iii) Fire-Hymn",
+        "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें:\n(i) Snake\n(ii) Sweetest Love, I Do Not Goe\n(iii) Fire-Hymn"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Write a summary of any one of the following prose pieces:\n(i) How Free is the Press\n(ii) India Through a Traveller's Eyes\n(iii) The Artist.",
+        "prashna": "निम्नलिखित में से किसी एक गद्य अंश का सारांश लिखें:\n(i) How Free is the Press\n(ii) India Through a Traveller's Eyes\n(iii) The Artist."
+    },
+    {
+        "id": "long_1_3",
+        "type": "long_answer",
+        "question": "Write a note on english as a global language. OR Write a note on the dialects of middle english. OR What do you understand by 'Received Pronunciation'? Discuss.",
+        "prashna": "एक वैश्विक भाषा के रूप में अंग्रेजी पर एक टिप्पणी लिखें। अथवा मिडल इंग्लिश की बोलियों पर एक टिप्पणी लिखें। अथवा 'रिसीव्ड प्रोनाउंसिएशन' से आप क्या समझते हैं? चर्चा करें।"
+    },
+    {
+        "id": "long_1_4",
+        "type": "long_answer",
+        "question": "Match the names of the poets given in List-A with their works in List-B\nList-A: (i) John Donne, (ii) W.H. Auden, (iii) Rupert Brooke, (iv) Kamla Das, (v) Walt Whitman\nList-B: (a) The Soldier, (b) Sweetest Love, I Do Not Goe, (c) Now the Leaves Are Falling Fast, (d) Song of Myself, (e) My Grandmother's House",
+        "prashna": "सूची-A में दिए गए कवियों के नामों का सूची-B में उनकी रचनाओं के साथ मिलान करें"
+    },
+    {
+        "id": "long_1_5",
+        "type": "long_answer",
+        "question": "Translate any five into English:\n(i) आज मैं श्याम से मिलने जाऊँगा।\n(ii) वह बहुत बीमार था।\n(iii) मेरे पिताजी भागलपुर गए हैं।\n(iv) मैं चाय पी रहा हूँ।\n(v) आपकी घड़ी में कितना बजा है?\n(vi) शिक्षकों का आदर करना चाहिए।\n(vii) मेरी परीक्षा चल रही थी।\n(viii) क्या तुम्हें अंग्रेजी बोलना आता है?",
+        "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें:"
+    },
+    {
+        "id": "passage_1",
+        "type": "passage_comprehension",
+        "question": "Read the passage and answer the questions that follow:\nMy toothbrush is a thing that haunts me when I'm travelling, and makes my life a misery. I dream that I haven't packed it, and wake up in cold perspiration. I get out of bed and hunt for it. And, in the morning, I pack it before I have used it, and have to unpack it again. Then I forget it and have to rush upstairs at the last moment carry it to the railway station, wrapped up in my pocket handkerchief.",
+        "prashna": "गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:\nमेरा टूथब्रश एक ऐसी चीज़ है जो यात्रा करते समय मुझे डराती है और मेरे जीवन को दुखी कर देती है। मैं सपना देखता हूँ कि मैंने इसे पैक नहीं किया है, और पसीने से तर-बतर होकर जाग जाता हूँ। मैं बिस्तर से बाहर निकलता हूँ और उसे ढूँढता हूँ। और, सुबह में, मैं इसे इस्तेमाल करने से पहले ही पैक कर देता हूँ, और इसे फिर से खोलना पड़ता है। फिर मैं इसे भूल जाता हूँ और आखिरी समय में इसे रेलवे स्टेशन ले जाने के लिए ऊपर भागना पड़ता है, इसे अपने रूमाल में लपेटकर ले जाता हूँ।",
+        "sub_questions": {
+            "a": "How does the writer's toothbrush make his life a misery?",
+            "b": "What happens in the morning?",
+            "c": "What happens at the last moment?",
+            "d": "Frame sentences with: Misery, Toothbrush."
+        },
+        "anuprashna": {
+            "a": "लेखक का टूथब्रश उसके जीवन को दुखी कैसे बनाता है?",
+            "b": "सुबह में क्या होता है?",
+            "c": "अंतिम क्षण में क्या होता है?",
+            "d": "वाक्य बनाएँ: Misery, Toothbrush."
+        }
+    },
+    {
+        "id": "precis_1",
+        "type": "precis",
+        "question": "Write a precis of the following passage and give a suitable title:\nThe test of a great book is whether we want to read it only once or more than once. Any book, which we want to read the second time even more than we wanted to read it the first time, is really a good book. Every additional reading will help understand it better. A book that a person of good education does not care to read more than once is probably not worth much.",
+        "prashna": "निम्नलिखित गद्यांश का संक्षेपण (precis) लिखें और एक उपयुक्त शीर्षक दें:\nएक महान पुस्तक की परीक्षा यह है कि क्या हम उसे केवल एक बार पढ़ना चाहते हैं या एक से अधिक बार। कोई भी पुस्तक, जिसे हम पहली बार पढ़ने की तुलना में दूसरी बार और भी अधिक पढ़ना चाहते हैं, वास्तव में एक अच्छी पुस्तक है। प्रत्येक अतिरिक्त बार पढ़ना इसे बेहतर ढंग से समझने में मदद करेगा। एक किताब जिसे एक अच्छी शिक्षा प्राप्त व्यक्ति एक बार से अधिक पढ़ने की परवाह नहीं करता है, वह शायद बहुत मूल्यवान नहीं है।"
+    }
+]

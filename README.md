@@ -42,6 +42,7 @@ python batch_annotate_music.py             # For Music
 python batch_annotate_sociology.py         # For Sociology
 python batch_annotate_philosophy.py        # For Philosophy
 python batch_annotate_hindi.py             # For Hindi (includes Vyakaran)
+python batch_annotate_english.py           # For English
 
 # 5. Merge all years into one file
 python merge_biology.py
@@ -58,6 +59,7 @@ python merge_music.py
 python merge_sociology.py
 python merge_philosophy.py
 python merge_hindi.py
+python merge_english.py
 
 # 6. Split by chapter or type
 python split_biology_by_chapter.py
@@ -86,6 +88,9 @@ python split_philosophy_types_by_chapters.py
 python split_hindi_by_chapter.py
 python split_hindi_by_type.py
 python split_hindi_types_by_chapters.py
+python split_english_by_chapter.py
+python split_english_by_type.py
+python split_english_types_by_chapters.py
 ```
 
 ---
@@ -124,6 +129,7 @@ python split_hindi_types_by_chapters.py
 | `batch_processing_sociology.py` | `sociology_papers/*.pdf` | `sociology_data/*.json` | Batch PDF extraction for sociology |
 | `batch_processing_philosophy.py` | `philosophy_papers/*.pdf` | `philosophy_data/*.json` | Batch PDF extraction for philosophy |
 | `batch_processing_hindi.py` | `hindi_papers/*.pdf` | `hindi_data/*.json` | Batch PDF extraction for hindi |
+| `batch_processing_english.py` | `english_papers/*.pdf` | `english_data/*.json` | Batch PDF extraction for english |
 
 ### Stage 2: Annotate with Chapters/Topics
 
@@ -142,6 +148,7 @@ python split_hindi_types_by_chapters.py
 | `batch_annotate_sociology.py` | `sociology_data/*.json` | `sociology_data_annotated/*.json` | Adds chapter info for sociology |
 | `batch_annotate_philosophy.py` | `philosophy_data/*.json` | `philosophy_data_annotated/*.json` | Adds chapter info for philosophy |
 | `batch_annotate_hindi.py` | `hindi_data/*.json` | `hindi_data_annotated/*.json` | Adds chapter info for hindi (Digant+Vyakaran) |
+| `batch_annotate_english.py` | `english_data/*.json` | `english_data_annotated/*.json` | Adds chapter info for english |
 | `annotate_questions_with_chapters.py` | Single file (interactive) | Annotated JSON | Interactive single-file annotator |
 | `annotate_questions_with_topics_physics.py` | Single file (interactive) | Annotated JSON | Physics with topics |
 
@@ -163,6 +170,7 @@ python split_hindi_types_by_chapters.py
 | `merge_sociology.py` | `sociology_data_annotated/` | `sociology_pro/sociology_all_years.json` | Combines all years |
 | `merge_philosophy.py` | `philosophy_data_annotated/` | `philosophy_pro/philosophy_all_years.json` | Combines all years |
 | `merge_hindi.py` | `hindi_data_annotated/` | `hindi_pro/hindi_all_years.json` | Combines all years |
+| `merge_english.py` | `english_data_annotated/` | `english_pro/english_all_years.json` | Combines all years |
 
 ### Stage 4: Split for Analysis
 

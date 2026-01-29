@@ -1,0 +1,140 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Translate the following sentences into English:",
+        "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+        "sub_questions": {
+            "a": "बाघ जंगली जानवर होता है।",
+            "b": "राम और रहीम एक-दूसरे की मदद कर रहे हैं।",
+            "c": "मेरा मित्र कल से बीमार है।",
+            "d": "इस कमरे से बाहर निकलो।",
+            "e": "तुम्हारा गाँव यहाँ से कितनी दूर है?"
+        },
+        "anuprashna": {
+            "a": "बाघ जंगली जानवर होता है।",
+            "b": "राम और रहीम एक-दूसरे की मदद कर रहे हैं।",
+            "c": "मेरा मित्र कल से बीमार है।",
+            "d": "इस कमरे से बाहर निकलो।",
+            "e": "तुम्हारा गाँव यहाँ से कितनी दूर है?"
+        }
+    },
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "question": "Write an essay in about 100-150 words on any one of the following: (a) A Cricket Match (b) My Favourite Film (c) Computers (d) The Winter Season (e) My hobbies",
+        "prashna": "निम्नलिखित में से किसी एक विषय पर लगभग 100-150 शब्दों में निबंध लिखें: (क) एक क्रिकेट मैच (ख) मेरी पसंदीदा फिल्म (ग) कंप्यूटर (घ) शीत ऋतु (ङ) मेरे शौक"
+    },
+    {
+        "id": "passage_1",
+        "type": "passage_comprehension",
+        "question": "Read carefully the passage given below and answer the questions that follow: \nFor the majority of people all the world over science is a doctrine about the nature of the universe. That is, they think of the theories of science. No doubt, theories are a necessary part of science. However, they are only a part, and not the important part, either. Moreover, there are hardly any theories that are constant; they always change. Theories are necessary but they are makeshifts. A prevailing theory is given up when a better one turns up. Theoretical activity alone does not constitute science. Science is also a way of doing things, a practical activity.",
+        "prashna": "नीचे दिए गए गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें: \nदुनिया भर के अधिकांश लोगों के लिए विज्ञान ब्रह्मांड की प्रकृति के बारे में एक सिद्धांत है। यानी वे विज्ञान के सिद्धांतों के बारे में सोचते हैं। इसमें कोई संदेह नहीं है कि सिद्धांत विज्ञान का एक आवश्यक हिस्सा हैं। हालाँकि, वे केवल एक हिस्सा हैं, और महत्वपूर्ण हिस्सा भी नहीं हैं। इसके अलावा, शायद ही कोई सिद्धांत स्थिर हो; वे हमेशा बदलते रहते हैं। सिद्धांत आवश्यक हैं लेकिन वे कामचलाऊ हैं। एक प्रचलित सिद्धांत तब छोड़ दिया जाता है जब कोई बेहतर सिद्धांत सामने आता है। केवल सैद्धांतिक गतिविधि ही विज्ञान का निर्माण नहीं करती है। विज्ञान चीजों को करने का एक तरीका भी है, एक व्यावहारिक गतिविधि।",
+        "sub_questions": {
+            "a": "What is the popular view of science?",
+            "b": "What does the writer say about scientific theories?",
+            "c": "Why is a scientific theory called makeshift?",
+            "d": "What according to the writer, is science?"
+        },
+        "anuprashna": {
+            "a": "विज्ञान का लोकप्रिय दृष्टिकोण क्या है?",
+            "b": "लेखक वैज्ञानिक सिद्धांतों के बारे में क्या कहता है?",
+            "c": "वैज्ञानिक सिद्धांत को कामचलाऊ (makeshift) क्यों कहा जाता है?",
+            "d": "लेखक के अनुसार विज्ञान क्या है?"
+        }
+    },
+    {
+        "id": "precis_1",
+        "type": "precis",
+        "question": "Make a precis of the following passage and give a suitable title: \nEducated women can serve the country in various capacities. The education of children depends mainly upon women. They can teach as well as amuse. They can do research work in art, literature, philosophy and science. Women can also render social service whenever there is flood, famine, earthquake or some natural calamity. It is also during war that they can be of utmost utility to their nation. The defense of the country is a matter of great importance to all and women should share the burden with men. They can get training in use of guns and rifles and as drivers and pilots, and fight to defend the borders and liberty of their country.",
+        "prashna": "निम्नलिखित गद्यांश का संक्षेपण कीजिए और एक उपयुक्त शीर्षक दीजिए: \nशिक्षित महिलाएँ विभिन्न क्षमताओं में देश की सेवा कर सकती हैं। बच्चों की शिक्षा मुख्य रूप से महिलाओं पर निर्भर करती है। वे पढ़ाने के साथ-साथ मनोरंजन भी कर सकती हैं। वे कला, साहित्य, दर्शन और विज्ञान में शोध कार्य कर सकती हैं। जब भी बाढ़, अकाल, भूकंप या कोई प्राकृतिक आपदा आती है तो महिलाएँ सामाजिक सेवा भी कर सकती हैं। युद्ध के दौरान भी वे अपने राष्ट्र के लिए अत्यंत उपयोगी हो सकती हैं। देश की रक्षा सभी के लिए बहुत महत्व का विषय है और महिलाओं को पुरुषों के साथ बोझ साझा करना चाहिए। वे बंदूकों और राइफलों के उपयोग और ड्राइवरों और पायलटों के रूप में प्रशिक्षण प्राप्त कर सकती हैं, और अपने देश की सीमाओं और स्वतंत्रता की रक्षा के लिए लड़ सकती हैं।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Write the summary of any one of the following poems: (a) The Soldier (b) To Autumn (c) Macavity: The Mystery Cat (d) Fire-Hymn",
+        "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखिए: (क) द सोल्जर (ख) टू ऑटम (ग) मैकैविटी: द मिस्ट्री कैट (घ) फायर-हिमन"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Match the poets given in List-A with appropriate titles from List-B: \nList-A: (a) Walter de la Mare, (b) John Keats, (c) Rupert Brooke, (d) Keki N. Daruwala, (e) Walt Whitman \nList-B: (i) The Soldier, (ii) Fire-Hymn, (iii) An Epitaph, (iv) Song of Myself, (v) To Autumn",
+        "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों के साथ मिलान करें: \nसूची-A: (क) वाल्टर डी ला मेयर, (ख) जॉन कीट्स, (ग) रूपर्ट ब्रुक, (घ) केकी एन. दारूवाला, (ङ) वॉल्ट व्हिटमैन \nसूची-B: (i) द सोल्जर, (ii) फायर-हिमन, (iii) एन एपिटाफ, (iv) सॉन्ग ऑफ माईसेल्फ, (v) टू ऑटम"
+    },
+    {
+        "id": "explanation_1",
+        "type": "explanation",
+        "question": "Name the poets who wrote the following lines:",
+        "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+        "sub_questions": {
+            "a": "For he seemed to me again like a king. Like a king in exile, uncrowned in the underworld, Now due to be crowned again.",
+            "b": "I who have lost My way and beg now at strangers doors to Receive love, at least in small change?",
+            "c": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast they music too.",
+            "d": "If I should die, think only this of me: That there's some corner of a foreign field that is for ever England.",
+            "e": "I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you."
+        },
+        "anuprashna": {
+            "a": "For he seemed to me again like a king. Like a king in exile, uncrowned in the underworld, Now due to be crowned again.",
+            "b": "I who have lost My way and beg now at strangers doors to Receive love, at least in small change?",
+            "c": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast they music too.",
+            "d": "If I should die, think only this of me: That there's some corner of a foreign field that is for ever England.",
+            "e": "I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you."
+        }
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Summarise any one of the following pieces: (a) The Earth (b) India Though a Traveller's Eyes (c) Indian Civilization and Culture.",
+        "prashna": "निम्नलिखित गद्य रचनाओं में से किसी एक का सारांश लिखिए: (क) द अर्थ (ख) इंडिया थ्रू अ ट्रैवलर्स आईज़ (ग) इंडियन सिविलाइजेशन एंड कल्चर।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Complete the following sentences on the basis of your textual reading:",
+        "prashna": "अपने पाठ्य पुस्तक के अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें:",
+        "sub_questions": {
+            "a": "I shall be told that it is neither numbers nor multiplicity of pleasures that Make……….",
+            "b": "The distinguishing characteristic of modern civilization is an indefinite multiplicity of……………"
+        },
+        "anuprashna": {
+            "a": "मुझे बताया जाएगा कि यह न तो संख्या है और न ही सुखों की बहुलता जो बनाती है ……….",
+            "b": "आधुनिक सभ्यता की विशिष्ट विशेषता …………… की अनिश्चित बहुलता है।"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Name the authors of the following prose pieces: (a) Ideas That Have Helped Mankind (b) Bharat is My Home (c) India Through a Traveller's Eyes.",
+        "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए: (क) आइडियाज दैट हैव हेल्प्ड मैनकाइंड (ख) भारत इज माई होम (ग) इंडिया थ्रू अ ट्रैवलर्स आईज़।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Name the authors of the following works: (a) As you Like It (b) The Old Man and the Sea (c) Pride and Prejudice (d) Train to Pakistan (e) The Wasteland.",
+        "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए: (क) एज़ यू लाइक इट (ख) द ओल्ड मैन एंड द सी (ग) प्राइड एंड प्रेजुडिस (घ) ट्रेन टू पाकिस्तान (ङ) द वेस्टलैंड।"
+    },
+    {
+        "id": "short_6_1",
+        "type": "short_answer",
+        "question": "Name any five Indian English novelists.",
+        "prashna": "किन्हीं पाँच भारतीय अंग्रेजी उपन्यासकारों के नाम लिखिए।"
+    },
+    {
+        "id": "short_6_2",
+        "type": "short_answer",
+        "question": "Name any five English dramatists.",
+        "prashna": "किन्हीं पाँच अंग्रेजी नाटककारों के नाम लिखिए।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Write a short note on English as a world Language.",
+        "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Write a short note on Indian English Poetry.",
+        "prashna": "भारतीय अंग्रेजी कविता पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+]
