@@ -19,7 +19,7 @@ Implement a standardized data processing pipeline for Bihar Board Class 12 Socio
    - Action: Utilize the shared `process_question_paper` utility to generate raw JSON in `sociology_data/`.
 
 2. **Annotation** (`batch_annotate_sociology.py`):
-   - Logic: Feed raw questions to Gemini (using `models/gemini-3-flash-preview`).
+   - Logic: Feed raw questions to Gemini (using `models/gemini-2.5-pro`).
    - Task: Map each question to the NCERT chapters identified in Phase 1.
    - Output: Annotated JSON in `sociology_data_annotated/`.
 

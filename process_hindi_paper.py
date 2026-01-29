@@ -107,7 +107,7 @@ def process_hindi_question_paper(input_pdf_path: str, output_json_path: str):
 
     # Step 3: Call the Gemini API to generate the content
     print("Generating content with Gemini... (This may take a moment)")
-    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
+    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
     # Safety settings to avoid blocking educational content
     safety_settings = [
         {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},

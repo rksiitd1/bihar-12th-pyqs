@@ -92,7 +92,7 @@ def main():
         return
     chapters = HINDI_CHAPTERS
     # Using 1.5 Pro to ensure high quality with large context if needed, or stick to what history uses.
-    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
+    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
     
     for fpath in files:
         out_path = out_folder / fpath.name

@@ -19,7 +19,7 @@ Implement a standardized data processing pipeline for Bihar Board Class 12 Hindi
    - Action: Utilize the existing `process_hindi_paper.py` utility which already supports granular types: `objective`, `essay`, `explanation`, `letter_writing`, `short_answer`, `long_answer`, `summary`, `translation`, and `comprehension`.
 
 2. **Annotation** (`batch_annotate_hindi.py`):
-   - Logic: Feed raw questions to Gemini (using `models/gemini-3-flash-preview`).
+   - Logic: Feed raw questions to Gemini (using `models/gemini-2.5-pro`).
    - Task: Map each question to the NCERT chapters identified in Phase 1.
    - Output: Annotated JSON in `hindi_data_annotated/`.
 

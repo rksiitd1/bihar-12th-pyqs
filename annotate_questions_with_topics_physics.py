@@ -121,7 +121,7 @@ def main():
     topics = PHYSICS_TOPICS
     prompt = generate_physics_annotation_prompt(chapters, topics, questions)
     print("\nSending questions to Gemini for annotation...")
-    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
+    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
     response = model.generate_content(prompt)
     print("Gemini response received. Parsing...")
     try:

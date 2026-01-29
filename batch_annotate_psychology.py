@@ -57,7 +57,7 @@ def main():
         print(f"No JSON files found in psychology_data/!")
         return
     chapters = PSYCHOLOGY_CHAPTERS
-    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
+    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
     for fpath in files:
         out_path = out_folder / fpath.name
         if out_path.exists():

@@ -114,7 +114,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
 
     # Step 3: Call the Gemini API to generate the content
     print("Generating content with Gemini... (This may take a moment)")
-    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
+    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
     # model = genai.GenerativeModel(model_name="models/gemini-1.5-pro") # Fallback if needed
     response = model.generate_content(prompt_parts)
 

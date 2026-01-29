@@ -19,7 +19,7 @@ Implement a standardized data processing pipeline for Bihar Board Class 12 Engli
    - Action: Use a specialized extraction script (e.g., `process_english_paper.py`) that categorizes questions into the following granular types: `objective`, `essay`, `explanation`, `letter_application`, `short_answer`, `long_answer`, `passage_comprehension`, and `precis`.
 
 2. **Annotation** (`batch_annotate_english.py`):
-   - Logic: Feed raw questions to Gemini (using `models/gemini-3-flash-preview`).
+   - Logic: Feed raw questions to Gemini (using `models/gemini-2.5-pro`).
    - Task: Map each question to the NCERT chapters identified in Phase 1.
    - Output: Annotated JSON in `english_data_annotated/`.
 
