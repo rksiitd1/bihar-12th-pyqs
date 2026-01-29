@@ -1,0 +1,235 @@
+[
+    {
+        "id": "long_answer_1_1",
+        "type": "long_answer",
+        "chapter_name": "Vyakaran",
+        "question": "भक्तिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।",
+        "instructions": ""
+    },
+    {
+        "id": "long_answer_1_2",
+        "type": "long_answer",
+        "chapter_name": "Ardhanarishwar",
+        "question": "दिनकर या नागार्जुन का काव्यात्मक परिचय दें।",
+        "instructions": ""
+    },
+    {
+        "id": "explanation_1_1",
+        "type": "explanation",
+        "chapter_name": "Hanste Hue Mera Akelapan",
+        "question": "(क) आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है, कैसे ?",
+        "instructions": "सप्रसंग व्याख्या करें-"
+    },
+    {
+        "id": "explanation_1_2",
+        "type": "explanation",
+        "chapter_name": "Ardhanarishwar",
+        "question": "\"जिस पुरुष में नारीत्व नहीं, अपूर्ण है।\"",
+        "instructions": "सप्रसंग व्याख्या करें-"
+    },
+    {
+        "id": "explanation_2_1",
+        "type": "explanation",
+        "chapter_name": "Putra Viyog",
+        "question": "(ख) मेरा खोया हुआ खिलौना\nअब तक मेरे पास न आया।",
+        "instructions": "सप्रसंग व्याख्या करें-"
+    },
+    {
+        "id": "explanation_2_2",
+        "type": "explanation",
+        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "question": "दुनिया के हिस्सों में चारों ओर\nजन-जन का युद्ध एक",
+        "instructions": "सप्रसंग व्याख्या करें-"
+    },
+    {
+        "id": "summary_1_1",
+        "type": "summary",
+        "chapter_name": "Roz",
+        "question": "(क) 'रोज' कहानी का सारांश लिखें।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "summary_1_2",
+        "type": "summary",
+        "chapter_name": "O Sadanira",
+        "question": "'ओ सदानीरा' पाठ में आए नौका विहार प्रसंग का वर्णन करें।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "summary_2_1",
+        "type": "summary",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "question": "(ख) 'स्नेहकल कलह' में कविता का भावार्थ लिखें।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "summary_2_2",
+        "type": "summary",
+        "chapter_name": "Ardhanarishwar",
+        "question": "नारी तो हम हूँ करी, तब ना किया विचार।\nजब जानी तब परिहरि नारी महाविकार।\nउपर्युक्त कविता (पंक्तियों) का भावार्थ अपने शब्दों में लिखें।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_1",
+        "type": "short_answer",
+        "chapter_name": "Ardhanarishwar",
+        "question": "(क) पुरुष जब नारी के गुण लेता है तब वह क्या बन जाता है?",
+        "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_2",
+        "type": "short_answer",
+        "chapter_name": "Ek Lekh Aur Ek Patra",
+        "question": "(ख) विद्यार्थियों को राजनीति में भाग क्यों लेना चाहिए?",
+        "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_3",
+        "type": "short_answer",
+        "chapter_name": "O Sadanira",
+        "question": "(ग) गांधीजी के शिक्षा संबंधी आदर्श क्या थे?",
+        "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_4",
+        "type": "short_answer",
+        "chapter_name": "Hanste Hue Mera Akelapan",
+        "question": "(घ) डायरी का लिखा जाना क्यों मुश्किल है?",
+        "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_5",
+        "type": "short_answer",
+        "chapter_name": "Putra Viyog",
+        "question": "(ङ) पुत्र को छौना कहने में क्या भाव छिपा है? उद्घाटित करें।",
+        "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_6",
+        "type": "short_answer",
+        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "question": "(च) 'जन-जन का चेहरा एक' से कवि का क्या तात्पर्य है?",
+        "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_answer_7",
+        "type": "short_answer",
+        "chapter_name": "Vyakaran",
+        "question": "सही जोड़े का मिलान करें-",
+        "instructions": "",
+        "sub_questions": {
+            "स्तंभ A": [
+                "(क) मोहन राकेश",
+                "(ख) जे. कृष्णमूर्ति",
+                "(ग) मुक्तिबोध",
+                "(घ) जगदीशचन्द्र माथुर",
+                "(ङ) दिनकर"
+            ],
+            "स्तंभ B": [
+                "(i) अर्द्धनारीश्वर",
+                "(ii) ओ सदानीरा",
+                "(iii) जन-जन का चेहरा एक",
+                "(iv) शिक्षा",
+                "(v) सिपाही की माँ"
+            ]
+        }
+    },
+    {
+        "id": "objective_1",
+        "type": "objective",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "‘लहना’ किस कहानी का पात्र है?",
+        "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
+        "options": {
+            "A": "रोज",
+            "B": "उसने कहा था",
+            "C": "जूठन",
+            "D": "तिरिछ"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_2",
+        "type": "objective",
+        "chapter_name": "Ek Lekh Aur Ek Patra",
+        "question": "'एक लेख और एक पत्र' के लेखक हैं",
+        "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
+        "options": {
+            "A": "मोहन राकेश",
+            "B": "नामवर सिंह",
+            "C": "भगत सिंह",
+            "D": "दिनकर"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_3",
+        "type": "objective",
+        "chapter_name": "Sampoorna Kranti",
+        "question": "जयप्रकाश नारायण की रचना है।",
+        "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
+        "options": {
+            "A": "जूठन",
+            "B": "सम्पूर्ण क्रांति",
+            "C": "बातचीत",
+            "D": "रोज"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_4",
+        "type": "objective",
+        "chapter_name": "Baat Cheet",
+        "question": "‘बातचीत’ साहित्य की कौन-सी विधा है?",
+        "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
+        "options": {
+            "A": "उपन्यास",
+            "B": "कहानी",
+            "C": "निबंध",
+            "D": "नाटक"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_5",
+        "type": "objective",
+        "chapter_name": "Adhinayak",
+        "question": "अधिनायक' के रचनाकार हैं",
+        "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
+        "options": {
+            "A": "रघुवीर सहाय",
+            "B": "अशोक वाजपेयी",
+            "C": "मलयज",
+            "D": "भारतेन्दु"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "comprehension_1",
+        "type": "comprehension",
+        "chapter_name": "Vyakaran",
+        "question": "अंग्रेजी पढ़ना खराब नहीं है, पर अंग्रेजी पढ़कर अंग्रेज हो जाना खराब है। अंग्रेजी पढ़कर अपने देश को, अपनी भाषा को, अपनी संस्कृति को भूल जाना खराब है। इस बात में इसलिए कर रहा हूँ कि आज के अधिकतर अंग्रेजी पढ़े-लिखे सज्जन अपने देश के प्रत्येक व्यक्ति को हीन दृष्टि से देखते हैं। उसकी आलोचना करते हैं और उसे अपनाने में अपनी मानहानि समझते हैं। पर्व को ही लीजिए। पढ़े-लिखे लोग कहते हैं कि यह स्त्रियों का ढोंग है। यह पंडितों का पोंगा है। वे कहते हैं, पर्व बेकार हैं। ये फिजूलखर्ची के साधन हैं।",
+        "instructions": "संक्षेपण करें-"
+    },
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "chapter_name": "Vyakaran",
+        "question": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-\n(क) छात्र और राजनीति\n(ख) मेरे प्रिय कवि\n(ग) महँगाई\n(घ) वसत ऋतु\n(ङ) विज्ञान वरदान या अभिशाप",
+        "instructions": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-"
+    },
+    {
+        "id": "letter_writing_1_1",
+        "type": "letter_writing",
+        "chapter_name": "Vyakaran",
+        "question": "निर्धन छात्रकोष से सहायता हेतु अपने प्रधानाचार्य / प्राचार्य के पास आवेदन-पत्र लिखिए।",
+        "instructions": "संक्षिप्त पत्र लिखिए-"
+    },
+    {
+        "id": "letter_writing_1_2",
+        "type": "letter_writing",
+        "chapter_name": "Vyakaran",
+        "question": "स्थानीय समाचार पत्र के माध्यम से अपने शिक्षा मंत्री का ध्यान परीक्षा में होने वाली अनियमितताओं की ओर आकृष्ट करें।",
+        "instructions": "संक्षिप्त पत्र लिखिए-"
+    }
+]

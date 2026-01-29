@@ -41,6 +41,7 @@ python batch_annotate_economics.py         # For Economics
 python batch_annotate_music.py             # For Music
 python batch_annotate_sociology.py         # For Sociology
 python batch_annotate_philosophy.py        # For Philosophy
+python batch_annotate_hindi.py             # For Hindi (includes Vyakaran)
 
 # 5. Merge all years into one file
 python merge_biology.py
@@ -56,6 +57,7 @@ python merge_economics.py
 python merge_music.py
 python merge_sociology.py
 python merge_philosophy.py
+python merge_hindi.py
 
 # 6. Split by chapter or type
 python split_biology_by_chapter.py
@@ -81,6 +83,9 @@ python split_sociology_types_by_chapters.py
 python split_philosophy_by_chapter.py
 python split_philosophy_by_type.py
 python split_philosophy_types_by_chapters.py
+python split_hindi_by_chapter.py
+python split_hindi_by_type.py
+python split_hindi_types_by_chapters.py
 ```
 
 ---
@@ -118,6 +123,7 @@ python split_philosophy_types_by_chapters.py
 | `batch_processing_music.py` | `music_papers/*.pdf` | `music_data/*.json` | Batch PDF extraction for music |
 | `batch_processing_sociology.py` | `sociology_papers/*.pdf` | `sociology_data/*.json` | Batch PDF extraction for sociology |
 | `batch_processing_philosophy.py` | `philosophy_papers/*.pdf` | `philosophy_data/*.json` | Batch PDF extraction for philosophy |
+| `batch_processing_hindi.py` | `hindi_papers/*.pdf` | `hindi_data/*.json` | Batch PDF extraction for hindi |
 
 ### Stage 2: Annotate with Chapters/Topics
 
@@ -135,6 +141,7 @@ python split_philosophy_types_by_chapters.py
 | `batch_annotate_music.py` | `music_data/*.json` | `music_data_annotated/*.json` | Adds chapter info for music |
 | `batch_annotate_sociology.py` | `sociology_data/*.json` | `sociology_data_annotated/*.json` | Adds chapter info for sociology |
 | `batch_annotate_philosophy.py` | `philosophy_data/*.json` | `philosophy_data_annotated/*.json` | Adds chapter info for philosophy |
+| `batch_annotate_hindi.py` | `hindi_data/*.json` | `hindi_data_annotated/*.json` | Adds chapter info for hindi (Digant+Vyakaran) |
 | `annotate_questions_with_chapters.py` | Single file (interactive) | Annotated JSON | Interactive single-file annotator |
 | `annotate_questions_with_topics_physics.py` | Single file (interactive) | Annotated JSON | Physics with topics |
 
@@ -155,6 +162,7 @@ python split_philosophy_types_by_chapters.py
 | `merge_music.py` | `music_data_annotated/` | `music_pro/music_all_years.json` | Combines all years |
 | `merge_sociology.py` | `sociology_data_annotated/` | `sociology_pro/sociology_all_years.json` | Combines all years |
 | `merge_philosophy.py` | `philosophy_data_annotated/` | `philosophy_pro/philosophy_all_years.json` | Combines all years |
+| `merge_hindi.py` | `hindi_data_annotated/` | `hindi_pro/hindi_all_years.json` | Combines all years |
 
 ### Stage 4: Split for Analysis
 
@@ -386,6 +394,7 @@ python split_economics_by_chapter.py
 python split_music_by_chapter.py
 python split_sociology_by_chapter.py
 python split_philosophy_by_chapter.py
+python split_hindi_by_chapter.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -409,6 +418,7 @@ python split_economics_by_type.py
 python split_music_by_type.py
 python split_sociology_by_type.py
 python split_philosophy_by_type.py
+python split_hindi_by_type.py
 ```
 
 - **Input:** `{subject}_pro/{subject}_all_years.json`
@@ -436,6 +446,7 @@ python split_economics_types_by_chapters.py
 python split_music_types_by_chapters.py
 python split_sociology_types_by_chapters.py
 python split_philosophy_types_by_chapters.py
+python split_hindi_types_by_chapters.py
 ```
 
 - **Input:** `{subject}_pro_types/type-{type}.json`
