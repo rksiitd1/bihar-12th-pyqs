@@ -152,6 +152,18 @@ python split_english_types_by_chapters.py
 | `annotate_questions_with_chapters.py` | Single file (interactive) | Annotated JSON | Interactive single-file annotator |
 | `annotate_questions_with_topics_physics.py` | Single file (interactive) | Annotated JSON | Physics with topics |
 
+#### Alternative Annotation Methods (Rate Limit Solutions)
+
+| Script | Input | Output | Description |
+|--------|-------|--------|-------------|
+| `batch_annotate_english_groq.py` | `english_data/*.json` | `english_data_annotated/*.json` | Uses Groq API (Moonshot Kimi) - handles chunking for rate limits |
+| `batch_annotate_english_dummy.py` | `english_data/*.json` | `english_data_annotated/*.json` | No API - assigns random chapters + "Grammar" |
+| `batch_annotate_hindi_dummy.py` | `hindi_data/*.json` | `hindi_data_annotated/*.json` | No API - assigns random chapters + "Vyakaran" |
+
+**When to use:**
+- **Groq scripts**: When Google Gemini API hits rate limits. Requires `GROQ_API_KEY` in `.env`
+- **Dummy scripts**: For quick testing or when all APIs are unavailable. Creates valid structure with randomized chapter assignments
+
 ### Stage 3: Merge & Organize
 
 | Script | Input | Output | Description |
@@ -197,14 +209,15 @@ python split_english_types_by_chapters.py
 ## 🔧 Prerequisites
 
 ```bash
-pip install google-generativeai pandas xlsxwriter requests
+pip install google-generativeai pandas xlsxwriter requests groq
 ```
 
-Set your Gemini API key in a `.env` file in the root directory:
+Set your API keys in a `.env` file in the root directory:
 ```text
-GOOGLE_API_KEY=your-api-key-here
+GOOGLE_API_KEY=your-google-api-key-here
+GROQ_API_KEY=your-groq-api-key-here
 ```
-The scripts will automatically load this key using `python-dotenv`.
+The scripts will automatically load these keys using `python-dotenv`.
 
 ---
 
@@ -348,6 +361,60 @@ python annotate_questions_with_topics_physics.py
 - **Difference from `annotate_questions_with_chapters.py`:**
   - Physics-only
   - Adds topic-level metadata
+
+#### `batch_annotate_english_groq.py`
+**Purpose:** Annotates English questions using Groq API (Moonshot Kimi model) with intelligent chunking.
+
+```powershell
+python batch_annotate_english_groq.py
+```
+
+- **Input:** `english_data/*.json`
+- **Output:** `english_data_annotated/*.json`
+- **Adds:** `chapter_name` field
+- **Features:**
+  - Processes questions in chunks of 10 to avoid rate limits
+  - 10-second delay between chunks
+  - Automatic retry logic
+  - Real-time streaming output
+- **Requires:** `GROQ_API_KEY` in `.env` file
+- **Rate Limits:** 
+  - Model: `moonshotai/kimi-k2-instruct-0905`
+  - Max tokens: 16,384 per response
+  - TPM limit: 10,000
+- **Use when:** Google Gemini API is hitting rate limits or unavailable
+
+#### `batch_annotate_english_dummy.py`
+**Purpose:** Annotates English questions WITHOUT any API - assigns chapters based on logic rules.
+
+```powershell
+python batch_annotate_english_dummy.py
+```
+
+- **Input:** `english_data/*.json` (2021-2026)
+- **Output:** `english_data_annotated/*.json`
+- **Adds:** `chapter_name` field
+- **Logic:**
+  - Grammar/composition types (Essay, Letter, Precis, Comprehension) → `"Grammar"`
+  - All other types (Objective, Short, Long) → Random chapter from official NCERT syllabus
+- **No API required** - Instant execution
+- **Use when:** Testing pipeline or all APIs are down
+
+#### `batch_annotate_hindi_dummy.py`
+**Purpose:** Annotates Hindi questions WITHOUT any API - same logic as English dummy script.
+
+```powershell
+python batch_annotate_hindi_dummy.py
+```
+
+- **Input:** `hindi_data/*.json`
+- **Output:** `hindi_data_annotated/*.json`
+- **Adds:** `chapter_name` field
+- **Logic:**
+  - Grammar/composition types (Nibandh, Patra, Sankshepan) → `"Vyakaran"`
+  - All other types → Random chapter from Digant Bhag 2 syllabus
+- **No API required** - Instant execution
+- **Use when:** Testing pipeline or all APIs are down
 
 ---
 
@@ -566,4 +633,51 @@ python reorder_chapter_name_all.py
 **Q: Why are there separate scripts for each subject?**
 - Merge and split scripts are subject-specific to avoid confusion
 - They're nearly identical but point to different folders
+
+---
+
+## 🔧 Troubleshooting
+
+### Rate Limit Errors (429 / Resource Exhausted)
+
+**Problem:** Getting rate limit errors when running annotation scripts.
+
+**Solutions (in order of preference):**
+
+1. **Switch to Groq API** (English only currently):
+   ```powershell
+   # Add to .env file
+   GROQ_API_KEY=your-groq-key
+   
+   # Use Groq script instead
+   python batch_annotate_english_groq.py
+   ```
+
+2. **Use Multiple Google API Keys**:
+   ```text
+   # In .env file
+   GOOGLE_API_KEY=key1
+   GOOGLE_API_KEY_1=key2
+   GOOGLE_API_KEY_2=key3
+   ```
+   Scripts will rotate through keys automatically.
+
+3. **Use Dummy Scripts** (for testing/development):
+   ```powershell
+   python batch_annotate_english_dummy.py
+   python batch_annotate_hindi_dummy.py
+   ```
+   Creates valid structure with randomized chapters instantly.
+
+### Model Not Found Errors
+
+**Problem:** `gemini-2.5-pro` not available.
+
+**Solution:** Scripts default to `gemini-1.5-pro` or `gemini-1.5-flash`. Check the model name in the script and update if needed.
+
+### Chunking for Large Files
+
+The Groq script automatically chunks questions into batches of 10. If you still hit limits, you can:
+- Reduce `CHUNK_SIZE` in the script
+- Increase delay between chunks (currently 10s)
 
