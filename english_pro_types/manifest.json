@@ -1,0 +1,50 @@
+[
+  {
+    "type": "objective",
+    "file": "type-objective.json",
+    "total_items": 500,
+    "years": 5
+  },
+  {
+    "type": "essay",
+    "file": "type-essay.json",
+    "total_items": 5,
+    "years": 5
+  },
+  {
+    "type": "explanation",
+    "file": "type-explanation.json",
+    "total_items": 22,
+    "years": 5
+  },
+  {
+    "type": "letter_application",
+    "file": "type-letter_application.json",
+    "total_items": 10,
+    "years": 5
+  },
+  {
+    "type": "short_answer",
+    "file": "type-short_answer.json",
+    "total_items": 5,
+    "years": 5
+  },
+  {
+    "type": "long_answer",
+    "file": "type-long_answer.json",
+    "total_items": 34,
+    "years": 5
+  },
+  {
+    "type": "passage_comprehension",
+    "file": "type-passage_comprehension.json",
+    "total_items": 4,
+    "years": 4
+  },
+  {
+    "type": "precis",
+    "file": "type-precis.json",
+    "total_items": 5,
+    "years": 5
+  }
+]

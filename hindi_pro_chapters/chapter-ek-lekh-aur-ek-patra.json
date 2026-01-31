@@ -1,0 +1,320 @@
+{
+  "2014": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
+      "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
+      "sub_questions": {
+        "क": "लहना सिंह के प्रेम के बारे में लिखिए।",
+        "ख": "'तिरछ' किसका प्रतीक है?",
+        "ग": "तुलसी की भूख किस वस्तु की है?",
+        "घ": "'पुंडलीक' जी कौन थे?",
+        "ङ": "'हरिचरण' को हरचरना क्यों कहा गया है?",
+        "च": "'अधिनायक' का क्या अर्थ है?"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "summary_1_2",
+      "type": "summary",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'हार-जीत' कहानी का सारांश लिखें।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    }
+  ],
+  "2018": [
+    {
+      "id": "summary_2_2",
+      "type": "summary",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'जीवन का झरना' कविता का भावार्थ लिखें।",
+      "instructions": "अथवा"
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_24",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'जिसने गुरु से दीक्षा ली हो' एक शब्द में कहा जाता है-",
+      "options": {
+        "A": "शिक्षित",
+        "B": "दीक्षित",
+        "C": "पंडित",
+        "D": "आचार्य"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_30",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'निश्चय' का सन्धि-विच्छेद है-",
+      "options": {
+        "A": "नि: + चय",
+        "B": "निश + चय",
+        "C": "निश+ चय",
+        "D": "इनमें से कोई नहीं"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_32",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'जन-जन का चेहरा एक' शीर्ष कविता के कवि है-",
+      "options": {
+        "A": "ज्ञानेन्द्रपति",
+        "B": "गजानन माधव मुक्तिबोध",
+        "C": "नामवर सिंह",
+        "D": "अशोक वाजपेयी"
+      },
+      "answer": "B"
+    }
+  ],
+  "2020": [
+    {
+      "id": "objective_53",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'उसने कहा था'-कहानी है",
+      "options": {
+        "A": "युद्ध की कहानी",
+        "B": "दिव्य-प्रेम की कहानी",
+        "C": "प्रेम पर बलिदान होने की कहानी",
+        "D": "इनमें से सभी"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "objective_60",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'तीव्र बुद्धि वाला' कहलाता है.",
+      "options": {
+        "A": "समझदार",
+        "B": "आज्ञाकारी",
+        "C": "कुशाग्र",
+        "D": "बुद्धिमान"
+      },
+      "answer": "C"
+    }
+  ],
+  "2021": [
+    {
+      "id": "objective_20",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'धीरे-धीरे शब्द कौन समास है",
+      "options": {
+        "A": "अव्ययीभाव",
+        "B": "द्विगु",
+        "C": "द्वन्द्व",
+        "D": "कर्मधारय"
+      }
+    },
+    {
+      "id": "objective_26",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'प्रकृति वर्णन' से संबंधित कविता है",
+      "options": {
+        "A": "गाँव का घर",
+        "B": "हार-जीत",
+        "C": "उषा",
+        "D": "साकेत"
+      }
+    },
+    {
+      "id": "objective_59",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'ऊँच' शब्द का विलाम होगा",
+      "options": {
+        "A": "प्रमुख",
+        "B": "नीच",
+        "C": "गौड़",
+        "D": "मध्यम"
+      }
+    },
+    {
+      "id": "objective_63",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "एक लेख और एक पत्र में भगत सिंह ने किसको पत्र लिखा था ?",
+      "options": {
+        "A": "सुखदेव",
+        "B": "राजगुरु",
+        "C": "बिस्मिल",
+        "D": "अशफाक खाँ"
+      }
+    },
+    {
+      "id": "objective_72",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'गुरु के समीप रहनेवाला विद्यार्थी कहलाता है",
+      "options": {
+        "A": "वजबटुक",
+        "B": "ब्रहाचारी",
+        "C": "अंतेवासी",
+        "D": "गुरुकूल"
+      }
+    },
+    {
+      "id": "objective_97",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'हिन्दी साहित्य का 'सूर्य' किसे कहा जाता है ?",
+      "options": {
+        "A": "सूरदास",
+        "B": "कबीरदास",
+        "C": "तुलसीदास",
+        "D": "जायसी"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "objective_43",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "नाभादास किसके समकालीन थे?",
+      "options": {
+        "A": "तुलसीदास",
+        "B": "विनोद कुमार शुक्ल",
+        "C": "गजानन माधव मुक्तिबोध",
+        "D": "भूषण"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_84",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "हर तरह के संकटों से घिरे रहने पर भी वह निराश नहीं हुआ- किस वाक्य का उदाहरण है?",
+      "options": {
+        "A": "संयुक्त वाक्य",
+        "B": "प्रश्नवाचक वाक्य",
+        "C": "मिश्र वाक्य",
+        "D": "सरल वाक्य"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "objective_87",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'जिसके समान द्वितीय नहीं है' के लिए एक शब्द है",
+      "options": {
+        "A": "अजातशत्रु",
+        "B": "अनुपम",
+        "C": "अद्वितीय",
+        "D": "अद्भुत"
+      },
+      "answer": "C"
+    }
+  ],
+  "2023": [
+    {
+      "id": "objective_23",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "निम्न में से शुद्ध शब्द कौन है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "आस्तिक",
+        "B": "नास्तीक",
+        "C": "घिर्णा",
+        "D": "पराजीत"
+      }
+    },
+    {
+      "id": "objective_66",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "विनोद कुमार शुक्ल को 1999 ई० में कौन पुरस्कार मिला ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "साहित्य मनीषी",
+        "B": "साहित्य अकादमी पुरस्कार",
+        "C": "ज्ञानपीठ पुरस्कार",
+        "D": "पद्मभूषण"
+      }
+    },
+    {
+      "id": "objective_71",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "निम्न में से दलित आत्मकथा शीर्षक पाठ कौन है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "तिरिछ",
+        "B": "जूठन",
+        "C": "शिक्षा",
+        "D": "रोज"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "objective_11",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'स्वर वर्णों' की संख्या कितनी है ?",
+      "instructions": null,
+      "options": {
+        "A": "ग्यारह",
+        "B": "बारह",
+        "C": "तेरह",
+        "D": "चौदह"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_57",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "रामधारी सिंह दिनकर की पहली कविता कब प्रकाशित हुई ?",
+      "instructions": null,
+      "options": {
+        "A": "1924 ई० में",
+        "B": "1925 ई० में",
+        "C": "1922 ई० में",
+        "D": "1926 ई० में"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_66",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'भक्तमाल' शीर्षक रचना में कितने छप्पय हैं ?",
+      "instructions": null,
+      "options": {
+        "A": "216",
+        "B": "416",
+        "C": "116",
+        "D": "316"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "objective_82",
+      "type": "objective",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "जयशंकर प्रसाद किस युग के कवि थे ?",
+      "instructions": null,
+      "options": {
+        "A": "द्विवेदी युग",
+        "B": "भारतेंदु युग",
+        "C": "छायावादोत्तर युग",
+        "D": "छायावाद युग"
+      },
+      "answer": "D"
+    }
+  ]
+}

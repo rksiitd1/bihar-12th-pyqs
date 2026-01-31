@@ -1,0 +1,50 @@
+[
+  {
+    "type": "objective",
+    "file": "type-objective.json",
+    "total_items": 678,
+    "years": 14
+  },
+  {
+    "type": "explanation",
+    "file": "type-explanation.json",
+    "total_items": 31,
+    "years": 13
+  },
+  {
+    "type": "various",
+    "file": "type-various.json",
+    "total_items": 26,
+    "years": 13
+  },
+  {
+    "type": "essay",
+    "file": "type-essay.json",
+    "total_items": 14,
+    "years": 14
+  },
+  {
+    "type": "short_answer",
+    "file": "type-short_answer.json",
+    "total_items": 22,
+    "years": 14
+  },
+  {
+    "type": "summary",
+    "file": "type-summary.json",
+    "total_items": 21,
+    "years": 5
+  },
+  {
+    "type": "long_answer",
+    "file": "type-long_answer.json",
+    "total_items": 27,
+    "years": 13
+  },
+  {
+    "type": "comprehension",
+    "file": "type-comprehension.json",
+    "total_items": 15,
+    "years": 13
+  }
+]

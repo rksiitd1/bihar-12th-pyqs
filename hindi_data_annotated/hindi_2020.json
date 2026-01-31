@@ -1,0 +1,867 @@
+[
+    {
+        "id": "objective_1",
+        "type": "objective",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "question": "'अतिरिक्त' शब्द में उपसर्ग हैं।",
+        "options": {
+            "A": "अ",
+            "B": "अति",
+            "C": "अतिरि",
+            "D": "अतिरिक्त"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_2",
+        "type": "objective",
+        "chapter_name": "Sipahi Ki Maa",
+        "question": "'गंगा' शब्द का पर्यायवाची है",
+        "options": {
+            "A": "मंदाकिनी",
+            "B": "आगार",
+            "C": "अनंत",
+            "D": "महाकाय"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_3",
+        "type": "objective",
+        "chapter_name": "Rassi Ka Tukda",
+        "question": "'दाँत गिनना' मुहावरे का अर्थ है",
+        "options": {
+            "A": "उम्र पता लगाना",
+            "B": "दाँत की गिनती करना",
+            "C": "चकित होना",
+            "D": "लज्जित होना"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_4",
+        "type": "objective",
+        "chapter_name": "Haar-Jeet",
+        "question": "'विकास' शब्द में उपसर्ग है",
+        "options": {
+            "A": "वि",
+            "B": "विक",
+            "C": "विका",
+            "D": "वी"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_5",
+        "type": "objective",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "'रामानुज' शब्द कौन-सा समास है?",
+        "options": {
+            "A": "बहुव्रीहि",
+            "B": "तत्पुरुष",
+            "C": "कर्मधारय",
+            "D": "द्वन्द्व"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_6",
+        "type": "objective",
+        "chapter_name": "Pad (Surdas)",
+        "question": "'जीवन-भर' का एक शब्द होगा",
+        "options": {
+            "A": "जीवनार",
+            "B": "जिन्दगी",
+            "C": "आजीवन",
+            "D": "सजीवन"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_7",
+        "type": "objective",
+        "chapter_name": "Rassi Ka Tukda",
+        "question": "'जिससे किसी बात के न होने का बोध हो' उसे कहते हैं",
+        "options": {
+            "A": "विधिवाचक वाक्य",
+            "B": "आज्ञावाचक वाक्य",
+            "C": "निषेधवाचक वाक्य",
+            "D": "संदेहवाचक वाक्य"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_8",
+        "type": "objective",
+        "chapter_name": "Pragit Aur Samaj",
+        "question": "'आगामी' शब्द का विलोम है।",
+        "options": {
+            "A": "आगत",
+            "B": "विगत",
+            "C": "पूर्वगत",
+            "D": "निर्गत"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_9",
+        "type": "objective",
+        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "question": "'संवत्' का संधि-विच्छेद है",
+        "options": {
+            "A": "सम् + वत",
+            "B": "सं + वत",
+            "C": "स् + मवत",
+            "D": "सन् + वत"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_10",
+        "type": "objective",
+        "chapter_name": "Pyare Nanhe Bete Ko",
+        "question": "'आदर' शब्द का विशेषण है",
+        "options": {
+            "A": "सादर",
+            "B": "आदरपूर्वक",
+            "C": "आदरणीय",
+            "D": "आदरीय"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_11",
+        "type": "objective",
+        "chapter_name": "Baat Cheet",
+        "question": "'शब्द' का पर्यायवाची है",
+        "options": {
+            "A": "नाद",
+            "B": "निनाद",
+            "C": "ध्वनि",
+            "D": "इनमें से सभी"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_12",
+        "type": "objective",
+        "chapter_name": "Rassi Ka Tukda",
+        "question": "'चाय' शब्द कौन लिंग है?",
+        "options": {
+            "A": "स्त्रीलिंग",
+            "B": "पुल्लिंग",
+            "C": "उभयलिंग",
+            "D": "इनमें से कोई नहीं"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_13",
+        "type": "objective",
+        "chapter_name": "Pragit Aur Samaj",
+        "question": "'पुरस्कार' शब्द का विलोम है।",
+        "options": {
+            "A": "दण्ड",
+            "B": "पारिश्रमिक",
+            "C": "सम्मान",
+            "D": "अपमान"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_14",
+        "type": "objective",
+        "chapter_name": "Hanste Hue Mera Akelapan",
+        "question": "'वर्ण' के आधार पर संधि के कितने भेद होते हैं?",
+        "options": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_15",
+        "type": "objective",
+        "chapter_name": "Pad (Surdas)",
+        "question": "'दक्षिण' शब्द कौन-सी संज्ञा है?",
+        "options": {
+            "A": "जातिवाचक",
+            "B": "व्यक्तिवाचक",
+            "C": "भाववाचक",
+            "D": "गुणवाचक"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_16",
+        "type": "objective",
+        "chapter_name": "Tirichh",
+        "question": "'कपड़ा' शब्द का पर्यायवाची होगा",
+        "options": {
+            "A": "वसन",
+            "B": "पदम",
+            "C": "उदक",
+            "D": "मृगांक"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_17",
+        "type": "objective",
+        "chapter_name": "Putra Viyog",
+        "question": "'समाज' शब्द का लिंग निर्णय करें-",
+        "options": {
+            "A": "वसन",
+            "B": "पुल्लिंग",
+            "C": "उभयलिंग",
+            "D": "इनमें से कोई नहीं"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_18",
+        "type": "objective",
+        "chapter_name": "Haar-Jeet",
+        "question": "'सब धन बाईस पसेरी' मुहावरे का अर्थ है।",
+        "options": {
+            "A": "बहुत सस्ती होना",
+            "B": "बाईस पसेरी अनाज होना",
+            "C": "बहुत महँगा होना",
+            "D": "अच्छा-बुरा सबको एक समझना"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_19",
+        "type": "objective",
+        "chapter_name": "Roz",
+        "question": "'प्रतिदिन' शब्द कौन समास है?",
+        "options": {
+            "A": "तत्पुरुष",
+            "B": "बहुव्रीहि",
+            "C": "अव्ययीभाव",
+            "D": "द्विगु"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_20",
+        "type": "objective",
+        "chapter_name": "Roz",
+        "question": "'शिव' शब्द का विशेषण होगा",
+        "options": {
+            "A": "शिवा",
+            "B": "शैव",
+            "C": "शक्ति",
+            "D": "शंकर"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_21",
+        "type": "objective",
+        "chapter_name": "Hanste Hue Mera Akelapan",
+        "question": "जयप्रकाश नारायण ने छात्र आंदोलन का नेतृत्व कब किया ?",
+        "options": {
+            "A": "सन् 1974 में",
+            "B": "सन् 1967 में",
+            "C": "सन् 1976 में",
+            "D": "सन् 1977 में"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_22",
+        "type": "objective",
+        "chapter_name": "Peshgi",
+        "question": "दिनकर जी को निम्न में से कौन-सा पुरस्कार दिया गया था ?",
+        "options": {
+            "A": "पद्म श्री",
+            "B": "पद्म भूषण",
+            "C": "पद्म विभूषण",
+            "D": "पद्म"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_23",
+        "type": "objective",
+        "chapter_name": "Clerk Ki Maut",
+        "question": "'रिकंस्ट्रक्शन ऑफ इंडियन पॉलिटी' नामक पुस्तक किसने लिखी है",
+        "options": {
+            "A": "भगत सिंह",
+            "B": "महात्मा गाँधी",
+            "C": "जयप्रकाश नारायण",
+            "D": "लोकमान्य तिलक"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_24",
+        "type": "objective",
+        "chapter_name": "Pyare Nanhe Bete Ko",
+        "question": "अर्धनारीश्वर कल्पित रूप है",
+        "options": {
+            "A": "राधा-कृष्ण का",
+            "B": "शंकर और पार्वती का",
+            "C": "राम और सीता का",
+            "D": "गणेश और लक्ष्मी का"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_25",
+        "type": "objective",
+        "chapter_name": "O Sadanira",
+        "question": "अज्ञेय के पिता का नाम था",
+        "options": {
+            "A": "डॉ. उभयानन्द शास्त्री",
+            "B": "डॉ. दायानन्द शास्त्री",
+            "C": "डॉ. हीरानन्द शास्त्री",
+            "D": "डॉ. अच्युतानन्द शास्त्री"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_26",
+        "type": "objective",
+        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "question": "अशोक वाजपेयी का जन्म कब हुआ था?",
+        "options": {
+            "A": "1940 ई० में",
+            "B": "1942 ई० में",
+            "C": "1941 ई० में",
+            "D": "1944 ई. में"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_27",
+        "type": "objective",
+        "chapter_name": "O Sadanira",
+        "question": "'कवि ने कहा' क्या है?",
+        "options": {
+            "A": "कहानी संग्रह",
+            "B": "नाट्य-संग्रह",
+            "C": "कविता संग्रह",
+            "D": "निबंध संग्रह"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_28",
+        "type": "objective",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "question": "विनोद कुमार शुक्ल का निवास स्थान कहाँ है ?",
+        "options": {
+            "A": "उत्तर प्रदेश",
+            "B": "रायपुर छत्तीसगढ़",
+            "C": "बिहार",
+            "D": "पंजाब"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_29",
+        "type": "objective",
+        "chapter_name": "Adhinayak",
+        "question": "लोग भूल गए हैं' किसकी रचना है ?",
+        "options": {
+            "A": "भूपेंद्रपति",
+            "B": "भूषण",
+            "C": "सूरदास",
+            "D": "रघुवीर सहाय"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_30",
+        "type": "objective",
+        "chapter_name": "Shiksha",
+        "question": "'अधिनायक' शीर्षक कविता किस पुस्तक से ली गयी है ?",
+        "options": {
+            "A": "लोग भूल गए है",
+            "B": "आत्महत्या के विरुद्ध",
+            "C": "हंसो हँसो जल्दी हँसो",
+            "D": "मुक्तिबोध रत्नावली"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_31",
+        "type": "objective",
+        "chapter_name": "Shiksha",
+        "question": "'एक लेख और एक पत्र' शीर्षक पाठ के लेखक कौन हैं?",
+        "options": {
+            "A": "उदय प्रकाश",
+            "B": "जे. कृष्णमूर्ति",
+            "C": "भगत सिंह",
+            "D": "चन्द्रशेखर आजाद"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_32",
+        "type": "objective",
+        "chapter_name": "Roz",
+        "question": "'बहुजन सम्प्रेषण के माध्यम' पुस्तक किसने लिखी है?",
+        "options": {
+            "A": "जयप्रकाश नारायण",
+            "B": "जगदीशचंद्र माथुर",
+            "C": "मलयज",
+            "D": "मोहन राकेश"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_33",
+        "type": "objective",
+        "chapter_name": "Ardhanarishwar",
+        "question": "मोहन राकेश रचित नाटक संग्रह है",
+        "options": {
+            "A": "उत्तर प्रियदर्शी",
+            "B": "पहला राजा",
+            "C": "सत्य हरिश्चंद्र",
+            "D": "आषाढ़ का एक दिन"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_34",
+        "type": "objective",
+        "chapter_name": "Pyare Nanhe Bete Ko",
+        "question": "तुलसीदास की पत्नी का क्या नाम था ?",
+        "options": {
+            "A": "विभावरी",
+            "B": "रत्नावली",
+            "C": "प्रभावली",
+            "D": "गीतावली"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_35",
+        "type": "objective",
+        "chapter_name": "Sampoorna Kranti",
+        "question": "हार-जीत किस प्रकार की रचना है ?",
+        "options": {
+            "A": "पद्य - गीत",
+            "B": "गद्य कविता",
+            "C": "शोक-गीत",
+            "D": "हर्ष गीत"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_36",
+        "type": "objective",
+        "chapter_name": "O Sadanira",
+        "question": "'काजल' शब्द कौन लिंग है ?",
+        "options": {
+            "A": "स्त्रीलिंग",
+            "B": "पुल्लिंग",
+            "C": "उभयलिंग",
+            "D": "इनमें से कोई नहीं"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_37",
+        "type": "objective",
+        "chapter_name": "Kavitt",
+        "question": "'इतिहास' शब्द का विशेषण होगा",
+        "options": {
+            "A": "इतिहासिक",
+            "B": "ऐतिहासिक",
+            "C": "इतिहासक",
+            "D": "ऐतिहासीक"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_38",
+        "type": "objective",
+        "chapter_name": "Peshgi",
+        "question": "'बाल' शब्द कौन लिंग है ?",
+        "options": {
+            "A": "स्त्रीलिंग",
+            "B": "पुल्लिंग",
+            "C": "उभयलिंग",
+            "D": "इनमें से कोई नहीं"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_39",
+        "type": "objective",
+        "chapter_name": "Sipahi Ki Maa",
+        "question": "'हिमालय' शब्द का संधि-विच्छेद है।",
+        "options": {
+            "A": "हिम + आलय",
+            "B": "हिमाल + य",
+            "C": "हि + मालय",
+            "D": "हिमा + लय"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_40",
+        "type": "objective",
+        "chapter_name": "Joothan",
+        "question": "'लोक' शब्द का विशेषण होगा",
+        "options": {
+            "A": "लौकिक",
+            "B": "लौकिक",
+            "C": "लोकपरक",
+            "D": "लोकेश"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_41",
+        "type": "objective",
+        "chapter_name": "O Sadanira",
+        "question": "धनहीन' शब्द कौन-सा समास है?",
+        "options": {
+            "A": "तत्पुरुष",
+            "B": "कर्मधारय",
+            "C": "बहुव्रीहि",
+            "D": "द्वंद्व"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_42",
+        "type": "objective",
+        "chapter_name": "Ardhanarishwar",
+        "question": "'चतुराई' में कौन-सा प्रत्यय है?",
+        "options": {
+            "A": "राई",
+            "B": "ई",
+            "C": "इ",
+            "D": "आई"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_43",
+        "type": "objective",
+        "chapter_name": "Kadbak",
+        "question": "जड़’ शब्द का विलोम होगा",
+        "options": {
+            "A": "जंगम",
+            "B": "जन्म",
+            "C": "चेतन",
+            "D": "नश्वर"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_44",
+        "type": "objective",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "सूक्ति' शब्द का संधि-विच्छेद है.",
+        "options": {
+            "A": "स उक्ति",
+            "B": "सु + उक्ति",
+            "C": "सू + उक्ति",
+            "D": "सू + उक्ति"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_45",
+        "type": "objective",
+        "chapter_name": "Roz",
+        "question": "'अग्नि' शब्द का पर्यायवाची शब्द है",
+        "options": {
+            "A": "वाजि",
+            "B": "हय",
+            "C": "पावक",
+            "D": "व्योम"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_46",
+        "type": "objective",
+        "chapter_name": "Baat Cheet",
+        "question": "शिवाजी के पुत्र का नाम था",
+        "options": {
+            "A": "शेरा जी",
+            "B": "वीरा जी",
+            "C": "शाहू जी",
+            "D": "भानु जी"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_47",
+        "type": "objective",
+        "chapter_name": "Chhappay",
+        "question": "जयशंकर प्रसाद की नाट्यकृति है",
+        "options": {
+            "A": "ध्रुवस्वामिनी",
+            "B": "आषाढ़ का एक दिन",
+            "C": "लहरों के राजहंस",
+            "D": "कोणार्क"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_48",
+        "type": "objective",
+        "chapter_name": "Sipahi Ki Maa",
+        "question": "'सुकून की तलाश' किसकी रचना है ?",
+        "options": {
+            "A": "इकबाल की",
+            "B": "शमशेर बहादुर सिंह की",
+            "C": "गालिब की",
+            "D": "ज्ञानेंद्रपति की"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_49",
+        "type": "objective",
+        "chapter_name": "Joothan",
+        "question": "'हार-जीत' शीर्षक कविता में 'मशकवाला' क्या कर रहा है?",
+        "options": {
+            "A": "सड़क सींच रहा है",
+            "B": "गीत गा रहा है",
+            "C": "रोशनी कर रहा है",
+            "D": "पानी भर रहा है"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_50",
+        "type": "objective",
+        "chapter_name": "Roz",
+        "question": "सुभद्रा कुमारी चौहान के पिता का नाम क्या था ?",
+        "options": {
+            "A": "ठाकुर रामनाथ सिंह",
+            "B": "ठाकुर हरिनाथ सिंह",
+            "C": "ठाकुर राजनाथ सिंह",
+            "D": "ठाकुर जगमोहन सिंह"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_51",
+        "type": "objective",
+        "chapter_name": "Pyare Nanhe Bete Ko",
+        "question": "बालकृष्ण भट्ट के पिता का क्या नाम था ?",
+        "options": {
+            "A": "देनी प्रसाद भट्ट",
+            "B": "बेनी प्रसाद भट्ट",
+            "C": "टेनी प्रसाद भट्ट",
+            "D": "सैनी प्रसाद भट्ट"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "objective_52",
+        "type": "objective",
+        "chapter_name": "Sampoorna Kranti",
+        "question": "'दमयंती स्वयंवर' किस लेखक की रचना है ?",
+        "options": {
+            "A": "चन्द्रधर शर्मा गुलेरी",
+            "B": "मलयज",
+            "C": "बालकृष्ण भट्ट",
+            "D": "भगत सिंह"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_53",
+        "type": "objective",
+        "chapter_name": "Ek Lekh Aur Ek Patra",
+        "question": "'उसने कहा था'-कहानी है",
+        "options": {
+            "A": "युद्ध की कहानी",
+            "B": "दिव्य-प्रेम की कहानी",
+            "C": "प्रेम पर बलिदान होने की कहानी",
+            "D": "इनमें से सभी"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_54",
+        "type": "objective",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "निम्न में से कौन-सी रचना गुलेरी जी की नहीं है ?",
+        "options": {
+            "A": "सुखमय जीवन",
+            "B": "बुद्ध का काँटा",
+            "C": "उसने कहा था",
+            "D": "हारे को हरिनाम"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "objective_55",
+        "type": "objective",
+        "chapter_name": "Ardhanarishwar",
+        "question": "'जयप्रकाश नारायण के बचपन का नाम क्या था ?",
+        "options": {
+            "A": "दहन",
+            "B": "बबंन",
+            "C": "बाउल",
+            "D": "दीना"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_56",
+        "type": "objective",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "question": "'चूँ न करना' मुहावरे का अर्थ है",
+        "options": {
+            "A": "आवाज नहीं करना",
+            "B": "नहीं बोलना",
+            "C": "सह जाना",
+            "D": "व्यर्थ निंदा करना"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_57",
+        "type": "objective",
+        "chapter_name": "Pad (Tulsidas)",
+        "question": "'आकाश' शब्द का विलोम होगा",
+        "options": {
+            "A": "अम्बर",
+            "B": "व्योम",
+            "C": "पाताल",
+            "D": "गगन"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "objective_58",
+        "type": "objective",
+        "chapter_name": "O Sadanira",
+        "question": "'कौन आता है?' कौन-सा सर्वनाम है ?",
+        "options": {
+            "A": "प्रश्नवाचक",
+            "B": "संबंधवाचक",
+            "C": "निश्चयवाचक",
+            "D": "अनिश्चयवाचक"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_59",
+        "type": "objective",
+        "chapter_name": "Chhappay",
+        "question": "सुबह शब्द कौन लिंग है?",
+        "options": {
+            "A": "स्त्रीलिंग",
+            "B": "पुल्लिंग",
+            "C": "उभयलिंग",
+            "D": "इनमें से कोई नहीं"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "objective_60",
+        "type": "objective",
+        "chapter_name": "Ek Lekh Aur Ek Patra",
+        "question": "'तीव्र बुद्धि वाला' कहलाता है.",
+        "options": {
+            "A": "समझदार",
+            "B": "आज्ञाकारी",
+            "C": "कुशाग्र",
+            "D": "बुद्धिमान"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "chapter_name": "Sampoorna Kranti",
+        "question": "निम्नलिखित में से किसी एक विषय पर निबंध लिखें-",
+        "instructions": "Answer any 1",
+        "sub_questions": {
+            "k": "छात्र जीवन",
+            "kh": "मेरा प्रिय पर्व",
+            "g": "शिक्षक दिवस",
+            "gh": "स्वच्छ भारत अभियान",
+            "ng": "शराबबंदी",
+            "ch": "पुस्तकालय"
+        }
+    },
+    {
+        "id": "explanation_1",
+        "type": "explanation",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें-",
+        "instructions": "Answer any 2",
+        "sub_questions": {
+            "k": "\"कितने क्रूर समाज में रह रहे हैं हम, जहाँ श्रम का कोई मोल नहीं, बल्कि निर्धनता को बरकरार रखने का षड्यंत्र ही था यह सब। '",
+            "kh": "'वसुधरा भोगी मानव और धर्मांध मानव एक ही सिक्के के दो पहलू हैं।\"",
+            "g": "आज दिशाएं भी हँसती हैं,\nहै उल्लास विश्व पर छाया,\nमेरा खोया हुआ खिलौना\nअब तक मेरे पास न आया।",
+            "gh": "\"जादू टूटता है उषा का अब सूर्योदय हो रहा है।\""
+        }
+    },
+    {
+        "id": "letter_writing_1_1",
+        "type": "letter_writing",
+        "chapter_name": "Vyakaran",
+        "question": "वार्षिक परीक्षा की तैयारी का उल्लेख करते हुए अपनी माताजी को एक पत्र लिखें।"
+    },
+    {
+        "id": "letter_writing_1_2",
+        "type": "letter_writing",
+        "chapter_name": "Vyakaran",
+        "question": "परीक्षा शुल्क माफ करने के लिए अपने प्रधानाचार्य को एक आवेदन पत्र लिखें।"
+    },
+    {
+        "id": "short_answer_1",
+        "type": "short_answer",
+        "chapter_name": "Putra Viyog",
+        "question": "निम्नांकित प्रश्नों में से किन्हीं पाँच के उत्तर दें।",
+        "instructions": "Answer any 5",
+        "sub_questions": {
+            "i": "मानक स्वयं को वहशी और जानवर से भी बढ़कर क्यों कहता है ?",
+            "ii": "बिशनी और मुन्नी को किसकी प्रतीक्षा है? वे डाकिये की राह क्यों देखती है ?",
+            "iii": "'उसने कहा था' कहानी का केंद्रीय भाव क्या है ?",
+            "iv": "जहाँ भय है वहाँ मेधा नहीं हो सकती। क्यों ?",
+            "v": "'धरती का क्षण' से क्या आशय है?",
+            "vi": "तुलसी सीता से कैसी सहायता चाहते है ?",
+            "vii": "छत्रसाल की तलवार कैसी है? वर्णन कीजिए।",
+            "viii": "माँ के लिए अपना मन समझाना कब कठिन है और क्यों ?",
+            "ix": "प्रातः काल का नभ कैसा है?",
+            "x": "हरचरना कौन है? उसकी क्या पहचान है ?"
+        }
+    },
+    {
+        "id": "long_answer_1",
+        "type": "long_answer",
+        "chapter_name": "Tirichh",
+        "question": "निम्नांकित प्रश्नों में से किन्हीं तीन के उत्तर दें।",
+        "instructions": "Answer any 3",
+        "sub_questions": {
+            "i": "पहले कड़बक में कलंक, काँच और कंचन से क्या तात्पर्य है?",
+            "ii": "पठित पदों के आधार पर तुलसी की भक्ति भावना का परिचय दीजिए।",
+            "iii": "प्यार का इशारा और क्रोध का दुधारा से क्या तात्पर्य है?",
+            "iv": "संघर्ष समितियों से जयप्रकाश नारायण की क्या अपेक्षाएँ हैं?",
+            "v": "चम्पारण में शिक्षा की व्यवस्था के लिए गाँधीजी ने क्या किया ?",
+            "vi": "शिक्षा का क्या अर्थ है ? इसके कार्य एवं उपयोगिता को स्पष्ट करें।"
+        }
+    },
+    {
+        "id": "comprehension_1",
+        "type": "comprehension",
+        "chapter_name": "Sampoorna Kranti",
+        "question": "निम्नलिखित अवतरणों में से किसी एक का संक्षेपण करें-",
+        "instructions": "Answer any 1",
+        "sub_questions": {
+            "i": "अनुशासन की आवश्यकता छात्र जीवन के लिए सबसे अधिक है। छात्र विवेकसंगत श्रृंखला में रहने की आदत डालें। उनकी क्षमता बिखर कर व्यर्थ न होने पाए। इसके लिए छात्रों को व्यावहारिक जीवन में अनुशासन के नियमों का पालन करना परमावश्यक है। हमें जीवन के हर क्षेत्र में अनुशासन की आवश्यकता पड़ती है। केवल विद्यालय में नहीं, वरन् परिवार एवं समाज में भी अनुशासन के नियमों का पालन करना परमावश्यक है। जीवन के हर क्षेत्र में अनुशासन की आवश्यकता पड़ती है। पूरी सृष्टि और पूरा ब्रह्माण्ड भी अनुशासन में बंधा है। जीवन में अनुशासन न हो तो हम आसानी से अराजकता के शिकार हो जायेंगे।",
+            "ii": "हमारे देश में, जो हाल हाल तक गुलाम बना रहा, नागरिक स्वतंत्रता का मूल्य समझना जरा कठिन है। अभी हमारे देश की जनता का ध्यान रोटी, कपड़ा, मकान और रोजगार की ओर गया है। प्रायः लोग यह कहते सुनाई देते हैं कि हमें इससे मतलब नहीं कि इस देश में किसका शासन है, जनतंत्र है या तानाशाही, हमें तो रोटी चाहिए, रोजगार चाहिए, दवा चाहिए। इन आवश्यकताओं को कोई भी पूरा कर दे जनता की यह मानसिक स्थिति ठीक नहीं। यदि जनता की सूझ-बूझ ऐसी ही रही, तो फिर स्वतंत्रता, जो असंख्य बलिदान देकर प्राप्त की गई है, मिट जाएगी।"
+        }
+    }
+]

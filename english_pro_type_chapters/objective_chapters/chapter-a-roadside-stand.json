@@ -1,0 +1,544 @@
+{
+  "2021": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Choose the correct sentence :",
+      "prashna": "सही वाक्य चुनें :",
+      "options": {
+        "A": "Which came first, chicken or egg ?",
+        "B": "Which came first, a chicken or an egg ?",
+        "C": "Which came first, the chicken or the egg ?",
+        "D": "Which came first, an chicken or an egg ?"
+      },
+      "vikalpa": {
+        "A": "पहले कौन आया, मुर्गी या अंडा?",
+        "B": "पहले कौन आया, एक मुर्गी या एक अंडा?",
+        "C": "पहले कौन आया, मुर्गी या अंडा? (निश्चित)",
+        "D": "पहले कौन आया, एक मुर्गी या एक अंडा? (गलत ग्रामर)"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "By whom was the bird killed ? (Choose the correct active voice)",
+      "prashna": "पक्षी किसके द्वारा मारा गया? (सही एक्टिव वॉयस चुनें)",
+      "options": {
+        "A": "Who killing the bird ?",
+        "B": "Who has killed the bird ?",
+        "C": "Who killed the bird ?",
+        "D": "Bird killing by whom ?"
+      },
+      "vikalpa": {
+        "A": "पक्षी को कौन मार रहा?",
+        "B": "पक्षी को किसने मारा है?",
+        "C": "पक्षी को किसने मारा?",
+        "D": "किसके द्वारा पक्षी मारना?"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Who wrote the piece, 'Why I am Not a Christian ?' ?",
+      "prashna": "'व्हाई आई एम नॉट ए क्रिश्चियन?' किसने लिखा?",
+      "options": {
+        "A": "Bertrand Russell",
+        "B": "Shiga Naoya",
+        "C": "Dorothy L. Sayers",
+        "D": "Pearl S. Buck"
+      },
+      "vikalpa": {
+        "A": "बर्ट्रेंड रसेल",
+        "B": "शिगा नाओया",
+        "C": "डोरोथी एल. सायर्स",
+        "D": "पर्ल एस. बक"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "India was a part of the background of ............... (Choose the correct option)",
+      "prashna": "भारत ............... की पृष्ठभूमि का एक हिस्सा था। (सही विकल्प चुनें)",
+      "options": {
+        "A": "the doctor's life",
+        "B": "the wife's life",
+        "C": "the Kashmiri man's life",
+        "D": "Pearl S. Buck's life"
+      },
+      "vikalpa": {
+        "A": "डॉक्टर का जीवन",
+        "B": "पत्नी का जीवन",
+        "C": "कश्मीरी आदमी का जीवन",
+        "D": "पर्ल एस. बक का जीवन"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "I have to teach English. (Choose the correct passive voice)",
+      "prashna": "मुझे अंग्रेजी पढ़ानी है। (सही पैसिव वॉयस चुनें)",
+      "options": {
+        "A": "English has to be taught by me",
+        "B": "Taught by me is English",
+        "C": "English is taught by me",
+        "D": "Me taught English"
+      },
+      "vikalpa": {
+        "A": "English has to be taught by me",
+        "B": "Taught by me is English",
+        "C": "English is taught by me",
+        "D": "Me taught English"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Shimla is much ............ than Chandigarh. (Choose the correct option)",
+      "prashna": "शिमला चंडीगढ़ से काफी ............ है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "farther",
+        "B": "father",
+        "C": "further",
+        "D": "either"
+      },
+      "vikalpa": {
+        "A": "farther",
+        "B": "father",
+        "C": "further",
+        "D": "either"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "He said, \"May God bless you !\" (Choose the correct indirect narration)",
+      "prashna": "उसने कहा, \"भगवान आपको आशीर्वाद दें!\" (सही इनडायरेक्ट नरेशन चुनें)",
+      "options": {
+        "A": "He prayed that God might bless him",
+        "B": "He said that God may bless me",
+        "C": "He says that may God bless you",
+        "D": "He asked that God will bless him"
+      },
+      "vikalpa": {
+        "A": "He prayed that God might bless him",
+        "B": "He said that God may bless me",
+        "C": "He says that may God bless you",
+        "D": "He asked that God will bless him"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "He does not go to market, ............ ? (Choose the correct option)",
+      "prashna": "वह बाजार नहीं जाता है, ............? (सही विकल्प चुनें)",
+      "options": {
+        "A": "does he",
+        "B": "doesn't he",
+        "C": "wouldn't he",
+        "D": "can he"
+      },
+      "vikalpa": {
+        "A": "does he",
+        "B": "doesn't he",
+        "C": "wouldn't he",
+        "D": "can he"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Even more important than the domestication of animals was the invention of",
+      "prashna": "जानवरों के पालतू बनाने से भी अधिक महत्वपूर्ण किसका आविष्कार था?",
+      "options": {
+        "A": "reading",
+        "B": "writing",
+        "C": "agriculture",
+        "D": "religion"
+      },
+      "vikalpa": {
+        "A": "पढ़ना",
+        "B": "लिखना",
+        "C": "कृषि",
+        "D": "धर्म"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "\"I swore to save fire From the sin of ............\"",
+      "prashna": "\"मैंने अग्नि को ............ के पाप से बचाने की शपथ ली।\"",
+      "options": {
+        "A": "sin",
+        "B": "hatred",
+        "C": "forgetfulness",
+        "D": "blessings"
+      },
+      "vikalpa": {
+        "A": "पाप",
+        "B": "घृणा",
+        "C": "भूलने की क्रिया (forgetfulness)",
+        "D": "आशीर्वाद"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "The moon has not yet..........(Choose the correct option)",
+      "prashna": "चांद अभी तक नहीं .......... (सही विकल्प चुनें)",
+      "options": {
+        "A": "appears",
+        "B": "will have appeared",
+        "C": "appearing",
+        "D": "appeared"
+      },
+      "vikalpa": {
+        "A": "appears",
+        "B": "will have appeared",
+        "C": "appearing",
+        "D": "appeared"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "He hurt his foot. He stopped. (Choose the correct combination)",
+      "prashna": "उसके पैर में चोट लग गई। वह रुक गया। (सही संयोजन चुनें)",
+      "options": {
+        "A": "He hurt his foot and stopped",
+        "B": "Stopped because he had hurt his foot",
+        "C": "Hurting his foot, he stopped",
+        "D": "Stopped as he hurt his foot"
+      },
+      "vikalpa": {
+        "A": "He hurt his foot and stopped",
+        "B": "Stopped because he had hurt his foot",
+        "C": "Hurting his foot, he stopped",
+        "D": "Stopped as he hurt his foot"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "How much weight can...............ant carry ? (Choose the correct option)",
+      "prashna": "............... चींटी कितना वजन उठा सकती है? (सही विकल्प चुनें)",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "vikalpa": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Choose the correct sentence:",
+      "prashna": "सही वाक्य चुनें:",
+      "options": {
+        "A": "My mother forbade me not to go out",
+        "B": "My mother forbade me not go out",
+        "C": "My mother forbade do not go out",
+        "D": "My mother forbade me to go out"
+      },
+      "vikalpa": {
+        "A": "My mother forbade me not to go out",
+        "B": "My mother forbade me not go out",
+        "C": "My mother forbade do not go out",
+        "D": "My mother forbade me to go out"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Macavity is called",
+      "prashna": "मैकैविटी को कहा जाता है",
+      "options": {
+        "A": "the Hidden Paw",
+        "B": "the Mysterious Paw",
+        "C": "the Exposed Paw",
+        "D": "the Naughty Paw"
+      },
+      "vikalpa": {
+        "A": "द हिडन पॉ (The Hidden Paw)",
+        "B": "द मिस्टीरियस पॉ",
+        "C": "द एक्सपोज्ड पॉ",
+        "D": "द नॉटी पॉ"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Bertrand Russell belonged to..............",
+      "prashna": "बर्ट्रेंड रसेल .............. के रहने वाले थे।",
+      "options": {
+        "A": "Italy",
+        "B": "Germany",
+        "C": "Britain",
+        "D": "America"
+      },
+      "vikalpa": {
+        "A": "इटली",
+        "B": "जर्मनी",
+        "C": "ब्रिटेन",
+        "D": "अमेरिका"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "One day, Seibei was caught red-handed by his…………..teacher",
+      "prashna": "एक दिन सेईबेई को उसके ………….. शिक्षक ने रंगे हाथों पकड़ लिया",
+      "options": {
+        "A": "Hindi",
+        "B": "Mathematics",
+        "C": "Ethics",
+        "D": "Science"
+      },
+      "vikalpa": {
+        "A": "हिंदी",
+        "B": "गणित",
+        "C": "नीतिशास्त्र (Ethics)",
+        "D": "विज्ञान"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Choose the correctly spelt word :",
+      "prashna": "सही वर्तनी वाला शब्द चुनें :",
+      "options": {
+        "A": "Concent",
+        "B": "Cunsent",
+        "C": "Consent",
+        "D": "Counsent"
+      },
+      "vikalpa": {
+        "A": "Concent",
+        "B": "Cunsent",
+        "C": "Consent (सहमति)",
+        "D": "Counsent"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Find out the ........... things. (Choose the correct option)",
+      "prashna": "........... चीजों का पता लगाएं। (सही विकल्प चुनें)",
+      "options": {
+        "A": "discard",
+        "B": "discarding",
+        "C": "will discard",
+        "D": "discarded"
+      },
+      "vikalpa": {
+        "A": "त्यागना",
+        "B": "त्याग रहा है",
+        "C": "त्याग देगा",
+        "D": "त्यागी हुई/बेकार"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "‘He drank enough, And lifted his head, dreamily, as one who has drunken’ — is from",
+      "prashna": "‘उसने पर्याप्त पिया, और अपना सिर उठाया, सपने की तरह, जैसे कोई पिया हुआ हो’ — कहाँ से है?",
+      "options": {
+        "A": "Snake",
+        "B": "My Grandmother’s House",
+        "C": "The Soldier",
+        "D": "An Epitaph"
+      },
+      "vikalpa": {
+        "A": "Snake",
+        "B": "My Grandmother’s House",
+        "C": "The Soldier",
+        "D": "An Epitaph"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "He has properly ......... the rules and regulations.",
+      "prashna": "उसने नियमों और विनियमों को ठीक से ......... है।",
+      "options": {
+        "A": "understand",
+        "B": "to understand",
+        "C": "understood",
+        "D": "understanding"
+      },
+      "vikalpa": {
+        "A": "understand",
+        "B": "to understand",
+        "C": "understood",
+        "D": "understanding"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "He speaks ......... French nor English.",
+      "prashna": "वह न तो फ्रेंच बोलता है और न ही अंग्रेजी।",
+      "options": {
+        "A": "either",
+        "B": "and",
+        "C": "or",
+        "D": "neither"
+      },
+      "vikalpa": {
+        "A": "either",
+        "B": "and",
+        "C": "or",
+        "D": "neither"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Have you ......... Amrita ?",
+      "prashna": "क्या आपने अमृता को ......... है?",
+      "options": {
+        "A": "see",
+        "B": "saw",
+        "C": "seeing",
+        "D": "seen"
+      },
+      "vikalpa": {
+        "A": "see",
+        "B": "saw",
+        "C": "seeing",
+        "D": "seen"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "I am not ill, but I am ......... tired.",
+      "prashna": "मैं बीमार नहीं हूँ, लेकिन मैं ......... थका हुआ हूँ।",
+      "options": {
+        "A": "a little",
+        "B": "a few",
+        "C": "some",
+        "D": "few"
+      },
+      "vikalpa": {
+        "A": "थोड़ा",
+        "B": "कुछ (संख्या)",
+        "C": "कुछ",
+        "D": "नगण्य"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "H. E. Bates belonged to .........",
+      "prashna": "एच. ई. बेट्स ......... के रहने वाले थे।",
+      "options": {
+        "A": "Austria",
+        "B": "Germany",
+        "C": "France",
+        "D": "Britain"
+      },
+      "vikalpa": {
+        "A": "ऑस्ट्रिया",
+        "B": "जर्मनी",
+        "C": "फ्रांस",
+        "D": "ब्रिटेन"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "The last of the pre-historic invention was",
+      "prashna": "प्रागैतिहासिक काल का अंतिम आविष्कार था",
+      "options": {
+        "A": "hunting",
+        "B": "cooking",
+        "C": "writing",
+        "D": "taming"
+      },
+      "vikalpa": {
+        "A": "शिकार",
+        "B": "खाना बनाना",
+        "C": "लेखन",
+        "D": "पालतू बनाना"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "Choobookov is a",
+      "prashna": "चुबुकोव एक ......... है",
+      "options": {
+        "A": "teacher",
+        "B": "landowner",
+        "C": "doctor",
+        "D": "farmer"
+      },
+      "vikalpa": {
+        "A": "शिक्षक",
+        "B": "ज़मींदार",
+        "C": "डॉक्टर",
+        "D": "किसान"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "A Roadside Stand",
+      "question": "In England Printing Press was invented in",
+      "prashna": "इंग्लैंड में प्रिंटिंग प्रेस का आविष्कार किस वर्ष हुआ था?",
+      "options": {
+        "A": "1475",
+        "B": "1477",
+        "C": "1476",
+        "D": "1478"
+      },
+      "vikalpa": {
+        "A": "1475",
+        "B": "1477",
+        "C": "1476",
+        "D": "1478"
+      }
+    }
+  ]
+}

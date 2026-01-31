@@ -1,0 +1,629 @@
+{
+  "2021": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Do you ............... your first teacher? (Choose the correct tense form)",
+      "prashna": "क्या आपको अपने पहले शिक्षक ...............? (सही काल रूप चुनें)",
+      "options": {
+        "A": "remembered",
+        "B": "remembering",
+        "C": "remember",
+        "D": "will remember"
+      },
+      "vikalpa": {
+        "A": "याद किया",
+        "B": "याद कर रहे",
+        "C": "याद है",
+        "D": "याद करेंगे"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "The synonym of 'show' is ............... (Choose the correct option)",
+      "prashna": "'show' का पर्यायवाची ............... है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "Abrupt",
+        "B": "Forbid",
+        "C": "Silent",
+        "D": "Exhibit"
+      },
+      "vikalpa": {
+        "A": "अचानक",
+        "B": "मना करना",
+        "C": "शांत",
+        "D": "प्रदर्शित करना (Exhibit)"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "............... he went for a walk. (Choose the correct phrase)",
+      "prashna": "............... वह टहलने गया। (सही वाक्यांश चुनें)",
+      "options": {
+        "A": "Along with",
+        "B": "All in all",
+        "C": "As usual",
+        "D": "After all"
+      },
+      "vikalpa": {
+        "A": "के साथ",
+        "B": "कुल मिलाकर",
+        "C": "हमेशा की तरह (As usual)",
+        "D": "आखिरकार"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "It was kind ............ you to help me. (Choose the correct option)",
+      "prashna": "मेरी मदद करना आपकी ............ दयालुता थी। (सही विकल्प चुनें)",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "of"
+      },
+      "vikalpa": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "of"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "I wish he ............ get well soon. (Choose the correct auxiliary verb)",
+      "prashna": "काश वह ............ जल्द ही ठीक हो जाए। (सही सहायक क्रिया चुनें)",
+      "options": {
+        "A": "would",
+        "B": "should",
+        "C": "can",
+        "D": "used"
+      },
+      "vikalpa": {
+        "A": "would",
+        "B": "should",
+        "C": "can",
+        "D": "used"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "I ............ taken my camera. (Choose the correct option)",
+      "prashna": "मैंने अपना कैमरा ............ लिया है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "is",
+        "D": "does"
+      },
+      "vikalpa": {
+        "A": "have",
+        "B": "has",
+        "C": "is",
+        "D": "does"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "A day of rest is ............ . (Choose the correct option)",
+      "prashna": "विश्राम का दिन ............ है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "holiday",
+        "B": "popular",
+        "C": "fatal",
+        "D": "festival"
+      },
+      "vikalpa": {
+        "A": "छुट्टी",
+        "B": "लोकप्रिय",
+        "C": "घातक",
+        "D": "त्योहार"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "The bus came to an abrupt halt. (Choose the correct meaning of the underlined word)",
+      "prashna": "बस अचानक (abrupt) रुक गई। (रेखांकित शब्द का सही अर्थ चुनें)",
+      "options": {
+        "A": "sudden",
+        "B": "slow",
+        "C": "friendly",
+        "D": "unhurried"
+      },
+      "vikalpa": {
+        "A": "अचानक",
+        "B": "धीरे",
+        "C": "दोस्ताना",
+        "D": "बिना जल्दबाजी के"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "He ............ to help me. (Choose the correct option)",
+      "prashna": "उसने मेरी मदद करने से ............ दिया। (सही विकल्प चुनें)",
+      "options": {
+        "A": "denied",
+        "B": "refrained",
+        "C": "refused",
+        "D": "refuse"
+      },
+      "vikalpa": {
+        "A": "मना कर दिया",
+        "B": "परहेज किया",
+        "C": "इनकार कर दिया",
+        "D": "इनकार"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Who has violated the tradition of religion by cremating ?",
+      "prashna": "किसने दाह संस्कार करके धर्म की परंपरा का उल्लंघन किया है?",
+      "options": {
+        "A": "D. H. Lawrence",
+        "B": "Kamala Das",
+        "C": "Keki N. Daruwala",
+        "D": "T. S. Eliot"
+      },
+      "vikalpa": {
+        "A": "डी. एच. लॉरेंस",
+        "B": "कमला दास",
+        "C": "केकी एन. दारूवाला",
+        "D": "टी. एस. इलियट"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Whose white waterfall could bless Travellers in their last ............ .",
+      "prashna": "किसका सफेद झरना यात्रियों को उनके अंतिम ............ में आशीर्वाद दे सकता है।",
+      "options": {
+        "A": "distress",
+        "B": "sadness",
+        "C": "happiness",
+        "D": "tears"
+      },
+      "vikalpa": {
+        "A": "distress (संकट)",
+        "B": "sadness (उदासी)",
+        "C": "happiness (खुशी)",
+        "D": "tears (आँसू)"
+      }
+    },
+    {
+      "id": "exp_2",
+      "type": "explanation",
+      "chapter_name": "Indigo",
+      "question": "Explain any one of the following :\na) ( I might mention Mungojerrie, I might mention Griddlebone )\nAre nothing more than agents for the cat who all the time\nJust controls their operations : the Napoleon of Crime !\nb) The nearest Tower of Silence was a thousand miles —\nThe fire-hymn said to me, \"You stand forgiven,\"\nc) There is a house now far away where once\nI received love.\nd) The red-breast whistles from a garden-croft,\nAnd gathering swallows twitter in the skies.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\nक) (मैं मुंगोजेरी का उल्लेख कर सकता हूँ, मैं ग्रिडलबोन का उल्लेख कर सकता हूँ)\nउस बिल्ली के लिए एजेंटों के अलावा और कुछ नहीं हैं जो हर समय\nबस उनके कार्यों को नियंत्रित करती है: अपराध का नेपोलियन!\nख) साइलेंस का निकटतम टावर एक हजार मील दूर था —\nअग्नि-भजन ने मुझसे कहा, \"तुम्हें क्षमा कर दिया गया है,\"\nग) अब दूर एक घर है जहाँ कभी\nमुझे प्यार मिला था।\nघ) एक बाग-खलिहान से लाल-छाती वाली चिड़िया सीटी बजाती है,\nऔर इकट्ठा होते अबाबील आकाश में चहचहाते हैं।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "Indigo",
+      "question": "b) Write the summary of any one of the following prose-pieces :\ni) The Artist\nii) A Child is Born\niii) India Through a Traveller's Eyes.",
+      "prashna": "ख) निम्नलिखित में से किसी एक गद्य-रचना का सारांश लिखें:\ni) द आर्टिस्ट\nii) अ चाइल्ड इज बोर्न\niii) इंडिया थ्रू अ ट्रैवलर्स आइज़"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Mike and Hero………..from Japan. (Choose the correct option)",
+      "prashna": "माइक और हीरो………..जापान से हैं। (सही विकल्प चुनें)",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "was"
+      },
+      "vikalpa": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "was"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "The train leaves..........3 p.m. (Choose the correct option)",
+      "prashna": "ट्रेन दोपहर 3 बजे.......... छूटती है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "over",
+        "B": "to",
+        "C": "at",
+        "D": "for"
+      },
+      "vikalpa": {
+        "A": "over",
+        "B": "to",
+        "C": "at",
+        "D": "for"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "The young man has grey hair. (Choose the correct adjective in the sentence)",
+      "prashna": "युवक के बाल सफेद (धूसर) हैं। (वाक्य में सही विशेषण चुनें)",
+      "options": {
+        "A": "Has",
+        "B": "Man",
+        "C": "Grey",
+        "D": "Hair"
+      },
+      "vikalpa": {
+        "A": "Has",
+        "B": "Man",
+        "C": "सफेद/धूसर (Grey)",
+        "D": "बाल"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "The literature of the Anglo-Saxons is of…………types.",
+      "prashna": "एंग्लो-सैक्सन का साहित्य ………… प्रकार का है।",
+      "options": {
+        "A": "Political",
+        "B": "Religious",
+        "C": "Comedy",
+        "D": "Sentimental"
+      },
+      "vikalpa": {
+        "A": "राजनीतिक",
+        "B": "धार्मिक (Religious)",
+        "C": "कॉमेडी",
+        "D": "भावुक"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "\"And what I assume you shall assume\" is taken from.................",
+      "prashna": "\"और जो मैं मानता हूँ वह तुम मानोगे\" पंक्तियाँ ................. से ली गई हैं।",
+      "options": {
+        "A": "Song of Myself",
+        "B": "An Epitaph",
+        "C": "The Soldier",
+        "D": "Fire-Hymn"
+      },
+      "vikalpa": {
+        "A": "सॉन्ग ऑफ माईसेल्फ",
+        "B": "एन एपिटाफ",
+        "C": "द सोल्जर",
+        "D": "फायर-हाइमन"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "All his ........... is stolen. (Choose the correct option)",
+      "prashna": "उसका सारा ........... चोरी हो गया है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "luggages",
+        "B": "beds",
+        "C": "luggage",
+        "D": "furnitures"
+      },
+      "vikalpa": {
+        "A": "सामान (luggages)",
+        "B": "बिस्तर",
+        "C": "सामान (luggage)",
+        "D": "फर्नीचर"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "He ........... not be there. (Choose the correct option)",
+      "prashna": "वह वहाँ ........... नहीं होना चाहिए। (सही विकल्प चुनें)",
+      "options": {
+        "A": "is",
+        "B": "shall",
+        "C": "need",
+        "D": "must"
+      },
+      "vikalpa": {
+        "A": "है",
+        "B": "होगा",
+        "C": "जरूरत",
+        "D": "अवश्य"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "It is time for the bell to be rung. (Choose the correct active voice)",
+      "prashna": "घंटी बजने का समय हो गया है। (सही एक्टिव वॉइस चुनें)",
+      "options": {
+        "A": "It will be time to ring the bell.",
+        "B": "Time will be when the bell rings.",
+        "C": "It is time to ring the bell.",
+        "D": "Rings the bell in time."
+      },
+      "vikalpa": {
+        "A": "घंटी बजाने का समय होगा।",
+        "B": "समय तब होगा जब घंटी बजेगी।",
+        "C": "घंटी बजाने का समय है।",
+        "D": "समय पर घंटी बजाता है।"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Choose the correct sentence :",
+      "prashna": "सही वाक्य चुनें :",
+      "options": {
+        "A": "Women were very seldom convict.",
+        "B": "His eyes had hardly close.",
+        "C": "Hardly had he settled into his seat when Radha charged in.",
+        "D": "Hardly nobody came."
+      },
+      "vikalpa": {
+        "A": "महिलाएं बहुत कम अपराधी थीं।",
+        "B": "उसकी आँखें मुश्किल से बंद थीं।",
+        "C": "मुश्किल से वह अपनी सीट पर बैठा ही था कि राधा अंदर आ गई।",
+        "D": "मुश्किल से कोई नहीं आया।"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Choose the correct one word substitution of : \"Ceremony of crowning a king\"",
+      "prashna": "\"एक राजा के राज्याभिषेक का समारोह\" के लिए सही एक शब्द प्रतिस्थापन चुनें:",
+      "options": {
+        "A": "Coquette",
+        "B": "Demagogue",
+        "C": "Coronation",
+        "D": "Deprecate"
+      },
+      "vikalpa": {
+        "A": "नखरेबाज महिला",
+        "B": "जनोत्तेजक नेता",
+        "C": "राज्याभिषेक",
+        "D": "विरोध करना"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "At first Benjy kept ........... hens.",
+      "prashna": "शुरू में बेंजी ने ........... मुर्गियाँ रखीं।",
+      "options": {
+        "A": "10 or a dozen",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "vikalpa": {
+        "A": "10 या एक दर्जन",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "“And when I crumble, who will remember” — is from",
+      "prashna": "“और जब मैं बिखर जाऊंगा, तो कौन याद रखेगा” — कहाँ से है?",
+      "options": {
+        "A": "Ode to Autumn",
+        "B": "An Epitaph",
+        "C": "Song of Myself",
+        "D": "The Soldier"
+      },
+      "vikalpa": {
+        "A": "Ode to Autumn",
+        "B": "An Epitaph",
+        "C": "Song of Myself",
+        "D": "The Soldier"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Attic civilization belongs to",
+      "prashna": "एटिक (Attic) सभ्यता ........... से संबंधित है",
+      "options": {
+        "A": "India",
+        "B": "Greece",
+        "C": "Rome",
+        "D": "China"
+      },
+      "vikalpa": {
+        "A": "भारत",
+        "B": "यूनान (Greece)",
+        "C": "रोम",
+        "D": "चीन"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Pearl S. Buck ate her food ........... in an Indian village.",
+      "prashna": "एक भारतीय गाँव में पर्ल एस. बक ने अपना भोजन ........... खाया।",
+      "options": {
+        "A": "with ladle",
+        "B": "with her hands",
+        "C": "with fork and spoon",
+        "D": "with chop sticks"
+      },
+      "vikalpa": {
+        "A": "करछुल के साथ",
+        "B": "अपने हाथों से",
+        "C": "कांटे और चम्मच से",
+        "D": "चोप स्टिक्स के साथ"
+      }
+    },
+    {
+      "id": "exp_2_2",
+      "type": "explanation",
+      "chapter_name": "Indigo",
+      "question": "Explain any one of the following : ‘Cold, impossible, ahead\nLists the mountain’s lovely head,’",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'ठंडा, असंभव, आगे\nपहाड़ के प्यारे सिर को सूचीबद्ध करता है,'"
+    },
+    {
+      "id": "long_1_3_2",
+      "type": "long_answer",
+      "chapter_name": "Indigo",
+      "question": "Write a note on English as a world language.",
+      "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक टिप्पणी लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "They were surprised ......... hear him sing.",
+      "prashna": "वे उसे गाते सुनकर आश्चर्यचकित थे।",
+      "options": {
+        "A": "by",
+        "B": "to",
+        "C": "at",
+        "D": "of"
+      },
+      "vikalpa": {
+        "A": "by",
+        "B": "to",
+        "C": "at",
+        "D": "of"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "I can't believe ......... my purse at home.",
+      "prashna": "मुझे विश्वास नहीं हो रहा है कि मैं अपना पर्स घर पर भूल गया हूँ।",
+      "options": {
+        "A": "I forget",
+        "B": "I have forget",
+        "C": "I forgotten",
+        "D": "I forgot"
+      },
+      "vikalpa": {
+        "A": "I forget",
+        "B": "I have forget",
+        "C": "I forgotten",
+        "D": "I forgot"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "Choose the correct spelling :",
+      "prashna": "सही वर्तनी चुनें :",
+      "options": {
+        "A": "Exploiete",
+        "B": "Expluit",
+        "C": "Exploit",
+        "D": "Expleat"
+      },
+      "vikalpa": {
+        "A": "Exploiete",
+        "B": "Expluit",
+        "C": "Exploit",
+        "D": "Expleat"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "He is wiser than you. (Choose the correct negative sentence)",
+      "prashna": "वह आपसे अधिक बुद्धिमान है। (सही नकारात्मक वाक्य चुनें)",
+      "options": {
+        "A": "He is not wise than you",
+        "B": "He is not the wisest man",
+        "C": "You are not so wise as he",
+        "D": "You are not wiser than you"
+      },
+      "vikalpa": {
+        "A": "He is not wise than you",
+        "B": "He is not the wisest man",
+        "C": "You are not so wise as he",
+        "D": "You are not wiser than you"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "He is a straightforward man and keeps flatterers .........",
+      "prashna": "वह एक सीधा-सादा आदमी है और चापलूसों को ......... रखता है।",
+      "options": {
+        "A": "at any rate",
+        "B": "at arm's length",
+        "C": "all the rage",
+        "D": "all told"
+      },
+      "vikalpa": {
+        "A": "किसी भी कीमत पर",
+        "B": "दूरी बनाकर",
+        "C": "प्रचलन में",
+        "D": "कुल मिलाकर"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "Indigo",
+      "question": "......... is the chief source of revenue of a newspaper.",
+      "prashna": "......... समाचार पत्र के राजस्व का मुख्य स्रोत है।",
+      "options": {
+        "A": "Companies",
+        "B": "Donation",
+        "C": "Advertisement",
+        "D": "Government"
+      },
+      "vikalpa": {
+        "A": "कंपनियां",
+        "B": "दान",
+        "C": "विज्ञापन",
+        "D": "सरकार"
+      }
+    }
+  ]
+}
