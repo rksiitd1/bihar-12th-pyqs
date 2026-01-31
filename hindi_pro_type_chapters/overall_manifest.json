@@ -2,210 +2,204 @@
   {
     "type": "objective",
     "total_chapters": 29,
-    "total_items": 678,
+    "total_items": 696,
     "chapters": [
       {
-        "chapter": "Gaon Ka Ghar",
-        "file": "chapter-gaon-ka-ghar.json",
+        "chapter": "Ek Lekh Aur Ek Patra",
+        "file": "chapter-ek-lekh-aur-ek-patra.json",
+        "total_items": 24,
+        "years": 8
+      },
+      {
+        "chapter": "Usha",
+        "file": "chapter-usha.json",
+        "total_items": 22,
+        "years": 7
+      },
+      {
+        "chapter": "Ardhanarishwar",
+        "file": "chapter-ardhanarishwar.json",
+        "total_items": 31,
+        "years": 10
+      },
+      {
+        "chapter": "Baat Cheet",
+        "file": "chapter-baat-cheet.json",
+        "total_items": 26,
+        "years": 10
+      },
+      {
+        "chapter": "Pad (Surdas)",
+        "file": "chapter-pad-surdas.json",
+        "total_items": 27,
+        "years": 11
+      },
+      {
+        "chapter": "Jaan-Jaan Ka Chehra Ek",
+        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
+        "total_items": 26,
+        "years": 8
+      },
+      {
+        "chapter": "Roz",
+        "file": "chapter-roz.json",
+        "total_items": 27,
+        "years": 10
+      },
+      {
+        "chapter": "Shiksha",
+        "file": "chapter-shiksha.json",
+        "total_items": 28,
+        "years": 9
+      },
+      {
+        "chapter": "Putra Viyog",
+        "file": "chapter-putra-viyog.json",
+        "total_items": 39,
+        "years": 13
+      },
+      {
+        "chapter": "Pad (Tulsidas)",
+        "file": "chapter-pad-tulsidas.json",
         "total_items": 18,
         "years": 8
       },
       {
-        "chapter": "Peshgi",
-        "file": "chapter-peshgi.json",
+        "chapter": "Pragit Aur Samaj",
+        "file": "chapter-pragit-aur-samaj.json",
+        "total_items": 24,
+        "years": 7
+      },
+      {
+        "chapter": "Adhinayak",
+        "file": "chapter-adhinayak.json",
+        "total_items": 23,
+        "years": 10
+      },
+      {
+        "chapter": "Sipahi Ki Maa",
+        "file": "chapter-sipahi-ki-maa.json",
         "total_items": 35,
-        "years": 12
+        "years": 13
       },
       {
         "chapter": "Kavitt",
         "file": "chapter-kavitt.json",
+        "total_items": 21,
+        "years": 10
+      },
+      {
+        "chapter": "Clerk Ki Maut",
+        "file": "chapter-clerk-ki-maut.json",
+        "total_items": 29,
+        "years": 9
+      },
+      {
+        "chapter": "Rassi Ka Tukda",
+        "file": "chapter-rassi-ka-tukda.json",
+        "total_items": 19,
+        "years": 7
+      },
+      {
+        "chapter": "Pyare Nanhe Bete Ko",
+        "file": "chapter-pyare-nanhe-bete-ko.json",
+        "total_items": 22,
+        "years": 9
+      },
+      {
+        "chapter": "O Sadanira",
+        "file": "chapter-o-sadanira.json",
         "total_items": 26,
         "years": 9
       },
       {
         "chapter": "Chhappay",
         "file": "chapter-chhappay.json",
-        "total_items": 26,
+        "total_items": 24,
         "years": 9
       },
       {
         "chapter": "Sampoorna Kranti",
         "file": "chapter-sampoorna-kranti.json",
-        "total_items": 32,
-        "years": 9
-      },
-      {
-        "chapter": "Hanste Hue Mera Akelapan",
-        "file": "chapter-hanste-hue-mera-akelapan.json",
-        "total_items": 28,
-        "years": 10
-      },
-      {
-        "chapter": "Joothan",
-        "file": "chapter-joothan.json",
-        "total_items": 26,
-        "years": 8
-      },
-      {
-        "chapter": "Tumul Kolahal Kalah Mein",
-        "file": "chapter-tumul-kolahal-kalah-mein.json",
-        "total_items": 19,
-        "years": 9
-      },
-      {
-        "chapter": "Putra Viyog",
-        "file": "chapter-putra-viyog.json",
-        "total_items": 12,
-        "years": 8
-      },
-      {
-        "chapter": "O Sadanira",
-        "file": "chapter-o-sadanira.json",
-        "total_items": 33,
-        "years": 9
-      },
-      {
-        "chapter": "Ardhanarishwar",
-        "file": "chapter-ardhanarishwar.json",
         "total_items": 21,
         "years": 10
       },
       {
-        "chapter": "Pad (Surdas)",
-        "file": "chapter-pad-surdas.json",
+        "chapter": "Tirichh",
+        "file": "chapter-tirichh.json",
         "total_items": 30,
+        "years": 11
+      },
+      {
+        "chapter": "Peshgi",
+        "file": "chapter-peshgi.json",
+        "total_items": 25,
         "years": 9
       },
       {
-        "chapter": "Pragit Aur Samaj",
-        "file": "chapter-pragit-aur-samaj.json",
-        "total_items": 20,
-        "years": 8
-      },
-      {
-        "chapter": "Baat Cheet",
-        "file": "chapter-baat-cheet.json",
-        "total_items": 19,
-        "years": 8
+        "chapter": "Haar-Jeet",
+        "file": "chapter-haar-jeet.json",
+        "total_items": 18,
+        "years": 9
       },
       {
         "chapter": "Usne Kaha Tha",
         "file": "chapter-usne-kaha-tha.json",
-        "total_items": 20,
+        "total_items": 24,
+        "years": 11
+      },
+      {
+        "chapter": "Gaon Ka Ghar",
+        "file": "chapter-gaon-ka-ghar.json",
+        "total_items": 19,
+        "years": 9
+      },
+      {
+        "chapter": "Tumul Kolahal Kalah Mein",
+        "file": "chapter-tumul-kolahal-kalah-mein.json",
+        "total_items": 12,
+        "years": 5
+      },
+      {
+        "chapter": "Joothan",
+        "file": "chapter-joothan.json",
+        "total_items": 18,
         "years": 8
       },
       {
         "chapter": "Kadbak",
         "file": "chapter-kadbak.json",
-        "total_items": 19,
-        "years": 9
-      },
-      {
-        "chapter": "Pad (Tulsidas)",
-        "file": "chapter-pad-tulsidas.json",
-        "total_items": 17,
-        "years": 8
-      },
-      {
-        "chapter": "Jaan-Jaan Ka Chehra Ek",
-        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
-        "total_items": 27,
-        "years": 10
-      },
-      {
-        "chapter": "Sipahi Ki Maa",
-        "file": "chapter-sipahi-ki-maa.json",
-        "total_items": 27,
-        "years": 10
-      },
-      {
-        "chapter": "Pyare Nanhe Bete Ko",
-        "file": "chapter-pyare-nanhe-bete-ko.json",
-        "total_items": 21,
-        "years": 8
-      },
-      {
-        "chapter": "Usha",
-        "file": "chapter-usha.json",
         "total_items": 20,
         "years": 8
       },
       {
-        "chapter": "Shiksha",
-        "file": "chapter-shiksha.json",
-        "total_items": 24,
-        "years": 8
-      },
-      {
-        "chapter": "Rassi Ka Tukda",
-        "file": "chapter-rassi-ka-tukda.json",
-        "total_items": 27,
-        "years": 8
-      },
-      {
-        "chapter": "Adhinayak",
-        "file": "chapter-adhinayak.json",
-        "total_items": 30,
-        "years": 8
-      },
-      {
-        "chapter": "Tirichh",
-        "file": "chapter-tirichh.json",
-        "total_items": 25,
-        "years": 8
-      },
-      {
-        "chapter": "Clerk Ki Maut",
-        "file": "chapter-clerk-ki-maut.json",
-        "total_items": 20,
-        "years": 7
-      },
-      {
-        "chapter": "Ek Lekh Aur Ek Patra",
-        "file": "chapter-ek-lekh-aur-ek-patra.json",
-        "total_items": 21,
-        "years": 6
-      },
-      {
-        "chapter": "Haar-Jeet",
-        "file": "chapter-haar-jeet.json",
-        "total_items": 13,
-        "years": 5
-      },
-      {
-        "chapter": "Roz",
-        "file": "chapter-roz.json",
-        "total_items": 22,
+        "chapter": "Hanste Hue Mera Akelapan",
+        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "total_items": 18,
         "years": 6
       }
     ]
   },
   {
     "type": "essay",
-    "total_chapters": 12,
-    "total_items": 14,
+    "total_chapters": 17,
+    "total_items": 25,
     "chapters": [
       {
-        "chapter": "Shiksha",
-        "file": "chapter-shiksha.json",
-        "total_items": 1,
-        "years": 1
+        "chapter": "Kadbak",
+        "file": "chapter-kadbak.json",
+        "total_items": 3,
+        "years": 2
       },
       {
-        "chapter": "O Sadanira",
-        "file": "chapter-o-sadanira.json",
-        "total_items": 1,
-        "years": 1
+        "chapter": "Sampoorna Kranti",
+        "file": "chapter-sampoorna-kranti.json",
+        "total_items": 3,
+        "years": 3
       },
       {
-        "chapter": "Haar-Jeet",
-        "file": "chapter-haar-jeet.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Peshgi",
-        "file": "chapter-peshgi.json",
+        "chapter": "Tirichh",
+        "file": "chapter-tirichh.json",
         "total_items": 1,
         "years": 1
       },
@@ -216,14 +210,38 @@
         "years": 1
       },
       {
-        "chapter": "Pad (Surdas)",
-        "file": "chapter-pad-surdas.json",
-        "total_items": 2,
-        "years": 2
+        "chapter": "Hanste Hue Mera Akelapan",
+        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "total_items": 1,
+        "years": 1
       },
       {
-        "chapter": "Joothan",
-        "file": "chapter-joothan.json",
+        "chapter": "Putra Viyog",
+        "file": "chapter-putra-viyog.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Usne Kaha Tha",
+        "file": "chapter-usne-kaha-tha.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Usha",
+        "file": "chapter-usha.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Shiksha",
+        "file": "chapter-shiksha.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Adhinayak",
+        "file": "chapter-adhinayak.json",
         "total_items": 2,
         "years": 2
       },
@@ -234,26 +252,38 @@
         "years": 1
       },
       {
-        "chapter": "Sampoorna Kranti",
-        "file": "chapter-sampoorna-kranti.json",
+        "chapter": "Kavitt",
+        "file": "chapter-kavitt.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Sipahi Ki Maa",
-        "file": "chapter-sipahi-ki-maa.json",
+        "chapter": "Gaon Ka Ghar",
+        "file": "chapter-gaon-ka-ghar.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Adhinayak",
-        "file": "chapter-adhinayak.json",
+        "chapter": "Rassi Ka Tukda",
+        "file": "chapter-rassi-ka-tukda.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Roz",
-        "file": "chapter-roz.json",
+        "chapter": "Jaan-Jaan Ka Chehra Ek",
+        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Tumul Kolahal Kalah Mein",
+        "file": "chapter-tumul-kolahal-kalah-mein.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Joothan",
+        "file": "chapter-joothan.json",
         "total_items": 1,
         "years": 1
       }
@@ -261,15 +291,160 @@
   },
   {
     "type": "explanation",
-    "total_chapters": 21,
-    "total_items": 31,
+    "total_chapters": 24,
+    "total_items": 46,
     "chapters": [
+      {
+        "chapter": "Joothan",
+        "file": "chapter-joothan.json",
+        "total_items": 2,
+        "years": 1
+      },
+      {
+        "chapter": "Tirichh",
+        "file": "chapter-tirichh.json",
+        "total_items": 5,
+        "years": 5
+      },
+      {
+        "chapter": "O Sadanira",
+        "file": "chapter-o-sadanira.json",
+        "total_items": 3,
+        "years": 2
+      },
+      {
+        "chapter": "Haar-Jeet",
+        "file": "chapter-haar-jeet.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Sipahi Ki Maa",
+        "file": "chapter-sipahi-ki-maa.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Sampoorna Kranti",
+        "file": "chapter-sampoorna-kranti.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Usha",
+        "file": "chapter-usha.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Roz",
+        "file": "chapter-roz.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Ardhanarishwar",
+        "file": "chapter-ardhanarishwar.json",
+        "total_items": 2,
+        "years": 2
+      },
       {
         "chapter": "Chhappay",
         "file": "chapter-chhappay.json",
         "total_items": 2,
         "years": 2
       },
+      {
+        "chapter": "Pragit Aur Samaj",
+        "file": "chapter-pragit-aur-samaj.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Jaan-Jaan Ka Chehra Ek",
+        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Pad (Surdas)",
+        "file": "chapter-pad-surdas.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Tumul Kolahal Kalah Mein",
+        "file": "chapter-tumul-kolahal-kalah-mein.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Clerk Ki Maut",
+        "file": "chapter-clerk-ki-maut.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Putra Viyog",
+        "file": "chapter-putra-viyog.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Kadbak",
+        "file": "chapter-kadbak.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Kavitt",
+        "file": "chapter-kavitt.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Peshgi",
+        "file": "chapter-peshgi.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Hanste Hue Mera Akelapan",
+        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Rassi Ka Tukda",
+        "file": "chapter-rassi-ka-tukda.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Ek Lekh Aur Ek Patra",
+        "file": "chapter-ek-lekh-aur-ek-patra.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Shiksha",
+        "file": "chapter-shiksha.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Adhinayak",
+        "file": "chapter-adhinayak.json",
+        "total_items": 1,
+        "years": 1
+      }
+    ]
+  },
+  {
+    "type": "short_answer",
+    "total_chapters": 23,
+    "total_items": 37,
+    "chapters": [
       {
         "chapter": "Jaan-Jaan Ka Chehra Ek",
         "file": "chapter-jaan-jaan-ka-chehra-ek.json",
@@ -283,177 +458,38 @@
         "years": 1
       },
       {
-        "chapter": "Sipahi Ki Maa",
-        "file": "chapter-sipahi-ki-maa.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Kadbak",
-        "file": "chapter-kadbak.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "O Sadanira",
-        "file": "chapter-o-sadanira.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Rassi Ka Tukda",
-        "file": "chapter-rassi-ka-tukda.json",
+        "chapter": "Usha",
+        "file": "chapter-usha.json",
         "total_items": 4,
         "years": 4
       },
       {
-        "chapter": "Clerk Ki Maut",
-        "file": "chapter-clerk-ki-maut.json",
-        "total_items": 3,
-        "years": 3
-      },
-      {
-        "chapter": "Baat Cheet",
-        "file": "chapter-baat-cheet.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Pragit Aur Samaj",
-        "file": "chapter-pragit-aur-samaj.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Pad (Tulsidas)",
-        "file": "chapter-pad-tulsidas.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Usha",
-        "file": "chapter-usha.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
         "chapter": "Roz",
         "file": "chapter-roz.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Gaon Ka Ghar",
-        "file": "chapter-gaon-ka-ghar.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Haar-Jeet",
-        "file": "chapter-haar-jeet.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Hanste Hue Mera Akelapan",
-        "file": "chapter-hanste-hue-mera-akelapan.json",
-        "total_items": 2,
+        "total_items": 3,
         "years": 2
       },
       {
-        "chapter": "Sampoorna Kranti",
-        "file": "chapter-sampoorna-kranti.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Usne Kaha Tha",
-        "file": "chapter-usne-kaha-tha.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Tumul Kolahal Kalah Mein",
-        "file": "chapter-tumul-kolahal-kalah-mein.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Pad (Surdas)",
-        "file": "chapter-pad-surdas.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Ardhanarishwar",
-        "file": "chapter-ardhanarishwar.json",
-        "total_items": 1,
-        "years": 1
-      }
-    ]
-  },
-  {
-    "type": "short_answer",
-    "total_chapters": 16,
-    "total_items": 22,
-    "chapters": [
-      {
-        "chapter": "Clerk Ki Maut",
-        "file": "chapter-clerk-ki-maut.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Pragit Aur Samaj",
-        "file": "chapter-pragit-aur-samaj.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Usha",
-        "file": "chapter-usha.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Gaon Ka Ghar",
-        "file": "chapter-gaon-ka-ghar.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Ardhanarishwar",
-        "file": "chapter-ardhanarishwar.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Shiksha",
-        "file": "chapter-shiksha.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Pad (Surdas)",
-        "file": "chapter-pad-surdas.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Sampoorna Kranti",
-        "file": "chapter-sampoorna-kranti.json",
-        "total_items": 2,
-        "years": 1
-      },
-      {
-        "chapter": "Ek Lekh Aur Ek Patra",
-        "file": "chapter-ek-lekh-aur-ek-patra.json",
+        "chapter": "Adhinayak",
+        "file": "chapter-adhinayak.json",
         "total_items": 1,
         "years": 1
       },
       {
         "chapter": "Peshgi",
         "file": "chapter-peshgi.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Tirichh",
+        "file": "chapter-tirichh.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Pad (Surdas)",
+        "file": "chapter-pad-surdas.json",
         "total_items": 2,
         "years": 2
       },
@@ -464,15 +500,57 @@
         "years": 2
       },
       {
+        "chapter": "Clerk Ki Maut",
+        "file": "chapter-clerk-ki-maut.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Kavitt",
+        "file": "chapter-kavitt.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Sampoorna Kranti",
+        "file": "chapter-sampoorna-kranti.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Pad (Tulsidas)",
+        "file": "chapter-pad-tulsidas.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Hanste Hue Mera Akelapan",
+        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Kadbak",
+        "file": "chapter-kadbak.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
         "chapter": "Usne Kaha Tha",
         "file": "chapter-usne-kaha-tha.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Baat Cheet",
-        "file": "chapter-baat-cheet.json",
-        "total_items": 2,
+        "chapter": "Pyare Nanhe Bete Ko",
+        "file": "chapter-pyare-nanhe-bete-ko.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Ek Lekh Aur Ek Patra",
+        "file": "chapter-ek-lekh-aur-ek-patra.json",
+        "total_items": 3,
         "years": 2
       },
       {
@@ -482,29 +560,10 @@
         "years": 1
       },
       {
-        "chapter": "Jaan-Jaan Ka Chehra Ek",
-        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
+        "chapter": "Rassi Ka Tukda",
+        "file": "chapter-rassi-ka-tukda.json",
         "total_items": 1,
         "years": 1
-      },
-      {
-        "chapter": "Tirichh",
-        "file": "chapter-tirichh.json",
-        "total_items": 1,
-        "years": 1
-      }
-    ]
-  },
-  {
-    "type": "long_answer",
-    "total_chapters": 18,
-    "total_items": 27,
-    "chapters": [
-      {
-        "chapter": "Pyare Nanhe Bete Ko",
-        "file": "chapter-pyare-nanhe-bete-ko.json",
-        "total_items": 4,
-        "years": 4
       },
       {
         "chapter": "Sipahi Ki Maa",
@@ -513,34 +572,77 @@
         "years": 2
       },
       {
-        "chapter": "Chhappay",
-        "file": "chapter-chhappay.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Kavitt",
-        "file": "chapter-kavitt.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Kadbak",
-        "file": "chapter-kadbak.json",
+        "chapter": "Haar-Jeet",
+        "file": "chapter-haar-jeet.json",
         "total_items": 2,
         "years": 2
+      },
+      {
+        "chapter": "Chhappay",
+        "file": "chapter-chhappay.json",
+        "total_items": 2,
+        "years": 2
+      }
+    ]
+  },
+  {
+    "type": "long_answer",
+    "total_chapters": 21,
+    "total_items": 45,
+    "chapters": [
+      {
+        "chapter": "Clerk Ki Maut",
+        "file": "chapter-clerk-ki-maut.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Tumul Kolahal Kalah Mein",
+        "file": "chapter-tumul-kolahal-kalah-mein.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Joothan",
+        "file": "chapter-joothan.json",
+        "total_items": 1,
+        "years": 1
       },
       {
         "chapter": "Pad (Tulsidas)",
         "file": "chapter-pad-tulsidas.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Usne Kaha Tha",
+        "file": "chapter-usne-kaha-tha.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "Kadbak",
+        "file": "chapter-kadbak.json",
+        "total_items": 5,
+        "years": 5
+      },
+      {
+        "chapter": "Usha",
+        "file": "chapter-usha.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Jaan-Jaan Ka Chehra Ek",
+        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
         "total_items": 2,
         "years": 2
       },
       {
-        "chapter": "Pragit Aur Samaj",
-        "file": "chapter-pragit-aur-samaj.json",
-        "total_items": 1,
-        "years": 1
+        "chapter": "Hanste Hue Mera Akelapan",
+        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "total_items": 2,
+        "years": 2
       },
       {
         "chapter": "O Sadanira",
@@ -549,8 +651,20 @@
         "years": 2
       },
       {
-        "chapter": "Roz",
-        "file": "chapter-roz.json",
+        "chapter": "Adhinayak",
+        "file": "chapter-adhinayak.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Ardhanarishwar",
+        "file": "chapter-ardhanarishwar.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Baat Cheet",
+        "file": "chapter-baat-cheet.json",
         "total_items": 1,
         "years": 1
       },
@@ -561,22 +675,10 @@
         "years": 2
       },
       {
-        "chapter": "Tirichh",
-        "file": "chapter-tirichh.json",
-        "total_items": 2,
+        "chapter": "Ek Lekh Aur Ek Patra",
+        "file": "chapter-ek-lekh-aur-ek-patra.json",
+        "total_items": 3,
         "years": 2
-      },
-      {
-        "chapter": "Jaan-Jaan Ka Chehra Ek",
-        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Usne Kaha Tha",
-        "file": "chapter-usne-kaha-tha.json",
-        "total_items": 1,
-        "years": 1
       },
       {
         "chapter": "Sampoorna Kranti",
@@ -585,20 +687,26 @@
         "years": 1
       },
       {
-        "chapter": "Baat Cheet",
-        "file": "chapter-baat-cheet.json",
+        "chapter": "Gaon Ka Ghar",
+        "file": "chapter-gaon-ka-ghar.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Adhinayak",
-        "file": "chapter-adhinayak.json",
+        "chapter": "Pyare Nanhe Bete Ko",
+        "file": "chapter-pyare-nanhe-bete-ko.json",
+        "total_items": 2,
+        "years": 1
+      },
+      {
+        "chapter": "Peshgi",
+        "file": "chapter-peshgi.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Hanste Hue Mera Akelapan",
-        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "chapter": "Chhappay",
+        "file": "chapter-chhappay.json",
         "total_items": 1,
         "years": 1
       },
@@ -612,12 +720,24 @@
   },
   {
     "type": "summary",
-    "total_chapters": 17,
+    "total_chapters": 13,
     "total_items": 21,
     "chapters": [
       {
-        "chapter": "Haar-Jeet",
-        "file": "chapter-haar-jeet.json",
+        "chapter": "Adhinayak",
+        "file": "chapter-adhinayak.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Gaon Ka Ghar",
+        "file": "chapter-gaon-ka-ghar.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Pyare Nanhe Bete Ko",
+        "file": "chapter-pyare-nanhe-bete-ko.json",
         "total_items": 1,
         "years": 1
       },
@@ -628,69 +748,15 @@
         "years": 1
       },
       {
-        "chapter": "Adhinayak",
-        "file": "chapter-adhinayak.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Putra Viyog",
-        "file": "chapter-putra-viyog.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
         "chapter": "Tumul Kolahal Kalah Mein",
         "file": "chapter-tumul-kolahal-kalah-mein.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Sipahi Ki Maa",
-        "file": "chapter-sipahi-ki-maa.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Kadbak",
-        "file": "chapter-kadbak.json",
         "total_items": 2,
         "years": 2
       },
       {
-        "chapter": "Clerk Ki Maut",
-        "file": "chapter-clerk-ki-maut.json",
+        "chapter": "O Sadanira",
+        "file": "chapter-o-sadanira.json",
         "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Ek Lekh Aur Ek Patra",
-        "file": "chapter-ek-lekh-aur-ek-patra.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Kavitt",
-        "file": "chapter-kavitt.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Jaan-Jaan Ka Chehra Ek",
-        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Gaon Ka Ghar",
-        "file": "chapter-gaon-ka-ghar.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Ardhanarishwar",
-        "file": "chapter-ardhanarishwar.json",
-        "total_items": 2,
         "years": 1
       },
       {
@@ -702,18 +768,36 @@
       {
         "chapter": "Shiksha",
         "file": "chapter-shiksha.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Kavitt",
+        "file": "chapter-kavitt.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Usha",
+        "file": "chapter-usha.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Putra Viyog",
+        "file": "chapter-putra-viyog.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Pad (Tulsidas)",
-        "file": "chapter-pad-tulsidas.json",
-        "total_items": 1,
+        "chapter": "Peshgi",
+        "file": "chapter-peshgi.json",
+        "total_items": 2,
         "years": 1
       },
       {
-        "chapter": "Hanste Hue Mera Akelapan",
-        "file": "chapter-hanste-hue-mera-akelapan.json",
+        "chapter": "Ek Lekh Aur Ek Patra",
+        "file": "chapter-ek-lekh-aur-ek-patra.json",
         "total_items": 1,
         "years": 1
       }
@@ -721,42 +805,54 @@
   },
   {
     "type": "comprehension",
-    "total_chapters": 12,
-    "total_items": 15,
+    "total_chapters": 15,
+    "total_items": 18,
     "chapters": [
       {
-        "chapter": "Usne Kaha Tha",
-        "file": "chapter-usne-kaha-tha.json",
-        "total_items": 3,
-        "years": 3
+        "chapter": "Jaan-Jaan Ka Chehra Ek",
+        "file": "chapter-jaan-jaan-ka-chehra-ek.json",
+        "total_items": 1,
+        "years": 1
       },
       {
-        "chapter": "Baat Cheet",
-        "file": "chapter-baat-cheet.json",
+        "chapter": "Roz",
+        "file": "chapter-roz.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Ek Lekh Aur Ek Patra",
+        "file": "chapter-ek-lekh-aur-ek-patra.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Pragit Aur Samaj",
+        "file": "chapter-pragit-aur-samaj.json",
         "total_items": 1,
         "years": 1
       },
       {
         "chapter": "Tirichh",
         "file": "chapter-tirichh.json",
-        "total_items": 2,
-        "years": 2
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Haar-Jeet",
+        "file": "chapter-haar-jeet.json",
+        "total_items": 1,
+        "years": 1
       },
       {
         "chapter": "Kadbak",
         "file": "chapter-kadbak.json",
-        "total_items": 1,
-        "years": 1
+        "total_items": 2,
+        "years": 2
       },
       {
-        "chapter": "Shiksha",
-        "file": "chapter-shiksha.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Ardhanarishwar",
-        "file": "chapter-ardhanarishwar.json",
+        "chapter": "Joothan",
+        "file": "chapter-joothan.json",
         "total_items": 1,
         "years": 1
       },
@@ -767,32 +863,38 @@
         "years": 1
       },
       {
-        "chapter": "Sampoorna Kranti",
-        "file": "chapter-sampoorna-kranti.json",
+        "chapter": "Chhappay",
+        "file": "chapter-chhappay.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Gaon Ka Ghar",
+        "file": "chapter-gaon-ka-ghar.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Clerk Ki Maut",
+        "file": "chapter-clerk-ki-maut.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Usha",
-        "file": "chapter-usha.json",
+        "chapter": "Tumul Kolahal Kalah Mein",
+        "file": "chapter-tumul-kolahal-kalah-mein.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Peshgi",
-        "file": "chapter-peshgi.json",
+        "chapter": "Shiksha",
+        "file": "chapter-shiksha.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Pad (Tulsidas)",
-        "file": "chapter-pad-tulsidas.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Joothan",
-        "file": "chapter-joothan.json",
+        "chapter": "O Sadanira",
+        "file": "chapter-o-sadanira.json",
         "total_items": 1,
         "years": 1
       }

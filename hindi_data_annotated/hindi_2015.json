@@ -2,49 +2,49 @@
     {
         "id": "long_1_1",
         "type": "long_answer",
-        "chapter_name": "Pyare Nanhe Bete Ko",
+        "chapter_name": "Sampoorna Kranti",
         "question": "नाभादास का काव्यात्मक परिचय दें।",
         "instructions": ""
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
-        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "chapter_name": "Adhinayak",
         "question": "आदिकाल के कवियों के नाम लिखें।",
         "instructions": ""
     },
     {
         "id": "summary_1_1",
         "type": "summary",
-        "chapter_name": "Kadbak",
+        "chapter_name": "Kavitt",
         "question": "'पेशगी' कहानी का सारांश लिखें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
     },
     {
         "id": "summary_1_2",
         "type": "summary",
-        "chapter_name": "Ek Lekh Aur Ek Patra",
+        "chapter_name": "Shiksha",
         "question": "'हार-जीत' कहानी का सारांश लिखें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
     },
     {
         "id": "summary_2_1",
         "type": "summary",
-        "chapter_name": "Kavitt",
+        "chapter_name": "Usha",
         "question": "'कड़बक' कविता का भावार्थ लिखें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
     },
     {
         "id": "summary_2_2",
         "type": "summary",
-        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "chapter_name": "Gaon Ka Ghar",
         "question": "'गाँव का घर' शीर्षक कविता का सारांश लिखें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
     },
     {
         "id": "short_1",
         "type": "short_answer",
-        "chapter_name": "Peshgi",
+        "chapter_name": "Kadbak",
         "question": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "sub_questions": {
@@ -66,28 +66,28 @@
     {
         "id": "explanation_1_2",
         "type": "explanation",
-        "chapter_name": "Usha",
+        "chapter_name": "Pragit Aur Samaj",
         "question": "चेतना थक-सी रही, तब,\nमैं मलय की बात रे मन ।",
         "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_2_1",
         "type": "explanation",
-        "chapter_name": "Gaon Ka Ghar",
+        "chapter_name": "Putra Viyog",
         "question": "आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है।",
         "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_2_2",
         "type": "explanation",
-        "chapter_name": "Haar-Jeet",
+        "chapter_name": "Kavitt",
         "question": "आदमी भागता है तो जमीन पर वह सिर्फ अपने पैरों के निशान नहीं छोड़ता, बल्कि हर निशान के साथ वहाँ की धूल में अपनी गंध भी छोड़ जाता है।",
         "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
         "id": "essay_1",
         "type": "essay",
-        "chapter_name": "Pyare Nanhe Bete Ko",
+        "chapter_name": "Shiksha",
         "question": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-",
         "instructions": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-",
         "sub_questions": {
@@ -114,14 +114,14 @@
     {
         "id": "comprehension_1",
         "type": "comprehension",
-        "chapter_name": "Shiksha",
+        "chapter_name": "Kadbak",
         "question": "शिष्टाचार अनुशासन का ही अधिक व्यावहारिक रूप है। शिष्टाचार का अर्थ शिष्ट आचरण होता है। यहाँ 'शिष्ट' का अर्थ 'अनुशासन' है। अतः जो अनुशासित होगा वह शिष्ट आचरण वाला भी होगा। अनुशासन किसी व्यवस्था के नियमों या मर्यादाओं में बँधकर चलने की माँग करते हैं और शिष्टाचार दूसरों से यथायोग्य भद्र व्यवहार की।",
         "instructions": "संक्षेपण करें-"
     },
     {
         "id": "short_2",
         "type": "short_answer",
-        "chapter_name": "Joothan",
+        "chapter_name": "Usne Kaha Tha",
         "question": "सही जोड़े का मिलान करें-",
         "instructions": "सही जोड़े का मिलान करें-",
         "sub_questions": {
@@ -135,7 +135,7 @@
     {
         "id": "objective_1",
         "type": "objective",
-        "chapter_name": "Pyare Nanhe Bete Ko",
+        "chapter_name": "Putra Viyog",
         "question": "पृथ्वी",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -148,7 +148,7 @@
     {
         "id": "objective_2",
         "type": "objective",
-        "chapter_name": "Peshgi",
+        "chapter_name": "Usne Kaha Tha",
         "question": "क्लर्क की मौत",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -161,7 +161,7 @@
     {
         "id": "objective_3",
         "type": "objective",
-        "chapter_name": "Putra Viyog",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
         "question": "हार-जीत",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -174,7 +174,7 @@
     {
         "id": "objective_4",
         "type": "objective",
-        "chapter_name": "Hanste Hue Mera Akelapan",
+        "chapter_name": "Sampoorna Kranti",
         "question": "पेशगी",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -187,7 +187,7 @@
     {
         "id": "objective_5",
         "type": "objective",
-        "chapter_name": "Usha",
+        "chapter_name": "Adhinayak",
         "question": "जूठन",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {

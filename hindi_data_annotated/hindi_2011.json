@@ -2,7 +2,7 @@
     {
         "id": "objective_1",
         "type": "objective",
-        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "chapter_name": "Clerk Ki Maut",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "question": "'अर्द्धनारीश्वर' शीर्षक पाठ के लेखक कौन हैं?",
         "options": {
@@ -16,7 +16,7 @@
     {
         "id": "objective_2",
         "type": "objective",
-        "chapter_name": "Putra Viyog",
+        "chapter_name": "Rassi Ka Tukda",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "question": "'रोज' शीर्षक कहानी के लेखक हैं",
         "options": {
@@ -30,7 +30,7 @@
     {
         "id": "objective_3",
         "type": "objective",
-        "chapter_name": "Peshgi",
+        "chapter_name": "Sipahi Ki Maa",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "question": "पं० चन्द्रधर शर्मा गुलेरी की कहानी है।",
         "options": {
@@ -44,7 +44,7 @@
     {
         "id": "objective_4",
         "type": "objective",
-        "chapter_name": "O Sadanira",
+        "chapter_name": "Pyare Nanhe Bete Ko",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "question": "'प्यारे नन्हे बेटे को' के कवि कौन हैं?",
         "options": {
@@ -58,7 +58,7 @@
     {
         "id": "objective_5",
         "type": "objective",
-        "chapter_name": "Hanste Hue Mera Akelapan",
+        "chapter_name": "O Sadanira",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "question": "'गाँव का घर' कविता के रचयिता हैं",
         "options": {
@@ -72,7 +72,7 @@
     {
         "id": "short_1",
         "type": "short_answer",
-        "chapter_name": "Pragit Aur Samaj",
+        "chapter_name": "Pad (Surdas)",
         "instructions": "सही जोड़े का मिलान करें-",
         "question": "सही जोड़े का मिलान करें-",
         "sub_questions": {
@@ -95,7 +95,7 @@
     {
         "id": "objective_6",
         "type": "objective",
-        "chapter_name": "Ardhanarishwar",
+        "chapter_name": "Chhappay",
         "instructions": "रिक्त स्थानों की पूर्ति करें-",
         "question": "मालती के पति का नाम ....... है।",
         "options": {
@@ -107,7 +107,7 @@
     {
         "id": "objective_7",
         "type": "objective",
-        "chapter_name": "Pad (Surdas)",
+        "chapter_name": "Sampoorna Kranti",
         "instructions": "रिक्त स्थानों की पूर्ति करें-",
         "question": "कहती है तुम ......... हो, मेरे मुल्क को बचाने आए हो",
         "options": {
@@ -119,7 +119,7 @@
     {
         "id": "objective_8",
         "type": "objective",
-        "chapter_name": "Kavitt",
+        "chapter_name": "Tirichh",
         "instructions": "रिक्त स्थानों की पूर्ति करें-",
         "question": "तुमुल कोलाहल कलह में, मैं.......... की बात रे मन ।",
         "options": {
@@ -131,7 +131,7 @@
     {
         "id": "objective_9",
         "type": "objective",
-        "chapter_name": "Pragit Aur Samaj",
+        "chapter_name": "Putra Viyog",
         "instructions": "रिक्त स्थानों की पूर्ति करें-",
         "question": "जादू टूटता है इस उषा का ........... सूर्योदय हो रहा है।",
         "options": {
@@ -154,49 +154,49 @@
     {
         "id": "comprehension_1",
         "type": "comprehension",
-        "chapter_name": "Baat Cheet",
+        "chapter_name": "Ek Lekh Aur Ek Patra",
         "instructions": "संक्षेपण करें-",
         "question": "अनुशासन की आवश्यकता छात्र जीवन के लिए सबसे अधिक है। वे विवेक-संगत श्रृंखला में बँधे रहने की आदत डालें। उनकी क्षमता बिखर कर नष्ट न होने पाए, उनकी साधना के बादल चट्टान और बंजर पर न बरसें, उनकी लालसा कलंक से काले पड़े भौरे की लालसा मात्र न बन जाए। इसके लिए छात्रों को व्यावहारिक जीवन में अनुशासन के नियमों का पालन करना परमावश्यक है। जीवन के हर क्षेत्र में अनुशासन की आवश्यकता पड़ती है। केवल विद्यालय में नहीं, वरन् परिवार एवं समाज में भी अनुशासन के नियमों का पालन करना चाहिए। उन्हें यह समझ लेना चाहिए कि पूरी सृष्टि और पूरा ब्रह्माण्ड भी अनुशासन में बँधा है। जीवन में अनुशासन न हो तो हम आसानी से अराजकता का शिकार हो जाएँगे।"
     },
     {
         "id": "essay_1",
         "type": "essay",
-        "chapter_name": "O Sadanira",
+        "chapter_name": "Putra Viyog",
         "instructions": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-",
         "question": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए- (क) पर्यावरण संरक्षण, (ख) महँगाई, (ग) बेरोजगारी, (घ) बिहार में शिक्षा"
     },
     {
         "id": "long_1_1",
         "type": "long_answer",
-        "chapter_name": "Chhappay",
+        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
         "question": "भगत सिंह ने कैसी मृत्यु को 'सुंदर' कहा है? वे आत्महत्या को कायरता कहते हैं, इस संबंध में उनके विचारों को स्पष्ट करें।"
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
-        "chapter_name": "Kavitt",
+        "chapter_name": "Hanste Hue Mera Akelapan",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
         "question": "'उसने कहा था' कहानी का सारांश लिखें।"
     },
     {
         "id": "long_2_1",
         "type": "long_answer",
-        "chapter_name": "Kadbak",
+        "chapter_name": "O Sadanira",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
         "question": "'उषा' कविता का भावार्थ लिखें।"
     },
     {
         "id": "long_2_2",
         "type": "long_answer",
-        "chapter_name": "Pad (Tulsidas)",
+        "chapter_name": "Adhinayak",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
         "question": "सूरदास के किसी एक पद का अर्थ लिखें।"
     },
     {
         "id": "short_2",
         "type": "short_answer",
-        "chapter_name": "Usha",
+        "chapter_name": "Joothan",
         "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "question": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "sub_questions": {
@@ -225,35 +225,35 @@
     {
         "id": "long_3_1",
         "type": "long_answer",
-        "chapter_name": "Pragit Aur Samaj",
+        "chapter_name": "Kadbak",
         "instructions": "अथवा",
         "question": "हिन्दी साहित्य के इतिहास को कितने काल खंडों में बाँटा गया है? नामकरण के साथ परिचय दें।"
     },
     {
         "id": "long_3_2",
         "type": "long_answer",
-        "chapter_name": "Sipahi Ki Maa",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
         "instructions": "अथवा",
         "question": "जायसी अथवा सूरदास का साहित्यिक परिचय दें।"
     },
     {
         "id": "explanation_1_1",
         "type": "explanation",
-        "chapter_name": "Kadbak",
+        "chapter_name": "Usha",
         "instructions": "सप्रसंग व्याख्या करें- अथवा",
         "question": "मृत्यु के कुछ समय पहले स्मृति बहुत साफ हो जाती है। जन्म भर की घटनाएँ एक-एक करके सामने आती हैं। सारे दृश्यों के रंग साफ होते हैं, समय की धुंध बिल्कुल उनपर से हट जाती है।"
     },
     {
         "id": "explanation_1_2",
         "type": "explanation",
-        "chapter_name": "O Sadanira",
+        "chapter_name": "Roz",
         "instructions": "सप्रसंग व्याख्या करें- अथवा",
         "question": "सच है, जब तक मनुष्य बोलता नहीं, तब तक उसका गुण दोष प्रकट नहीं होता।"
     },
     {
         "id": "explanation_2_1",
         "type": "explanation",
-        "chapter_name": "Rassi Ka Tukda",
+        "chapter_name": "Ardhanarishwar",
         "instructions": "सप्रसंग व्याख्या करें- अथवा",
         "question": "जो रस नंद जसोदा विलसत सो नहिं तिहुँ भुवनियाँ।\nभोजन करि नंद अचमन लीन्हो माँगत सूर जुठनियाँ।।"
     },

@@ -1,30 +1,74 @@
 {
+  "2009": [
+    {
+      "id": "explanation_1_1",
+      "type": "explanation",
+      "chapter_name": "Joothan",
+      "question": "छयणवणद की ऩॉाच विशेषताएँ बताइए।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_1_2",
+      "type": "explanation",
+      "chapter_name": "Tirichh",
+      "question": "कबीर या सूरदास या तुलसीदास का कवि परिचय लिखिए।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_2_1",
+      "type": "explanation",
+      "chapter_name": "O Sadanira",
+      "question": "'सच है' जब तक मनुष्य बोलता नहीं तब तक उसका गुण-दोष प्रकट नहीं होता।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_2_2",
+      "type": "explanation",
+      "chapter_name": "Joothan",
+      "question": "बिना फेर घोड़ा बिगड़ता है और बिना लड़े सिपाह।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_2_3",
+      "type": "explanation",
+      "chapter_name": "Haar-Jeet",
+      "question": "मिस्री, दधि, माखन मिस्रित करि, मुखनावत छबि धनिआँ। आपुनिखात, नदमुखनावत, सो छबि कहत न बनिआँ।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_2_4",
+      "type": "explanation",
+      "chapter_name": "O Sadanira",
+      "question": "धनि सो पुरुष जस कीरति जासू। फूल मेरे प मरे न बासू।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    }
+  ],
   "2010": [
     {
       "id": "explanation_1_1",
       "type": "explanation",
-      "chapter_name": "Chhappay",
+      "chapter_name": "Sipahi Ki Maa",
       "question": "(क) नहीं, फौजी वहाँ लड़ने के लिए हैं, वे नहीं भाग सकते। जो फौज छोड़कर भागता है, उसे गोली मार दी जाती है।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_1_2",
       "type": "explanation",
-      "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+      "chapter_name": "Tirichh",
       "question": "जिस पुरुष में नारीत्व नहीं, अपूर्ण है।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_1",
       "type": "explanation",
-      "chapter_name": "Shiksha",
+      "chapter_name": "Sampoorna Kranti",
       "question": "(ख) बड़ा कठिन है बेटा खोकर, माँ को अपना मन समझाना।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_2",
       "type": "explanation",
-      "chapter_name": "Sipahi Ki Maa",
+      "chapter_name": "O Sadanira",
       "question": "नील नदी, आमेजन मिसौरी में वेदना से गाती हुई। बहता बहाती हुई जिन्दगी की धारा एक, प्यार का इशारा एक, क्रोध का दुधारा एक।",
       "instructions": "सप्रसंग व्याख्या करें-"
     }
@@ -33,21 +77,21 @@
     {
       "id": "explanation_1_1",
       "type": "explanation",
-      "chapter_name": "Kadbak",
+      "chapter_name": "Usha",
       "instructions": "सप्रसंग व्याख्या करें- अथवा",
       "question": "मृत्यु के कुछ समय पहले स्मृति बहुत साफ हो जाती है। जन्म भर की घटनाएँ एक-एक करके सामने आती हैं। सारे दृश्यों के रंग साफ होते हैं, समय की धुंध बिल्कुल उनपर से हट जाती है।"
     },
     {
       "id": "explanation_1_2",
       "type": "explanation",
-      "chapter_name": "O Sadanira",
+      "chapter_name": "Roz",
       "instructions": "सप्रसंग व्याख्या करें- अथवा",
       "question": "सच है, जब तक मनुष्य बोलता नहीं, तब तक उसका गुण दोष प्रकट नहीं होता।"
     },
     {
       "id": "explanation_2_1",
       "type": "explanation",
-      "chapter_name": "Rassi Ka Tukda",
+      "chapter_name": "Ardhanarishwar",
       "instructions": "सप्रसंग व्याख्या करें- अथवा",
       "question": "जो रस नंद जसोदा विलसत सो नहिं तिहुँ भुवनियाँ।\nभोजन करि नंद अचमन लीन्हो माँगत सूर जुठनियाँ।।"
     },
@@ -59,32 +103,69 @@
       "question": "मखमल टमटम बल्लम तुरही\nपगड़ी छत्र चंवर के साथ\nतोप छुड़ाकर ढोल बजाकर\nजय-जय कौन कराता है।"
     }
   ],
+  "2012": [
+    {
+      "id": "explanation_1_1",
+      "type": "explanation",
+      "chapter_name": "Ardhanarishwar",
+      "question": "“आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है।”",
+      "instructions": ""
+    },
+    {
+      "id": "explanation_1_2",
+      "type": "explanation",
+      "chapter_name": "Pragit Aur Samaj",
+      "question": "“जिस पुरुष में नारीत्व नहीं, अपूर्ण है।”",
+      "instructions": ""
+    },
+    {
+      "id": "explanation_2_1",
+      "type": "explanation",
+      "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+      "question": "एक नैन जस दरपन और तेहि निरमल भाउ ।",
+      "instructions": ""
+    },
+    {
+      "id": "explanation_2_2",
+      "type": "explanation",
+      "chapter_name": "Tirichh",
+      "question": "सब रूपवंत गहि मुख जोवहिं कई चाउ ।।",
+      "instructions": ""
+    },
+    {
+      "id": "explanation_2_3",
+      "type": "explanation",
+      "chapter_name": "Pad (Surdas)",
+      "question": "दुनिया के हिस्सों में चारों ओर\nजन-जन का युद्ध एक।",
+      "instructions": ""
+    }
+  ],
   "2013": [
     {
       "id": "explanation_1_1",
       "type": "explanation",
-      "chapter_name": "Clerk Ki Maut",
+      "chapter_name": "Haar-Jeet",
       "question": "(क) आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है, कैसे ?",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_1_2",
       "type": "explanation",
-      "chapter_name": "Rassi Ka Tukda",
+      "chapter_name": "Tumul Kolahal Kalah Mein",
       "question": "\"जिस पुरुष में नारीत्व नहीं, अपूर्ण है।\"",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_1",
       "type": "explanation",
-      "chapter_name": "Baat Cheet",
+      "chapter_name": "Clerk Ki Maut",
       "question": "(ख) मेरा खोया हुआ खिलौना\nअब तक मेरे पास न आया।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_2",
       "type": "explanation",
-      "chapter_name": "Pragit Aur Samaj",
+      "chapter_name": "Pad (Surdas)",
       "question": "दुनिया के हिस्सों में चारों ओर\nजन-जन का युद्ध एक",
       "instructions": "सप्रसंग व्याख्या करें-"
     }
@@ -93,28 +174,28 @@
     {
       "id": "explanation_1_1",
       "type": "explanation",
-      "chapter_name": "Pad (Tulsidas)",
+      "chapter_name": "Putra Viyog",
       "question": "बड़ा कठिन है बेटा खोकर माँ को अपना मन समझाना।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_1_2",
       "type": "explanation",
-      "chapter_name": "Clerk Ki Maut",
+      "chapter_name": "Kadbak",
       "question": "प्रत्येक पत्नी अपने पति को बहुत कुछ उसी दृष्टि से देखती है जिस दृष्टि से लता अपने वृक्ष को देखती है।",
       "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_1",
       "type": "explanation",
-      "chapter_name": "Usha",
+      "chapter_name": "Kavitt",
       "question": "आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_2",
       "type": "explanation",
-      "chapter_name": "Rassi Ka Tukda",
+      "chapter_name": "Peshgi",
       "question": "जादू टूटता है उषा का अब सूर्योदय हो रहा है।",
       "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     }
@@ -130,21 +211,21 @@
     {
       "id": "explanation_1_2",
       "type": "explanation",
-      "chapter_name": "Usha",
+      "chapter_name": "Pragit Aur Samaj",
       "question": "चेतना थक-सी रही, तब,\nमैं मलय की बात रे मन ।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_1",
       "type": "explanation",
-      "chapter_name": "Gaon Ka Ghar",
+      "chapter_name": "Putra Viyog",
       "question": "आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है।",
       "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_2",
       "type": "explanation",
-      "chapter_name": "Haar-Jeet",
+      "chapter_name": "Kavitt",
       "question": "आदमी भागता है तो जमीन पर वह सिर्फ अपने पैरों के निशान नहीं छोड़ता, बल्कि हर निशान के साथ वहाँ की धूल में अपनी गंध भी छोड़ जाता है।",
       "instructions": "सप्रसंग व्याख्या करें-"
     }
@@ -153,37 +234,67 @@
     {
       "id": "explanation_1_1",
       "type": "explanation",
-      "chapter_name": "Hanste Hue Mera Akelapan",
+      "chapter_name": "Putra Viyog",
       "question": "(क) आप उस समय महत्वाकांक्षी रहते हैं जब आप सहज प्रेम से कोई कार्य सिर्फ कार्य के लिए करते हैं।",
       "instructions": "5. सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_1_2",
       "type": "explanation",
-      "chapter_name": "Baat Cheet",
+      "chapter_name": "Clerk Ki Maut",
       "question": "हम नूतन विश्व के निर्माण करने की आवश्यकता महसूस करते हैं।..... हम में से प्रत्येक व्यक्ति पूर्णतया मानसिक और आध्यात्मिक क्रांति में होता है।",
       "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_1",
       "type": "explanation",
-      "chapter_name": "Sampoorna Kranti",
+      "chapter_name": "Tirichh",
       "question": "(ख) पंचायती राज में जैसे खो गए पंच परमेश्वर बिजली बत्ती आ गयी कब की।",
       "instructions": "5. सप्रसंग व्याख्या करें-"
     },
     {
       "id": "explanation_2_2",
       "type": "explanation",
-      "chapter_name": "Clerk Ki Maut",
+      "chapter_name": "Hanste Hue Mera Akelapan",
       "question": "आशाओं से भरे हृदय भी छिन्न हुए हैं, अपने प्रिय परिवार देश से भिन्न हुए हैं।",
       "instructions": "अथवा, सप्रसंग व्याख्या करें-"
+    }
+  ],
+  "2017": [
+    {
+      "id": "explanation_1_1",
+      "type": "explanation",
+      "chapter_name": "Sipahi Ki Maa",
+      "question": "मृत्यु के कुछ समय पहले स्मृति बहुत साफ हो जाती है। जन्मभर की घटनाएँ एक-एक करके सामने आती हैं।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_1_2",
+      "type": "explanation",
+      "chapter_name": "Rassi Ka Tukda",
+      "question": "जिस पुरुष में नारीत्व नहीं, अपूर्ण है।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_2_1",
+      "type": "explanation",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "जादू टूटता है इस उषा का अब सूर्योदय हो रहा है।।",
+      "instructions": "सप्रसंग व्याख्या करें"
+    },
+    {
+      "id": "explanation_2_2",
+      "type": "explanation",
+      "chapter_name": "Kadbak",
+      "question": "फटा सुथन्ना पहने जिसका गुन हरचरना गाता है।",
+      "instructions": "सप्रसंग व्याख्या करें"
     }
   ],
   "2019": [
     {
       "id": "explanation_2",
       "type": "explanation",
-      "chapter_name": "Usne Kaha Tha",
+      "chapter_name": "Chhappay",
       "question": "सप्रसंग व्याख्या करें-",
       "sub_questions": {
         "k": "आदमी यथार्थ को जीता ही नहीं, यथार्थ रचता भी है।",
@@ -197,7 +308,7 @@
     {
       "id": "explanation_1",
       "type": "explanation",
-      "chapter_name": "Tumul Kolahal Kalah Mein",
+      "chapter_name": "Shiksha",
       "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें-",
       "instructions": "Answer any 2",
       "sub_questions": {
@@ -212,7 +323,7 @@
     {
       "id": "explanation_2",
       "type": "explanation",
-      "chapter_name": "Pad (Surdas)",
+      "chapter_name": "Tirichh",
       "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें-",
       "instructions": "Answer any 2",
       "sub_questions": {
@@ -227,7 +338,7 @@
     {
       "id": "explanation_1",
       "type": "explanation",
-      "chapter_name": "Rassi Ka Tukda",
+      "chapter_name": "Peshgi",
       "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें-",
       "instructions": "Answer any 2",
       "sub_questions": {
@@ -242,7 +353,7 @@
     {
       "id": "explanation_1",
       "type": "explanation",
-      "chapter_name": "Ardhanarishwar",
+      "chapter_name": "Adhinayak",
       "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :",
       "instructions": "किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें",
       "sub_questions": {
@@ -257,7 +368,7 @@
     {
       "id": "explanation_1",
       "type": "explanation",
-      "chapter_name": "Sipahi Ki Maa",
+      "chapter_name": "Kavitt",
       "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :",
       "instructions": "किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें",
       "sub_questions": {
@@ -272,7 +383,7 @@
     {
       "id": "explanation_1",
       "type": "explanation",
-      "chapter_name": "Hanste Hue Mera Akelapan",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
       "question": "निम्नलिखित में से किन्हीं दो अवतरणों की सप्रसंग व्याख्या करें :",
       "instructions": "2 x 4 = 8",
       "sub_questions": {

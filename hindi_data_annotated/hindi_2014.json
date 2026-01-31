@@ -2,21 +2,21 @@
     {
         "id": "long_1_1",
         "type": "long_answer",
-        "chapter_name": "Pyare Nanhe Bete Ko",
+        "chapter_name": "Usne Kaha Tha",
         "question": "'उसने कहा था' कहानी का सारांश लिखें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
-        "chapter_name": "Kadbak",
+        "chapter_name": "Pad (Tulsidas)",
         "question": "नामवर रचित 'प्रगीत और समाज' निबंध की विवेचना करें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
     {
         "id": "long_2_1",
         "type": "long_answer",
-        "chapter_name": "Roz",
+        "chapter_name": "Baat Cheet",
         "question": "'पुत्र-वियोग' कविता का भावार्थ लिखें।",
         "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
@@ -30,7 +30,7 @@
     {
         "id": "short_1",
         "type": "short_answer",
-        "chapter_name": "Ek Lekh Aur Ek Patra",
+        "chapter_name": "Usha",
         "question": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "instructions": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "sub_questions": {
@@ -59,14 +59,14 @@
     {
         "id": "comprehension_1",
         "type": "comprehension",
-        "chapter_name": "Kadbak",
+        "chapter_name": "Haar-Jeet",
         "question": "हिन्दुस्तान में वर्ण-व्यवस्था हजारों साल पुरानी है। इस व्यवस्था को आज के राजनीतिज्ञ चाहे जिस नजरिये से देखें, किन्तु पुराने जमाने में जितना प्यार, स्नेह तथा भाईचारा उच्च, मध्यम और निम्न जातियों के बीच था, उतना स्वाधीनता के बाद नहीं हो पाया। गाँधीजी यद्यपि जात-पात, छुआछूत के उन्मूलन के सचेष्ट थे, किन्तु उनके उत्तराधिकारियों ने खास तौर से विगत दो दशकों में, जातिगत वैमनस्य को बढ़ावा दिया और जातीय समीकरण के आधार पर सत्ता की दौड़ लगाई। अतः श्रम के विभाजन द्वारा एक-दूसरे के श्रम पर आश्रित रहने की प्रक्रिया और पारस्परिक प्रेम का जो वातावरण स्वतंत्रता से पूर्ण और मुसलमानी जमाने में हिन्दुओं में था, वह अब चाहकर भी नहीं हो पा रहा है।",
         "instructions": "संक्षेपण करें-"
     },
     {
         "id": "essay_1",
         "type": "essay",
-        "chapter_name": "Peshgi",
+        "chapter_name": "Kadbak",
         "question": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-",
         "instructions": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-",
         "sub_questions": {
@@ -80,56 +80,56 @@
     {
         "id": "long_3_1",
         "type": "long_answer",
-        "chapter_name": "O Sadanira",
+        "chapter_name": "Ek Lekh Aur Ek Patra",
         "question": "आदिकाल या भक्तिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।",
         "instructions": "आदिकाल या भक्तिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।"
     },
     {
         "id": "long_3_2",
         "type": "long_answer",
-        "chapter_name": "Tirichh",
+        "chapter_name": "Kadbak",
         "question": "तुलसीदास अथवा सूरदास का काव्यात्मक परिचय दें।",
         "instructions": "अथवा, तुलसीदास अथवा सूरदास का काव्यात्मक परिचय दें।"
     },
     {
         "id": "explanation_1_1",
         "type": "explanation",
-        "chapter_name": "Pad (Tulsidas)",
+        "chapter_name": "Putra Viyog",
         "question": "बड़ा कठिन है बेटा खोकर माँ को अपना मन समझाना।",
         "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_1_2",
         "type": "explanation",
-        "chapter_name": "Clerk Ki Maut",
+        "chapter_name": "Kadbak",
         "question": "प्रत्येक पत्नी अपने पति को बहुत कुछ उसी दृष्टि से देखती है जिस दृष्टि से लता अपने वृक्ष को देखती है।",
         "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_2_1",
         "type": "explanation",
-        "chapter_name": "Usha",
+        "chapter_name": "Kavitt",
         "question": "आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है।",
         "instructions": "सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_2_2",
         "type": "explanation",
-        "chapter_name": "Rassi Ka Tukda",
+        "chapter_name": "Peshgi",
         "question": "जादू टूटता है उषा का अब सूर्योदय हो रहा है।",
         "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     },
     {
         "id": "objective_1",
         "type": "objective",
-        "chapter_name": "Peshgi",
+        "chapter_name": "Adhinayak",
         "question": "सही जोड़े का मिलान करें- \n(क) अधिनायक (i) अज्ञेय \n(ख) कवित्त (ii) एक लेख एवं पत्र \n(ग) रोज (iii) भूषण \n(घ) शिक्षा (iv) रघुवीर सहाय \n(ङ) भगत सिंह (v) जे. कृष्णमूर्ति",
         "instructions": "सही जोड़े का मिलान करें-"
     },
     {
         "id": "objective_2",
         "type": "objective",
-        "chapter_name": "Pad (Tulsidas)",
+        "chapter_name": "Pad (Surdas)",
         "question": "रामधारी सिंह 'दिनकर' की रचना है",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -142,7 +142,7 @@
     {
         "id": "objective_3",
         "type": "objective",
-        "chapter_name": "Pad (Surdas)",
+        "chapter_name": "Ardhanarishwar",
         "question": "जायसी किस शाखा के कवि हैं?",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -155,7 +155,7 @@
     {
         "id": "objective_4",
         "type": "objective",
-        "chapter_name": "O Sadanira",
+        "chapter_name": "Kavitt",
         "question": "प्रेमचंद किस काल के रचनाकार हैं?",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -168,7 +168,7 @@
     {
         "id": "objective_5",
         "type": "objective",
-        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "chapter_name": "Putra Viyog",
         "question": "नामवर सिंह द्वारा लिखित 'प्रगति और समाज' क्या है?",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -181,7 +181,7 @@
     {
         "id": "objective_6",
         "type": "objective",
-        "chapter_name": "Sipahi Ki Maa",
+        "chapter_name": "Sampoorna Kranti",
         "question": "पुत्र वियोग' किसकी कविता है?",
         "instructions": "निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {

@@ -1,4 +1,20 @@
 {
+  "2009": [
+    {
+      "id": "letter_1_1",
+      "type": "letter_writing",
+      "chapter_name": "Vyakaran",
+      "question": "अपने प्रधानाचार्य को एक प्रार्थना पत्र लिखिए, जिसमें कई महीने से अंग्रेजी की पढ़ाई न होने के कारण उत्पन्न कठिनाई का वर्णन किया गया हो।",
+      "instructions": "पत्र लेखन"
+    },
+    {
+      "id": "letter_1_2",
+      "type": "letter_writing",
+      "chapter_name": "Vyakaran",
+      "question": "किसी दुर्घटना का वर्णन करते हुए अपने मित्र को पत्र लिखिए।",
+      "instructions": "पत्र लेखन"
+    }
+  ],
   "2010": [
     {
       "id": "letter_writing_1_1",
@@ -29,6 +45,22 @@
       "chapter_name": "Vyakaran",
       "instructions": "अथवा",
       "question": "अपने मित्र को एक पत्र लिखिए जिसमें किसी अविस्मरणीय घटना का वर्णन हो।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "letter_writing_1_1",
+      "type": "letter_writing",
+      "chapter_name": "Vyakaran",
+      "question": "अपने मित्र को एक पत्र लिखिए जिसमें वर्तमान बिहार के विकास की दशा और दिशा का वर्णन कीजिए।",
+      "instructions": ""
+    },
+    {
+      "id": "letter_writing_1_2",
+      "type": "letter_writing",
+      "chapter_name": "Vyakaran",
+      "question": "स्थानीय समाचार पत्र के माध्यम से अपने शिक्षा मंत्री का ध्यान परीक्षा में होनेवाली अनियमितताओं की ओर आकृष्ट करें।",
+      "instructions": ""
     }
   ],
   "2013": [
@@ -93,6 +125,22 @@
       "chapter_name": "Vyakaran",
       "question": "गाँव की समस्या को दूर करने के लिए मुख्यमंत्री के नाम एक पत्र लिखें।",
       "instructions": "अथवा, संक्षिप्त पत्र लिखें-"
+    }
+  ],
+  "2017": [
+    {
+      "id": "letter_1_1",
+      "type": "letter_writing",
+      "chapter_name": "Vyakaran",
+      "question": "एक पत्र अपने मित्र को लिखिए, जिसमें किसी रमणीय स्थल का संक्षिप्त वर्णन करे।",
+      "instructions": "संक्षिप्त पत्र लिखें"
+    },
+    {
+      "id": "letter_1_2",
+      "type": "letter_writing",
+      "chapter_name": "Vyakaran",
+      "question": "बिजली की कमी दूर करने हेतु राज्य के बिजली मंत्री को एक पत्र लिखें।",
+      "instructions": "संक्षिप्त पत्र लिखें"
     }
   ],
   "2019": [

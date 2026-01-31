@@ -1,46 +1,18 @@
 {
-  "2010": [
+  "2017": [
     {
-      "id": "long_answer_1_1",
+      "id": "long_1_2",
       "type": "long_answer",
       "chapter_name": "Pyare Nanhe Bete Ko",
-      "question": "भक्तिकाल की पाँच विशेषताएँ बताइए।",
-      "instructions": "उत्तर दीजिए"
-    }
-  ],
-  "2014": [
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter_name": "Pyare Nanhe Bete Ko",
-      "question": "'उसने कहा था' कहानी का सारांश लिखें।",
-      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
-    }
-  ],
-  "2015": [
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter_name": "Pyare Nanhe Bete Ko",
-      "question": "नाभादास का काव्यात्मक परिचय दें।",
+      "question": "रीतिकाल की सामान्य प्रवृत्तियों का उल्लेख करें।",
       "instructions": ""
-    }
-  ],
-  "2023": [
+    },
     {
-      "id": "long_answer_1",
+      "id": "long_1_3",
       "type": "long_answer",
       "chapter_name": "Pyare Nanhe Bete Ko",
-      "question": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :",
-      "instructions": "किन्हीं तीन के उत्तर दें",
-      "sub_questions": {
-        "i": "'कला-कला के लिए' सिद्धान्त क्या है ?",
-        "ii": "'जूठन' शीर्षक आत्मकथा का सारांश लिखिए।",
-        "iii": "शिक्षा' शीर्षक लेख का सारांश लिखें।",
-        "iv": "'हार-जीत' शीर्षक कविता का भावार्थ लिखें।",
-        "v": "उषा का जादू कैसा है ?",
-        "vi": "प्यारे नन्हें बेटे को' शीर्षक कविता का भावार्थ लिखें।"
-      }
+      "question": "सूर या विद्यापति का काव्यात्मक परिचय दें।",
+      "instructions": ""
     }
   ]
 }

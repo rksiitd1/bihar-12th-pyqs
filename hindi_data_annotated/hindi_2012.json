@@ -1,0 +1,201 @@
+[
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-\n(क) मेरे प्रिय कवि\n(ख) छात्र और राजनीति\n(ग) वसंत ऋतु\n(घ) विज्ञान वरदान या अभिशाप",
+        "instructions": ""
+    },
+    {
+        "id": "letter_writing_1_1",
+        "type": "letter_writing",
+        "chapter_name": "Vyakaran",
+        "question": "अपने मित्र को एक पत्र लिखिए जिसमें वर्तमान बिहार के विकास की दशा और दिशा का वर्णन कीजिए।",
+        "instructions": ""
+    },
+    {
+        "id": "letter_writing_1_2",
+        "type": "letter_writing",
+        "chapter_name": "Vyakaran",
+        "question": "स्थानीय समाचार पत्र के माध्यम से अपने शिक्षा मंत्री का ध्यान परीक्षा में होनेवाली अनियमितताओं की ओर आकृष्ट करें।",
+        "instructions": ""
+    },
+    {
+        "id": "objective_1",
+        "type": "objective",
+        "chapter_name": "Haar-Jeet",
+        "question": "सही जोड़े का मिलान करें-\n(क) जूठन\n(ख) उसने कहा था\n(ग) तुमुल कोलाहल कलह में\n(घ) उषा\n(ङ) अर्द्धनारीश्वर",
+        "instructions": "",
+        "options": {
+            "A": "दिनकर",
+            "B": "शमशेर बहादुर सिंह",
+            "C": "चन्द्रधर शर्मा गुलेरी",
+            "D": "जयशंकर प्रसाद",
+            "E": "ओमप्रकाश वाल्मीकि"
+        }
+    },
+    {
+        "id": "objective_2",
+        "type": "objective",
+        "chapter_name": "Tirichh",
+        "question": "'ओ सदानीरा शीर्षक पाठ के लेखक हैं",
+        "instructions": "",
+        "options": {
+            "A": "मोहन राकेश",
+            "B": "उदय प्रकाश",
+            "C": "जगदीशचन्द्र माथुर",
+            "D": "नामवर सिंह"
+        }
+    },
+    {
+        "id": "objective_3",
+        "type": "objective",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "'एक लेख और एक पत्र' के लेखक हैं",
+        "instructions": "",
+        "options": {
+            "A": "सुखदेव",
+            "B": "भगत सिंह",
+            "C": "बालकृष्ण भट्ट",
+            "D": "भारतेन्दु हरिश्चन्द्र"
+        }
+    },
+    {
+        "id": "objective_4",
+        "type": "objective",
+        "chapter_name": "Gaon Ka Ghar",
+        "question": "ओमप्रकाश वाल्मीकि की रचना है,",
+        "instructions": "",
+        "options": {
+            "A": "रोज",
+            "B": "तिरिछ",
+            "C": "जूठन",
+            "D": "उसने कहा था"
+        }
+    },
+    {
+        "id": "objective_5",
+        "type": "objective",
+        "chapter_name": "Clerk Ki Maut",
+        "question": "'अधिनायक' कविता के कवि हैं।",
+        "instructions": "",
+        "options": {
+            "A": "रघुवीर सहाय",
+            "B": "गजानन माधव मुक्तिबोध",
+            "C": "भूषण",
+            "D": "तुलसीदास"
+        }
+    },
+    {
+        "id": "objective_6",
+        "type": "objective",
+        "chapter_name": "Gaon Ka Ghar",
+        "question": "'पुत्र वियोग' कविता के कवि हैं।",
+        "instructions": "",
+        "options": {
+            "A": "ज्ञानेन्द्रपति",
+            "B": "जयशंकर प्रसाद",
+            "C": "सुभद्रा कुमारी चौहान",
+            "D": "सूरदास"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "question": "'रोज' कहानी का सारांश लिखे।।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter_name": "Hanste Hue Mera Akelapan",
+        "question": "'ओ सदानीरा' पाठ में आए नौका विहार प्रसंग का वर्णन करें।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter_name": "Ardhanarishwar",
+        "question": "'तुमुल कोलाहल कलह में' कविता का भावार्थ लिखें।",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter_name": "Adhinayak",
+        "question": "नारी तो हम हूँ करी, तब ना किया विचार।\nजब जानी तब परिहरि, नारी महा विकार ॥",
+        "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "Usha",
+        "question": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
+        "instructions": "",
+        "sub_questions": {
+            "क": "पुरुष जब नारी के गुण लेता है तब वह क्या बन जाता है?",
+            "ख": "विद्यार्थियों को राजनीति में भाग क्यों लेना चाहिए?",
+            "ग": "गाँधीजी के शिक्षा संबंधी आदर्श क्या थे?",
+            "घ": "डायरी का लिखा जाना क्यों मुश्किल है?",
+            "ङ": "पुत्र को छौना कहने में क्या भाव छिपा है ? उद्घाटित करें।",
+            "च": "'जन-जन का चेहरा एक' से कवि का क्या तात्पर्य है?"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "chapter_name": "O Sadanira",
+        "question": "19वीं शती से पूर्व खड़ी बोली हिन्दी के विकास पर प्रकाश डालें।",
+        "instructions": ""
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "chapter_name": "Usne Kaha Tha",
+        "question": "छायावाद की प्रमुख प्रवृत्तियों का उल्लेख करें।",
+        "instructions": ""
+    },
+    {
+        "id": "explanation_1_1",
+        "type": "explanation",
+        "chapter_name": "Ardhanarishwar",
+        "question": "“आदमी यथार्थ को जीता ही नहीं, यथार्थ को रचता भी है।”",
+        "instructions": ""
+    },
+    {
+        "id": "explanation_1_2",
+        "type": "explanation",
+        "chapter_name": "Pragit Aur Samaj",
+        "question": "“जिस पुरुष में नारीत्व नहीं, अपूर्ण है।”",
+        "instructions": ""
+    },
+    {
+        "id": "explanation_2_1",
+        "type": "explanation",
+        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "question": "एक नैन जस दरपन और तेहि निरमल भाउ ।",
+        "instructions": ""
+    },
+    {
+        "id": "explanation_2_2",
+        "type": "explanation",
+        "chapter_name": "Tirichh",
+        "question": "सब रूपवंत गहि मुख जोवहिं कई चाउ ।।",
+        "instructions": ""
+    },
+    {
+        "id": "explanation_2_3",
+        "type": "explanation",
+        "chapter_name": "Pad (Surdas)",
+        "question": "दुनिया के हिस्सों में चारों ओर\nजन-जन का युद्ध एक।",
+        "instructions": ""
+    },
+    {
+        "id": "comprehension_1",
+        "type": "comprehension",
+        "chapter_name": "Pragit Aur Samaj",
+        "question": "संक्षेपण करें-\nयुवा वर्ग का मस्तिष्क नई नई बातों की ओर ज्यादा तेज दौड़ता है। उसमें अन्य वर्ग के व्यक्तियों से अधिक आवेश और शक्ति होती है। इस अवस्था में यदि सही शिक्षा और उचित मार्गदर्शन न मिले तो यही शक्ति और प्रेरणा निर्माण के स्थान पर विनाश की ओर ले जाती है। बिगड़ने और बनने की भी यही आयु होती है। दुर्भाग्य से हमारे देश में शिक्षा-पद्धति केवल उपाधि बाँटने का काम ही करती है, एक सम्पूर्ण व्यक्तित्व वाला मनुष्य बनाना आज की शिक्षा-पद्धति के लिए मुश्किल है।",
+        "instructions": ""
+    }
+]

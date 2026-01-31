@@ -1,16 +1,53 @@
 {
+  "2009": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter_name": "Clerk Ki Maut",
+      "question": "भगत सिंह ने कैसी मृत्यु को सुन्दर कहा है? वे आत्महत्या को कायरता कहते हैं। इस सम्बन्ध में उनके विचारों को स्पष्ट करें।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "Tumul Kolahal Kalah Mein",
+      "question": "'बातचीत' शीर्षक निबंध का सारांश लिखिए।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter_name": "Joothan",
+      "question": "'अर्धनारीश्वर' कविता का सारांश लिखिए।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter_name": "Pad (Tulsidas)",
+      "question": "'जन-जन का चेहरा एक' शीर्षक कविता का भावार्थ लिखिए।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_2_3",
+      "type": "long_answer",
+      "chapter_name": "Usne Kaha Tha",
+      "question": "'उषा' शीर्षक कविता के बिम्बों को स्पष्ट करें।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    }
+  ],
   "2010": [
     {
       "id": "long_answer_1_1",
       "type": "long_answer",
-      "chapter_name": "Pyare Nanhe Bete Ko",
+      "chapter_name": "Kadbak",
       "question": "भक्तिकाल की पाँच विशेषताएँ बताइए।",
       "instructions": "उत्तर दीजिए"
     },
     {
       "id": "long_answer_1_2",
       "type": "long_answer",
-      "chapter_name": "Sipahi Ki Maa",
+      "chapter_name": "Usha",
       "question": "विद्यापति या कबीर का पाँच वाक्यों में परिचय दीजिए।",
       "instructions": "उत्तर दीजिए"
     }
@@ -19,58 +56,102 @@
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "Chhappay",
+      "chapter_name": "Jaan-Jaan Ka Chehra Ek",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
       "question": "भगत सिंह ने कैसी मृत्यु को 'सुंदर' कहा है? वे आत्महत्या को कायरता कहते हैं, इस संबंध में उनके विचारों को स्पष्ट करें।"
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "Kavitt",
+      "chapter_name": "Hanste Hue Mera Akelapan",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
       "question": "'उसने कहा था' कहानी का सारांश लिखें।"
     },
     {
       "id": "long_2_1",
       "type": "long_answer",
-      "chapter_name": "Kadbak",
+      "chapter_name": "O Sadanira",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
       "question": "'उषा' कविता का भावार्थ लिखें।"
     },
     {
       "id": "long_2_2",
       "type": "long_answer",
-      "chapter_name": "Pad (Tulsidas)",
+      "chapter_name": "Adhinayak",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-",
       "question": "सूरदास के किसी एक पद का अर्थ लिखें।"
     },
     {
       "id": "long_3_1",
       "type": "long_answer",
-      "chapter_name": "Pragit Aur Samaj",
+      "chapter_name": "Kadbak",
       "instructions": "अथवा",
       "question": "हिन्दी साहित्य के इतिहास को कितने काल खंडों में बाँटा गया है? नामकरण के साथ परिचय दें।"
     },
     {
       "id": "long_3_2",
       "type": "long_answer",
-      "chapter_name": "Sipahi Ki Maa",
+      "chapter_name": "Tumul Kolahal Kalah Mein",
       "instructions": "अथवा",
       "question": "जायसी अथवा सूरदास का साहित्यिक परिचय दें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter_name": "Tumul Kolahal Kalah Mein",
+      "question": "'रोज' कहानी का सारांश लिखे।।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "Hanste Hue Mera Akelapan",
+      "question": "'ओ सदानीरा' पाठ में आए नौका विहार प्रसंग का वर्णन करें।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter_name": "Ardhanarishwar",
+      "question": "'तुमुल कोलाहल कलह में' कविता का भावार्थ लिखें।",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter_name": "Adhinayak",
+      "question": "नारी तो हम हूँ करी, तब ना किया विचार।\nजब जानी तब परिहरि, नारी महा विकार ॥",
+      "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "O Sadanira",
+      "question": "19वीं शती से पूर्व खड़ी बोली हिन्दी के विकास पर प्रकाश डालें।",
+      "instructions": ""
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Usne Kaha Tha",
+      "question": "छायावाद की प्रमुख प्रवृत्तियों का उल्लेख करें।",
+      "instructions": ""
     }
   ],
   "2013": [
     {
       "id": "long_answer_1_1",
       "type": "long_answer",
-      "chapter_name": "Pad (Tulsidas)",
+      "chapter_name": "Usha",
       "question": "भक्तिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।",
       "instructions": ""
     },
     {
       "id": "long_answer_1_2",
       "type": "long_answer",
-      "chapter_name": "O Sadanira",
+      "chapter_name": "Kadbak",
       "question": "दिनकर या नागार्जुन का काव्यात्मक परिचय दें।",
       "instructions": ""
     }
@@ -79,21 +160,21 @@
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "Pyare Nanhe Bete Ko",
+      "chapter_name": "Usne Kaha Tha",
       "question": "'उसने कहा था' कहानी का सारांश लिखें।",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "Kadbak",
+      "chapter_name": "Pad (Tulsidas)",
       "question": "नामवर रचित 'प्रगीत और समाज' निबंध की विवेचना करें।",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
     {
       "id": "long_2_1",
       "type": "long_answer",
-      "chapter_name": "Roz",
+      "chapter_name": "Baat Cheet",
       "question": "'पुत्र-वियोग' कविता का भावार्थ लिखें।",
       "instructions": "किन्हीं दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
@@ -107,14 +188,14 @@
     {
       "id": "long_3_1",
       "type": "long_answer",
-      "chapter_name": "O Sadanira",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
       "question": "आदिकाल या भक्तिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।",
       "instructions": "आदिकाल या भक्तिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।"
     },
     {
       "id": "long_3_2",
       "type": "long_answer",
-      "chapter_name": "Tirichh",
+      "chapter_name": "Kadbak",
       "question": "तुलसीदास अथवा सूरदास का काव्यात्मक परिचय दें।",
       "instructions": "अथवा, तुलसीदास अथवा सूरदास का काव्यात्मक परिचय दें।"
     }
@@ -123,14 +204,14 @@
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "Pyare Nanhe Bete Ko",
+      "chapter_name": "Sampoorna Kranti",
       "question": "नाभादास का काव्यात्मक परिचय दें।",
       "instructions": ""
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+      "chapter_name": "Adhinayak",
       "question": "आदिकाल के कवियों के नाम लिखें।",
       "instructions": ""
     }
@@ -139,23 +220,74 @@
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "Usne Kaha Tha",
+      "chapter_name": "Usha",
       "question": "रीतिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।",
       "instructions": "8."
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "Sampoorna Kranti",
+      "chapter_name": "Gaon Ka Ghar",
       "question": "जायसी के काव्य कला पर प्रकाश डालें।",
       "instructions": "अथवा, 8."
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "हिन्दी साहित्य के कालविभाजन का संक्षिप्त परिचय दें।",
+      "instructions": ""
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "Pyare Nanhe Bete Ko",
+      "question": "रीतिकाल की सामान्य प्रवृत्तियों का उल्लेख करें।",
+      "instructions": ""
+    },
+    {
+      "id": "long_1_3",
+      "type": "long_answer",
+      "chapter_name": "Pyare Nanhe Bete Ko",
+      "question": "सूर या विद्यापति का काव्यात्मक परिचय दें।",
+      "instructions": ""
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter_name": "Peshgi",
+      "question": "'अर्धनारीश्वर' शीर्षक कविता के भावार्थ को स्पष्ट करें।",
+      "instructions": "निम्नलिखित दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter_name": "Pad (Tulsidas)",
+      "question": "'हार-जीत' कविता का भावार्थ लिखें।",
+      "instructions": "निम्नलिखित दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Ek Lekh Aur Ek Patra",
+      "question": "'रोज' शीर्षक कहानी का उद्देश्य लिखें।",
+      "instructions": "निम्नलिखित दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Chhappay",
+      "question": "लहना सिंह का चरित्र चित्रण करें।",
+      "instructions": "निम्नलिखित दो दीर्घ उत्तरीय प्रश्नों के उत्तर दें"
     }
   ],
   "2019": [
     {
       "id": "long_answer_5",
       "type": "long_answer",
-      "chapter_name": "Baat Cheet",
+      "chapter_name": "Usne Kaha Tha",
       "question": "निम्नांकित प्रश्नों में से किन्हीं तीन के उत्तर दें।",
       "instructions": "Answer any 3",
       "sub_questions": {
@@ -172,7 +304,7 @@
     {
       "id": "long_answer_1",
       "type": "long_answer",
-      "chapter_name": "Tirichh",
+      "chapter_name": "Rassi Ka Tukda",
       "question": "निम्नांकित प्रश्नों में से किन्हीं तीन के उत्तर दें।",
       "instructions": "Answer any 3",
       "sub_questions": {
@@ -189,7 +321,7 @@
     {
       "id": "long_answer_5",
       "type": "long_answer",
-      "chapter_name": "Haar-Jeet",
+      "chapter_name": "Clerk Ki Maut",
       "question": "निम्नांकित प्रश्नों में से किन्हीं तीन के उत्तर दें।",
       "instructions": "Answer any 3",
       "sub_questions": {
@@ -206,7 +338,7 @@
     {
       "id": "long_answer_1",
       "type": "long_answer",
-      "chapter_name": "Adhinayak",
+      "chapter_name": "Haar-Jeet",
       "question": "निम्नलिखित प्रश्नों में से किन्हीं तीन प्रश्नों के उत्तर दें।",
       "instructions": "Answer any 3",
       "sub_questions": {
@@ -223,7 +355,7 @@
     {
       "id": "long_answer_1",
       "type": "long_answer",
-      "chapter_name": "Pyare Nanhe Bete Ko",
+      "chapter_name": "Ardhanarishwar",
       "question": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :",
       "instructions": "किन्हीं तीन के उत्तर दें",
       "sub_questions": {
@@ -240,7 +372,7 @@
     {
       "id": "long_answer_1",
       "type": "long_answer",
-      "chapter_name": "Hanste Hue Mera Akelapan",
+      "chapter_name": "Kadbak",
       "question": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :",
       "instructions": "किन्हीं तीन के उत्तर दें",
       "sub_questions": {
@@ -257,7 +389,7 @@
     {
       "id": "long_answer_1",
       "type": "long_answer",
-      "chapter_name": "Rassi Ka Tukda",
+      "chapter_name": "Jaan-Jaan Ka Chehra Ek",
       "question": "निम्नलिखित प्रश्नों में से किन्हीं तीन के उत्तर दें :",
       "instructions": "3 x 5 = 15",
       "sub_questions": {

@@ -16,21 +16,21 @@
     {
         "id": "summary_1",
         "type": "summary",
-        "chapter_name": "Gaon Ka Ghar",
+        "chapter_name": "Kavitt",
         "question": "सामाजिक हिंसा सिर्फ राजनीति में ही नहीं, बल्कि सामाजिक संबंधों में भी फैल रही है। इस सामाजिक हिंसा का महिलाएँ सीधे शिकार बनती हैं। साथ में हमारे समाज के तमाम कामगार आदिवासी, छोटे किसान और मजदूर जगह-जगह पर हिंसा को सह रहे हैं। आज यह राजनीति के साथ-साथ राजनीति की मुख्यधारा में भी शामिल हो गयी है, जो भविष्य के लिए अच्छा नहीं है।",
         "instructions": "संक्षेपण करें-"
     },
     {
         "id": "objective_1",
         "type": "objective",
-        "chapter_name": "Sampoorna Kranti",
+        "chapter_name": "Kavitt",
         "question": "सही जोडे का मिलान करें-\n(क) बातचीत  (i) जय प्रकाश नारायण\n(ख) ओ-सदानीरा  (ii) जगदीश चन्द्र माथुर\n(ग) जूठन  (iii) ओम प्रकाश वाल्मीकि\n(घ) संपूर्ण क्रांति  (iv) बाल कृष्ण भट्ट\n(ङ) तुमुल कोलाहल कलह में  (v) जयशंकर प्रसाद",
         "instructions": "3. I. सही जोडे का मिलान करें-"
     },
     {
         "id": "objective_2",
         "type": "objective",
-        "chapter_name": "Tumul Kolahal Kalah Mein",
+        "chapter_name": "Pad (Surdas)",
         "question": "(i) गाँव का घर",
         "instructions": "II. निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -43,7 +43,7 @@
     {
         "id": "objective_3",
         "type": "objective",
-        "chapter_name": "Kadbak",
+        "chapter_name": "Pad (Tulsidas)",
         "question": "(ii) गालिव",
         "instructions": "II. निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -56,7 +56,7 @@
     {
         "id": "objective_4",
         "type": "objective",
-        "chapter_name": "Jaan-Jaan Ka Chehra Ek",
+        "chapter_name": "Chhappay",
         "question": "(iii) प्यारे नन्हें बच्चे",
         "instructions": "II. निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -69,7 +69,7 @@
     {
         "id": "objective_5",
         "type": "objective",
-        "chapter_name": "Sipahi Ki Maa",
+        "chapter_name": "Putra Viyog",
         "question": "(iv) सफेद कबूतर",
         "instructions": "II. निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -82,7 +82,7 @@
     {
         "id": "objective_6",
         "type": "objective",
-        "chapter_name": "Ardhanarishwar",
+        "chapter_name": "Sipahi Ki Maa",
         "question": "(v) छप्पय",
         "instructions": "II. निम्नलिखित प्रश्नों के बहुवैकल्पिक उत्तरों में से सही उत्तर बताइए-",
         "options": {
@@ -95,42 +95,42 @@
     {
         "id": "essay_1",
         "type": "essay",
-        "chapter_name": "Pad (Surdas)",
+        "chapter_name": "Adhinayak",
         "question": "(क) चुनाव प्रक्रिया\n(ख) मोबाइल\n(ग) आतंकवाद\n(घ) प्रदूषण",
         "instructions": "4. निम्नलिखित विषयों में से किसी एक पर निबंध लिखिए-"
     },
     {
         "id": "explanation_1_1",
         "type": "explanation",
-        "chapter_name": "Hanste Hue Mera Akelapan",
+        "chapter_name": "Putra Viyog",
         "question": "(क) आप उस समय महत्वाकांक्षी रहते हैं जब आप सहज प्रेम से कोई कार्य सिर्फ कार्य के लिए करते हैं।",
         "instructions": "5. सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_1_2",
         "type": "explanation",
-        "chapter_name": "Baat Cheet",
+        "chapter_name": "Clerk Ki Maut",
         "question": "हम नूतन विश्व के निर्माण करने की आवश्यकता महसूस करते हैं।..... हम में से प्रत्येक व्यक्ति पूर्णतया मानसिक और आध्यात्मिक क्रांति में होता है।",
         "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_2_1",
         "type": "explanation",
-        "chapter_name": "Sampoorna Kranti",
+        "chapter_name": "Tirichh",
         "question": "(ख) पंचायती राज में जैसे खो गए पंच परमेश्वर बिजली बत्ती आ गयी कब की।",
         "instructions": "5. सप्रसंग व्याख्या करें-"
     },
     {
         "id": "explanation_2_2",
         "type": "explanation",
-        "chapter_name": "Clerk Ki Maut",
+        "chapter_name": "Hanste Hue Mera Akelapan",
         "question": "आशाओं से भरे हृदय भी छिन्न हुए हैं, अपने प्रिय परिवार देश से भिन्न हुए हैं।",
         "instructions": "अथवा, सप्रसंग व्याख्या करें-"
     },
     {
         "id": "short_1",
         "type": "short_answer",
-        "chapter_name": "Peshgi",
+        "chapter_name": "Pyare Nanhe Bete Ko",
         "question": "निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "instructions": "6. निम्नलिखित लघु उत्तरीय प्रश्नों के उत्तर दें-",
         "sub_questions": {
@@ -145,42 +145,42 @@
     {
         "id": "summary_2_1",
         "type": "summary",
-        "chapter_name": "Ardhanarishwar",
+        "chapter_name": "Putra Viyog",
         "question": "(क) 'छप्पय' कविता का सारांश लिखे।",
         "instructions": "7. निम्नलिखित दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
     {
         "id": "summary_2_2",
         "type": "summary",
-        "chapter_name": "Ardhanarishwar",
+        "chapter_name": "Gaon Ka Ghar",
         "question": "'कड़वक' शीर्षक कविता का सारांश लिखे।",
         "instructions": "अथवा, 7 (क)"
     },
     {
         "id": "summary_3_1",
         "type": "summary",
-        "chapter_name": "Roz",
+        "chapter_name": "Usha",
         "question": "(ख) तिरछ' कहानी का सारांश लिखें।",
         "instructions": "7. निम्नलिखित दो दीर्घ उत्तरीय प्रश्नों के उत्तर दे-"
     },
     {
         "id": "summary_3_2",
         "type": "summary",
-        "chapter_name": "Shiksha",
+        "chapter_name": "Tumul Kolahal Kalah Mein",
         "question": "'शिक्षा' का सारांश लिखें।",
         "instructions": "अथवा, 7 (ख)"
     },
     {
         "id": "long_1_1",
         "type": "long_answer",
-        "chapter_name": "Usne Kaha Tha",
+        "chapter_name": "Usha",
         "question": "रीतिकाल की सामान्य प्रवृत्तियों का संक्षिप्त परिचय दें।",
         "instructions": "8."
     },
     {
         "id": "long_1_2",
         "type": "long_answer",
-        "chapter_name": "Sampoorna Kranti",
+        "chapter_name": "Gaon Ka Ghar",
         "question": "जायसी के काव्य कला पर प्रकाश डालें।",
         "instructions": "अथवा, 8."
     }
