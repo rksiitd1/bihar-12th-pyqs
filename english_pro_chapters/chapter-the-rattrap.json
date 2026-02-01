@@ -1,127 +1,79 @@
 {
-  "2021": [
+  "2010": [
     {
-      "id": "obj_37",
-      "type": "objective",
+      "id": "long_2",
+      "type": "long_answer",
       "chapter_name": "The Rattrap",
-      "question": "He has ............... the prize. (Choose the correct option)",
-      "prashna": "उसने पुरस्कार ............... है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "wins",
-        "B": "win",
-        "C": "will win",
-        "D": "won"
-      },
-      "vikalpa": {
-        "A": "जीतता है",
-        "B": "जीतना",
-        "C": "जीतेगा",
-        "D": "जीता (won)"
-      }
+      "question": "Give, in short, the summary of any one of the following pieces:\n(a) I have a Dream\n(b) The Earth\n(c) A child is Born",
+      "prashna": "निम्नलिखित में से किसी एक लेख का संक्षेप में सारांश दें:\n(क) आई हैव अ ड्रीम\n(ख) द अर्थ\n(ग) ए चाइल्ड इज़ बोर्न"
     },
     {
-      "id": "obj_61",
-      "type": "objective",
+      "id": "short_6",
+      "type": "short_answer",
       "chapter_name": "The Rattrap",
-      "question": "'Now the Leaves are Falling Fast' talks about the ............... of human life.",
-      "prashna": "'नाउ द लीव्स आर फॉलिंग फास्ट' मानव जीवन की ............... के बारे में बात करती है।",
-      "options": {
-        "A": "frustrations",
-        "B": "happiness",
-        "C": "confusions",
-        "D": "knowledge"
-      },
-      "vikalpa": {
-        "A": "कुंठाओं (frustrations)",
-        "B": "खुशी",
-        "C": "भ्रम",
-        "D": "ज्ञान"
-      }
+      "question": "Name the authors of the following:\n(a) David Copperfield\n(b) Emma\n(c) Piers the Plowman\n(d) The Guide\n(e) Macbeth",
+      "prashna": "निम्नलिखित के लेखकों के नाम बताइए:\n(क) डेविड कॉपरफील्ड\n(ख) एम्मा\n(ग) पियर्स द प्लोमैन\n(घ) द गाइड\n(ङ) मैकबेथ"
     },
     {
-      "id": "obj_65",
-      "type": "objective",
+      "id": "long_4_2",
+      "type": "long_answer",
       "chapter_name": "The Rattrap",
-      "question": "English language is ............... than Sanskrit and Persian. (Choose the correct option)",
-      "prashna": "अंग्रेजी भाषा संस्कृत और फारसी की तुलना में ............... है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "older",
-        "B": "younger",
-        "C": "elder",
-        "D": "oldest"
-      },
-      "vikalpa": {
-        "A": "पुरानी",
-        "B": "नई/युवा (younger)",
-        "C": "बड़ी",
-        "D": "सबसे पुरानी"
-      }
-    },
+      "question": "Write the names of five Indian English Writers.",
+      "prashna": "पाँच भारतीय अंग्रेजी लेखकों के नाम लिखिए।"
+    }
+  ],
+  "2014": [
     {
-      "id": "obj_66",
-      "type": "objective",
+      "id": "long_3",
+      "type": "long_answer",
       "chapter_name": "The Rattrap",
-      "question": "The word 'drama' comes from ............... word. (Choose the correct option)",
-      "prashna": "'ड्रामा' शब्द ............... शब्द से आया है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "Latin",
-        "B": "Greek",
-        "C": "Scandinavian",
-        "D": "Pali"
-      },
-      "vikalpa": {
-        "A": "लैटिन",
-        "B": "ग्रीक (Greek)",
-        "C": "स्कैंडिनेवियन",
-        "D": "पाली"
-      }
-    },
+      "question": "Write the summary of any one of the following poems: (a) Song of Myself (b) Macavity: The Mystery Cat (c) Sweeterst Love I Do Not Goe (d) Fire-Hymn.",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: (क) सॉन्ग ऑफ माईसेल्फ (ख) मैकाविटी: द मिस्ट्री कैट (ग) स्वीटेस्ट लव आई डू नॉट गो (घ) फायर-हाइमन।"
+    }
+  ],
+  "2018": [
     {
-      "id": "obj_93",
+      "id": "obj_19",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "'Some of the immediate and brilliant results of modern inventions are too maddening to resist.' is from ............... (Choose the correct option)",
-      "prashna": "'आधुनिक आविष्कारों के कुछ तात्कालिक और शानदार परिणाम विरोध करने के लिए बहुत उन्मादपूर्ण हैं।' कहाँ से है: (सही विकल्प चुनें)",
+      "question": "Wordsworth saw a host of daffodils beside the ........ (Choose the suitable option)",
+      "prashna": "वर्ड्सवर्थ ने ........ के पास डैफोडिल्स का एक झुंड देखा (उपयुक्त विकल्प चुनें)",
       "options": {
-        "A": "Bharat is My Home",
-        "B": "A Pinch of Snuff",
-        "C": "Indian Civilization and Culture",
-        "D": "Ideas That Have Helped Mankind"
+        "A": "river",
+        "B": "lake",
+        "C": "sea",
+        "D": "hill"
       },
       "vikalpa": {
-        "A": "भारत इज माय होम",
-        "B": "ए पिंच ऑफ स्नफ",
-        "C": "इंडियन सिविलाइजेशन एंड कल्चर",
-        "D": "आइडियाज़ दैट हैव हेल्प्ड मैनकाइंड"
+        "A": "नदी",
+        "B": "झील",
+        "C": "समुद्र",
+        "D": "पहाड़ी"
       }
     }
   ],
-  "2022": [
+  "2019": [
     {
-      "id": "obj_12",
+      "id": "objective_43",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "He is bent ............ ruining himself. (Choose the correct preposition)",
-      "prashna": "वह खुद को बर्बाद करने ............ तुला हुआ है। (सही प्रीपोजिशन चुनें)",
+      "question": "Dr. Radhakrishan never lost his faith in the .................... (Choose the correct option)",
       "options": {
-        "A": "in",
-        "B": "from",
-        "C": "against",
-        "D": "on"
+        "A": "essential wealth",
+        "B": "essential humanity of man",
+        "C": "essential knowledge",
+        "D": "essential experience"
       },
-      "vikalpa": {
-        "A": "in",
-        "B": "from",
-        "C": "against",
-        "D": "on"
-      }
-    },
+      "answer": "B"
+    }
+  ],
+  "2020": [
     {
-      "id": "obj_15",
+      "id": "obj_3",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "For me, breakfast is ............ best meal of the day. (Choose the correct article)",
-      "prashna": "मेरे लिए, नाश्ता दिन का ............ सबसे अच्छा भोजन है। (सही आर्टिकल चुनें)",
+      "question": "Please give me..........cake that is on the table. (Choose the correct article)",
+      "prashna": "कृपया मुझे वह केक दें जो मेज पर है। (सही आर्टिकल चुनें)",
       "options": {
         "A": "a",
         "B": "an",
@@ -136,317 +88,276 @@
       }
     },
     {
-      "id": "obj_21",
+      "id": "obj_49",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "The judge declared the person guilty of all the charges. (Choose the correct antonym of the underlined word)",
-      "prashna": "न्यायाधीश ने व्यक्ति को सभी आरोपों का दोषी घोषित किया। (रेखांकित शब्द का सही विलोम चुनें)",
+      "question": "\"The Wasteland\" is written by (Choose the correct option)",
+      "prashna": "\"The Wasteland\" किसके द्वारा लिखा गया है? (सही विकल्प चुनें)",
       "options": {
-        "A": "easy",
-        "B": "innocent",
-        "C": "rival",
-        "D": "simple"
+        "A": "T.S. Eliot",
+        "B": "W.H. Auden",
+        "C": "S.T. Coleridge",
+        "D": "John Donne"
       },
       "vikalpa": {
-        "A": "आसान",
-        "B": "निर्दोष",
-        "C": "प्रतिद्वंद्वी",
-        "D": "सरल"
+        "A": "टी.एस. इलियट",
+        "B": "डब्ल्यू.एच. ऑडेन",
+        "C": "एस.टी. कोलरिज",
+        "D": "जॉन डोने"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "Pravin rode straight ............... the arena. (Choose the correct preposition)",
+      "prashna": "प्रवीण सीधे अखाड़े ............... गया। (सही प्रीपोज़िशन चुनें)",
+      "options": {
+        "A": "into",
+        "B": "in",
+        "C": "with",
+        "D": "at"
+      },
+      "vikalpa": {
+        "A": "में (गति के साथ)",
+        "B": "में",
+        "C": "साथ",
+        "D": "पर"
       }
     },
     {
-      "id": "obj_24",
+      "id": "obj_41",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "We like ............ music very much. (Choose the correct option)",
-      "prashna": "हमें ............ संगीत बहुत पसंद है। (सही विकल्प चुनें)",
+      "question": "Rules ............... be observed at all costs. (Choose the correct auxiliary verb)",
+      "prashna": "नियमों का हर कीमत पर पालन ............... किया जाना चाहिए। (सही सहायक क्रिया चुनें)",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
+        "A": "should",
+        "B": "can",
+        "C": "might",
+        "D": "may"
       },
       "vikalpa": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "कोई आर्टिकल नहीं"
+        "A": "चाहिए (should)",
+        "B": "सकते हैं",
+        "C": "शायद",
+        "D": "सकते हैं"
       }
     },
     {
-      "id": "obj_55",
+      "id": "obj_45",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "Each child ............ an ice-cream. (Choose the correct option)",
-      "prashna": "प्रत्येक बच्चे ............ एक आइसक्रीम। (सही विकल्प चुनें)",
+      "question": "He is happy of being here. (Choose the correct antonym of the underlined word)",
+      "prashna": "वह यहाँ आकर खुश (happy) है। (रेखांकित शब्द का सही विलोम चुनें)",
       "options": {
-        "A": "has",
-        "B": "have",
-        "C": "are",
-        "D": "such"
+        "A": "First",
+        "B": "Sad",
+        "C": "Jolly",
+        "D": "Excited"
       },
       "vikalpa": {
-        "A": "has",
-        "B": "have",
-        "C": "are",
-        "D": "such"
+        "A": "प्रथम",
+        "B": "दुखी (Sad)",
+        "C": "हंसमुख",
+        "D": "उत्साहित"
       }
     },
     {
-      "id": "obj_68",
+      "id": "obj_46",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "Martin Luther King was the youngest person to receive the ............ in 1964.",
-      "prashna": "मार्टिन लूथर किंग 1964 में ............ प्राप्त करने वाले सबसे कम उम्र के व्यक्ति थे।",
+      "question": "Ram said to Shyam, \"What are you reading ?\" (Choose the correct indirect narration)",
+      "prashna": "राम ने श्याम से कहा, \"तुम क्या पढ़ रहे हो?\" (सही अप्रत्यक्ष कथन चुनें)",
       "options": {
-        "A": "Booker Prize",
-        "B": "Nobel Prize",
-        "C": "National Award for Innovation",
-        "D": "Ibrahim Prize for Achievement"
+        "A": "Ram asked Shyam what he was reading",
+        "B": "Ram told Shyam what he is reading",
+        "C": "Ram is asking Shyam about his reading book",
+        "D": "Ram said to Shyam as what he was reading"
       },
       "vikalpa": {
-        "A": "बुकर पुरस्कार",
-        "B": "नोबेल पुरस्कार",
-        "C": "नवाचार के लिए राष्ट्रीय पुरस्कार",
-        "D": "उपलब्धि के लिए इब्राहिम पुरस्कार"
+        "A": "राम ने श्याम से पूछा कि वह क्या पढ़ रहा था",
+        "B": "राम ने श्याम को बताया कि वह क्या पढ़ रहा है",
+        "C": "राम श्याम से उसकी पढ़ने वाली किताब के बारे में पूछ रहा है",
+        "D": "राम ने श्याम से कहा कि वह क्या पढ़ रहा था"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "Choose the incorrect sentence :",
+      "prashna": "गलत वाक्य चुनें :",
+      "options": {
+        "A": "Holi falls in March.",
+        "B": "Do you like cricket ?",
+        "C": "He speaks English.",
+        "D": "We saw deers in the zoo."
+      },
+      "vikalpa": {
+        "A": "होली मार्च में आती है।",
+        "B": "क्या आपको क्रिकेट पसंद है?",
+        "C": "वह अंग्रेजी बोलता है।",
+        "D": "हमने चिड़ियाघर में हिरण (deers - plural is deer) देखे।"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "One who dies for a noble cause is a ............... (Choose the correct option)",
+      "prashna": "जो नेक काम के लिए मरता है वह ............... होता है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "Martyr",
+        "B": "Patriot",
+        "C": "Mercenary",
+        "D": "Robber"
+      },
+      "vikalpa": {
+        "A": "शहीद (Martyr)",
+        "B": "देशभक्त",
+        "C": "किराये का सैनिक",
+        "D": "लुटेरा"
       }
     },
     {
       "id": "obj_78",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "The Great Vowel Shift brought about a series of changes in the ............ of the English long vowels.",
-      "prashna": "ग्रेट वॉवेल शिफ्ट ने अंग्रेजी के लंबे स्वरों के ............ में बदलाव की एक श्रृंखला लाई।",
+      "question": "............... is remembered as a war poet. (Choose the correct option)",
+      "prashna": "............... को युद्ध कवि के रूप में याद किया जाता है। (सही विकल्प चुनें)",
       "options": {
-        "A": "spelling",
-        "B": "pronunciation",
-        "C": "oral",
-        "D": "written"
+        "A": "Rupert Brooke",
+        "B": "T. S. Eliot",
+        "C": "D. H. Lawrence",
+        "D": "Walter de la Mare"
       },
       "vikalpa": {
-        "A": "वर्तनी",
-        "B": "उच्चारण",
-        "C": "मौखिक",
-        "D": "लिखित"
+        "A": "रूपर्ट ब्रुक",
+        "B": "टी. एस. एलियट",
+        "C": "डी. एच. लॉरेंस",
+        "D": "वॉल्टर डी ला मेयर"
       }
     },
     {
-      "id": "obj_79",
+      "id": "obj_86",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "The printing technology was introduced in England in the year",
-      "prashna": "इंग्लैंड में छपाई तकनीक किस वर्ष शुरू की गई थी?",
+      "question": "'The people have chosen to make me the head of this family for a certain time.' Who says this ?",
+      "prashna": "'लोगों ने मुझे एक निश्चित समय के लिए इस परिवार का मुखिया बनाने के लिए चुना है।' यह कौन कहता है?",
       "options": {
-        "A": "1066",
-        "B": "1857",
-        "C": "1476",
-        "D": "1605"
+        "A": "Dr. Zakir Hussain",
+        "B": "Kamala Das",
+        "C": "Pearl S. Buck",
+        "D": "Manohar Malgaonkar"
       },
       "vikalpa": {
-        "A": "1066",
-        "B": "1857",
-        "C": "1476",
-        "D": "1605"
+        "A": "डॉ. जाकिर हुसैन",
+        "B": "कमला दास",
+        "C": "पर्ल एस. बक",
+        "D": "मनोहर मालगांवकर"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "'He lifted his head from his drinking' is from :",
+      "prashna": "'ही लिफ्टेड हिज हेड फ्रॉम हिज ड्रिंकिंग' कहाँ से है:",
+      "options": {
+        "A": "Snake",
+        "B": "Song of Myself",
+        "C": "Ode to Autumn",
+        "D": "An Epitaph"
+      },
+      "vikalpa": {
+        "A": "स्नेक",
+        "B": "सॉन्ग ऑफ मायसेल्फ",
+        "C": "ओड टू ऑटम",
+        "D": "एन एपिटाफ"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "Who has violated the tradition of religion by cremating ?",
+      "prashna": "किसने दाह संस्कार करके धर्म की परंपरा का उल्लंघन किया है?",
+      "options": {
+        "A": "D. H. Lawrence",
+        "B": "Kamala Das",
+        "C": "Keki N. Daruwala",
+        "D": "T. S. Eliot"
+      },
+      "vikalpa": {
+        "A": "डी. एच. लॉरेंस",
+        "B": "कमला दास",
+        "C": "केकी एन. दारूवाला",
+        "D": "टी. एस. इलियट"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "\"Fancy a lad spending his time playing around like that with gourds !\" — is from",
+      "prashna": "\"कल्पना कीजिए कि एक लड़का अपना समय कद्दू (gourds) के साथ इस तरह खेलते हुए बिता रहा है!\" — यह कहाँ से है?",
+      "options": {
+        "A": "The Earth",
+        "B": "A Marriage Proposal",
+        "C": "A Child is Born",
+        "D": "The Artist"
+      },
+      "vikalpa": {
+        "A": "द अर्थ",
+        "B": "अ मैरिज प्रपोजल",
+        "C": "अ चाइल्ड इज बोर्न",
+        "D": "द आर्टिस्ट"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_9",
+      "id": "obj_92",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "Blow his own trumpet means: (Choose the correct meaning)",
-      "prashna": "अपने मुँह मियाँ मिट्ठू बनना (Blow his own trumpet) का अर्थ है: (सही अर्थ चुनें)",
+      "question": "One who writes a drama is called..............",
+      "prashna": "जो नाटक लिखता है उसे .............. कहा जाता है।",
       "options": {
-        "A": "flatter",
-        "B": "discuss",
-        "C": "praise others",
-        "D": "praise one's own self"
+        "A": "Essayist",
+        "B": "Novelist",
+        "C": "Comedian",
+        "D": "Playwight"
       },
       "vikalpa": {
-        "A": "चापलूसी करना",
-        "B": "चर्चा करना",
-        "C": "दूसरों की प्रशंसा करना",
-        "D": "स्वयं की प्रशंसा करना"
+        "A": "निबंधकार",
+        "B": "उपन्यासकार",
+        "C": "कॉमेडियन",
+        "D": "नाटककार (Playwight)"
       }
     },
     {
-      "id": "obj_10",
+      "id": "obj_94",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "Choose the correct spelling:",
-      "prashna": "सही वर्तनी चुनें:",
+      "question": "According to Auden, human life is no better than........",
+      "prashna": "ऑडेन के अनुसार, मानव जीवन ........ से बेहतर नहीं है।",
       "options": {
-        "A": "Animate",
-        "B": "Anumete",
-        "C": "Anemate",
-        "D": "Aniumate"
+        "A": "dream",
+        "B": "death",
+        "C": "journey",
+        "D": "sleep"
       },
       "vikalpa": {
-        "A": "Animate",
-        "B": "Anumete",
-        "C": "Anemate",
-        "D": "Aniumate"
+        "A": "सपना",
+        "B": "मृत्यु (death)",
+        "C": "यात्रा",
+        "D": "नींद"
       }
-    },
-    {
-      "id": "obj_18",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": ".........you decided yet? (Choose the correct option)",
-      "prashna": ".........क्या आपने अभी तक फैसला किया है? (सही विकल्प चुनें)",
-      "options": {
-        "A": "Has",
-        "B": "Do",
-        "C": "Did",
-        "D": "Have"
-      },
-      "vikalpa": {
-        "A": "Has",
-        "B": "Do",
-        "C": "Did",
-        "D": "Have"
-      }
-    },
-    {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "Choose the correctly spelt word",
-      "prashna": "सही वर्तनी वाले शब्द का चयन करें",
-      "options": {
-        "A": "Bouquete",
-        "B": "Bouquet",
-        "C": "Beuquete",
-        "D": "Bouquette"
-      },
-      "vikalpa": {
-        "A": "Bouquete",
-        "B": "Bouquet",
-        "C": "Beuquete",
-        "D": "Bouquette"
-      }
-    },
-    {
-      "id": "obj_37",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "I haven't seen him in............five years. (Choose the correct option)",
-      "prashna": "मैंने उसे ............ पाँच वर्षों में नहीं देखा है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
-      },
-      "vikalpa": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
-      }
-    },
-    {
-      "id": "obj_39",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "The government by the representatives of the people is called....... (Choose the correct option)",
-      "prashna": "जनता के प्रतिनिधियों द्वारा शासन को ....... कहा जाता है (सही विकल्प चुनें)",
-      "options": {
-        "A": "Autocracy",
-        "B": "Democracy",
-        "C": "Socialism",
-        "D": "Anarchy"
-      },
-      "vikalpa": {
-        "A": "निरंकुशता",
-        "B": "लोकतंत्र (Democracy)",
-        "C": "समाजवाद",
-        "D": "अराजकता"
-      }
-    },
-    {
-      "id": "obj_50",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "Shah Jahan........... the Taj Mahal. (Choose the correct option)",
-      "prashna": "शाहजहाँ ने ताजमहल ...........। (सही विकल्प चुनें)",
-      "options": {
-        "A": "builded",
-        "B": "will build",
-        "C": "building",
-        "D": "built"
-      },
-      "vikalpa": {
-        "A": "builded",
-        "B": "बनाएंगे",
-        "C": "बना रहे हैं",
-        "D": "बनवाया (built)"
-      }
-    },
-    {
-      "id": "obj_54",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "He requested me to keep the door open. (Choose the correct direct narration)",
-      "prashna": "उसने मुझसे दरवाजा खुला रखने का अनुरोध किया। (सही डायरेक्ट नरेशन चुनें)",
-      "options": {
-        "A": "He said to me. \"Please keep the door open\".",
-        "B": "He says, \"Keep the door open.\"",
-        "C": "He will say, \"Keep the door open.\"",
-        "D": "He said. \"Do not keep the door open.\""
-      },
-      "vikalpa": {
-        "A": "He said to me. \"Please keep the door open\".",
-        "B": "He says, \"Keep the door open.\"",
-        "C": "He will say, \"Keep the door open.\"",
-        "D": "He said. \"Do not keep the door open.\""
-      }
-    },
-    {
-      "id": "obj_79",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "The Great Vowel Shift took place during..........",
-      "prashna": "ग्रेट वॉवेल शिफ्ट .......... के दौरान हुआ था।",
-      "options": {
-        "A": "Modern English",
-        "B": "Old English",
-        "C": "Middle English",
-        "D": "Post-modern English"
-      },
-      "vikalpa": {
-        "A": "आधुनिक अंग्रेजी",
-        "B": "पुरानी अंग्रेजी",
-        "C": "मध्य अंग्रेजी (Middle English)",
-        "D": "उत्तर-आधुनिक अंग्रेजी"
-      }
-    },
-    {
-      "id": "obj_87",
-      "type": "objective",
-      "chapter_name": "The Rattrap",
-      "question": "Lomov asked for.............hand in marriage.",
-      "prashna": "लोमोव ने शादी में ............. का हाथ मांगा।",
-      "options": {
-        "A": "Matalia's",
-        "B": "Satalia's",
-        "C": "Natalia's",
-        "D": "Ratalia's"
-      },
-      "vikalpa": {
-        "A": "मताल्या का",
-        "B": "सताल्या का",
-        "C": "नताल्या का (Natalia's)",
-        "D": "रताल्या का"
-      }
-    },
-    {
-      "id": "short_1",
-      "type": "short_answer",
-      "chapter_name": "The Rattrap",
-      "question": "Answer any five of the following in about 40-50 words each:\n(a) How did Seibei's father react to the teacher's complaint?\n(b) What are the 'trials and tribulations' Martin Luther King, Jr. talks about?\n(c) Why were the intellectuals in India restless and embittered?\n(d) How is Lomov greeted by Choobookov?\n(e) How do sighing and weeping affect the speaker?\n(f) What does the poet Walt Whitman want to do with creeds?\n(g) How do we complete our last journey to the grave?\n(h) Who is called the 'Father of the Modern Novel’?\n(i) What is the dramatic structure of a tragedy?\n(j) What did the 18th century grammarians think about their role?",
-      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:\n(a) शिक्षक की शिकायत पर सेईबेई के पिता ने क्या प्रतिक्रिया दी?\n(b) वे 'परीक्षण और क्लेश' (trials and tribulations) क्या हैं जिनके बारे में मार्टिन लूथर किंग जूनियर बात करते हैं?\n(c) भारत में बुद्धिजीवी अशांत और कटु क्यों थे?\n(d) चुबुकोव ने लोमोव का स्वागत कैसे किया?\n(e) आहें भरना और रोना वक्ता को कैसे प्रभावित करता है?\n(f) कवि वॉल्ट व्हिटमैन पंथों (creeds) के साथ क्या करना चाहते हैं?\n(g) हम कब्र तक अपनी अंतिम यात्रा कैसे पूरी करते हैं?\n(h) 'आधुनिक उपन्यास का पिता' किसे कहा जाता है?\n(i) त्रासदी (tragedy) की नाटकीय संरचना क्या है?\n(j) 18वीं शताब्दी के व्याकरणविदों ने अपनी भूमिका के बारे में क्या सोचा?"
     },
     {
       "id": "long_3_3",
@@ -458,41 +369,60 @@
   ],
   "2024": [
     {
-      "id": "obj_4",
+      "id": "obj_1",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "She is very dull. She cannot pass. (Choose the best combination)",
-      "prashna": "वह बहुत सुस्त है। वह पास नहीं हो सकती। (सबसे अच्छा संयोजन चुनें)",
+      "question": "Give me something to eat .......... I shall die of hunger. (Choose the correct option)",
+      "prashna": "मुझे खाने के लिए कुछ दो .......... मैं भूख से मर जाऊँगा। (सही विकल्प चुनें)",
       "options": {
-        "A": "She is too dull to pass",
-        "B": "To pass is she too dull",
-        "C": "Dull is she too to pass",
-        "D": "Too dull is to pass she"
+        "A": "else",
+        "B": "can",
+        "C": "for",
+        "D": "but"
       },
       "vikalpa": {
-        "A": "वह पास होने के लिए बहुत सुस्त है",
-        "B": "पास होने के लिए वह बहुत सुस्त है",
-        "C": "सुस्त है वह भी पास होने के लिए",
-        "D": "बहुत सुस्त है पास होना उसे"
+        "A": "अन्यथा",
+        "B": "सकना",
+        "C": "के लिए",
+        "D": "लेकिन"
       }
     },
     {
-      "id": "obj_33",
+      "id": "obj_13",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "He said that he ........... be there. (Choose the correct option)",
-      "prashna": "उसने कहा कि वह वहाँ ...........। (सही विकल्प चुनें)",
+      "question": "Do what you want to do, ........... don't disturb me. (Choose the correct option)",
+      "prashna": "जो तुम करना चाहते हो करो, ........... मुझे परेशान मत करो। (सही विकल्प चुनें)",
       "options": {
-        "A": "would",
-        "B": "need",
-        "C": "can",
-        "D": "want"
+        "A": "though",
+        "B": "that",
+        "C": "but",
+        "D": "so"
       },
       "vikalpa": {
-        "A": "होगा/होता",
-        "B": "ज़रूरत",
-        "C": "सकना",
-        "D": "चाहना"
+        "A": "यद्यपि",
+        "B": "कि",
+        "C": "लेकिन",
+        "D": "इसलिए"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "We ........... be quiet in the library. (Choose the correct option)",
+      "prashna": "हमें पुस्तकालय में शांत ........... चाहिए। (सही विकल्प चुनें)",
+      "options": {
+        "A": "mustn't",
+        "B": "doesn't have to",
+        "C": "doesn't",
+        "D": "must"
+      },
+      "vikalpa": {
+        "A": "नहीं चाहिए",
+        "B": "नहीं करना पड़ता",
+        "C": "नहीं करता",
+        "D": "अवश्य"
       }
     },
     {
@@ -515,108 +445,139 @@
       }
     },
     {
-      "id": "obj_89",
+      "id": "obj_60",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "........... stops and hinders our progress.",
-      "prashna": "........... हमारी प्रगति को रोकता और बाधित करता है।",
+      "question": "The antonym of 'Duplicate' is",
+      "prashna": "'Duplicate' का विलोम शब्द है",
       "options": {
-        "A": "Education",
-        "B": "Poverty",
-        "C": "Class",
-        "D": "Politics"
+        "A": "Copy",
+        "B": "Original",
+        "C": "Clone",
+        "D": "Photo"
       },
       "vikalpa": {
-        "A": "शिक्षा",
-        "B": "गरीबी",
-        "C": "वर्ग",
-        "D": "राजनीति"
+        "A": "प्रतिलिपि",
+        "B": "असली/मौलिक",
+        "C": "क्लोन",
+        "D": "फोटो"
       }
     },
     {
-      "id": "obj_94",
+      "id": "obj_75",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "Wycliff and Langland are writers of the ........... period.",
-      "prashna": "वाइक्लिफ और लैंगलैंड ........... काल के लेखक हैं।",
+      "question": "The ........... would not be satisfied until justice rolled down like water.",
+      "prashna": "........... तब तक संतुष्ट नहीं होंगे जब तक न्याय पानी की तरह नीचे नहीं गिर जाता।",
       "options": {
-        "A": "Old English",
-        "B": "Middle English",
-        "C": "Modern English",
-        "D": "Post-modern English"
+        "A": "Americans",
+        "B": "Negroes",
+        "C": "Europeans",
+        "D": "Indians"
       },
       "vikalpa": {
-        "A": "पुरानी अंग्रेजी",
-        "B": "मध्य अंग्रेजी",
-        "C": "आधुनिक अंग्रेजी",
-        "D": "उत्तर-आधुनिक अंग्रेजी"
+        "A": "अमेरिकी",
+        "B": "नीग्रो",
+        "C": "यूरोपीय",
+        "D": "भारतीय"
       }
     },
     {
-      "id": "obj_100",
+      "id": "obj_86",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "“In a series of memorable pictures, John Keats exhibits the principle of ........... in nature.”",
-      "prashna": "“यादगार चित्रों की एक श्रृंखला में, जॉन कीट्स प्रकृति में ........... के सिद्धांत को प्रदर्शित करते हैं।”",
+      "question": "The Soldier is a / an",
+      "prashna": "द सोल्जर एक ........... है",
       "options": {
-        "A": "scarcity",
-        "B": "beauty",
-        "C": "maturity",
-        "D": "immaturity"
+        "A": "sonnet",
+        "B": "ballad",
+        "C": "epic",
+        "D": "lyric"
       },
       "vikalpa": {
-        "A": "कमी",
-        "B": "सुंदरता",
-        "C": "परिपक्वता",
-        "D": "अपरिपक्वता"
+        "A": "सॉनेट (14 पंक्तियों की कविता)",
+        "B": "गाथागीत",
+        "C": "महाकाव्य",
+        "D": "गीत काव्य"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "The Rattrap",
+      "question": "“That thou lov’st me, as thou say’st,’ is from",
+      "prashna": "“कि तुम मुझसे प्यार करते हो, जैसा तुम कहते हो,” यह कहाँ से है?",
+      "options": {
+        "A": "Snake",
+        "B": "An Epitaph",
+        "C": "Song of Myself",
+        "D": "Sweetest Love, I Do Not Goe"
+      },
+      "vikalpa": {
+        "A": "Snake",
+        "B": "An Epitaph",
+        "C": "Song of Myself",
+        "D": "Sweetest Love, I Do Not Goe"
       }
     }
   ],
   "2025": [
     {
-      "id": "obj_5",
+      "id": "obj_7",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "The antonym of 'Urban' is",
-      "prashna": "'Urban' का विलोम शब्द है",
+      "question": "He declared his .........",
+      "prashna": "उसने अपनी ......... घोषित की",
       "options": {
-        "A": "Rustic",
-        "B": "Rural",
-        "C": "Civil",
-        "D": "Foreign"
+        "A": "innocence",
+        "B": "innocently",
+        "C": "innocent",
+        "D": "by innocent"
       },
       "vikalpa": {
-        "A": "Rustic",
-        "B": "Rural",
-        "C": "Civil",
-        "D": "Foreign"
+        "A": "innocence",
+        "B": "innocently",
+        "C": "innocent",
+        "D": "by innocent"
       }
     },
     {
-      "id": "obj_49",
+      "id": "obj_54",
       "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "He is the ......... of the two brothers.",
-      "prashna": "वह दोनों भाइयों में से ......... है।",
+      "question": "Smita is rich. Smita is a miser. (Choose the correct combination)",
+      "prashna": "स्मिता अमीर है। स्मिता कंजूस है। (सही संयोजन चुनें)",
       "options": {
-        "A": "younger",
-        "B": "more young",
-        "C": "young",
-        "D": "youngest"
+        "A": "Smita is rich, still she is not a miser",
+        "B": "Smita is rich, still she is a miser",
+        "C": "Smita is not rich, still she is a miser",
+        "D": "Smita is rich, still she was a miser"
       },
       "vikalpa": {
-        "A": "छोटा",
-        "B": "अधिक जवान",
-        "C": "जवान",
-        "D": "सबसे छोटा"
+        "A": "स्मिता अमीर है, फिर भी वह कंजूस नहीं है",
+        "B": "स्मिता अमीर है, फिर भी वह कंजूस है",
+        "C": "स्मिता अमीर नहीं है, फिर भी वह कंजूस है",
+        "D": "स्मिता अमीर है, फिर भी वह कंजूस थी"
       }
     },
     {
-      "id": "long_1",
-      "type": "long_answer",
+      "id": "obj_68",
+      "type": "objective",
       "chapter_name": "The Rattrap",
-      "question": "Write the summary of any one of the following poems : i) My Grandmother's House ii) Ode to Autumn iii) Snake.",
-      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: i) My Grandmother's House ii) Ode to Autumn iii) Snake."
+      "question": "Who wrote 'Endymion' and 'Hyperion' ?",
+      "prashna": "'Endymion' और 'Hyperion' किसने लिखा है?",
+      "options": {
+        "A": "William Wordsworth",
+        "B": "P. B. Shelley",
+        "C": "John Keats",
+        "D": "S. T. Coleridge"
+      },
+      "vikalpa": {
+        "A": "विलियम वर्ड्सवर्थ",
+        "B": "पी. बी. शेली",
+        "C": "जॉन कीट्स",
+        "D": "एस. टी. कोलेरिज"
+      }
     }
   ]
 }

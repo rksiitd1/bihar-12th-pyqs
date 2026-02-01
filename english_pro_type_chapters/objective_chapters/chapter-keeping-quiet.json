@@ -1,121 +1,553 @@
 {
-  "2021": [
+  "2018": [
     {
-      "id": "obj_40",
+      "id": "obj_5",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "I cannot give you money, ............... I have none. (Choose the correct option)",
-      "prashna": "मैं तुम्हें पैसे नहीं दे सकता, ............... मेरे पास कोई नहीं है। (सही विकल्प चुनें)",
+      "question": "Choose the suitable meaning of the phrase: 'at the eleventh hour'",
+      "prashna": "मुहावरे का उपयुक्त अर्थ चुनें: 'at the eleventh hour'",
       "options": {
-        "A": "for",
-        "B": "and",
-        "C": "if",
-        "D": "by"
+        "A": "at the very beginning",
+        "B": "at the very last",
+        "C": "at once",
+        "D": "once upon a time"
       },
       "vikalpa": {
-        "A": "क्योंकि (for)",
-        "B": "और",
-        "C": "यदि",
-        "D": "द्वारा"
+        "A": "बिल्कुल शुरुआत में",
+        "B": "बिल्कुल अंत में",
+        "C": "एकदम से",
+        "D": "एक समय की बात है"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Who wrote the poem 'Everyone Sang'? (Choose the suitable option)",
+      "prashna": "'Everyone Sang' कविता किसने लिखी थी? (उपयुक्त विकल्प चुनें)",
+      "options": {
+        "A": "Siegfried Sassoon",
+        "B": "W. B. Yeats",
+        "C": "T. S. Eliot",
+        "D": "William Wordsworth"
+      },
+      "vikalpa": {
+        "A": "सिगफ्रीड सैसून",
+        "B": "डब्ल्यू. बी. येट्स",
+        "C": "टी. एस. एलियट",
+        "D": "विलियम वर्ड्सवर्थ"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_17",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Choose the correctly spelt word -",
+      "options": {
+        "A": "Committee",
+        "B": "Commiitee",
+        "C": "Comittee",
+        "D": "Cumittee"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_19",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Either of the two .................... acceptable. (Choose the best option)",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "have",
+        "D": "has"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_23",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "\"What do you want?\", she asked him. (Choose the correct indirect narration)",
+      "options": {
+        "A": "She asks what he wants.",
+        "B": "She asked him what he wanted.",
+        "C": "She will ask what he wants.",
+        "D": "She asked what he had wanted."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_39",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "'Macbeth' and 'Julius Caesar' are written by .................... (Choose the correct option)",
+      "options": {
+        "A": "Johnson",
+        "B": "Goldsmith",
+        "C": "Shakespeare",
+        "D": "Sheridan"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "objective_47",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "'Savitri' is written by .................... (Choose the correct option)",
+      "options": {
+        "A": "Aurobindo Ghosh",
+        "B": "Sarojini Naidu",
+        "C": "Rabindranath Tagore",
+        "D": "Toru Dutt"
+      },
+      "answer": "A"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Choose the correct sentence:",
+      "prashna": "सही वाक्य चुनें:",
+      "options": {
+        "A": "She want three egg.",
+        "B": "She wants three egg",
+        "C": "She wanting three eggs",
+        "D": "She wants three eggs"
+      },
+      "vikalpa": {
+        "A": "She want three egg.",
+        "B": "She wants three egg",
+        "C": "She wanting three eggs",
+        "D": "She wants three eggs"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "\"And the nightingale is dumb\" is from (Choose the correct option)",
+      "prashna": "\"And the nightingale is dumb\" किस कविता से है (सही विकल्प चुनें)",
+      "options": {
+        "A": "Fire-Hymn",
+        "B": "Ode to Autumn",
+        "C": "Now the Leaves are Falling Fast",
+        "D": "Seetest Love I Do Not Goe"
+      },
+      "vikalpa": {
+        "A": "Fire-Hymn",
+        "B": "Ode to Autumn",
+        "C": "Now the Leaves are Falling Fast",
+        "D": "Seetest Love I Do Not Goe"
       }
     },
     {
       "id": "obj_47",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "Choose the correctly spelt word :",
-      "prashna": "सही वर्तनी वाले शब्द को चुनें :",
+      "question": "Bertrand Russell was awarded Nobel Prize in literature in (Choose the correct option)",
+      "prashna": "बर्ट्रेंड रसेल को साहित्य में नोबेल पुरस्कार कब दिया गया था? (सही विकल्प चुनें)",
       "options": {
-        "A": "Exhebition",
-        "B": "Exibition",
-        "C": "Exhibition",
-        "D": "Exabition"
+        "A": "1956",
+        "B": "1952",
+        "C": "1950",
+        "D": "1953"
       },
       "vikalpa": {
-        "A": "Exhebition",
-        "B": "Exibition",
-        "C": "प्रदर्शनी (Exhibition)",
-        "D": "Exabition"
+        "A": "1956",
+        "B": "1952",
+        "C": "1950",
+        "D": "1953"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "I will never forget this experience. (Choose the correct passive voice)",
+      "prashna": "मैं इस अनुभव को कभी नहीं भूलूँगा। (सही पैसिव वॉयस चुनें)",
+      "options": {
+        "A": "This experience cannot be forgotten by me",
+        "B": "This experience would never be forgotten by me",
+        "C": "This experience will never be forgotten by me",
+        "D": "This experience had never been forgotten by me"
+      },
+      "vikalpa": {
+        "A": "यह अनुभव मेरे द्वारा नहीं भूला जा सकता",
+        "B": "यह अनुभव मेरे द्वारा कभी नहीं भूला जाएगा (would)",
+        "C": "यह अनुभव मेरे द्वारा कभी नहीं भूला जाएगा (will)",
+        "D": "यह अनुभव मेरे द्वारा कभी नहीं भूला गया था"
       }
     },
     {
-      "id": "obj_64",
+      "id": "obj_63",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "'In hearts at peace, under an English heaven' is from :",
-      "prashna": "'इन हार्ट्स एट पीस, अंडर एन इंग्लिश हेवन' कहाँ से लिया गया है?",
+      "question": "'And when I crumble, who will remember.' Who is 'I' in the line ?",
+      "prashna": "'एंड व्हेन आई क्रम्बल, हू विल रिमेम्बर।' पंक्ति में 'I' (मैं) कौन है?",
       "options": {
-        "A": "Ode to Autumn",
-        "B": "Snake",
-        "C": "An Epitaph",
-        "D": "The Soldier"
+        "A": "Poet",
+        "B": "Lady",
+        "C": "Child",
+        "D": "Mother"
       },
       "vikalpa": {
-        "A": "ओड टू ऑटम",
-        "B": "स्नेक",
-        "C": "एन एपिटाफ",
-        "D": "द सोल्जर"
+        "A": "कवि (Poet)",
+        "B": "महिला",
+        "C": "बच्चा",
+        "D": "माँ"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "\"Civilization is that mode of conduct which points out to man the path of duty.\" is from :",
+      "prashna": "\"सभ्यता आचरण की वह विधा है जो मनुष्य को कर्तव्य का मार्ग बताती है।\" कहाँ से है:",
+      "options": {
+        "A": "Indian Civilization and Culture",
+        "B": "A Child is Born",
+        "C": "A Marriage Proposal",
+        "D": "Bharat is My Home"
+      },
+      "vikalpa": {
+        "A": "इंडियन सिविलाइजेशन एंड कल्चर",
+        "B": "ए चाइल्ड इज बोर्न",
+        "C": "ए मैरिज प्रपोजल",
+        "D": "भारत इज माय होम"
       }
     }
   ],
   "2022": [
     {
-      "id": "obj_98",
+      "id": "obj_5",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "The images and praises of ............ run through the poem 'The Soldier'.",
-      "prashna": "कविता 'द सोल्जर' में ............ की छवियां और प्रशंसाएँ समाहित हैं।",
+      "question": "I wish he ............ get well soon. (Choose the correct auxiliary verb)",
+      "prashna": "काश वह ............ जल्द ही ठीक हो जाए। (सही सहायक क्रिया चुनें)",
       "options": {
-        "A": "The USA",
-        "B": "Australia",
-        "C": "France",
-        "D": "England"
+        "A": "would",
+        "B": "should",
+        "C": "can",
+        "D": "used"
       },
       "vikalpa": {
-        "A": "अमेरिका",
-        "B": "ऑस्ट्रेलिया",
-        "C": "फ्रांस",
-        "D": "इंग्लैंड"
+        "A": "would",
+        "B": "should",
+        "C": "can",
+        "D": "used"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "I ............ taken my camera. (Choose the correct option)",
+      "prashna": "मैंने अपना कैमरा ............ लिया है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "is",
+        "D": "does"
+      },
+      "vikalpa": {
+        "A": "have",
+        "B": "has",
+        "C": "is",
+        "D": "does"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "All coming and going ............ forbidden. (Choose the correct option)",
+      "prashna": "आने-जाने की सभी गतिविधियां ............ वर्जित थीं। (सही विकल्प चुनें)",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "has",
+        "D": "have"
+      },
+      "vikalpa": {
+        "A": "was",
+        "B": "were",
+        "C": "has",
+        "D": "have"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Let this be done by me. (Choose the correct active voice)",
+      "prashna": "इसे मेरे द्वारा किया जाने दें। (सही एक्टिव वॉयस चुनें)",
+      "options": {
+        "A": "Let us do this",
+        "B": "This is to be done by me",
+        "C": "Let me do this",
+        "D": "Let I do this"
+      },
+      "vikalpa": {
+        "A": "Let us do this",
+        "B": "This is to be done by me",
+        "C": "Let me do this",
+        "D": "Let I do this"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "How ............ do you want ? (Choose the correct option)",
+      "prashna": "आप ............ कितना चाहते हैं? (सही विकल्प चुनें)",
+      "options": {
+        "A": "much",
+        "B": "few",
+        "C": "some",
+        "D": "little"
+      },
+      "vikalpa": {
+        "A": "much",
+        "B": "few",
+        "C": "some",
+        "D": "little"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "He does not go to market, ............ ? (Choose the correct option)",
+      "prashna": "वह बाजार नहीं जाता है, ............? (सही विकल्प चुनें)",
+      "options": {
+        "A": "does he",
+        "B": "doesn't he",
+        "C": "wouldn't he",
+        "D": "can he"
+      },
+      "vikalpa": {
+        "A": "does he",
+        "B": "doesn't he",
+        "C": "wouldn't he",
+        "D": "can he"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "The cost of paper and printing ............ too high. (Choose the correct option)",
+      "prashna": "कागज और छपाई की लागत ............ बहुत अधिक है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "are",
+        "B": "have",
+        "C": "has",
+        "D": "is"
+      },
+      "vikalpa": {
+        "A": "are",
+        "B": "have",
+        "C": "has",
+        "D": "is"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "They ............ him chairman. (Choose the correct option)",
+      "prashna": "उन्होंने उसे अध्यक्ष ............। (सही विकल्प चुनें)",
+      "options": {
+        "A": "elect",
+        "B": "elected",
+        "C": "electing",
+        "D": "will elected"
+      },
+      "vikalpa": {
+        "A": "चुनते हैं",
+        "B": "चुना",
+        "C": "चुन रहे हैं",
+        "D": "चुना जाएगा"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "\"The family is big and is constantly growing at a rather inconveniently fast pace\" is from",
+      "prashna": "\"परिवार बड़ा है और लगातार असुविधाजनक रूप से तेज गति से बढ़ रहा है\" यह कहाँ से है?",
+      "options": {
+        "A": "Bharat is My Home",
+        "B": "The Earth",
+        "C": "How Free is the Press",
+        "D": "I Have a Dream"
+      },
+      "vikalpa": {
+        "A": "भारत इज माय होम",
+        "B": "द अर्थ",
+        "C": "हाउ फ्री इज द प्रेस",
+        "D": "आई हैव अ ड्रीम"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Walt Whitman was a/an",
+      "prashna": "वॉल्ट व्हिटमैन एक ............ थे",
+      "options": {
+        "A": "Indian poet",
+        "B": "American poet",
+        "C": "British poet",
+        "D": "Russian poet"
+      },
+      "vikalpa": {
+        "A": "भारतीय कवि",
+        "B": "अमेरिकी कवि",
+        "C": "ब्रिटिश कवि",
+        "D": "रूसी कवि"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Every ............ lives in a perpetual precarious balance.",
+      "prashna": "प्रत्येक ............ एक निरंतर अनिश्चित संतुलन में रहता है।",
+      "options": {
+        "A": "man",
+        "B": "book",
+        "C": "newspaper",
+        "D": "story"
+      },
+      "vikalpa": {
+        "A": "आदमी",
+        "B": "किताब",
+        "C": "समाचार पत्र",
+        "D": "कहानी"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_13",
+      "id": "obj_7",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "A doctor should examine him. (Choose the correct passive voice)",
-      "prashna": "एक डॉक्टर को उसकी जांच करनी चाहिए। (सही पैसिव वॉयस चुनें)",
+      "question": "A poem written on the death of loved one is known as.......... (Choose the correct option)",
+      "prashna": "किसी प्रियजन की मृत्यु पर लिखी गई कविता को के रूप में जाना जाता है.......... (सही विकल्प चुनें)",
       "options": {
-        "A": "He should be examined by a doctor",
-        "B": "A doctor must examine him",
-        "C": "Examined he must be by a doctor",
-        "D": "Doctor should be examining him"
+        "A": "Ode",
+        "B": "Epic",
+        "C": "Sonnet",
+        "D": "Elegy"
       },
       "vikalpa": {
-        "A": "He should be examined by a doctor",
-        "B": "A doctor must examine him",
-        "C": "Examined he must be by a doctor",
-        "D": "Doctor should be examining him"
+        "A": "ओड (Ode)",
+        "B": "महाकाव्य (Epic)",
+        "C": "सोननेट (Sonnet)",
+        "D": "शोकगीत (Elegy)"
       }
     },
     {
-      "id": "obj_24",
+      "id": "obj_20",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "I tried my best. I couldn't pass the test. (Choose the best combination)",
-      "prashna": "मैंने अपनी पूरी कोशिश की। मैं परीक्षा पास नहीं कर सका। (सर्वश्रेष्ठ संयोजन चुनें)",
+      "question": "Don't eat so ............chocolates or you will get fat. (Choose the correct option)",
+      "prashna": "इतने अधिक ............ चॉकलेट मत खाओ वरना तुम मोटे हो जाओगे। (सही विकल्प चुनें)",
       "options": {
-        "A": "I tried my best; still I wasn't pass the test",
-        "B": "I tried my best; still I couldn't pass the test",
-        "C": "I tried my best; still I won't pass the test",
-        "D": "I tried my best; still I wouldn't pass the test"
+        "A": "many",
+        "B": "some",
+        "C": "much",
+        "D": "any"
       },
       "vikalpa": {
-        "A": "I tried my best; still I wasn't pass the test",
-        "B": "I tried my best; still I couldn't pass the test",
-        "C": "I tried my best; still I won't pass the test",
-        "D": "I tried my best; still I wouldn't pass the test"
+        "A": "अधिक (संख्या के लिए)",
+        "B": "कुछ",
+        "C": "अधिक (मात्रा के लिए)",
+        "D": "कोई भी"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Everybody wanted to come here............time. (Choose the correct option)",
+      "prashna": "हर कोई यहां ............ समय पर आना चाहता था। (सही विकल्प चुनें)",
+      "options": {
+        "A": "by",
+        "B": "for",
+        "C": "in",
+        "D": "at"
+      },
+      "vikalpa": {
+        "A": "by",
+        "B": "for",
+        "C": "in",
+        "D": "at"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Shah Jahan........... the Taj Mahal. (Choose the correct option)",
+      "prashna": "शाहजहाँ ने ताजमहल ...........। (सही विकल्प चुनें)",
+      "options": {
+        "A": "builded",
+        "B": "will build",
+        "C": "building",
+        "D": "built"
+      },
+      "vikalpa": {
+        "A": "builded",
+        "B": "बनाएंगे",
+        "C": "बना रहे हैं",
+        "D": "बनवाया (built)"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "My children will not be judged by the.................of their skin.",
+      "prashna": "मेरे बच्चों का मूल्यांकन उनकी त्वचा के ................. से नहीं किया जाएगा।",
+      "options": {
+        "A": "colour",
+        "B": "food habits",
+        "C": "education",
+        "D": "culture"
+      },
+      "vikalpa": {
+        "A": "रंग (colour)",
+        "B": "खाने की आदतें",
+        "C": "शिक्षा",
+        "D": "संस्कृति"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "What has enriched the vocabulary of English",
+      "prashna": "अंग्रेजी की शब्दावली को किसने समृद्ध किया है?",
+      "options": {
+        "A": "Giving",
+        "B": "Borrowing",
+        "C": "Withdrawing",
+        "D": "Depositing"
+      },
+      "vikalpa": {
+        "A": "देना",
+        "B": "उधार लेना (Borrowing)",
+        "C": "वापस लेना",
+        "D": "जमा करना"
       }
     },
     {
@@ -138,197 +570,178 @@
       }
     },
     {
-      "id": "obj_100",
+      "id": "obj_96",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "The state is the...........",
-      "prashna": "राज्य ........... है।",
+      "question": "\"And when I crumble, who will remember\" is written by",
+      "prashna": "\"और जब मैं टूट जाऊंगा, तो कौन याद रखेगा\" किसके द्वारा लिखा गया है?",
       "options": {
-        "A": "master of the people",
-        "B": "servant of the people",
-        "C": "exploiter of the people",
-        "D": "promoter of the people"
+        "A": "John Keats",
+        "B": "John Donne",
+        "C": "Rupert Brooke",
+        "D": "Walter de la Mare"
       },
       "vikalpa": {
-        "A": "लोगों का मालिक",
-        "B": "लोगों का सेवक (servant of the people)",
-        "C": "लोगों का शोषक",
-        "D": "लोगों का प्रमोटर"
+        "A": "जॉन कीट्स",
+        "B": "जॉन डन",
+        "C": "रूपर्ट ब्रुक",
+        "D": "वाल्टर डी ला मारे"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "One day, Seibei was caught red-handed by his…………..teacher",
+      "prashna": "एक दिन सेईबेई को उसके ………….. शिक्षक ने रंगे हाथों पकड़ लिया",
+      "options": {
+        "A": "Hindi",
+        "B": "Mathematics",
+        "C": "Ethics",
+        "D": "Science"
+      },
+      "vikalpa": {
+        "A": "हिंदी",
+        "B": "गणित",
+        "C": "नीतिशास्त्र (Ethics)",
+        "D": "विज्ञान"
       }
     }
   ],
   "2024": [
     {
-      "id": "obj_7",
+      "id": "obj_11",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "Akbar was ........... noblest king. (Choose the correct option)",
-      "prashna": "अकबर ........... सबसे नेक राजा था। (सही विकल्प चुनें)",
+      "question": "........... the grass. (Choose the correct option)",
+      "prashna": "घास ...........। (सही विकल्प चुनें)",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
+        "A": "Keep off",
+        "B": "Keep on",
+        "C": "Keep up",
+        "D": "Keep away"
       },
       "vikalpa": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "कोई आर्टिकल नहीं"
+        "A": "दूर रहें (घास पर न चलें)",
+        "B": "जारी रखें",
+        "C": "बनाए रखें",
+        "D": "दूर रहें"
       }
     },
     {
-      "id": "obj_34",
+      "id": "obj_61",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "I have not heard of you ........... last week. (Choose the correct option)",
-      "prashna": "मैंने पिछले हफ्ते ........... तुम्हारे बारे में नहीं सुना है। (सही विकल्प चुनें)",
+      "question": "“The past is not dead and static, it is alive and ........... ,”",
+      "prashna": "“अतीत मृत और स्थिर नहीं है, यह जीवित और ........... है,”",
       "options": {
-        "A": "since",
-        "B": "in",
-        "C": "by",
-        "D": "for"
+        "A": "pledge",
+        "B": "ethnic",
+        "C": "dynamic",
+        "D": "presumptuous"
       },
       "vikalpa": {
-        "A": "से (निश्चित समय)",
-        "B": "में",
-        "C": "द्वारा",
-        "D": "से (अवधि)"
+        "A": "प्रतिज्ञा",
+        "B": "जातीय",
+        "C": "गतिशील",
+        "D": "अहंकारी"
       }
     },
     {
-      "id": "obj_60",
+      "id": "obj_64",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "The antonym of 'Duplicate' is",
-      "prashna": "'Duplicate' का विलोम शब्द है",
+      "question": "“The last of the great prehistoric inventions was the art of ........... ”",
+      "prashna": "“महान प्रागैतिहासिक आविष्कारों में से अंतिम ........... की कला थी”",
       "options": {
-        "A": "Copy",
-        "B": "Original",
-        "C": "Clone",
-        "D": "Photo"
+        "A": "fighting",
+        "B": "cooking",
+        "C": "writing",
+        "D": "hunting"
       },
       "vikalpa": {
-        "A": "प्रतिलिपि",
-        "B": "असली/मौलिक",
-        "C": "क्लोन",
-        "D": "फोटो"
+        "A": "लड़ना",
+        "B": "खाना बनाना",
+        "C": "लेखन",
+        "D": "शिकार"
       }
     },
     {
-      "id": "obj_76",
+      "id": "obj_77",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "Bertrand Russell belonged to",
-      "prashna": "बर्ट्रेंड रसेल ........... से संबंधित थे",
+      "question": "The praises and images of ........... run throughout the poem ‘The Soldier’.",
+      "prashna": "कविता ‘The Soldier’ में ........... की प्रशंसा और चित्र पूरे समय चलते हैं।",
       "options": {
-        "A": "Ireland",
-        "B": "Iceland",
-        "C": "Britain",
-        "D": "Germany"
+        "A": "India",
+        "B": "England",
+        "C": "France",
+        "D": "America"
       },
       "vikalpa": {
-        "A": "आयरलैंड",
-        "B": "आइसलैंड",
-        "C": "ब्रिटेन",
-        "D": "जर्मनी"
-      }
-    }
-  ],
-  "2025": [
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter_name": "Keeping Quiet",
-      "question": "He declared his .........",
-      "prashna": "उसने अपनी ......... घोषित की",
-      "options": {
-        "A": "innocence",
-        "B": "innocently",
-        "C": "innocent",
-        "D": "by innocent"
-      },
-      "vikalpa": {
-        "A": "innocence",
-        "B": "innocently",
-        "C": "innocent",
-        "D": "by innocent"
-      }
-    },
-    {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter_name": "Keeping Quiet",
-      "question": "Shyam teaches Mathematics ......... English.",
-      "prashna": "श्याम अंग्रेजी के ......... गणित पढ़ाता है।",
-      "options": {
-        "A": "across",
-        "B": "besides",
-        "C": "beside",
-        "D": "over"
-      },
-      "vikalpa": {
-        "A": "across",
-        "B": "besides",
-        "C": "beside",
-        "D": "over"
-      }
-    },
-    {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter_name": "Keeping Quiet",
-      "question": "The antonym of 'Admit' is",
-      "prashna": "'Admit' का विलोम शब्द है",
-      "options": {
-        "A": "Confess",
-        "B": "Accept",
-        "C": "Deny",
-        "D": "Comply"
-      },
-      "vikalpa": {
-        "A": "स्वीकार करना",
-        "B": "स्वीकार करना",
-        "C": "अस्वीकार करना",
-        "D": "अनुपालन करना"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "chapter_name": "Keeping Quiet",
-      "question": "Nanukaka managed to travel in 2nd class on a ......... ticket.",
-      "prashna": "नानूकाका ......... टिकट पर दूसरी श्रेणी में यात्रा करने में सफल रहे।",
-      "options": {
-        "A": "1st class",
-        "B": "General class",
-        "C": "3rd class",
-        "D": "Sleeper class"
-      },
-      "vikalpa": {
-        "A": "प्रथम श्रेणी",
-        "B": "सामान्य श्रेणी",
-        "C": "तीसरी श्रेणी",
-        "D": "स्लीपर श्रेणी"
+        "A": "भारत",
+        "B": "इंग्लैंड",
+        "C": "फ्रांस",
+        "D": "अमेरिका"
       }
     },
     {
       "id": "obj_100",
       "type": "objective",
       "chapter_name": "Keeping Quiet",
-      "question": "Who is known as 'The Nightingale of India' ?",
-      "prashna": "'भारत कोकिला' के रूप में किसे जाना जाता है?",
+      "question": "“In a series of memorable pictures, John Keats exhibits the principle of ........... in nature.”",
+      "prashna": "“यादगार चित्रों की एक श्रृंखला में, जॉन कीट्स प्रकृति में ........... के सिद्धांत को प्रदर्शित करते हैं।”",
       "options": {
-        "A": "Toru Dutt",
-        "B": "Anita Desai",
-        "C": "Kamala Das",
-        "D": "Sarojini Naidu"
+        "A": "scarcity",
+        "B": "beauty",
+        "C": "maturity",
+        "D": "immaturity"
       },
       "vikalpa": {
-        "A": "तोरु दत्त",
-        "B": "अनिता देसाई",
-        "C": "कमला दास",
-        "D": "सरोजिनी नायडू"
+        "A": "कमी",
+        "B": "सुंदरता",
+        "C": "परिपक्वता",
+        "D": "अपरिपक्वता"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "The name 'Augustan' was given to ......... Century.",
+      "prashna": "'Augustan' नाम ......... शताब्दी को दिया गया था।",
+      "options": {
+        "A": "17th",
+        "B": "18th",
+        "C": "19th",
+        "D": "20th"
+      },
+      "vikalpa": {
+        "A": "17वीं",
+        "B": "18वीं",
+        "C": "19वीं",
+        "D": "20वीं"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter_name": "Keeping Quiet",
+      "question": "Gandhiji completely dominated Indian politics",
+      "prashna": "गांधीजी ने भारतीय राजनीति पर पूरी तरह से प्रभुत्व जमाया",
+      "options": {
+        "A": "from 1915 till 1948",
+        "B": "from 1917 till 1947",
+        "C": "from 1920 till 1950",
+        "D": "from 1930 till 1952"
+      },
+      "vikalpa": {
+        "A": "1915 से 1948 तक",
+        "B": "1917 से 1947 तक",
+        "C": "1920 से 1950 तक",
+        "D": "1930 से 1952 तक"
       }
     }
   ]

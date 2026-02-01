@@ -1,11 +1,89 @@
 {
-  "2021": [
+  "2016": [
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Write a short note on the future of English.",
+      "prashna": "अंग्रेजी के भविष्य पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Show in about 75 words that you have read and understood one of the following poems:",
+      "prashna": "लगभग 75 शब्दों में दिखाएं कि आपने निम्नलिखित कविताओं में से एक को पढ़ा और समझा है:",
+      "sub_questions": {
+        "a": "Lake Isle of Innisfree",
+        "b": "The Daffodils",
+        "c": "The Soldier"
+      },
+      "anuprashna": {
+        "a": "लेक आइल ऑफ इनिसफ्री",
+        "b": "द डैफोडिल्स",
+        "c": "द सोल्जर"
+      }
+    }
+  ],
+  "2020": [
     {
       "id": "long_1_2",
       "type": "long_answer",
       "chapter_name": "The Interview",
-      "question": "Write the summary of any one of the following prose-pieces : \ni) Bharat is My Home \nii) A Pinch of Snuff \niii) The Earth.",
-      "prashna": "निम्नलिखित गद्य-खंडों में से किसी एक का सारांश लिखें: \ni) भारत इज माय होम \nii) ए पिंच ऑफ स्नफ \niii) द अर्थ।"
+      "question": "Write a summary of any one of the following prose pieces:\n(i) How Free is the Press\n(ii) India Through a Traveller's Eyes\n(iii) The Artist.",
+      "prashna": "निम्नलिखित में से किसी एक गद्य अंश का सारांश लिखें:\n(i) How Free is the Press\n(ii) India Through a Traveller's Eyes\n(iii) The Artist."
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_1_3_3",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Write a note on Modern English.",
+      "prashna": "आधुनिक अंग्रेजी पर एक टिप्पणी लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Match the names of the prose-pieces in List-A with their authors in List-B :",
+      "prashna": "सूची-A में गद्य-खंडों के नामों का सूची-B में उनके लेखकों के साथ मिलान करें:",
+      "sub_questions": {
+        "List-A": [
+          "i) How Free is the Press",
+          "ii) Bharat is My Home",
+          "iii) The Artist",
+          "iv) I Have a Dream",
+          "v) Ideas That Have Helped Mankind"
+        ],
+        "List-B": [
+          "a) Martin Luther King, Jr.",
+          "b) Bertrand Russell",
+          "c) Dr. Zakir Hussain",
+          "d) Dorothy L. Sayers",
+          "e) Shiga Naoya"
+        ]
+      },
+      "anuprashna": {
+        "List-A": [
+          "i) How Free is the Press",
+          "ii) Bharat is My Home",
+          "iii) The Artist",
+          "iv) I Have a Dream",
+          "v) Ideas That Have Helped Mankind"
+        ],
+        "List-B": [
+          "a) मार्टिन लूथर किंग, जूनियर",
+          "b) बर्ट्रेंड रसेल",
+          "c) डॉ जाकिर हुसैन",
+          "d) डोरोथी एल सायर्स",
+          "e) शिगा नाओया"
+        ]
+      }
     }
   ]
 }

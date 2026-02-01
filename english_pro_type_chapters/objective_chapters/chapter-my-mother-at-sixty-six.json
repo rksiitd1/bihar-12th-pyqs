@@ -1,4 +1,118 @@
 {
+  "2018": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "She agreed ........ my proposal. (Choose the suitable preposition)",
+      "prashna": "वह मेरे प्रस्ताव पर ........ सहमत हुई। (उपयुक्त पूर्वसर्ग चुनें)",
+      "options": {
+        "A": "with",
+        "B": "for",
+        "C": "to",
+        "D": "on"
+      },
+      "vikalpa": {
+        "A": "with",
+        "B": "for",
+        "C": "to",
+        "D": "on"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_11",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The great scholar and poet ............ died (Choose the best option)",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "none of these"
+      },
+      "answer": "B"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "It may rain. We will get wet. (Choose the correct combination)",
+      "prashna": "बारिश हो सकती है। हम भीग जायेंगे। (सही संयोजन चुनें)",
+      "options": {
+        "A": "If it will rain, we get wet",
+        "B": "Had it rained, we get wet",
+        "C": "If it rains, we will get wet",
+        "D": "If it may rain, we get wet"
+      },
+      "vikalpa": {
+        "A": "If it will rain, we get wet",
+        "B": "Had it rained, we get wet",
+        "C": "If it rains, we will get wet",
+        "D": "If it may rain, we get wet"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The cat is eating the fish. (Choose the correct Passive voice)",
+      "prashna": "बिल्ली मछली खा रही है। (सही पैसिव वॉइस चुनें)",
+      "options": {
+        "A": "The fish is being eaten by the cat",
+        "B": "The fish was eat by the cat",
+        "C": "The cat is ate by the fish",
+        "D": "The cat had eaten the fish"
+      },
+      "vikalpa": {
+        "A": "The fish is being eaten by the cat",
+        "B": "The fish was eat by the cat",
+        "C": "The cat is ate by the fish",
+        "D": "The cat had eaten the fish"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "English used from the 15th century is called (Choose the correct option)",
+      "prashna": "15वीं शताब्दी से उपयोग की जाने वाली अंग्रेजी को क्या कहा जाता है? (सही विकल्प चुनें)",
+      "options": {
+        "A": "Old English",
+        "B": "Modern English",
+        "C": "Middle English",
+        "D": "Post-modern English"
+      },
+      "vikalpa": {
+        "A": "ओल्ड इंग्लिश",
+        "B": "मॉडर्न इंग्लिश",
+        "C": "मिडल इंग्लिश",
+        "D": "पोस्ट-मॉडर्न इंग्लिश"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "'After all, there is something in Hinduism that has kept it alive up till now' is from (Choose the correct option)",
+      "prashna": "'आखिरकार, हिंदू धर्म में कुछ ऐसा है जिसने इसे अब तक जीवित रखा है' किस लेख से है? (सही विकल्प चुनें)",
+      "options": {
+        "A": "The Earth",
+        "B": "Indian Civilization and Culture",
+        "C": "Bharat is My Home",
+        "D": "I Have a Dream"
+      },
+      "vikalpa": {
+        "A": "The Earth",
+        "B": "Indian Civilization and Culture",
+        "C": "Bharat is My Home",
+        "D": "I Have a Dream"
+      }
+    }
+  ],
   "2021": [
     {
       "id": "obj_6",
@@ -20,448 +134,524 @@
       }
     },
     {
-      "id": "obj_16",
+      "id": "obj_11",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "He lives in a two ............... house. (Choose the correct option)",
-      "prashna": "वह दो ............... घर में रहता है। (सही विकल्प चुनें)",
+      "question": "Do you ............... your first teacher? (Choose the correct tense form)",
+      "prashna": "क्या आपको अपने पहले शिक्षक ...............? (सही काल रूप चुनें)",
       "options": {
-        "A": "story",
-        "B": "building",
-        "C": "storeyed",
-        "D": "block"
+        "A": "remembered",
+        "B": "remembering",
+        "C": "remember",
+        "D": "will remember"
       },
       "vikalpa": {
-        "A": "कहानी",
-        "B": "इमारत",
-        "C": "मंजिला",
-        "D": "ब्लॉक"
+        "A": "याद किया",
+        "B": "याद कर रहे",
+        "C": "याद है",
+        "D": "याद करेंगे"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "He was brought ............... by his aunt after his mother's death. (Choose the correct preposition)",
+      "prashna": "उसकी माँ की मृत्यु के बाद उसकी चाची द्वारा उसका ............... पालन-पोषण किया गया। (सही प्रीपोज़िशन चुनें)",
+      "options": {
+        "A": "in",
+        "B": "off",
+        "C": "up",
+        "D": "by"
+      },
+      "vikalpa": {
+        "A": "में",
+        "B": "बंद",
+        "C": "पालन-पोषण (up - brought up)",
+        "D": "द्वारा"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "............... is called the father of modern novel. (Choose the correct option)",
+      "prashna": "............... को आधुनिक उपन्यास का पिता कहा जाता है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "Richardson",
+        "B": "Fielding",
+        "C": "Johnson",
+        "D": "Dryden"
+      },
+      "vikalpa": {
+        "A": "रिचर्डसन",
+        "B": "फील्डिंग",
+        "C": "जॉनसन",
+        "D": "ड्राइडन"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Who 'run scolding for their food :' in 'Now the Leaves are Falling Fast' ? (Choose the correct option)",
+      "prashna": "'नाउ द लीव्स आर फॉलिंग फास्ट' में कौन 'भोजन के लिए चिल्लाते हुए दौड़ते' हैं? (सही विकल्प चुनें)",
+      "options": {
+        "A": "Trolls",
+        "B": "Lions",
+        "C": "Animals",
+        "D": "Birds"
+      },
+      "vikalpa": {
+        "A": "ट्रोल्स (Trolls)",
+        "B": "शेर",
+        "C": "जानवर",
+        "D": "पक्षी"
       }
     }
   ],
   "2022": [
     {
-      "id": "obj_3",
+      "id": "obj_28",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "I went out to ............ my friend. (Choose the correct phrase)",
-      "prashna": "मैं अपने मित्र को ............ बाहर गया था। (सही वाक्यांश चुनें)",
+      "question": "The teacher set some homework ............ the end of the lesson. (Choose the correct preposition)",
+      "prashna": "शिक्षक ने पाठ के अंत ............ कुछ होमवर्क दिया। (सही प्रीपोजिशन चुनें)",
       "options": {
-        "A": "see off",
-        "B": "set forth",
-        "C": "set aside",
-        "D": "see about"
+        "A": "about",
+        "B": "in",
+        "C": "of",
+        "D": "at"
       },
       "vikalpa": {
-        "A": "see off",
-        "B": "set forth",
-        "C": "set aside",
-        "D": "see about"
+        "A": "about",
+        "B": "in",
+        "C": "of",
+        "D": "at"
       }
     },
     {
-      "id": "obj_92",
+      "id": "obj_55",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "For what purpose had Nanukaka come to Delhi ?",
-      "prashna": "नानूकाका किस उद्देश्य से दिल्ली आए थे?",
+      "question": "Each child ............ an ice-cream. (Choose the correct option)",
+      "prashna": "प्रत्येक बच्चे ............ एक आइसक्रीम। (सही विकल्प चुनें)",
       "options": {
-        "A": "For paying the debt",
-        "B": "Attend Zamindar convention",
-        "C": "To take rest",
-        "D": "To see some Minister"
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "such"
       },
       "vikalpa": {
-        "A": "कर्ज चुकाने के लिए",
-        "B": "जमींदार सम्मेलन में शामिल होने के लिए",
-        "C": "आराम करने के लिए",
-        "D": "कुछ मंत्रियों से मिलने के लिए"
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "such"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The poet is ............ the snake.",
+      "prashna": "कवि सांप से ............ है।",
+      "options": {
+        "A": "in awe of",
+        "B": "afraid of",
+        "C": "running away from",
+        "D": "ready to hide from"
+      },
+      "vikalpa": {
+        "A": "भयभीत/विस्मय में",
+        "B": "से डरा हुआ",
+        "C": "से भाग रहा है",
+        "D": "से छिपने के लिए तैयार है"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "English belongs to the ancient ............ family of languages.",
+      "prashna": "अंग्रेजी प्राचीन ............ भाषाओं के परिवार से संबंधित है।",
+      "options": {
+        "A": "American-Indian",
+        "B": "Indo-European",
+        "C": "Indian-Australian",
+        "D": "Indo-Pakistani"
+      },
+      "vikalpa": {
+        "A": "अमेरिकन-इंडियन",
+        "B": "इंडो-यूरोपियन",
+        "C": "इंडियन-ऑस्ट्रेलियाई",
+        "D": "इंडो-पाकिस्तानी"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "My sister........as a steno in the past. (Choose the correct option)",
-      "prashna": "मेरी बहन अतीत में एक स्टेनो के रूप में........। (सही विकल्प चुनें)",
-      "options": {
-        "A": "works",
-        "B": "working",
-        "C": "worked",
-        "D": "have worked"
-      },
-      "vikalpa": {
-        "A": "works",
-        "B": "working",
-        "C": "worked",
-        "D": "have worked"
-      }
-    },
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "I had an apple and a ............for lunch. (Choose the correct option)",
-      "prashna": "मैंने लंच में एक सेब और एक ............ खाया। (सही विकल्प चुनें)",
-      "options": {
-        "A": "pear",
-        "B": "pair",
-        "C": "pearce",
-        "D": "pierce"
-      },
-      "vikalpa": {
-        "A": "नाशपाती (pear)",
-        "B": "जोड़ा (pair)",
-        "C": "pearce",
-        "D": "भेदना (pierce)"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "\"There is a house now far away where once I received love\" is from",
-      "prashna": "\"अब एक घर बहुत दूर है जहां कभी मुझे प्यार मिला था\" पंक्तियाँ कहाँ से ली गई हैं?",
-      "options": {
-        "A": "Song of Myself",
-        "B": "Ode to Autumn",
-        "C": "My Grandmother's House",
-        "D": "Snake"
-      },
-      "vikalpa": {
-        "A": "सॉन्ग ऑफ माईसेल्फ",
-        "B": "ओड टू ऑटम",
-        "C": "माई ग्रैंडमदर्स हाउस",
-        "D": "स्नेक"
-      }
-    },
-    {
-      "id": "obj_92",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "One who writes a drama is called..............",
-      "prashna": "जो नाटक लिखता है उसे .............. कहा जाता है।",
-      "options": {
-        "A": "Essayist",
-        "B": "Novelist",
-        "C": "Comedian",
-        "D": "Playwight"
-      },
-      "vikalpa": {
-        "A": "निबंधकार",
-        "B": "उपन्यासकार",
-        "C": "कॉमेडियन",
-        "D": "नाटककार (Playwight)"
-      }
-    },
-    {
-      "id": "obj_96",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "\"And when I crumble, who will remember\" is written by",
-      "prashna": "\"और जब मैं टूट जाऊंगा, तो कौन याद रखेगा\" किसके द्वारा लिखा गया है?",
-      "options": {
-        "A": "John Keats",
-        "B": "John Donne",
-        "C": "Rupert Brooke",
-        "D": "Walter de la Mare"
-      },
-      "vikalpa": {
-        "A": "जॉन कीट्स",
-        "B": "जॉन डन",
-        "C": "रूपर्ट ब्रुक",
-        "D": "वाल्टर डी ला मारे"
-      }
-    }
-  ],
-  "2024": [
-    {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "Moti always ........... chappatis in his dinner. (Choose the correct answer)",
-      "prashna": "मोती हमेशा अपने रात के खाने में चपाती ...........। (सही उत्तर चुनें)",
-      "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "eaten"
-      },
-      "vikalpa": {
-        "A": "खाना (eat)",
-        "B": "खाता है",
-        "C": "खा रहा है",
-        "D": "खाया"
-      }
-    },
-    {
-      "id": "obj_26",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "My cycle did not ........... brakes. (Choose the correct option)",
-      "prashna": "मेरी साइकिल में ब्रेक नहीं ...........। (सही विकल्प चुनें)",
-      "options": {
-        "A": "has",
-        "B": "have",
-        "C": "had",
-        "D": "did has"
-      },
-      "vikalpa": {
-        "A": "पास है",
-        "B": "पास है/रखना",
-        "C": "पास था",
-        "D": "रखा था"
-      }
-    },
-    {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "The police ........... the thief. (Choose the correct option)",
-      "prashna": "पुलिस ने चोर को ...........। (सही विकल्प चुनें)",
-      "options": {
-        "A": "arrest",
-        "B": "arrested",
-        "C": "arresting",
-        "D": "has arrest"
-      },
-      "vikalpa": {
-        "A": "गिरफ्तार करना",
-        "B": "गिरफ्तार किया",
-        "C": "गिरफ्तार कर रहा है",
-        "D": "गिरफ्तार किया है"
-      }
-    },
-    {
-      "id": "obj_95",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "Macavity is said to be mysterious because",
-      "prashna": "मैकाविटी को रहस्यमय कहा जाता है क्योंकि",
-      "options": {
-        "A": "the Scotland Yard is baffled by him",
-        "B": "he has a hidden paw",
-        "C": "no one understands his ways",
-        "D": "he has hidden powers"
-      },
-      "vikalpa": {
-        "A": "स्कॉटलैंड यार्ड उससे चकित है",
-        "B": "उसका एक छिपा हुआ पंजा है (hidden paw)",
-        "C": "उसके तरीकों को कोई नहीं समझता",
-        "D": "उसके पास गुप्त शक्तियाँ हैं"
-      }
-    },
-    {
-      "id": "obj_97",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "“The editorial policy of a daily paper is controlled by ........... chief factors.”",
-      "prashna": "“एक दैनिक समाचार पत्र की संपादकीय नीति ........... मुख्य कारकों द्वारा नियंत्रित होती है।”",
-      "options": {
-        "A": "four",
-        "B": "two",
-        "C": "three",
-        "D": "five"
-      },
-      "vikalpa": {
-        "A": "चार",
-        "B": "दो",
-        "C": "तीन",
-        "D": "पाँच"
-      }
-    }
-  ],
-  "2025": [
-    {
       "id": "obj_6",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "'To make both ends meet' means",
-      "prashna": "'To make both ends meet' का अर्थ है",
+      "question": "The story is..........(Choose the correct option)",
+      "prashna": "कहानी है..........(सही विकल्प चुनें)",
       "options": {
-        "A": "to buy costly articles",
-        "B": "to live within one's income",
-        "C": "live a luxurious life",
-        "D": "to please all people"
+        "A": "too good",
+        "B": "only good",
+        "C": "very good",
+        "D": "already good"
       },
       "vikalpa": {
-        "A": "कीमती सामान खरीदना",
-        "B": "अपनी आय के भीतर रहना",
-        "C": "विलासितापूर्ण जीवन जीना",
-        "D": "सभी लोगों को खुश करना"
-      }
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "Let us have ......... drink now.",
-      "prashna": "अब हमें एक पेय लेने दें।",
-      "options": {
-        "A": "a",
-        "B": "the",
-        "C": "an",
-        "D": "any"
-      },
-      "vikalpa": {
-        "A": "a",
-        "B": "the",
-        "C": "an",
-        "D": "any"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "The ladder leaned ......... the wall.",
-      "prashna": "सीढ़ी दीवार के ......... टिकी हुई थी।",
-      "options": {
-        "A": "against",
-        "B": "for",
-        "C": "at",
-        "D": "in"
-      },
-      "vikalpa": {
-        "A": "against",
-        "B": "for",
-        "C": "at",
-        "D": "in"
-      }
-    },
-    {
-      "id": "obj_22",
-      "type": "objective",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "I ......... swim across the river.",
-      "prashna": "मैं नदी तैरकर पार कर सकता हूँ।",
-      "options": {
-        "A": "can",
-        "B": "dare",
-        "C": "need",
-        "D": "may have"
-      },
-      "vikalpa": {
-        "A": "can",
-        "B": "dare",
-        "C": "need",
-        "D": "may have"
+        "A": "बहुत अच्छी",
+        "B": "सिर्फ अच्छी",
+        "C": "बहुत ही अच्छी",
+        "D": "पहले से ही अच्छी"
       }
     },
     {
       "id": "obj_23",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "......... they played well, they could not win.",
-      "prashna": "......... उन्होंने अच्छा खेला, वे जीत नहीं सके।",
+      "question": "Mike and Hero………..from Japan. (Choose the correct option)",
+      "prashna": "माइक और हीरो………..जापान से हैं। (सही विकल्प चुनें)",
       "options": {
-        "A": "Though",
-        "B": "Even though",
-        "C": "Even if",
-        "D": "May though"
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "was"
       },
       "vikalpa": {
-        "A": "Though",
-        "B": "Even though",
-        "C": "Even if",
-        "D": "May though"
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "was"
       }
     },
     {
-      "id": "obj_24",
+      "id": "obj_44",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "I always ......... the poor.",
-      "prashna": "मैं हमेशा गरीबों की मदद करता हूँ।",
+      "question": "Has anyone seen the wind? (Choose the correct Assertive sentence).",
+      "prashna": "क्या किसी ने हवा देखी है? (सही निश्चयात्मक वाक्य चुनें)।",
       "options": {
-        "A": "help",
-        "B": "helped",
-        "C": "helping",
-        "D": "has helping"
+        "A": "No one has seen the wind",
+        "B": "Wind has no one seen",
+        "C": "Seen no one wind",
+        "D": "Has seen no one wind"
       },
       "vikalpa": {
-        "A": "help",
-        "B": "helped",
-        "C": "helping",
-        "D": "has helping"
+        "A": "किसी ने हवा नहीं देखी है",
+        "B": "Wind has no one seen",
+        "C": "Seen no one wind",
+        "D": "Has seen no one wind"
       }
     },
     {
-      "id": "obj_26",
+      "id": "obj_91",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "You take it very easy, ......... ?",
-      "prashna": "आप इसे बहुत हल्के में लेते हैं, है न?",
+      "question": "The history of English began with the comming of the........from Europe to mainland Britain.",
+      "prashna": "अंग्रेजी का इतिहास यूरोप से मुख्य भूमि ब्रिटेन में ........ के आने के साथ शुरू हुआ।",
       "options": {
-        "A": "didn't you",
-        "B": "mustn't you",
-        "C": "won't you",
-        "D": "don't you"
+        "A": "Anglo-Saxons",
+        "B": "French tribes",
+        "C": "Indian tribes",
+        "D": "American tribes"
       },
       "vikalpa": {
-        "A": "didn't you",
-        "B": "mustn't you",
-        "C": "won't you",
-        "D": "don't you"
+        "A": "एंग्लो-सैक्सन (Anglo-Saxons)",
+        "B": "फ्रांसीसी जनजातियाँ",
+        "C": "भारतीय जनजातियाँ",
+        "D": "अमेरिकी जनजातियाँ"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Akbar was ........... noblest king. (Choose the correct option)",
+      "prashna": "अकबर ........... सबसे नेक राजा था। (सही विकल्प चुनें)",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "vikalpa": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "कोई आर्टिकल नहीं"
       }
     },
     {
-      "id": "obj_35",
+      "id": "obj_20",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "Veena had written a letter. (Choose the correct passive sentence)",
-      "prashna": "वीणा ने एक पत्र लिखा था। (सही निष्क्रिय वाक्य चुनें)",
+      "question": "The engagement party was cancelled as ........... people were against the marriage. (Choose the correct option)",
+      "prashna": "सगाई की पार्टी रद्द कर दी गई क्योंकि ........... लोग शादी के खिलाफ थे। (सही विकल्प चुनें)",
       "options": {
-        "A": "A letter had been written by Veena",
-        "B": "A letter is wrote by Veena",
-        "C": "A letter was written by Veena",
-        "D": "Write a letter by Veena"
+        "A": "some",
+        "B": "the some",
+        "C": "little",
+        "D": "the few"
       },
       "vikalpa": {
-        "A": "A letter had been written by Veena",
-        "B": "A letter is wrote by Veena",
-        "C": "A letter was written by Veena",
-        "D": "Write a letter by Veena"
+        "A": "कुछ",
+        "B": "वे कुछ",
+        "C": "थोड़ा",
+        "D": "जो थोड़े"
       }
     },
     {
-      "id": "obj_78",
+      "id": "obj_46",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "Autumn starts with the departure of ......... season.",
-      "prashna": "पतझड़ ......... मौसम की विदाई के साथ शुरू होता है।",
+      "question": "He said to Rita, \"Am I ill?\" (Choose the correct indirect speech)",
+      "prashna": "उसने रीता से कहा, \"क्या मैं बीमार हूँ?\" (सही अप्रत्यक्ष कथन चुनें)",
       "options": {
-        "A": "spring",
-        "B": "winter",
-        "C": "rainy",
-        "D": "summer"
+        "A": "He says that he is ill to Rita.",
+        "B": "He will say to Rita that he is ill.",
+        "C": "He asked Rita if he was ill.",
+        "D": "He said to Rita if he is ill."
       },
       "vikalpa": {
-        "A": "वसंत",
-        "B": "सर्दियों",
-        "C": "बरसात",
-        "D": "गर्मियों"
+        "A": "वह रीता से कहता है कि वह बीमार है।",
+        "B": "वह रीता से कहेगा कि वह बीमार है।",
+        "C": "उसने रीता से पूछा कि क्या वह बीमार था।",
+        "D": "उसने रीता से कहा कि क्या वह बीमार है।"
       }
     },
     {
-      "id": "obj_87",
+      "id": "obj_51",
       "type": "objective",
       "chapter_name": "My Mother at Sixty-Six",
-      "question": "\"A Child is Born\" is taken from",
-      "prashna": "\"A Child is Born\" कहाँ से लिया गया है?",
+      "question": "If you invite me, I ........... certainly come. (Choose the correct answer)",
+      "prashna": "यदि आप मुझे आमंत्रित करते हैं, तो मैं निश्चित रूप से ...........। (सही उत्तर चुनें)",
       "options": {
-        "A": "Human Fertility",
-        "B": "The Change",
-        "C": "Sex and Destiny",
-        "D": "The Female Eunuch"
+        "A": "could",
+        "B": "would",
+        "C": "might",
+        "D": "would have"
       },
       "vikalpa": {
-        "A": "Human Fertility",
-        "B": "The Change",
-        "C": "Sex and Destiny",
-        "D": "The Female Eunuch"
+        "A": "सकता था",
+        "B": "गा/गी/गे (would)",
+        "C": "शायद",
+        "D": "होता"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "“Nanukaka opened his silver snuffbox and took a ........... ”",
+      "prashna": "“नानूकाका ने अपनी चांदी की नसवार की डिब्बी खोली और एक ........... लिया”",
+      "options": {
+        "A": "coat",
+        "B": "kurta",
+        "C": "pinch",
+        "D": "pitch"
+      },
+      "vikalpa": {
+        "A": "कोट",
+        "B": "कुर्ता",
+        "C": "चुटकी",
+        "D": "पिच"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "“And his footprints are not found in any file of Scotland Yard.” It is from",
+      "prashna": "“और उसके पदचिह्न स्कॉटलैंड यार्ड की किसी भी फाइल में नहीं पाए जाते हैं।” यह कहाँ से है?",
+      "options": {
+        "A": "The Soldier",
+        "B": "Fire-Hymn",
+        "C": "Ode to Autumn",
+        "D": "Macavity : The Mystery Cat"
+      },
+      "vikalpa": {
+        "A": "The Soldier",
+        "B": "Fire-Hymn",
+        "C": "Ode to Autumn",
+        "D": "Macavity : The Mystery Cat"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "‘Thou watchest the last oozings hours by hours.’ It is from",
+      "prashna": "‘तुम घंटों घंटों तक आखिरी टपकन को देखते हो।’ यह कहाँ से है?",
+      "options": {
+        "A": "An Epitaph",
+        "B": "The Soldier",
+        "C": "Ode to Autumn",
+        "D": "Song of Myself"
+      },
+      "vikalpa": {
+        "A": "An Epitaph",
+        "B": "The Soldier",
+        "C": "Ode to Autumn",
+        "D": "Song of Myself"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "I can't believe ......... my purse at home.",
+      "prashna": "मुझे विश्वास नहीं हो रहा है कि मैं अपना पर्स घर पर भूल गया हूँ।",
+      "options": {
+        "A": "I forget",
+        "B": "I have forget",
+        "C": "I forgotten",
+        "D": "I forgot"
+      },
+      "vikalpa": {
+        "A": "I forget",
+        "B": "I have forget",
+        "C": "I forgotten",
+        "D": "I forgot"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "He speaks ......... French nor English.",
+      "prashna": "वह न तो फ्रेंच बोलता है और न ही अंग्रेजी।",
+      "options": {
+        "A": "either",
+        "B": "and",
+        "C": "or",
+        "D": "neither"
+      },
+      "vikalpa": {
+        "A": "either",
+        "B": "and",
+        "C": "or",
+        "D": "neither"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The house caught fire. All the books were burnt. (Choose the correct option)",
+      "prashna": "घर में आग लग गई। सारी किताबें जल गईं। (सही विकल्प चुनें)",
+      "options": {
+        "A": "As the house caught fire and all the books were burnt",
+        "B": "The house having caught fire, all the books were burnt",
+        "C": "All the books were burnt, the house caught fire",
+        "D": "As the books burnt, the house caught fire"
+      },
+      "vikalpa": {
+        "A": "चूँकि घर में आग लगी और सारी किताबें जल गईं",
+        "B": "घर में आग लगने के कारण सारी किताबें जल गईं",
+        "C": "सारी किताबें जल गईं, घर में आग लग गई",
+        "D": "जैसे ही किताबें जलीं, घर में आग लग गई"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The examination will begin ......... Monday.",
+      "prashna": "परीक्षा सोमवार को शुरू होगी।",
+      "options": {
+        "A": "from",
+        "B": "at",
+        "C": "in",
+        "D": "on"
+      },
+      "vikalpa": {
+        "A": "from",
+        "B": "at",
+        "C": "in",
+        "D": "on"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The antonym of 'Duplicate' is",
+      "prashna": "'Duplicate' का विलोम शब्द है",
+      "options": {
+        "A": "Copy",
+        "B": "Clone",
+        "C": "Original",
+        "D": "Photostat"
+      },
+      "vikalpa": {
+        "A": "प्रतिलिपि",
+        "B": "क्लोन",
+        "C": "मूल",
+        "D": "फोटोस्टेट"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The cake tasted ......... sweet that I couldn't finish it.",
+      "prashna": "केक का स्वाद ......... मीठा था कि मैं उसे खत्म नहीं कर सका।",
+      "options": {
+        "A": "so",
+        "B": "very",
+        "C": "such",
+        "D": "too"
+      },
+      "vikalpa": {
+        "A": "itna",
+        "B": "bahut",
+        "C": "aisa",
+        "D": "bahut zyada"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "The curio-dealer sold the gourd to a wealthy",
+      "prashna": "क्यूरियो-डीलर ने लौकी को एक अमीर ......... को बेच दिया।",
+      "options": {
+        "A": "teacher",
+        "B": "farmer",
+        "C": "collector",
+        "D": "doctor"
+      },
+      "vikalpa": {
+        "A": "शिक्षक",
+        "B": "किसान",
+        "C": "कलेक्टर",
+        "D": "डॉक्टर"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "......... wrote a number of children-poems.",
+      "prashna": "......... ने बच्चों के लिए कई कविताएं लिखीं।",
+      "options": {
+        "A": "T. S. Eliot",
+        "B": "W. B. Yeats",
+        "C": "D. H. Lawrence",
+        "D": "Walter de la Mare"
+      },
+      "vikalpa": {
+        "A": "टी. एस. एलियट",
+        "B": "डब्ल्यू. बी. येट्स",
+        "C": "डी. एच. लॉरेंस",
+        "D": "वाल्टर डी ला मारे"
       }
     },
     {
@@ -481,6 +671,25 @@
         "B": "लॉर्ड बायरन",
         "C": "अलेक्जेंडर पोप",
         "D": "जॉन कीट्स"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Who is known as 'The Nightingale of India' ?",
+      "prashna": "'भारत कोकिला' के रूप में किसे जाना जाता है?",
+      "options": {
+        "A": "Toru Dutt",
+        "B": "Anita Desai",
+        "C": "Kamala Das",
+        "D": "Sarojini Naidu"
+      },
+      "vikalpa": {
+        "A": "तोरु दत्त",
+        "B": "अनिता देसाई",
+        "C": "कमला दास",
+        "D": "सरोजिनी नायडू"
       }
     }
   ]

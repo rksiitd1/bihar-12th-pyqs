@@ -1,0 +1,179 @@
+[
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "chapter_name": "Grammar",
+        "question": "Write an essay in about 100-150 words on any one of the following: (a) Work is Worship (b) Kindness to Animals (c) A Picnic Party (d) The Use of Electricity (e) An Indian Fair.",
+        "prashna": "निम्नलिखित में से किसी एक पर लगभग 100-150 शब्दों में निबंध लिखें: (क) कार्य ही पूजा है (ख) जानवरों के प्रति दया (ग) एक पिकनिक पार्टी (घ) बिजली का उपयोग (ङ) एक भारतीय मेला।"
+    },
+    {
+        "id": "passage_1",
+        "type": "passage_comprehension",
+        "chapter_name": "Grammar",
+        "question": "Read carefully the passage given below and answer the questions that follow: \n\nThe best way of understanding our civilization is to take an ordinary sort of day in the life of an ordinary sort of man, myself, for instance, and to see what he does My house is in London. I get up in the morning when an alarm clock rings on the table at my bed; it goes by clock work and is quite a complicated machine. I get into a hot bath, the water for which has been heated by gas. The gas is supplied to me by the Gas for the area in which I live, it is part of a national system. The water is supplied by the City Water Board. After bathing I shave; the water for my shave comes from a kettle which has been heated by electricity. So far as I am concerned, what happens is very simple. I put a plug in the wall and press the switch and the electricity does the rest. I use a safety razor the blade of which, made of very finely tempered steel, has been cut, together with millions of other blades, by a machine. The clothes which I put on have also been spun and woven largely by steam or electricity-driven machines.",
+        "prashna": "नीचे दिए गए गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें: \n\nहमारी सभ्यता को समझने का सबसे अच्छा तरीका एक सामान्य व्यक्ति के जीवन के एक सामान्य दिन को लेना है, उदाहरण के लिए, मैं खुद, और यह देखना कि वह क्या करता है। मेरा घर लंदन में है। मैं सुबह तब उठता हूं जब मेरे बिस्तर के पास वाली मेज पर अलार्म घड़ी बजती है; यह घड़ी की कल से चलती है और काफी जटिल मशीन है। मैं गर्म स्नान करता हूँ, जिसके लिए पानी गैस द्वारा गर्म किया गया है। जिस क्षेत्र में मैं रहता हूँ, वहाँ गैस की आपूर्ति गैस विभाग द्वारा की जाती है, यह एक राष्ट्रीय प्रणाली का हिस्सा है। पानी की आपूर्ति सिटी वॉटर बोर्ड द्वारा की जाती है। नहाने के बाद मैं दाढ़ी बनाता हूँ; मेरी दाढ़ी के लिए पानी एक केतली से आता है जिसे बिजली से गर्म किया गया है। जहाँ तक मेरा सवाल है, जो होता है वह बहुत सरल है। मैं दीवार में एक प्लग लगाता हूँ और स्विच दबाता हूँ और बिजली बाकी काम कर देती है। मैं एक सुरक्षा रेजर का उपयोग करता हूँ जिसका ब्लेड, बहुत बारीक टेम्पर्ड स्टील से बना होता है, लाखों अन्य ब्लेडों के साथ एक मशीन द्वारा काटा गया है। जो कपड़े मैं पहनता हूँ उन्हें भी बड़े पैमाने पर भाप या बिजली से चलने वाली मशीनों द्वारा काता और बुना गया है।",
+        "sub_questions": {
+            "a": "Which place does the writer belong to?",
+            "b": "What makes him wake up in the morning?",
+            "c": "How is the water for his shave heated, and what has he to do for it?",
+            "d": "What is the blade he uses made of?"
+        },
+        "anuprashna": {
+            "a": "लेखक किस स्थान का रहने वाला है?",
+            "b": "उसे सुबह किस चीज से जाग आती है?",
+            "c": "उसकी दाढ़ी बनाने का पानी कैसे गर्म किया जाता है, और उसे इसके लिए क्या करना पड़ता है?",
+            "d": "वह जिस ब्लेड का उपयोग करता है वह किस चीज का बना होता है?"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "Poets and Pancakes",
+        "question": "Translate the following sentences into English:",
+        "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+        "sub_questions": {
+            "a": "तैरना अच्छी कसरत है।",
+            "b": "हल्ला मत करो।",
+            "c": "उसने तुमसे क्या कहा?",
+            "d": "मुझे कार चलाना नहीं आता है।",
+            "e": "वे लोग समय पर नहीं पहुँच पायेंगे।"
+        },
+        "anuprashna": {
+            "a": "Swimming is a good exercise.",
+            "b": "Do not make a noise.",
+            "c": "What did he say to you?",
+            "d": "I do not know how to drive a car.",
+            "e": "They will not be able to reach on time."
+        }
+    },
+    {
+        "id": "precis_1",
+        "type": "precis",
+        "chapter_name": "Grammar",
+        "question": "Make a precis of the following passage and suggest a suitable title? \n\nScience has affected our life in innumerable ways. It has revolutionized transport and communications and thus made the world smaller. It has also made the world a better place to live in. We have well-lighted cities with good sanitation. Science has provided all kinds of substances and machines and sources of power. There is almost no end to the benefits that science has conferred on us. All the same, the work of science is no unmixed blessing. It has created new problems. Scientific industry is recklessly exploiting the new materials on the earth. Science has rendered life in cities less healthy. The overcrowding in cities, the air pollution largely because of smoke, cheap food deficient in vitamins-these are all dangerous to health. Again, people in big cities are denied sunlight, fresh air and exercise. Science has to attend to all these problems. Science has also to take up problem of social life itself. It has to work for freedom from war and various social and economic evils. Science can deal with these human affairs. There would be fewer follies, happiness and good feeling all round if we applied the scientific attitude to all our affairs. Properly using science and cultivating the scientific spirit man can control his destiny.",
+        "prashna": "निम्नलिखित गद्यांश का संक्षेपण करें और एक उपयुक्त शीर्षक सुझाएं? \n\nविज्ञान ने हमारे जीवन को असंख्य तरीकों से प्रभावित किया है। इसने परिवहन और संचार में क्रांति ला दी है और इस तरह दुनिया को छोटा बना दिया है। इसने दुनिया को रहने के लिए एक बेहतर जगह भी बना दिया है। हमारे पास अच्छी स्वच्छता के साथ अच्छी रोशनी वाले शहर हैं। विज्ञान ने सभी प्रकार के पदार्थ और मशीनें और शक्ति के स्रोत प्रदान किए हैं। विज्ञान ने हमें जो लाभ दिए हैं उनका लगभग कोई अंत नहीं है। फिर भी, विज्ञान का कार्य कोई अमिश्रित आशीर्वाद नहीं है। इसने नई समस्याएँ पैदा की हैं। वैज्ञानिक उद्योग पृथ्वी पर नई सामग्रियों का अंधाधुंध दोहन कर रहा है। विज्ञान ने शहरों में जीवन को कम स्वस्थ बना दिया है। शहरों में अत्यधिक भीड़भाड़, मुख्य रूप से धुएं के कारण वायु प्रदूषण, विटामिन की कमी वाला सस्ता भोजन - ये सभी स्वास्थ्य के लिए खतरनाक हैं। फिर से, बड़े शहरों में लोगों को धूप, ताजी हवा और व्यायाम से वंचित किया जाता है। विज्ञान को इन सभी समस्याओं पर ध्यान देना होगा। विज्ञान को सामाजिक जीवन की समस्या को भी स्वयं लेना होगा। इसे युद्ध और विभिन्न सामाजिक और आर्थिक बुराइयों से मुक्ति के लिए काम करना होगा। विज्ञान इन मानवीय मामलों से निपट सकता है। यदि हम अपने सभी मामलों में वैज्ञानिक दृष्टिकोण अपनाएं तो चारों ओर कम मूर्खताएं, खुशी और अच्छी भावना होगी। विज्ञान का उचित उपयोग करके और वैज्ञानिक भावना विकसित करके मनुष्य अपने भाग्य को नियंत्रित कर सकता है।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "chapter_name": "Lost Spring",
+        "question": "Name the authors of the following works:",
+        "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए:",
+        "sub_questions": {
+            "a": "Tom Jones",
+            "b": "Coolie",
+            "c": "David Copperfield",
+            "d": "The Guide",
+            "e": "The Merchant of Venice"
+        },
+        "anuprashna": {
+            "a": "टॉम जोन्स",
+            "b": "कुली",
+            "c": "डेविड कॉपरफील्ड",
+            "d": "द गाइड",
+            "e": "द मर्चेंट ऑफ वेनिस"
+        }
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "chapter_name": "Lost Spring",
+        "question": "Write a short note on English as a world language.",
+        "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "chapter_name": "Going Places",
+        "question": "Write a short note on English as the second language of India.",
+        "prashna": "भारत की दूसरी भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter_name": "Keeping Quiet",
+        "question": "Name any five English novelists.",
+        "prashna": "किन्हीं पांच अंग्रेजी उपन्यासकारों के नाम बताइए।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter_name": "Going Places",
+        "question": "Name any five Indian English novelists.",
+        "prashna": "किन्हीं पांच भारतीय अंग्रेजी उपन्यासकारों के नाम बताइए।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "chapter_name": "Indigo",
+        "question": "Match the poets given in List-A with appropriate titles from List-B: \nList-A: (a) D. H. Lawrence, (b) Kamala Das, (c) John Keats, (d) W. H. Auden, (e) Rupert Brooke. \nList-B: (i) My Grandmother's House, (ii) Now the Leaves Are Falling fast, (iii) Snake, (iv) The Soldier, (v) To Autumn",
+        "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों से मिलान करें: \nसूची-A: (a) डी. एच. लॉरेंस, (b) कमला दास, (c) जॉन कीट्स, (d) डब्ल्यू. एच. ऑडेन, (e) रूपर्ट ब्रुक। \nसूची-B: (i) माई ग्रैंडमदर्स हाउस, (ii) नाउ द लीव्स आर फॉलिंग फास्ट, (iii) स्नेक, (iv) द सोल्जर, (v) टू ऑटम"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "chapter_name": "The Interview",
+        "question": "Name the poets who wrote the following lines:",
+        "prashna": "निम्नलिखित पंक्तियों को लिखने वाले कवियों के नाम बताइए:",
+        "sub_questions": {
+            "a": "I harbour for good or bad, I permit to speak at every hazard, Nature without check with original energy.",
+            "b": "Was it cowardice, that I dared not kill him? Was is perversity, that I longed to talk to him? Was it humility, to feel so honoured? I felt so honoured.",
+            "c": "......... I who have lost My way and beg now at strangers' doors to Receive love, at least in small change?",
+            "d": "Here lies a most beautiful lady. Light of step and heart was she; I think she was the most beautiful lady That ever was in the West county..",
+            "e": "Cold, impossible, ahead lists the mountain's lovely head Whose white waterfalls could bless Travellers in their last distress."
+        },
+        "anuprashna": {
+            "a": "I harbour for good or bad, I permit to speak at every hazard, Nature without check with original energy.",
+            "b": "Was it cowardice, that I dared not kill him? Was is perversity, that I longed to talk to him? Was it humility, to feel so honoured? I felt so honoured.",
+            "c": "......... I who have lost My way and beg now at strangers' doors to Receive love, at least in small change?",
+            "d": "Here lies a most beautiful lady. Light of step and heart was she; I think she was the most beautiful lady That ever was in the West county..",
+            "e": "Cold, impossible, ahead lists the mountain's lovely head Whose white waterfalls could bless Travellers in their last distress."
+        }
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "chapter_name": "The Rattrap",
+        "question": "Write the summary of any one of the following poems: (a) Song of Myself (b) Macavity: The Mystery Cat (c) Sweeterst Love I Do Not Goe (d) Fire-Hymn.",
+        "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: (क) सॉन्ग ऑफ माईसेल्फ (ख) मैकाविटी: द मिस्ट्री कैट (ग) स्वीटेस्ट लव आई डू नॉट गो (घ) फायर-हाइमन।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "chapter_name": "The Enemy",
+        "question": "Name the authors of the following prose pieces:",
+        "prashna": "निम्नलिखित गद्य अंशों के लेखकों के नाम बताइए:",
+        "sub_questions": {
+            "a": "Indian Civilization and Culture",
+            "b": "Ideas That Have Helped Mankind",
+            "c": "The Artist"
+        },
+        "anuprashna": {
+            "a": "इंडियन सिविलाइजेशन एंड कल्चर",
+            "b": "आइडियाज दैट हैव हेल्प्ड मैनकाइंड",
+            "c": "द आर्टिस्ट"
+        }
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "chapter_name": "Deep Water",
+        "question": "Complete the following sentences on the basis of your textual reading:",
+        "prashna": "अपने पाठ्य पुस्तक के पठन के आधार पर निम्नलिखित वाक्यों को पूरा करें:",
+        "sub_questions": {
+            "a": "I believe that the civilization India has evolved is not.............",
+            "b": "I can only assure you that I enter that office in spirit of .........."
+        },
+        "anuprashna": {
+            "a": "I believe that the civilization India has evolved is not.............",
+            "b": "I can only assure you that I enter that office in spirit of .........."
+        }
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "chapter_name": "Going Places",
+        "question": "Summarise any one of the following pieces: (a) A Pinch of Snuff (b) India Through a Traveller's Eyes. (c) Bharat is My Home.",
+        "prashna": "निम्नलिखित में से किसी एक अंश का सारांश लिखें: (क) ए पिंच ऑफ स्नफ (ख) इंडिया थ्रू ए ट्रैवलर्स आइज (ग) भारत इज माई होम।"
+    }
+]

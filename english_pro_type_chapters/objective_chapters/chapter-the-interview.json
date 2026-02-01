@@ -1,68 +1,273 @@
 {
+  "2018": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "Choose the suitable meaning of the phrase: By hook or by crook",
+      "prashna": "मुहावरे का उपयुक्त अर्थ चुनें: 'By hook or by crook'",
+      "options": {
+        "A": "to make possible by any means",
+        "B": "fair means",
+        "C": "decent means",
+        "D": "by no means"
+      },
+      "vikalpa": {
+        "A": "किसी भी तरह से संभव बनाना",
+        "B": "उचित साधन",
+        "C": "शालीन साधन",
+        "D": "किसी भी तरह से नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "The poem 'If' is addressed to ............",
+      "prashna": "कविता 'If' ............ को संबोधित है",
+      "options": {
+        "A": "the poet's wife",
+        "B": "the poet's mistress",
+        "C": "the poet's father",
+        "D": "the poet's son."
+      },
+      "vikalpa": {
+        "A": "कवि की पत्नी",
+        "B": "कवि की प्रेमिका",
+        "C": "कवि के पिता",
+        "D": "कवि के पुत्र।"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_8",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "Look .................... this painting. (Choose the correct preposition)",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "of",
+        "D": "off"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_14",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "John .................... in hospital for two weeks. (Choose the meaningful expression)",
+      "options": {
+        "A": "has been lying",
+        "B": "lies",
+        "C": "is lying",
+        "D": "lied"
+      },
+      "answer": "A"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "She...... be above forty. (Choose the correct verb)",
+      "prashna": "वह ...... चालीस से ऊपर होगी। (सही क्रिया चुनें)",
+      "options": {
+        "A": "will",
+        "B": "needs",
+        "C": "used to",
+        "D": "ought"
+      },
+      "vikalpa": {
+        "A": "will",
+        "B": "needs",
+        "C": "used to",
+        "D": "ought"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "The windows have been cleaned. (Choose the correct Active voice)",
+      "prashna": "खिड़कियाँ साफ कर दी गई हैं। (सही एक्टिव वॉइस चुनें)",
+      "options": {
+        "A": "Someone may clean the windows",
+        "B": "Someone had cleaned the sindows",
+        "C": "Someone has cleaned the windows",
+        "D": "Someone will clean the windows"
+      },
+      "vikalpa": {
+        "A": "Someone may clean the windows",
+        "B": "Someone had cleaned the sindows",
+        "C": "Someone has cleaned the windows",
+        "D": "Someone will clean the windows"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "She is pleased..........me. (Choose the correct option)",
+      "prashna": "वह मुझसे प्रसन्न है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "with",
+        "D": "from"
+      },
+      "vikalpa": {
+        "A": "at",
+        "B": "on",
+        "C": "with",
+        "D": "from"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "Shyam asked her if she was ill. (Choose the correct direct narration)",
+      "prashna": "श्याम ने उससे पूछा कि क्या वह बीमार है। (सही डायरेक्ट नरेशन चुनें)",
+      "options": {
+        "A": "Shyam asked her. \"You are ill.\"",
+        "B": "Shyam told her. \"Was she ill?\"",
+        "C": "Shyam said to her, \"Are you ill?\"",
+        "D": "Shyam said to her, \"Is she ill?\""
+      },
+      "vikalpa": {
+        "A": "Shyam asked her. \"You are ill.\"",
+        "B": "Shyam told her. \"Was she ill?\"",
+        "C": "Shyam said to her, \"Are you ill?\"",
+        "D": "Shyam said to her, \"Is she ill?\""
+      }
+    }
+  ],
   "2021": [
     {
-      "id": "obj_4",
+      "id": "obj_3",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "You ............... give up smoking. (Choose the correct option)",
-      "prashna": "आपको धूम्रपान ............... छोड़ देना चाहिए। (सही विकल्प चुनें)",
+      "question": "He told me, \"Are you hungry?\" (Choose the correct indirect speech)",
+      "prashna": "उसने मुझसे कहा, \"क्या तुम भूखे हो?\" (सही अप्रत्यक्ष कथन चुनें)",
       "options": {
-        "A": "must",
-        "B": "used",
-        "C": "had",
-        "D": "have"
+        "A": "He was asking me if I am hungry",
+        "B": "He asked me if I was hungry",
+        "C": "He said to me if I was hungry",
+        "D": "He questioned me about my hunger"
       },
       "vikalpa": {
-        "A": "अवश्य",
-        "B": "किया करते थे",
-        "C": "था",
-        "D": "है/पास"
+        "A": "वह मुझसे पूछ रहा था कि क्या मैं भूखा हूँ",
+        "B": "उसने मुझसे पूछा कि क्या मैं भूखा था",
+        "C": "उसने मुझसे कहा कि क्या मैं भूखा था",
+        "D": "उसने मेरी भूख के बारे में मुझसे सवाल किया"
       }
     },
     {
-      "id": "obj_12",
+      "id": "obj_9",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "After his death, the seat remained vacant. (Choose the correct meaning of the underlined word)",
-      "prashna": "उनकी मृत्यु के बाद, सीट खाली (vacant) रही। (रेखांकित शब्द का सही अर्थ चुनें)",
+      "question": "Have you ............... him? (Choose the correct tense form)",
+      "prashna": "क्या आपने उसे ...............? (सही काल रूप चुनें)",
       "options": {
-        "A": "empty",
-        "B": "real",
-        "C": "abusive",
-        "D": "spirit"
+        "A": "saw",
+        "B": "see",
+        "C": "had seen",
+        "D": "seen"
       },
       "vikalpa": {
-        "A": "खाली",
-        "B": "असली",
-        "C": "अपमानजनक",
-        "D": "आत्मा"
+        "A": "देखा (Past)",
+        "B": "देखना",
+        "C": "देखा था",
+        "D": "देखा (Past Participle)"
       }
     },
     {
-      "id": "obj_20",
+      "id": "obj_19",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "The flat caught fire. All the things were burnt. (Choose the correct combination)",
-      "prashna": "फ्लैट में आग लग गई। सारी चीजें जल गईं। (सही संयोजन चुनें)",
+      "question": "Choose the correct sentence :",
+      "prashna": "सही वाक्य चुनें :",
       "options": {
-        "A": "The flat caught fire and all the things was burnt",
-        "B": "The flat having caught fire, all the things were burnt",
-        "C": "All the things was burnt when the flat caught fire",
-        "D": "As all things burnt, the flat caught fire"
+        "A": "Which came first, chicken or egg ?",
+        "B": "Which came first, a chicken or an egg ?",
+        "C": "Which came first, the chicken or the egg ?",
+        "D": "Which came first, an chicken or an egg ?"
       },
       "vikalpa": {
-        "A": "फ्लैट में आग लग गई और सब कुछ जल गया (गलत हेल्पिंग वर्ब)",
-        "B": "फ्लैट में आग लगने के कारण सारी चीजें जल गईं",
-        "C": "सब कुछ जल गया था जब फ्लैट में आग लगी",
-        "D": "जैसे ही सब कुछ जला, फ्लैट में आग लग गई"
+        "A": "पहले कौन आया, मुर्गी या अंडा?",
+        "B": "पहले कौन आया, एक मुर्गी या एक अंडा?",
+        "C": "पहले कौन आया, मुर्गी या अंडा? (निश्चित)",
+        "D": "पहले कौन आया, एक मुर्गी या एक अंडा? (गलत ग्रामर)"
       }
     },
     {
-      "id": "obj_48",
+      "id": "obj_25",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "You need to buy ............... dictionary. (Choose the correct option)",
-      "prashna": "आपको ............... शब्दकोश खरीदने की आवश्यकता है। (सही विकल्प चुनें)",
+      "question": "The synonym of 'show' is ............... (Choose the correct option)",
+      "prashna": "'show' का पर्यायवाची ............... है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "Abrupt",
+        "B": "Forbid",
+        "C": "Silent",
+        "D": "Exhibit"
+      },
+      "vikalpa": {
+        "A": "अचानक",
+        "B": "मना करना",
+        "C": "शांत",
+        "D": "प्रदर्शित करना (Exhibit)"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "He has ............... the prize. (Choose the correct option)",
+      "prashna": "उसने पुरस्कार ............... है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "wins",
+        "B": "win",
+        "C": "will win",
+        "D": "won"
+      },
+      "vikalpa": {
+        "A": "जीतता है",
+        "B": "जीतना",
+        "C": "जीतेगा",
+        "D": "जीता (won)"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "He said, \"May God bless you !\" (Choose the correct indirect narration)",
+      "prashna": "उसने कहा, \"भगवान आपको आशीर्वाद दें!\" (सही इनडायरेक्ट नरेशन चुनें)",
+      "options": {
+        "A": "He prayed that God might bless him",
+        "B": "He said that God may bless me",
+        "C": "He says that may God bless you",
+        "D": "He asked that God will bless him"
+      },
+      "vikalpa": {
+        "A": "He prayed that God might bless him",
+        "B": "He said that God may bless me",
+        "C": "He says that may God bless you",
+        "D": "He asked that God will bless him"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "We like ............ music very much. (Choose the correct option)",
+      "prashna": "हमें ............ संगीत बहुत पसंद है। (सही विकल्प चुनें)",
       "options": {
         "A": "a",
         "B": "an",
@@ -77,296 +282,199 @@
       }
     },
     {
-      "id": "obj_58",
+      "id": "obj_47",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "Choose the correctly spelt word :",
-      "prashna": "सही वर्तनी वाले शब्द को चुनें :",
+      "question": "He ............ to help me. (Choose the correct option)",
+      "prashna": "उसने मेरी मदद करने से ............ दिया। (सही विकल्प चुनें)",
       "options": {
-        "A": "Acteul",
-        "B": "Actuel",
-        "C": "Actual",
-        "D": "Akchual"
+        "A": "denied",
+        "B": "refrained",
+        "C": "refused",
+        "D": "refuse"
       },
       "vikalpa": {
-        "A": "Acteul",
-        "B": "Actuel",
-        "C": "वास्तविक (Actual)",
-        "D": "Akchual"
+        "A": "मना कर दिया",
+        "B": "परहेज किया",
+        "C": "इनकार कर दिया",
+        "D": "इनकार"
       }
     },
     {
-      "id": "obj_75",
+      "id": "obj_54",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "Donne studied law and read ...............",
-      "prashna": "डॉन ने कानून का अध्ययन किया और ............... पढ़ी।",
+      "question": "Don't forget to give me a call when you ............ to the gym. (Choose the correct option)",
+      "prashna": "जब आप जिम ............ तो मुझे कॉल करना न भूलें। (सही विकल्प चुनें)",
       "options": {
-        "A": "theology",
-        "B": "drama",
-        "C": "philosophy",
-        "D": "novels"
+        "A": "gone",
+        "B": "have gone",
+        "C": "went",
+        "D": "go"
       },
       "vikalpa": {
-        "A": "धर्मशास्त्र (theology)",
-        "B": "नाटक",
-        "C": "दर्शन",
-        "D": "उपन्यास"
+        "A": "गए",
+        "B": "जा चुके हैं",
+        "C": "गए",
+        "D": "जाते हैं/जाओगे"
       }
     },
     {
-      "id": "obj_86",
+      "id": "obj_83",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "'The people have chosen to make me the head of this family for a certain time.' Who says this ?",
-      "prashna": "'लोगों ने मुझे एक निश्चित समय के लिए इस परिवार का मुखिया बनाने के लिए चुना है।' यह कौन कहता है?",
+      "question": "Whose white waterfall could bless Travellers in their last ............ .",
+      "prashna": "किसका सफेद झरना यात्रियों को उनके अंतिम ............ में आशीर्वाद दे सकता है।",
       "options": {
-        "A": "Dr. Zakir Hussain",
-        "B": "Kamala Das",
-        "C": "Pearl S. Buck",
-        "D": "Manohar Malgaonkar"
+        "A": "distress",
+        "B": "sadness",
+        "C": "happiness",
+        "D": "tears"
       },
       "vikalpa": {
-        "A": "डॉ. जाकिर हुसैन",
-        "B": "कमला दास",
-        "C": "पर्ल एस. बक",
-        "D": "मनोहर मालगांवकर"
+        "A": "distress (संकट)",
+        "B": "sadness (उदासी)",
+        "C": "happiness (खुशी)",
+        "D": "tears (आँसू)"
       }
     },
     {
-      "id": "obj_87",
+      "id": "obj_97",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "Who travelled free with Nanukaka ?",
-      "prashna": "नानूकाका के साथ मुफ्त में किसने यात्रा की?",
+      "question": "\"His brow is deeply lined with thoughts, ....\" Whose brow is the poet talking about ?",
+      "prashna": "\"उसका माथा विचारों से गहरा रेखांकित है, ....\" कवि किसके माथे की बात कर रहा है?",
       "options": {
-        "A": "Dog",
-        "B": "Rabbit",
-        "C": "Hen",
-        "D": "Kitten"
+        "A": "Macavity's",
+        "B": "Himself",
+        "C": "His neighbour's",
+        "D": "His father's"
       },
       "vikalpa": {
-        "A": "कुत्ता",
-        "B": "खरगोश",
-        "C": "मुर्गी",
-        "D": "बिल्ली का बच्चा (Kitten)"
-      }
-    },
-    {
-      "id": "obj_98",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Wole Soyinka is a ............... poet.",
-      "prashna": "वोले सोयिंका एक ............... कवि हैं।",
-      "options": {
-        "A": "Nigerian",
-        "B": "American",
-        "C": "Indian",
-        "D": "British"
-      },
-      "vikalpa": {
-        "A": "नाइजीरियाई",
-        "B": "अमेरिकी",
-        "C": "भारतीय",
-        "D": "ब्रिटिश"
-      }
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Choose the correct sentence :",
-      "prashna": "सही वाक्य चुनें :",
-      "options": {
-        "A": "He is so tall as I",
-        "B": "He is as tall as I",
-        "C": "He is so tall as I am",
-        "D": "He is as tall as I are"
-      },
-      "vikalpa": {
-        "A": "He is so tall as I",
-        "B": "He is as tall as I",
-        "C": "He is so tall as I am",
-        "D": "He is as tall as I are"
-      }
-    },
-    {
-      "id": "obj_60",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Choose the correctly spelt word :",
-      "prashna": "सही वर्तनी वाला शब्द चुनें :",
-      "options": {
-        "A": "Bundle",
-        "B": "Bandle",
-        "C": "Beundle",
-        "D": "Bandel"
-      },
-      "vikalpa": {
-        "A": "Bundle",
-        "B": "Bandle",
-        "C": "Beundle",
-        "D": "Bandel"
-      }
-    },
-    {
-      "id": "obj_62",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Who wrote 'The Old Playhouse and other Poems' ?",
-      "prashna": "'The Old Playhouse and other Poems' किसने लिखी है?",
-      "options": {
-        "A": "T.S. Eliot",
-        "B": "D. H. Lawrence",
-        "C": "Keki N. Daruwala",
-        "D": "Kamala Das"
-      },
-      "vikalpa": {
-        "A": "टी.एस. इलियट",
-        "B": "डी. एच. लॉरेंस",
-        "C": "केकी एन. दारूवाला",
-        "D": "कमला दास"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Walt Whitman was a/an",
-      "prashna": "वॉल्ट व्हिटमैन एक ............ थे",
-      "options": {
-        "A": "Indian poet",
-        "B": "American poet",
-        "C": "British poet",
-        "D": "Russian poet"
-      },
-      "vikalpa": {
-        "A": "भारतीय कवि",
-        "B": "अमेरिकी कवि",
-        "C": "ब्रिटिश कवि",
-        "D": "रूसी कवि"
-      }
-    },
-    {
-      "id": "obj_88",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "\"But believe that I shall make Speedier journeys, since I take ...\" — is from",
-      "prashna": "\"लेकिन विश्वास करो कि मैं और भी तेज यात्राएँ करूँगा, क्योंकि मैं लेता हूँ...\" — यह कहाँ से है?",
-      "options": {
-        "A": "Sweetest Love I Do Not Goe",
-        "B": "Fire Hymn",
-        "C": "Snake",
-        "D": "Song of Myself"
-      },
-      "vikalpa": {
-        "A": "स्वीटेस्ट लव आई डू नॉट गो",
-        "B": "फायर हिम्न",
-        "C": "स्नेक",
-        "D": "सॉन्ग ऑफ माईसेल्फ"
+        "A": "मैकैविटी का",
+        "B": "स्वयं का",
+        "C": "उसके पड़ोसी का",
+        "D": "उसके पिता का"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_19",
+      "id": "obj_1",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "We're getting...... away from the central idea. (Choose the correct option)",
-      "prashna": "हम केंद्रीय विचार से ...... दूर जा रहे हैं। (सही विकल्प चुनें)",
+      "question": "Which state did Mahatma Gandhi belong........? (Choose the correct option)",
+      "prashna": "महात्मा गांधी किस राज्य से संबंधित थे........? (सही विकल्प चुनें)",
       "options": {
-        "A": "farther",
-        "B": "either",
-        "C": "neither",
-        "D": "other"
+        "A": "of",
+        "B": "from",
+        "C": "to",
+        "D": "by"
       },
       "vikalpa": {
-        "A": "और दूर",
-        "B": "या तो",
-        "C": "न तो",
-        "D": "अन्य"
+        "A": "of",
+        "B": "from",
+        "C": "to",
+        "D": "by"
       }
     },
     {
-      "id": "obj_48",
+      "id": "obj_16",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "I don't know how the money I kept in my wallet got............. (Choose the correct option)",
-      "prashna": "मुझे नहीं पता कि मेरे बटुए में रखे पैसे कैसे ............. हो गए (सही विकल्प चुनें)",
+      "question": "Do you........anything? (Choose the correct option)",
+      "prashna": "क्या आपको........कुछ चाहिए? (सही विकल्प चुनें)",
       "options": {
-        "A": "stolen",
-        "B": "steal",
-        "C": "stole",
-        "D": "stealed"
+        "A": "needed",
+        "B": "needing",
+        "C": "need",
+        "D": "will need"
       },
       "vikalpa": {
-        "A": "चोरी (stolen)",
-        "B": "चुराना",
-        "C": "stole",
-        "D": "stealed"
+        "A": "needed",
+        "B": "needing",
+        "C": "need",
+        "D": "will need"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "I tried my best. I couldn't pass the test. (Choose the best combination)",
+      "prashna": "मैंने अपनी पूरी कोशिश की। मैं परीक्षा पास नहीं कर सका। (सर्वश्रेष्ठ संयोजन चुनें)",
+      "options": {
+        "A": "I tried my best; still I wasn't pass the test",
+        "B": "I tried my best; still I couldn't pass the test",
+        "C": "I tried my best; still I won't pass the test",
+        "D": "I tried my best; still I wouldn't pass the test"
+      },
+      "vikalpa": {
+        "A": "I tried my best; still I wasn't pass the test",
+        "B": "I tried my best; still I couldn't pass the test",
+        "C": "I tried my best; still I won't pass the test",
+        "D": "I tried my best; still I wouldn't pass the test"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "He killed a tiger..........a rifle. (Choose the correct option)",
+      "prashna": "उसने राइफल .......... एक बाघ को मार डाला। (सही विकल्प चुनें)",
+      "options": {
+        "A": "by",
+        "B": "with",
+        "C": "from",
+        "D": "at"
+      },
+      "vikalpa": {
+        "A": "by",
+        "B": "with",
+        "C": "from",
+        "D": "at"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "There were several policemen..........duty. (Choose the correct preposition)",
+      "prashna": "ड्यूटी पर कई पुलिसकर्मी .......... थे। (सही प्रीपोजिशन चुनें)",
+      "options": {
+        "A": "to",
+        "B": "on",
+        "C": "for",
+        "D": "at"
+      },
+      "vikalpa": {
+        "A": "to",
+        "B": "on",
+        "C": "for",
+        "D": "at"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "The Interview",
+      "question": "The........forgets its dead.",
+      "prashna": "........ अपने मृतकों को भूल जाता है।",
+      "options": {
+        "A": "man",
+        "B": "animal",
+        "C": "fire",
+        "D": "wind"
+      },
+      "vikalpa": {
+        "A": "आदमी",
+        "B": "जानवर",
+        "C": "आग (fire)",
+        "D": "हवा"
       }
     }
   ],
   "2024": [
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "........... the grass. (Choose the correct option)",
-      "prashna": "घास ...........। (सही विकल्प चुनें)",
-      "options": {
-        "A": "Keep off",
-        "B": "Keep on",
-        "C": "Keep up",
-        "D": "Keep away"
-      },
-      "vikalpa": {
-        "A": "दूर रहें (घास पर न चलें)",
-        "B": "जारी रखें",
-        "C": "बनाए रखें",
-        "D": "दूर रहें"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "The engagement party was cancelled as ........... people were against the marriage. (Choose the correct option)",
-      "prashna": "सगाई की पार्टी रद्द कर दी गई क्योंकि ........... लोग शादी के खिलाफ थे। (सही विकल्प चुनें)",
-      "options": {
-        "A": "some",
-        "B": "the some",
-        "C": "little",
-        "D": "the few"
-      },
-      "vikalpa": {
-        "A": "कुछ",
-        "B": "वे कुछ",
-        "C": "थोड़ा",
-        "D": "जो थोड़े"
-      }
-    },
-    {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Ramesh has been absent ........... Friday. (Choose the correct option)",
-      "prashna": "रमेश ........... शुक्रवार से अनुपस्थित है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "since",
-        "B": "from",
-        "C": "for",
-        "D": "by"
-      },
-      "vikalpa": {
-        "A": "से (निश्चित समय)",
-        "B": "से",
-        "C": "के लिए/से (समय की अवधि)",
-        "D": "द्वारा"
-      }
-    },
     {
       "id": "obj_30",
       "type": "objective",
@@ -387,79 +495,60 @@
       }
     },
     {
-      "id": "obj_42",
+      "id": "obj_34",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "This child is very ........... to me. (Choose the correct option)",
-      "prashna": "यह बच्चा मुझे बहुत ........... है। (सही विकल्प चुनें)",
+      "question": "I have not heard of you ........... last week. (Choose the correct option)",
+      "prashna": "मैंने पिछले हफ्ते ........... तुम्हारे बारे में नहीं सुना है। (सही विकल्प चुनें)",
       "options": {
-        "A": "deer",
-        "B": "dear",
-        "C": "dare",
-        "D": "dearer"
+        "A": "since",
+        "B": "in",
+        "C": "by",
+        "D": "for"
       },
       "vikalpa": {
-        "A": "हिरण",
-        "B": "प्रिय",
-        "C": "साहस",
-        "D": "अधिक प्रिय"
+        "A": "से (निश्चित समय)",
+        "B": "में",
+        "C": "द्वारा",
+        "D": "से (अवधि)"
       }
     },
     {
-      "id": "obj_51",
+      "id": "obj_41",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "If you invite me, I ........... certainly come. (Choose the correct answer)",
-      "prashna": "यदि आप मुझे आमंत्रित करते हैं, तो मैं निश्चित रूप से ...........। (सही उत्तर चुनें)",
+      "question": "Choose the correct antonym of 'Trivial' :",
+      "prashna": "'Trivial' का सही विलोम शब्द चुनें :",
       "options": {
-        "A": "could",
-        "B": "would",
-        "C": "might",
-        "D": "would have"
+        "A": "Rural",
+        "B": "Important",
+        "C": "Loss",
+        "D": "Artificial"
       },
       "vikalpa": {
-        "A": "सकता था",
-        "B": "गा/गी/गे (would)",
-        "C": "शायद",
-        "D": "होता"
+        "A": "ग्रामीण",
+        "B": "महत्वपूर्ण",
+        "C": "हानि",
+        "D": "कृत्रिम"
       }
     },
     {
-      "id": "obj_64",
+      "id": "obj_71",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "“The last of the great prehistoric inventions was the art of ........... ”",
-      "prashna": "“महान प्रागैतिहासिक आविष्कारों में से अंतिम ........... की कला थी”",
+      "question": "The Anglo-Indian community in India use ........... as their mother-tongue.",
+      "prashna": "भारत में एंग्लो-इंडियन समुदाय अपनी मातृभाषा के रूप में ........... का उपयोग करता है।",
       "options": {
-        "A": "fighting",
-        "B": "cooking",
-        "C": "writing",
-        "D": "hunting"
+        "A": "Urdu",
+        "B": "Parsi",
+        "C": "English",
+        "D": "Hindi"
       },
       "vikalpa": {
-        "A": "लड़ना",
-        "B": "खाना बनाना",
-        "C": "लेखन",
-        "D": "शिकार"
-      }
-    },
-    {
-      "id": "obj_83",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "The grandmother’s house fell ........... after her death.",
-      "prashna": "दादी की मृत्यु के बाद उनका घर ........... हो गया।",
-      "options": {
-        "A": "crazy",
-        "B": "noisy",
-        "C": "silent",
-        "D": "chaotic"
-      },
-      "vikalpa": {
-        "A": "पागल",
-        "B": "शोर भरा",
-        "C": "शांत/सुनसान",
-        "D": "अस्त-व्यस्त"
+        "A": "उर्दू",
+        "B": "पारसी",
+        "C": "अंग्रेजी",
+        "D": "हिंदी"
       }
     },
     {
@@ -484,136 +573,79 @@
   ],
   "2025": [
     {
-      "id": "obj_11",
+      "id": "obj_44",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "India is progressing .........",
-      "prashna": "भारत ......... प्रगति कर रहा है।",
+      "question": "The synonym of 'Strategy' is",
+      "prashna": "'Strategy' का पर्यायवाची शब्द है",
       "options": {
-        "A": "by leaps and bounds",
-        "B": "by fits and starts",
-        "C": "by body and soul",
-        "D": "by hook or by crook"
+        "A": "Fame",
+        "B": "Criminal",
+        "C": "Plan",
+        "D": "Invasion"
       },
       "vikalpa": {
-        "A": "दिन दूनी रात चौगुनी",
-        "B": "रुक-रुक कर",
-        "C": "तन और मन से",
-        "D": "किसी भी तरह से"
+        "A": "प्रसिद्धि",
+        "B": "अपराधी",
+        "C": "योजना",
+        "D": "आक्रमण"
       }
     },
     {
-      "id": "obj_28",
+      "id": "obj_53",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "Choose the correct spelling :",
-      "prashna": "सही वर्तनी चुनें :",
+      "question": "Is Hindi spoken by them ? (Choose the correct active voice)",
+      "prashna": "क्या उनके द्वारा हिंदी बोली जाती है? (सही सक्रिय आवाज चुनें)",
       "options": {
-        "A": "Suced",
-        "B": "Sicued",
-        "C": "Succeed",
-        "D": "Suceud"
+        "A": "Do they speak Hindi ?",
+        "B": "Speak Hindi will they ?",
+        "C": "Should they speak Hindi ?",
+        "D": "Hindi must they speak ?"
       },
       "vikalpa": {
-        "A": "Suced",
-        "B": "Sicued",
-        "C": "Succeed",
-        "D": "Suceud"
+        "A": "क्या वे हिंदी बोलते हैं?",
+        "B": "क्या वे हिंदी बोलेंगे?",
+        "C": "क्या उन्हें हिंदी बोलनी चाहिए?",
+        "D": "क्या उन्हें हिंदी बोलनी ही चाहिए?"
       }
     },
     {
-      "id": "obj_32",
+      "id": "obj_55",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "She ......... know the answer.",
-      "prashna": "उसे उत्तर पता है।",
+      "question": "Do you think we will be unhappy ......... ?",
+      "prashna": "क्या आपको लगता है कि हम ......... दुखी होंगे?",
       "options": {
-        "A": "have",
-        "B": "ought",
-        "C": "might",
-        "D": "did"
+        "A": "ever",
+        "B": "forever",
+        "C": "never",
+        "D": "not"
       },
       "vikalpa": {
-        "A": "have",
-        "B": "ought",
-        "C": "might",
-        "D": "did"
+        "A": "कभी",
+        "B": "हमेशा के लिए",
+        "C": "कभी नहीं",
+        "D": "नहीं"
       }
     },
     {
-      "id": "obj_47",
+      "id": "obj_97",
       "type": "objective",
       "chapter_name": "The Interview",
-      "question": "The antonym of 'Duplicate' is",
-      "prashna": "'Duplicate' का विलोम शब्द है",
+      "question": "In England Printing Press was invented in",
+      "prashna": "इंग्लैंड में प्रिंटिंग प्रेस का आविष्कार किस वर्ष हुआ था?",
       "options": {
-        "A": "Copy",
-        "B": "Clone",
-        "C": "Original",
-        "D": "Photostat"
+        "A": "1475",
+        "B": "1477",
+        "C": "1476",
+        "D": "1478"
       },
       "vikalpa": {
-        "A": "प्रतिलिपि",
-        "B": "क्लोन",
-        "C": "मूल",
-        "D": "फोटोस्टेट"
-      }
-    },
-    {
-      "id": "obj_54",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "Smita is rich. Smita is a miser. (Choose the correct combination)",
-      "prashna": "स्मिता अमीर है। स्मिता कंजूस है। (सही संयोजन चुनें)",
-      "options": {
-        "A": "Smita is rich, still she is not a miser",
-        "B": "Smita is rich, still she is a miser",
-        "C": "Smita is not rich, still she is a miser",
-        "D": "Smita is rich, still she was a miser"
-      },
-      "vikalpa": {
-        "A": "स्मिता अमीर है, फिर भी वह कंजूस नहीं है",
-        "B": "स्मिता अमीर है, फिर भी वह कंजूस है",
-        "C": "स्मिता अमीर नहीं है, फिर भी वह कंजूस है",
-        "D": "स्मिता अमीर है, फिर भी वह कंजूस थी"
-      }
-    },
-    {
-      "id": "obj_56",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "I have nothing ......... to say.",
-      "prashna": "मेरे पास कहने के लिए ......... कुछ नहीं है।",
-      "options": {
-        "A": "further",
-        "B": "neither",
-        "C": "farther",
-        "D": "either"
-      },
-      "vikalpa": {
-        "A": "आगे",
-        "B": "न तो",
-        "C": "दूर",
-        "D": "या तो"
-      }
-    },
-    {
-      "id": "obj_75",
-      "type": "objective",
-      "chapter_name": "The Interview",
-      "question": "The curio-dealer sold the gourd to a wealthy",
-      "prashna": "क्यूरियो-डीलर ने लौकी को एक अमीर ......... को बेच दिया।",
-      "options": {
-        "A": "teacher",
-        "B": "farmer",
-        "C": "collector",
-        "D": "doctor"
-      },
-      "vikalpa": {
-        "A": "शिक्षक",
-        "B": "किसान",
-        "C": "कलेक्टर",
-        "D": "डॉक्टर"
+        "A": "1475",
+        "B": "1477",
+        "C": "1476",
+        "D": "1478"
       }
     }
   ]

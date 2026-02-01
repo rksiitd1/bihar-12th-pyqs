@@ -1,60 +1,168 @@
 {
+  "2018": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "Yeats was ............ with great poetic talents. (Choose the most suitable option)",
+      "prashna": "येट्स महान काव्य प्रतिभा से ............ थे। (सबसे उपयुक्त विकल्प चुनें)",
+      "options": {
+        "A": "granted",
+        "B": "given",
+        "C": "gifted",
+        "D": "acquired"
+      },
+      "vikalpa": {
+        "A": "granted",
+        "B": "given",
+        "C": "gifted",
+        "D": "acquired"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "'David Copperfield' is a novel about .................. psychology. (Choose the suitable option)",
+      "prashna": "'डेविड कॉपरफील्ड' .................. मनोविज्ञान के बारे में एक उपन्यास है। (उपयुक्त विकल्प चुनें)",
+      "options": {
+        "A": "adult",
+        "B": "female",
+        "C": "child",
+        "D": "old"
+      },
+      "vikalpa": {
+        "A": "वयस्क",
+        "B": "महिला",
+        "C": "बच्चा",
+        "D": "वृद्ध"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_5",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "Patna is situated .................... the bank of the Ganga. (Choose the correct preposition)",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "of",
+        "D": "to"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_32",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "Walter de la Mare was born in the year .................... (Choose the correct option)",
+      "options": {
+        "A": "1853",
+        "B": "1867",
+        "C": "1873",
+        "D": "1889"
+      },
+      "answer": "C"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "There is a bridge……….the river. (Choose the correct preposition)",
+      "prashna": "नदी पर एक पुल है। (सही पूर्वसर्ग चुनें)",
+      "options": {
+        "A": "across",
+        "B": "in",
+        "C": "at",
+        "D": "of"
+      },
+      "vikalpa": {
+        "A": "across",
+        "B": "in",
+        "C": "at",
+        "D": "of"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "What, according to Zakir Hussain, which is the prime instrument of national purpose?",
+      "prashna": "ज़ाकिर हुसैन के अनुसार, राष्ट्रीय उद्देश्य का प्रमुख साधन क्या है?",
+      "options": {
+        "A": "Business",
+        "B": "Service",
+        "C": "Politics",
+        "D": "Education"
+      },
+      "vikalpa": {
+        "A": "व्यवसाय",
+        "B": "सेवा",
+        "C": "राजनीति",
+        "D": "शिक्षा"
+      }
+    }
+  ],
   "2021": [
     {
-      "id": "obj_30",
+      "id": "obj_12",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "............... I could sing, I would have sung. (Choose the correct option)",
-      "prashna": "............... मैं गा सकता, तो मैं गाता। (सही विकल्प चुनें)",
+      "question": "After his death, the seat remained vacant. (Choose the correct meaning of the underlined word)",
+      "prashna": "उनकी मृत्यु के बाद, सीट खाली (vacant) रही। (रेखांकित शब्द का सही अर्थ चुनें)",
       "options": {
-        "A": "If",
-        "B": "Until",
-        "C": "Because",
-        "D": "Till"
+        "A": "empty",
+        "B": "real",
+        "C": "abusive",
+        "D": "spirit"
       },
       "vikalpa": {
-        "A": "यदि",
-        "B": "जब तक नहीं",
-        "C": "क्योंकि",
-        "D": "तक"
+        "A": "खाली",
+        "B": "असली",
+        "C": "अपमानजनक",
+        "D": "आत्मा"
       }
     },
     {
-      "id": "obj_44",
+      "id": "obj_16",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "His honesty and faithfulness ............... unquestionable. (Choose the correct option)",
-      "prashna": "उसकी ईमानदारी और वफादारी ............... निर्विवाद है। (सही विकल्प चुनें)",
+      "question": "He lives in a two ............... house. (Choose the correct option)",
+      "prashna": "वह दो ............... घर में रहता है। (सही विकल्प चुनें)",
       "options": {
-        "A": "is",
-        "B": "has",
-        "C": "are",
-        "D": "have"
+        "A": "story",
+        "B": "building",
+        "C": "storeyed",
+        "D": "block"
       },
       "vikalpa": {
-        "A": "है (is)",
-        "B": "पास है",
-        "C": "हैं",
-        "D": "पास हैं"
+        "A": "कहानी",
+        "B": "इमारत",
+        "C": "मंजिला",
+        "D": "ब्लॉक"
       }
     },
     {
-      "id": "obj_68",
+      "id": "obj_48",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "............... is called the father of modern novel. (Choose the correct option)",
-      "prashna": "............... को आधुनिक उपन्यास का पिता कहा जाता है। (सही विकल्प चुनें)",
+      "question": "You need to buy ............... dictionary. (Choose the correct option)",
+      "prashna": "आपको ............... शब्दकोश खरीदने की आवश्यकता है। (सही विकल्प चुनें)",
       "options": {
-        "A": "Richardson",
-        "B": "Fielding",
-        "C": "Johnson",
-        "D": "Dryden"
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
       },
       "vikalpa": {
-        "A": "रिचर्डसन",
-        "B": "फील्डिंग",
-        "C": "जॉनसन",
-        "D": "ड्राइडन"
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "कोई आर्टिकल नहीं"
       }
     },
     {
@@ -75,279 +183,165 @@
         "C": "सॉन्ग ऑफ मायसेल्फ",
         "D": "माई ग्रैंडमदर्स हाउस"
       }
-    },
-    {
-      "id": "obj_84",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "Benjy understood about the business of ...............",
-      "prashna": "बेंजी ............... के व्यवसाय के बारे में समझता था।",
-      "options": {
-        "A": "education",
-        "B": "hens",
-        "C": "homes",
-        "D": "fruits"
-      },
-      "vikalpa": {
-        "A": "शिक्षा",
-        "B": "मुर्गियों (hens)",
-        "C": "घरों",
-        "D": "फलों"
-      }
-    },
-    {
-      "id": "obj_88",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "Martin Luther King, Jr. asks the black people to continue working with ...............",
-      "prashna": "मार्टिन लूथर किंग, जूनियर अश्वेत लोगों को ............... के साथ काम करना जारी रखने के लिए कहते हैं।",
-      "options": {
-        "A": "love",
-        "B": "hatred",
-        "C": "faith",
-        "D": "jealousy"
-      },
-      "vikalpa": {
-        "A": "प्यार",
-        "B": "नफरत",
-        "C": "विश्वास (faith)",
-        "D": "ईर्ष्या"
-      }
     }
   ],
   "2022": [
     {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "All coming and going ............ forbidden. (Choose the correct option)",
-      "prashna": "आने-जाने की सभी गतिविधियां ............ वर्जित थीं। (सही विकल्प चुनें)",
-      "options": {
-        "A": "was",
-        "B": "were",
-        "C": "has",
-        "D": "have"
-      },
-      "vikalpa": {
-        "A": "was",
-        "B": "were",
-        "C": "has",
-        "D": "have"
-      }
-    },
-    {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "The synonym of 'Melodious' is",
-      "prashna": "'Melodious' (मधुर) का पर्यायवाची है",
-      "options": {
-        "A": "Fine",
-        "B": "Journey",
-        "C": "Musical",
-        "D": "Grief"
-      },
-      "vikalpa": {
-        "A": "Fine",
-        "B": "Journey",
-        "C": "Musical",
-        "D": "Grief"
-      }
-    },
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "We believe in immortality of the ............ . (Choose the correct option)",
-      "prashna": "हम ............ की अमरता में विश्वास करते हैं। (सही विकल्प चुनें)",
-      "options": {
-        "A": "sole",
-        "B": "soul",
-        "C": "union",
-        "D": "wave"
-      },
-      "vikalpa": {
-        "A": "तलवा",
-        "B": "आत्मा",
-        "C": "संघ",
-        "D": "लहर"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "How ............ do you want ? (Choose the correct option)",
-      "prashna": "आप ............ कितना चाहते हैं? (सही विकल्प चुनें)",
-      "options": {
-        "A": "much",
-        "B": "few",
-        "C": "some",
-        "D": "little"
-      },
-      "vikalpa": {
-        "A": "much",
-        "B": "few",
-        "C": "some",
-        "D": "little"
-      }
-    },
-    {
-      "id": "obj_31",
+      "id": "obj_2",
       "type": "objective",
       "chapter_name": "The Last Lesson",
       "question": "Choose the correct sentence :",
       "prashna": "सही वाक्य चुनें :",
       "options": {
-        "A": "It is high time he will start earning",
-        "B": "It is high time he started earning",
-        "C": "It is high time he starts earning",
-        "D": "It is high time he has started earning"
+        "A": "He opposes against us",
+        "B": "He opposes us against",
+        "C": "He opposes us",
+        "D": "Us opposes he"
       },
       "vikalpa": {
-        "A": "It is high time he will start earning",
-        "B": "It is high time he started earning",
-        "C": "It is high time he starts earning",
-        "D": "It is high time he has started earning"
+        "A": "He opposes against us",
+        "B": "He opposes us against",
+        "C": "He opposes us",
+        "D": "Us opposes he"
       }
     },
     {
-      "id": "obj_61",
+      "id": "obj_52",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "\"Someone was before me at my water-trough, And I, like a second comer, waiting.\" — is from",
-      "prashna": "\"मेरी पानी की नाद पर मुझसे पहले कोई था, और मैं, दूसरे आने वाले की तरह, प्रतीक्षा कर रहा हूँ।\" — यह कहाँ से है?",
+      "question": "............ you lend me your book ? (Choose the correct option)",
+      "prashna": "क्या ............ आप मुझे अपनी किताब उधार देंगे? (सही विकल्प चुनें)",
       "options": {
-        "A": "The Soldier",
-        "B": "Snake",
-        "C": "Fire Hymn",
-        "D": "An Epitaph"
+        "A": "Have",
+        "B": "Must",
+        "C": "Will",
+        "D": "Should"
       },
       "vikalpa": {
-        "A": "द सोल्जर",
-        "B": "स्नेक",
-        "C": "फायर हिम्न",
-        "D": "एन एपिटाफ़"
+        "A": "Have",
+        "B": "Must",
+        "C": "Will",
+        "D": "Should"
       }
     },
     {
-      "id": "obj_100",
+      "id": "obj_62",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "The latest period in the growth and development of the English language may be called the era of",
-      "prashna": "अंग्रेजी भाषा की वृद्धि और विकास के नवीनतम काल को किस युग का कहा जा सकता है?",
+      "question": "Who wrote 'The Old Playhouse and other Poems' ?",
+      "prashna": "'The Old Playhouse and other Poems' किसने लिखी है?",
       "options": {
-        "A": "Ancient Englishes",
-        "B": "Old Englishes",
-        "C": "Middle Englishes",
-        "D": "New Englishes"
+        "A": "T.S. Eliot",
+        "B": "D. H. Lawrence",
+        "C": "Keki N. Daruwala",
+        "D": "Kamala Das"
       },
       "vikalpa": {
-        "A": "प्राचीन अंग्रेजी",
-        "B": "पुरानी अंग्रेजी",
-        "C": "मध्य अंग्रेजी",
-        "D": "नई अंग्रेजी"
+        "A": "टी.एस. इलियट",
+        "B": "डी. एच. लॉरेंस",
+        "C": "केकी एन. दारूवाला",
+        "D": "कमला दास"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_8",
+      "id": "obj_13",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "I have to........... to the finish line and back. (Choose the correct option)",
-      "prashna": "मुझे फिनिश लाइन तक और वापस ........... होगा। (सही विकल्प चुनें)",
+      "question": "A doctor should examine him. (Choose the correct passive voice)",
+      "prashna": "एक डॉक्टर को उसकी जांच करनी चाहिए। (सही पैसिव वॉयस चुनें)",
       "options": {
-        "A": "run away",
-        "B": "run out of",
-        "C": "run",
-        "D": "run on"
+        "A": "He should be examined by a doctor",
+        "B": "A doctor must examine him",
+        "C": "Examined he must be by a doctor",
+        "D": "Doctor should be examining him"
       },
       "vikalpa": {
-        "A": "run away",
-        "B": "run out of",
-        "C": "run",
-        "D": "run on"
+        "A": "He should be examined by a doctor",
+        "B": "A doctor must examine him",
+        "C": "Examined he must be by a doctor",
+        "D": "Doctor should be examining him"
       }
     },
     {
-      "id": "obj_56",
+      "id": "obj_19",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "Choose the correct antonym of 'Stagnant':",
-      "prashna": "'Stagnant' (स्थिर/गतिहीन) का सही विलोम चुनें:",
+      "question": "We're getting...... away from the central idea. (Choose the correct option)",
+      "prashna": "हम केंद्रीय विचार से ...... दूर जा रहे हैं। (सही विकल्प चुनें)",
       "options": {
-        "A": "Progress",
-        "B": "Static",
-        "C": "Mobile",
-        "D": "Affluent"
+        "A": "farther",
+        "B": "either",
+        "C": "neither",
+        "D": "other"
       },
       "vikalpa": {
-        "A": "प्रगति",
-        "B": "स्थिर",
-        "C": "गतिशील (Mobile)",
-        "D": "संपन्न"
+        "A": "और दूर",
+        "B": "या तो",
+        "C": "न तो",
+        "D": "अन्य"
       }
     },
     {
-      "id": "obj_82",
+      "id": "obj_57",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "Keats was..........poet.",
-      "prashna": "कीट्स .......... कवि थे।",
+      "question": "Ashish is the man.......son won the scholarship. (Choose the correct option)",
+      "prashna": "आशीष वह व्यक्ति है ....... बेटे ने छात्रवृत्ति जीती। (सही विकल्प चुनें)",
       "options": {
-        "A": "Romantic",
-        "B": "Victorian",
-        "C": "Modern",
-        "D": "Augustan"
+        "A": "Who",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
       },
       "vikalpa": {
-        "A": "रोमांटिक (Romantic)",
-        "B": "विक्टोरियन",
-        "C": "आधुनिक",
-        "D": "अगस्तन"
+        "A": "जो",
+        "B": "जिसका (whose)",
+        "C": "जहाँ",
+        "D": "जिसे"
       }
     },
     {
-      "id": "obj_86",
+      "id": "obj_58",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "Buck had visited India................",
-      "prashna": "बक ने भारत का दौरा किया था................",
+      "question": "The new market.........everything. (Choose the correct option)",
+      "prashna": "नए बाजार में ......... सब कुछ है। (सही विकल्प चुनें)",
       "options": {
-        "A": "to see the Taj Mahal",
-        "B": "to see the Jama Masjid",
-        "C": "to meet Gandhiji",
-        "D": "to see and listen to two-groups of Indian people"
+        "A": "is",
+        "B": "was",
+        "C": "have",
+        "D": "has"
       },
       "vikalpa": {
-        "A": "ताजमहल देखने के लिए",
-        "B": "जामा मस्जिद देखने के लिए",
-        "C": "गांधीजी से मिलने के लिए",
-        "D": "भारतीय लोगों के दो समूहों को देखने और सुनने के लिए"
-      }
-    },
-    {
-      "id": "obj_88",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "India's glory is that it is...........",
-      "prashna": "भारत का गौरव यह है कि यह ........... है।",
-      "options": {
-        "A": "movable",
-        "B": "immovable",
-        "C": "ignorant",
-        "D": "uncivilized"
-      },
-      "vikalpa": {
-        "A": "गतिशील",
-        "B": "अटल/स्थिर (immovable)",
-        "C": "अज्ञानी",
-        "D": "असभ्य"
+        "A": "is",
+        "B": "was",
+        "C": "have",
+        "D": "has"
       }
     }
   ],
   "2024": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "........... chair is required. (Choose the correct option)",
+      "prashna": "........... कुर्सी की आवश्यकता है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "More",
+        "B": "Much",
+        "C": "Many",
+        "D": "An extra"
+      },
+      "vikalpa": {
+        "A": "अधिक",
+        "B": "ज्यादा",
+        "C": "कई",
+        "D": "एक अतिरिक्त"
+      }
+    },
     {
       "id": "obj_15",
       "type": "objective",
@@ -368,102 +362,140 @@
       }
     },
     {
-      "id": "obj_19",
+      "id": "obj_56",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "His progress satisfied me. (Choose the correct passive voice)",
-      "prashna": "उसकी प्रगति ने मुझे संतुष्ट किया। (सही पैसिव वॉइस चुनें)",
+      "question": "Choose the correct meaning of : \"To read between the lines\"",
+      "prashna": "\"To read between the lines\" का सही अर्थ चुनें:",
       "options": {
-        "A": "I was satisfying with his progress.",
-        "B": "I am satisfy with his progress.",
-        "C": "I was satisfied with his progress.",
-        "D": "I have to be satisfy with his progress."
+        "A": "to understand the hidden meaning",
+        "B": "to learn quickly",
+        "C": "to laugh at",
+        "D": "to have good sight"
       },
       "vikalpa": {
-        "A": "मैं उसकी प्रगति से संतुष्ट हो रहा था।",
-        "B": "मैं उसकी प्रगति से संतुष्ट हूँ।",
-        "C": "मैं उसकी प्रगति से संतुष्ट था।",
-        "D": "मुझे उसकी प्रगति से संतुष्ट होना है।"
+        "A": "छिपे हुए अर्थ को समझना",
+        "B": "जल्दी सीखना",
+        "C": "पर हँसना",
+        "D": "अच्छी दृष्टि होना"
       }
     },
     {
-      "id": "obj_43",
+      "id": "obj_65",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "He cannot put ........... with such insult. (Choose the correct option)",
-      "prashna": "वह इस तरह के अपमान को ........... नहीं कर सकता। (सही विकल्प चुनें)",
+      "question": "Our ancestors, therefore, set a limit to our ...........",
+      "prashna": "इसलिए हमारे पूर्वजों ने हमारी ........... की एक सीमा निर्धारित की थी",
       "options": {
-        "A": "of",
-        "B": "up",
-        "C": "down",
-        "D": "from"
+        "A": "land",
+        "B": "indulgences",
+        "C": "towns",
+        "D": "grains"
       },
       "vikalpa": {
-        "A": "का",
-        "B": "ऊपर (सहना - put up with)",
-        "C": "नीचे",
-        "D": "से"
+        "A": "भूमि",
+        "B": "भोग-विलास/विलासिता",
+        "C": "शहर",
+        "D": "अनाज"
       }
     },
     {
-      "id": "obj_57",
+      "id": "obj_68",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "Choose the odd one out :",
-      "prashna": "विषम चुनें :",
+      "question": "Leep, the dog, was bought for ........... rubles.",
+      "prashna": "लीप नाम का कुत्ता ........... रूबल में खरीदा गया था।",
       "options": {
-        "A": "School",
-        "B": "University",
-        "C": "Office",
-        "D": "College"
+        "A": "115",
+        "B": "65",
+        "C": "85",
+        "D": "75"
       },
       "vikalpa": {
-        "A": "स्कूल",
-        "B": "विश्वविद्यालय",
-        "C": "कार्यालय",
-        "D": "कॉलेज"
+        "A": "115",
+        "B": "65",
+        "C": "85",
+        "D": "75"
       }
     },
     {
-      "id": "obj_69",
+      "id": "obj_80",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "The ........... English period is generally considered to be from AD 1150 - 1500.",
-      "prashna": "........... अंग्रेजी काल सामान्यतः ईस्वी 1150 - 1500 तक माना जाता है।",
+      "question": "‘Hoping to cease not till death,’ — is from",
+      "prashna": "‘मृत्यु तक न रुकने की उम्मीद,’ — कहाँ से है?",
       "options": {
-        "A": "Old",
-        "B": "Middle",
-        "C": "Modern",
-        "D": "Post-modern"
+        "A": "The Fire-Hymn",
+        "B": "The Soldier",
+        "C": "Song of Myself",
+        "D": "My Grandmother’s House"
       },
       "vikalpa": {
-        "A": "पुराना (Old)",
-        "B": "मध्य (Middle)",
-        "C": "आधुनिक (Modern)",
-        "D": "उत्तर-आधुनिक (Post-modern)"
+        "A": "The Fire-Hymn",
+        "B": "The Soldier",
+        "C": "Song of Myself",
+        "D": "My Grandmother’s House"
       }
     },
     {
-      "id": "obj_79",
+      "id": "obj_83",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "Who wrote ‘... for every atom belonging to me as good belongs to you.’ ?",
-      "prashna": "‘... क्योंकि मेरा हर परमाणु उतना ही तुम्हारा है जितना मेरा।’ किसने लिखा है?",
+      "question": "The grandmother’s house fell ........... after her death.",
+      "prashna": "दादी की मृत्यु के बाद उनका घर ........... हो गया।",
       "options": {
-        "A": "Rupert Brooke",
-        "B": "Walt Whitman",
-        "C": "John Donne",
-        "D": "Walter de la Mare"
+        "A": "crazy",
+        "B": "noisy",
+        "C": "silent",
+        "D": "chaotic"
       },
       "vikalpa": {
-        "A": "रूपर्ट ब्रुक",
-        "B": "वॉल्ट व्हिटमैन",
-        "C": "जॉन डन",
-        "D": "वॉल्टर डी ला मेयर"
+        "A": "पागल",
+        "B": "शोर भरा",
+        "C": "शांत/सुनसान",
+        "D": "अस्त-व्यस्त"
       }
     }
   ],
   "2025": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "The synonym of 'Concealed' is",
+      "prashna": "'Concealed' का पर्यायवाची शब्द है",
+      "options": {
+        "A": "Covered",
+        "B": "Sealed",
+        "C": "Closed",
+        "D": "Hidden"
+      },
+      "vikalpa": {
+        "A": "Covered",
+        "B": "Sealed",
+        "C": "Closed",
+        "D": "Hidden"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "I want to take ......... classes this year.",
+      "prashna": "मैं इस साल ......... कक्षाएं लेना चाहता हूं।",
+      "options": {
+        "A": "less",
+        "B": "little",
+        "C": "fewer",
+        "D": "any"
+      },
+      "vikalpa": {
+        "A": "less",
+        "B": "little",
+        "C": "fewer",
+        "D": "any"
+      }
+    },
     {
       "id": "obj_13",
       "type": "objective",
@@ -484,22 +516,79 @@
       }
     },
     {
-      "id": "obj_33",
+      "id": "obj_20",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "The house caught fire. All the books were burnt. (Choose the correct option)",
-      "prashna": "घर में आग लग गई। सारी किताबें जल गईं। (सही विकल्प चुनें)",
+      "question": "The ladder leaned ......... the wall.",
+      "prashna": "सीढ़ी दीवार के ......... टिकी हुई थी।",
       "options": {
-        "A": "As the house caught fire and all the books were burnt",
-        "B": "The house having caught fire, all the books were burnt",
-        "C": "All the books were burnt, the house caught fire",
-        "D": "As the books burnt, the house caught fire"
+        "A": "against",
+        "B": "for",
+        "C": "at",
+        "D": "in"
       },
       "vikalpa": {
-        "A": "चूँकि घर में आग लगी और सारी किताबें जल गईं",
-        "B": "घर में आग लगने के कारण सारी किताबें जल गईं",
-        "C": "सारी किताबें जल गईं, घर में आग लग गई",
-        "D": "जैसे ही किताबें जलीं, घर में आग लग गई"
+        "A": "against",
+        "B": "for",
+        "C": "at",
+        "D": "in"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "The synonym of 'Genuine' is",
+      "prashna": "'Genuine' का पर्यायवाची शब्द है",
+      "options": {
+        "A": "Pleasant",
+        "B": "Angry",
+        "C": "Graceful",
+        "D": "Real"
+      },
+      "vikalpa": {
+        "A": "Pleasant",
+        "B": "Angry",
+        "C": "Graceful",
+        "D": "Real"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "I have lived in this town ......... childhood.",
+      "prashna": "मैं इस शहर में बचपन ......... रह रहा हूँ।",
+      "options": {
+        "A": "in",
+        "B": "for",
+        "C": "at",
+        "D": "since"
+      },
+      "vikalpa": {
+        "A": "में",
+        "B": "से (अवधि)",
+        "C": "पर",
+        "D": "से (निश्चित समय)"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter_name": "The Last Lesson",
+      "question": "I have nothing ......... to say.",
+      "prashna": "मेरे पास कहने के लिए ......... कुछ नहीं है।",
+      "options": {
+        "A": "further",
+        "B": "neither",
+        "C": "farther",
+        "D": "either"
+      },
+      "vikalpa": {
+        "A": "आगे",
+        "B": "न तो",
+        "C": "दूर",
+        "D": "या तो"
       }
     },
     {
@@ -522,79 +611,41 @@
       }
     },
     {
-      "id": "obj_60",
+      "id": "obj_74",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "He said, \"I am going to college just now.\" (Choose the correct indirect narration)",
-      "prashna": "उसने कहा, \"मैं अभी कॉलेज जा रहा हूँ।\" (सही अप्रत्यक्ष कथन चुनें)",
+      "question": "Dr. Radhakrishnan never lost his faith in",
+      "prashna": "डॉ. राधाकृष्णन ने कभी भी अपना विश्वास नहीं खोया",
       "options": {
-        "A": "He said that he was going to college just now.",
-        "B": "He asked that he was going to college just then.",
-        "C": "He said that he was going to college just then.",
-        "D": "He asked that he was going to college just now."
+        "A": "essential wealth",
+        "B": "essential knowledge",
+        "C": "essential humanity of man",
+        "D": "essential experience"
       },
       "vikalpa": {
-        "A": "उसने कहा कि वह अभी कॉलेज जा रहा था।",
-        "B": "उसने पूछा कि वह तभी कॉलेज जा रहा था।",
-        "C": "उसने कहा कि वह तभी कॉलेज जा रहा था।",
-        "D": "उसने पूछा कि वह अभी कॉलेज जा रहा था।"
+        "A": "अनिवार्य धन में",
+        "B": "अनिवार्य ज्ञान में",
+        "C": "मनुष्य की अनिवार्य मानवता में",
+        "D": "अनिवार्य अनुभव में"
       }
     },
     {
-      "id": "obj_76",
+      "id": "obj_99",
       "type": "objective",
       "chapter_name": "The Last Lesson",
-      "question": "Which language is the second language of India ?",
-      "prashna": "भारत की दूसरी भाषा कौन सी है?",
+      "question": "About ......... Christianity began to spread in England.",
+      "prashna": "इंग्लैंड में ईसाई धर्म लगभग ......... के आसपास फैलना शुरू हुआ।",
       "options": {
-        "A": "English",
-        "B": "Hindi",
-        "C": "Sanskrit",
-        "D": "Bhojpuri"
+        "A": "AD 400",
+        "B": "AD 600",
+        "C": "AD 500",
+        "D": "AD 700"
       },
       "vikalpa": {
-        "A": "अंग्रेजी",
-        "B": "हिंदी",
-        "C": "संस्कृत",
-        "D": "भोजपुरी"
-      }
-    },
-    {
-      "id": "obj_83",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "......... got the Nobel Prize in literature in 1950.",
-      "prashna": "......... को 1950 में साहित्य में नोबेल पुरस्कार मिला।",
-      "options": {
-        "A": "Mahatma Gandhi",
-        "B": "Dr. Zakir Hussain",
-        "C": "H. E. Bates",
-        "D": "Bertrand Russell"
-      },
-      "vikalpa": {
-        "A": "महात्मा गांधी",
-        "B": "डॉ. जाकिर हुसैन",
-        "C": "एच. ई. बेट्स",
-        "D": "बर्ट्रेंड रसेल"
-      }
-    },
-    {
-      "id": "obj_85",
-      "type": "objective",
-      "chapter_name": "The Last Lesson",
-      "question": "Lomov is a man of ......... temperament.",
-      "prashna": "लोमोव ......... स्वभाव का आदमी है।",
-      "options": {
-        "A": "happy",
-        "B": "negative",
-        "C": "sad",
-        "D": "nervous"
-      },
-      "vikalpa": {
-        "A": "खुश",
-        "B": "नकारात्मक",
-        "C": "दुखी",
-        "D": "घबराया हुआ"
+        "A": "AD 400",
+        "B": "AD 600",
+        "C": "AD 500",
+        "D": "AD 700"
       }
     }
   ]

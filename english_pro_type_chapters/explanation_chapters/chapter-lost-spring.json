@@ -1,36 +1,34 @@
 {
+  "2012": [
+    {
+      "id": "explanation_1",
+      "type": "explanation",
+      "chapter_name": "Lost Spring",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "For he seemed to me again like a king. Like a king in exile, uncrowned in the underworld, Now due to be crowned again.",
+        "b": "I who have lost My way and beg now at strangers doors to Receive love, at least in small change?",
+        "c": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast they music too.",
+        "d": "If I should die, think only this of me: That there's some corner of a foreign field that is for ever England.",
+        "e": "I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you."
+      },
+      "anuprashna": {
+        "a": "For he seemed to me again like a king. Like a king in exile, uncrowned in the underworld, Now due to be crowned again.",
+        "b": "I who have lost My way and beg now at strangers doors to Receive love, at least in small change?",
+        "c": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast they music too.",
+        "d": "If I should die, think only this of me: That there's some corner of a foreign field that is for ever England.",
+        "e": "I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you."
+      }
+    }
+  ],
   "2021": [
     {
-      "id": "exp_2_1",
+      "id": "exp_1_4",
       "type": "explanation",
       "chapter_name": "Lost Spring",
-      "question": "Explain any one of the following : \na) And what I assume you shall assume,\nfor every atom belonging to me as good belongs to you.",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \na) और जो मैं मानता हूँ वही तुम मानोगे,\nक्योंकि मेरा हर एक अणु उतना ही तुम्हारा भी है।"
-    },
-    {
-      "id": "exp_2_3",
-      "type": "explanation",
-      "chapter_name": "Lost Spring",
-      "question": "Explain any one of the following : \nc) If I should die, think only this of me ;\nThat there's some corner in a foreign field\nThat is forever England.",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nc) यदि मेरी मृत्यु हो जाए, तो मेरे बारे में केवल यही सोचना;\nकि विदेशी क्षेत्र का कोई कोना है\nजो हमेशा के लिए इंग्लैंड है।"
-    }
-  ],
-  "2023": [
-    {
-      "id": "exp_2",
-      "type": "explanation",
-      "chapter_name": "Lost Spring",
-      "question": "Explain any one of the following:\n(a) And laughter, learnt of friends; and gentleness, In hearts at peace, under an English heaven.\n(b) The house withdrew into silence, snakes moved\nAmong books I was then too young\nTo read, and my blood turned cold like the moon.\n(c) I think she was the most beautiful lady\nThat ever was in the West Country.\n(d) Where are the songs of spring? Ay, where are they?\nThink not of them, thou hast thy music too.",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\n(a) और दोस्तों से सीखी हुई हंसी; और सज्जनता, शांतिपूर्ण दिलों में, एक अंग्रेजी स्वर्ग के नीचे।\n(b) घर सन्नाटे में डूब गया, सांप रेंगने लगे\nकिताबों के बीच, तब मैं बहुत छोटा था\nपढ़ने के लिए, और मेरा खून चाँद की तरह ठंडा हो गया।\n(c) मुझे लगता है कि वह सबसे सुंदर महिला थी\nजो कभी पश्चिमी देश (वेस्ट कंट्री) में हुई।\n(d) बसंत के गीत कहाँ हैं? हाय, वे कहाँ हैं?\nउनके बारे में मत सोचो, तुम्हारा अपना संगीत भी है।"
-    }
-  ],
-  "2024": [
-    {
-      "id": "exp_2_4",
-      "type": "explanation",
-      "chapter_name": "Lost Spring",
-      "question": "Explain any one of the following : ‘And yet those voices :\nIf you were not afraid, you would kill him !’",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'और फिर भी वे आवाजें:\nयदि तुम डरे नहीं होते, तो तुम उसे मार डालते !'"
+      "question": "Explain any one of the following : \nd) \"There's absolutely no future for a boy like you.\"",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nd) \"तुम्हारे जैसे लड़के के लिए बिल्कुल कोई भविष्य नहीं है।\""
     }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "2014": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Name the authors of the following works:",
+      "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए:",
+      "sub_questions": {
+        "a": "Tom Jones",
+        "b": "Coolie",
+        "c": "David Copperfield",
+        "d": "The Guide",
+        "e": "The Merchant of Venice"
+      },
+      "anuprashna": {
+        "a": "टॉम जोन्स",
+        "b": "कुली",
+        "c": "डेविड कॉपरफील्ड",
+        "d": "द गाइड",
+        "e": "द मर्चेंट ऑफ वेनिस"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Read the following sentences and state whether they are true or false:",
+      "prashna": "निम्नलिखित वाक्यों को पढ़ें और बताएं कि वे सही हैं या गलत:",
+      "sub_questions": {
+        "a": "There must have been a time when homosapiens was a very rare species.",
+        "b": "The ways of managing childbirth in traditional societies are not many and varied."
+      },
+      "anuprashna": {
+        "a": "एक समय ऐसा रहा होगा जब होमोसैपियंस एक बहुत ही दुर्लभ प्रजाति थी।",
+        "b": "पारंपरिक समाजों में प्रसव के प्रबंधन के तरीके बहुत और विविध नहीं हैं।"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_answer_1",
+      "type": "short_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Answer any six of the following in about 30–50 words each:",
+      "instructions": "Answer any six. (6×2=12)",
+      "sub_questions": {
+        "a": "Why did our ancestors denounce us from luxuries and pleasures?",
+        "b": "What is Shobh’s father’s reason to dislike a minister?",
+        "c": "Why does Dr. Zakir Husain call India ‘the young state of an ancient people’?",
+        "d": "What was the great lesson that India had to teach the West?",
+        "e": "In the poem ‘An Epitaph’, what happens when the poet dies?",
+        "f": "Why is Macavity called a ‘master criminal’?",
+        "g": "Why is the speaker in ‘My Grandmother’s House’ proud of living in that house?",
+        "h": "What did the Fire Hymn say to the speaker?",
+        "i": "What are the features of a sonnet?",
+        "j": "Why are the Indians quick learners of English?"
+      }
+    }
+  ]
+}

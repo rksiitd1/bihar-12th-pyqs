@@ -2,146 +2,164 @@
   {
     "type": "objective",
     "total_chapters": 19,
-    "total_items": 500,
+    "total_items": 636,
     "chapters": [
-      {
-        "chapter": "A Thing of Beauty",
-        "file": "chapter-a-thing-of-beauty.json",
-        "total_items": 28,
-        "years": 5
-      },
-      {
-        "chapter": "The Third Level",
-        "file": "chapter-the-third-level.json",
-        "total_items": 26,
-        "years": 5
-      },
-      {
-        "chapter": "Poets and Pancakes",
-        "file": "chapter-poets-and-pancakes.json",
-        "total_items": 25,
-        "years": 5
-      },
-      {
-        "chapter": "The Interview",
-        "file": "chapter-the-interview.json",
-        "total_items": 32,
-        "years": 5
-      },
-      {
-        "chapter": "The Enemy",
-        "file": "chapter-the-enemy.json",
-        "total_items": 19,
-        "years": 5
-      },
       {
         "chapter": "My Mother at Sixty-Six",
         "file": "chapter-my-mother-at-sixty-six.json",
-        "total_items": 25,
-        "years": 5
-      },
-      {
-        "chapter": "Lost Spring",
-        "file": "chapter-lost-spring.json",
-        "total_items": 26,
-        "years": 5
-      },
-      {
-        "chapter": "Deep Water",
-        "file": "chapter-deep-water.json",
-        "total_items": 26,
-        "years": 5
-      },
-      {
-        "chapter": "Indigo",
-        "file": "chapter-indigo.json",
-        "total_items": 31,
-        "years": 5
-      },
-      {
-        "chapter": "Journey to the End of the Earth",
-        "file": "chapter-journey-to-the-end-of-the-earth.json",
-        "total_items": 28,
-        "years": 5
-      },
-      {
-        "chapter": "Aunt Jennifer's Tigers",
-        "file": "chapter-aunt-jennifers-tigers.json",
-        "total_items": 22,
-        "years": 5
-      },
-      {
-        "chapter": "A Roadside Stand",
-        "file": "chapter-a-roadside-stand.json",
-        "total_items": 28,
-        "years": 5
-      },
-      {
-        "chapter": "On the Face of It",
-        "file": "chapter-on-the-face-of-it.json",
-        "total_items": 28,
-        "years": 5
-      },
-      {
-        "chapter": "The Last Lesson",
-        "file": "chapter-the-last-lesson.json",
-        "total_items": 31,
-        "years": 5
+        "total_items": 36,
+        "years": 8
       },
       {
         "chapter": "The Tiger King",
         "file": "chapter-the-tiger-king.json",
-        "total_items": 31,
-        "years": 5
-      },
-      {
-        "chapter": "The Rattrap",
-        "file": "chapter-the-rattrap.json",
-        "total_items": 31,
-        "years": 5
-      },
-      {
-        "chapter": "Keeping Quiet",
-        "file": "chapter-keeping-quiet.json",
-        "total_items": 17,
-        "years": 5
-      },
-      {
-        "chapter": "Memories of Childhood",
-        "file": "chapter-memories-of-childhood.json",
-        "total_items": 21,
-        "years": 5
+        "total_items": 34,
+        "years": 8
       },
       {
         "chapter": "Going Places",
         "file": "chapter-going-places.json",
+        "total_items": 34,
+        "years": 8
+      },
+      {
+        "chapter": "Memories of Childhood",
+        "file": "chapter-memories-of-childhood.json",
+        "total_items": 33,
+        "years": 8
+      },
+      {
+        "chapter": "Keeping Quiet",
+        "file": "chapter-keeping-quiet.json",
+        "total_items": 40,
+        "years": 8
+      },
+      {
+        "chapter": "The Interview",
+        "file": "chapter-the-interview.json",
+        "total_items": 34,
+        "years": 8
+      },
+      {
+        "chapter": "Indigo",
+        "file": "chapter-indigo.json",
+        "total_items": 32,
+        "years": 8
+      },
+      {
+        "chapter": "A Roadside Stand",
+        "file": "chapter-a-roadside-stand.json",
+        "total_items": 30,
+        "years": 8
+      },
+      {
+        "chapter": "A Thing of Beauty",
+        "file": "chapter-a-thing-of-beauty.json",
+        "total_items": 34,
+        "years": 8
+      },
+      {
+        "chapter": "On the Face of It",
+        "file": "chapter-on-the-face-of-it.json",
         "total_items": 25,
-        "years": 5
+        "years": 7
+      },
+      {
+        "chapter": "The Enemy",
+        "file": "chapter-the-enemy.json",
+        "total_items": 38,
+        "years": 8
+      },
+      {
+        "chapter": "Deep Water",
+        "file": "chapter-deep-water.json",
+        "total_items": 32,
+        "years": 8
+      },
+      {
+        "chapter": "The Last Lesson",
+        "file": "chapter-the-last-lesson.json",
+        "total_items": 34,
+        "years": 8
+      },
+      {
+        "chapter": "The Rattrap",
+        "file": "chapter-the-rattrap.json",
+        "total_items": 28,
+        "years": 8
+      },
+      {
+        "chapter": "Journey to the End of the Earth",
+        "file": "chapter-journey-to-the-end-of-the-earth.json",
+        "total_items": 30,
+        "years": 8
+      },
+      {
+        "chapter": "Lost Spring",
+        "file": "chapter-lost-spring.json",
+        "total_items": 34,
+        "years": 7
+      },
+      {
+        "chapter": "The Third Level",
+        "file": "chapter-the-third-level.json",
+        "total_items": 28,
+        "years": 7
+      },
+      {
+        "chapter": "Poets and Pancakes",
+        "file": "chapter-poets-and-pancakes.json",
+        "total_items": 42,
+        "years": 7
+      },
+      {
+        "chapter": "Aunt Jennifer's Tigers",
+        "file": "chapter-aunt-jennifers-tigers.json",
+        "total_items": 38,
+        "years": 7
       }
     ]
   },
   {
     "type": "essay",
     "total_chapters": 1,
-    "total_items": 5,
+    "total_items": 17,
     "chapters": [
       {
         "chapter": "Grammar",
         "file": "chapter-grammar.json",
-        "total_items": 5,
-        "years": 5
+        "total_items": 17,
+        "years": 17
       }
     ]
   },
   {
     "type": "explanation",
-    "total_chapters": 12,
-    "total_items": 22,
+    "total_chapters": 17,
+    "total_items": 33,
     "chapters": [
       {
-        "chapter": "Memories of Childhood",
-        "file": "chapter-memories-of-childhood.json",
-        "total_items": 3,
+        "chapter": "Lost Spring",
+        "file": "chapter-lost-spring.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "The Tiger King",
+        "file": "chapter-the-tiger-king.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Journey to the End of the Earth",
+        "file": "chapter-journey-to-the-end-of-the-earth.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "Poets and Pancakes",
+        "file": "chapter-poets-and-pancakes.json",
+        "total_items": 2,
         "years": 2
       },
       {
@@ -151,32 +169,14 @@
         "years": 1
       },
       {
-        "chapter": "The Tiger King",
-        "file": "chapter-the-tiger-king.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Lost Spring",
-        "file": "chapter-lost-spring.json",
+        "chapter": "Deep Water",
+        "file": "chapter-deep-water.json",
         "total_items": 4,
-        "years": 3
-      },
-      {
-        "chapter": "My Mother at Sixty-Six",
-        "file": "chapter-my-mother-at-sixty-six.json",
-        "total_items": 2,
         "years": 2
       },
       {
         "chapter": "The Last Lesson",
         "file": "chapter-the-last-lesson.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "A Roadside Stand",
-        "file": "chapter-a-roadside-stand.json",
         "total_items": 2,
         "years": 2
       },
@@ -187,26 +187,56 @@
         "years": 2
       },
       {
-        "chapter": "Journey to the End of the Earth",
-        "file": "chapter-journey-to-the-end-of-the-earth.json",
+        "chapter": "A Thing of Beauty",
+        "file": "chapter-a-thing-of-beauty.json",
+        "total_items": 1,
+        "years": 1
+      },
+      {
+        "chapter": "Memories of Childhood",
+        "file": "chapter-memories-of-childhood.json",
         "total_items": 2,
         "years": 2
       },
       {
-        "chapter": "The Third Level",
-        "file": "chapter-the-third-level.json",
+        "chapter": "On the Face of It",
+        "file": "chapter-on-the-face-of-it.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "A Roadside Stand",
+        "file": "chapter-a-roadside-stand.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "Deep Water",
-        "file": "chapter-deep-water.json",
+        "chapter": "My Mother at Sixty-Six",
+        "file": "chapter-my-mother-at-sixty-six.json",
         "total_items": 1,
         "years": 1
       },
       {
-        "chapter": "A Thing of Beauty",
-        "file": "chapter-a-thing-of-beauty.json",
+        "chapter": "Aunt Jennifer's Tigers",
+        "file": "chapter-aunt-jennifers-tigers.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "The Enemy",
+        "file": "chapter-the-enemy.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "The Interview",
+        "file": "chapter-the-interview.json",
+        "total_items": 3,
+        "years": 2
+      },
+      {
+        "chapter": "Going Places",
+        "file": "chapter-going-places.json",
         "total_items": 1,
         "years": 1
       }
@@ -215,129 +245,26 @@
   {
     "type": "letter_application",
     "total_chapters": 1,
-    "total_items": 10,
+    "total_items": 12,
     "chapters": [
       {
         "chapter": "Grammar",
         "file": "chapter-grammar.json",
-        "total_items": 10,
-        "years": 5
+        "total_items": 12,
+        "years": 6
       }
     ]
   },
   {
     "type": "short_answer",
-    "total_chapters": 5,
-    "total_items": 5,
+    "total_chapters": 19,
+    "total_items": 66,
     "chapters": [
-      {
-        "chapter": "Memories of Childhood",
-        "file": "chapter-memories-of-childhood.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Going Places",
-        "file": "chapter-going-places.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "The Rattrap",
-        "file": "chapter-the-rattrap.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "The Enemy",
-        "file": "chapter-the-enemy.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Poets and Pancakes",
-        "file": "chapter-poets-and-pancakes.json",
-        "total_items": 1,
-        "years": 1
-      }
-    ]
-  },
-  {
-    "type": "long_answer",
-    "total_chapters": 17,
-    "total_items": 34,
-    "chapters": [
-      {
-        "chapter": "The Third Level",
-        "file": "chapter-the-third-level.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "The Interview",
-        "file": "chapter-the-interview.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "A Thing of Beauty",
-        "file": "chapter-a-thing-of-beauty.json",
-        "total_items": 3,
-        "years": 2
-      },
-      {
-        "chapter": "The Last Lesson",
-        "file": "chapter-the-last-lesson.json",
-        "total_items": 4,
-        "years": 4
-      },
-      {
-        "chapter": "My Mother at Sixty-Six",
-        "file": "chapter-my-mother-at-sixty-six.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Going Places",
-        "file": "chapter-going-places.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Memories of Childhood",
-        "file": "chapter-memories-of-childhood.json",
-        "total_items": 3,
-        "years": 2
-      },
-      {
-        "chapter": "Indigo",
-        "file": "chapter-indigo.json",
-        "total_items": 2,
-        "years": 2
-      },
-      {
-        "chapter": "Poets and Pancakes",
-        "file": "chapter-poets-and-pancakes.json",
-        "total_items": 1,
-        "years": 1
-      },
       {
         "chapter": "Journey to the End of the Earth",
         "file": "chapter-journey-to-the-end-of-the-earth.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "The Tiger King",
-        "file": "chapter-the-tiger-king.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "chapter": "Deep Water",
-        "file": "chapter-deep-water.json",
-        "total_items": 1,
-        "years": 1
+        "total_items": 6,
+        "years": 3
       },
       {
         "chapter": "A Roadside Stand",
@@ -346,27 +273,226 @@
         "years": 2
       },
       {
-        "chapter": "The Rattrap",
-        "file": "chapter-the-rattrap.json",
+        "chapter": "Keeping Quiet",
+        "file": "chapter-keeping-quiet.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "The Interview",
+        "file": "chapter-the-interview.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "The Tiger King",
+        "file": "chapter-the-tiger-king.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "Poets and Pancakes",
+        "file": "chapter-poets-and-pancakes.json",
         "total_items": 2,
         "years": 2
       },
       {
-        "chapter": "Lost Spring",
-        "file": "chapter-lost-spring.json",
-        "total_items": 4,
-        "years": 2
-      },
-      {
-        "chapter": "The Enemy",
-        "file": "chapter-the-enemy.json",
+        "chapter": "The Rattrap",
+        "file": "chapter-the-rattrap.json",
         "total_items": 1,
         "years": 1
       },
       {
+        "chapter": "The Third Level",
+        "file": "chapter-the-third-level.json",
+        "total_items": 7,
+        "years": 4
+      },
+      {
+        "chapter": "Aunt Jennifer's Tigers",
+        "file": "chapter-aunt-jennifers-tigers.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "On the Face of It",
+        "file": "chapter-on-the-face-of-it.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "Going Places",
+        "file": "chapter-going-places.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "Indigo",
+        "file": "chapter-indigo.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "A Thing of Beauty",
+        "file": "chapter-a-thing-of-beauty.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "Deep Water",
+        "file": "chapter-deep-water.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Memories of Childhood",
+        "file": "chapter-memories-of-childhood.json",
+        "total_items": 5,
+        "years": 4
+      },
+      {
+        "chapter": "Lost Spring",
+        "file": "chapter-lost-spring.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "The Enemy",
+        "file": "chapter-the-enemy.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "The Last Lesson",
+        "file": "chapter-the-last-lesson.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "My Mother at Sixty-Six",
+        "file": "chapter-my-mother-at-sixty-six.json",
+        "total_items": 2,
+        "years": 1
+      }
+    ]
+  },
+  {
+    "type": "long_answer",
+    "total_chapters": 19,
+    "total_items": 94,
+    "chapters": [
+      {
+        "chapter": "The Tiger King",
+        "file": "chapter-the-tiger-king.json",
+        "total_items": 6,
+        "years": 5
+      },
+      {
+        "chapter": "On the Face of It",
+        "file": "chapter-on-the-face-of-it.json",
+        "total_items": 3,
+        "years": 3
+      },
+      {
+        "chapter": "Going Places",
+        "file": "chapter-going-places.json",
+        "total_items": 10,
+        "years": 6
+      },
+      {
         "chapter": "Keeping Quiet",
         "file": "chapter-keeping-quiet.json",
+        "total_items": 8,
+        "years": 6
+      },
+      {
+        "chapter": "Poets and Pancakes",
+        "file": "chapter-poets-and-pancakes.json",
+        "total_items": 7,
+        "years": 6
+      },
+      {
+        "chapter": "The Rattrap",
+        "file": "chapter-the-rattrap.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "Indigo",
+        "file": "chapter-indigo.json",
         "total_items": 3,
+        "years": 2
+      },
+      {
+        "chapter": "Memories of Childhood",
+        "file": "chapter-memories-of-childhood.json",
+        "total_items": 8,
+        "years": 8
+      },
+      {
+        "chapter": "Aunt Jennifer's Tigers",
+        "file": "chapter-aunt-jennifers-tigers.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "The Third Level",
+        "file": "chapter-the-third-level.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "Deep Water",
+        "file": "chapter-deep-water.json",
+        "total_items": 4,
+        "years": 3
+      },
+      {
+        "chapter": "The Last Lesson",
+        "file": "chapter-the-last-lesson.json",
+        "total_items": 3,
+        "years": 2
+      },
+      {
+        "chapter": "Journey to the End of the Earth",
+        "file": "chapter-journey-to-the-end-of-the-earth.json",
+        "total_items": 5,
+        "years": 5
+      },
+      {
+        "chapter": "A Roadside Stand",
+        "file": "chapter-a-roadside-stand.json",
+        "total_items": 7,
+        "years": 5
+      },
+      {
+        "chapter": "Lost Spring",
+        "file": "chapter-lost-spring.json",
+        "total_items": 5,
+        "years": 4
+      },
+      {
+        "chapter": "My Mother at Sixty-Six",
+        "file": "chapter-my-mother-at-sixty-six.json",
+        "total_items": 4,
+        "years": 4
+      },
+      {
+        "chapter": "A Thing of Beauty",
+        "file": "chapter-a-thing-of-beauty.json",
+        "total_items": 2,
+        "years": 2
+      },
+      {
+        "chapter": "The Interview",
+        "file": "chapter-the-interview.json",
+        "total_items": 5,
+        "years": 5
+      },
+      {
+        "chapter": "The Enemy",
+        "file": "chapter-the-enemy.json",
+        "total_items": 2,
         "years": 2
       }
     ]
@@ -374,26 +500,26 @@
   {
     "type": "passage_comprehension",
     "total_chapters": 1,
-    "total_items": 4,
+    "total_items": 14,
     "chapters": [
       {
         "chapter": "Grammar",
         "file": "chapter-grammar.json",
-        "total_items": 4,
-        "years": 4
+        "total_items": 14,
+        "years": 14
       }
     ]
   },
   {
     "type": "precis",
     "total_chapters": 1,
-    "total_items": 5,
+    "total_items": 15,
     "chapters": [
       {
         "chapter": "Grammar",
         "file": "chapter-grammar.json",
-        "total_items": 5,
-        "years": 5
+        "total_items": 15,
+        "years": 15
       }
     ]
   }

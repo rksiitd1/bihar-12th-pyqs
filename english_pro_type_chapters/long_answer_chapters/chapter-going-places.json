@@ -1,11 +1,94 @@
 {
-  "2021": [
+  "2009": [
     {
-      "id": "long_1_6",
+      "id": "long_3_1",
       "type": "long_answer",
       "chapter_name": "Going Places",
-      "question": "Match the names of the authors in List-A with their works in List-B : \nList-A: i) Pearl S. Buck, ii) Dorothy L. Sayers, iii) Martin Luther King, Jr., iv) Anton Chekov, v) Shiga Naoya \nList-B: a) The Artist, b) A Marriage Proposal, c) How Free is the Press, d) India Through a Traveller's Eyes, e) I Have A Dream",
-      "prashna": "सूची-A में दिए गए लेखकों के नामों का उनकी सूची-B में दी गई रचनाओं से मिलान करें: \nसूची-A: i) पर्ल एस. बक, ii) डोरोथी एल. सायर्स, iii) मार्टिन लूथर किंग, जूनियर, iv) एंटन चेखव, v) शिगा नाओया \nसूची-B: a) द आर्टिस्ट, b) ए मैरिज प्रपोजल, c) हाउ फ्री इज द प्रेस, d) इंडिया थ्रू ए ट्रैवलर्स आइज, e) आई हैव ए ड्रीम"
+      "question": "Write the names of the five Indians writing in English and also mention one poem or literary work of each of them.",
+      "prashna": "अंग्रेजी में लिखने वाले पांच भारतीयों के नाम लिखें और उनमें से प्रत्येक की एक कविता या साहित्यिक कृति का उल्लेख करें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Summarise any one of the following pieces: (a) The Earth (b) India Though a Traveller's Eyes (c) Indian Civilization and Culture.",
+      "prashna": "निम्नलिखित गद्य रचनाओं में से किसी एक का सारांश लिखिए: (क) द अर्थ (ख) इंडिया थ्रू अ ट्रैवलर्स आईज़ (ग) इंडियन सिविलाइजेशन एंड कल्चर।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Write a short note on Indian English Poetry.",
+      "prashna": "भारतीय अंग्रेजी कविता पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Write a short note on English as the second language of India.",
+      "prashna": "भारत की दूसरी भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Name any five Indian English novelists.",
+      "prashna": "किन्हीं पांच भारतीय अंग्रेजी उपन्यासकारों के नाम बताइए।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Summarise any one of the following pieces: (a) A Pinch of Snuff (b) India Through a Traveller's Eyes. (c) Bharat is My Home.",
+      "prashna": "निम्नलिखित में से किसी एक अंश का सारांश लिखें: (क) ए पिंच ऑफ स्नफ (ख) इंडिया थ्रू ए ट्रैवलर्स आइज (ग) भारत इज माई होम।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Summarise any one of the following pieces: (a) Indian Civilization and Culture (b) A child is Born (c) The Artist",
+      "prashna": "निम्नलिखित रचनाओं में से किसी एक का सारांश प्रस्तुत करें: (क) इंडियन सिविलाइजेशन एंड कल्चर (ख) ए चाइल्ड इज बॉर्न (ग) द आर्टिस्ट"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "OR\nWrite a short note on English as a world language.",
+      "prashna": "अथवा\nविश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Write a note on English as a second language of India.",
+      "prashna": "भारत की दूसरी भाषा के रूप में अंग्रेजी पर एक टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Translate any five into English :",
+      "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें :",
+      "sub_questions": {
+        "i": "आपकी घड़ी में कितना बजा है ?",
+        "ii": "मुझे सफलता में विश्वास है ।",
+        "iii": "हमेशा अपने बड़ों का आदर करो ।",
+        "iv": "डॉ० राजेन्द्र प्रसाद भारत के प्रथम राष्ट्रपति थे ।",
+        "v": "गोपाल बहुत अच्छा विद्यार्थी है ।",
+        "vi": "मैं फैसला कर चुकी हूँ ।",
+        "vii": "मेरा भाई बहुत नटखट है ।",
+        "viii": "हमें पेड़ लगाना चाहिए"
+      }
     }
   ]
 }

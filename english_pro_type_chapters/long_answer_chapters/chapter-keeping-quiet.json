@@ -1,69 +1,70 @@
 {
-  "2024": [
+  "2009": [
     {
-      "id": "long_1_4",
+      "id": "long_3_2",
       "type": "long_answer",
       "chapter_name": "Keeping Quiet",
-      "question": "Match the names of the poems given in List-A with their poets in List-B :\nList-A\ni) The Soldier\nii) To Autumn\niii) Snake\niv) My Grandmother’s House\nv) Fire-Hymn\n\nList-B\na) John Keats\nb) Rupert Brooke\nc) K. N. Daruwala\nd) D. H. Lawrence\ne) Kamala Das",
-      "prashna": "सूची-A में दी गई कविताओं के नामों का सूची-B में उनके कवियों के साथ मिलान करें:\nसूची-A\ni) The Soldier\nii) To Autumn\niii) Snake\niv) My Grandmother’s House\nv) Fire-Hymn\n\nसूची-B\na) John Keats\nb) Rupert Brooke\nc) K. N. Daruwala\nd) D. H. Lawrence\ne) Kamala Das"
-    }
-  ],
-  "2025": [
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "chapter_name": "Keeping Quiet",
-      "question": "Translate any five into English :",
-      "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें :",
-      "sub_questions": {
-        "i": "आपकी घड़ी में कितना बजा है ?",
-        "ii": "मुझे सफलता में विश्वास है ।",
-        "iii": "हमेशा अपने बड़ों का आदर करो ।",
-        "iv": "डॉ० राजेन्द्र प्रसाद भारत के प्रथम राष्ट्रपति थे ।",
-        "v": "गोपाल बहुत अच्छा विद्यार्थी है ।",
-        "vi": "मैं फैसला कर चुकी हूँ ।",
-        "vii": "मेरा भाई बहुत नटखट है ।",
-        "viii": "हमें पेड़ लगाना चाहिए"
-      }
+      "question": "Write a note on the importance of English in India with special reference to globalisation of economy.",
+      "prashna": "अर्थव्यवस्था के वैश्वीकरण के विशेष संदर्भ में भारत में अंग्रेजी के महत्व पर एक टिप्पणी लिखें।"
     },
     {
-      "id": "long_6",
+      "id": "long_4_2",
       "type": "long_answer",
       "chapter_name": "Keeping Quiet",
-      "question": "Match the names of the prose-pieces in List-A with their authors in List-B :",
-      "prashna": "सूची-A में गद्य-खंडों के नामों का सूची-B में उनके लेखकों के साथ मिलान करें:",
-      "sub_questions": {
-        "List-A": [
-          "i) How Free is the Press",
-          "ii) Bharat is My Home",
-          "iii) The Artist",
-          "iv) I Have a Dream",
-          "v) Ideas That Have Helped Mankind"
-        ],
-        "List-B": [
-          "a) Martin Luther King, Jr.",
-          "b) Bertrand Russell",
-          "c) Dr. Zakir Hussain",
-          "d) Dorothy L. Sayers",
-          "e) Shiga Naoya"
-        ]
-      },
-      "anuprashna": {
-        "List-A": [
-          "i) How Free is the Press",
-          "ii) Bharat is My Home",
-          "iii) The Artist",
-          "iv) I Have a Dream",
-          "v) Ideas That Have Helped Mankind"
-        ],
-        "List-B": [
-          "a) मार्टिन लूथर किंग, जूनियर",
-          "b) बर्ट्रेंड रसेल",
-          "c) डॉ जाकिर हुसैन",
-          "d) डोरोथी एल सायर्स",
-          "e) शिगा नाओया"
-        ]
-      }
+      "question": "Write a note on the future of English in India.",
+      "prashna": "भारत में अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Write a short note on Indian English novel.",
+      "prashna": "भारतीय अंग्रेजी उपन्यास पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Name any five English novelists.",
+      "prashna": "किन्हीं पांच अंग्रेजी उपन्यासकारों के नाम बताइए।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Discuss the importance of English in India.",
+      "prashna": "भारत में अंग्रेजी के महत्व पर चर्चा करें।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_answer_1_2",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Write a note on the development of Indian poetry in English.",
+      "instructions": "OR"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1_3",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "c) Write a note on the dialects of Middle English.\nOR Write a note on the future of English.\nOR Write a note on American English.",
+      "prashna": "ग) मध्य अंग्रेजी की बोलियों पर एक टिप्पणी लिखें।\nअथवा अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।\nअथवा अमेरिकी अंग्रेजी पर एक टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_1_6",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "f) Match the names of the authors given in List-A with their works in List-B :\nList-A: i) H. E. Bates, ii) Germaine Greer, iii) Dorothy L. Sayers, iv) Dr. Zakir Hussain, v) Martin Luther King, Jr.\nList-B: a) How Free is the Press, b) Bharat is My Home, c) I have a Dream, d) A Child is Born, e) The Earth",
+      "prashna": "च) सूची-A में दिए गए लेखकों के नामों का मिलान सूची-B में उनकी कृतियों से करें:\nसूची-A: i) एच. ई. बेट्स, ii) जर्मेन ग्रीर, iii) डोरोथी एल. सायर्स, iv) डॉ. जाकिर हुसैन, v) मार्टिन लूथर किंग, जूनियर\nसूची-B: a) हाउ फ्री इज द प्रेस, b) भारत इज माय होम, c) आई हैव अ ड्रीम, d) अ चाइल्ड इज बोर्न, e) द अर्थ"
     }
   ]
 }

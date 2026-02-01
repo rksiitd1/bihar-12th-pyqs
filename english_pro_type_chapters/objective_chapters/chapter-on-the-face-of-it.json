@@ -1,543 +1,490 @@
 {
+  "2018": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "They would succeed if they (try) (Choose the most suitable option)",
+      "prashna": "वे सफल होते यदि उन्होंने (प्रयास किया होता) (सबसे उपयुक्त विकल्प चुनें)",
+      "options": {
+        "A": "They would succeed if they would try.",
+        "B": "They would succeed if they had tried.",
+        "C": "They would succeed if they were trying.",
+        "D": "They would succeed if they tried."
+      },
+      "vikalpa": {
+        "A": "They would succeed if they would try.",
+        "B": "They would succeed if they had tried.",
+        "C": "They would succeed if they were trying.",
+        "D": "They would succeed if they tried."
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "The writer of the piece 'On Letter Writing' is ................. (Choose the correct option)",
+      "prashna": "'On Letter Writing' लेख के लेखक ................. हैं (सही विकल्प चुनें)",
+      "options": {
+        "A": "A. G. Gardiner",
+        "B": "Robert Lynd",
+        "C": "J. C. Hill",
+        "D": "C. E. M. Joad"
+      },
+      "vikalpa": {
+        "A": "ए. जी. गार्डिनर",
+        "B": "रॉबर्ट लिंड",
+        "C": "जे. सी. हिल",
+        "D": "सी. ई. एम. जोड"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "Choose the correct sentence:",
+      "prashna": "सही वाक्य चुनें:",
+      "options": {
+        "A": "He will never speak lie",
+        "B": "He will never tell lie",
+        "C": "He will never say a lie",
+        "D": "He will never tell a lie"
+      },
+      "vikalpa": {
+        "A": "He will never speak lie",
+        "B": "He will never tell lie",
+        "C": "He will never say a lie",
+        "D": "He will never tell a lie"
+      }
+    }
+  ],
   "2021": [
     {
-      "id": "obj_28",
+      "id": "obj_10",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "Our path is beset ............... difficulties. (Choose the correct preposition)",
-      "prashna": "हमारा रास्ता कठिनाइयों ............... घिरा हुआ है। (सही प्रीपोज़िशन चुनें)",
+      "question": "He told the boy not to sit there. (Choose the correct direct narration)",
+      "prashna": "उसने लड़के से वहाँ न बैठने को कहा। (सही प्रत्यक्ष कथन चुनें)",
+      "options": {
+        "A": "\"Doesn't sit there,\" he said to the boy",
+        "B": "\"Didn't sit there,\" he said to the boy",
+        "C": "\"Didn't sit here,\" he said to the boy",
+        "D": "\"Don't sit here,\" he said to the boy"
+      },
+      "vikalpa": {
+        "A": "\"वहाँ मत बैठो,\" उसने लड़के से कहा",
+        "B": "\"वहाँ नहीं बैठा,\" उसने लड़के से कहा",
+        "C": "\"यहाँ नहीं बैठा,\" उसने लड़के से कहा",
+        "D": "\"यहाँ मत बैठो,\" उसने लड़के से कहा"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "He is attentive ............... his duty. (Choose the correct preposition)",
+      "prashna": "वह अपने कर्तव्य ............... प्रति चौकस है। (सही प्रीपोज़िशन चुनें)",
       "options": {
         "A": "to",
-        "B": "from",
-        "C": "with",
-        "D": "in"
+        "B": "by",
+        "C": "for",
+        "D": "of"
       },
       "vikalpa": {
-        "A": "को",
-        "B": "से",
-        "C": "के साथ/से (beset with)",
-        "D": "में"
+        "A": "के प्रति (to)",
+        "B": "द्वारा",
+        "C": "के लिए",
+        "D": "का"
       }
     },
     {
-      "id": "obj_78",
+      "id": "obj_62",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "............... is remembered as a war poet. (Choose the correct option)",
-      "prashna": "............... को युद्ध कवि के रूप में याद किया जाता है। (सही विकल्प चुनें)",
+      "question": "'Thou watchest the last oozings hours by hours.' is from :",
+      "prashna": "'दौ वाचस्ट द लास्ट ऊजिंग आवर्स बाय आवर्स।' कहाँ से लिया गया है?",
       "options": {
-        "A": "Rupert Brooke",
-        "B": "T. S. Eliot",
-        "C": "D. H. Lawrence",
-        "D": "Walter de la Mare"
+        "A": "Song of Myself",
+        "B": "An Epitaph",
+        "C": "Ode to Autumn",
+        "D": "Snake"
       },
       "vikalpa": {
-        "A": "रूपर्ट ब्रुक",
-        "B": "टी. एस. एलियट",
-        "C": "डी. एच. लॉरेंस",
-        "D": "वॉल्टर डी ला मेयर"
+        "A": "सॉन्ग ऑफ मायसेल्फ",
+        "B": "एन एपिटाफ",
+        "C": "ओड टू ऑटम",
+        "D": "स्नेक"
       }
     },
     {
-      "id": "obj_89",
+      "id": "obj_76",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "'Macavity : The Mystery Cat' has been taken from ...............",
-      "prashna": "'मैकैविटी: द मिस्ट्री कैट' कहाँ से ली गई है?",
+      "question": "'I celebrate myself, and sing myself, ...' is from :",
+      "prashna": "'आई सेलिब्रेट मायसेल्फ, एंड सिंग मायसेल्फ, ...' कहाँ से है:",
       "options": {
-        "A": "Old Alan's Book of Cats",
-        "B": "Old Possum's Book of Practical Cats",
-        "C": "Young Arthur's Cats",
-        "D": "Young Mathew's Dogs and Cats"
+        "A": "Snake",
+        "B": "Ode to Autumn",
+        "C": "Song of Myself",
+        "D": "Now the Leaves are Falling Fast"
       },
       "vikalpa": {
-        "A": "ओल्ड एलन की बुक ऑफ कैट्स",
-        "B": "ओल्ड पॉसम्स बुक ऑफ प्रैक्टिकल कैट्स",
-        "C": "यंग आर्थर्स कैट्स",
-        "D": "यंग मैथ्यूज डॉग्स एंड कैट्स"
-      }
-    },
-    {
-      "id": "obj_97",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "Goldsmith and Sheridan made contributions to the ...............",
-      "prashna": "गोल्डस्मिथ और शेरिडन ने ............... में योगदान दिया।",
-      "options": {
-        "A": "Novel",
-        "B": "Non-fiction writing",
-        "C": "Poetry",
-        "D": "English stage"
-      },
-      "vikalpa": {
-        "A": "उपन्यास",
-        "B": "गैर-काल्पनिक लेखन",
-        "C": "कविता",
-        "D": "अंग्रेजी रंगमंच (English stage)"
+        "A": "स्नेक",
+        "B": "ओड टू ऑटम",
+        "C": "सॉन्ग ऑफ मायसेल्फ",
+        "D": "नाउ द लीव्स आर फॉलिंग फास्ट"
       }
     }
   ],
   "2022": [
     {
-      "id": "obj_16",
+      "id": "obj_34",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "Choose the correctly spelt word :",
-      "prashna": "सही वर्तनी वाला शब्द चुनें :",
+      "question": "Public opinion was ............ the Bill. (Choose the correct option)",
+      "prashna": "जनता की राय विधेयक के ............ थी। (सही विकल्प चुनें)",
       "options": {
-        "A": "Chocolate",
-        "B": "Choclate",
-        "C": "Chucklate",
-        "D": "Chocklate"
+        "A": "of",
+        "B": "after",
+        "C": "above",
+        "D": "against"
       },
       "vikalpa": {
-        "A": "Chocolate",
-        "B": "Choclate",
-        "C": "Chucklate",
-        "D": "Chocklate"
+        "A": "का/की",
+        "B": "पीछे",
+        "C": "ऊपर",
+        "D": "खिलाफ"
       }
     },
     {
-      "id": "obj_26",
+      "id": "obj_37",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "Let this be done by me. (Choose the correct active voice)",
-      "prashna": "इसे मेरे द्वारा किया जाने दें। (सही एक्टिव वॉयस चुनें)",
+      "question": "The book will be bought by Sita. (Choose the correct active voice)",
+      "prashna": "किताब सीता द्वारा खरीदी जाएगी। (सही एक्टिव वॉयस चुनें)",
       "options": {
-        "A": "Let us do this",
-        "B": "This is to be done by me",
-        "C": "Let me do this",
-        "D": "Let I do this"
+        "A": "Sita will bought the book",
+        "B": "Sita will buy the book",
+        "C": "Sita had to buy the book",
+        "D": "Sita must have bought the book"
       },
       "vikalpa": {
-        "A": "Let us do this",
-        "B": "This is to be done by me",
-        "C": "Let me do this",
-        "D": "Let I do this"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "............ beware of false friends. (Choose the correct option)",
-      "prashna": "............ झूठे दोस्तों से सावधान रहें। (सही विकल्प चुनें)",
-      "options": {
-        "A": "Again and again",
-        "B": "Above all",
-        "C": "All day long",
-        "D": "All over"
-      },
-      "vikalpa": {
-        "A": "बार-बार",
-        "B": "सबसे बढ़कर",
-        "C": "दिन भर",
-        "D": "चारों ओर"
-      }
-    },
-    {
-      "id": "obj_56",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "Iron is most useful of all the metals. (Choose the correct negative sentence)",
-      "prashna": "लोहा सभी धातुओं में सबसे उपयोगी है। (सही नकारात्मक वाक्य चुनें)",
-      "options": {
-        "A": "Iron is not useful of all metals",
-        "B": "No other metal is as useful as iron",
-        "C": "Useful is not any metal than iron",
-        "D": "Metal like iron is no other useful"
-      },
-      "vikalpa": {
-        "A": "Iron is not useful of all metals",
-        "B": "No other metal is as useful as iron",
-        "C": "Useful is not any metal than iron",
-        "D": "Metal like iron is no other useful"
-      }
-    },
-    {
-      "id": "obj_93",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "............ was honoured with the order of Merit in 1953.",
-      "prashna": "1953 में ............ को 'ऑर्डर ऑफ मेरिट' से सम्मानित किया गया था।",
-      "options": {
-        "A": "John Donne",
-        "B": "William Wordsworth",
-        "C": "Walter de la Mare",
-        "D": "Percy Bysshe Shelley"
-      },
-      "vikalpa": {
-        "A": "जॉन डोन",
-        "B": "विलियम वर्ड्सवर्थ",
-        "C": "वाल्टर डी ला मारे",
-        "D": "पर्सी बिश शेली"
-      }
-    }
-  ],
-  "2023": [
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "The antonym of 'Occupied' is",
-      "prashna": "'Occupied' (कब्जे वाला/व्यस्त) का विलोम है",
-      "options": {
-        "A": "Vacant",
-        "B": "Resurrect",
-        "C": "Loose",
-        "D": "Exit"
-      },
-      "vikalpa": {
-        "A": "खाली (Vacant)",
-        "B": "पुनर्जीवित (Resurrect)",
-        "C": "ढीला (Loose)",
-        "D": "बाहर निकलना (Exit)"
-      }
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "They will wash the car............? (Choose the correct option)",
-      "prashna": "वे कार धोएंगे............? (सही विकल्प चुनें)",
-      "options": {
-        "A": "will it",
-        "B": "won't they",
-        "C": "wouldn't they",
-        "D": "couldn't they"
-      },
-      "vikalpa": {
-        "A": "will it",
-        "B": "won't they",
-        "C": "wouldn't they",
-        "D": "couldn't they"
+        "A": "Sita will bought the book",
+        "B": "Sita will buy the book",
+        "C": "Sita had to buy the book",
+        "D": "Sita must have bought the book"
       }
     },
     {
       "id": "obj_57",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "Ashish is the man.......son won the scholarship. (Choose the correct option)",
-      "prashna": "आशीष वह व्यक्ति है ....... बेटे ने छात्रवृत्ति जीती। (सही विकल्प चुनें)",
+      "question": "He ............ works. (Choose the correct option)",
+      "prashna": "वह ............ काम करता है। (सही विकल्प चुनें)",
       "options": {
-        "A": "Who",
-        "B": "whose",
-        "C": "where",
-        "D": "whom"
+        "A": "hard",
+        "B": "with hard",
+        "C": "hardly",
+        "D": "in hard"
       },
       "vikalpa": {
-        "A": "जो",
-        "B": "जिसका (whose)",
-        "C": "जहाँ",
-        "D": "जिसे"
+        "A": "कठिन",
+        "B": "कठिन के साथ",
+        "C": "मुश्किल से",
+        "D": "कठिन में"
       }
     },
     {
-      "id": "obj_60",
+      "id": "obj_58",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "When you feel exhausted, you should........ (Choose the correct option)",
-      "prashna": "जब आप थका हुआ महसूस करें, तो आपको ........ (सही विकल्प चुनें)",
+      "question": "Choose the incorrect sentence :",
+      "prashna": "गलत वाक्य चुनें :",
       "options": {
-        "A": "hurry",
-        "B": "run",
-        "C": "sleep",
-        "D": "eat"
+        "A": "I don't care of this",
+        "B": "He got off the train",
+        "C": "The workers are on strike",
+        "D": "The tree was covered with flowers"
       },
       "vikalpa": {
-        "A": "जल्दबाजी करना",
-        "B": "दौड़ना",
-        "C": "सोना (sleep)",
-        "D": "खाना"
-      }
-    },
-    {
-      "id": "obj_61",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "The Soldier' is a........... poem.",
-      "prashna": "'द सोल्जर' एक ........... कविता है।",
-      "options": {
-        "A": "nature",
-        "B": "patriotic",
-        "C": "love",
-        "D": "happy"
-      },
-      "vikalpa": {
-        "A": "प्रकृति",
-        "B": "देशभक्ति",
-        "C": "प्रेम",
-        "D": "खुशी"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "Who will make quicker journey than the sun?",
-      "prashna": "सूर्य से भी तेज यात्रा कौन करेगा?",
-      "options": {
-        "A": "John Donne",
-        "B": "Walt Whitman",
-        "C": "W.H. Auden",
-        "D": "John Keats"
-      },
-      "vikalpa": {
-        "A": "जॉन डन",
-        "B": "वॉल्ट व्हिटमैन",
-        "C": "डब्ल्यू.एच. ऑडेन",
-        "D": "जॉन कीट्स"
-      }
-    },
-    {
-      "id": "obj_71",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "According to Eliot, Macavity is the.............. of crime.",
-      "prashna": "इलियट के अनुसार, मैकैविटी अपराध का .............. है।",
-      "options": {
-        "A": "Hitler",
-        "B": "Napoleon",
-        "C": "Alexander",
-        "D": "Osama"
-      },
-      "vikalpa": {
-        "A": "हिटलर",
-        "B": "नेपोलियन",
-        "C": "सिकंदर",
-        "D": "ओसामा"
-      }
-    },
-    {
-      "id": "obj_89",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "........was a dominant influence on Middle English.",
-      "prashna": "........ मध्य अंग्रेजी पर एक प्रमुख प्रभाव था।",
-      "options": {
-        "A": "Latin",
-        "B": "Sanskrit",
-        "C": "Scandinavian",
-        "D": "Greek"
-      },
-      "vikalpa": {
-        "A": "लैटिन",
-        "B": "संस्कृत",
-        "C": "स्कैंडिनेवियाई (Scandinavian)",
-        "D": "ग्रीक"
-      }
-    }
-  ],
-  "2024": [
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "I bought ........... a shirt. (Choose the correct option)",
-      "prashna": "मैंने ........... एक कमीज खरीदी। (सही विकल्प चुनें)",
-      "options": {
-        "A": "itself",
-        "B": "himself",
-        "C": "herself",
-        "D": "myself"
-      },
-      "vikalpa": {
-        "A": "स्वयं (itself)",
-        "B": "स्वयं (himself)",
-        "C": "स्वयं (herself)",
-        "D": "स्वयं (myself)"
-      }
-    },
-    {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "They decided ........... the white car. (Choose the correct option)",
-      "prashna": "उन्होंने सफेद कार ........... का फैसला किया। (सही विकल्प चुनें)",
-      "options": {
-        "A": "about",
-        "B": "on",
-        "C": "in",
-        "D": "of"
-      },
-      "vikalpa": {
-        "A": "के बारे में",
-        "B": "पर (चुना)",
-        "C": "में",
-        "D": "का"
-      }
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "He blamed ........... for the ugly situation. (Choose the correct option)",
-      "prashna": "उसने खराब स्थिति के लिए ........... को दोषी ठहराया। (सही विकल्प चुनें)",
-      "options": {
-        "A": "himself",
-        "B": "yourself",
-        "C": "themselves",
-        "D": "itself"
-      },
-      "vikalpa": {
-        "A": "स्वयं को (himself)",
-        "B": "स्वयं को (yourself)",
-        "C": "स्वयं को (themselves)",
-        "D": "स्वयं को (itself)"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "Rajesh is still shouting, ........... ? (Choose the correct option)",
-      "prashna": "राजेश अभी भी चिल्ला रहा है, ........... ? (सही विकल्प चुनें)",
-      "options": {
-        "A": "not he is",
-        "B": "not is he",
-        "C": "wasn't he",
-        "D": "isn't he"
-      },
-      "vikalpa": {
-        "A": "नहीं वह है",
-        "B": "नहीं है वह",
-        "C": "क्या वह नहीं था",
-        "D": "क्या वह नहीं है"
-      }
-    },
-    {
-      "id": "obj_61",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "“The past is not dead and static, it is alive and ........... ,”",
-      "prashna": "“अतीत मृत और स्थिर नहीं है, यह जीवित और ........... है,”",
-      "options": {
-        "A": "pledge",
-        "B": "ethnic",
-        "C": "dynamic",
-        "D": "presumptuous"
-      },
-      "vikalpa": {
-        "A": "प्रतिज्ञा",
-        "B": "जातीय",
-        "C": "गतिशील",
-        "D": "अहंकारी"
-      }
-    },
-    {
-      "id": "obj_63",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "Martin Luther King, Jr. wanted the Negroes to continue working with",
-      "prashna": "मार्टिन लूथर किंग, जूनियर चाहते थे कि नीग्रो ........... के साथ काम करना जारी रखें",
-      "options": {
-        "A": "hatred",
-        "B": "jealousy",
-        "C": "love",
-        "D": "faith"
-      },
-      "vikalpa": {
-        "A": "नफरत",
-        "B": "ईर्ष्या",
-        "C": "प्यार",
-        "D": "विश्वास"
-      }
-    },
-    {
-      "id": "obj_90",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "........... was twelve years old and still at primary school.",
-      "prashna": "........... बारह साल का था और अभी भी प्राथमिक विद्यालय में था।",
-      "options": {
-        "A": "Seibei",
-        "B": "Seibei’s friend",
-        "C": "Seibei’s sister",
-        "D": "Seibei’s cousin"
-      },
-      "vikalpa": {
-        "A": "सेबेई (Seibei)",
-        "B": "सेबेई का दोस्त",
-        "C": "सेबेई की बहन",
-        "D": "सेबेई का चचेरा भाई"
-      }
-    }
-  ],
-  "2025": [
-    {
-      "id": "obj_34",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "Chose the correctly spelt word :",
-      "prashna": "सही वर्तनी वाले शब्द का चयन करें :",
-      "options": {
-        "A": "Genuine",
-        "B": "Genune",
-        "C": "Gennuine",
-        "D": "Gennune"
-      },
-      "vikalpa": {
-        "A": "Genuine",
-        "B": "Genune",
-        "C": "Gennuine",
-        "D": "Gennune"
-      }
-    },
-    {
-      "id": "obj_44",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "The synonym of 'Strategy' is",
-      "prashna": "'Strategy' का पर्यायवाची शब्द है",
-      "options": {
-        "A": "Fame",
-        "B": "Criminal",
-        "C": "Plan",
-        "D": "Invasion"
-      },
-      "vikalpa": {
-        "A": "प्रसिद्धि",
-        "B": "अपराधी",
-        "C": "योजना",
-        "D": "आक्रमण"
-      }
-    },
-    {
-      "id": "obj_65",
-      "type": "objective",
-      "chapter_name": "On the Face of It",
-      "question": "The English language is much younger than",
-      "prashna": "अंग्रेजी भाषा ......... से काफी छोटी (नवीन) है",
-      "options": {
-        "A": "Latin",
-        "B": "Persian",
-        "C": "Greek",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "लैटिन",
-        "B": "फारसी",
-        "C": "ग्रीक",
-        "D": "ये सभी"
+        "A": "I don't care of this",
+        "B": "He got off the train",
+        "C": "The workers are on strike",
+        "D": "The tree was covered with flowers"
       }
     },
     {
       "id": "obj_79",
       "type": "objective",
       "chapter_name": "On the Face of It",
-      "question": "......... wrote a number of children-poems.",
-      "prashna": "......... ने बच्चों के लिए कई कविताएं लिखीं।",
+      "question": "The printing technology was introduced in England in the year",
+      "prashna": "इंग्लैंड में छपाई तकनीक किस वर्ष शुरू की गई थी?",
       "options": {
-        "A": "T. S. Eliot",
-        "B": "W. B. Yeats",
-        "C": "D. H. Lawrence",
-        "D": "Walter de la Mare"
+        "A": "1066",
+        "B": "1857",
+        "C": "1476",
+        "D": "1605"
       },
       "vikalpa": {
-        "A": "टी. एस. एलियट",
-        "B": "डब्ल्यू. बी. येट्स",
-        "C": "डी. एच. लॉरेंस",
-        "D": "वाल्टर डी ला मारे"
+        "A": "1066",
+        "B": "1857",
+        "C": "1476",
+        "D": "1605"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "The young man has grey hair. (Choose the correct adjective in the sentence)",
+      "prashna": "युवक के बाल सफेद (धूसर) हैं। (वाक्य में सही विशेषण चुनें)",
+      "options": {
+        "A": "Has",
+        "B": "Man",
+        "C": "Grey",
+        "D": "Hair"
+      },
+      "vikalpa": {
+        "A": "Has",
+        "B": "Man",
+        "C": "सफेद/धूसर (Grey)",
+        "D": "बाल"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "The Great Vowel Shift took place during..........",
+      "prashna": "ग्रेट वॉवेल शिफ्ट .......... के दौरान हुआ था।",
+      "options": {
+        "A": "Modern English",
+        "B": "Old English",
+        "C": "Middle English",
+        "D": "Post-modern English"
+      },
+      "vikalpa": {
+        "A": "आधुनिक अंग्रेजी",
+        "B": "पुरानी अंग्रेजी",
+        "C": "मध्य अंग्रेजी (Middle English)",
+        "D": "उत्तर-आधुनिक अंग्रेजी"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "Lomov asked for.............hand in marriage.",
+      "prashna": "लोमोव ने शादी में ............. का हाथ मांगा।",
+      "options": {
+        "A": "Matalia's",
+        "B": "Satalia's",
+        "C": "Natalia's",
+        "D": "Ratalia's"
+      },
+      "vikalpa": {
+        "A": "मताल्या का",
+        "B": "सताल्या का",
+        "C": "नताल्या का (Natalia's)",
+        "D": "रताल्या का"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "All his ........... is stolen. (Choose the correct option)",
+      "prashna": "उसका सारा ........... चोरी हो गया है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "luggages",
+        "B": "beds",
+        "C": "luggage",
+        "D": "furnitures"
+      },
+      "vikalpa": {
+        "A": "सामान (luggages)",
+        "B": "बिस्तर",
+        "C": "सामान (luggage)",
+        "D": "फर्नीचर"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "Choose the correct sentence:",
+      "prashna": "सही वाक्य चुनें:",
+      "options": {
+        "A": "He prevented me from going there",
+        "B": "He prevented me to go there",
+        "C": "He prevents me at going there",
+        "D": "He preventing me through going there"
+      },
+      "vikalpa": {
+        "A": "उसने मुझे वहाँ जाने से रोका",
+        "B": "उसने मुझे वहाँ जाने के लिए रोका",
+        "C": "वह मुझे वहाँ जाने पर रोकता है",
+        "D": "वह मुझे वहाँ जाने के माध्यम से रोक रहा है"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "Choose the odd one out :",
+      "prashna": "विषम चुनें :",
+      "options": {
+        "A": "School",
+        "B": "University",
+        "C": "Office",
+        "D": "College"
+      },
+      "vikalpa": {
+        "A": "स्कूल",
+        "B": "विश्वविद्यालय",
+        "C": "कार्यालय",
+        "D": "कॉलेज"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "Choose the correct synonym of 'Forbid' :",
+      "prashna": "'Forbid' का सही पर्यायवाची शब्द चुनें :",
+      "options": {
+        "A": "Allow",
+        "B": "Prohibit",
+        "C": "Accomplish",
+        "D": "Hold"
+      },
+      "vikalpa": {
+        "A": "अनुमति देना",
+        "B": "निषेध करना/रोकना",
+        "C": "पूरा करना",
+        "D": "पकड़ना"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "Pearl S. Buck was interested in meeting the",
+      "prashna": "पर्ल एस. बक ........... से मिलने में रुचि रखती थीं",
+      "options": {
+        "A": "leaders",
+        "B": "saint",
+        "C": "peasants",
+        "D": "Americans"
+      },
+      "vikalpa": {
+        "A": "नेताओं",
+        "B": "संत",
+        "C": "किसानों",
+        "D": "अमेरिकियों"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "The Anglo-Saxons invaded ........... in AD 449.",
+      "prashna": "एंग्लो-सैक्सन ने ईस्वी 449 में ........... पर आक्रमण किया था।",
+      "options": {
+        "A": "Britain",
+        "B": "Thailand",
+        "C": "America",
+        "D": "Japan"
+      },
+      "vikalpa": {
+        "A": "ब्रिटेन",
+        "B": "थाईलैंड",
+        "C": "अमेरिका",
+        "D": "जापान"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "I always ......... the poor.",
+      "prashna": "मैं हमेशा गरीबों की मदद करता हूँ।",
+      "options": {
+        "A": "help",
+        "B": "helped",
+        "C": "helping",
+        "D": "has helping"
+      },
+      "vikalpa": {
+        "A": "help",
+        "B": "helped",
+        "C": "helping",
+        "D": "has helping"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "I am going to ......... ,",
+      "prashna": "मैं ......... जा रहा हूँ,",
+      "options": {
+        "A": "cutting my hair",
+        "B": "hair cut",
+        "C": "have my hair cut",
+        "D": "cut my hair up"
+      },
+      "vikalpa": {
+        "A": "cutting my hair",
+        "B": "hair cut",
+        "C": "have my hair cut",
+        "D": "cut my hair up"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "He is wiser than you. (Choose the correct negative sentence)",
+      "prashna": "वह आपसे अधिक बुद्धिमान है। (सही नकारात्मक वाक्य चुनें)",
+      "options": {
+        "A": "He is not wise than you",
+        "B": "He is not the wisest man",
+        "C": "You are not so wise as he",
+        "D": "You are not wiser than you"
+      },
+      "vikalpa": {
+        "A": "He is not wise than you",
+        "B": "He is not the wisest man",
+        "C": "You are not so wise as he",
+        "D": "You are not wiser than you"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "On the Face of It",
+      "question": "T. S. Eliot is a ......... poet.",
+      "prashna": "टी. एस. एलियट एक ......... कवि हैं।",
+      "options": {
+        "A": "20th Century",
+        "B": "17th Century",
+        "C": "18th Century",
+        "D": "16th Century"
+      },
+      "vikalpa": {
+        "A": "20वीं सदी",
+        "B": "17वीं सदी",
+        "C": "18वीं सदी",
+        "D": "16वीं सदी"
       }
     }
   ]

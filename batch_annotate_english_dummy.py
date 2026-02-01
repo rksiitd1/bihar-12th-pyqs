@@ -46,15 +46,6 @@ def main():
     grammar_keywords = ["essay", "letter", "precis", "comprehension", "passage", "grammar", "translate", "translation"]
 
     for fpath in files:
-        # Filter for 2021-2026 check if desired, keeping consistent with other scripts
-        try:
-            year_str = fpath.stem.split('_')[-1]
-            year = int(year_str)
-            if not (2021 <= year <= 2026):
-                continue
-        except ValueError:
-            pass 
-
         out_path = out_folder / fpath.name
         # Note: We overwrite existing files to ensure we apply the dummy logic everywhere if requested
         # Or you can check if out_path.exists() to skip. Let's overwrite for now to be safe.

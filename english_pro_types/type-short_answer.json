@@ -1,9 +1,754 @@
 {
-  "2021": [
+  "2009": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Translate the following sentences into English: (a) मैं गाँव में रहता हूँ। (b) मेरा गाँव पटना के नजदीक है। (c) मुझे ग्रामीण जीवन बहुत पसंद हैं। (d) मेरे घर के पीछे जंगल है। (e) मैं प्रतिदिन वहाँ टहलने जाता हूँ।",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें: (क) मैं गाँव में रहता हूँ। (ख) मेरा गाँव पटना के नजदीक है। (ग) मुझे ग्रामीण जीवन बहुत पसंद हैं। (घ) मेरे घर के पीछे जंगल है। (ङ) मैं प्रतिदिन वहाँ टहलने जाता हूँ।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "A Roadside Stand",
+      "question": "Name the poet who wrote the following lines:",
+      "prashna": "निम्नलिखित पंक्तियों के रचयिता कवि का नाम लिखें:",
+      "sub_questions": {
+        "a": "When thou sigh'st, thou sigh'st not winde, But sigh'st my soule away.",
+        "b": "I celebrate myself, and sing myself.",
+        "c": "Where are the songs of spring? Ay, where are they?",
+        "d": "And when you think he's half asleep, he's always wide awake.",
+        "e": "I swore to save fire From the sin of forgetfulness."
+      },
+      "anuprashna": {
+        "a": "When thou sigh'st, thou sigh'st not winde, But sigh'st my soule away.",
+        "b": "I celebrate myself, and sing myself.",
+        "c": "Where are the songs of spring? Ay, where are they?",
+        "d": "And when you think he's half asleep, he's always wide awake.",
+        "e": "I swore to save fire From the sin of forgetfulness."
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Match the names given in List-A with appropriate titles from List-B. \nList-A: (a) John Keats, (b) Walter de la Mare, (c) Kamala Das, (d) Keki N. Daruwalia, (e) W.H. Auden. \nList-B: (i) Fire Hymn, (ii) Epitaph, (iii) Now the Leaves Are Falling Fast, (iv) My Grandmother's House, (v) To Autumn.",
+      "prashna": "सूची-A में दिए गए नामों का सूची-B के उपयुक्त शीर्षकों से मिलान करें। \nसूची-A: (क) जॉन कीट्स, (ख) वाल्टर डी ला मारे, (ग) कमला दास, (घ) केकी एन. दारूवाला, (ङ) डब्ल्यू.एच. ऑडेन। \nसूची-B: (i) फायर हाइम्न, (ii) एपिटाफ, (iii) नाउ द लीव्स आर फॉलिंग फास्ट, (iv) माई ग्रैंडमदर्स हाउस, (v) टू ऑटम।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Name the authors of the following pieces: (a) Indian civilization and Culture (b) A Pinch of Snuff (c) The Earth",
+      "prashna": "निम्नलिखित रचनाओं के लेखकों के नाम लिखें: (क) इंडियन सिविलाइजेशन एंड कल्चर (ख) ए पिंच ऑफ स्नफ (ग) द अर्थ"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Complete the following sentences on the basis of your textual reading: (a) Seibei was passionately interested in ............. (b) Seibei was ............... old.",
+      "prashna": "अपने पाठ्य पुस्तक के अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें: (क) सेबेई को ............. में गहरी रुचि थी। (ख) सेबेई ............... साल का था।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "The Interview",
+      "question": "Match the names given in List-A with List-B. \nList-A: (a) Arms and the Man, (b) Macbeth, (c) Untouchable, (d) The Guide, (e) A Passage to India. \nList-B: (i) E.M. Forster, (ii) Mulk Raj Anand, (iii) William Shakespeare, (iv) G.B. Shaw, (v) R.K. Narayan.",
+      "prashna": "सूची-A में दिए गए नामों का सूची-B से मिलान करें। \nसूची-A: (क) आर्म्स एंड द मैन, (ख) मैकबेथ, (ग) अनटचेबल, (घ) द गाइड, (ङ) ए पैसेज टू इंडिया। \nसूची-B: (i) ई.एम. फोस्टर, (ii) मुल्क राज आनंद, (iii) विलियम शेक्सपियर, (iv) जी.बी. शॉ, (v) आर.के. नारायण।"
+    }
+  ],
+  "2010": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "A Roadside Stand",
+      "question": "Translate the following sentences into English:\n(a) कल मेरी भेंट एक रिक्शाचालक से हुई।\n(b) उसका नाम रामू है।\n(c) उसका परिवार बहुत बड़ा है।\n(d) उसकी हालत दयनीय है।\n(e) उसे सुबह से शाम तक रिक्शा खींचना पड़ता है।",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:\n(क) कल मेरी भेंट एक रिक्शाचालक से हुई।\n(ख) उसका नाम रामू है।\n(ग) उसका परिवार बहुत बड़ा है।\n(घ) उसकी हालत दयनीय है।\n(ङ) उसे सुबह से शाम तक रिक्शा खींचना पड़ता है।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Match the names given in List-A with appropriate titles from List-B:\nList-A:\n(a) Rupert Brooke\n(b) D.H. Lawrence\n(c) Walt Whitman\n(d) John Donne\n(e) John Keats\n\nList-B:\n(i) Song of Myself\n(ii) To Autumn\n(iii) The soldier\n(iv) Snake\n(v) Sweetest love I do not go",
+      "prashna": "सूची-A में दिए गए नामों को सूची-B के उपयुक्त शीर्षकों के साथ मिलाएं:\nसूची-A:\n(क) रूपर्ट ब्रुक\n(ख) डी.एच. लॉरेंस\n(ग) वॉल्ट व्हिटमैन\n(घ) जॉन डन\n(ङ) जॉन कीट्स\n\nसूची-B:\n(i) सॉन्ग ऑफ मायसेल्फ\n(ii) टू ऑटम\n(iii) द सोल्जर\n(iv) स्नेक\n(v) स्वीटेस्ट लव आई डू नॉट गो"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Name the poets who wrote the following lines:\n(a) I celebrate myself, and sing myself.\nAnd what I assume you shall assume.\n(b) Whose white waterfall could bless\nTravellers in their last distress.\n(c) Where are the songs of spring?\nAy, where are they?\n(d) If in thine life thou waste.\nThou art the best of me.\n(e) I swore to save fire\nFrom the sin of forgetfulness.",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:\n(क) मैं स्वयं का उत्सव मनाता हूँ, और स्वयं गाता हूँ। और जो मैं मानूंगा वही आप मानेंगे।\n(ख) किसका सफेद जलप्रपात यात्रियों को उनके अंतिम संकट में आशीर्वाद दे सकता था।\n(ग) वसंत के गीत कहाँ हैं? आय, वे कहाँ हैं?\n(घ) यदि तुम अपने जीवन में नष्ट हो जाओ। तुम मेरा सबसे अच्छा हिस्सा हो।\n(ङ) मैंने अग्नि को विस्मृति के पाप से बचाने की शपथ ली थी।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Complete the following sentences on the basis of your textual reading: \n(a) Dr. Radhakrishnan never lost his faith in…………\n(b) Nanukaka was coming to Delhi to……………",
+      "prashna": "अपने पाठ्य पठन के आधार पर निम्नलिखित वाक्यों को पूरा करें:\n(क) डॉ. राधाकृष्णन ने कभी भी अपना विश्वास नहीं खोया ………\n(ख) नानूकाका दिल्ली आ रहे थे ………"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Name the authors of the following prose pieces:\n(a) Bharat is My Home\n(b) I Have a Dream\n(c) The Artist",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए:\n(क) भारत इज़ माई होम\n(ख) आई हैव अ ड्रीम\n(ग) द आर्टिस्ट"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "The Rattrap",
+      "question": "Name the authors of the following:\n(a) David Copperfield\n(b) Emma\n(c) Piers the Plowman\n(d) The Guide\n(e) Macbeth",
+      "prashna": "निम्नलिखित के लेखकों के नाम बताइए:\n(क) डेविड कॉपरफील्ड\n(ख) एम्मा\n(ग) पियर्स द प्लोमैन\n(घ) द गाइड\n(ङ) मैकबेथ"
+    }
+  ],
+  "2011": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "Translate the following sentences into English:\n(a) पौ फट चुकी है।\n(b) सूरज पूरब से निकल चुका है।\n(c) सभी ग्रामवासी जाग चुके हैं।\n(d) उन्होंने काम करना शुरू कर दिया है।\n(e) कुछ किसान अपने खेतों पर जा चुके हैं।",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:\n(क) पौ फट चुकी है।\n(ख) सूरज पूरब से निकल चुका है।\n(ग) सभी ग्रामवासी जाग चुके हैं।\n(घ) उन्होंने काम करना शुरू कर दिया है।\n(ङ) कुछ किसान अपने खेतों पर जा चुके हैं।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Aunt Jennifer's Tigers",
+      "question": "Name the poets who wrote the following lines:\n(a) He's broken every human law, he breaks the law of gravity.\nHis power of lavitation would make a Fakir stares.\n(b) I think she was the most beautiful lady\nThat ever was in the West Country.\n(c) Creeds and schools in abeyance,\nRetiring back a while sufficed at what they are, but never forgotten.\n(d) But thinke that wee\nAre but turn'd aside to sleepe;\nThey who one another keepe\nAlive, ne'r parted bee.\n(e) Her sights and sounds; dreams happy as her day;\nAnd laughter, learnt of friends; and gentleness.",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:\n(क) उसने हर मानवीय कानून तोड़ा है, वह गुरुत्वाकर्षण के नियम को तोड़ता है। उसकी हवा में उड़ने की शक्ति एक फकीर को भी घूरने पर मजबूर कर देगी।\n(ख) मुझे लगता है कि वह सबसे सुंदर महिला थी जो कभी पश्चिमी देश में हुई थी।\n(ग) पंथ और विद्यालय स्थगित हैं, थोड़ी देर के लिए पीछे हटना ही काफी है कि वे क्या हैं, लेकिन कभी भूले नहीं गए।\n(घ) लेकिन सोचो कि हम केवल सोने के लिए एक तरफ मुड़ गए हैं; वे जो एक-दूसरे को जीवित रखते हैं, कभी अलग नहीं होते।\n(ङ) उसके दृश्य और ध्वनियाँ; उसके दिन जैसे सुखद सपने; और हंसी, दोस्तों से सीखी हुई; और सज्जनता।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "On the Face of It",
+      "question": "Match the poets given in List-A with appropriate titles from List-B:\nList-A:\n(a) John Donne\n(b) John Keats\n(c) T.S. Eliot\n(d) Kamala Das\n(e) D. H. Lawrence\n\nList-B:\n(i) Snake\n(ii) Sweetest Love I Do Not Goe\n(iii) My Grandmother' House\n(iv) Macavity: The Mystery Cat\n(v) To Autumn.",
+      "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों से मिलान करें:\nसूची-A:\n(क) जॉन डन\n(ख) जॉन कीट्स\n(ग) टी.एस. एलियट\n(घ) कमला दास\n(ङ) डी. एच. लॉरेंस\n\nसूची-B:\n(i) स्नेक\n(ii) स्वीटेस्ट लव आई डू नॉट गो\n(iii) माय ग्रैंडमदर्स हाउस\n(iv) मैकैविटी: द मिस्ट्री कैट\n(v) टू ऑटम।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "Name the authors of the following prose pieces:\n(a) The Child is Born\n(b) The Earth.\n(c) A Marriage Proposal",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए:\n(क) द चाइल्ड इज बॉर्न\n(ख) द अर्थ\n(ग) ए मैरिज प्रपोजल"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "Complete the following sentences on the basis of your textual reading:\n(a) The most important and difficult steps were taken before the dawn of…….. \n(b) I was waiting on the platform when the train............",
+      "prashna": "अपने पाठ्य अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें:\n(क) सबसे महत्वपूर्ण और कठिन कदम ........ के उदय से पहले उठाए गए थे।\n(ख) मैं प्लेटफॉर्म पर इंतजार कर रहा था जब ट्रेन ............"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "On the Face of It",
+      "question": "Name the authors of the following works:\n(a) Arms and the man\n(b) King Lear\n(c) The Princess\n(d) Untouchable\n(e) The Rape of the Lock.",
+      "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए:\n(क) आर्म्स एंड द मैन\n(ख) किंग लियर\n(ग) द प्रिंसेस\n(घ) अनटचेबल\n(ङ) द रेप ऑफ द लॉक।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "a": "बाघ जंगली जानवर होता है।",
+        "b": "राम और रहीम एक-दूसरे की मदद कर रहे हैं।",
+        "c": "मेरा मित्र कल से बीमार है।",
+        "d": "इस कमरे से बाहर निकलो।",
+        "e": "तुम्हारा गाँव यहाँ से कितनी दूर है?"
+      },
+      "anuprashna": {
+        "a": "बाघ जंगली जानवर होता है।",
+        "b": "राम और रहीम एक-दूसरे की मदद कर रहे हैं।",
+        "c": "मेरा मित्र कल से बीमार है।",
+        "d": "इस कमरे से बाहर निकलो।",
+        "e": "तुम्हारा गाँव यहाँ से कितनी दूर है?"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Match the poets given in List-A with appropriate titles from List-B: \nList-A: (a) Walter de la Mare, (b) John Keats, (c) Rupert Brooke, (d) Keki N. Daruwala, (e) Walt Whitman \nList-B: (i) The Soldier, (ii) Fire-Hymn, (iii) An Epitaph, (iv) Song of Myself, (v) To Autumn",
+      "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों के साथ मिलान करें: \nसूची-A: (क) वाल्टर डी ला मेयर, (ख) जॉन कीट्स, (ग) रूपर्ट ब्रुक, (घ) केकी एन. दारूवाला, (ङ) वॉल्ट व्हिटमैन \nसूची-B: (i) द सोल्जर, (ii) फायर-हिमन, (iii) एन एपिटाफ, (iv) सॉन्ग ऑफ माईसेल्फ, (v) टू ऑटम"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Indigo",
+      "question": "Complete the following sentences on the basis of your textual reading:",
+      "prashna": "अपने पाठ्य पुस्तक के अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें:",
+      "sub_questions": {
+        "a": "I shall be told that it is neither numbers nor multiplicity of pleasures that Make……….",
+        "b": "The distinguishing characteristic of modern civilization is an indefinite multiplicity of……………"
+      },
+      "anuprashna": {
+        "a": "मुझे बताया जाएगा कि यह न तो संख्या है और न ही सुखों की बहुलता जो बनाती है ……….",
+        "b": "आधुनिक सभ्यता की विशिष्ट विशेषता …………… की अनिश्चित बहुलता है।"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Name the authors of the following prose pieces: (a) Ideas That Have Helped Mankind (b) Bharat is My Home (c) India Through a Traveller's Eyes.",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए: (क) आइडियाज दैट हैव हेल्प्ड मैनकाइंड (ख) भारत इज माई होम (ग) इंडिया थ्रू अ ट्रैवलर्स आईज़।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "Name the authors of the following works: (a) As you Like It (b) The Old Man and the Sea (c) Pride and Prejudice (d) Train to Pakistan (e) The Wasteland.",
+      "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए: (क) एज़ यू लाइक इट (ख) द ओल्ड मैन एंड द सी (ग) प्राइड एंड प्रेजुडिस (घ) ट्रेन टू पाकिस्तान (ङ) द वेस्टलैंड।"
+    },
+    {
+      "id": "short_6_1",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "Name any five Indian English novelists.",
+      "prashna": "किन्हीं पाँच भारतीय अंग्रेजी उपन्यासकारों के नाम लिखिए।"
+    },
+    {
+      "id": "short_6_2",
+      "type": "short_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Name any five English dramatists.",
+      "prashna": "किन्हीं पाँच अंग्रेजी नाटककारों के नाम लिखिए।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Deep Water",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "a": "गाय उपयोगी जानवर होती है।",
+        "b": "क्या तुम्हें तैरना आता है?",
+        "c": "वे लोग दो दिनों से अनुपस्थित हैं।",
+        "d": "जल्दी करो।",
+        "e": "स्टेशन यहाँ से कितनी दूर है?"
+      },
+      "anuprashna": {
+        "a": "गाय उपयोगी जानवर होती है।",
+        "b": "क्या तुम्हें तैरना आता है?",
+        "c": "वे लोग दो दिनों से अनुपस्थित हैं।",
+        "d": "जल्दी करो।",
+        "e": "स्टेशन यहाँ से कितनी दूर है?"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "Match the poets given in List-A with appropriate titles from List-B:\nList-A:\n(a) Walt Whitman\n(b) W. H. Auden\n(c) Walter de la Mare\n(d) Keki N. Daruwala\n(e) Rupert Brooke\n\nList-B:\n(i) Fire-Hymn\n(ii) Song of Myself\n(iii) The Soldier\n(iv) Now the Leaves are Falling Fast\n(v) An Epitaph",
+      "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों के साथ मिलान करें:\nसूची-A:\n(क) वाल्ट व्हिटमैन\n(ख) डब्ल्यू. एच. ऑडेन\n(ग) वाल्टर डी ला मेयर\n(घ) केकी एन. दारूवाला\n(ङ) रूपर्ट ब्रुक\n\nसूची-B:\n(i) फायर-हाइम\n(ii) सॉन्ग ऑफ माईसेल्फ\n(iii) द सोल्जर\n(iv) नाउ द लीव्स आर फॉलिंग फास्ट\n(v) एन एपिटाफ"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "Where are the songs of spring? Aye, where are they? Think not of them, thou hast thy music too.",
+        "b": "O how feeble is man's power, That if good fortune fall. Cannot adde another houre, Nor a lost houre recall!",
+        "c": "I celebrate myself, and sing myself, And what I assume you shall assume. For every atom belonging to me as good belongs to you.",
+        "d": "Dead in hundreds at the back Follow wooden in our track, Arms raised stiffly to reprove In false attitudes of love.",
+        "e": "If I should die, think only this for me; That there's some corner of a foreign field That is for ever England."
+      },
+      "anuprashna": {
+        "a": "Where are the songs of spring? Aye, where are they? Think not of them, thou hast thy music too.",
+        "b": "O how feeble is man's power, That if good fortune fall. Cannot adde another houre, Nor a lost houre recall!",
+        "c": "I celebrate myself, and sing myself, And what I assume you shall assume. For every atom belonging to me as good belongs to you.",
+        "d": "Dead in hundreds at the back Follow wooden in our track, Arms raised stiffly to reprove In false attitudes of love.",
+        "e": "If I should die, think only this for me; That there's some corner of a foreign field That is for ever England."
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name the authors of the following prose pieces:\n(a) Bharat is My Home\n(b) A Pinch of Snuff\n(c) How Free is the Press.",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए:\n(क) भारत इज माई होम\n(ख) ए पिंच ऑफ स्नफ\n(ग) हाउ फ्री इज द प्रेस"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Complete the following sentences on the basis of your textual reading:\n(a) Civilization is that mode of conduct which points out to man.......\n(b) I shall be told it is neither numbers not multiplicity of pleasures that make….",
+      "prashna": "अपने पाठ्य अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें:\n(क) सभ्यता आचरण की वह विधा है जो मनुष्य को इंगित करती है.......\n(ख) मुझे बताया जाएगा कि यह न तो संख्या है और न ही सुखों की बहुलता है जो बनाती है…।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Name the authors of the following works:\n(a) Pride and Prejudice\n(b) Paradise Lost\n(c) The Guide\n(d) The Merchant of Venice\n(e) The Gitanjali",
+      "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए:\n(क) प्राइड एंड प्रेजुडिस\n(ख) पैराडाइज लॉस्ट\n(ग) द गाइड\n(घ) द मर्चेंट ऑफ वेनिस\n(ङ) गीतांजलि"
+    },
+    {
+      "id": "short_7_1",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Name any five Indian English poets.",
+      "prashna": "किन्हीं पांच भारतीय अंग्रेजी कवियों के नाम बताइए।"
+    },
+    {
+      "id": "short_7_2",
+      "type": "short_answer",
+      "chapter_name": "Aunt Jennifer's Tigers",
+      "question": "Name any five English dramatists.",
+      "prashna": "किन्हीं पांच अंग्रेजी नाटककारों के नाम बताइए।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "a": "तैरना अच्छी कसरत है।",
+        "b": "हल्ला मत करो।",
+        "c": "उसने तुमसे क्या कहा?",
+        "d": "मुझे कार चलाना नहीं आता है।",
+        "e": "वे लोग समय पर नहीं पहुँच पायेंगे।"
+      },
+      "anuprashna": {
+        "a": "Swimming is a good exercise.",
+        "b": "Do not make a noise.",
+        "c": "What did he say to you?",
+        "d": "I do not know how to drive a car.",
+        "e": "They will not be able to reach on time."
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Name the authors of the following works:",
+      "prashna": "निम्नलिखित कृतियों के लेखकों के नाम बताइए:",
+      "sub_questions": {
+        "a": "Tom Jones",
+        "b": "Coolie",
+        "c": "David Copperfield",
+        "d": "The Guide",
+        "e": "The Merchant of Venice"
+      },
+      "anuprashna": {
+        "a": "टॉम जोन्स",
+        "b": "कुली",
+        "c": "डेविड कॉपरफील्ड",
+        "d": "द गाइड",
+        "e": "द मर्चेंट ऑफ वेनिस"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Indigo",
+      "question": "Match the poets given in List-A with appropriate titles from List-B: \nList-A: (a) D. H. Lawrence, (b) Kamala Das, (c) John Keats, (d) W. H. Auden, (e) Rupert Brooke. \nList-B: (i) My Grandmother's House, (ii) Now the Leaves Are Falling fast, (iii) Snake, (iv) The Soldier, (v) To Autumn",
+      "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों से मिलान करें: \nसूची-A: (a) डी. एच. लॉरेंस, (b) कमला दास, (c) जॉन कीट्स, (d) डब्ल्यू. एच. ऑडेन, (e) रूपर्ट ब्रुक। \nसूची-B: (i) माई ग्रैंडमदर्स हाउस, (ii) नाउ द लीव्स आर फॉलिंग फास्ट, (iii) स्नेक, (iv) द सोल्जर, (v) टू ऑटम"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "The Interview",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "निम्नलिखित पंक्तियों को लिखने वाले कवियों के नाम बताइए:",
+      "sub_questions": {
+        "a": "I harbour for good or bad, I permit to speak at every hazard, Nature without check with original energy.",
+        "b": "Was it cowardice, that I dared not kill him? Was is perversity, that I longed to talk to him? Was it humility, to feel so honoured? I felt so honoured.",
+        "c": "......... I who have lost My way and beg now at strangers' doors to Receive love, at least in small change?",
+        "d": "Here lies a most beautiful lady. Light of step and heart was she; I think she was the most beautiful lady That ever was in the West county..",
+        "e": "Cold, impossible, ahead lists the mountain's lovely head Whose white waterfalls could bless Travellers in their last distress."
+      },
+      "anuprashna": {
+        "a": "I harbour for good or bad, I permit to speak at every hazard, Nature without check with original energy.",
+        "b": "Was it cowardice, that I dared not kill him? Was is perversity, that I longed to talk to him? Was it humility, to feel so honoured? I felt so honoured.",
+        "c": "......... I who have lost My way and beg now at strangers' doors to Receive love, at least in small change?",
+        "d": "Here lies a most beautiful lady. Light of step and heart was she; I think she was the most beautiful lady That ever was in the West county..",
+        "e": "Cold, impossible, ahead lists the mountain's lovely head Whose white waterfalls could bless Travellers in their last distress."
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Enemy",
+      "question": "Name the authors of the following prose pieces:",
+      "prashna": "निम्नलिखित गद्य अंशों के लेखकों के नाम बताइए:",
+      "sub_questions": {
+        "a": "Indian Civilization and Culture",
+        "b": "Ideas That Have Helped Mankind",
+        "c": "The Artist"
+      },
+      "anuprashna": {
+        "a": "इंडियन सिविलाइजेशन एंड कल्चर",
+        "b": "आइडियाज दैट हैव हेल्प्ड मैनकाइंड",
+        "c": "द आर्टिस्ट"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "Deep Water",
+      "question": "Complete the following sentences on the basis of your textual reading:",
+      "prashna": "अपने पाठ्य पुस्तक के पठन के आधार पर निम्नलिखित वाक्यों को पूरा करें:",
+      "sub_questions": {
+        "a": "I believe that the civilization India has evolved is not.............",
+        "b": "I can only assure you that I enter that office in spirit of .........."
+      },
+      "anuprashna": {
+        "a": "I believe that the civilization India has evolved is not.............",
+        "b": "I can only assure you that I enter that office in spirit of .........."
+      }
+    }
+  ],
+  "2015": [
     {
       "id": "short_1",
       "type": "short_answer",
       "chapter_name": "Memories of Childhood",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "a": "हमेशा सच बोलो।",
+        "b": "मैं उसे जानता हूँ",
+        "c": "रमेश मेरा भाई है।",
+        "d": "वह एक अच्छा तैराक है।",
+        "e": "क्या तुम्हें अंग्रेजी बोलना आता है?"
+      },
+      "anuprashna": {
+        "a": "Always speak the truth.",
+        "b": "I know him.",
+        "c": "Ramesh is my brother.",
+        "d": "He is a good swimmer.",
+        "e": "Do you know how to speak English?"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Enemy",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम लिखें जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "If I should die; think only this of me; That there's some corner of a foreign field That is for ever England.",
+        "b": "He hath no desire, nor sense Nor halfe so short a way Then fears not mee..",
+        "c": "Where are the songs of spring? Ay, where are they? Think not of them, thou has thy music too-",
+        "d": "Macavity's a ginger cat! He's very tall and thin; You should know him if you saw him, for his eyes are sunken in.",
+        "e": "I swore to save fire From the sin of fort getfulness."
+      },
+      "anuprashna": {
+        "a": "If I should die; think only this of me; That there's some corner of a foreign field That is for ever England.",
+        "b": "He hath no desire, nor sense Nor halfe so short a way Then fears not mee..",
+        "c": "Where are the songs of spring? Ay, where are they? Think not of them, thou has thy music too-",
+        "d": "Macavity's a ginger cat! He's very tall and thin; You should know him if you saw him, for his eyes are sunken in.",
+        "e": "I swore to save fire From the sin of fort getfulness."
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Name the authors of the following prose pieces:",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताएँ:",
+      "sub_questions": {
+        "a": "A Marriage Proposal",
+        "b": "A Pinch of Snuff",
+        "c": "How Free is the Press?"
+      },
+      "anuprashna": {
+        "a": "ए मैरिज प्रपोजल",
+        "b": "ए पिंच ऑफ स्नफ",
+        "c": "हाउ फ्री इज द प्रेस?"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "The Last Lesson",
+      "question": "Complete the following sentences of the basis of your textual reading:",
+      "prashna": "अपने पाठ्य पुस्तक के अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें:",
+      "sub_questions": {
+        "a": "This means that cheap daily paper which goes everywhere and has the most ………….",
+        "b": "India has always been part of my............ in my life."
+      },
+      "anuprashna": {
+        "a": "इसका अर्थ है कि सस्ता दैनिक समाचार पत्र जो हर जगह जाता है और जिसके पास सबसे अधिक …………. है।",
+        "b": "भारत हमेशा मेरे जीवन में मेरे ............ का हिस्सा रहा है।"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name the authors of the following books:",
+      "prashna": "निम्नलिखित पुस्तकों के लेखकों के नाम लिखें:",
+      "sub_questions": {
+        "a": "Tom Jones",
+        "b": "In Memoriam",
+        "c": "The Waste land",
+        "d": "Arm and the Man",
+        "e": "Macbeth"
+      },
+      "anuprashna": {
+        "a": "टॉम जोन्स",
+        "b": "इन मेमोरियम",
+        "c": "द वेस्ट लैंड",
+        "d": "आर्म एंड द मैन",
+        "e": "मैकबेथ"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "The Last Lesson",
+      "question": "Translate the following sentences into English: (a) वह कहाँ जा रहा है? (b) वह मेरी अच्छी दोस्त है। (c) दौड़ना सेहत के लिए अच्छा है। (d) वह खुश है। (e) उसने मुझे हँसाया।",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें: (क) वह कहाँ जा रहा है? (ख) वह मेरी अच्छी दोस्त है। (ग) दौड़ना सेहत के लिए अच्छा है। (घ) वह खुश है। (ङ) उसने मुझे हँसाया।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Last Lesson",
+      "question": "Match the poets given in List-A with appropriate titles from List-B: List-A: (a) Rupert Brooke, (b) Walter de la Mare, (c) K.N. Daruwala, (d) John Keats, (e) D.H Lawrence. List-B: (i) An Epitaph, (ii) Fire Hymn, (iii) To Autumn, (iv) Snake, (v) The Soldier",
+      "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों से मिलान करें: सूची-A: (क) रूपर्ट ब्रुक, (ख) वाल्टर डी ला मारे, (ग) के.एन. दारूवाला, (घ) जॉन कीट्स, (ङ) डी.एच. लॉरेंस। सूची-B: (i) एन एपिटाफ, (ii) फायर हिम्न, (iii) टू ऑटम, (iv) स्नेक, (v) द सोल्जर"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name the poets who wrote the following lines: (a) Yester night the Sunne went hence / And yet is here today / He hath no desire no sense / Nor halfe so short a way. (b) I celebrate myself and sing myself / An what I assume you shall assume, / For every atom belonging to me as good belongs to you. (c) Cold, impossible, ahead / Lifts the mountain's lovely head / Whose white waterfall could bless / Travellers in their last distress. (d) An where the water had dripped from the taps in a small clearness / He sipped with his straight mouth / Softly drank through his straight gums, / into his slack long body silently. (e) Here lies a most beautiful lady. / Light of step and heart was she, / I think she was the most beautiful lady / That every was in the West Country.",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं: (क) Yester night the Sunne went hence... (ख) I celebrate myself and sing myself... (ग) Cold, impossible, ahead... (घ) An where the water had dripped... (ङ) Here lies a most beautiful lady..."
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "The Interview",
+      "question": "Name the authors of the following prose pieces: (a) How Free is the Press (b) I have a Dream (c) The Earth",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम लिखिए: (क) हाउ फ्री इज द प्रेस (ख) आई हैव ए ड्रीम (ग) द अर्थ"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Deep Water",
+      "question": "Complete the following sentences on the basis of your textual reading: (a) We are dazzled by the……………progress that western science has made. (b) The very word....... reminds me of the variety of hue that is Indian life, as various as our own American human scene.",
+      "prashna": "अपने पाठ्य अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें: (क) हम पश्चिमी विज्ञान द्वारा की गई ............. प्रगति से चकित हैं। (ख) यही शब्द ....... मुझे उस रंग की विविधता की याद दिलाता है जो भारतीय जीवन है, जो हमारे अपने अमेरिकी मानवीय परिदृश्य की तरह ही विविध है।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter_name": "On the Face of It",
+      "question": "Name the authors of the following words (works): (a) The Gitanjali (b) The Wasteland (c) Tom Jones (d) In Memoriam (e) Othello",
+      "prashna": "निम्नलिखित कृतियों के लेखकों के नाम लिखिए: (क) गीतांजलि (ख) द वेस्टलैंड (ग) टॉम जोन्स (घ) इन मेमोरियम (ङ) ओथेलो"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Indigo",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "a": "हमलोग सामाजिक प्राणी है।",
+        "b": "साहित्य समाज का दर्पण है।",
+        "c": "हमें समाज सुधारना है।",
+        "d": "दयानन्द महान सुधारक थे।",
+        "e": "हमें उनपर गर्व है।"
+      },
+      "anuprashna": {
+        "a": "We are social beings.",
+        "b": "Literature is the mirror of society.",
+        "c": "We have to reform the society.",
+        "d": "Dayanand was a great reformer.",
+        "e": "We are proud of them/him."
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Last Lesson",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम लिखिए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "When thou weep'st, unkindly kind. My life's blood doth decay.",
+        "b": "And when the foreign office find a treaty's gone astray, or the Admiralty lose some plans and drawings by the way.",
+        "c": "Here lies a most beautiful lady, Light of step and heart was she.",
+        "d": "Where are the songs of spring? Ay, where are they? Think not of them, thou hast thy music too.",
+        "e": "Whose white waterfall could bliss. Travellers in their last distress."
+      },
+      "anuprashna": {
+        "a": "जब तुम रोती हो, बेरहमी से दयालु। मेरे जीवन का रक्त क्षय हो जाता है।",
+        "b": "और जब विदेश कार्यालय को पता चलता है कि कोई संधि भटक गई है, या एडमिरल्टी रास्ते में कुछ योजनाएं और चित्र खो देती है।",
+        "c": "यहाँ एक अत्यंत सुंदर महिला लेटी है, वह चलने में हल्की और दिल की कोमल थी।",
+        "d": "वसंत के गीत कहाँ हैं? हाय, वे कहाँ हैं? उनके बारे में मत सोचो, तुम्हारे पास अपना संगीत भी है।",
+        "e": "जिसका सफेद झरना आनंद दे सकता है। यात्रियों को उनके अंतिम संकट में।"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Match the poets given in List-A with appropriate titles from List-B:\nList-A:\n(a) Rupert Brooke\n(b) Keki N. Daruwalla\n(c) D.H. Lawrence\n(d) Kamala Das\n(e) W.H Auden\n\nList-B:\n(i) Snake\n(ii) Now the leaves\n(iii) Fire-Hymn\n(iv) The Soldier\n(v) My Grand Mother's House",
+      "prashna": "सूची-A में दिए गए कवियों का सूची-B के उपयुक्त शीर्षकों से मिलान करें:\nसूची-A:\n(क) रूपर्ट ब्रुक\n(ख) केकी एन. दारूवाला\n(ग) डी.एच. लॉरेंस\n(घ) कमला दास\n(ङ) डब्ल्यू.एच. ऑडेन\n\nसूची-B:\n(i) स्नेक\n(ii) नाउ द लीव्स\n(iii) फायर-हाइम\n(iv) द सोल्जर\n(v) माई ग्रैंड मदर्स हाउस"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Read the following sentences and state whether they are true or false:",
+      "prashna": "निम्नलिखित वाक्यों को पढ़ें और बताएं कि वे सही हैं या गलत:",
+      "sub_questions": {
+        "a": "There must have been a time when homosapiens was a very rare species.",
+        "b": "The ways of managing childbirth in traditional societies are not many and varied."
+      },
+      "anuprashna": {
+        "a": "एक समय ऐसा रहा होगा जब होमोसैपियंस एक बहुत ही दुर्लभ प्रजाति थी।",
+        "b": "पारंपरिक समाजों में प्रसव के प्रबंधन के तरीके बहुत और विविध नहीं हैं।"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Name the authors of the following prose pieces:",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम लिखिए:",
+      "sub_questions": {
+        "a": "I have a Dream",
+        "b": "The Earth",
+        "c": "A Pinch of Snuff"
+      },
+      "anuprashna": {
+        "a": "आई हैव अ ड्रीम",
+        "b": "द अर्थ",
+        "c": "अ पिंच ऑफ स्नफ"
+      }
+    },
+    {
+      "id": "short_6_1",
+      "type": "short_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Name any five English dramatists.",
+      "prashna": "किन्हीं पाँच अंग्रेजी नाटककारों के नाम लिखिए।"
+    },
+    {
+      "id": "short_6_2",
+      "type": "short_answer",
+      "chapter_name": "The Third Level",
+      "question": "OR\nName any five Indian English novelists.",
+      "prashna": "अथवा\nकिन्हीं पाँच भारतीय अंग्रेजी उपन्यासकारों के नाम लिखिए।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Name the authors of the following words [works]:",
+      "prashna": "निम्नलिखित रचनाओं के लेखकों के नाम लिखिए:",
+      "sub_questions": {
+        "a": "Othello",
+        "b": "The Canterbury Tales",
+        "c": "The Paradise Lost",
+        "d": "The Waste Land",
+        "e": "The Rivals"
+      },
+      "anuprashna": {
+        "a": "ओथेलो",
+        "b": "द कैंटरबरी टेल्स",
+        "c": "द पैराडाइज लॉस्ट",
+        "d": "द वेस्ट लैंड",
+        "e": "द राइवल्स"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "On the Face of It",
+      "question": "Answer any two, each in about 75 words of the following:",
+      "prashna": "निम्नलिखित में से किन्हीं दो के उत्तर लगभग 75 शब्दों में दें:",
+      "sub_questions": {
+        "a": "Why are order and safety necessary for Civilization?",
+        "b": "Why was the writer angry with the Photographer?",
+        "c": "What does J. C. Hill say about truth?",
+        "d": "How did the dalesman avoid the postal charges?",
+        "e": "Why does the writer say that absent-mindedness may be a virtue?"
+      },
+      "anuprashna": {
+        "a": "सभ्यता के लिए व्यवस्था और सुरक्षा क्यों आवश्यक है?",
+        "b": "लेखक फोटोग्राफर से क्यों नाराज था?",
+        "c": "जे. सी. हिल सत्य के बारे में क्या कहते हैं?",
+        "d": "डेल्समैन ने डाक शुल्क से कैसे बचा?",
+        "e": "लेखक ऐसा क्यों कहता है कि भुलक्कड़पन एक गुण हो सकता है?"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "short_answer_1",
+      "type": "short_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Answer any six of the following in about 30–50 words each:",
+      "instructions": "Answer any six. (6×2=12)",
+      "sub_questions": {
+        "a": "Why did our ancestors denounce us from luxuries and pleasures?",
+        "b": "What is Shobh’s father’s reason to dislike a minister?",
+        "c": "Why does Dr. Zakir Husain call India ‘the young state of an ancient people’?",
+        "d": "What was the great lesson that India had to teach the West?",
+        "e": "In the poem ‘An Epitaph’, what happens when the poet dies?",
+        "f": "Why is Macavity called a ‘master criminal’?",
+        "g": "Why is the speaker in ‘My Grandmother’s House’ proud of living in that house?",
+        "h": "What did the Fire Hymn say to the speaker?",
+        "i": "What are the features of a sonnet?",
+        "j": "Why are the Indians quick learners of English?"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Answer any five of the following in about 40-50 words:",
+      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:",
+      "sub_questions": {
+        "a": "Why did the poet feel honoured?",
+        "b": "What conditions prevail in the woods?",
+        "c": "What is civilization in the real sense of the term?",
+        "d": "What are the 'trials and tribulations' Martin Luther King, Jr. talks about?",
+        "e": "What is the impact of poverty in medical field?",
+        "f": "What is Dr. Zakir Hussain's concept of education?",
+        "g": "Which event does the expression 'the burning ghat' refer to?",
+        "h": "What are the features of drama?",
+        "i": "Name the areas where English is used as a second language.",
+        "j": "What led English to borrowings?"
+      },
+      "anuprashna": {
+        "a": "कवि ने सम्मानित क्यों महसूस किया?",
+        "b": "जंगलों में कैसी स्थितियाँ व्याप्त हैं?",
+        "c": "शब्द के वास्तविक अर्थ में सभ्यता क्या है?",
+        "d": "मार्टिन लूथर किंग, जूनियर किन 'परीक्षणों और कष्टों' के बारे में बात करते हैं?",
+        "e": "चिकित्सा क्षेत्र में गरीबी का क्या प्रभाव है?",
+        "f": "डॉ. जाकिर हुसैन की शिक्षा की अवधारणा क्या है?",
+        "g": "अभिव्यक्ति 'द बर्निंग घाट' किस घटना को संदर्भित करती है?",
+        "h": "नाटक की विशेषताएं क्या हैं?",
+        "i": "उन क्षेत्रों के नाम बताइए जहाँ अंग्रेजी का प्रयोग दूसरी भाषा के रूप में किया जाता है।",
+        "j": "किस वजह से अंग्रेजी में उधार (borrowings) आए?"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "The Enemy",
       "question": "Answer any five of the following in about 40-50 words each :",
       "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:",
       "sub_questions": {
@@ -36,7 +781,7 @@
     {
       "id": "short_1",
       "type": "short_answer",
-      "chapter_name": "Going Places",
+      "chapter_name": "The Interview",
       "question": "Answer any five of the following in about 40-50 words each :\na) What is the belief prevailing in Sicily about a snake ?\nb) If at all he dies in the battle, how would the soldier like to be remembered ?\nc) What happens in autumn ?\nd) Why did the writer not mind her host eating in the opposite corner of the room ?\ne) Are there restrictions on Press in time of war ?\nf) What made Seibei's heart beat faster ?\ng) Write the names of dramatic elements.\nh) Name four countries where English is used as a second language.\ni) What was the impact of the Norman conquest on vocabulary of English ?\nj) What standardized English spelling and pronunciation ?",
       "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:\nक) सिसिली में सांप के बारे में क्या धारणा प्रचलित है?\nख) यदि वह युद्ध में मर जाता है, तो सैनिक किस प्रकार याद किया जाना चाहेगा?\nग) शरद ऋतु में क्या होता है?\nघ) लेखिका को अपने मेजबान के कमरे के विपरीत कोने में खाने पर आपत्ति क्यों नहीं हुई?\nङ) क्या युद्ध के समय प्रेस पर पाबंदियां होती हैं?\nच) सेबेई के दिल की धड़कन तेज क्यों हो गई?\nछ) नाटकीय तत्वों के नाम लिखिए।\nज) उन चार देशों के नाम बताइए जहाँ अंग्रेजी का प्रयोग दूसरी भाषा के रूप में किया जाता है।\nझ) अंग्रेजी की शब्दावली पर नॉर्मन विजय का क्या प्रभाव पड़ा?\nञ) अंग्रेजी की वर्तनी और उच्चारण को किसने मानकीकृत किया?"
     }
@@ -45,7 +790,7 @@
     {
       "id": "short_1",
       "type": "short_answer",
-      "chapter_name": "The Rattrap",
+      "chapter_name": "The Tiger King",
       "question": "Answer any five of the following in about 40-50 words each:\n(a) How did Seibei's father react to the teacher's complaint?\n(b) What are the 'trials and tribulations' Martin Luther King, Jr. talks about?\n(c) Why were the intellectuals in India restless and embittered?\n(d) How is Lomov greeted by Choobookov?\n(e) How do sighing and weeping affect the speaker?\n(f) What does the poet Walt Whitman want to do with creeds?\n(g) How do we complete our last journey to the grave?\n(h) Who is called the 'Father of the Modern Novel’?\n(i) What is the dramatic structure of a tragedy?\n(j) What did the 18th century grammarians think about their role?",
       "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:\n(a) शिक्षक की शिकायत पर सेईबेई के पिता ने क्या प्रतिक्रिया दी?\n(b) वे 'परीक्षण और क्लेश' (trials and tribulations) क्या हैं जिनके बारे में मार्टिन लूथर किंग जूनियर बात करते हैं?\n(c) भारत में बुद्धिजीवी अशांत और कटु क्यों थे?\n(d) चुबुकोव ने लोमोव का स्वागत कैसे किया?\n(e) आहें भरना और रोना वक्ता को कैसे प्रभावित करता है?\n(f) कवि वॉल्ट व्हिटमैन पंथों (creeds) के साथ क्या करना चाहते हैं?\n(g) हम कब्र तक अपनी अंतिम यात्रा कैसे पूरी करते हैं?\n(h) 'आधुनिक उपन्यास का पिता' किसे कहा जाता है?\n(i) त्रासदी (tragedy) की नाटकीय संरचना क्या है?\n(j) 18वीं शताब्दी के व्याकरणविदों ने अपनी भूमिका के बारे में क्या सोचा?"
     }
@@ -87,7 +832,7 @@
     {
       "id": "short_1",
       "type": "short_answer",
-      "chapter_name": "Poets and Pancakes",
+      "chapter_name": "A Thing of Beauty",
       "question": "Answer any five of the following in about 40-50 words each :",
       "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें :",
       "sub_questions": {

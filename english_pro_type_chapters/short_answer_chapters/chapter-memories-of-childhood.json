@@ -1,34 +1,96 @@
 {
-  "2021": [
+  "2013": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name the authors of the following prose pieces:\n(a) Bharat is My Home\n(b) A Pinch of Snuff\n(c) How Free is the Press.",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए:\n(क) भारत इज माई होम\n(ख) ए पिंच ऑफ स्नफ\n(ग) हाउ फ्री इज द प्रेस"
+    }
+  ],
+  "2015": [
     {
       "id": "short_1",
       "type": "short_answer",
       "chapter_name": "Memories of Childhood",
-      "question": "Answer any five of the following in about 40-50 words each :",
-      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
       "sub_questions": {
-        "a": "Was the Snake conscious of the poet's presence ?",
-        "b": "How are autumn and summer related to spring ?",
-        "c": "In what sense does the fire forget its dead ?",
-        "d": "How did Seibi's father react to the teacher's complaint ?",
-        "e": "How does Mahatma Gandhi want his countrymen to deal with modern civilization ?",
-        "f": "What is the reward of pregnancy for a young Sylheti woman ?",
-        "g": "What was the role of fire in our development ?",
-        "h": "When did the Great Vowel Shift take place ?",
-        "i": "What was the impact of the Norman Conquest on the vocabulary of English ?",
-        "j": "Write a note on English as a Global Language."
+        "a": "हमेशा सच बोलो।",
+        "b": "मैं उसे जानता हूँ",
+        "c": "रमेश मेरा भाई है।",
+        "d": "वह एक अच्छा तैराक है।",
+        "e": "क्या तुम्हें अंग्रेजी बोलना आता है?"
       },
       "anuprashna": {
-        "a": "क्या साँप कवि की उपस्थिति के प्रति सचेत था?",
-        "b": "शरद और ग्रीष्म वसंत से कैसे संबंधित हैं?",
-        "c": "किस अर्थ में अग्नि अपने मृतकों को भूल जाती है?",
-        "d": "शिक्षक की शिकायत पर सेइबी के पिता ने क्या प्रतिक्रिया दी?",
-        "e": "महात्मा गांधी अपने देशवासियों को आधुनिक सभ्यता से कैसे निपटने के लिए कहना चाहते हैं?",
-        "f": "एक युवा सिलहटी महिला के लिए गर्भावस्था का इनाम क्या है?",
-        "g": "हमारे विकास में अग्नि की क्या भूमिका थी?",
-        "h": "ग्रेट वोवेल शिफ्ट कब हुआ था?",
-        "i": "अंग्रेजी की शब्दावली पर नॉर्मन विजय का क्या प्रभाव पड़ा?",
-        "j": "वैश्विक भाषा के रूप में अंग्रेजी पर एक नोट लिखें।"
+        "a": "Always speak the truth.",
+        "b": "I know him.",
+        "c": "Ramesh is my brother.",
+        "d": "He is a good swimmer.",
+        "e": "Do you know how to speak English?"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name the authors of the following books:",
+      "prashna": "निम्नलिखित पुस्तकों के लेखकों के नाम लिखें:",
+      "sub_questions": {
+        "a": "Tom Jones",
+        "b": "In Memoriam",
+        "c": "The Waste land",
+        "d": "Arm and the Man",
+        "e": "Macbeth"
+      },
+      "anuprashna": {
+        "a": "टॉम जोन्स",
+        "b": "इन मेमोरियम",
+        "c": "द वेस्ट लैंड",
+        "d": "आर्म एंड द मैन",
+        "e": "मैकबेथ"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name the poets who wrote the following lines: (a) Yester night the Sunne went hence / And yet is here today / He hath no desire no sense / Nor halfe so short a way. (b) I celebrate myself and sing myself / An what I assume you shall assume, / For every atom belonging to me as good belongs to you. (c) Cold, impossible, ahead / Lifts the mountain's lovely head / Whose white waterfall could bless / Travellers in their last distress. (d) An where the water had dripped from the taps in a small clearness / He sipped with his straight mouth / Softly drank through his straight gums, / into his slack long body silently. (e) Here lies a most beautiful lady. / Light of step and heart was she, / I think she was the most beautiful lady / That every was in the West Country.",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं: (क) Yester night the Sunne went hence... (ख) I celebrate myself and sing myself... (ग) Cold, impossible, ahead... (घ) An where the water had dripped... (ङ) Here lies a most beautiful lady..."
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Answer any five of the following in about 40-50 words:",
+      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:",
+      "sub_questions": {
+        "a": "Why did the poet feel honoured?",
+        "b": "What conditions prevail in the woods?",
+        "c": "What is civilization in the real sense of the term?",
+        "d": "What are the 'trials and tribulations' Martin Luther King, Jr. talks about?",
+        "e": "What is the impact of poverty in medical field?",
+        "f": "What is Dr. Zakir Hussain's concept of education?",
+        "g": "Which event does the expression 'the burning ghat' refer to?",
+        "h": "What are the features of drama?",
+        "i": "Name the areas where English is used as a second language.",
+        "j": "What led English to borrowings?"
+      },
+      "anuprashna": {
+        "a": "कवि ने सम्मानित क्यों महसूस किया?",
+        "b": "जंगलों में कैसी स्थितियाँ व्याप्त हैं?",
+        "c": "शब्द के वास्तविक अर्थ में सभ्यता क्या है?",
+        "d": "मार्टिन लूथर किंग, जूनियर किन 'परीक्षणों और कष्टों' के बारे में बात करते हैं?",
+        "e": "चिकित्सा क्षेत्र में गरीबी का क्या प्रभाव है?",
+        "f": "डॉ. जाकिर हुसैन की शिक्षा की अवधारणा क्या है?",
+        "g": "अभिव्यक्ति 'द बर्निंग घाट' किस घटना को संदर्भित करती है?",
+        "h": "नाटक की विशेषताएं क्या हैं?",
+        "i": "उन क्षेत्रों के नाम बताइए जहाँ अंग्रेजी का प्रयोग दूसरी भाषा के रूप में किया जाता है।",
+        "j": "किस वजह से अंग्रेजी में उधार (borrowings) आए?"
       }
     }
   ]

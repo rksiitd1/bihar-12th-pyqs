@@ -1,41 +1,155 @@
 {
-  "2021": [
+  "2018": [
     {
-      "id": "obj_56",
+      "id": "obj_3",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "............... is bad for health. (Choose the correct option)",
-      "prashna": "............... स्वास्थ्य के लिए बुरा है। (सही विकल्प चुनें)",
+      "question": "Santosh deals .......... grains. (Choose the suitable preposition)",
+      "prashna": "संतोष अनाज का व्यापार .......... करता है। (उपयुक्त पूर्वसर्ग चुनें)",
       "options": {
-        "A": "Smoke",
-        "B": "To smoking",
-        "C": "Smoked",
-        "D": "Smoking"
+        "A": "with",
+        "B": "in",
+        "C": "at",
+        "D": "for"
       },
       "vikalpa": {
-        "A": "धुआं",
-        "B": "धूम्रपान करना (गलत रूप)",
-        "C": "धूम्रपान किया",
-        "D": "धूम्रपान (Smoking)"
+        "A": "with",
+        "B": "in",
+        "C": "at",
+        "D": "for"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_21",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "The doctor suggested .................... take a vacation. (Choose the meaningful expression)",
+      "options": {
+        "A": "the patient",
+        "B": "the patient will",
+        "C": "that the patient should",
+        "D": "the patient ought"
+      },
+      "answer": "C"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "Please be quiet. I.........my homework. (Choose the best option)",
+      "prashna": "कृपया शांत रहें। मैं अपना होमवर्क ...... रहा हूँ। (सबसे अच्छा विकल्प चुनें)",
+      "options": {
+        "A": "is doing",
+        "B": "will doing",
+        "C": "am doing",
+        "D": "are doing"
+      },
+      "vikalpa": {
+        "A": "is doing",
+        "B": "will doing",
+        "C": "am doing",
+        "D": "are doing"
       }
     },
     {
-      "id": "obj_62",
+      "id": "obj_16",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "'Thou watchest the last oozings hours by hours.' is from :",
-      "prashna": "'दौ वाचस्ट द लास्ट ऊजिंग आवर्स बाय आवर्स।' कहाँ से लिया गया है?",
+      "question": "We ......... him yesterday. (Choose the correct option)",
+      "prashna": "हमने कल उससे मुलाकात की। (सही विकल्प चुनें)",
       "options": {
-        "A": "Song of Myself",
-        "B": "An Epitaph",
-        "C": "Ode to Autumn",
-        "D": "Snake"
+        "A": "were visiting",
+        "B": "visited",
+        "C": "have visited",
+        "D": "will be visiting"
       },
       "vikalpa": {
-        "A": "सॉन्ग ऑफ मायसेल्फ",
-        "B": "एन एपिटाफ",
-        "C": "ओड टू ऑटम",
-        "D": "स्नेक"
+        "A": "were visiting",
+        "B": "visited",
+        "C": "have visited",
+        "D": "will be visiting"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "He introduced me ............... his relatives. (Choose the correct preposition)",
+      "prashna": "उसने मेरा परिचय ............... अपने रिश्तेदारों से कराया। (सही प्रीपोज़िशन चुनें)",
+      "options": {
+        "A": "with",
+        "B": "on",
+        "C": "to",
+        "D": "by"
+      },
+      "vikalpa": {
+        "A": "साथ",
+        "B": "पर",
+        "C": "को/से",
+        "D": "द्वारा"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "Success depends ............... hard labour. (Choose the correct preposition)",
+      "prashna": "सफलता कठिन परिश्रम ............... निर्भर करती है। (सही प्रीपोज़िशन चुनें)",
+      "options": {
+        "A": "by",
+        "B": "of",
+        "C": "in",
+        "D": "on"
+      },
+      "vikalpa": {
+        "A": "द्वारा",
+        "B": "का",
+        "C": "में",
+        "D": "पर"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "We met a lot of people ............... our holidays. (Choose the correct preposition)",
+      "prashna": "हम अपनी छुट्टियों ............... बहुत से लोगों से मिले। (सही प्रीपोज़िशन चुनें)",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "during",
+        "D": "at"
+      },
+      "vikalpa": {
+        "A": "पर",
+        "B": "में",
+        "C": "के दौरान",
+        "D": "पर"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "In which poem does the poet express his sad feeling for a beautiful lady ? (Choose the correct option)",
+      "prashna": "किस कविता में कवि एक सुंदर महिला के लिए अपनी दुखद भावना व्यक्त करता है? (सही विकल्प चुनें)",
+      "options": {
+        "A": "To Autumn",
+        "B": "The Soldier",
+        "C": "An Epitaph",
+        "D": "Fire-Hymn"
+      },
+      "vikalpa": {
+        "A": "टू ऑटम",
+        "B": "द सोल्जर",
+        "C": "एन एपिटाफ",
+        "D": "फायर-हाइम"
       }
     },
     {
@@ -58,429 +172,486 @@
       }
     },
     {
-      "id": "obj_96",
+      "id": "obj_93",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "Bertrand Russell was also a ............... (Choose the correct option)",
-      "prashna": "बर्ट्रेंड रसेल एक ............... भी थे। (सही विकल्प चुनें)",
+      "question": "'Some of the immediate and brilliant results of modern inventions are too maddening to resist.' is from ............... (Choose the correct option)",
+      "prashna": "'आधुनिक आविष्कारों के कुछ तात्कालिक और शानदार परिणाम विरोध करने के लिए बहुत उन्मादपूर्ण हैं।' कहाँ से है: (सही विकल्प चुनें)",
       "options": {
-        "A": "painter",
-        "B": "dramatist",
-        "C": "mathematician",
-        "D": "geologist"
+        "A": "Bharat is My Home",
+        "B": "A Pinch of Snuff",
+        "C": "Indian Civilization and Culture",
+        "D": "Ideas That Have Helped Mankind"
       },
       "vikalpa": {
-        "A": "पेंटर",
-        "B": "नाटककार",
-        "C": "गणितज्ञ",
-        "D": "भूविज्ञानी"
-      }
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "All his friends laughed at him. (Choose the correct passive voice)",
-      "prashna": "उसके सभी दोस्त उस पर हँसे। (सही पैसिव वॉयस चुनें)",
-      "options": {
-        "A": "He was being laughed at by all his friends",
-        "B": "He was being laughed by all his friends",
-        "C": "He was laughed by all his friends",
-        "D": "He was laughed at by all his friends"
-      },
-      "vikalpa": {
-        "A": "He was being laughed at by all his friends",
-        "B": "He was being laughed by all his friends",
-        "C": "He was laughed by all his friends",
-        "D": "He was laughed at by all his friends"
-      }
-    },
-    {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Choose the correct synonym of 'Perfume'.",
-      "prashna": "'Perfume' (इत्र) का सही पर्यायवाची चुनें।",
-      "options": {
-        "A": "Way",
-        "B": "Scent",
-        "C": "Plain",
-        "D": "Hunt"
-      },
-      "vikalpa": {
-        "A": "Way",
-        "B": "Scent",
-        "C": "Plain",
-        "D": "Hunt"
-      }
-    },
-    {
-      "id": "obj_48",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "The cost of paper and printing ............ too high. (Choose the correct option)",
-      "prashna": "कागज और छपाई की लागत ............ बहुत अधिक है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "are",
-        "B": "have",
-        "C": "has",
-        "D": "is"
-      },
-      "vikalpa": {
-        "A": "are",
-        "B": "have",
-        "C": "has",
-        "D": "is"
-      }
-    },
-    {
-      "id": "obj_75",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "............ women had given up going to international conferences.",
-      "prashna": "............ महिलाओं ने अंतरराष्ट्रीय सम्मेलनों में जाना छोड़ दिया था।",
-      "options": {
-        "A": "Sudanese",
-        "B": "Indian",
-        "C": "Australian",
-        "D": "Pakistani"
-      },
-      "vikalpa": {
-        "A": "सूडानी",
-        "B": "भारतीय",
-        "C": "ऑस्ट्रेलियाई",
-        "D": "पाकिस्तानी"
-      }
-    },
-    {
-      "id": "obj_77",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "The writing system in Old English used the ............ alphabet.",
-      "prashna": "पुरानी अंग्रेजी में लेखन प्रणाली ............ वर्णमाला का उपयोग करती थी।",
-      "options": {
-        "A": "Runic",
-        "B": "Kentish",
-        "C": "Celtic",
-        "D": "Saxon"
-      },
-      "vikalpa": {
-        "A": "रूनिक",
-        "B": "केंटिश",
-        "C": "सेल्टिक",
-        "D": "सैक्सन"
-      }
-    },
-    {
-      "id": "obj_86",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Every ............ lives in a perpetual precarious balance.",
-      "prashna": "प्रत्येक ............ एक निरंतर अनिश्चित संतुलन में रहता है।",
-      "options": {
-        "A": "man",
-        "B": "book",
-        "C": "newspaper",
-        "D": "story"
-      },
-      "vikalpa": {
-        "A": "आदमी",
-        "B": "किताब",
-        "C": "समाचार पत्र",
-        "D": "कहानी"
+        "A": "भारत इज माय होम",
+        "B": "ए पिंच ऑफ स्नफ",
+        "C": "इंडियन सिविलाइजेशन एंड कल्चर",
+        "D": "आइडियाज़ दैट हैव हेल्प्ड मैनकाइंड"
       }
     },
     {
       "id": "obj_94",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "A dust whom ............ bore, shaped, made aware, ...",
-      "prashna": "एक धूल जिसे ............ ने जन्म दिया, आकार दिया, जागरूक बनाया, ...",
+      "question": "India was a part of the background of ............... (Choose the correct option)",
+      "prashna": "भारत ............... की पृष्ठभूमि का एक हिस्सा था। (सही विकल्प चुनें)",
       "options": {
-        "A": "Ireland",
-        "B": "India",
-        "C": "England",
-        "D": "Iceland"
+        "A": "the doctor's life",
+        "B": "the wife's life",
+        "C": "the Kashmiri man's life",
+        "D": "Pearl S. Buck's life"
       },
       "vikalpa": {
-        "A": "आयरलैंड",
-        "B": "भारत",
-        "C": "इंग्लैंड",
-        "D": "आइसलैंड"
+        "A": "डॉक्टर का जीवन",
+        "B": "पत्नी का जीवन",
+        "C": "कश्मीरी आदमी का जीवन",
+        "D": "पर्ल एस. बक का जीवन"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "Goldsmith and Sheridan made contributions to the ...............",
+      "prashna": "गोल्डस्मिथ और शेरिडन ने ............... में योगदान दिया।",
+      "options": {
+        "A": "Novel",
+        "B": "Non-fiction writing",
+        "C": "Poetry",
+        "D": "English stage"
+      },
+      "vikalpa": {
+        "A": "उपन्यास",
+        "B": "गैर-काल्पनिक लेखन",
+        "C": "कविता",
+        "D": "अंग्रेजी रंगमंच (English stage)"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "She wants to become ............ engineer. (Choose the correct article)",
+      "prashna": "वह ............ इंजीनियर बनना चाहती है। (सही आर्टिकल चुनें)",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "vikalpa": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "कोई आर्टिकल नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "The antonym of 'Modern' is",
+      "prashna": "'Modern' (आधुनिक) का विलोम है",
+      "options": {
+        "A": "Ancient",
+        "B": "Recent",
+        "C": "Contemporary",
+        "D": "Update"
+      },
+      "vikalpa": {
+        "A": "प्राचीन",
+        "B": "हालिया",
+        "C": "समकालीन",
+        "D": "अपडेट"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "He heard a noise. He got up. (Choose the correct combination)",
+      "prashna": "उसने एक शोर सुना। वह उठ गया। (सही संयोजन चुनें)",
+      "options": {
+        "A": "Had heard a noise so he got up",
+        "B": "Having hearing a noise, he got up",
+        "C": "As he heard a noise, he got up",
+        "D": "Heard a noise so he got up"
+      },
+      "vikalpa": {
+        "A": "Had heard a noise so he got up",
+        "B": "Having hearing a noise, he got up",
+        "C": "As he heard a noise, he got up",
+        "D": "Heard a noise so he got up"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "The images and praises of ............ run through the poem 'The Soldier'.",
+      "prashna": "कविता 'द सोल्जर' में ............ की छवियां और प्रशंसाएँ समाहित हैं।",
+      "options": {
+        "A": "The USA",
+        "B": "Australia",
+        "C": "France",
+        "D": "England"
+      },
+      "vikalpa": {
+        "A": "अमेरिका",
+        "B": "ऑस्ट्रेलिया",
+        "C": "फ्रांस",
+        "D": "इंग्लैंड"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_11",
+      "id": "obj_2",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "The girl........you saw was Sohan's sister. (Choose the correct option)",
-      "prashna": "वह लड़की जिसे........आपने देखा सोहन की बहन थी। (सही विकल्प चुनें)",
+      "question": "My sister........as a steno in the past. (Choose the correct option)",
+      "prashna": "मेरी बहन अतीत में एक स्टेनो के रूप में........। (सही विकल्प चुनें)",
       "options": {
-        "A": "whom",
-        "B": "what",
-        "C": "which",
-        "D": "when"
+        "A": "works",
+        "B": "working",
+        "C": "worked",
+        "D": "have worked"
       },
       "vikalpa": {
-        "A": "जिसे",
-        "B": "क्या",
-        "C": "जो",
-        "D": "जब"
+        "A": "works",
+        "B": "working",
+        "C": "worked",
+        "D": "have worked"
       }
     },
     {
-      "id": "obj_14",
+      "id": "obj_4",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "Meeta said, \"She will sing a song\". (Choose the correct indirect narration)",
-      "prashna": "मीता ने कहा, \"वह एक गाना गाएगी\"। (सही इनडायरेक्ट नरेशन चुनें)",
+      "question": "We........almost ready. (Choose the correct option)",
+      "prashna": "हम........लगभग तैयार हैं। (सही विकल्प चुनें)",
       "options": {
-        "A": "Meeta says that she can sing a song",
-        "B": "Meeta said that she will be singing a song",
-        "C": "Meeta said that she would sing a song",
-        "D": "Meeta requested that she wanted to sing a song"
+        "A": "am",
+        "B": "is",
+        "C": "was",
+        "D": "are"
       },
       "vikalpa": {
-        "A": "Meeta says that she can sing a song",
-        "B": "Meeta said that she will be singing a song",
-        "C": "Meeta said that she would sing a song",
-        "D": "Meeta requested that she wanted to sing a song"
+        "A": "am",
+        "B": "is",
+        "C": "was",
+        "D": "are"
       }
     },
-    {
-      "id": "obj_77",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Who is considered the greatest English dramatist?",
-      "prashna": "किसे सबसे महान अंग्रेजी नाटककार माना जाता है?",
-      "options": {
-        "A": "Geoffrey Chaucer",
-        "B": "Wycliff",
-        "C": "William Langland",
-        "D": "Shakespeare"
-      },
-      "vikalpa": {
-        "A": "जेफ्री चौसर",
-        "B": "वाइक्लिफ",
-        "C": "विलियम लैंगलैंड",
-        "D": "शेक्सपियर"
-      }
-    },
-    {
-      "id": "obj_84",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Who wrote 'Mac Flecknoe’?",
-      "prashna": "'मैक फ्लेकनो' किसने लिखा था?",
-      "options": {
-        "A": "John Dryden",
-        "B": "John Keats",
-        "C": "Charles Dickens",
-        "D": "Jane Austen"
-      },
-      "vikalpa": {
-        "A": "जॉन ड्राइडन",
-        "B": "जॉन कीट्स",
-        "C": "चार्ल्स डिकेंस",
-        "D": "जेन ऑस्टेन"
-      }
-    }
-  ],
-  "2024": [
     {
       "id": "obj_9",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "Choose the correct sentence:",
-      "prashna": "सही वाक्य चुनें:",
+      "question": "Blow his own trumpet means: (Choose the correct meaning)",
+      "prashna": "अपने मुँह मियाँ मिट्ठू बनना (Blow his own trumpet) का अर्थ है: (सही अर्थ चुनें)",
       "options": {
-        "A": "He prevented me from going there",
-        "B": "He prevented me to go there",
-        "C": "He prevents me at going there",
-        "D": "He preventing me through going there"
+        "A": "flatter",
+        "B": "discuss",
+        "C": "praise others",
+        "D": "praise one's own self"
       },
       "vikalpa": {
-        "A": "उसने मुझे वहाँ जाने से रोका",
-        "B": "उसने मुझे वहाँ जाने के लिए रोका",
-        "C": "वह मुझे वहाँ जाने पर रोकता है",
-        "D": "वह मुझे वहाँ जाने के माध्यम से रोक रहा है"
+        "A": "चापलूसी करना",
+        "B": "चर्चा करना",
+        "C": "दूसरों की प्रशंसा करना",
+        "D": "स्वयं की प्रशंसा करना"
       }
     },
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Ramesh is ........... and hearty. (Choose the correct option)",
-      "prashna": "रमेश ........... और स्वस्थ (hearty) है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "hale",
-        "B": "hail",
-        "C": "heal",
-        "D": "head"
-      },
-      "vikalpa": {
-        "A": "स्वस्थ (hale)",
-        "B": "ओला/जयजयकार",
-        "C": "ठीक होना",
-        "D": "सिर"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Latin and ........... were the two major influences on Old English.",
-      "prashna": "पुरानी अंग्रेजी पर लैटिन और ........... दो प्रमुख प्रभाव थे।",
-      "options": {
-        "A": "Greek",
-        "B": "French",
-        "C": "Scandinavian",
-        "D": "Indian"
-      },
-      "vikalpa": {
-        "A": "यूनानी",
-        "B": "फ्रेंच",
-        "C": "स्कैंडिनेवियाई",
-        "D": "भारतीय"
-      }
-    },
-    {
-      "id": "obj_71",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "The Anglo-Indian community in India use ........... as their mother-tongue.",
-      "prashna": "भारत में एंग्लो-इंडियन समुदाय अपनी मातृभाषा के रूप में ........... का उपयोग करता है।",
-      "options": {
-        "A": "Urdu",
-        "B": "Parsi",
-        "C": "English",
-        "D": "Hindi"
-      },
-      "vikalpa": {
-        "A": "उर्दू",
-        "B": "पारसी",
-        "C": "अंग्रेजी",
-        "D": "हिंदी"
-      }
-    },
-    {
-      "id": "obj_72",
-      "type": "objective",
-      "chapter_name": "Going Places",
-      "question": "Who wrote ‘She Stoops to Conquer’ ?",
-      "prashna": "‘She Stoops to Conquer’ किसने लिखी है?",
-      "options": {
-        "A": "G. B. Shaw",
-        "B": "T. S. Eliot",
-        "C": "Salman Rushdie",
-        "D": "Oliver Goldsmith"
-      },
-      "vikalpa": {
-        "A": "जी. बी. शॉ",
-        "B": "टी. एस. एलियट",
-        "C": "सलमान रुश्दी",
-        "D": "ओलिवर गोल्डस्मिथ"
-      }
-    }
-  ],
-  "2025": [
     {
       "id": "obj_17",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "......... of my friends are coming to the party.",
-      "prashna": "मेरे दोस्तों में से ......... पार्टी में आ रहे हैं।",
+      "question": "Sushil kept walking............(Choose the correct option)",
+      "prashna": "सुशील चलता रहा ............ (सही विकल्प चुनें)",
       "options": {
-        "A": "The number",
-        "B": "Much",
-        "C": "Most",
-        "D": "Mere"
+        "A": "forward",
+        "B": "upward",
+        "C": "hither",
+        "D": "thither"
       },
       "vikalpa": {
-        "A": "The number",
-        "B": "Much",
-        "C": "Most",
-        "D": "Mere"
+        "A": "आगे",
+        "B": "ऊपर की ओर",
+        "C": "इधर",
+        "D": "उधर"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "The storehouse was infested..........rats. (Choose the correct option)",
+      "prashna": "गोदाम चूहों से .......... ग्रस्त था। (सही विकल्प चुनें)",
+      "options": {
+        "A": "of",
+        "B": "with",
+        "C": "about",
+        "D": "from"
+      },
+      "vikalpa": {
+        "A": "of",
+        "B": "with",
+        "C": "about",
+        "D": "from"
       }
     },
     {
       "id": "obj_55",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "Do you think we will be unhappy ......... ?",
-      "prashna": "क्या आपको लगता है कि हम ......... दुखी होंगे?",
+      "question": "Choose the correct sentence:",
+      "prashna": "सही वाक्य चुनें:",
       "options": {
-        "A": "ever",
-        "B": "forever",
-        "C": "never",
-        "D": "not"
+        "A": "My mother forbade me not to go out",
+        "B": "My mother forbade me not go out",
+        "C": "My mother forbade do not go out",
+        "D": "My mother forbade me to go out"
       },
       "vikalpa": {
-        "A": "कभी",
-        "B": "हमेशा के लिए",
-        "C": "कभी नहीं",
-        "D": "नहीं"
+        "A": "My mother forbade me not to go out",
+        "B": "My mother forbade me not go out",
+        "C": "My mother forbade do not go out",
+        "D": "My mother forbade me to go out"
       }
     },
     {
-      "id": "obj_61",
+      "id": "obj_75",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "The name 'Augustan' was given to ......... Century.",
-      "prashna": "'Augustan' नाम ......... शताब्दी को दिया गया था।",
+      "question": "Naunkaka managed to travel in 2nd class on a ticket of",
+      "prashna": "नानूकाका ने किस टिकट पर द्वितीय श्रेणी में यात्रा करने का प्रबंधन किया?",
       "options": {
-        "A": "17th",
-        "B": "18th",
-        "C": "19th",
-        "D": "20th"
+        "A": "1st class",
+        "B": "General class",
+        "C": "Sleeper class",
+        "D": "Third class"
       },
       "vikalpa": {
-        "A": "17वीं",
-        "B": "18वीं",
-        "C": "19वीं",
-        "D": "20वीं"
+        "A": "प्रथम श्रेणी",
+        "B": "सामान्य श्रेणी",
+        "C": "स्लीपर श्रेणी",
+        "D": "तृतीय श्रेणी (Third class)"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "You never have bread and butter for breakfast, ........... ? (Choose the correct option)",
+      "prashna": "आप नाश्ते में कभी ब्रेड और मक्खन नहीं लेते, ........... ? (सही विकल्प चुनें)",
+      "options": {
+        "A": "have you",
+        "B": "do you",
+        "C": "don't they",
+        "D": "do they"
+      },
+      "vikalpa": {
+        "A": "क्या आप लेते हैं (have you)",
+        "B": "क्या आप लेते हैं (do you)",
+        "C": "क्या वे नहीं",
+        "D": "क्या वे"
       }
     },
     {
-      "id": "obj_74",
+      "id": "obj_27",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "Dr. Radhakrishnan never lost his faith in",
-      "prashna": "डॉ. राधाकृष्णन ने कभी भी अपना विश्वास नहीं खोया",
+      "question": "It is time for the bell to be rung. (Choose the correct active voice)",
+      "prashna": "घंटी बजने का समय हो गया है। (सही एक्टिव वॉइस चुनें)",
       "options": {
-        "A": "essential wealth",
-        "B": "essential knowledge",
-        "C": "essential humanity of man",
-        "D": "essential experience"
+        "A": "It will be time to ring the bell.",
+        "B": "Time will be when the bell rings.",
+        "C": "It is time to ring the bell.",
+        "D": "Rings the bell in time."
       },
       "vikalpa": {
-        "A": "अनिवार्य धन में",
-        "B": "अनिवार्य ज्ञान में",
-        "C": "मनुष्य की अनिवार्य मानवता में",
-        "D": "अनिवार्य अनुभव में"
+        "A": "घंटी बजाने का समय होगा।",
+        "B": "समय तब होगा जब घंटी बजेगी।",
+        "C": "घंटी बजाने का समय है।",
+        "D": "समय पर घंटी बजाता है।"
       }
     },
     {
-      "id": "obj_91",
+      "id": "obj_45",
       "type": "objective",
       "chapter_name": "Going Places",
-      "question": "A ......... is mentioned in the poem 'Snake'.",
-      "prashna": "कविता 'Snake' में एक ......... का उल्लेख किया गया है।",
+      "question": "Choose the correct spelling :",
+      "prashna": "सही वर्तनी चुनें :",
       "options": {
-        "A": "Peepal Tree",
-        "B": "Mango Tree",
-        "C": "Banyan Tree",
-        "D": "Carob Tree"
+        "A": "Risemblence",
+        "B": "Resiemblience",
+        "C": "Resemblance",
+        "D": "Risimblence"
       },
       "vikalpa": {
-        "A": "पीपल का पेड़",
-        "B": "आम का पेड़",
-        "C": "बरगद का पेड़",
-        "D": "कैरोब का पेड़"
+        "A": "Risemblence",
+        "B": "Resiemblience",
+        "C": "Resemblance (समानता)",
+        "D": "Risimblence"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "“Travellers in their last distress” is from",
+      "prashna": "“Travellers in their last distress” कहाँ से लिया गया है?",
+      "options": {
+        "A": "Now the Leaves are Falling Fast",
+        "B": "An Epitaph",
+        "C": "Ode to Autumn",
+        "D": "The Soldier"
+      },
+      "vikalpa": {
+        "A": "Now the Leaves are Falling Fast",
+        "B": "An Epitaph",
+        "C": "Ode to Autumn",
+        "D": "The Soldier"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "Wycliff and Langland are writers of the ........... period.",
+      "prashna": "वाइक्लिफ और लैंगलैंड ........... काल के लेखक हैं।",
+      "options": {
+        "A": "Old English",
+        "B": "Middle English",
+        "C": "Modern English",
+        "D": "Post-modern English"
+      },
+      "vikalpa": {
+        "A": "पुरानी अंग्रेजी",
+        "B": "मध्य अंग्रेजी",
+        "C": "आधुनिक अंग्रेजी",
+        "D": "उत्तर-आधुनिक अंग्रेजी"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "He has properly ......... the rules and regulations.",
+      "prashna": "उसने नियमों और विनियमों को ठीक से ......... है।",
+      "options": {
+        "A": "understand",
+        "B": "to understand",
+        "C": "understood",
+        "D": "understanding"
+      },
+      "vikalpa": {
+        "A": "understand",
+        "B": "to understand",
+        "C": "understood",
+        "D": "understanding"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "Veena had written a letter. (Choose the correct passive sentence)",
+      "prashna": "वीणा ने एक पत्र लिखा था। (सही निष्क्रिय वाक्य चुनें)",
+      "options": {
+        "A": "A letter had been written by Veena",
+        "B": "A letter is wrote by Veena",
+        "C": "A letter was written by Veena",
+        "D": "Write a letter by Veena"
+      },
+      "vikalpa": {
+        "A": "A letter had been written by Veena",
+        "B": "A letter is wrote by Veena",
+        "C": "A letter was written by Veena",
+        "D": "Write a letter by Veena"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "We ......... be punctual.",
+      "prashna": "हमें समय का पाबंद ......... होना चाहिए।",
+      "options": {
+        "A": "ought",
+        "B": "might",
+        "C": "may",
+        "D": "must"
+      },
+      "vikalpa": {
+        "A": "ought",
+        "B": "might",
+        "C": "may",
+        "D": "must"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "A snake appeared on a trough of the ......... to sip water.",
+      "prashna": "पानी पीने के लिए ......... के नाद पर एक सांप दिखाई दिया।",
+      "options": {
+        "A": "teacher",
+        "B": "lawyer",
+        "C": "poet",
+        "D": "doctor"
+      },
+      "vikalpa": {
+        "A": "शिक्षक",
+        "B": "वकील",
+        "C": "कवि",
+        "D": "डॉक्टर"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "Autumn starts with the departure of ......... season.",
+      "prashna": "पतझड़ ......... मौसम की विदाई के साथ शुरू होता है।",
+      "options": {
+        "A": "spring",
+        "B": "winter",
+        "C": "rainy",
+        "D": "summer"
+      },
+      "vikalpa": {
+        "A": "वसंत",
+        "B": "सर्दियों",
+        "C": "बरसात",
+        "D": "गर्मियों"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter_name": "Going Places",
+      "question": "......... spent her childhood days with her grandmother.",
+      "prashna": "......... ने अपने बचपन के दिन अपनी दादी के साथ बिताए।",
+      "options": {
+        "A": "Indira Gandhi",
+        "B": "Mamta Kalia",
+        "C": "Kamala Das",
+        "D": "Mahadevi Verma"
+      },
+      "vikalpa": {
+        "A": "इंदिरा गांधी",
+        "B": "ममता कालिया",
+        "C": "कमला दास",
+        "D": "महादेवी वर्मा"
       }
     }
   ]

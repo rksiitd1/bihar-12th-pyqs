@@ -1,358 +1,749 @@
 {
+  "2014": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Enemy",
+      "question": "Name the authors of the following prose pieces:",
+      "prashna": "निम्नलिखित गद्य अंशों के लेखकों के नाम बताइए:",
+      "sub_questions": {
+        "a": "Indian Civilization and Culture",
+        "b": "Ideas That Have Helped Mankind",
+        "c": "The Artist"
+      },
+      "anuprashna": {
+        "a": "इंडियन सिविलाइजेशन एंड कल्चर",
+        "b": "आइडियाज दैट हैव हेल्प्ड मैनकाइंड",
+        "c": "द आर्टिस्ट"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Enemy",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम लिखें जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "If I should die; think only this of me; That there's some corner of a foreign field That is for ever England.",
+        "b": "He hath no desire, nor sense Nor halfe so short a way Then fears not mee..",
+        "c": "Where are the songs of spring? Ay, where are they? Think not of them, thou has thy music too-",
+        "d": "Macavity's a ginger cat! He's very tall and thin; You should know him if you saw him, for his eyes are sunken in.",
+        "e": "I swore to save fire From the sin of fort getfulness."
+      },
+      "anuprashna": {
+        "a": "If I should die; think only this of me; That there's some corner of a foreign field That is for ever England.",
+        "b": "He hath no desire, nor sense Nor halfe so short a way Then fears not mee..",
+        "c": "Where are the songs of spring? Ay, where are they? Think not of them, thou has thy music too-",
+        "d": "Macavity's a ginger cat! He's very tall and thin; You should know him if you saw him, for his eyes are sunken in.",
+        "e": "I swore to save fire From the sin of fort getfulness."
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "We .......................there a week ago. (Fill the blank with the most suitable option)",
+      "prashna": "हम एक हफ्ते पहले वहां .......................। (रिक्त स्थान को सबसे उपयुक्त विकल्प से भरें)",
+      "options": {
+        "A": "go",
+        "B": "had been gone",
+        "C": "went",
+        "D": "was going"
+      },
+      "vikalpa": {
+        "A": "go",
+        "B": "had been gone",
+        "C": "went",
+        "D": "was going"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_4",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Choose the correct sentence -",
+      "options": {
+        "A": "I have a homework to do.",
+        "B": "I have homework to do.",
+        "C": "I will have homework to do.",
+        "D": "I having homework to do."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_26",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Marsha is reading a novel (Choose the best Passive voice)",
+      "options": {
+        "A": "A novel was read by Marsha",
+        "B": "A novel had read by Marsha",
+        "C": "A novel is being read by Marsha",
+        "D": "A novel must read by Marsha."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "objective_36",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "The Waste Land has been composed by .................... (Choose the correct option)",
+      "options": {
+        "A": "T S Eliot",
+        "B": "W H Auden",
+        "C": "S T Coleridge",
+        "D": "John Donne"
+      },
+      "answer": "A"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "The teacher.........the lesson yesterday. (Choose the correct option)",
+      "prashna": "शिक्षक ने कल पाठ पढ़ाया। (सही विकल्प चुनें)",
+      "options": {
+        "A": "teaches",
+        "B": "taught",
+        "C": "will teach",
+        "D": "has taught"
+      },
+      "vikalpa": {
+        "A": "teaches",
+        "B": "taught",
+        "C": "will teach",
+        "D": "has taught"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "You……..get a new dress tomorrow. (Choose the correct option)",
+      "prashna": "तुम्हें कल एक नई ड्रेस मिल जाएगी। (सही विकल्प चुनें)",
+      "options": {
+        "A": "will",
+        "B": "do",
+        "C": "didn't",
+        "D": "hadn't"
+      },
+      "vikalpa": {
+        "A": "will",
+        "B": "do",
+        "C": "didn't",
+        "D": "hadn't"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "'Savitri' is written by (Choose the correct option)",
+      "prashna": "'सावित्री' किसके द्वारा लिखी गई है? (सही विकल्प चुनें)",
+      "options": {
+        "A": "Aurobindo Ghosh",
+        "B": "Sarojini Naidu",
+        "C": "R.N. Tagore",
+        "D": "Toru Dutt"
+      },
+      "vikalpa": {
+        "A": "अरबिंदो घोष",
+        "B": "सरोजिनी नायडू",
+        "C": "आर.एन. टैगोर",
+        "D": "तोरु दत्त"
+      }
+    }
+  ],
   "2021": [
     {
-      "id": "obj_5",
+      "id": "obj_2",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "Success depends ............... hard labour. (Choose the correct preposition)",
-      "prashna": "सफलता कठिन परिश्रम ............... निर्भर करती है। (सही प्रीपोज़िशन चुनें)",
+      "question": "She met her mother. She was glad. (Choose the correct combination)",
+      "prashna": "वह अपनी माँ से मिली। वह प्रसन्न थी। (सही संयोजन चुनें)",
       "options": {
-        "A": "by",
-        "B": "of",
-        "C": "in",
-        "D": "on"
+        "A": "She was glad to meet her mother",
+        "B": "She met her mother and was glad",
+        "C": "She was glad and met her mother",
+        "D": "She and her mother were glad"
       },
       "vikalpa": {
-        "A": "द्वारा",
-        "B": "का",
-        "C": "में",
-        "D": "पर"
+        "A": "वह अपनी माँ से मिलकर प्रसन्न थी",
+        "B": "वह अपनी माँ से मिली और प्रसन्न थी",
+        "C": "वह प्रसन्न थी और अपनी माँ से मिली",
+        "D": "वह और उसकी माँ प्रसन्न थे"
       }
     },
     {
-      "id": "obj_10",
+      "id": "obj_14",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "He told the boy not to sit there. (Choose the correct direct narration)",
-      "prashna": "उसने लड़के से वहाँ न बैठने को कहा। (सही प्रत्यक्ष कथन चुनें)",
+      "question": "Choose the odd one :",
+      "prashna": "विषम को चुनें :",
       "options": {
-        "A": "\"Doesn't sit there,\" he said to the boy",
-        "B": "\"Didn't sit there,\" he said to the boy",
-        "C": "\"Didn't sit here,\" he said to the boy",
-        "D": "\"Don't sit here,\" he said to the boy"
+        "A": "Fox",
+        "B": "Leopard",
+        "C": "Pigeon",
+        "D": "Lion"
       },
       "vikalpa": {
-        "A": "\"वहाँ मत बैठो,\" उसने लड़के से कहा",
-        "B": "\"वहाँ नहीं बैठा,\" उसने लड़के से कहा",
-        "C": "\"यहाँ नहीं बैठा,\" उसने लड़के से कहा",
-        "D": "\"यहाँ मत बैठो,\" उसने लड़के से कहा"
+        "A": "लोमड़ी",
+        "B": "तेंदुआ",
+        "C": "कबूतर",
+        "D": "शेर"
       }
     },
     {
-      "id": "obj_49",
+      "id": "obj_32",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "I would have bought a new car for her, but it ............... too expensive. (Choose the correct option)",
-      "prashna": "मैं उसके लिए एक नई कार खरीदता, लेकिन यह ............... बहुत महंगी थी। (सही विकल्प चुनें)",
+      "question": "When I finished my work, I asked ............... teacher to check it. (Choose the best option)",
+      "prashna": "जब मैंने अपना काम पूरा कर लिया, तो मैंने ............... शिक्षक से इसे जाँचने के लिए कहा। (सबसे अच्छा विकल्प चुनें)",
       "options": {
-        "A": "were",
-        "B": "are",
-        "C": "was",
-        "D": "can"
+        "A": "I",
+        "B": "her",
+        "C": "my",
+        "D": "their"
       },
       "vikalpa": {
-        "A": "थे",
-        "B": "हैं",
-        "C": "थी (was)",
-        "D": "सकता है"
+        "A": "मैं",
+        "B": "उसकी",
+        "C": "मेरे",
+        "D": "उनका"
       }
     },
     {
-      "id": "obj_57",
+      "id": "obj_33",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "Holi is ............... important festival. (Choose the correct article)",
-      "prashna": "होली ............... महत्वपूर्ण त्योहार है। (सही आर्टिकल चुनें)",
+      "question": "Those are probably the ............... furniture in the showroom. (Choose the correct option)",
+      "prashna": "वे शायद शोरूम में ............... फर्नीचर हैं। (सही विकल्प चुनें)",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
+        "A": "fancyest",
+        "B": "fanciest",
+        "C": "fancy",
+        "D": "most fancyest"
       },
       "vikalpa": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "कोई आर्टिकल नहीं"
+        "A": "fancyest",
+        "B": "सबसे आकर्षक (fanciest)",
+        "C": "आकर्षक",
+        "D": "most fancyest"
       }
     },
     {
-      "id": "obj_63",
+      "id": "obj_35",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "'And when I crumble, who will remember.' Who is 'I' in the line ?",
-      "prashna": "'एंड व्हेन आई क्रम्बल, हू विल रिमेम्बर।' पंक्ति में 'I' (मैं) कौन है?",
+      "question": "Catching the earlier train will give us the ............... to do some shopping. (Choose the correct option)",
+      "prashna": "जल्दी वाली ट्रेन पकड़ने से हमें कुछ खरीदारी करने का ............... मिलेगा। (सही विकल्प चुनें)",
       "options": {
-        "A": "Poet",
-        "B": "Lady",
-        "C": "Child",
-        "D": "Mother"
+        "A": "chance",
+        "B": "luck",
+        "C": "possibility",
+        "D": "occasion"
       },
       "vikalpa": {
-        "A": "कवि (Poet)",
-        "B": "महिला",
-        "C": "बच्चा",
-        "D": "माँ"
-      }
-    },
-    {
-      "id": "obj_74",
-      "type": "objective",
-      "chapter_name": "The Enemy",
-      "question": "'A Marriage Proposal' is a ...............",
-      "prashna": "'ए मैरिज प्रपोजल' एक ............... है।",
-      "options": {
-        "A": "tragedy",
-        "B": "satire",
-        "C": "tragi-comedy",
-        "D": "comedy"
-      },
-      "vikalpa": {
-        "A": "दुखांतिका",
-        "B": "व्यंग्य",
-        "C": "दुखांत-सुखांतिका",
-        "D": "प्रहसन/कॉमेडी (comedy)"
-      }
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_58",
-      "type": "objective",
-      "chapter_name": "The Enemy",
-      "question": "Choose the incorrect sentence :",
-      "prashna": "गलत वाक्य चुनें :",
-      "options": {
-        "A": "I don't care of this",
-        "B": "He got off the train",
-        "C": "The workers are on strike",
-        "D": "The tree was covered with flowers"
-      },
-      "vikalpa": {
-        "A": "I don't care of this",
-        "B": "He got off the train",
-        "C": "The workers are on strike",
-        "D": "The tree was covered with flowers"
-      }
-    },
-    {
-      "id": "obj_59",
-      "type": "objective",
-      "chapter_name": "The Enemy",
-      "question": "They ............ him chairman. (Choose the correct option)",
-      "prashna": "उन्होंने उसे अध्यक्ष ............। (सही विकल्प चुनें)",
-      "options": {
-        "A": "elect",
-        "B": "elected",
-        "C": "electing",
-        "D": "will elected"
-      },
-      "vikalpa": {
-        "A": "चुनते हैं",
-        "B": "चुना",
-        "C": "चुन रहे हैं",
-        "D": "चुना जाएगा"
-      }
-    }
-  ],
-  "2023": [
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter_name": "The Enemy",
-      "question": "We........almost ready. (Choose the correct option)",
-      "prashna": "हम........लगभग तैयार हैं। (सही विकल्प चुनें)",
-      "options": {
-        "A": "am",
-        "B": "is",
-        "C": "was",
-        "D": "are"
-      },
-      "vikalpa": {
-        "A": "am",
-        "B": "is",
-        "C": "was",
-        "D": "are"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter_name": "The Enemy",
-      "question": "What type of sentence is this? We'll really miss the bus!",
-      "prashna": "यह किस प्रकार का वाक्य है? हम वास्तव में बस मिस कर देंगे!",
-      "options": {
-        "A": "Declarative",
-        "B": "Interrogative",
-        "C": "Exclamatory",
-        "D": "Imperative"
-      },
-      "vikalpa": {
-        "A": "निश्चयात्मक (Declarative)",
-        "B": "प्रश्नवाचक (Interrogative)",
-        "C": "विस्मयादिबोधक (Exclamatory)",
-        "D": "आदेशात्मक (Imperative)"
+        "A": "मौका (chance)",
+        "B": "किस्मत",
+        "C": "संभावना",
+        "D": "अवसर"
       }
     },
     {
       "id": "obj_38",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "The thief had been hiding.........the table. (Choose the correct option)",
-      "prashna": "चोर मेज के ......... छिपा हुआ था। (सही विकल्प चुनें)",
+      "question": "Choose the correct sentence :",
+      "prashna": "सही वाक्य चुनें :",
       "options": {
-        "A": "below",
-        "B": "under",
-        "C": "down",
-        "D": "inside"
+        "A": "You can vote only when you are eighteen",
+        "B": "You vote simply when eighteen",
+        "C": "You can vote till you are eighteen",
+        "D": "You vote as you are eighteen"
       },
       "vikalpa": {
-        "A": "नीचे",
-        "B": "के नीचे (Under)",
-        "C": "नीचे",
-        "D": "अंदर"
+        "A": "आप तभी वोट दे सकते हैं जब आप अठारह वर्ष के हों",
+        "B": "आप अठारह होने पर सामान्य रूप से वोट देते हैं",
+        "C": "आप तब तक वोट दे सकते हैं जब तक आप अठारह के न हो जाएँ",
+        "D": "आप वोट देते हैं क्योंकि आप अठारह के हैं"
       }
     },
     {
-      "id": "obj_59",
+      "id": "obj_50",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "Choose the odd one out:",
-      "prashna": "विषम को चुनें:",
+      "question": "The aeroplane flies faster than birds. (Choose the correct negative sentence)",
+      "prashna": "हवाई जहाज पक्षियों से तेज उड़ता है। (सही नकारात्मक वाक्य चुनें)",
       "options": {
-        "A": "Pen",
-        "B": "Marker",
-        "C": "Paper",
-        "D": "Pencil"
+        "A": "The aeroplane does not fly faster than birds",
+        "B": "The aeroplane flies not faster than birds",
+        "C": "The aeroplane may not fly faster than birds",
+        "D": "The aeroplane cannot fly faster than birds"
       },
       "vikalpa": {
-        "A": "कलम",
-        "B": "मार्कर",
-        "C": "कागज (Paper)",
-        "D": "पेंसिल"
+        "A": "हवाई जहाज पक्षियों से तेज नहीं उड़ता है",
+        "B": "हवाई जहाज पक्षियों से तेज नहीं उड़ता (अशुद्ध)",
+        "C": "हवाई जहाज शायद पक्षियों से तेज न उड़े",
+        "D": "हवाई जहाज पक्षियों से तेज नहीं उड़ सकता"
       }
     },
     {
-      "id": "obj_74",
+      "id": "obj_70",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "Dr. Zakir Hussain was an eminent.......",
-      "prashna": "डॉ. जाकिर हुसैन एक प्रतिष्ठित ....... थे",
+      "question": "Nanukaka was coming to Delhi to ............... (Choose the correct option)",
+      "prashna": "नानूकाका दिल्ली ............... के लिए आ रहे थे। (सही विकल्प चुनें)",
       "options": {
-        "A": "politician",
-        "B": "philosopher",
-        "C": "educationist",
-        "D": "scientist"
+        "A": "see some people",
+        "B": "see some minister",
+        "C": "see his sister",
+        "D": "see some relatives"
       },
       "vikalpa": {
-        "A": "राजनीतिज्ञ",
-        "B": "दार्शनिक",
-        "C": "शिक्षाविद (educationist)",
-        "D": "वैज्ञानिक"
+        "A": "कुछ लोगों से मिलने",
+        "B": "किसी मंत्री से मिलने",
+        "C": "अपनी बहन से मिलने",
+        "D": "कुछ रिश्तेदारों से मिलने"
       }
     },
     {
-      "id": "obj_75",
-      "type": "objective",
+      "id": "short_1",
+      "type": "short_answer",
       "chapter_name": "The Enemy",
-      "question": "Naunkaka managed to travel in 2nd class on a ticket of",
-      "prashna": "नानूकाका ने किस टिकट पर द्वितीय श्रेणी में यात्रा करने का प्रबंधन किया?",
-      "options": {
-        "A": "1st class",
-        "B": "General class",
-        "C": "Sleeper class",
-        "D": "Third class"
+      "question": "Answer any five of the following in about 40-50 words each :",
+      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:",
+      "sub_questions": {
+        "a": "Was the Snake conscious of the poet's presence ?",
+        "b": "How are autumn and summer related to spring ?",
+        "c": "In what sense does the fire forget its dead ?",
+        "d": "How did Seibi's father react to the teacher's complaint ?",
+        "e": "How does Mahatma Gandhi want his countrymen to deal with modern civilization ?",
+        "f": "What is the reward of pregnancy for a young Sylheti woman ?",
+        "g": "What was the role of fire in our development ?",
+        "h": "When did the Great Vowel Shift take place ?",
+        "i": "What was the impact of the Norman Conquest on the vocabulary of English ?",
+        "j": "Write a note on English as a Global Language."
       },
-      "vikalpa": {
-        "A": "प्रथम श्रेणी",
-        "B": "सामान्य श्रेणी",
-        "C": "स्लीपर श्रेणी",
-        "D": "तृतीय श्रेणी (Third class)"
+      "anuprashna": {
+        "a": "क्या साँप कवि की उपस्थिति के प्रति सचेत था?",
+        "b": "शरद और ग्रीष्म वसंत से कैसे संबंधित हैं?",
+        "c": "किस अर्थ में अग्नि अपने मृतकों को भूल जाती है?",
+        "d": "शिक्षक की शिकायत पर सेइबी के पिता ने क्या प्रतिक्रिया दी?",
+        "e": "महात्मा गांधी अपने देशवासियों को आधुनिक सभ्यता से कैसे निपटने के लिए कहना चाहते हैं?",
+        "f": "एक युवा सिलहटी महिला के लिए गर्भावस्था का इनाम क्या है?",
+        "g": "हमारे विकास में अग्नि की क्या भूमिका थी?",
+        "h": "ग्रेट वोवेल शिफ्ट कब हुआ था?",
+        "i": "अंग्रेजी की शब्दावली पर नॉर्मन विजय का क्या प्रभाव पड़ा?",
+        "j": "वैश्विक भाषा के रूप में अंग्रेजी पर एक नोट लिखें।"
       }
     },
     {
-      "id": "obj_85",
-      "type": "objective",
-      "chapter_name": "The Enemy",
-      "question": "Benjy left the school at...............",
-      "prashna": "बेंजी ने ............... की उम्र में स्कूल छोड़ दिया।",
-      "options": {
-        "A": "twenty",
-        "B": "twelve",
-        "C": "fourteen",
-        "D": "sixteen"
-      },
-      "vikalpa": {
-        "A": "बीस",
-        "B": "बारह",
-        "C": "चौदह (fourteen)",
-        "D": "सोलह"
-      }
-    },
-    {
-      "id": "long_5",
+      "id": "long_1_2",
       "type": "long_answer",
       "chapter_name": "The Enemy",
-      "question": "Translate any five into English:\n(i) मैं बहुत मेहनत करता हूँ।\n(ii) अब तुम घर जा सकते हो।\n(iii) मेरे घर कब आओगी?\n(iv) शोर मचाना बंद करो।\n(v) श्याम बाजार गया है।\n(vi) वह क्या करना चाहता है?\n(vii) मुझे अपने बच्चों से बहुत प्यार है।\n(viii) रमेश को आम खाना बिल्कुल भी पसंद नहीं है।",
-      "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें:"
+      "question": "Write the summary of any one of the following prose-pieces : \ni) Bharat is My Home \nii) A Pinch of Snuff \niii) The Earth.",
+      "prashna": "निम्नलिखित गद्य-खंडों में से किसी एक का सारांश लिखें: \ni) भारत इज माय होम \nii) ए पिंच ऑफ स्नफ \niii) द अर्थ।"
     }
   ],
-  "2024": [
+  "2022": [
     {
-      "id": "obj_53",
+      "id": "obj_13",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "Choose the mis-spelt word :",
-      "prashna": "गलत वर्तनी वाला शब्द चुनें :",
+      "question": "Choose the correct sentence :",
+      "prashna": "सही वाक्य चुनें :",
       "options": {
-        "A": "Harmaeni",
-        "B": "Harmony",
-        "C": "Harmany",
-        "D": "Harmeny"
+        "A": "He is so tall as I",
+        "B": "He is as tall as I",
+        "C": "He is so tall as I am",
+        "D": "He is as tall as I are"
       },
       "vikalpa": {
-        "A": "Harmaeni",
-        "B": "Harmony (सही - एकता/सामंजस्य)",
-        "C": "Harmany",
-        "D": "Harmeny"
+        "A": "He is so tall as I",
+        "B": "He is as tall as I",
+        "C": "He is so tall as I am",
+        "D": "He is as tall as I are"
       }
     },
     {
-      "id": "obj_66",
+      "id": "obj_14",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "“I pledge my loyalty to my country, irrespective of religion or language ...” From whose piece is this quotation taken ?",
-      "prashna": "“मैं अपने देश के प्रति अपनी निष्ठा की प्रतिज्ञा करता हूँ, चाहे धर्म या भाषा कोई भी हो...” यह उद्धरण किसके लेख से लिया गया है?",
+      "question": "My fingers were injured and so my sister had to write the note ............ me. (Choose the correct preposition)",
+      "prashna": "मेरी उंगलियां घायल हो गईं थीं इसलिए मेरी बहन को ............ नोट लिखना पड़ा। (सही प्रीपोजिशन चुनें)",
       "options": {
-        "A": "Zakir Hussain",
-        "B": "Pearl S. Buck",
-        "C": "Mahatma Gandhi",
-        "D": "Anton P. Chekhov"
+        "A": "with",
+        "B": "to",
+        "C": "at",
+        "D": "for"
       },
       "vikalpa": {
-        "A": "ज़ाकिर हुसैन",
-        "B": "पर्ल एस. बक",
-        "C": "महात्मा गांधी",
-        "D": "एंटोन पी. चेखव"
+        "A": "with",
+        "B": "to",
+        "C": "at",
+        "D": "for"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "The judge declared the person guilty of all the charges. (Choose the correct antonym of the underlined word)",
+      "prashna": "न्यायाधीश ने व्यक्ति को सभी आरोपों का दोषी घोषित किया। (रेखांकित शब्द का सही विलोम चुनें)",
+      "options": {
+        "A": "easy",
+        "B": "innocent",
+        "C": "rival",
+        "D": "simple"
+      },
+      "vikalpa": {
+        "A": "आसान",
+        "B": "निर्दोष",
+        "C": "प्रतिद्वंद्वी",
+        "D": "सरल"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "............ beware of false friends. (Choose the correct option)",
+      "prashna": "............ झूठे दोस्तों से सावधान रहें। (सही विकल्प चुनें)",
+      "options": {
+        "A": "Again and again",
+        "B": "Above all",
+        "C": "All day long",
+        "D": "All over"
+      },
+      "vikalpa": {
+        "A": "बार-बार",
+        "B": "सबसे बढ़कर",
+        "C": "दिन भर",
+        "D": "चारों ओर"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Amar says that he ............ English lessons everyday. (Choose the correct tense form)",
+      "prashna": "अमर कहता है कि वह प्रतिदिन अंग्रेजी का पाठ ............ है। (सही काल रूप चुनें)",
+      "options": {
+        "A": "taking",
+        "B": "is taking",
+        "C": "takes",
+        "D": "has taken"
+      },
+      "vikalpa": {
+        "A": "taking",
+        "B": "is taking",
+        "C": "takes",
+        "D": "has taken"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "I say that I write a letter. (Choose the correct direct narration)",
+      "prashna": "मैं कहता हूँ कि मैं एक पत्र लिखता हूँ। (सही डायरेक्ट नरेशन चुनें)",
+      "options": {
+        "A": "I said, \"I write a letter.\"",
+        "B": "I say, \"I write a letter.\"",
+        "C": "I am saying, \"I write a letter.\"",
+        "D": "I was saying, \"I write a letter.\""
+      },
+      "vikalpa": {
+        "A": "I said, \"I write a letter.\"",
+        "B": "I say, \"I write a letter.\"",
+        "C": "I am saying, \"I write a letter.\"",
+        "D": "I was saying, \"I write a letter.\""
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "He went on ............ . (Choose the correct option)",
+      "prashna": "वह ............ रहा। (सही विकल्प चुनें)",
+      "options": {
+        "A": "talk",
+        "B": "to talk",
+        "C": "talking",
+        "D": "talked"
+      },
+      "vikalpa": {
+        "A": "talk",
+        "B": "to talk",
+        "C": "talking",
+        "D": "talked"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Martin Luther King was the youngest person to receive the ............ in 1964.",
+      "prashna": "मार्टिन लूथर किंग 1964 में ............ प्राप्त करने वाले सबसे कम उम्र के व्यक्ति थे।",
+      "options": {
+        "A": "Booker Prize",
+        "B": "Nobel Prize",
+        "C": "National Award for Innovation",
+        "D": "Ibrahim Prize for Achievement"
+      },
+      "vikalpa": {
+        "A": "बुकर पुरस्कार",
+        "B": "नोबेल पुरस्कार",
+        "C": "नवाचार के लिए राष्ट्रीय पुरस्कार",
+        "D": "उपलब्धि के लिए इब्राहिम पुरस्कार"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "The Great Vowel Shift brought about a series of changes in the ............ of the English long vowels.",
+      "prashna": "ग्रेट वॉवेल शिफ्ट ने अंग्रेजी के लंबे स्वरों के ............ में बदलाव की एक श्रृंखला लाई।",
+      "options": {
+        "A": "spelling",
+        "B": "pronunciation",
+        "C": "oral",
+        "D": "written"
+      },
+      "vikalpa": {
+        "A": "वर्तनी",
+        "B": "उच्चारण",
+        "C": "मौखिक",
+        "D": "लिखित"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": ".........you decided yet? (Choose the correct option)",
+      "prashna": ".........क्या आपने अभी तक फैसला किया है? (सही विकल्प चुनें)",
+      "options": {
+        "A": "Has",
+        "B": "Do",
+        "C": "Did",
+        "D": "Have"
+      },
+      "vikalpa": {
+        "A": "Has",
+        "B": "Do",
+        "C": "Did",
+        "D": "Have"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Choose the correctly spelt word",
+      "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+      "options": {
+        "A": "Bouquete",
+        "B": "Bouquet",
+        "C": "Beuquete",
+        "D": "Bouquette"
+      },
+      "vikalpa": {
+        "A": "Bouquete",
+        "B": "Bouquet",
+        "C": "Beuquete",
+        "D": "Bouquette"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "The train leaves..........3 p.m. (Choose the correct option)",
+      "prashna": "ट्रेन दोपहर 3 बजे.......... छूटती है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "over",
+        "B": "to",
+        "C": "at",
+        "D": "for"
+      },
+      "vikalpa": {
+        "A": "over",
+        "B": "to",
+        "C": "at",
+        "D": "for"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Choose the correct sentence",
+      "prashna": "सही वाक्य चुनें",
+      "options": {
+        "A": "What might have happened to the boy?",
+        "B": "What might has happened to the boy?",
+        "C": "What might has happening to the boy?",
+        "D": "What may has happened to the boy?"
+      },
+      "vikalpa": {
+        "A": "What might have happened to the boy?",
+        "B": "What might has happened to the boy?",
+        "C": "What might has happening to the boy?",
+        "D": "What may has happened to the boy?"
       }
     },
     {
       "id": "obj_67",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "Nanukaka went to visit the ........... Minister.",
-      "prashna": "नानूकाका ........... मंत्री से मिलने गए थे।",
+      "question": "Manohar Malgaonkar's story is full of wit and..........",
+      "prashna": "मनोहर मालगांवकर की कहानी बुद्धि और .......... से भरपूर है।",
       "options": {
-        "A": "Finance",
-        "B": "Welfare",
-        "C": "Railway",
-        "D": "Home"
+        "A": "Humour",
+        "B": "Tragedy",
+        "C": "Adventure",
+        "D": "Irony"
       },
       "vikalpa": {
-        "A": "वित्त",
-        "B": "कल्याण",
-        "C": "रेलवे",
-        "D": "गृह"
+        "A": "हास्य (Humour)",
+        "B": "त्रासदी",
+        "C": "साहस",
+        "D": "विडंबना"
+      }
+    },
+    {
+      "id": "exp_1",
+      "type": "explanation",
+      "chapter_name": "The Enemy",
+      "question": "Explain any one of the following:\n(a) The work on one's self is to follow the urge towards moral development as a free person and under self imposed discipline.\n(b) He inhaled some snuff before he spoke, and by that time he seemed to have forgotten what I had said.\n(c) You have been the veterans of creative suffering. Continue to work with the faith that unearned suffering is redemptive.\n(d) The type that appealed to Seibei was even and symmetrical.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\n(a) स्वयं पर कार्य करना एक स्वतंत्र व्यक्ति के रूप में और स्व-लगाए गए अनुशासन के तहत नैतिक विकास की ओर बढ़ने का अनुसरण करना है।\n(b) उन्होंने बोलने से पहले कुछ नसवार ली, और उस समय तक वे भूल गए थे कि मैंने क्या कहा था।\n(c) आप रचनात्मक पीड़ा के अनुभवी रहे हैं। इस विश्वास के साथ काम करना जारी रखें कि अकारण पीड़ा मुक्तिदायक होती है।\n(d) सेईबेई को जो प्रकार पसंद आया वह सम और सममित था।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "It was not a ........... act at all. (Choose the correct option)",
+      "prashna": "यह बिल्कुल भी ........... कार्य नहीं था। (सही विकल्प चुनें)",
+      "options": {
+        "A": "pardon",
+        "B": "pardoning",
+        "C": "pardoned",
+        "D": "pardonable"
+      },
+      "vikalpa": {
+        "A": "क्षमा",
+        "B": "क्षमा करना",
+        "C": "क्षमा किया हुआ",
+        "D": "क्षम्य"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "He blamed ........... for the ugly situation. (Choose the correct option)",
+      "prashna": "उसने खराब स्थिति के लिए ........... को दोषी ठहराया। (सही विकल्प चुनें)",
+      "options": {
+        "A": "himself",
+        "B": "yourself",
+        "C": "themselves",
+        "D": "itself"
+      },
+      "vikalpa": {
+        "A": "स्वयं को (himself)",
+        "B": "स्वयं को (yourself)",
+        "C": "स्वयं को (themselves)",
+        "D": "स्वयं को (itself)"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "He said that he ........... be there. (Choose the correct option)",
+      "prashna": "उसने कहा कि वह वहाँ ...........। (सही विकल्प चुनें)",
+      "options": {
+        "A": "would",
+        "B": "need",
+        "C": "can",
+        "D": "want"
+      },
+      "vikalpa": {
+        "A": "होगा/होता",
+        "B": "ज़रूरत",
+        "C": "सकना",
+        "D": "चाहना"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "This child is very ........... to me. (Choose the correct option)",
+      "prashna": "यह बच्चा मुझे बहुत ........... है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "deer",
+        "B": "dear",
+        "C": "dare",
+        "D": "dearer"
+      },
+      "vikalpa": {
+        "A": "हिरण",
+        "B": "प्रिय",
+        "C": "साहस",
+        "D": "अधिक प्रिय"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Bertrand Russell belonged to",
+      "prashna": "बर्ट्रेंड रसेल ........... से संबंधित थे",
+      "options": {
+        "A": "Ireland",
+        "B": "Iceland",
+        "C": "Britain",
+        "D": "Germany"
+      },
+      "vikalpa": {
+        "A": "आयरलैंड",
+        "B": "आइसलैंड",
+        "C": "ब्रिटेन",
+        "D": "जर्मनी"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "Macavity is said to be mysterious because",
+      "prashna": "मैकाविटी को रहस्यमय कहा जाता है क्योंकि",
+      "options": {
+        "A": "the Scotland Yard is baffled by him",
+        "B": "he has a hidden paw",
+        "C": "no one understands his ways",
+        "D": "he has hidden powers"
+      },
+      "vikalpa": {
+        "A": "स्कॉटलैंड यार्ड उससे चकित है",
+        "B": "उसका एक छिपा हुआ पंजा है (hidden paw)",
+        "C": "उसके तरीकों को कोई नहीं समझता",
+        "D": "उसके पास गुप्त शक्तियाँ हैं"
       }
     },
     {
@@ -389,23 +780,75 @@
   ],
   "2025": [
     {
-      "id": "obj_93",
+      "id": "obj_14",
       "type": "objective",
       "chapter_name": "The Enemy",
-      "question": "The food in Indian villages was served on ......... leaves.",
-      "prashna": "भारतीय गाँवों में भोजन ......... के पत्तों पर परोसा जाता था।",
+      "question": "Let us have ......... drink now.",
+      "prashna": "अब हमें एक पेय लेने दें।",
       "options": {
-        "A": "banana",
-        "B": "banyan",
-        "C": "papaya",
-        "D": "mango"
+        "A": "a",
+        "B": "the",
+        "C": "an",
+        "D": "any"
       },
       "vikalpa": {
-        "A": "केले",
-        "B": "बरगद",
-        "C": "पपीते",
-        "D": "आम"
+        "A": "a",
+        "B": "the",
+        "C": "an",
+        "D": "any"
       }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "The synonym of 'Justify' is",
+      "prashna": "'Justify' का पर्यायवाची शब्द है",
+      "options": {
+        "A": "Attack",
+        "B": "Explain",
+        "C": "React",
+        "D": "Erase"
+      },
+      "vikalpa": {
+        "A": "आक्रमण करना",
+        "B": "स्पष्ट करना",
+        "C": "प्रतिक्रिया देना",
+        "D": "मिटाना"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter_name": "The Enemy",
+      "question": "'A pulse in the eternal mind' is from",
+      "prashna": "'A pulse in the eternal mind' पंक्ति कहाँ से है?",
+      "options": {
+        "A": "Snake",
+        "B": "Song of Myself",
+        "C": "Ode to Autumn",
+        "D": "The Soldier"
+      },
+      "vikalpa": {
+        "A": "Snake",
+        "B": "Song of Myself",
+        "C": "Ode to Autumn",
+        "D": "The Soldier"
+      }
+    },
+    {
+      "id": "exp_1",
+      "type": "explanation",
+      "chapter_name": "The Enemy",
+      "question": "Explain any one of the following : a) I have a dream that my four children will one day live in a nation where they will not be judged by the colour of their skin but by the content of their character. b) Justice was tolerably fair. The ordinary rule was to avoid courts. c) You two'd better hurry up and get married — Have me in peace. d) I went to India to see and listen to two groups of people, the young intellectuals in the cities and the peasants in the villages.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें : क) मेरा एक सपना है कि मेरे चार बच्चे एक दिन ऐसे राष्ट्र में रहेंगे जहाँ उन्हें उनकी त्वचा के रंग से नहीं बल्कि उनके चरित्र की सामग्री से आंका जाएगा। ख) न्याय काफी हद तक निष्पक्ष था। सामान्य नियम अदालतों से बचने का था। ग) बेहतर होगा कि तुम दोनों जल्दी करो और शादी कर लो - मुझे शांति से रहने दो। घ) मैं दो समूहों के लोगों को देखने और सुनने के लिए भारत गया था, शहरों में युवा बुद्धिजीवी और गांवों में किसान।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "The Enemy",
+      "question": "Write the summary of any one of the following prose-pieces : i) The Artist ii) How Free is the Press iii) Indian Civilization and Culture.",
+      "prashna": "निम्नलिखित में से किसी एक गद्य-खंड का सारांश लिखें: i) The Artist ii) How Free is the Press iii) Indian Civilization and Culture."
     }
   ]
 }

@@ -1,16 +1,123 @@
 {
+  "2012": [
+    {
+      "id": "explanation_1",
+      "type": "explanation",
+      "chapter_name": "Lost Spring",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "For he seemed to me again like a king. Like a king in exile, uncrowned in the underworld, Now due to be crowned again.",
+        "b": "I who have lost My way and beg now at strangers doors to Receive love, at least in small change?",
+        "c": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast they music too.",
+        "d": "If I should die, think only this of me: That there's some corner of a foreign field that is for ever England.",
+        "e": "I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you."
+      },
+      "anuprashna": {
+        "a": "For he seemed to me again like a king. Like a king in exile, uncrowned in the underworld, Now due to be crowned again.",
+        "b": "I who have lost My way and beg now at strangers doors to Receive love, at least in small change?",
+        "c": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast they music too.",
+        "d": "If I should die, think only this of me: That there's some corner of a foreign field that is for ever England.",
+        "e": "I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you."
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "explanation_1",
+      "type": "explanation",
+      "chapter_name": "The Tiger King",
+      "question": "Explain any one of the following:",
+      "instructions": "Explain any one. (1×4=4)",
+      "sub_questions": {
+        "a": "“You’re an actor,” he sneered. “There’s absolutely no future for a boy like you.”",
+        "b": "“What? That means he will be here for weeks! Ministers don’t see people for weeks, months! Oh, my God!”",
+        "c": "“You’re a brave boy and get married…… Just do me a favour and leave me in peace.”"
+      }
+    },
+    {
+      "id": "explanation_2",
+      "type": "explanation",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Explain any one of the following:",
+      "instructions": "Explain any one. (1×4=4)",
+      "sub_questions": {
+        "a": "“When thou sigh’st, thou sigh’st not wind, but sigh’st my soul away.”",
+        "b": "“I celebrate myself, and sing myself, and what I assume you shall assume, for every atom belonging to me as good belongs to you.”",
+        "c": "“Macavity, Macavity, there’s no one like Macavity.”"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "exp_1_1",
+      "type": "explanation",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Explain any one of the following: The common people lived independently and followed their agricultural occupation.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: आम लोग स्वतंत्र रूप से रहते थे और अपने कृषि व्यवसाय का पालन करते थे।"
+    },
+    {
+      "id": "exp_1_2",
+      "type": "explanation",
+      "chapter_name": "Keeping Quiet",
+      "question": "Explain any one of the following: Even more important than the domestication of animals was the invention of agriculture.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: जानवरों के पालतू बनाने से भी अधिक महत्वपूर्ण कृषि का आविष्कार था।"
+    },
+    {
+      "id": "exp_1_3",
+      "type": "explanation",
+      "chapter_name": "Deep Water",
+      "question": "Explain any one of the following: Scibei is now engrossed in his pictures. He no longer feels any bitterness towards the teachers....",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: सीबेई अब अपने चित्रों में तल्लीन है। अब उसे शिक्षकों के प्रति कोई कड़वाहट महसूस नहीं होती..."
+    },
+    {
+      "id": "exp_1_4",
+      "type": "explanation",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Explain any one of the following: ...... he knew nothing about the stock-markets. But he knew everything about a hen.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: ...... वह शेयर बाजारों के बारे में कुछ नहीं जानता था। लेकिन वह एक मुर्गी के बारे में सब कुछ जानता था।"
+    },
+    {
+      "id": "exp_2_1",
+      "type": "explanation",
+      "chapter_name": "Deep Water",
+      "question": "Explain any one of the following: Macavity, Macavity, there's no one like Macavity For he's fiend in feline shape, a monster of depravity.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: मैकैविटी, मैकैविटी, मैकैविटी जैसा कोई नहीं है क्योंकि वह बिल्ली के आकार में एक दुष्ट है, नीचता का राक्षस है।"
+    },
+    {
+      "id": "exp_2_2",
+      "type": "explanation",
+      "chapter_name": "The Last Lesson",
+      "question": "Explain any one of the following: We saw embers losing their cruel redness\nTo the grey ash that swallows all, half-cooked limbs.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: हमने अंगारों को अपनी क्रूर लालिमा खोते हुए देखा\nउस राख की ओर जो सब कुछ निगल जाती है, आधे पके हुए अंग।"
+    },
+    {
+      "id": "exp_2_3",
+      "type": "explanation",
+      "chapter_name": "Deep Water",
+      "question": "Explain any one of the following: He lifted his head from his drinking, as cattle do,\nAnd looked at me vaguely, as drinking cattle do, …………. .",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: उसने पीते हुए अपना सिर उठाया, जैसे मवेशी करते हैं,\nऔर मुझे अस्पष्ट रूप से देखा, जैसे पानी पीते हुए मवेशी करते हैं, …………. ।"
+    },
+    {
+      "id": "exp_2_4",
+      "type": "explanation",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Explain any one of the following: I think she was the most beautiful lady\nThat ever was in the West country.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: मुझे लगता है कि वह सबसे खूबसूरत महिला थी\nजो कभी पश्चिमी देश में रही थी।"
+    }
+  ],
   "2021": [
     {
       "id": "exp_1_1",
       "type": "explanation",
-      "chapter_name": "Memories of Childhood",
+      "chapter_name": "Indigo",
       "question": "Explain any one of the following : \na) It is obvious that we know more than animals do, and it is common to consider this one of our advantages.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \na) यह स्पष्ट है कि हम जानवरों की तुलना में अधिक जानते हैं, और इसे हमारे लाभों में से एक मानना सामान्य है।"
     },
     {
       "id": "exp_1_2",
       "type": "explanation",
-      "chapter_name": "Keeping Quiet",
+      "chapter_name": "A Thing of Beauty",
       "question": "Explain any one of the following : \nb) I called the dhobi, and uncle gave him the coat and took him outside and had a talk with him.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nb) मैंने धोबी को बुलाया, और चाचा ने उसे कोट दिया और उसे बाहर ले गए और उससे बात की।"
     },
@@ -24,35 +131,35 @@
     {
       "id": "exp_1_4",
       "type": "explanation",
-      "chapter_name": "The Tiger King",
+      "chapter_name": "Lost Spring",
       "question": "Explain any one of the following : \nd) \"There's absolutely no future for a boy like you.\"",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nd) \"तुम्हारे जैसे लड़के के लिए बिल्कुल कोई भविष्य नहीं है।\""
     },
     {
       "id": "exp_2_1",
       "type": "explanation",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "Deep Water",
       "question": "Explain any one of the following : \na) And what I assume you shall assume,\nfor every atom belonging to me as good belongs to you.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \na) और जो मैं मानता हूँ वही तुम मानोगे,\nक्योंकि मेरा हर एक अणु उतना ही तुम्हारा भी है।"
     },
     {
       "id": "exp_2_2",
       "type": "explanation",
-      "chapter_name": "My Mother at Sixty-Six",
+      "chapter_name": "On the Face of It",
       "question": "Explain any one of the following : \nb) Cold, impossible, ahead\nLists the mountain's lovely head\nWhose white waterfall could bless\nTravellers in their last distress",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nb) ठंडा, असंभव, आगे\nपर्वत के सुंदर शिखर की सूची देता है\nजिसका सफेद झरना आशीर्वाद दे सकता है\nयात्रियों को उनके अंतिम संकट में"
     },
     {
       "id": "exp_2_3",
       "type": "explanation",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "A Roadside Stand",
       "question": "Explain any one of the following : \nc) If I should die, think only this of me ;\nThat there's some corner in a foreign field\nThat is forever England.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nc) यदि मेरी मृत्यु हो जाए, तो मेरे बारे में केवल यही सोचना;\nकि विदेशी क्षेत्र का कोई कोना है\nजो हमेशा के लिए इंग्लैंड है।"
     },
     {
       "id": "exp_2_4",
       "type": "explanation",
-      "chapter_name": "The Last Lesson",
+      "chapter_name": "My Mother at Sixty-Six",
       "question": "Explain any one of the following : \nd) There is a house now far away where once\nI received love.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nd) अब एक घर दूर है जहाँ कभी\nमुझे प्यार मिला था।"
     }
@@ -61,14 +168,14 @@
     {
       "id": "exp_1",
       "type": "explanation",
-      "chapter_name": "A Roadside Stand",
+      "chapter_name": "On the Face of It",
       "question": "Explain any one of the following :\na) When the van had gone they stood alone on the pavement, looking at the ground.\nb) Within the herd we are more friendly to each other than are many species of animals, ............ .\nc) \"Free at last ! Free at last ! Thank God Almighty, we are free at last !\"\nd) Mother was waiting on the doorstep, her face wreathed in smiles.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\nक) जब वैन चली गई तो वे अकेले फुटपाथ पर खड़े होकर जमीन की ओर देख रहे थे।\nख) झुंड के भीतर हम जानवरों की कई प्रजातियों की तुलना में एक-दूसरे के प्रति अधिक मित्रवत हैं, ............।\nग) \"आखिरकार आज़ाद! आखिरकार आज़ाद! सर्वशक्तिमान ईश्वर का धन्यवाद, हम आखिरकार आज़ाद हैं!\"\nघ) माँ दरवाजे पर खड़ी इंतज़ार कर रही थी, उनके चेहरे पर मुस्कान खिली हुई थी।"
     },
     {
       "id": "exp_2",
       "type": "explanation",
-      "chapter_name": "Indigo",
+      "chapter_name": "Aunt Jennifer's Tigers",
       "question": "Explain any one of the following :\na) ( I might mention Mungojerrie, I might mention Griddlebone )\nAre nothing more than agents for the cat who all the time\nJust controls their operations : the Napoleon of Crime !\nb) The nearest Tower of Silence was a thousand miles —\nThe fire-hymn said to me, \"You stand forgiven,\"\nc) There is a house now far away where once\nI received love.\nd) The red-breast whistles from a garden-croft,\nAnd gathering swallows twitter in the skies.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\nक) (मैं मुंगोजेरी का उल्लेख कर सकता हूँ, मैं ग्रिडलबोन का उल्लेख कर सकता हूँ)\nउस बिल्ली के लिए एजेंटों के अलावा और कुछ नहीं हैं जो हर समय\nबस उनके कार्यों को नियंत्रित करती है: अपराध का नेपोलियन!\nख) साइलेंस का निकटतम टावर एक हजार मील दूर था —\nअग्नि-भजन ने मुझसे कहा, \"तुम्हें क्षमा कर दिया गया है,\"\nग) अब दूर एक घर है जहाँ कभी\nमुझे प्यार मिला था।\nघ) एक बाग-खलिहान से लाल-छाती वाली चिड़िया सीटी बजाती है,\nऔर इकट्ठा होते अबाबील आकाश में चहचहाते हैं।"
     }
@@ -77,14 +184,14 @@
     {
       "id": "exp_1",
       "type": "explanation",
-      "chapter_name": "Journey to the End of the Earth",
+      "chapter_name": "The Enemy",
       "question": "Explain any one of the following:\n(a) The work on one's self is to follow the urge towards moral development as a free person and under self imposed discipline.\n(b) He inhaled some snuff before he spoke, and by that time he seemed to have forgotten what I had said.\n(c) You have been the veterans of creative suffering. Continue to work with the faith that unearned suffering is redemptive.\n(d) The type that appealed to Seibei was even and symmetrical.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\n(a) स्वयं पर कार्य करना एक स्वतंत्र व्यक्ति के रूप में और स्व-लगाए गए अनुशासन के तहत नैतिक विकास की ओर बढ़ने का अनुसरण करना है।\n(b) उन्होंने बोलने से पहले कुछ नसवार ली, और उस समय तक वे भूल गए थे कि मैंने क्या कहा था।\n(c) आप रचनात्मक पीड़ा के अनुभवी रहे हैं। इस विश्वास के साथ काम करना जारी रखें कि अकारण पीड़ा मुक्तिदायक होती है।\n(d) सेईबेई को जो प्रकार पसंद आया वह सम और सममित था।"
     },
     {
       "id": "exp_2",
       "type": "explanation",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "The Interview",
       "question": "Explain any one of the following:\n(a) And laughter, learnt of friends; and gentleness, In hearts at peace, under an English heaven.\n(b) The house withdrew into silence, snakes moved\nAmong books I was then too young\nTo read, and my blood turned cold like the moon.\n(c) I think she was the most beautiful lady\nThat ever was in the West Country.\n(d) Where are the songs of spring? Ay, where are they?\nThink not of them, thou hast thy music too.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें:\n(a) और दोस्तों से सीखी हुई हंसी; और सज्जनता, शांतिपूर्ण दिलों में, एक अंग्रेजी स्वर्ग के नीचे।\n(b) घर सन्नाटे में डूब गया, सांप रेंगने लगे\nकिताबों के बीच, तब मैं बहुत छोटा था\nपढ़ने के लिए, और मेरा खून चाँद की तरह ठंडा हो गया।\n(c) मुझे लगता है कि वह सबसे सुंदर महिला थी\nजो कभी पश्चिमी देश (वेस्ट कंट्री) में हुई।\n(d) बसंत के गीत कहाँ हैं? हाय, वे कहाँ हैं?\nउनके बारे में मत सोचो, तुम्हारा अपना संगीत भी है।"
     }
@@ -93,56 +200,56 @@
     {
       "id": "exp_1_1",
       "type": "explanation",
-      "chapter_name": "The Third Level",
+      "chapter_name": "The Last Lesson",
       "question": "Explain any one of the following : ‘A certain degree of physical harmony and comfort is necessary, but above a certain level it becomes a hindrance instead of help.’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'शारीरिक सामंजस्य और आराम का एक निश्चित स्तर आवश्यक है, लेकिन एक निश्चित स्तर से ऊपर यह मदद के बजाय बाधा बन जाता है।'"
     },
     {
       "id": "exp_1_2",
       "type": "explanation",
-      "chapter_name": "Memories of Childhood",
+      "chapter_name": "Aunt Jennifer's Tigers",
       "question": "Explain any one of the following : ‘Fancy a lad spending his time playing around like that with gourds ! ...’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'सोचिए एक लड़का अपना समय इस तरह लौकी के साथ खेलने में बिता रहा है ! ...'"
     },
     {
       "id": "exp_1_3",
       "type": "explanation",
-      "chapter_name": "A Roadside Stand",
+      "chapter_name": "Indigo",
       "question": "Explain any one of the following : ‘In non-technocratic societies, except for remarkable accidents, birth is always attended.’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'गैर-तकनीकी समाजों में, उल्लेखनीय दुर्घटनाओं को छोड़कर, जन्म हमेशा सहायकों की उपस्थिति में होता है।'"
     },
     {
       "id": "exp_1_4",
       "type": "explanation",
-      "chapter_name": "Deep Water",
+      "chapter_name": "Memories of Childhood",
       "question": "Explain any one of the following : ‘My life has been too crowded with travels and many people for me to put it all within the covers of one book, ...’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'मेरा जीवन यात्राओं और कई लोगों से इतना भरा हुआ रहा है कि मैं इसे एक पुस्तक के कवर के भीतर नहीं रख सकता, ...'"
     },
     {
       "id": "exp_2_1",
       "type": "explanation",
-      "chapter_name": "A Thing of Beauty",
+      "chapter_name": "Going Places",
       "question": "Explain any one of the following : ‘He hath no desire, nor sense,\nNor halfe so short a way ;\nThen feare not mee,’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'उसके पास न तो कोई इच्छा है, न ही समझ,\nन ही आधा छोटा रास्ता;\nफिर मुझसे मत डरो,'"
     },
     {
       "id": "exp_2_2",
       "type": "explanation",
-      "chapter_name": "Indigo",
+      "chapter_name": "The Interview",
       "question": "Explain any one of the following : ‘Cold, impossible, ahead\nLists the mountain’s lovely head,’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'ठंडा, असंभव, आगे\nपहाड़ के प्यारे सिर को सूचीबद्ध करता है,'"
     },
     {
       "id": "exp_2_3",
       "type": "explanation",
-      "chapter_name": "The Last Lesson",
+      "chapter_name": "The Interview",
       "question": "Explain any one of the following : ‘You may meet him in a by-street, you may see him in the square —\nBut when a crime’s discovered, then Macavity’s not there.’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'आप उससे किसी गली में मिल सकते हैं, आप उसे चौक में देख सकते हैं —\nलेकिन जब अपराध का पता चलता है, तो मैकाविटी वहाँ नहीं होता।'"
     },
     {
       "id": "exp_2_4",
       "type": "explanation",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "Poets and Pancakes",
       "question": "Explain any one of the following : ‘And yet those voices :\nIf you were not afraid, you would kill him !’",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'और फिर भी वे आवाजें:\nयदि तुम डरे नहीं होते, तो तुम उसे मार डालते !'"
     }
@@ -151,7 +258,7 @@
     {
       "id": "exp_1",
       "type": "explanation",
-      "chapter_name": "My Mother at Sixty-Six",
+      "chapter_name": "The Enemy",
       "question": "Explain any one of the following : a) I have a dream that my four children will one day live in a nation where they will not be judged by the colour of their skin but by the content of their character. b) Justice was tolerably fair. The ordinary rule was to avoid courts. c) You two'd better hurry up and get married — Have me in peace. d) I went to India to see and listen to two groups of people, the young intellectuals in the cities and the peasants in the villages.",
       "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें : क) मेरा एक सपना है कि मेरे चार बच्चे एक दिन ऐसे राष्ट्र में रहेंगे जहाँ उन्हें उनकी त्वचा के रंग से नहीं बल्कि उनके चरित्र की सामग्री से आंका जाएगा। ख) न्याय काफी हद तक निष्पक्ष था। सामान्य नियम अदालतों से बचने का था। ग) बेहतर होगा कि तुम दोनों जल्दी करो और शादी कर लो - मुझे शांति से रहने दो। घ) मैं दो समूहों के लोगों को देखने और सुनने के लिए भारत गया था, शहरों में युवा बुद्धिजीवी और गांवों में किसान।"
     },

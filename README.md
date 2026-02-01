@@ -115,8 +115,8 @@ Currently processed question papers by subject:
 
 | Subject | Available Years | Total Questions |
 |---------|----------------|-----------------|
-| **English** | 2021–2025 | 585 |
-| **Hindi** | 2009–2011, 2012–2025 (excluding 2012, 2017 previously, now included) | 920 |
+| **English** | 2009–2025 (all 17 years) | 894 |
+| **Hindi** | 2009–2025 (all 17 years) | 920 |
 
 > **Note:** Other subjects (Physics, Chemistry, Biology, Mathematics, Geography, History, etc.) have their own coverage. Check respective `{subject}_pro/` folders for year-wise data.
 

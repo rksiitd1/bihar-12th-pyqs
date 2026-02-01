@@ -1,11 +1,74 @@
 {
-  "2022": [
+  "2012": [
     {
       "id": "short_1",
       "type": "short_answer",
       "chapter_name": "Going Places",
-      "question": "Answer any five of the following in about 40-50 words each :\na) What is the belief prevailing in Sicily about a snake ?\nb) If at all he dies in the battle, how would the soldier like to be remembered ?\nc) What happens in autumn ?\nd) Why did the writer not mind her host eating in the opposite corner of the room ?\ne) Are there restrictions on Press in time of war ?\nf) What made Seibei's heart beat faster ?\ng) Write the names of dramatic elements.\nh) Name four countries where English is used as a second language.\ni) What was the impact of the Norman conquest on vocabulary of English ?\nj) What standardized English spelling and pronunciation ?",
-      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:\nक) सिसिली में सांप के बारे में क्या धारणा प्रचलित है?\nख) यदि वह युद्ध में मर जाता है, तो सैनिक किस प्रकार याद किया जाना चाहेगा?\nग) शरद ऋतु में क्या होता है?\nघ) लेखिका को अपने मेजबान के कमरे के विपरीत कोने में खाने पर आपत्ति क्यों नहीं हुई?\nङ) क्या युद्ध के समय प्रेस पर पाबंदियां होती हैं?\nच) सेबेई के दिल की धड़कन तेज क्यों हो गई?\nछ) नाटकीय तत्वों के नाम लिखिए।\nज) उन चार देशों के नाम बताइए जहाँ अंग्रेजी का प्रयोग दूसरी भाषा के रूप में किया जाता है।\nझ) अंग्रेजी की शब्दावली पर नॉर्मन विजय का क्या प्रभाव पड़ा?\nञ) अंग्रेजी की वर्तनी और उच्चारण को किसने मानकीकृत किया?"
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "a": "बाघ जंगली जानवर होता है।",
+        "b": "राम और रहीम एक-दूसरे की मदद कर रहे हैं।",
+        "c": "मेरा मित्र कल से बीमार है।",
+        "d": "इस कमरे से बाहर निकलो।",
+        "e": "तुम्हारा गाँव यहाँ से कितनी दूर है?"
+      },
+      "anuprashna": {
+        "a": "बाघ जंगली जानवर होता है।",
+        "b": "राम और रहीम एक-दूसरे की मदद कर रहे हैं।",
+        "c": "मेरा मित्र कल से बीमार है।",
+        "d": "इस कमरे से बाहर निकलो।",
+        "e": "तुम्हारा गाँव यहाँ से कितनी दूर है?"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Name the poets who wrote the following lines:",
+      "prashna": "उन कवियों के नाम बताइए जिन्होंने निम्नलिखित पंक्तियाँ लिखी हैं:",
+      "sub_questions": {
+        "a": "Where are the songs of spring? Aye, where are they? Think not of them, thou hast thy music too.",
+        "b": "O how feeble is man's power, That if good fortune fall. Cannot adde another houre, Nor a lost houre recall!",
+        "c": "I celebrate myself, and sing myself, And what I assume you shall assume. For every atom belonging to me as good belongs to you.",
+        "d": "Dead in hundreds at the back Follow wooden in our track, Arms raised stiffly to reprove In false attitudes of love.",
+        "e": "If I should die, think only this for me; That there's some corner of a foreign field That is for ever England."
+      },
+      "anuprashna": {
+        "a": "Where are the songs of spring? Aye, where are they? Think not of them, thou hast thy music too.",
+        "b": "O how feeble is man's power, That if good fortune fall. Cannot adde another houre, Nor a lost houre recall!",
+        "c": "I celebrate myself, and sing myself, And what I assume you shall assume. For every atom belonging to me as good belongs to you.",
+        "d": "Dead in hundreds at the back Follow wooden in our track, Arms raised stiffly to reprove In false attitudes of love.",
+        "e": "If I should die, think only this for me; That there's some corner of a foreign field That is for ever England."
+      }
+    },
+    {
+      "id": "short_7_1",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Name any five Indian English poets.",
+      "prashna": "किन्हीं पांच भारतीय अंग्रेजी कवियों के नाम बताइए।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter_name": "Going Places",
+      "question": "Name the authors of the following prose pieces:",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताएँ:",
+      "sub_questions": {
+        "a": "A Marriage Proposal",
+        "b": "A Pinch of Snuff",
+        "c": "How Free is the Press?"
+      },
+      "anuprashna": {
+        "a": "ए मैरिज प्रपोजल",
+        "b": "ए पिंच ऑफ स्नफ",
+        "c": "हाउ फ्री इज द प्रेस?"
+      }
     }
   ]
 }

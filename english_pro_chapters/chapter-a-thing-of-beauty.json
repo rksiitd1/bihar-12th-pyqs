@@ -1,377 +1,427 @@
 {
+  "2012": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Name the authors of the following prose pieces: (a) Ideas That Have Helped Mankind (b) Bharat is My Home (c) India Through a Traveller's Eyes.",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम बताइए: (क) आइडियाज दैट हैव हेल्प्ड मैनकाइंड (ख) भारत इज माई होम (ग) इंडिया थ्रू अ ट्रैवलर्स आईज़।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Write a short note on Global English.",
+      "prashna": "ग्लोबल इंग्लिश (वैश्विक अंग्रेजी) पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Choose the following word correctly spelt:",
+      "prashna": "निम्नलिखित में से सही वर्तनी वाला शब्द चुनें:",
+      "options": {
+        "A": "goverment",
+        "B": "government",
+        "C": "govarment",
+        "D": "govermant"
+      },
+      "vikalpa": {
+        "A": "goverment",
+        "B": "government",
+        "C": "govarment",
+        "D": "govermant"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_6",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Radha asked Ravi where his father was. (Choose the correct direct narration)",
+      "options": {
+        "A": "Radha said to Ravi, \"Where is your father.\"",
+        "B": "Radha said to Ravi, \"Where is your father?\"",
+        "C": "Radha said to Ravi, \"Where was his father?\"",
+        "D": "None of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_25",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Listen! Radha .................... the sitar. (Choose the best option)",
+      "options": {
+        "A": "will playing",
+        "B": "had played",
+        "C": "is playing",
+        "D": "are playing"
+      },
+      "answer": "C"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "We…………. that you would succeed. (Choose the correct option)",
+      "prashna": "हमें ...... थी कि तुम सफल होओगे। (सही विकल्प चुनें)",
+      "options": {
+        "A": "hoping",
+        "B": "hoped",
+        "C": "had hoped",
+        "D": "will hope"
+      },
+      "vikalpa": {
+        "A": "hoping",
+        "B": "hoped",
+        "C": "had hoped",
+        "D": "will hope"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Walter de la Mare makes us aware of the (Choose the correct option)",
+      "prashna": "वाल्टर डी ला मारे हमें किसके बारे में जागरूक करते हैं (सही विकल्प चुनें)",
+      "options": {
+        "A": "inhuman conditions of modern life",
+        "B": "poverty",
+        "C": "dreams",
+        "D": "London life"
+      },
+      "vikalpa": {
+        "A": "आधुनिक जीवन की अमानवीय स्थितियाँ",
+        "B": "गरीबी",
+        "C": "सपने",
+        "D": "लंदन का जीवन"
+      }
+    }
+  ],
   "2021": [
     {
-      "id": "obj_1",
+      "id": "obj_20",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "He introduced me ............... his relatives. (Choose the correct preposition)",
-      "prashna": "उसने मेरा परिचय ............... अपने रिश्तेदारों से कराया। (सही प्रीपोज़िशन चुनें)",
+      "question": "The flat caught fire. All the things were burnt. (Choose the correct combination)",
+      "prashna": "फ्लैट में आग लग गई। सारी चीजें जल गईं। (सही संयोजन चुनें)",
       "options": {
-        "A": "with",
-        "B": "on",
-        "C": "to",
-        "D": "by"
+        "A": "The flat caught fire and all the things was burnt",
+        "B": "The flat having caught fire, all the things were burnt",
+        "C": "All the things was burnt when the flat caught fire",
+        "D": "As all things burnt, the flat caught fire"
       },
       "vikalpa": {
-        "A": "साथ",
-        "B": "पर",
-        "C": "को/से",
-        "D": "द्वारा"
+        "A": "फ्लैट में आग लग गई और सब कुछ जल गया (गलत हेल्पिंग वर्ब)",
+        "B": "फ्लैट में आग लगने के कारण सारी चीजें जल गईं",
+        "C": "सब कुछ जल गया था जब फ्लैट में आग लगी",
+        "D": "जैसे ही सब कुछ जला, फ्लैट में आग लग गई"
       }
     },
     {
-      "id": "obj_22",
+      "id": "obj_64",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "We met a lot of people ............... our holidays. (Choose the correct preposition)",
-      "prashna": "हम अपनी छुट्टियों ............... बहुत से लोगों से मिले। (सही प्रीपोज़िशन चुनें)",
+      "question": "'In hearts at peace, under an English heaven' is from :",
+      "prashna": "'इन हार्ट्स एट पीस, अंडर एन इंग्लिश हेवन' कहाँ से लिया गया है?",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "during",
-        "D": "at"
+        "A": "Ode to Autumn",
+        "B": "Snake",
+        "C": "An Epitaph",
+        "D": "The Soldier"
       },
       "vikalpa": {
-        "A": "पर",
-        "B": "में",
-        "C": "के दौरान",
-        "D": "पर"
+        "A": "ओड टू ऑटम",
+        "B": "स्नेक",
+        "C": "एन एपिटाफ",
+        "D": "द सोल्जर"
       }
     },
     {
-      "id": "obj_70",
+      "id": "exp_1_2",
+      "type": "explanation",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Explain any one of the following : \nb) I called the dhobi, and uncle gave him the coat and took him outside and had a talk with him.",
+      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nb) मैंने धोबी को बुलाया, और चाचा ने उसे कोट दिया और उसे बाहर ले गए और उससे बात की।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_42",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Nanukaka was coming to Delhi to ............... (Choose the correct option)",
-      "prashna": "नानूकाका दिल्ली ............... के लिए आ रहे थे। (सही विकल्प चुनें)",
+      "question": "The bus came to an abrupt halt. (Choose the correct meaning of the underlined word)",
+      "prashna": "बस अचानक (abrupt) रुक गई। (रेखांकित शब्द का सही अर्थ चुनें)",
       "options": {
-        "A": "see some people",
-        "B": "see some minister",
-        "C": "see his sister",
-        "D": "see some relatives"
+        "A": "sudden",
+        "B": "slow",
+        "C": "friendly",
+        "D": "unhurried"
       },
       "vikalpa": {
-        "A": "कुछ लोगों से मिलने",
-        "B": "किसी मंत्री से मिलने",
-        "C": "अपनी बहन से मिलने",
-        "D": "कुछ रिश्तेदारों से मिलने"
+        "A": "अचानक",
+        "B": "धीरे",
+        "C": "दोस्ताना",
+        "D": "बिना जल्दबाजी के"
       }
     },
     {
       "id": "obj_72",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Who 'run scolding for their food :' in 'Now the Leaves are Falling Fast' ? (Choose the correct option)",
-      "prashna": "'नाउ द लीव्स आर फॉलिंग फास्ट' में कौन 'भोजन के लिए चिल्लाते हुए दौड़ते' हैं? (सही विकल्प चुनें)",
+      "question": "Bankim Chandra wrote Raj Mohan's Wife, the first Indian novel in English, in",
+      "prashna": "बंकिम चंद्र ने अंग्रेजी में पहला भारतीय उपन्यास 'राज मोहन की पत्नी' कब लिखा था?",
       "options": {
-        "A": "Trolls",
-        "B": "Lions",
-        "C": "Animals",
-        "D": "Birds"
+        "A": "1857",
+        "B": "1914",
+        "C": "1864",
+        "D": "1847"
       },
       "vikalpa": {
-        "A": "ट्रोल्स (Trolls)",
-        "B": "शेर",
-        "C": "जानवर",
-        "D": "पक्षी"
+        "A": "1857",
+        "B": "1914",
+        "C": "1864",
+        "D": "1847"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "............ women had given up going to international conferences.",
+      "prashna": "............ महिलाओं ने अंतरराष्ट्रीय सम्मेलनों में जाना छोड़ दिया था।",
+      "options": {
+        "A": "Sudanese",
+        "B": "Indian",
+        "C": "Australian",
+        "D": "Pakistani"
+      },
+      "vikalpa": {
+        "A": "सूडानी",
+        "B": "भारतीय",
+        "C": "ऑस्ट्रेलियाई",
+        "D": "पाकिस्तानी"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "\"To bend with apples the moss'd cottage-trees, ...\" is from",
+      "prashna": "\"सेब के साथ काई वाले झोपड़ी-पेड़ों को झुकाना, ...\" यह कहाँ से है?",
+      "options": {
+        "A": "Song of Myself",
+        "B": "Ode to Autumn",
+        "C": "Snake",
+        "D": "Fire Hymn"
+      },
+      "vikalpa": {
+        "A": "सॉन्ग ऑफ माईसेल्फ",
+        "B": "ओड टू ऑटम",
+        "C": "स्नेक",
+        "D": "फायर हिम्न"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "How many hens were at first kept by Benjy ?",
+      "prashna": "बेंजी ने शुरुआत में कितनी मुर्गियां रखी थीं?",
+      "options": {
+        "A": "about a dozen",
+        "B": "thirty six",
+        "C": "about two dozens",
+        "D": "fifty"
+      },
+      "vikalpa": {
+        "A": "लगभग एक दर्जन",
+        "B": "छत्तीस",
+        "C": "लगभग दो दर्जन",
+        "D": "पचास"
       }
     },
     {
       "id": "obj_91",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "'He lifted his head from his drinking' is from :",
-      "prashna": "'ही लिफ्टेड हिज हेड फ्रॉम हिज ड्रिंकिंग' कहाँ से है:",
+      "question": "Anton Chekov was a ............ by profession.",
+      "prashna": "एंटन चेखव पेशे से एक ............ थे।",
       "options": {
-        "A": "Snake",
-        "B": "Song of Myself",
-        "C": "Ode to Autumn",
-        "D": "An Epitaph"
+        "A": "teacher",
+        "B": "soldier",
+        "C": "manager",
+        "D": "doctor"
       },
       "vikalpa": {
-        "A": "स्नेक",
-        "B": "सॉन्ग ऑफ मायसेल्फ",
-        "C": "ओड टू ऑटम",
-        "D": "एन एपिटाफ"
+        "A": "शिक्षक",
+        "B": "सैनिक",
+        "C": "प्रबंधक",
+        "D": "डॉक्टर"
       }
     },
     {
-      "id": "long_1_3",
-      "type": "long_answer",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Write a note on Indian English. \nOR \nWhat are the difficulties faced by an Indian student in learning English ? \nOR \nBriefly discuss the difference between a short story and a novel.",
-      "prashna": "इंडियन इंग्लिश पर एक नोट लिखें। \nअथवा \nएक भारतीय छात्र को अंग्रेजी सीखने में किन कठिनाइयों का सामना करना पड़ता है? \nअथवा \nएक छोटी कहानी और एक उपन्यास के बीच के अंतर पर संक्षेप में चर्चा करें।"
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_19",
+      "id": "obj_96",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Give one word substitution for 'A man whose wife is dead'.",
-      "prashna": "'वह आदमी जिसकी पत्नी मर गई हो' के लिए एक शब्द प्रतिस्थापन दें।",
+      "question": "\"I swore to save fire From the sin of ............\"",
+      "prashna": "\"मैंने अग्नि को ............ के पाप से बचाने की शपथ ली।\"",
       "options": {
-        "A": "widow",
-        "B": "single",
-        "C": "widower",
-        "D": "separated"
+        "A": "sin",
+        "B": "hatred",
+        "C": "forgetfulness",
+        "D": "blessings"
       },
       "vikalpa": {
-        "A": "विधवा",
-        "B": "अकेला",
-        "C": "विधुर",
-        "D": "अलग"
-      }
-    },
-    {
-      "id": "obj_37",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "The book will be bought by Sita. (Choose the correct active voice)",
-      "prashna": "किताब सीता द्वारा खरीदी जाएगी। (सही एक्टिव वॉयस चुनें)",
-      "options": {
-        "A": "Sita will bought the book",
-        "B": "Sita will buy the book",
-        "C": "Sita had to buy the book",
-        "D": "Sita must have bought the book"
-      },
-      "vikalpa": {
-        "A": "Sita will bought the book",
-        "B": "Sita will buy the book",
-        "C": "Sita had to buy the book",
-        "D": "Sita must have bought the book"
-      }
-    },
-    {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "The policeman ran ............ the thief. (Choose the correct preposition)",
-      "prashna": "पुलिसकर्मी चोर के ............ दौड़ा। (सही प्रीपोजिशन चुनें)",
-      "options": {
-        "A": "on",
-        "B": "at",
-        "C": "by",
-        "D": "after"
-      },
-      "vikalpa": {
-        "A": "पर",
-        "B": "पर",
-        "C": "द्वारा",
-        "D": "पीछे"
-      }
-    },
-    {
-      "id": "obj_80",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "English is a",
-      "prashna": "अंग्रेजी एक ............ है",
-      "options": {
-        "A": "window to the world",
-        "B": "hindrance in progress",
-        "C": "blessing in disguise",
-        "D": "disgrace to the world"
-      },
-      "vikalpa": {
-        "A": "दुनिया के लिए खिड़की",
-        "B": "प्रगति में बाधा",
-        "C": "छुपा हुआ आशीर्वाद",
-        "D": "दुनिया के लिए अपमान"
-      }
-    },
-    {
-      "id": "obj_95",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "\"Or when the milk is missing, or another Peke's been stifled, ...\" is from",
-      "prashna": "\"या जब दूध गायब हो, या किसी अन्य पीके का दम घोंट दिया गया हो, ...\" यह कहाँ से है?",
-      "options": {
-        "A": "Macavity — The Mystery Cat",
-        "B": "Snake",
-        "C": "Fire Hymn",
-        "D": "The Soldier"
-      },
-      "vikalpa": {
-        "A": "मैकैविटी — द मिस्ट्री कैट",
-        "B": "स्नेक",
-        "C": "फायर हिम्न",
-        "D": "द सोल्जर"
-      }
-    },
-    {
-      "id": "obj_97",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "\"His brow is deeply lined with thoughts, ....\" Whose brow is the poet talking about ?",
-      "prashna": "\"उसका माथा विचारों से गहरा रेखांकित है, ....\" कवि किसके माथे की बात कर रहा है?",
-      "options": {
-        "A": "Macavity's",
-        "B": "Himself",
-        "C": "His neighbour's",
-        "D": "His father's"
-      },
-      "vikalpa": {
-        "A": "मैकैविटी का",
-        "B": "स्वयं का",
-        "C": "उसके पड़ोसी का",
-        "D": "उसके पिता का"
-      }
-    },
-    {
-      "id": "obj_99",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "English belongs to the ancient ............ family of languages.",
-      "prashna": "अंग्रेजी प्राचीन ............ भाषाओं के परिवार से संबंधित है।",
-      "options": {
-        "A": "American-Indian",
-        "B": "Indo-European",
-        "C": "Indian-Australian",
-        "D": "Indo-Pakistani"
-      },
-      "vikalpa": {
-        "A": "अमेरिकन-इंडियन",
-        "B": "इंडो-यूरोपियन",
-        "C": "इंडियन-ऑस्ट्रेलियाई",
-        "D": "इंडो-पाकिस्तानी"
+        "A": "पाप",
+        "B": "घृणा",
+        "C": "भूलने की क्रिया (forgetfulness)",
+        "D": "आशीर्वाद"
       }
     }
   ],
   "2023": [
     {
-      "id": "obj_16",
+      "id": "obj_14",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Do you........anything? (Choose the correct option)",
-      "prashna": "क्या आपको........कुछ चाहिए? (सही विकल्प चुनें)",
+      "question": "Meeta said, \"She will sing a song\". (Choose the correct indirect narration)",
+      "prashna": "मीता ने कहा, \"वह एक गाना गाएगी\"। (सही इनडायरेक्ट नरेशन चुनें)",
       "options": {
-        "A": "needed",
-        "B": "needing",
-        "C": "need",
-        "D": "will need"
+        "A": "Meeta says that she can sing a song",
+        "B": "Meeta said that she will be singing a song",
+        "C": "Meeta said that she would sing a song",
+        "D": "Meeta requested that she wanted to sing a song"
       },
       "vikalpa": {
-        "A": "needed",
-        "B": "needing",
-        "C": "need",
-        "D": "will need"
-      }
-    },
-    {
-      "id": "obj_26",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Your result is not............(Choose the correct option)",
-      "prashna": "आपका परिणाम ............ नहीं है (सही विकल्प चुनें)",
-      "options": {
-        "A": "up to the mark",
-        "B": "tooth and nail",
-        "C": "easy to crack",
-        "D": "up to date"
-      },
-      "vikalpa": {
-        "A": "उम्मीद के मुताबिक (up to the mark)",
-        "B": "जी-जान से (tooth and nail)",
-        "C": "आसान (easy to crack)",
-        "D": "अद्यतन (up to date)"
-      }
-    },
-    {
-      "id": "obj_27",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "..........Alps are the longest mountain range in Europe. (Choose the correct option)",
-      "prashna": "..........अल्प्स यूरोप की सबसे लंबी पर्वत श्रृंखला है। (सही विकल्प चुनें)",
-      "options": {
-        "A": "A",
-        "B": "An",
-        "C": "The",
-        "D": "No article"
-      },
-      "vikalpa": {
-        "A": "A",
-        "B": "An",
-        "C": "The",
-        "D": "No article"
-      }
-    },
-    {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Choose the correct synonym of 'Ancestors'",
-      "prashna": "'Ancestors' (पूर्वज) का सही पर्यायवाची चुनें",
-      "options": {
-        "A": "Extinct tribes",
-        "B": "Relatives",
-        "C": "Forefathers",
-        "D": "Old people"
-      },
-      "vikalpa": {
-        "A": "विलुप्त जनजातियाँ",
-        "B": "रिश्तेदार",
-        "C": "पूर्वज (Forefathers)",
-        "D": "बूढ़े लोग"
-      }
-    },
-    {
-      "id": "obj_45",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Turn the.............before starting the meeting. (Choose the correct option)",
-      "prashna": "मीटिंग शुरू करने से पहले ............. चालू/बंद करें। (सही विकल्प चुनें)",
-      "options": {
-        "A": "lights on",
-        "B": "lights up",
-        "C": "lights by",
-        "D": "lights off"
-      },
-      "vikalpa": {
-        "A": "लाइट चालू करें (lights on)",
-        "B": "lights up",
-        "C": "lights by",
-        "D": "लाइट बंद करें (lights off)"
-      }
-    }
-  ],
-  "2024": [
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "We met a lot of people ........... our holidays. (Choose the correct option)",
-      "prashna": "हम अपनी छुट्टियों ........... बहुत से लोगों से मिले। (सही विकल्प चुनें)",
-      "options": {
-        "A": "on",
-        "B": "at",
-        "C": "by",
-        "D": "during"
-      },
-      "vikalpa": {
-        "A": "पर",
-        "B": "पर/में",
-        "C": "द्वारा",
-        "D": "के दौरान"
+        "A": "Meeta says that she can sing a song",
+        "B": "Meeta said that she will be singing a song",
+        "C": "Meeta said that she would sing a song",
+        "D": "Meeta requested that she wanted to sing a song"
       }
     },
     {
       "id": "obj_38",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "They should not ........... upon the poor. (Choose the correct phrase)",
-      "prashna": "उन्हें गरीबों को ........... नहीं चाहिए। (सही वाक्यांश चुनें)",
+      "question": "The thief had been hiding.........the table. (Choose the correct option)",
+      "prashna": "चोर मेज के ......... छिपा हुआ था। (सही विकल्प चुनें)",
       "options": {
-        "A": "look up",
-        "B": "look down",
-        "C": "look after",
-        "D": "look on"
+        "A": "below",
+        "B": "under",
+        "C": "down",
+        "D": "inside"
       },
       "vikalpa": {
-        "A": "ऊपर देखना",
-        "B": "नीचा दिखाना/तिरस्कार करना",
-        "C": "देखभाल करना",
-        "D": "देखना"
+        "A": "नीचे",
+        "B": "के नीचे (Under)",
+        "C": "नीचे",
+        "D": "अंदर"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "\"There is a house now far away where once I received love\" is from",
+      "prashna": "\"अब एक घर बहुत दूर है जहां कभी मुझे प्यार मिला था\" पंक्तियाँ कहाँ से ली गई हैं?",
+      "options": {
+        "A": "Song of Myself",
+        "B": "Ode to Autumn",
+        "C": "My Grandmother's House",
+        "D": "Snake"
+      },
+      "vikalpa": {
+        "A": "सॉन्ग ऑफ माईसेल्फ",
+        "B": "ओड टू ऑटम",
+        "C": "माई ग्रैंडमदर्स हाउस",
+        "D": "स्नेक"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "The term 'concealed' in \"The Soldier\" stands for",
+      "prashna": "\"द सोल्जर\" में 'concealed' शब्द का अर्थ है",
+      "options": {
+        "A": "hidden",
+        "B": "disappeared",
+        "C": "absent",
+        "D": "my sterious"
+      },
+      "vikalpa": {
+        "A": "छिपा हुआ (hidden)",
+        "B": "गायब",
+        "C": "अनुपस्थित",
+        "D": "रहस्यमय"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Dr. Zakir Hussain was an eminent.......",
+      "prashna": "डॉ. जाकिर हुसैन एक प्रतिष्ठित ....... थे",
+      "options": {
+        "A": "politician",
+        "B": "philosopher",
+        "C": "educationist",
+        "D": "scientist"
+      },
+      "vikalpa": {
+        "A": "राजनीतिज्ञ",
+        "B": "दार्शनिक",
+        "C": "शिक्षाविद (educationist)",
+        "D": "वैज्ञानिक"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Which is the first Indian Novel in English?",
+      "prashna": "अंग्रेजी में पहला भारतीय उपन्यास कौन सा है?",
+      "options": {
+        "A": "Rajmohan's Wife",
+        "B": "Raja Harischandra",
+        "C": "Mahabharata",
+        "D": "The English Teacher"
+      },
+      "vikalpa": {
+        "A": "राजमोहन की पत्नी (Rajmohan's Wife)",
+        "B": "राजा हरिश्चंद्र",
+        "C": "महाभारत",
+        "D": "द इंग्लिश टीचर"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "His progress satisfied me. (Choose the correct passive voice)",
+      "prashna": "उसकी प्रगति ने मुझे संतुष्ट किया। (सही पैसिव वॉइस चुनें)",
+      "options": {
+        "A": "I was satisfying with his progress.",
+        "B": "I am satisfy with his progress.",
+        "C": "I was satisfied with his progress.",
+        "D": "I have to be satisfy with his progress."
+      },
+      "vikalpa": {
+        "A": "मैं उसकी प्रगति से संतुष्ट हो रहा था।",
+        "B": "मैं उसकी प्रगति से संतुष्ट हूँ।",
+        "C": "मैं उसकी प्रगति से संतुष्ट था।",
+        "D": "मुझे उसकी प्रगति से संतुष्ट होना है।"
       }
     },
     {
@@ -394,179 +444,272 @@
       }
     },
     {
-      "id": "obj_86",
+      "id": "obj_66",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "The Soldier is a / an",
-      "prashna": "द सोल्जर एक ........... है",
+      "question": "“I pledge my loyalty to my country, irrespective of religion or language ...” From whose piece is this quotation taken ?",
+      "prashna": "“मैं अपने देश के प्रति अपनी निष्ठा की प्रतिज्ञा करता हूँ, चाहे धर्म या भाषा कोई भी हो...” यह उद्धरण किसके लेख से लिया गया है?",
       "options": {
-        "A": "sonnet",
-        "B": "ballad",
-        "C": "epic",
-        "D": "lyric"
+        "A": "Zakir Hussain",
+        "B": "Pearl S. Buck",
+        "C": "Mahatma Gandhi",
+        "D": "Anton P. Chekhov"
       },
       "vikalpa": {
-        "A": "सॉनेट (14 पंक्तियों की कविता)",
-        "B": "गाथागीत",
-        "C": "महाकाव्य",
-        "D": "गीत काव्य"
+        "A": "ज़ाकिर हुसैन",
+        "B": "पर्ल एस. बक",
+        "C": "महात्मा गांधी",
+        "D": "एंटोन पी. चेखव"
       }
     },
     {
-      "id": "obj_93",
+      "id": "obj_67",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "The Anglo-Saxons invaded ........... in AD 449.",
-      "prashna": "एंग्लो-सैक्सन ने ईस्वी 449 में ........... पर आक्रमण किया था।",
+      "question": "Nanukaka went to visit the ........... Minister.",
+      "prashna": "नानूकाका ........... मंत्री से मिलने गए थे।",
       "options": {
-        "A": "Britain",
-        "B": "Thailand",
-        "C": "America",
-        "D": "Japan"
+        "A": "Finance",
+        "B": "Welfare",
+        "C": "Railway",
+        "D": "Home"
       },
       "vikalpa": {
-        "A": "ब्रिटेन",
-        "B": "थाईलैंड",
-        "C": "अमेरिका",
-        "D": "जापान"
-      }
-    },
-    {
-      "id": "exp_2_1",
-      "type": "explanation",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Explain any one of the following : ‘He hath no desire, nor sense,\nNor halfe so short a way ;\nThen feare not mee,’",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: 'उसके पास न तो कोई इच्छा है, न ही समझ,\nन ही आधा छोटा रास्ता;\nफिर मुझसे मत डरो,'"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Write the summary of any one of the following poems :\ni) Sweetest Love, I Do Not Goe\nii) The Soldier\niii) Now the Leaves are Falling Fast.",
-      "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखें:\ni) Sweetest Love, I Do Not Goe\nii) The Soldier\niii) Now the Leaves are Falling Fast."
-    },
-    {
-      "id": "long_1_3_1",
-      "type": "long_answer",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Write a note on the Indian English.",
-      "prashna": "भारतीय अंग्रेजी पर एक टिप्पणी लिखें।"
-    }
-  ],
-  "2025": [
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Have some more tea, ......... ?",
-      "prashna": "थोड़ी और चाय लीजिए, ......... ?",
-      "options": {
-        "A": "won't you",
-        "B": "must you",
-        "C": "can you",
-        "D": "should you"
-      },
-      "vikalpa": {
-        "A": "क्या आप नहीं लेंगे",
-        "B": "क्या आपको लेनी चाहिए",
-        "C": "क्या आप ले सकते हैं",
-        "D": "क्या आपको लेनी चाहिए"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "The synonym of 'Genuine' is",
-      "prashna": "'Genuine' का पर्यायवाची शब्द है",
-      "options": {
-        "A": "Pleasant",
-        "B": "Angry",
-        "C": "Graceful",
-        "D": "Real"
-      },
-      "vikalpa": {
-        "A": "Pleasant",
-        "B": "Angry",
-        "C": "Graceful",
-        "D": "Real"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter_name": "A Thing of Beauty",
-      "question": "Who became the President of India in 1967 ?",
-      "prashna": "1967 में भारत के राष्ट्रपति कौन बने?",
-      "options": {
-        "A": "Dr. S. Radhakrishnan",
-        "B": "Dr. Rajendra Prasad",
-        "C": "Dr. Zakir Hussain",
-        "D": "Dr. A.P.J. Abdul Kalam"
-      },
-      "vikalpa": {
-        "A": "डॉ. एस. राधाकृष्णन",
-        "B": "डॉ. राजेंद्र प्रसाद",
-        "C": "डॉ. जाकिर हुसैन",
-        "D": "डॉ. ए.पी.जे. अब्दुल कलाम"
+        "A": "वित्त",
+        "B": "कल्याण",
+        "C": "रेलवे",
+        "D": "गृह"
       }
     },
     {
       "id": "obj_81",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Gandhiji completely dominated Indian politics",
-      "prashna": "गांधीजी ने भारतीय राजनीति पर पूरी तरह से प्रभुत्व जमाया",
+      "question": "In ‘Fire-Hymn’, Daruwalla talks about a",
+      "prashna": "‘Fire-Hymn’ में दारूवाला ........... के बारे में बात करते हैं",
       "options": {
-        "A": "from 1915 till 1948",
-        "B": "from 1917 till 1947",
-        "C": "from 1920 till 1950",
-        "D": "from 1930 till 1952"
+        "A": "burning clothes",
+        "B": "burning house",
+        "C": "burning forest",
+        "D": "burning ghat"
       },
       "vikalpa": {
-        "A": "1915 से 1948 तक",
-        "B": "1917 से 1947 तक",
-        "C": "1920 से 1950 तक",
-        "D": "1930 से 1952 तक"
+        "A": "जलते कपड़े",
+        "B": "जलते घर",
+        "C": "जलते जंगल",
+        "D": "श्मशान घाट (burning ghat)"
       }
     },
     {
-      "id": "obj_89",
+      "id": "obj_84",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Macavity is called",
-      "prashna": "मैकाविटी को कहा जाता है",
+      "question": "‘He drank enough, And lifted his head, dreamily, as one who has drunken’ — is from",
+      "prashna": "‘उसने पर्याप्त पिया, और अपना सिर उठाया, सपने की तरह, जैसे कोई पिया हुआ हो’ — कहाँ से है?",
       "options": {
-        "A": "The Hidden Paw",
-        "B": "The Naughty Paw",
-        "C": "The Mysterious Paw",
-        "D": "The Exposed Paw"
+        "A": "Snake",
+        "B": "My Grandmother’s House",
+        "C": "The Soldier",
+        "D": "An Epitaph"
       },
       "vikalpa": {
-        "A": "The Hidden Paw",
-        "B": "The Naughty Paw",
-        "C": "The Mysterious Paw",
-        "D": "The Exposed Paw"
+        "A": "Snake",
+        "B": "My Grandmother’s House",
+        "C": "The Soldier",
+        "D": "An Epitaph"
       }
     },
     {
       "id": "obj_90",
       "type": "objective",
       "chapter_name": "A Thing of Beauty",
-      "question": "Tower of Silence is related to",
-      "prashna": "टावर ऑफ साइलेंस (मौन की मीनार) किससे संबंधित है?",
+      "question": "........... was twelve years old and still at primary school.",
+      "prashna": "........... बारह साल का था और अभी भी प्राथमिक विद्यालय में था।",
       "options": {
-        "A": "Parsis",
-        "B": "Sikhs",
-        "C": "Hindus",
-        "D": "Christians"
+        "A": "Seibei",
+        "B": "Seibei’s friend",
+        "C": "Seibei’s sister",
+        "D": "Seibei’s cousin"
       },
       "vikalpa": {
-        "A": "पारसी",
-        "B": "सिख",
-        "C": "हिंदू",
-        "D": "ईसाई"
+        "A": "सेबेई (Seibei)",
+        "B": "सेबेई का दोस्त",
+        "C": "सेबेई की बहन",
+        "D": "सेबेई का चचेरा भाई"
       }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "My friend and I ......... our homework everyday.",
+      "prashna": "मेरा दोस्त और मैं हर दिन अपना होमवर्क करते हैं।",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "have",
+        "D": "has done"
+      },
+      "vikalpa": {
+        "A": "do",
+        "B": "does",
+        "C": "have",
+        "D": "has done"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "You take it very easy, ......... ?",
+      "prashna": "आप इसे बहुत हल्के में लेते हैं, है न?",
+      "options": {
+        "A": "didn't you",
+        "B": "mustn't you",
+        "C": "won't you",
+        "D": "don't you"
+      },
+      "vikalpa": {
+        "A": "didn't you",
+        "B": "mustn't you",
+        "C": "won't you",
+        "D": "don't you"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "He is the ......... of the two brothers.",
+      "prashna": "वह दोनों भाइयों में से ......... है।",
+      "options": {
+        "A": "younger",
+        "B": "more young",
+        "C": "young",
+        "D": "youngest"
+      },
+      "vikalpa": {
+        "A": "छोटा",
+        "B": "अधिक जवान",
+        "C": "जवान",
+        "D": "सबसे छोटा"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "London is the ......... city in England.",
+      "prashna": "लंदन इंग्लैंड का ......... शहर है।",
+      "options": {
+        "A": "larger",
+        "B": "largest",
+        "C": "more large",
+        "D": "large"
+      },
+      "vikalpa": {
+        "A": "बड़ा (तुलनात्मक)",
+        "B": "सबसे बड़ा",
+        "C": "अधिक बड़ा",
+        "D": "बड़ा"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Who was born in the U.S.A. but eventually settled in England ?",
+      "prashna": "किसका जन्म अमेरिका में हुआ था लेकिन अंततः वे इंग्लैंड में बस गए?",
+      "options": {
+        "A": "T. S. Eliot",
+        "B": "John Donne",
+        "C": "Walt Whitman",
+        "D": "John Keats"
+      },
+      "vikalpa": {
+        "A": "टी. एस. एलियट",
+        "B": "जॉन डन",
+        "C": "वॉल्ट व्हिटमैन",
+        "D": "जॉन कीट्स"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "The English language is much younger than",
+      "prashna": "अंग्रेजी भाषा ......... से काफी छोटी (नवीन) है",
+      "options": {
+        "A": "Latin",
+        "B": "Persian",
+        "C": "Greek",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "लैटिन",
+        "B": "फारसी",
+        "C": "ग्रीक",
+        "D": "ये सभी"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter_name": "A Thing of Beauty",
+      "question": "......... is the chief source of revenue of a newspaper.",
+      "prashna": "......... समाचार पत्र के राजस्व का मुख्य स्रोत है।",
+      "options": {
+        "A": "Companies",
+        "B": "Donation",
+        "C": "Advertisement",
+        "D": "Government"
+      },
+      "vikalpa": {
+        "A": "कंपनियां",
+        "B": "दान",
+        "C": "विज्ञापन",
+        "D": "सरकार"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Answer any five of the following in about 40-50 words each :",
+      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें :",
+      "sub_questions": {
+        "a": "What, according to Gandhiji, is the 'sheet anchor of our hope' ?",
+        "b": "What is the business of education ?",
+        "c": "What are the 'trials and tribulations' that Martin Luther King Jr. talks about ?",
+        "d": "What do free people take for granted ?",
+        "e": "Who are the 'whispering neighbours' ?",
+        "f": "What does the speaker, in 'Song of Myself', observe in summer ?",
+        "g": "How did the snake drink water ?",
+        "h": "In what sense does the fire forget its dead ?",
+        "i": "Write a note on the development of Indian poetry in English.",
+        "j": "Who were known as the University Wits ?"
+      },
+      "anuprashna": {
+        "a": "गांधीजी के अनुसार, 'हमारी आशा का मुख्य आधार' क्या है?",
+        "b": "शिक्षा का कार्य क्या है?",
+        "c": "मार्टिन लूथर किंग जूनियर किन 'कठिनाइयों और क्लेशों' की बात करते हैं?",
+        "d": "स्वतंत्र लोग किस चीज़ को हल्के में लेते हैं?",
+        "e": "'कानाफूसी करने वाले पड़ोसी' कौन हैं?",
+        "f": "'सॉन्ग ऑफ माईसेल्फ' में वक्ता गर्मियों में क्या देखता है?",
+        "g": "सांप ने पानी कैसे पिया?",
+        "h": "किस अर्थ में अग्नि अपने मृतकों को भूल जाती है?",
+        "i": "अंग्रेजी में भारतीय कविता के विकास पर एक टिप्पणी लिखें।",
+        "j": "यूनिवर्सिटी विट्स के रूप में किन्हें जाना जाता था?"
+      }
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Write the summary of any one of the following poems : i) My Grandmother's House ii) Ode to Autumn iii) Snake.",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: i) My Grandmother's House ii) Ode to Autumn iii) Snake."
     }
   ]
 }

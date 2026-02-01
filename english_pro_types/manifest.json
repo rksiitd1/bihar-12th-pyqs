@@ -1,50 +1,56 @@
 [
   {
-    "type": "objective",
-    "file": "type-objective.json",
-    "total_items": 500,
-    "years": 5
-  },
-  {
-    "type": "essay",
-    "file": "type-essay.json",
-    "total_items": 5,
-    "years": 5
-  },
-  {
-    "type": "explanation",
-    "file": "type-explanation.json",
-    "total_items": 22,
-    "years": 5
-  },
-  {
-    "type": "letter_application",
-    "file": "type-letter_application.json",
-    "total_items": 10,
-    "years": 5
-  },
-  {
     "type": "short_answer",
     "file": "type-short_answer.json",
-    "total_items": 5,
-    "years": 5
-  },
-  {
-    "type": "long_answer",
-    "file": "type-long_answer.json",
-    "total_items": 34,
-    "years": 5
-  },
-  {
-    "type": "passage_comprehension",
-    "file": "type-passage_comprehension.json",
-    "total_items": 4,
-    "years": 4
+    "total_items": 66,
+    "years": 17
   },
   {
     "type": "precis",
     "file": "type-precis.json",
-    "total_items": 5,
-    "years": 5
+    "total_items": 15,
+    "years": 15
+  },
+  {
+    "type": "passage_comprehension",
+    "file": "type-passage_comprehension.json",
+    "total_items": 14,
+    "years": 14
+  },
+  {
+    "type": "essay",
+    "file": "type-essay.json",
+    "total_items": 17,
+    "years": 17
+  },
+  {
+    "type": "long_answer",
+    "file": "type-long_answer.json",
+    "total_items": 94,
+    "years": 17
+  },
+  {
+    "type": "explanation",
+    "file": "type-explanation.json",
+    "total_items": 33,
+    "years": 8
+  },
+  {
+    "type": "objective",
+    "file": "type-objective.json",
+    "total_items": 636,
+    "years": 8
+  },
+  {
+    "type": "unknown",
+    "file": "type-unknown.json",
+    "total_items": 7,
+    "years": 1
+  },
+  {
+    "type": "letter_application",
+    "file": "type-letter_application.json",
+    "total_items": 12,
+    "years": 6
   }
 ]

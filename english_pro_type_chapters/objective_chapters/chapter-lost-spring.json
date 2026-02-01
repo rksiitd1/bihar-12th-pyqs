@@ -1,448 +1,536 @@
 {
-  "2021": [
+  "2019": [
     {
-      "id": "obj_8",
+      "id": "objective_1",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "We ............... keep our country free from racial prejudices. (Choose the best auxiliary verb)",
-      "prashna": "हमें अपने देश को नस्लीय पूर्वाग्रहों से मुक्त ............... रखना चाहिए। (सबसे उपयुक्त सहायक क्रिया चुनें)",
+      "question": "Have you seen ........... Taj Mahal (Choose the best option of article)",
       "options": {
-        "A": "have",
-        "B": "could",
-        "C": "are",
-        "D": "should"
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "None of these"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "objective_29",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "The man was .................... by a dog. (Choose the meaningful expression)",
+      "options": {
+        "A": "bitten",
+        "B": "bit",
+        "C": "had bit",
+        "D": "had bitten"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_38",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "English used since AD 1500 is called .................... (Choose the best option)",
+      "options": {
+        "A": "Old English",
+        "B": "Modern English",
+        "C": "Middle English",
+        "D": "None of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_42",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "New varieties of English that have emerged in different parts of the world is called .................... (Choose the suitable option)",
+      "options": {
+        "A": "Second language",
+        "B": "New English",
+        "C": "American English",
+        "D": "None of these"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "objective_50",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "Walter de la Mare makes us aware of the .................... (Choose the suitable option)",
+      "options": {
+        "A": "inhuman conditions of modern life",
+        "B": "poverty",
+        "C": "dreams",
+        "D": "London life"
+      },
+      "answer": "A"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "He said to me, \"will you post this letter for me?\" (Choose the correct indirect narration)",
+      "prashna": "उसने मुझसे कहा, \"क्या तुम मेरे लिए यह पत्र पोस्ट करोगे?\" (सही इनडायरेक्ट नरेशन चुनें)",
+      "options": {
+        "A": "He asked me if I would post that letter for him",
+        "B": "He asked me if I would post this letter to him",
+        "C": "He asked me if I will post that letter to him",
+        "D": "He said to me if I would post that letter to him"
       },
       "vikalpa": {
-        "A": "है/पास",
-        "B": "सकते थे",
-        "C": "हैं",
-        "D": "चाहिए"
+        "A": "He asked me if I would post that letter for him",
+        "B": "He asked me if I would post this letter to him",
+        "C": "He asked me if I will post that letter to him",
+        "D": "He said to me if I would post that letter to him"
       }
     },
     {
       "id": "obj_23",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "Choose the correctly spelt word :",
-      "prashna": "सही वर्तनी वाले शब्द को चुनें :",
+      "question": "………..he drive to work? (Choose the best option)",
+      "prashna": "क्या वह गाड़ी चलाकर काम पर जाता है? (सबसे अच्छा विकल्प चुनें)",
       "options": {
-        "A": "Acquatance",
-        "B": "Acquaintance",
-        "C": "Acqueintence",
-        "D": "Acquantance"
+        "A": "Has",
+        "B": "Don't",
+        "C": "Do",
+        "D": "Does"
       },
       "vikalpa": {
-        "A": "Acquatance",
-        "B": "Acquaintance (परिचित)",
-        "C": "Acqueintence",
-        "D": "Acquantance"
+        "A": "Has",
+        "B": "Don't",
+        "C": "Do",
+        "D": "Does"
       }
     },
     {
-      "id": "obj_38",
+      "id": "obj_37",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "Choose the correct sentence :",
-      "prashna": "सही वाक्य चुनें :",
+      "question": "John Donne is a…………..poet. (Choose the correct option)",
+      "prashna": "जॉन डोने एक ………….. कवि हैं। (सही विकल्प चुनें)",
       "options": {
-        "A": "You can vote only when you are eighteen",
-        "B": "You vote simply when eighteen",
-        "C": "You can vote till you are eighteen",
-        "D": "You vote as you are eighteen"
+        "A": "nature",
+        "B": "metaphysical",
+        "C": "cavalier",
+        "D": "romantic"
       },
       "vikalpa": {
-        "A": "आप तभी वोट दे सकते हैं जब आप अठारह वर्ष के हों",
-        "B": "आप अठारह होने पर सामान्य रूप से वोट देते हैं",
-        "C": "आप तब तक वोट दे सकते हैं जब तक आप अठारह के न हो जाएँ",
-        "D": "आप वोट देते हैं क्योंकि आप अठारह के हैं"
+        "A": "प्रकृति",
+        "B": "मेटाफिजिकल",
+        "C": "कैवेलियर",
+        "D": "रोमांटिक"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "\"And as we walk, we make the pledge that we shall (Choose the correct option)",
+      "prashna": "\"And as we walk, we make the pledge that we shall (सही विकल्प चुनें)",
+      "options": {
+        "A": "always be satisfied",
+        "B": "always fight",
+        "C": "always hate people.",
+        "D": "always march ahead"
+      },
+      "vikalpa": {
+        "A": "always be satisfied",
+        "B": "always fight",
+        "C": "always hate people.",
+        "D": "always march ahead"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "They made her ............... a new contract. (Choose the correct option)",
+      "prashna": "उन्होंने उससे नए अनुबंध पर ............... करवाया। (सही विकल्प चुनें)",
+      "options": {
+        "A": "sign",
+        "B": "to sign",
+        "C": "signing",
+        "D": "signed"
+      },
+      "vikalpa": {
+        "A": "हस्ताक्षर",
+        "B": "हस्ताक्षर करना",
+        "C": "हस्ताक्षर कर रहे",
+        "D": "हस्ताक्षर किए"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "............... he went for a walk. (Choose the correct phrase)",
+      "prashna": "............... वह टहलने गया। (सही वाक्यांश चुनें)",
+      "options": {
+        "A": "Along with",
+        "B": "All in all",
+        "C": "As usual",
+        "D": "After all"
+      },
+      "vikalpa": {
+        "A": "के साथ",
+        "B": "कुल मिलाकर",
+        "C": "हमेशा की तरह (As usual)",
+        "D": "आखिरकार"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "She has learned her lessons. (Choose the correct passive voice)",
+      "prashna": "उसने अपने पाठ याद कर लिए हैं। (सही पैसिव वॉयस चुनें)",
+      "options": {
+        "A": "Her lessons has learned by her",
+        "B": "Her lessons has been learned by her",
+        "C": "Her lessons learnt by her",
+        "D": "Her lessons have been learned by her"
+      },
+      "vikalpa": {
+        "A": "उसके पाठ उसके द्वारा याद किए गए हैं (गलत हेल्पिंग वर्ब)",
+        "B": "उसके पाठ उसके द्वारा याद किए गए हैं (सिंगुलर हेल्पिंग वर्ब)",
+        "C": "उसके पाठ उसके द्वारा याद किए गए (अपूर्ण)",
+        "D": "उसके पाठ उसके द्वारा याद किए गए हैं"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "Wole Soyinka is a ............... poet.",
+      "prashna": "वोले सोयिंका एक ............... कवि हैं।",
+      "options": {
+        "A": "Nigerian",
+        "B": "American",
+        "C": "Indian",
+        "D": "British"
+      },
+      "vikalpa": {
+        "A": "नाइजीरियाई",
+        "B": "अमेरिकी",
+        "C": "भारतीय",
+        "D": "ब्रिटिश"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "I went out to ............ my friend. (Choose the correct phrase)",
+      "prashna": "मैं अपने मित्र को ............ बाहर गया था। (सही वाक्यांश चुनें)",
+      "options": {
+        "A": "see off",
+        "B": "set forth",
+        "C": "set aside",
+        "D": "see about"
+      },
+      "vikalpa": {
+        "A": "see off",
+        "B": "set forth",
+        "C": "set aside",
+        "D": "see about"
       }
     },
     {
       "id": "obj_41",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "Rules ............... be observed at all costs. (Choose the correct auxiliary verb)",
-      "prashna": "नियमों का हर कीमत पर पालन ............... किया जाना चाहिए। (सही सहायक क्रिया चुनें)",
+      "question": "Would you mind ............ the door? (Choose the correct tense form)",
+      "prashna": "क्या आप दरवाजा ............ करेंगे? (सही काल रूप चुनें)",
       "options": {
-        "A": "should",
-        "B": "can",
-        "C": "might",
-        "D": "may"
+        "A": "shut",
+        "B": "shutted",
+        "C": "shutting",
+        "D": "have shut"
       },
       "vikalpa": {
-        "A": "चाहिए (should)",
-        "B": "सकते हैं",
-        "C": "शायद",
-        "D": "सकते हैं"
+        "A": "shut",
+        "B": "shutted",
+        "C": "shutting",
+        "D": "have shut"
       }
     },
     {
-      "id": "obj_67",
+      "id": "obj_92",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "Who wrote, 'The Scholar Gypsy' ? (Choose the correct option)",
-      "prashna": "'द स्कॉलर जिप्सी' किसने लिखी? (सही विकल्प चुनें)",
+      "question": "For what purpose had Nanukaka come to Delhi ?",
+      "prashna": "नानूकाका किस उद्देश्य से दिल्ली आए थे?",
       "options": {
-        "A": "Matthew Arnold",
-        "B": "W: B. Yeats",
-        "C": "Robert Bridges",
-        "D": "Thomas Hardy"
+        "A": "For paying the debt",
+        "B": "Attend Zamindar convention",
+        "C": "To take rest",
+        "D": "To see some Minister"
       },
       "vikalpa": {
-        "A": "मैथ्यू अर्नोल्ड",
-        "B": "डब्ल्यू. बी. यीट्स",
-        "C": "रॉबर्ट ब्रिज",
-        "D": "थॉमस हार्डी"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "The Gujarati equivalent for civilization means ............... (Choose the correct option)",
-      "prashna": "सभ्यता के लिए गुजराती समकक्ष का अर्थ है ............... (सही विकल्प चुनें)",
-      "options": {
-        "A": "bad conduct",
-        "B": "intelligent conduct",
-        "C": "good conduct",
-        "D": "delightful conduct"
-      },
-      "vikalpa": {
-        "A": "बुरा आचरण",
-        "B": "बुद्धिमान आचरण",
-        "C": "अच्छा आचरण (good conduct)",
-        "D": "आनंदमय आचरण"
-      }
-    },
-    {
-      "id": "obj_77",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "In which poem does the poet express his sad feeling for a beautiful lady ? (Choose the correct option)",
-      "prashna": "किस कविता में कवि एक सुंदर महिला के लिए अपनी दुखद भावना व्यक्त करता है? (सही विकल्प चुनें)",
-      "options": {
-        "A": "To Autumn",
-        "B": "The Soldier",
-        "C": "An Epitaph",
-        "D": "Fire-Hymn"
-      },
-      "vikalpa": {
-        "A": "टू ऑटम",
-        "B": "द सोल्जर",
-        "C": "एन एपिटाफ",
-        "D": "फायर-हाइम"
-      }
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_64",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "The poet is ............ the snake.",
-      "prashna": "कवि सांप से ............ है।",
-      "options": {
-        "A": "in awe of",
-        "B": "afraid of",
-        "C": "running away from",
-        "D": "ready to hide from"
-      },
-      "vikalpa": {
-        "A": "भयभीत/विस्मय में",
-        "B": "से डरा हुआ",
-        "C": "से भाग रहा है",
-        "D": "से छिपने के लिए तैयार है"
-      }
-    },
-    {
-      "id": "obj_82",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "I celebrate myself, and sing myself, And what I assume you shall assume\" — is from",
-      "prashna": "\"मैं स्वयं का उत्सव मनाता हूँ, और स्वयं गाता हूँ, और जो मैं मानता हूँ वह तुम भी मानोगे\" — यह कहाँ से है?",
-      "options": {
-        "A": "Fire Hymn",
-        "B": "Snake",
-        "C": "Song of Myself",
-        "D": "To Autumn"
-      },
-      "vikalpa": {
-        "A": "फायर हिम्न",
-        "B": "स्नेक",
-        "C": "सॉन्ग ऑफ माईसेल्फ",
-        "D": "टू ऑटम"
-      }
-    },
-    {
-      "id": "obj_85",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "Bertrand Russell belonged to",
-      "prashna": "बर्ट्रेंड रसेल कहाँ के थे?",
-      "options": {
-        "A": "Germany",
-        "B": "Iceland",
-        "C": "Britain",
-        "D": "Ireland"
-      },
-      "vikalpa": {
-        "A": "जर्मनी",
-        "B": "आइसलैंड",
-        "C": "ब्रिटेन",
-        "D": "आयरलैंड"
-      }
-    },
-    {
-      "id": "obj_89",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "\"Deeply and painfully upset, they went to the man named Sanders, and told him how it was.\" — is from",
-      "prashna": "\"गहरे और दर्दनाक रूप से परेशान होकर, वे सैंडर्स नाम के व्यक्ति के पास गए और उसे बताया कि बात क्या थी।\" — यह कहाँ से है?",
-      "options": {
-        "A": "A Marriage Proposal",
-        "B": "A Child is Born",
-        "C": "The Earth",
-        "D": "How Free is the Press"
-      },
-      "vikalpa": {
-        "A": "अ मैरिज प्रपोजल",
-        "B": "अ चाइल्ड इज बोर्न",
-        "C": "द अर्थ",
-        "D": "हाउ फ्री इज द प्रेस"
-      }
-    }
-  ],
-  "2023": [
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "The story is..........(Choose the correct option)",
-      "prashna": "कहानी है..........(सही विकल्प चुनें)",
-      "options": {
-        "A": "too good",
-        "B": "only good",
-        "C": "very good",
-        "D": "already good"
-      },
-      "vikalpa": {
-        "A": "बहुत अच्छी",
-        "B": "सिर्फ अच्छी",
-        "C": "बहुत ही अच्छी",
-        "D": "पहले से ही अच्छी"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "Bicyclists.......remember to signal when they turn. (Choose the correct option)",
-      "prashna": "साइकिल चालकों को मुड़ते समय संकेत देना ....... याद रखना चाहिए। (सही विकल्प चुनें)",
-      "options": {
-        "A": "musn’t",
-        "B": "has to",
-        "C": "had to do",
-        "D": "must"
-      },
-      "vikalpa": {
-        "A": "नहीं करना चाहिए",
-        "B": "पड़ता है",
-        "C": "करना पड़ा",
-        "D": "अवश्य (must)"
-      }
-    },
-    {
-      "id": "obj_51",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "There were several policemen..........duty. (Choose the correct preposition)",
-      "prashna": "ड्यूटी पर कई पुलिसकर्मी .......... थे। (सही प्रीपोजिशन चुनें)",
-      "options": {
-        "A": "to",
-        "B": "on",
-        "C": "for",
-        "D": "at"
-      },
-      "vikalpa": {
-        "A": "to",
-        "B": "on",
-        "C": "for",
-        "D": "at"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "The term 'concealed' in \"The Soldier\" stands for",
-      "prashna": "\"द सोल्जर\" में 'concealed' शब्द का अर्थ है",
-      "options": {
-        "A": "hidden",
-        "B": "disappeared",
-        "C": "absent",
-        "D": "my sterious"
-      },
-      "vikalpa": {
-        "A": "छिपा हुआ (hidden)",
-        "B": "गायब",
-        "C": "अनुपस्थित",
-        "D": "रहस्यमय"
-      }
-    },
-    {
-      "id": "obj_78",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "Which is the first Indian Novel in English?",
-      "prashna": "अंग्रेजी में पहला भारतीय उपन्यास कौन सा है?",
-      "options": {
-        "A": "Rajmohan's Wife",
-        "B": "Raja Harischandra",
-        "C": "Mahabharata",
-        "D": "The English Teacher"
-      },
-      "vikalpa": {
-        "A": "राजमोहन की पत्नी (Rajmohan's Wife)",
-        "B": "राजा हरिश्चंद्र",
-        "C": "महाभारत",
-        "D": "द इंग्लिश टीचर"
+        "A": "कर्ज चुकाने के लिए",
+        "B": "जमींदार सम्मेलन में शामिल होने के लिए",
+        "C": "आराम करने के लिए",
+        "D": "कुछ मंत्रियों से मिलने के लिए"
       }
     },
     {
       "id": "obj_94",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "According to Auden, human life is no better than........",
-      "prashna": "ऑडेन के अनुसार, मानव जीवन ........ से बेहतर नहीं है।",
+      "question": "A dust whom ............ bore, shaped, made aware, ...",
+      "prashna": "एक धूल जिसे ............ ने जन्म दिया, आकार दिया, जागरूक बनाया, ...",
       "options": {
-        "A": "dream",
-        "B": "death",
-        "C": "journey",
-        "D": "sleep"
+        "A": "Ireland",
+        "B": "India",
+        "C": "England",
+        "D": "Iceland"
       },
       "vikalpa": {
-        "A": "सपना",
-        "B": "मृत्यु (death)",
-        "C": "यात्रा",
-        "D": "नींद"
+        "A": "आयरलैंड",
+        "B": "भारत",
+        "C": "इंग्लैंड",
+        "D": "आइसलैंड"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "I have to........... to the finish line and back. (Choose the correct option)",
+      "prashna": "मुझे फिनिश लाइन तक और वापस ........... होगा। (सही विकल्प चुनें)",
+      "options": {
+        "A": "run away",
+        "B": "run out of",
+        "C": "run",
+        "D": "run on"
+      },
+      "vikalpa": {
+        "A": "run away",
+        "B": "run out of",
+        "C": "run",
+        "D": "run on"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "She is wise...........timid. (Choose the correct option)",
+      "prashna": "वह बुद्धिमान है ........... डरपोक। (सही विकल्प चुनें)",
+      "options": {
+        "A": "an",
+        "B": "yet",
+        "C": "but",
+        "D": "however"
+      },
+      "vikalpa": {
+        "A": "an",
+        "B": "फिर भी",
+        "C": "लेकिन",
+        "D": "हालांकि"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "The government by the representatives of the people is called....... (Choose the correct option)",
+      "prashna": "जनता के प्रतिनिधियों द्वारा शासन को ....... कहा जाता है (सही विकल्प चुनें)",
+      "options": {
+        "A": "Autocracy",
+        "B": "Democracy",
+        "C": "Socialism",
+        "D": "Anarchy"
+      },
+      "vikalpa": {
+        "A": "निरंकुशता",
+        "B": "लोकतंत्र (Democracy)",
+        "C": "समाजवाद",
+        "D": "अराजकता"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "The Soldier' is a........... poem.",
+      "prashna": "'द सोल्जर' एक ........... कविता है।",
+      "options": {
+        "A": "nature",
+        "B": "patriotic",
+        "C": "love",
+        "D": "happy"
+      },
+      "vikalpa": {
+        "A": "प्रकृति",
+        "B": "देशभक्ति",
+        "C": "प्रेम",
+        "D": "खुशी"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "\"I Have a Dream\" is part of a………….",
+      "prashna": "\"आई हैव अ ड्रीम\" एक …………. का हिस्सा है।",
+      "options": {
+        "A": "drama",
+        "B": "novel",
+        "C": "poem",
+        "D": "speech"
+      },
+      "vikalpa": {
+        "A": "नाटक",
+        "B": "उपन्यास",
+        "C": "कविता",
+        "D": "भाषण (speech)"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "For Auden, poetry was a",
+      "prashna": "ऑडेन के लिए कविता एक थी",
+      "options": {
+        "A": "light game",
+        "B": "interesting game",
+        "C": "serious game",
+        "D": "troublesome game"
+      },
+      "vikalpa": {
+        "A": "हल्का खेल",
+        "B": "दिलचस्प खेल",
+        "C": "गंभीर खेल (serious game)",
+        "D": "परेशानी भरा खेल"
       }
     }
   ],
   "2024": [
     {
-      "id": "obj_65",
+      "id": "obj_39",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "Our ancestors, therefore, set a limit to our ...........",
-      "prashna": "इसलिए हमारे पूर्वजों ने हमारी ........... की एक सीमा निर्धारित की थी",
+      "question": "There is ........... university here. (Choose the correct option)",
+      "prashna": "यहाँ ........... विश्वविद्यालय है। (सही विकल्प चुनें)",
       "options": {
-        "A": "land",
-        "B": "indulgences",
-        "C": "towns",
-        "D": "grains"
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
       },
       "vikalpa": {
-        "A": "भूमि",
-        "B": "भोग-विलास/विलासिता",
-        "C": "शहर",
-        "D": "अनाज"
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "कोई आर्टिकल नहीं"
       }
     },
     {
-      "id": "obj_73",
+      "id": "obj_78",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "Pearl S. Buck was interested in meeting the",
-      "prashna": "पर्ल एस. बक ........... से मिलने में रुचि रखती थीं",
+      "question": "‘How often I think of going there, to peer through blind eyes of windows.’ It is from",
+      "prashna": "‘मैं कितनी बार वहाँ जाने के बारे में सोचता हूँ, खिड़कियों की अंधी आँखों से झाँकने के लिए।’ यह कहाँ से लिया गया है?",
       "options": {
-        "A": "leaders",
-        "B": "saint",
-        "C": "peasants",
-        "D": "Americans"
-      },
-      "vikalpa": {
-        "A": "नेताओं",
-        "B": "संत",
-        "C": "किसानों",
-        "D": "अमेरिकियों"
-      }
-    },
-    {
-      "id": "obj_85",
-      "type": "objective",
-      "chapter_name": "Lost Spring",
-      "question": "“Travellers in their last distress” is from",
-      "prashna": "“Travellers in their last distress” कहाँ से लिया गया है?",
-      "options": {
-        "A": "Now the Leaves are Falling Fast",
+        "A": "My Grandmother’s House",
         "B": "An Epitaph",
-        "C": "Ode to Autumn",
+        "C": "Song of Myself",
+        "D": "Snake"
+      },
+      "vikalpa": {
+        "A": "My Grandmother’s House",
+        "B": "An Epitaph",
+        "C": "Song of Myself",
+        "D": "Snake"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "“And when I crumble, who will remember” — is from",
+      "prashna": "“और जब मैं बिखर जाऊंगा, तो कौन याद रखेगा” — कहाँ से है?",
+      "options": {
+        "A": "Ode to Autumn",
+        "B": "An Epitaph",
+        "C": "Song of Myself",
         "D": "The Soldier"
       },
       "vikalpa": {
-        "A": "Now the Leaves are Falling Fast",
+        "A": "Ode to Autumn",
         "B": "An Epitaph",
-        "C": "Ode to Autumn",
+        "C": "Song of Myself",
         "D": "The Soldier"
       }
     }
   ],
   "2025": [
     {
-      "id": "obj_4",
+      "id": "obj_25",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "The synonym of 'Concealed' is",
-      "prashna": "'Concealed' का पर्यायवाची शब्द है",
+      "question": "Shyam teaches Mathematics ......... English.",
+      "prashna": "श्याम अंग्रेजी के ......... गणित पढ़ाता है।",
       "options": {
-        "A": "Covered",
-        "B": "Sealed",
-        "C": "Closed",
-        "D": "Hidden"
+        "A": "across",
+        "B": "besides",
+        "C": "beside",
+        "D": "over"
       },
       "vikalpa": {
-        "A": "Covered",
-        "B": "Sealed",
-        "C": "Closed",
-        "D": "Hidden"
+        "A": "across",
+        "B": "besides",
+        "C": "beside",
+        "D": "over"
       }
     },
     {
-      "id": "obj_15",
+      "id": "obj_34",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "My friend and I ......... our homework everyday.",
-      "prashna": "मेरा दोस्त और मैं हर दिन अपना होमवर्क करते हैं।",
+      "question": "Chose the correctly spelt word :",
+      "prashna": "सही वर्तनी वाले शब्द का चयन करें :",
       "options": {
-        "A": "do",
-        "B": "does",
-        "C": "have",
-        "D": "has done"
+        "A": "Genuine",
+        "B": "Genune",
+        "C": "Gennuine",
+        "D": "Gennune"
       },
       "vikalpa": {
-        "A": "do",
-        "B": "does",
-        "C": "have",
-        "D": "has done"
+        "A": "Genuine",
+        "B": "Genune",
+        "C": "Gennuine",
+        "D": "Gennune"
       }
     },
     {
-      "id": "obj_19",
+      "id": "obj_39",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "We arrived on ......... fourth of July.",
-      "prashna": "हम जुलाई की चौथी तारीख को पहुंचे।",
+      "question": "Choose the correct sentence :",
+      "prashna": "सही वाक्य चुनें :",
       "options": {
-        "A": "a",
-        "B": "the",
-        "C": "an",
-        "D": "none"
+        "A": "Neither of the girls solves its task",
+        "B": "Neither of the girls solves her task",
+        "C": "Neither of the girls solves their task",
+        "D": "Neither of the girls solve her tasks"
       },
       "vikalpa": {
-        "A": "a",
-        "B": "the",
-        "C": "an",
-        "D": "none"
+        "A": "Neither of the girls solves its task",
+        "B": "Neither of the girls solves her task",
+        "C": "Neither of the girls solves their task",
+        "D": "Neither of the girls solve her tasks"
       }
     },
     {
@@ -465,41 +553,79 @@
       }
     },
     {
-      "id": "obj_41",
+      "id": "obj_45",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "I have lived in this town ......... childhood.",
-      "prashna": "मैं इस शहर में बचपन ......... रह रहा हूँ।",
+      "question": "The antonym of 'Common' is",
+      "prashna": "'Common' का विलोम शब्द है",
       "options": {
-        "A": "in",
-        "B": "for",
-        "C": "at",
-        "D": "since"
+        "A": "Ordinary",
+        "B": "Rare",
+        "C": "Natural",
+        "D": "Beautiful"
       },
       "vikalpa": {
-        "A": "में",
-        "B": "से (अवधि)",
-        "C": "पर",
-        "D": "से (निश्चित समय)"
+        "A": "साधारण",
+        "B": "दुर्लभ",
+        "C": "प्राकृतिक",
+        "D": "सुंदर"
       }
     },
     {
-      "id": "obj_95",
+      "id": "obj_71",
       "type": "objective",
       "chapter_name": "Lost Spring",
-      "question": "......... wants to gladly accept death.",
-      "prashna": "......... खुशी-खुशी मृत्यु को स्वीकार करना चाहता है।",
+      "question": "......... is told by an aunt.",
+      "prashna": "एक चाची द्वारा ......... सुनाई जाती है।",
       "options": {
-        "A": "John Keats",
-        "B": "John Donne",
-        "C": "Walt Whitman",
-        "D": "T. S. Eliot"
+        "A": "Jupthoka",
+        "B": "Rupthoka",
+        "C": "Supthoka",
+        "D": "Tupthoka"
       },
       "vikalpa": {
-        "A": "जॉन कीट्स",
-        "B": "जॉन डन",
-        "C": "वॉल्ट व्हिटमैन",
-        "D": "टी. एस. एलियट"
+        "A": "Jupthoka",
+        "B": "Rupthoka",
+        "C": "Supthoka",
+        "D": "Tupthoka"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "......... got the Nobel Prize in literature in 1950.",
+      "prashna": "......... को 1950 में साहित्य में नोबेल पुरस्कार मिला।",
+      "options": {
+        "A": "Mahatma Gandhi",
+        "B": "Dr. Zakir Hussain",
+        "C": "H. E. Bates",
+        "D": "Bertrand Russell"
+      },
+      "vikalpa": {
+        "A": "महात्मा गांधी",
+        "B": "डॉ. जाकिर हुसैन",
+        "C": "एच. ई. बेट्स",
+        "D": "बर्ट्रेंड रसेल"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "Lost Spring",
+      "question": "'Leaves of Grass' was published in",
+      "prashna": "'Leaves of Grass' किस वर्ष प्रकाशित हुआ था?",
+      "options": {
+        "A": "1892",
+        "B": "1855",
+        "C": "1860",
+        "D": "1872"
+      },
+      "vikalpa": {
+        "A": "1892",
+        "B": "1855",
+        "C": "1860",
+        "D": "1872"
       }
     }
   ]

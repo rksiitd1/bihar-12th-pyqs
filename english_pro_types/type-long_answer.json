@@ -1,30 +1,484 @@
 {
+  "2009": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Give, in short, the summary of any one of the following poems: (a) Song of Myself (b) Ode to Autumn (c) The Soldier (d) My Grandmother's House",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश संक्षेप में दें: (क) सॉन्ग ऑफ माईसेल्फ (ख) ओड टू ऑटम (ग) द सोल्जर (घ) माई ग्रैंडमदर्स हाउस"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "On the Face of It",
+      "question": "Give, in short, the summary of any one of the following pieces: (a) The Artist (b) A Child is Born (c) India Through a Traveller's Eye (d) I Have a Dream",
+      "prashna": "निम्नलिखित में से किसी एक गद्य रचना का सारांश संक्षेप में दें: (क) द आर्टिस्ट (ख) ए चाइल्ड इज बॉर्न (ग) इंडिया थ्रू ए ट्रैवलर्स आई (घ) आई हैव ए ड्रीम"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Write the names of the five Indians writing in English and also mention one poem or literary work of each of them.",
+      "prashna": "अंग्रेजी में लिखने वाले पांच भारतीयों के नाम लिखें और उनमें से प्रत्येक की एक कविता या साहित्यिक कृति का उल्लेख करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Write a note on the importance of English in India with special reference to globalisation of economy.",
+      "prashna": "अर्थव्यवस्था के वैश्वीकरण के विशेष संदर्भ में भारत में अंग्रेजी के महत्व पर एक टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Write a brief note on Global English.",
+      "prashna": "ग्लोबल इंग्लिश (वैश्विक अंग्रेजी) पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Write a note on the future of English in India.",
+      "prashna": "भारत में अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।"
+    }
+  ],
+  "2010": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Give, in short, the summary of any four of the following poems:\n(a) Snake \n(b) My Grandmother's House\n(c) To Autumn\n(d) The Soldier",
+      "prashna": "निम्नलिखित में से किन्हीं चार कविताओं का संक्षेप में सारांश दें:\n(क) स्नेक\n(ख) माई ग्रैंडमदर्स हाउस\n(ग) टू ऑटम\n(घ) द सोल्जर"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "The Rattrap",
+      "question": "Give, in short, the summary of any one of the following pieces:\n(a) I have a Dream\n(b) The Earth\n(c) A child is Born",
+      "prashna": "निम्नलिखित में से किसी एक लेख का संक्षेप में सारांश दें:\n(क) आई हैव अ ड्रीम\n(ख) द अर्थ\n(ग) ए चाइल्ड इज़ बोर्न"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Indigo",
+      "question": "Write a brief note on Modern English.",
+      "prashna": "आधुनिक अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Discuss the future of English in India.",
+      "prashna": "भारत में अंग्रेजी के भविष्य पर चर्चा करें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter_name": "Aunt Jennifer's Tigers",
+      "question": "English is an international language. How?",
+      "prashna": "अंग्रेजी एक अंतरराष्ट्रीय भाषा है। कैसे?"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter_name": "The Rattrap",
+      "question": "Write the names of five Indian English Writers.",
+      "prashna": "पाँच भारतीय अंग्रेजी लेखकों के नाम लिखिए।"
+    }
+  ],
+  "2011": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "The Third Level",
+      "question": "Write in short, the summary of any one of the following poems:\n(a) Song of Myself\n(b) Snake\n(c) An Epitaph\n(d) Sweetest Love I Do Not Goe.",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश संक्षेप में लिखें:\n(क) सॉन्ग ऑफ माईसेल्फ\n(ख) स्नेक\n(ग) एन एपिटाफ\n(घ) स्वीटेस्ट लव आई डू नॉट गो।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Deep Water",
+      "question": "Write in short, the summary of any one of the following pieces:\n(a) The Artist\n(b) A Pinch of Snuff\n(c) How Free is the Press.",
+      "prashna": "निम्नलिखित में से किसी एक गद्य रचना का सारांश संक्षेप में लिखें:\n(क) द आर्टिस्ट\n(ख) ए पिंच ऑफ स्नफ\n(ग) हाउ फ्री इज द प्रेस।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "The Last Lesson",
+      "question": "Write a note on the future of English in India.",
+      "prashna": "भारत में अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Write a note on Modern English.",
+      "prashna": "आधुनिक अंग्रेजी पर एक टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter_name": "The Last Lesson",
+      "question": "Write a brief note on the Indian English.",
+      "prashna": "भारतीय अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Name any three Indian writers in English.",
+      "prashna": "अंग्रेजी के किन्हीं तीन भारतीय लेखकों के नाम बताइए।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Write the summary of any one of the following poems: (a) The Soldier (b) To Autumn (c) Macavity: The Mystery Cat (d) Fire-Hymn",
+      "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखिए: (क) द सोल्जर (ख) टू ऑटम (ग) मैकैविटी: द मिस्ट्री कैट (घ) फायर-हिमन"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Summarise any one of the following pieces: (a) The Earth (b) India Though a Traveller's Eyes (c) Indian Civilization and Culture.",
+      "prashna": "निम्नलिखित गद्य रचनाओं में से किसी एक का सारांश लिखिए: (क) द अर्थ (ख) इंडिया थ्रू अ ट्रैवलर्स आईज़ (ग) इंडियन सिविलाइजेशन एंड कल्चर।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Write a short note on English as a world Language.",
+      "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Write a short note on Indian English Poetry.",
+      "prashna": "भारतीय अंग्रेजी कविता पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "A Roadside Stand",
+      "question": "Write the summary of any one of the following poems:\n(a) To Autumn\n(b) The Soldier\n(c) My Grand Mother's House\n(d) Now the Leaves are Falling Fast",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें:\n(क) टू ऑटम (To Autumn)\n(ख) द सोल्जर (The Soldier)\n(ग) माई ग्रैंड मदर्स हाउस (My Grand Mother's House)\n(घ) नाउ द लीव्स आर फॉलिंग फास्ट (Now the Leaves are Falling Fast)"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Summarise any one of the following pieces:\n(a) Indian Civilization and Culture\n(b) Ideas that have Helped Mankind\n(c) The Earth",
+      "prashna": "निम्नलिखित में से किसी एक लेख का सारांश लिखें:\n(क) इंडियन सिविलाइजेशन एंड कल्चर\n(ख) आइडियाज दैट हैव हेल्प्ड मैनकाइंड\n(ग) द अर्थ"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Write a short note on Indian English novel.",
+      "prashna": "भारतीय अंग्रेजी उपन्यास पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "A Roadside Stand",
+      "question": "Write a short note on English as a world language.",
+      "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter_name": "Lost Spring",
+      "question": "Write a short note on English as a world language.",
+      "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Write a short note on English as the second language of India.",
+      "prashna": "भारत की दूसरी भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Name any five English novelists.",
+      "prashna": "किन्हीं पांच अंग्रेजी उपन्यासकारों के नाम बताइए।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Name any five Indian English novelists.",
+      "prashna": "किन्हीं पांच भारतीय अंग्रेजी उपन्यासकारों के नाम बताइए।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "The Rattrap",
+      "question": "Write the summary of any one of the following poems: (a) Song of Myself (b) Macavity: The Mystery Cat (c) Sweeterst Love I Do Not Goe (d) Fire-Hymn.",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: (क) सॉन्ग ऑफ माईसेल्फ (ख) मैकाविटी: द मिस्ट्री कैट (ग) स्वीटेस्ट लव आई डू नॉट गो (घ) फायर-हाइमन।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Summarise any one of the following pieces: (a) A Pinch of Snuff (b) India Through a Traveller's Eyes. (c) Bharat is My Home.",
+      "prashna": "निम्नलिखित में से किसी एक अंश का सारांश लिखें: (क) ए पिंच ऑफ स्नफ (ख) इंडिया थ्रू ए ट्रैवलर्स आइज (ग) भारत इज माई होम।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Match the poets given in List-A with appropriate titles from List-B:\nList-A:\n(a) Walt Whitman\n(b) K.N. Daruwala\n(c) T.S. Eliot\n(d) John Donne\n(e) Walter de la Mare\n\nList-B:\n(i) An Epitaph\n(ii) Sweetest Love I do not Goe\n(iii) Fire Hymn\n(iv) Song of Myself\n(v) Macavity: The Mystery Cat",
+      "prashna": "सूची-ए में दिए गए कवियों का सूची-बी में दिए गए उपयुक्त शीर्षकों से मिलान करें:\nसूची-ए:\n(क) वॉल्ट व्हिटमैन\n(ख) के.एन. दारूवाला\n(ग) टी.एस. एलियट\n(घ) जॉन डन\n(ङ) वाल्टर डी ला मेयर\n\nसूची-बी:\n(i) एन एपिटाफ़\n(ii) स्वीटेस्ट लव आई डू नॉट गो\n(iii) फायर हाइमन\n(iv) सॉन्ग ऑफ माईसेल्फ\n(v) मैकैविटी: द मिस्ट्री कैट"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Write the summary of any one of the following poems: (a) My Grandmother's House (b) Snake (c) The Soldier (d) To Autumn",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: (क) माई ग्रैंडमदर्स हाउस (ख) स्नेक (ग) द सोल्जर (घ) टू ऑटम"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter_name": "Aunt Jennifer's Tigers",
+      "question": "Summarise any one of the following pieces: (a) A Child is Born (b) Ideas that Have Helped Mankind (c) The Earth",
+      "prashna": "निम्नलिखित में से किसी एक रचना का सारांश लिखें: (क) ए चाइल्ड इज बॉर्न (ख) आइडियाज दैट हैव हेल्प्ड मैनकाइंड (ग) द अर्थ"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Write a short note on Modern English.",
+      "prashna": "आधुनिक अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Write a short note on the Future of English.",
+      "prashna": "अंग्रेजी के भविष्य पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_5_1",
+      "type": "long_answer",
+      "chapter_name": "Deep Water",
+      "question": "Name any five English poets.",
+      "prashna": "किन्हीं पांच अंग्रेजी कवियों के नाम लिखिए।"
+    },
+    {
+      "id": "long_5_2",
+      "type": "long_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Name any five English dramatists.",
+      "prashna": "किन्हीं पांच अंग्रेजी नाटककारों के नाम लिखिए।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "On the Face of It",
+      "question": "Write the summary of any one of the following poems: (a) Now the leaves are Falling Fast (b) Fire hymn (c) Snake (d) To Autumn",
+      "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखें: (क) नाउ द लीव्स आर फॉलिंग फास्ट (ख) फायर हिम्न (ग) स्नेक (घ) टू ऑटम"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "Summarise any one of the following pieces: (a) Indian Civilization and Culture (b) A child is Born (c) The Artist",
+      "prashna": "निम्नलिखित रचनाओं में से किसी एक का सारांश प्रस्तुत करें: (क) इंडियन सिविलाइजेशन एंड कल्चर (ख) ए चाइल्ड इज बॉर्न (ग) द आर्टिस्ट"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "A Thing of Beauty",
+      "question": "Write a short note on Global English.",
+      "prashna": "ग्लोबल इंग्लिश (वैश्विक अंग्रेजी) पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Write a short note on the future of English.",
+      "prashna": "अंग्रेजी के भविष्य पर एक संक्षिप्त टिप्पणी लिखें।"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Name any five English poets.",
+      "prashna": "किन्हीं पांच अंग्रेजी कवियों के नाम लिखिए।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter_name": "Aunt Jennifer's Tigers",
+      "question": "Name any five Indian English writers.",
+      "prashna": "किन्हीं पांच भारतीय अंग्रेजी लेखकों के नाम लिखिए।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Write the summary of any one of the following poems:\n(a) Macavity: The Mystery Cat\n(b) The Autumn\n(c) Song of Myself\n(d) An Epitaph",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें:\n(क) मैकैविटी: द मिस्ट्री कैट\n(ख) द ऑटम\n(ग) सॉन्ग ऑफ माईसेल्फ\n(घ) एन एपिटाफ"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "The Third Level",
+      "question": "Write the summary of any one of the following pieces:\n(a) How Free is the Press\n(b) Ideas that have Helped Mankind\n(c) A marriage Proposal",
+      "prashna": "निम्नलिखित में से किसी एक रचना का सारांश लिखें:\n(क) हाउ फ्री इज़ द प्रेस\n(ख) आइडियाज़ दैट हैव हेल्प्ड मैनकाइंड\n(ग) अ मैरिज प्रपोजल"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Discuss the importance of English in India.",
+      "prashna": "भारत में अंग्रेजी के महत्व पर चर्चा करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter_name": "Going Places",
+      "question": "OR\nWrite a short note on English as a world language.",
+      "prashna": "अथवा\nविश्व भाषा के रूप में अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Show in about 75 words that you have read and understood one of the following poems:",
+      "prashna": "लगभग 75 शब्दों में दिखाएं कि आपने निम्नलिखित कविताओं में से एक को पढ़ा और समझा है:",
+      "sub_questions": {
+        "a": "Lake Isle of Innisfree",
+        "b": "The Daffodils",
+        "c": "The Soldier"
+      },
+      "anuprashna": {
+        "a": "लेक आइल ऑफ इनिसफ्री",
+        "b": "द डैफोडिल्स",
+        "c": "द सोल्जर"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Discuss in about 75 words the childhood of David Copperfield.",
+      "prashna": "लगभग 75 शब्दों में डेविड कॉपरफील्ड के बचपन की चर्चा करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter_name": "Poets and Pancakes",
+      "question": "Discuss in about 75 words the character of Uriah Heep or Agnes Wickfield.",
+      "prashna": "लगभग 75 शब्दों में उरिया हीप या एग्नेस विकफील्ड के चरित्र की चर्चा करें।"
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_answer_1_1",
+      "type": "long_answer",
+      "chapter_name": "Journey to the End of the Earth",
+      "question": "Write a note on the future of English in India.",
+      "instructions": "OR"
+    },
+    {
+      "id": "long_answer_1_2",
+      "type": "long_answer",
+      "chapter_name": "Keeping Quiet",
+      "question": "Write a note on the development of Indian poetry in English.",
+      "instructions": "OR"
+    },
+    {
+      "id": "long_answer_1_3",
+      "type": "long_answer",
+      "chapter_name": "A Roadside Stand",
+      "question": "How can we improve our English?",
+      "instructions": ""
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter_name": "Memories of Childhood",
+      "question": "Write a summary of any one of the following poems:\n(i) Snake\n(ii) Sweetest Love, I Do Not Goe\n(iii) Fire-Hymn",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें:\n(i) Snake\n(ii) Sweetest Love, I Do Not Goe\n(iii) Fire-Hymn"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter_name": "The Interview",
+      "question": "Write a summary of any one of the following prose pieces:\n(i) How Free is the Press\n(ii) India Through a Traveller's Eyes\n(iii) The Artist.",
+      "prashna": "निम्नलिखित में से किसी एक गद्य अंश का सारांश लिखें:\n(i) How Free is the Press\n(ii) India Through a Traveller's Eyes\n(iii) The Artist."
+    },
+    {
+      "id": "long_1_3",
+      "type": "long_answer",
+      "chapter_name": "A Roadside Stand",
+      "question": "Write a note on english as a global language. OR Write a note on the dialects of middle english. OR What do you understand by 'Received Pronunciation'? Discuss.",
+      "prashna": "एक वैश्विक भाषा के रूप में अंग्रेजी पर एक टिप्पणी लिखें। अथवा मिडल इंग्लिश की बोलियों पर एक टिप्पणी लिखें। अथवा 'रिसीव्ड प्रोनाउंसिएशन' से आप क्या समझते हैं? चर्चा करें।"
+    },
+    {
+      "id": "long_1_4",
+      "type": "long_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Match the names of the poets given in List-A with their works in List-B\nList-A: (i) John Donne, (ii) W.H. Auden, (iii) Rupert Brooke, (iv) Kamla Das, (v) Walt Whitman\nList-B: (a) The Soldier, (b) Sweetest Love, I Do Not Goe, (c) Now the Leaves Are Falling Fast, (d) Song of Myself, (e) My Grandmother's House",
+      "prashna": "सूची-A में दिए गए कवियों के नामों का सूची-B में उनकी रचनाओं के साथ मिलान करें"
+    },
+    {
+      "id": "long_1_5",
+      "type": "long_answer",
+      "chapter_name": "The Third Level",
+      "question": "Translate any five into English:\n(i) आज मैं श्याम से मिलने जाऊँगा।\n(ii) वह बहुत बीमार था।\n(iii) मेरे पिताजी भागलपुर गए हैं।\n(iv) मैं चाय पी रहा हूँ।\n(v) आपकी घड़ी में कितना बजा है?\n(vi) शिक्षकों का आदर करना चाहिए।\n(vii) मेरी परीक्षा चल रही थी।\n(viii) क्या तुम्हें अंग्रेजी बोलना आता है?",
+      "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें:"
+    }
+  ],
   "2021": [
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "The Third Level",
+      "chapter_name": "Lost Spring",
       "question": "Write the summary of any one of the following poems : \ni) An Epitaph \nii) Ode to Autumn \niii) Song of Myself.",
       "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखें: \ni) एन एपिटाफ \nii) ओड टू ऑटम \niii) सॉन्ग ऑफ मायसेल्फ।"
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "The Interview",
+      "chapter_name": "The Enemy",
       "question": "Write the summary of any one of the following prose-pieces : \ni) Bharat is My Home \nii) A Pinch of Snuff \niii) The Earth.",
       "prashna": "निम्नलिखित गद्य-खंडों में से किसी एक का सारांश लिखें: \ni) भारत इज माय होम \nii) ए पिंच ऑफ स्नफ \niii) द अर्थ।"
     },
     {
       "id": "long_1_3",
       "type": "long_answer",
-      "chapter_name": "A Thing of Beauty",
+      "chapter_name": "Lost Spring",
       "question": "Write a note on Indian English. \nOR \nWhat are the difficulties faced by an Indian student in learning English ? \nOR \nBriefly discuss the difference between a short story and a novel.",
       "prashna": "इंडियन इंग्लिश पर एक नोट लिखें। \nअथवा \nएक भारतीय छात्र को अंग्रेजी सीखने में किन कठिनाइयों का सामना करना पड़ता है? \nअथवा \nएक छोटी कहानी और एक उपन्यास के बीच के अंतर पर संक्षेप में चर्चा करें।"
     },
     {
       "id": "long_1_4",
       "type": "long_answer",
-      "chapter_name": "The Last Lesson",
+      "chapter_name": "A Roadside Stand",
       "question": "Match the names of the poets given in List-A with their works in List-B : \nList-A: i) T. S. Eliot, ii) Rupert Brooke, iii) Walt Whitman, iv) Kamala Das, v) Walter de la Mare \nList-B: a) My Grandmother's House, b) An Epitaph, c) Macavity : The Mystery Cat, d) Song of Myself, e) The Soldier",
       "prashna": "सूची-A में दिए गए कवियों के नामों का उनकी सूची-B में दी गई रचनाओं से मिलान करें: \nसूची-A: i) टी. एस. एलियट, ii) रूपर्ट ब्रुक, iii) वॉल्ट व्हिटमैन, iv) कमला दास, v) वॉल्टर डी ला मेयर \nसूची-B: a) माई ग्रैंडमदर्स हाउस, b) एन एपिटाफ, c) मैकैविटी: द मिस्ट्री कैट, d) सॉन्ग ऑफ मायसेल्फ, e) द सोल्जर"
     },
@@ -38,7 +492,7 @@
     {
       "id": "long_1_6",
       "type": "long_answer",
-      "chapter_name": "Going Places",
+      "chapter_name": "A Roadside Stand",
       "question": "Match the names of the authors in List-A with their works in List-B : \nList-A: i) Pearl S. Buck, ii) Dorothy L. Sayers, iii) Martin Luther King, Jr., iv) Anton Chekov, v) Shiga Naoya \nList-B: a) The Artist, b) A Marriage Proposal, c) How Free is the Press, d) India Through a Traveller's Eyes, e) I Have A Dream",
       "prashna": "सूची-A में दिए गए लेखकों के नामों का उनकी सूची-B में दी गई रचनाओं से मिलान करें: \nसूची-A: i) पर्ल एस. बक, ii) डोरोथी एल. सायर्स, iii) मार्टिन लूथर किंग, जूनियर, iv) एंटन चेखव, v) शिगा नाओया \nसूची-B: a) द आर्टिस्ट, b) ए मैरिज प्रपोजल, c) हाउ फ्री इज द प्रेस, d) इंडिया थ्रू ए ट्रैवलर्स आइज, e) आई हैव ए ड्रीम"
     }
@@ -47,42 +501,42 @@
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "Memories of Childhood",
+      "chapter_name": "On the Face of It",
       "question": "Answer any three of the following in about 100-120 words :\na) Write the summary of any one of the following poems :\ni) Now The Leaves Are Falling Fast\nii) Fire Hymn\niii) The Soldier.",
       "prashna": "निम्नलिखित में से किन्हीं तीन के उत्तर लगभग 100-120 शब्दों में दें:\nक) निम्नलिखित में से किसी एक कविता का सारांश लिखें:\ni) नाउ द लीव्स आर फॉलिंग फास्ट\nii) फायर हिम्न\niii) द सोल्जर"
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "Indigo",
+      "chapter_name": "Lost Spring",
       "question": "b) Write the summary of any one of the following prose-pieces :\ni) The Artist\nii) A Child is Born\niii) India Through a Traveller's Eyes.",
       "prashna": "ख) निम्नलिखित में से किसी एक गद्य-रचना का सारांश लिखें:\ni) द आर्टिस्ट\nii) अ चाइल्ड इज बोर्न\niii) इंडिया थ्रू अ ट्रैवलर्स आइज़"
     },
     {
       "id": "long_1_3",
       "type": "long_answer",
-      "chapter_name": "The Last Lesson",
+      "chapter_name": "Keeping Quiet",
       "question": "c) Write a note on the dialects of Middle English.\nOR Write a note on the future of English.\nOR Write a note on American English.",
       "prashna": "ग) मध्य अंग्रेजी की बोलियों पर एक टिप्पणी लिखें।\nअथवा अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।\nअथवा अमेरिकी अंग्रेजी पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_1_4",
       "type": "long_answer",
-      "chapter_name": "Poets and Pancakes",
+      "chapter_name": "The Third Level",
       "question": "d) Match the names of the poets given in List-A with their works in List-B :\nList-A: i) W. H. Auden, ii) K. N. Daruwala, iii) John Keats, iv) Rupert Brooke, v) Kamala Das\nList-B: a) Fire Hymn, b) Now The Leaves Are Falling Fast, c) My Grand Mother's House, d) Ode to Autumn, e) The Soldier",
       "prashna": "घ) सूची-A में दिए गए कवियों के नामों का मिलान सूची-B में उनकी कृतियों से करें:\nसूची-A: i) डब्लू. एच. ऑडेन, ii) के. एन. दारूवाला, iii) जॉन कीट्स, iv) रूपर्ट ब्रुक, v) कमला दास\nसूची-B: a) फायर हिम्न, b) नाउ द लीव्स आर फॉलिंग फास्ट, c) माय ग्रैंड मदर्स हाउस, d) ओड टू ऑटम, e) द सोल्जर"
     },
     {
       "id": "long_1_5",
       "type": "long_answer",
-      "chapter_name": "Journey to the End of the Earth",
+      "chapter_name": "Poets and Pancakes",
       "question": "e) Translate any five into English :\ni) अभी बाहर मत निकालो।\nii) छात्रों को क्यों पीटा गया ?\niii) रीता अपना काम पूरा कर चुकी है।\niv) मैं स्नान करने ही वाला हूँ।\nv) रमेश पुस्तक लेकर कब आएगा ?\nvi) वह अपने मित्रों के साथ मैदान में खेल रहा है।\nvii) तुम्हें अब घर जाना चाहिए।\nviii) आपलोग पटना कब आइएगा ?",
       "prashna": "ङ) किन्हीं पाँच का अंग्रेजी में अनुवाद करें:\ni) अभी बाहर मत निकालो।\nii) छात्रों को क्यों पीटा गया ?\niii) रीता अपना काम पूरा कर चुकी है।\niv) मैं स्नान करने ही वाला हूँ।\nv) रमेश पुस्तक लेकर कब आएगा ?\nvi) वह अपने मित्रों के साथ मैदान में खेल रहा है।\nvii) तुम्हें अब घर जाना चाहिए।\nviii) आपलोग पटना कब आइएगा ?"
     },
     {
       "id": "long_1_6",
       "type": "long_answer",
-      "chapter_name": "Memories of Childhood",
+      "chapter_name": "Keeping Quiet",
       "question": "f) Match the names of the authors given in List-A with their works in List-B :\nList-A: i) H. E. Bates, ii) Germaine Greer, iii) Dorothy L. Sayers, iv) Dr. Zakir Hussain, v) Martin Luther King, Jr.\nList-B: a) How Free is the Press, b) Bharat is My Home, c) I have a Dream, d) A Child is Born, e) The Earth",
       "prashna": "च) सूची-A में दिए गए लेखकों के नामों का मिलान सूची-B में उनकी कृतियों से करें:\nसूची-A: i) एच. ई. बेट्स, ii) जर्मेन ग्रीर, iii) डोरोथी एल. सायर्स, iv) डॉ. जाकिर हुसैन, v) मार्टिन लूथर किंग, जूनियर\nसूची-B: a) हाउ फ्री इज द प्रेस, b) भारत इज माय होम, c) आई हैव अ ड्रीम, d) अ चाइल्ड इज बोर्न, e) द अर्थ"
     }
@@ -91,28 +545,28 @@
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter_name": "The Tiger King",
+      "chapter_name": "Memories of Childhood",
       "question": "Write the summary of any one of the following poems: (i) Ode to Autumn (ii) Fire-Hymn (iii) Snake",
       "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: (i) ओड टू ऑटम (ii) फायर-हाइमन (iii) स्नेक"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter_name": "Deep Water",
+      "chapter_name": "Poets and Pancakes",
       "question": "Write the summary of any one of the following prose pieces: (i) The Earth (ii) Indian Civilization and Culture (iii) A Pinch of Snuff.",
       "prashna": "निम्नलिखित में से किसी एक गद्य अंश का सारांश लिखें: (i) द अर्थ (ii) इंडियन सिविलाइजेशन एंड कल्चर (iii) ए पिंच ऑफ स्नफ।"
     },
     {
       "id": "long_3_1",
       "type": "long_answer",
-      "chapter_name": "Memories of Childhood",
+      "chapter_name": "The Tiger King",
       "question": "Write a note on the future of English.",
       "prashna": "अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_3_2",
       "type": "long_answer",
-      "chapter_name": "A Roadside Stand",
+      "chapter_name": "Poets and Pancakes",
       "question": "Write a note on American English.",
       "prashna": "अमेरिकी अंग्रेजी पर एक टिप्पणी लिखें।"
     },
@@ -126,7 +580,7 @@
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "Aunt Jennifer's Tigers",
       "question": "Match the names of the poems given in List-A with their poets in List-B\nList-A:\n(i) Song of Myself\n(ii) My Grandmother's House\n(iii) An Epitaph\n(iv) The Soldier\n(v) To Autumn\nList-B:\n(a) Kamala Das\n(b) Walter de la Mare\n(c) John Keats\n(d) Walt Whitman\n(e) Rupert Brooke",
       "prashna": "सूची-A में दी गई कविताओं के नामों का सूची-B में उनके कवियों के साथ मिलान करें।",
       "sub_questions": {
@@ -140,14 +594,14 @@
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter_name": "The Enemy",
+      "chapter_name": "Deep Water",
       "question": "Translate any five into English:\n(i) मैं बहुत मेहनत करता हूँ।\n(ii) अब तुम घर जा सकते हो।\n(iii) मेरे घर कब आओगी?\n(iv) शोर मचाना बंद करो।\n(v) श्याम बाजार गया है।\n(vi) वह क्या करना चाहता है?\n(vii) मुझे अपने बच्चों से बहुत प्यार है।\n(viii) रमेश को आम खाना बिल्कुल भी पसंद नहीं है।",
       "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें:"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter_name": "My Mother at Sixty-Six",
+      "chapter_name": "Deep Water",
       "question": "Match the names of the prose pieces in List-A with their authors in List-B\nList-A:\n(i) I Have a Dream\n(ii) India Through a Traveller's Eye\n(iii) How Free is the Press\n(iv) A Pinch of Snuff\n(v) The Earth\nList-B:\n(a) Manohar Malgaonkar\n(b) H. E. Bates\n(c) Pearl S. Buck\n(d) Martin Luther King, Jr.\n(e) Dorothy L. Sayers",
       "prashna": "सूची-A में गद्य कृतियों के नामों का सूची-B में उनके लेखकों के साथ मिलान करें।",
       "sub_questions": {
@@ -163,42 +617,42 @@
     {
       "id": "long_1_1",
       "type": "long_answer",
-      "chapter_name": "A Thing of Beauty",
+      "chapter_name": "The Tiger King",
       "question": "Write the summary of any one of the following poems :\ni) Sweetest Love, I Do Not Goe\nii) The Soldier\niii) Now the Leaves are Falling Fast.",
       "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखें:\ni) Sweetest Love, I Do Not Goe\nii) The Soldier\niii) Now the Leaves are Falling Fast."
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
-      "chapter_name": "The Third Level",
+      "chapter_name": "Indigo",
       "question": "Write the summary of any one of the following prose pieces :\ni) A Child is Born\nii) Ideas That Have Helped Mankind\niii) I Have a Dream.",
       "prashna": "निम्नलिखित गद्य रचनाओं में से किसी एक का सारांश लिखें:\ni) A Child is Born\nii) Ideas That Have Helped Mankind\niii) I Have a Dream."
     },
     {
       "id": "long_1_3_1",
       "type": "long_answer",
-      "chapter_name": "A Thing of Beauty",
+      "chapter_name": "Memories of Childhood",
       "question": "Write a note on the Indian English.",
       "prashna": "भारतीय अंग्रेजी पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_1_3_2",
       "type": "long_answer",
-      "chapter_name": "Indigo",
+      "chapter_name": "A Roadside Stand",
       "question": "Write a note on English as a world language.",
       "prashna": "विश्व भाषा के रूप में अंग्रेजी पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_1_3_3",
       "type": "long_answer",
-      "chapter_name": "The Last Lesson",
+      "chapter_name": "The Interview",
       "question": "Write a note on Modern English.",
       "prashna": "आधुनिक अंग्रेजी पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_1_4",
       "type": "long_answer",
-      "chapter_name": "Keeping Quiet",
+      "chapter_name": "Indigo",
       "question": "Match the names of the poems given in List-A with their poets in List-B :\nList-A\ni) The Soldier\nii) To Autumn\niii) Snake\niv) My Grandmother’s House\nv) Fire-Hymn\n\nList-B\na) John Keats\nb) Rupert Brooke\nc) K. N. Daruwala\nd) D. H. Lawrence\ne) Kamala Das",
       "prashna": "सूची-A में दी गई कविताओं के नामों का सूची-B में उनके कवियों के साथ मिलान करें:\nसूची-A\ni) The Soldier\nii) To Autumn\niii) Snake\niv) My Grandmother’s House\nv) Fire-Hymn\n\nसूची-B\na) John Keats\nb) Rupert Brooke\nc) K. N. Daruwala\nd) D. H. Lawrence\ne) Kamala Das"
     }
@@ -207,14 +661,14 @@
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter_name": "The Rattrap",
+      "chapter_name": "A Thing of Beauty",
       "question": "Write the summary of any one of the following poems : i) My Grandmother's House ii) Ode to Autumn iii) Snake.",
       "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: i) My Grandmother's House ii) Ode to Autumn iii) Snake."
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "The Enemy",
       "question": "Write the summary of any one of the following prose-pieces : i) The Artist ii) How Free is the Press iii) Indian Civilization and Culture.",
       "prashna": "निम्नलिखित में से किसी एक गद्य-खंड का सारांश लिखें: i) The Artist ii) How Free is the Press iii) Indian Civilization and Culture."
     },
@@ -228,21 +682,21 @@
     {
       "id": "long_3_2",
       "type": "long_answer",
-      "chapter_name": "Lost Spring",
+      "chapter_name": "Going Places",
       "question": "Write a note on English as a second language of India.",
       "prashna": "भारत की दूसरी भाषा के रूप में अंग्रेजी पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_3_3",
       "type": "long_answer",
-      "chapter_name": "The Last Lesson",
+      "chapter_name": "Journey to the End of the Earth",
       "question": "Write a note on American English.",
       "prashna": "अमेरिकी अंग्रेजी पर एक टिप्पणी लिखें।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter_name": "A Roadside Stand",
+      "chapter_name": "The Last Lesson",
       "question": "Match the names of the poems given in List-A with their poets in List-B :",
       "prashna": "सूची-A में दी गई कविताओं के नामों का सूची-B में उनके कवियों के साथ मिलान करें:",
       "sub_questions": {
@@ -281,7 +735,7 @@
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter_name": "Keeping Quiet",
+      "chapter_name": "Going Places",
       "question": "Translate any five into English :",
       "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें :",
       "sub_questions": {
@@ -298,7 +752,7 @@
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter_name": "Keeping Quiet",
+      "chapter_name": "The Interview",
       "question": "Match the names of the prose-pieces in List-A with their authors in List-B :",
       "prashna": "सूची-A में गद्य-खंडों के नामों का सूची-B में उनके लेखकों के साथ मिलान करें:",
       "sub_questions": {

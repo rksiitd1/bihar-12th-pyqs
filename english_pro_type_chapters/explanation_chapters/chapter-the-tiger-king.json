@@ -1,11 +1,16 @@
 {
-  "2021": [
+  "2019": [
     {
-      "id": "exp_1_4",
+      "id": "explanation_1",
       "type": "explanation",
       "chapter_name": "The Tiger King",
-      "question": "Explain any one of the following : \nd) \"There's absolutely no future for a boy like you.\"",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nd) \"तुम्हारे जैसे लड़के के लिए बिल्कुल कोई भविष्य नहीं है।\""
+      "question": "Explain any one of the following:",
+      "instructions": "Explain any one. (1×4=4)",
+      "sub_questions": {
+        "a": "“You’re an actor,” he sneered. “There’s absolutely no future for a boy like you.”",
+        "b": "“What? That means he will be here for weeks! Ministers don’t see people for weeks, months! Oh, my God!”",
+        "c": "“You’re a brave boy and get married…… Just do me a favour and leave me in peace.”"
+      }
     }
   ]
 }

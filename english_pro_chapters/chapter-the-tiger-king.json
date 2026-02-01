@@ -1,614 +1,741 @@
 {
-  "2021": [
+  "2009": [
     {
-      "id": "obj_32",
-      "type": "objective",
+      "id": "long_1",
+      "type": "long_answer",
       "chapter_name": "The Tiger King",
-      "question": "When I finished my work, I asked ............... teacher to check it. (Choose the best option)",
-      "prashna": "जब मैंने अपना काम पूरा कर लिया, तो मैंने ............... शिक्षक से इसे जाँचने के लिए कहा। (सबसे अच्छा विकल्प चुनें)",
-      "options": {
-        "A": "I",
-        "B": "her",
-        "C": "my",
-        "D": "their"
-      },
-      "vikalpa": {
-        "A": "मैं",
-        "B": "उसकी",
-        "C": "मेरे",
-        "D": "उनका"
-      }
+      "question": "Give, in short, the summary of any one of the following poems: (a) Song of Myself (b) Ode to Autumn (c) The Soldier (d) My Grandmother's House",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश संक्षेप में दें: (क) सॉन्ग ऑफ माईसेल्फ (ख) ओड टू ऑटम (ग) द सोल्जर (घ) माई ग्रैंडमदर्स हाउस"
     },
     {
-      "id": "obj_33",
-      "type": "objective",
+      "id": "long_4_1",
+      "type": "long_answer",
       "chapter_name": "The Tiger King",
-      "question": "Those are probably the ............... furniture in the showroom. (Choose the correct option)",
-      "prashna": "वे शायद शोरूम में ............... फर्नीचर हैं। (सही विकल्प चुनें)",
-      "options": {
-        "A": "fancyest",
-        "B": "fanciest",
-        "C": "fancy",
-        "D": "most fancyest"
-      },
-      "vikalpa": {
-        "A": "fancyest",
-        "B": "सबसे आकर्षक (fanciest)",
-        "C": "आकर्षक",
-        "D": "most fancyest"
-      }
-    },
-    {
-      "id": "obj_34",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "They made her ............... a new contract. (Choose the correct option)",
-      "prashna": "उन्होंने उससे नए अनुबंध पर ............... करवाया। (सही विकल्प चुनें)",
-      "options": {
-        "A": "sign",
-        "B": "to sign",
-        "C": "signing",
-        "D": "signed"
-      },
-      "vikalpa": {
-        "A": "हस्ताक्षर",
-        "B": "हस्ताक्षर करना",
-        "C": "हस्ताक्षर कर रहे",
-        "D": "हस्ताक्षर किए"
-      }
-    },
-    {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "Reshma bought what she wanted, ............... ? (Choose the correct question tag)",
-      "prashna": "रेशमा ने वह खरीदा जो वह चाहती थी, ...............? (सही क्वेश्चन टैग चुनें)",
-      "options": {
-        "A": "won't she",
-        "B": "can't she",
-        "C": "can she",
-        "D": "didn't she"
-      },
-      "vikalpa": {
-        "A": "क्या वह नहीं करेगी",
-        "B": "क्या वह नहीं कर सकती",
-        "C": "क्या वह कर सकती है",
-        "D": "क्या उसने नहीं किया (didn't she)"
-      }
-    },
-    {
-      "id": "obj_53",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "Keep quiet, we ............... to the radio. (Choose the correct option)",
-      "prashna": "शांत रहो, हम रेडियो ...............। (सही विकल्प चुनें)",
-      "options": {
-        "A": "are listening",
-        "B": "listen",
-        "C": "will listen",
-        "D": "listened"
-      },
-      "vikalpa": {
-        "A": "सुन रहे हैं",
-        "B": "सुनते हैं",
-        "C": "सुनेंगे",
-        "D": "सुना"
-      }
-    },
-    {
-      "id": "obj_59",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "I will never forget this experience. (Choose the correct passive voice)",
-      "prashna": "मैं इस अनुभव को कभी नहीं भूलूँगा। (सही पैसिव वॉयस चुनें)",
-      "options": {
-        "A": "This experience cannot be forgotten by me",
-        "B": "This experience would never be forgotten by me",
-        "C": "This experience will never be forgotten by me",
-        "D": "This experience had never been forgotten by me"
-      },
-      "vikalpa": {
-        "A": "यह अनुभव मेरे द्वारा नहीं भूला जा सकता",
-        "B": "यह अनुभव मेरे द्वारा कभी नहीं भूला जाएगा (would)",
-        "C": "यह अनुभव मेरे द्वारा कभी नहीं भूला जाएगा (will)",
-        "D": "यह अनुभव मेरे द्वारा कभी नहीं भूला गया था"
-      }
-    },
-    {
-      "id": "obj_95",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "Emancipation Proclamation gave the Negro ............... (Choose the correct option)",
-      "prashna": "मुक्ति उद्घोषणा ने नीग्रो को ............... दिया। (सही विकल्प चुनें)",
-      "options": {
-        "A": "slavery",
-        "B": "freedom from slavery",
-        "C": "captivity",
-        "D": "despair"
-      },
-      "vikalpa": {
-        "A": "गुलामी",
-        "B": "गुलामी से मुक्ति",
-        "C": "कैद",
-        "D": "निराशा"
-      }
-    },
-    {
-      "id": "exp_1_4",
-      "type": "explanation",
-      "chapter_name": "The Tiger King",
-      "question": "Explain any one of the following : \nd) \"There's absolutely no future for a boy like you.\"",
-      "prashna": "निम्नलिखित में से किसी एक की व्याख्या करें: \nd) \"तुम्हारे जैसे लड़के के लिए बिल्कुल कोई भविष्य नहीं है।\""
+      "question": "Write a brief note on Global English.",
+      "prashna": "ग्लोबल इंग्लिश (वैश्विक अंग्रेजी) पर एक संक्षिप्त टिप्पणी लिखें।"
     }
   ],
-  "2022": [
+  "2010": [
     {
-      "id": "obj_34",
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Match the names given in List-A with appropriate titles from List-B:\nList-A:\n(a) Rupert Brooke\n(b) D.H. Lawrence\n(c) Walt Whitman\n(d) John Donne\n(e) John Keats\n\nList-B:\n(i) Song of Myself\n(ii) To Autumn\n(iii) The soldier\n(iv) Snake\n(v) Sweetest love I do not go",
+      "prashna": "सूची-A में दिए गए नामों को सूची-B के उपयुक्त शीर्षकों के साथ मिलाएं:\nसूची-A:\n(क) रूपर्ट ब्रुक\n(ख) डी.एच. लॉरेंस\n(ग) वॉल्ट व्हिटमैन\n(घ) जॉन डन\n(ङ) जॉन कीट्स\n\nसूची-B:\n(i) सॉन्ग ऑफ मायसेल्फ\n(ii) टू ऑटम\n(iii) द सोल्जर\n(iv) स्नेक\n(v) स्वीटेस्ट लव आई डू नॉट गो"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Summarise any one of the following pieces:\n(a) Indian Civilization and Culture\n(b) Ideas that have Helped Mankind\n(c) The Earth",
+      "prashna": "निम्नलिखित में से किसी एक लेख का सारांश लिखें:\n(क) इंडियन सिविलाइजेशन एंड कल्चर\n(ख) आइडियाज दैट हैव हेल्प्ड मैनकाइंड\n(ग) द अर्थ"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Complete the following sentences on the basis of your textual reading:\n(a) Civilization is that mode of conduct which points out to man.......\n(b) I shall be told it is neither numbers not multiplicity of pleasures that make….",
+      "prashna": "अपने पाठ्य अध्ययन के आधार पर निम्नलिखित वाक्यों को पूरा करें:\n(क) सभ्यता आचरण की वह विधा है जो मनुष्य को इंगित करती है.......\n(ख) मुझे बताया जाएगा कि यह न तो संख्या है और न ही सुखों की बहुलता है जो बनाती है…।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Write a short note on the Future of English.",
+      "prashna": "अंग्रेजी के भविष्य पर एक संक्षिप्त टिप्पणी लिखें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Name the authors of the following prose pieces:",
+      "prashna": "निम्नलिखित गद्य रचनाओं के लेखकों के नाम लिखिए:",
+      "sub_questions": {
+        "a": "I have a Dream",
+        "b": "The Earth",
+        "c": "A Pinch of Snuff"
+      },
+      "anuprashna": {
+        "a": "आई हैव अ ड्रीम",
+        "b": "द अर्थ",
+        "c": "अ पिंच ऑफ स्नफ"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_2",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "Public opinion was ............ the Bill. (Choose the correct option)",
-      "prashna": "जनता की राय विधेयक के ............ थी। (सही विकल्प चुनें)",
+      "question": "He came home late .......... the evening. (Choose the suitable preposition)",
+      "prashna": "वह शाम .......... देर से घर आया। (उपयुक्त पूर्वसर्ग चुनें)",
       "options": {
-        "A": "of",
-        "B": "after",
-        "C": "above",
-        "D": "against"
+        "A": "with",
+        "B": "in",
+        "C": "at",
+        "D": "for"
       },
       "vikalpa": {
-        "A": "का/की",
-        "B": "पीछे",
-        "C": "ऊपर",
-        "D": "खिलाफ"
+        "A": "with",
+        "B": "in",
+        "C": "at",
+        "D": "for"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Letter writing was done more carefully in the ........ (Choose the most suitable option)",
+      "prashna": "........ में पत्र लेखन अधिक सावधानी से किया जाता था (सबसे उपयुक्त विकल्प चुनें)",
+      "options": {
+        "A": "Present",
+        "B": "Pre-historic period",
+        "C": "past",
+        "D": "future"
+      },
+      "vikalpa": {
+        "A": "वर्तमान",
+        "B": "प्रागैतिहासिक काल",
+        "C": "अतीत",
+        "D": "भविष्य"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "objective_10",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Choose the correct sentence -",
+      "options": {
+        "A": "I wish were I young again.",
+        "B": "I wish was I young again.",
+        "C": "I wish I were young again.",
+        "D": "I wish I was young again."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "objective_16",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "He ............... video games (Choose the best option)",
+      "options": {
+        "A": "had playing",
+        "B": "am playing",
+        "C": "are playing",
+        "D": "is playing"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "objective_24",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "I am .................... my bed. (Choose the best option)",
+      "options": {
+        "A": "making",
+        "B": "make",
+        "C": "to make",
+        "D": "had making"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "objective_49",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "'Ideas that have helped Mankind' is written by .................... (Choose the correct option)",
+      "options": {
+        "A": "Germaine Greer",
+        "B": "Pearl S. Buck",
+        "C": "Shiga Naoya",
+        "D": "B. Russell"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "explanation_1",
+      "type": "explanation",
+      "chapter_name": "The Tiger King",
+      "question": "Explain any one of the following:",
+      "instructions": "Explain any one. (1×4=4)",
+      "sub_questions": {
+        "a": "“You’re an actor,” he sneered. “There’s absolutely no future for a boy like you.”",
+        "b": "“What? That means he will be here for weeks! Ministers don’t see people for weeks, months! Oh, my God!”",
+        "c": "“You’re a brave boy and get married…… Just do me a favour and leave me in peace.”"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "He…………classical music for four hours everyday. (Choose the correct option)",
+      "prashna": "वह हर दिन चार घंटे शास्त्रीय संगीत का ...... करता है। (सही विकल्प चुनें)",
+      "options": {
+        "A": "practises",
+        "B": "practise",
+        "C": "is practise",
+        "D": "was practice"
+      },
+      "vikalpa": {
+        "A": "practises",
+        "B": "practise",
+        "C": "is practise",
+        "D": "was practice"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Choose the correct sentence",
+      "prashna": "सही वाक्य चुनें",
+      "options": {
+        "A": "Either of three men can do it.",
+        "B": "Any of the three men can do it.",
+        "C": "Either of the three men can do it.",
+        "D": "Any of three men can do it."
+      },
+      "vikalpa": {
+        "A": "Either of three men can do it.",
+        "B": "Any of the three men can do it.",
+        "C": "Either of the three men can do it.",
+        "D": "Any of three men can do it."
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Choose the correctly spelt word",
+      "prashna": "सही वर्तनी वाला शब्द चुनें",
+      "options": {
+        "A": "Intilligent",
+        "B": "Inteligent",
+        "C": "Intelligent",
+        "D": "Intiligint"
+      },
+      "vikalpa": {
+        "A": "Intilligent",
+        "B": "Inteligent",
+        "C": "Intelligent",
+        "D": "Intiligint"
       }
     },
     {
       "id": "obj_40",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "I say that I write a letter. (Choose the correct direct narration)",
-      "prashna": "मैं कहता हूँ कि मैं एक पत्र लिखता हूँ। (सही डायरेक्ट नरेशन चुनें)",
+      "question": "Rupert Brooke praises (Choose the correct option)",
+      "prashna": "रूपर्ट ब्रूक किसकी प्रशंसा करते हैं (सही विकल्प चुनें)",
       "options": {
-        "A": "I said, \"I write a letter.\"",
-        "B": "I say, \"I write a letter.\"",
-        "C": "I am saying, \"I write a letter.\"",
-        "D": "I was saying, \"I write a letter.\""
+        "A": "England",
+        "B": "Germany",
+        "C": "Russia",
+        "D": "America."
       },
       "vikalpa": {
-        "A": "I said, \"I write a letter.\"",
-        "B": "I say, \"I write a letter.\"",
-        "C": "I am saying, \"I write a letter.\"",
-        "D": "I was saying, \"I write a letter.\""
+        "A": "इंग्लैंड",
+        "B": "जर्मनी",
+        "C": "रूस",
+        "D": "अमेरिका"
       }
     },
     {
-      "id": "obj_49",
+      "id": "obj_44",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "He is not ............ home. (Choose the correct preposition)",
-      "prashna": "वह घर ............ नहीं है। (सही प्रीपोजिशन चुनें)",
+      "question": "And the active hands must………… . Lonely on the separate knees. (Choose the correct option)",
+      "prashna": "And the active hands must………… . Lonely on the separate knees. (सही विकल्प चुनें)",
       "options": {
-        "A": "of",
-        "B": "by",
-        "C": "at",
-        "D": "since"
+        "A": "die",
+        "B": "pluck",
+        "C": "freeze",
+        "D": "snatch"
       },
       "vikalpa": {
-        "A": "का/की",
-        "B": "द्वारा",
-        "C": "पर",
-        "D": "से"
+        "A": "die",
+        "B": "pluck",
+        "C": "freeze",
+        "D": "snatch"
       }
     },
     {
       "id": "obj_50",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "He is lazy. He will fail. (Choose the correct combination)",
-      "prashna": "वह आलसी है। वह असफल होगा। (सही संयोजन चुनें)",
+      "question": "English language is………….than Sanskrit. (Choose the correct option)",
+      "prashna": "अंग्रेजी भाषा संस्कृत से …………. है। (सही विकल्प चुनें)",
       "options": {
-        "A": "He will fail because he is lazy",
-        "B": "Fail if he is lazy",
-        "C": "He is failing because he was lazy",
-        "D": "Lazy is he and he failed"
+        "A": "older",
+        "B": "ancient",
+        "C": "younger",
+        "D": "classical"
       },
       "vikalpa": {
-        "A": "He will fail because he is lazy",
-        "B": "Fail if he is lazy",
-        "C": "He is failing because he was lazy",
-        "D": "Lazy is he and he failed"
+        "A": "पुरानी",
+        "B": "प्राचीन",
+        "C": "युवा (नई)",
+        "D": "शास्त्रीय (क्लासिकल)"
       }
     },
     {
-      "id": "obj_53",
+      "id": "obj_54",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "I banged my ............ on the floor. (Choose the correct option)",
-      "prashna": "मैंने फर्श पर अपना ............ दे मारा। (सही विकल्प चुनें)",
+      "question": "'Macbeth' and 'Julius Caeser' are written by (Choose the correct option).",
+      "prashna": "'Macbeth' और 'Julius Caeser' किसके द्वारा लिखे गए हैं? (सही विकल्प चुनें)",
       "options": {
-        "A": "toe",
-        "B": "tow",
-        "C": "towe",
-        "D": "tore"
+        "A": "Goldsmith",
+        "B": "Ben Jonson",
+        "C": "Shakespeare",
+        "D": "Sheridan"
       },
       "vikalpa": {
-        "A": "पैर का अंगूठा",
-        "B": "खींचना",
-        "C": "towe",
-        "D": "फाड़ा"
-      }
-    },
-    {
-      "id": "obj_74",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "\"Fancy a lad spending his time playing around like that with gourds !\" — is from",
-      "prashna": "\"कल्पना कीजिए कि एक लड़का अपना समय कद्दू (gourds) के साथ इस तरह खेलते हुए बिता रहा है!\" — यह कहाँ से है?",
-      "options": {
-        "A": "The Earth",
-        "B": "A Marriage Proposal",
-        "C": "A Child is Born",
-        "D": "The Artist"
-      },
-      "vikalpa": {
-        "A": "द अर्थ",
-        "B": "अ मैरिज प्रपोजल",
-        "C": "अ चाइल्ड इज बोर्न",
-        "D": "द आर्टिस्ट"
-      }
-    },
-    {
-      "id": "obj_81",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "The poet was ............ dressed when he saw the snake.",
-      "prashna": "साँप को देखने पर कवि ने ............ कपड़े पहने हुए थे।",
-      "options": {
-        "A": "formally",
-        "B": "in Pyjamas",
-        "C": "in his nightsuit",
-        "D": "in his undergarments"
-      },
-      "vikalpa": {
-        "A": "औपचारिक रूप से",
-        "B": "पायजामे में",
-        "C": "नाइटसूट में",
-        "D": "अंडरगारमेंट्स में"
+        "A": "गोल्डस्मिथ",
+        "B": "बेन जॉनसन",
+        "C": "शेक्सपियर",
+        "D": "शेरिडन"
       }
     }
   ],
-  "2023": [
+  "2021": [
     {
-      "id": "obj_1",
+      "id": "obj_26",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "Which state did Mahatma Gandhi belong........? (Choose the correct option)",
-      "prashna": "महात्मा गांधी किस राज्य से संबंधित थे........? (सही विकल्प चुनें)",
+      "question": "By whom was the bird killed ? (Choose the correct active voice)",
+      "prashna": "पक्षी किसके द्वारा मारा गया? (सही एक्टिव वॉयस चुनें)",
       "options": {
-        "A": "of",
-        "B": "from",
-        "C": "to",
-        "D": "by"
+        "A": "Who killing the bird ?",
+        "B": "Who has killed the bird ?",
+        "C": "Who killed the bird ?",
+        "D": "Bird killing by whom ?"
       },
       "vikalpa": {
-        "A": "of",
-        "B": "from",
-        "C": "to",
-        "D": "by"
+        "A": "पक्षी को कौन मार रहा?",
+        "B": "पक्षी को किसने मारा है?",
+        "C": "पक्षी को किसने मारा?",
+        "D": "किसके द्वारा पक्षी मारना?"
       }
     },
     {
-      "id": "obj_12",
+      "id": "obj_29",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "She is wise...........timid. (Choose the correct option)",
-      "prashna": "वह बुद्धिमान है ........... डरपोक। (सही विकल्प चुनें)",
+      "question": "I ............... you to read the book carefully. (Choose the correct option)",
+      "prashna": "मैं आपको किताब ध्यान से पढ़ने की ............... देता हूँ। (सही विकल्प चुनें)",
       "options": {
-        "A": "an",
-        "B": "yet",
-        "C": "but",
-        "D": "however"
+        "A": "advise",
+        "B": "tell",
+        "C": "advice",
+        "D": "had advise"
       },
       "vikalpa": {
-        "A": "an",
-        "B": "फिर भी",
-        "C": "लेकिन",
-        "D": "हालांकि"
-      }
-    },
-    {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "He killed a tiger..........a rifle. (Choose the correct option)",
-      "prashna": "उसने राइफल .......... एक बाघ को मार डाला। (सही विकल्प चुनें)",
-      "options": {
-        "A": "by",
-        "B": "with",
-        "C": "from",
-        "D": "at"
-      },
-      "vikalpa": {
-        "A": "by",
-        "B": "with",
-        "C": "from",
-        "D": "at"
-      }
-    },
-    {
-      "id": "obj_52",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "Can............talk for a minute? (Choose the correct option)",
-      "prashna": "क्या ............ एक मिनट बात कर सकते हैं? (सही विकल्प चुनें)",
-      "options": {
-        "A": "him",
-        "B": "her",
-        "C": "we",
-        "D": "them"
-      },
-      "vikalpa": {
-        "A": "उसे",
-        "B": "उसे (स्त्री)",
-        "C": "हम (we)",
-        "D": "उन्हें"
+        "A": "सलाह देना (verb)",
+        "B": "कहना",
+        "C": "सलाह (noun)",
+        "D": "सलाह दी थी"
       }
     },
     {
       "id": "obj_58",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "The new market.........everything. (Choose the correct option)",
-      "prashna": "नए बाजार में ......... सब कुछ है। (सही विकल्प चुनें)",
+      "question": "Choose the correctly spelt word :",
+      "prashna": "सही वर्तनी वाले शब्द को चुनें :",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "have",
-        "D": "has"
+        "A": "Acteul",
+        "B": "Actuel",
+        "C": "Actual",
+        "D": "Akchual"
       },
       "vikalpa": {
-        "A": "is",
-        "B": "was",
-        "C": "have",
-        "D": "has"
+        "A": "Acteul",
+        "B": "Actuel",
+        "C": "वास्तविक (Actual)",
+        "D": "Akchual"
       }
     },
     {
-      "id": "obj_97",
+      "id": "obj_67",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "The two kinds of ideas which contributed most to the mankind were knowledge and technique and...............",
-      "prashna": "मानव जाति में सबसे अधिक योगदान देने वाले दो प्रकार के विचार ज्ञान और तकनीक और ............... थे।",
+      "question": "Who wrote, 'The Scholar Gypsy' ? (Choose the correct option)",
+      "prashna": "'द स्कॉलर जिप्सी' किसने लिखी? (सही विकल्प चुनें)",
       "options": {
-        "A": "moral and values",
-        "B": "morals and politics",
-        "C": "moral and inventions",
-        "D": "moral and wisdom"
+        "A": "Matthew Arnold",
+        "B": "W: B. Yeats",
+        "C": "Robert Bridges",
+        "D": "Thomas Hardy"
       },
       "vikalpa": {
-        "A": "नैतिक और मूल्य",
-        "B": "नैतिकता और राजनीति",
-        "C": "नैतिक और आविष्कार",
-        "D": "नैतिक और बुद्धि (moral and wisdom)"
+        "A": "मैथ्यू अर्नोल्ड",
+        "B": "डब्ल्यू. बी. यीट्स",
+        "C": "रॉबर्ट ब्रिज",
+        "D": "थॉमस हार्डी"
       }
     },
     {
-      "id": "long_1",
-      "type": "long_answer",
+      "id": "obj_74",
+      "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "Write the summary of any one of the following poems: (i) Ode to Autumn (ii) Fire-Hymn (iii) Snake",
-      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें: (i) ओड टू ऑटम (ii) फायर-हाइमन (iii) स्नेक"
+      "question": "'A Marriage Proposal' is a ...............",
+      "prashna": "'ए मैरिज प्रपोजल' एक ............... है।",
+      "options": {
+        "A": "tragedy",
+        "B": "satire",
+        "C": "tragi-comedy",
+        "D": "comedy"
+      },
+      "vikalpa": {
+        "A": "दुखांतिका",
+        "B": "व्यंग्य",
+        "C": "दुखांत-सुखांतिका",
+        "D": "प्रहसन/कॉमेडी (comedy)"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Who travelled free with Nanukaka ?",
+      "prashna": "नानूकाका के साथ मुफ्त में किसने यात्रा की?",
+      "options": {
+        "A": "Dog",
+        "B": "Rabbit",
+        "C": "Hen",
+        "D": "Kitten"
+      },
+      "vikalpa": {
+        "A": "कुत्ता",
+        "B": "खरगोश",
+        "C": "मुर्गी",
+        "D": "बिल्ली का बच्चा (Kitten)"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "'Macavity : The Mystery Cat' has been taken from ...............",
+      "prashna": "'मैकैविटी: द मिस्ट्री कैट' कहाँ से ली गई है?",
+      "options": {
+        "A": "Old Alan's Book of Cats",
+        "B": "Old Possum's Book of Practical Cats",
+        "C": "Young Arthur's Cats",
+        "D": "Young Mathew's Dogs and Cats"
+      },
+      "vikalpa": {
+        "A": "ओल्ड एलन की बुक ऑफ कैट्स",
+        "B": "ओल्ड पॉसम्स बुक ऑफ प्रैक्टिकल कैट्स",
+        "C": "यंग आर्थर्स कैट्स",
+        "D": "यंग मैथ्यूज डॉग्स एंड कैट्स"
+      }
     }
   ],
-  "2024": [
+  "2022": [
     {
-      "id": "obj_13",
+      "id": "obj_8",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "Do what you want to do, ........... don't disturb me. (Choose the correct option)",
-      "prashna": "जो तुम करना चाहते हो करो, ........... मुझे परेशान मत करो। (सही विकल्प चुनें)",
+      "question": "Choose the odd one out :",
+      "prashna": "विषम को चुनें :",
       "options": {
-        "A": "though",
-        "B": "that",
-        "C": "but",
-        "D": "so"
+        "A": "Wheat",
+        "B": "Paddy",
+        "C": "Barley",
+        "D": "Mustard"
       },
       "vikalpa": {
-        "A": "यद्यपि",
-        "B": "कि",
-        "C": "लेकिन",
-        "D": "इसलिए"
+        "A": "Wheat (गेहूँ)",
+        "B": "Paddy (धान)",
+        "C": "Barley (जौ)",
+        "D": "Mustard (सरसों)"
       }
     },
     {
-      "id": "obj_14",
+      "id": "obj_17",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "It was not a ........... act at all. (Choose the correct option)",
-      "prashna": "यह बिल्कुल भी ........... कार्य नहीं था। (सही विकल्प चुनें)",
+      "question": "All his friends laughed at him. (Choose the correct passive voice)",
+      "prashna": "उसके सभी दोस्त उस पर हँसे। (सही पैसिव वॉयस चुनें)",
       "options": {
-        "A": "pardon",
-        "B": "pardoning",
-        "C": "pardoned",
-        "D": "pardonable"
+        "A": "He was being laughed at by all his friends",
+        "B": "He was being laughed by all his friends",
+        "C": "He was laughed by all his friends",
+        "D": "He was laughed at by all his friends"
       },
       "vikalpa": {
-        "A": "क्षमा",
-        "B": "क्षमा करना",
-        "C": "क्षमा किया हुआ",
-        "D": "क्षम्य"
+        "A": "He was being laughed at by all his friends",
+        "B": "He was being laughed by all his friends",
+        "C": "He was laughed by all his friends",
+        "D": "He was laughed at by all his friends"
       }
     },
     {
-      "id": "obj_39",
+      "id": "obj_29",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "There is ........... university here. (Choose the correct option)",
-      "prashna": "यहाँ ........... विश्वविद्यालय है। (सही विकल्प चुनें)",
+      "question": "We believe in immortality of the ............ . (Choose the correct option)",
+      "prashna": "हम ............ की अमरता में विश्वास करते हैं। (सही विकल्प चुनें)",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
+        "A": "sole",
+        "B": "soul",
+        "C": "union",
+        "D": "wave"
       },
       "vikalpa": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "कोई आर्टिकल नहीं"
-      }
-    },
-    {
-      "id": "obj_81",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "In ‘Fire-Hymn’, Daruwalla talks about a",
-      "prashna": "‘Fire-Hymn’ में दारूवाला ........... के बारे में बात करते हैं",
-      "options": {
-        "A": "burning clothes",
-        "B": "burning house",
-        "C": "burning forest",
-        "D": "burning ghat"
-      },
-      "vikalpa": {
-        "A": "जलते कपड़े",
-        "B": "जलते घर",
-        "C": "जलते जंगल",
-        "D": "श्मशान घाट (burning ghat)"
+        "A": "तलवा",
+        "B": "आत्मा",
+        "C": "संघ",
+        "D": "लहर"
       }
     },
     {
       "id": "obj_82",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "“And his footprints are not found in any file of Scotland Yard.” It is from",
-      "prashna": "“और उसके पदचिह्न स्कॉटलैंड यार्ड की किसी भी फाइल में नहीं पाए जाते हैं।” यह कहाँ से है?",
+      "question": "I celebrate myself, and sing myself, And what I assume you shall assume\" — is from",
+      "prashna": "\"मैं स्वयं का उत्सव मनाता हूँ, और स्वयं गाता हूँ, और जो मैं मानता हूँ वह तुम भी मानोगे\" — यह कहाँ से है?",
       "options": {
-        "A": "The Soldier",
-        "B": "Fire-Hymn",
-        "C": "Ode to Autumn",
-        "D": "Macavity : The Mystery Cat"
+        "A": "Fire Hymn",
+        "B": "Snake",
+        "C": "Song of Myself",
+        "D": "To Autumn"
       },
       "vikalpa": {
-        "A": "The Soldier",
-        "B": "Fire-Hymn",
-        "C": "Ode to Autumn",
-        "D": "Macavity : The Mystery Cat"
+        "A": "फायर हिम्न",
+        "B": "स्नेक",
+        "C": "सॉन्ग ऑफ माईसेल्फ",
+        "D": "टू ऑटम"
       }
     }
   ],
-  "2025": [
+  "2023": [
     {
-      "id": "obj_3",
+      "id": "obj_30",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "The children locked ......... up in the cupboard.",
-      "prashna": "बच्चों ने खुद को अलमारी में बंद कर लिया।",
+      "question": "They tried to.............the painting. (Choose the correct option)",
+      "prashna": "उन्होंने पेंटिंग ............. की कोशिश की। (सही विकल्प चुनें)",
       "options": {
-        "A": "their",
-        "B": "himself",
-        "C": "them",
-        "D": "themselves"
+        "A": "steel",
+        "B": "steale",
+        "C": "still",
+        "D": "steal"
       },
       "vikalpa": {
-        "A": "their",
-        "B": "himself",
-        "C": "them",
-        "D": "themselves"
+        "A": "इस्पात (steel)",
+        "B": "steale",
+        "C": "स्थिर (still)",
+        "D": "चुराना (steal)"
       }
     },
     {
-      "id": "obj_10",
+      "id": "obj_45",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "......... a borrower nor a lender be.",
-      "prashna": "......... न तो उधार लेने वाले और न ही उधार देने वाले बनें।",
+      "question": "Turn the.............before starting the meeting. (Choose the correct option)",
+      "prashna": "मीटिंग शुरू करने से पहले ............. चालू/बंद करें। (सही विकल्प चुनें)",
       "options": {
-        "A": "Either",
-        "B": "Nor",
-        "C": "Neither",
-        "D": "Or"
+        "A": "lights on",
+        "B": "lights up",
+        "C": "lights by",
+        "D": "lights off"
       },
       "vikalpa": {
-        "A": "Either",
-        "B": "Nor",
-        "C": "Neither",
-        "D": "Or"
-      }
-    },
-    {
-      "id": "obj_52",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "We ......... be punctual.",
-      "prashna": "हमें समय का पाबंद ......... होना चाहिए।",
-      "options": {
-        "A": "ought",
-        "B": "might",
-        "C": "may",
-        "D": "must"
-      },
-      "vikalpa": {
-        "A": "ought",
-        "B": "might",
-        "C": "may",
-        "D": "must"
-      }
-    },
-    {
-      "id": "obj_53",
-      "type": "objective",
-      "chapter_name": "The Tiger King",
-      "question": "Is Hindi spoken by them ? (Choose the correct active voice)",
-      "prashna": "क्या उनके द्वारा हिंदी बोली जाती है? (सही सक्रिय आवाज चुनें)",
-      "options": {
-        "A": "Do they speak Hindi ?",
-        "B": "Speak Hindi will they ?",
-        "C": "Should they speak Hindi ?",
-        "D": "Hindi must they speak ?"
-      },
-      "vikalpa": {
-        "A": "क्या वे हिंदी बोलते हैं?",
-        "B": "क्या वे हिंदी बोलेंगे?",
-        "C": "क्या उन्हें हिंदी बोलनी चाहिए?",
-        "D": "क्या उन्हें हिंदी बोलनी ही चाहिए?"
+        "A": "लाइट चालू करें (lights on)",
+        "B": "lights up",
+        "C": "lights by",
+        "D": "लाइट बंद करें (lights off)"
       }
     },
     {
       "id": "obj_71",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "......... is told by an aunt.",
-      "prashna": "एक चाची द्वारा ......... सुनाई जाती है।",
+      "question": "According to Eliot, Macavity is the.............. of crime.",
+      "prashna": "इलियट के अनुसार, मैकैविटी अपराध का .............. है।",
       "options": {
-        "A": "Jupthoka",
-        "B": "Rupthoka",
-        "C": "Supthoka",
-        "D": "Tupthoka"
+        "A": "Hitler",
+        "B": "Napoleon",
+        "C": "Alexander",
+        "D": "Osama"
       },
       "vikalpa": {
-        "A": "Jupthoka",
-        "B": "Rupthoka",
-        "C": "Supthoka",
-        "D": "Tupthoka"
+        "A": "हिटलर",
+        "B": "नेपोलियन",
+        "C": "सिकंदर",
+        "D": "ओसामा"
       }
     },
     {
-      "id": "obj_92",
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Answer any five of the following in about 40-50 words each:\n(a) How did Seibei's father react to the teacher's complaint?\n(b) What are the 'trials and tribulations' Martin Luther King, Jr. talks about?\n(c) Why were the intellectuals in India restless and embittered?\n(d) How is Lomov greeted by Choobookov?\n(e) How do sighing and weeping affect the speaker?\n(f) What does the poet Walt Whitman want to do with creeds?\n(g) How do we complete our last journey to the grave?\n(h) Who is called the 'Father of the Modern Novel’?\n(i) What is the dramatic structure of a tragedy?\n(j) What did the 18th century grammarians think about their role?",
+      "prashna": "निम्नलिखित में से किन्हीं पाँच के उत्तर लगभग 40-50 शब्दों में दें:\n(a) शिक्षक की शिकायत पर सेईबेई के पिता ने क्या प्रतिक्रिया दी?\n(b) वे 'परीक्षण और क्लेश' (trials and tribulations) क्या हैं जिनके बारे में मार्टिन लूथर किंग जूनियर बात करते हैं?\n(c) भारत में बुद्धिजीवी अशांत और कटु क्यों थे?\n(d) चुबुकोव ने लोमोव का स्वागत कैसे किया?\n(e) आहें भरना और रोना वक्ता को कैसे प्रभावित करता है?\n(f) कवि वॉल्ट व्हिटमैन पंथों (creeds) के साथ क्या करना चाहते हैं?\n(g) हम कब्र तक अपनी अंतिम यात्रा कैसे पूरी करते हैं?\n(h) 'आधुनिक उपन्यास का पिता' किसे कहा जाता है?\n(i) त्रासदी (tragedy) की नाटकीय संरचना क्या है?\n(j) 18वीं शताब्दी के व्याकरणविदों ने अपनी भूमिका के बारे में क्या सोचा?"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Write a note on the future of English.",
+      "prashna": "अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_36",
       "type": "objective",
       "chapter_name": "The Tiger King",
-      "question": "......... spent her childhood days with her grandmother.",
-      "prashna": "......... ने अपने बचपन के दिन अपनी दादी के साथ बिताए।",
+      "question": "The police ........... the thief. (Choose the correct option)",
+      "prashna": "पुलिस ने चोर को ...........। (सही विकल्प चुनें)",
       "options": {
-        "A": "Indira Gandhi",
-        "B": "Mamta Kalia",
-        "C": "Kamala Das",
-        "D": "Mahadevi Verma"
+        "A": "arrest",
+        "B": "arrested",
+        "C": "arresting",
+        "D": "has arrest"
       },
       "vikalpa": {
-        "A": "इंदिरा गांधी",
-        "B": "ममता कालिया",
-        "C": "कमला दास",
-        "D": "महादेवी वर्मा"
+        "A": "गिरफ्तार करना",
+        "B": "गिरफ्तार किया",
+        "C": "गिरफ्तार कर रहा है",
+        "D": "गिरफ्तार किया है"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Choose the correctly spelt word :",
+      "prashna": "सही वर्तनी वाला शब्द चुनें :",
+      "options": {
+        "A": "Concent",
+        "B": "Cunsent",
+        "C": "Consent",
+        "D": "Counsent"
+      },
+      "vikalpa": {
+        "A": "Concent",
+        "B": "Cunsent",
+        "C": "Consent (सहमति)",
+        "D": "Counsent"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "They should not ........... upon the poor. (Choose the correct phrase)",
+      "prashna": "उन्हें गरीबों को ........... नहीं चाहिए। (सही वाक्यांश चुनें)",
+      "options": {
+        "A": "look up",
+        "B": "look down",
+        "C": "look after",
+        "D": "look on"
+      },
+      "vikalpa": {
+        "A": "ऊपर देखना",
+        "B": "नीचा दिखाना/तिरस्कार करना",
+        "C": "देखभाल करना",
+        "D": "देखना"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "Attic civilization belongs to",
+      "prashna": "एटिक (Attic) सभ्यता ........... से संबंधित है",
+      "options": {
+        "A": "India",
+        "B": "Greece",
+        "C": "Rome",
+        "D": "China"
+      },
+      "vikalpa": {
+        "A": "भारत",
+        "B": "यूनान (Greece)",
+        "C": "रोम",
+        "D": "चीन"
+      }
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter_name": "The Tiger King",
+      "question": "Write the summary of any one of the following poems :\ni) Sweetest Love, I Do Not Goe\nii) The Soldier\niii) Now the Leaves are Falling Fast.",
+      "prashna": "निम्नलिखित कविताओं में से किसी एक का सारांश लिखें:\ni) Sweetest Love, I Do Not Goe\nii) The Soldier\niii) Now the Leaves are Falling Fast."
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "She ......... know the answer.",
+      "prashna": "उसे उत्तर पता है।",
+      "options": {
+        "A": "have",
+        "B": "ought",
+        "C": "might",
+        "D": "did"
+      },
+      "vikalpa": {
+        "A": "have",
+        "B": "ought",
+        "C": "might",
+        "D": "did"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "The teacher said, \"Is anyone there ?\" (Choose the correct indirect speech)",
+      "prashna": "शिक्षक ने कहा, \"क्या कोई वहां है?\" (सही अप्रत्यक्ष कथन चुनें)",
+      "options": {
+        "A": "The teacher asked if anyone was there",
+        "B": "The teacher will ask if anyone was there",
+        "C": "The teacher had said if anyone was there",
+        "D": "The teacher will say if anyone was there"
+      },
+      "vikalpa": {
+        "A": "शिक्षक ने पूछा कि क्या वहां कोई था",
+        "B": "शिक्षक पूछेगा कि क्या वहां कोई था",
+        "C": "शिक्षक ने कहा था कि क्या वहां कोई था",
+        "D": "शिक्षक कहेगा कि क्या वहां कोई था"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter_name": "The Tiger King",
+      "question": "\"A Child is Born\" is taken from",
+      "prashna": "\"A Child is Born\" कहाँ से लिया गया है?",
+      "options": {
+        "A": "Human Fertility",
+        "B": "The Change",
+        "C": "Sex and Destiny",
+        "D": "The Female Eunuch"
+      },
+      "vikalpa": {
+        "A": "Human Fertility",
+        "B": "The Change",
+        "C": "Sex and Destiny",
+        "D": "The Female Eunuch"
       }
     }
   ]

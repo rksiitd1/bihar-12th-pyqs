@@ -1,38 +1,59 @@
 {
-  "2021": [
+  "2011": [
     {
-      "id": "long_1_4",
+      "id": "long_3_1",
       "type": "long_answer",
       "chapter_name": "The Last Lesson",
-      "question": "Match the names of the poets given in List-A with their works in List-B : \nList-A: i) T. S. Eliot, ii) Rupert Brooke, iii) Walt Whitman, iv) Kamala Das, v) Walter de la Mare \nList-B: a) My Grandmother's House, b) An Epitaph, c) Macavity : The Mystery Cat, d) Song of Myself, e) The Soldier",
-      "prashna": "सूची-A में दिए गए कवियों के नामों का उनकी सूची-B में दी गई रचनाओं से मिलान करें: \nसूची-A: i) टी. एस. एलियट, ii) रूपर्ट ब्रुक, iii) वॉल्ट व्हिटमैन, iv) कमला दास, v) वॉल्टर डी ला मेयर \nसूची-B: a) माई ग्रैंडमदर्स हाउस, b) एन एपिटाफ, c) मैकैविटी: द मिस्ट्री कैट, d) सॉन्ग ऑफ मायसेल्फ, e) द सोल्जर"
-    }
-  ],
-  "2022": [
+      "question": "Write a note on the future of English in India.",
+      "prashna": "भारत में अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।"
+    },
     {
-      "id": "long_1_3",
+      "id": "long_4_1",
       "type": "long_answer",
       "chapter_name": "The Last Lesson",
-      "question": "c) Write a note on the dialects of Middle English.\nOR Write a note on the future of English.\nOR Write a note on American English.",
-      "prashna": "ग) मध्य अंग्रेजी की बोलियों पर एक टिप्पणी लिखें।\nअथवा अंग्रेजी के भविष्य पर एक टिप्पणी लिखें।\nअथवा अमेरिकी अंग्रेजी पर एक टिप्पणी लिखें।"
-    }
-  ],
-  "2024": [
-    {
-      "id": "long_1_3_3",
-      "type": "long_answer",
-      "chapter_name": "The Last Lesson",
-      "question": "Write a note on Modern English.",
-      "prashna": "आधुनिक अंग्रेजी पर एक टिप्पणी लिखें।"
+      "question": "Write a brief note on the Indian English.",
+      "prashna": "भारतीय अंग्रेजी पर एक संक्षिप्त टिप्पणी लिखें।"
     }
   ],
   "2025": [
     {
-      "id": "long_3_3",
+      "id": "long_4",
       "type": "long_answer",
       "chapter_name": "The Last Lesson",
-      "question": "Write a note on American English.",
-      "prashna": "अमेरिकी अंग्रेजी पर एक टिप्पणी लिखें।"
+      "question": "Match the names of the poems given in List-A with their poets in List-B :",
+      "prashna": "सूची-A में दी गई कविताओं के नामों का सूची-B में उनके कवियों के साथ मिलान करें:",
+      "sub_questions": {
+        "List-A": [
+          "i) An Epitaph",
+          "ii) Snake",
+          "iii) Song of Myself",
+          "iv) Now the Leaves are Falling Fast",
+          "v) Fire-Hymn"
+        ],
+        "List-B": [
+          "a) W. H. Auden",
+          "b) Walter de la Mare",
+          "c) D. H. Lawrence",
+          "d) K. N. Daruwalla",
+          "e) Walt Whitman"
+        ]
+      },
+      "anuprashna": {
+        "List-A": [
+          "i) An Epitaph",
+          "ii) Snake",
+          "iii) Song of Myself",
+          "iv) Now the Leaves are Falling Fast",
+          "v) Fire-Hymn"
+        ],
+        "List-B": [
+          "a) डब्ल्यू. एच. ऑडेन",
+          "b) वाल्टर डी ला मारे",
+          "c) डी. एच. लॉरेंस",
+          "d) के. एन. दारूवाला",
+          "e) वॉल्ट व्हिटमैन"
+        ]
+      }
     }
   ]
 }

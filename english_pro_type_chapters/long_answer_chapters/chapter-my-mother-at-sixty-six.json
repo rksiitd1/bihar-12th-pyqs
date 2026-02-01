@@ -1,4 +1,31 @@
 {
+  "2015": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Match the poets given in List-A with appropriate titles from List-B:\nList-A:\n(a) Walt Whitman\n(b) K.N. Daruwala\n(c) T.S. Eliot\n(d) John Donne\n(e) Walter de la Mare\n\nList-B:\n(i) An Epitaph\n(ii) Sweetest Love I do not Goe\n(iii) Fire Hymn\n(iv) Song of Myself\n(v) Macavity: The Mystery Cat",
+      "prashna": "सूची-ए में दिए गए कवियों का सूची-बी में दिए गए उपयुक्त शीर्षकों से मिलान करें:\nसूची-ए:\n(क) वॉल्ट व्हिटमैन\n(ख) के.एन. दारूवाला\n(ग) टी.एस. एलियट\n(घ) जॉन डन\n(ङ) वाल्टर डी ला मेयर\n\nसूची-बी:\n(i) एन एपिटाफ़\n(ii) स्वीटेस्ट लव आई डू नॉट गो\n(iii) फायर हाइमन\n(iv) सॉन्ग ऑफ माईसेल्फ\n(v) मैकैविटी: द मिस्ट्री कैट"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Write the summary of any one of the following poems:\n(a) Macavity: The Mystery Cat\n(b) The Autumn\n(c) Song of Myself\n(d) An Epitaph",
+      "prashna": "निम्नलिखित में से किसी एक कविता का सारांश लिखें:\n(क) मैकैविटी: द मिस्ट्री कैट\n(ख) द ऑटम\n(ग) सॉन्ग ऑफ माईसेल्फ\n(घ) एन एपिटाफ"
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_1_4",
+      "type": "long_answer",
+      "chapter_name": "My Mother at Sixty-Six",
+      "question": "Match the names of the poets given in List-A with their works in List-B\nList-A: (i) John Donne, (ii) W.H. Auden, (iii) Rupert Brooke, (iv) Kamla Das, (v) Walt Whitman\nList-B: (a) The Soldier, (b) Sweetest Love, I Do Not Goe, (c) Now the Leaves Are Falling Fast, (d) Song of Myself, (e) My Grandmother's House",
+      "prashna": "सूची-A में दिए गए कवियों के नामों का सूची-B में उनकी रचनाओं के साथ मिलान करें"
+    }
+  ],
   "2021": [
     {
       "id": "long_1_5",
@@ -6,22 +33,6 @@
       "chapter_name": "My Mother at Sixty-Six",
       "question": "Translate any five into English : \ni) तुम कहाँ जा रहे हो ? \nii) सुमिता गा चुकी है । \niii) हमें बड़ों का आदर करना चाहिए । \niv) मेरी कक्षा में सौ विद्यार्थी हैं । \nv) वह घर पहुँच चुका होगा । \nvi) शाम में तुम्हें बाजार जाना होगा । \nvii) मुझे वह किताब चाहिए । \nviii) गुरु-शिष्य का संबंध पवित्र होता है ।",
       "prashna": "किन्हीं पाँच का अंग्रेजी में अनुवाद करें: \ni) तुम कहाँ जा रहे हो ? \nii) सुमिता गा चुकी है । \niii) हमें बड़ों का आदर करना चाहिए । \niv) मेरी कक्षा में सौ विद्यार्थी हैं । \nv) वह घर पहुँच चुका होगा । \nvi) शाम में तुम्हें बाजार जाना होगा । \nvii) मुझे वह किताब चाहिए । \nviii) गुरु-शिष्य का संबंध पवित्र होता है ।"
-    }
-  ],
-  "2023": [
-    {
-      "id": "long_6",
-      "type": "long_answer",
-      "chapter_name": "My Mother at Sixty-Six",
-      "question": "Match the names of the prose pieces in List-A with their authors in List-B\nList-A:\n(i) I Have a Dream\n(ii) India Through a Traveller's Eye\n(iii) How Free is the Press\n(iv) A Pinch of Snuff\n(v) The Earth\nList-B:\n(a) Manohar Malgaonkar\n(b) H. E. Bates\n(c) Pearl S. Buck\n(d) Martin Luther King, Jr.\n(e) Dorothy L. Sayers",
-      "prashna": "सूची-A में गद्य कृतियों के नामों का सूची-B में उनके लेखकों के साथ मिलान करें।",
-      "sub_questions": {
-        "i": "I Have a Dream - (d) Martin Luther King, Jr.",
-        "ii": "India Through a Traveller's Eye - (c) Pearl S. Buck",
-        "iii": "How Free is the Press - (e) Dorothy L. Sayers",
-        "iv": "A Pinch of Snuff - (a) Manohar Malgaonkar",
-        "v": "The Earth - (b) H. E. Bates"
-      }
     }
   ]
 }

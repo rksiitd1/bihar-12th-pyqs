@@ -1,0 +1,546 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "chapter_name": "My Mother at Sixty-Six",
+        "question": "She agreed ........ my proposal. (Choose the suitable preposition)",
+        "prashna": "वह मेरे प्रस्ताव पर ........ सहमत हुई। (उपयुक्त पूर्वसर्ग चुनें)",
+        "options": {
+            "A": "with",
+            "B": "for",
+            "C": "to",
+            "D": "on"
+        },
+        "vikalpa": {
+            "A": "with",
+            "B": "for",
+            "C": "to",
+            "D": "on"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "chapter_name": "The Tiger King",
+        "question": "He came home late .......... the evening. (Choose the suitable preposition)",
+        "prashna": "वह शाम .......... देर से घर आया। (उपयुक्त पूर्वसर्ग चुनें)",
+        "options": {
+            "A": "with",
+            "B": "in",
+            "C": "at",
+            "D": "for"
+        },
+        "vikalpa": {
+            "A": "with",
+            "B": "in",
+            "C": "at",
+            "D": "for"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "chapter_name": "Going Places",
+        "question": "Santosh deals .......... grains. (Choose the suitable preposition)",
+        "prashna": "संतोष अनाज का व्यापार .......... करता है। (उपयुक्त पूर्वसर्ग चुनें)",
+        "options": {
+            "A": "with",
+            "B": "in",
+            "C": "at",
+            "D": "for"
+        },
+        "vikalpa": {
+            "A": "with",
+            "B": "in",
+            "C": "at",
+            "D": "for"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "chapter_name": "Memories of Childhood",
+        "question": "We saw them quarrel. (Choose the most suitable passive voice)",
+        "prashna": "हमने उन्हें झगड़ते देखा। (सबसे उपयुक्त कर्मवाच्य चुनें)",
+        "options": {
+            "A": "They were seen by we quarrel.",
+            "B": "They were quarrelling as seen by us.",
+            "C": "They were seen quarrelling.",
+            "D": "They were quarrelling seen by us."
+        },
+        "vikalpa": {
+            "A": "They were seen by we quarrel.",
+            "B": "They were quarrelling as seen by us.",
+            "C": "They were seen quarrelling.",
+            "D": "They were quarrelling seen by us."
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "chapter_name": "Keeping Quiet",
+        "question": "Choose the suitable meaning of the phrase: 'at the eleventh hour'",
+        "prashna": "मुहावरे का उपयुक्त अर्थ चुनें: 'at the eleventh hour'",
+        "options": {
+            "A": "at the very beginning",
+            "B": "at the very last",
+            "C": "at once",
+            "D": "once upon a time"
+        },
+        "vikalpa": {
+            "A": "बिल्कुल शुरुआत में",
+            "B": "बिल्कुल अंत में",
+            "C": "एकदम से",
+            "D": "एक समय की बात है"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "chapter_name": "The Interview",
+        "question": "Choose the suitable meaning of the phrase: By hook or by crook",
+        "prashna": "मुहावरे का उपयुक्त अर्थ चुनें: 'By hook or by crook'",
+        "options": {
+            "A": "to make possible by any means",
+            "B": "fair means",
+            "C": "decent means",
+            "D": "by no means"
+        },
+        "vikalpa": {
+            "A": "किसी भी तरह से संभव बनाना",
+            "B": "उचित साधन",
+            "C": "शालीन साधन",
+            "D": "किसी भी तरह से नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "chapter_name": "Indigo",
+        "question": "The General was killed. The army fled. (Choose the suitable combination of sentences)",
+        "prashna": "जनरल मारा गया। सेना भाग गई। (वाक्यों का उपयुक्त संयोजन चुनें)",
+        "options": {
+            "A": "The General was killed because the army fled.",
+            "B": "The General was killed and the army was fled.",
+            "C": "The General was killed and so the army fled.",
+            "D": "The army fled and, therefore the General was killed."
+        },
+        "vikalpa": {
+            "A": "The General was killed because the army fled.",
+            "B": "The General was killed and the army was fled.",
+            "C": "The General was killed and so the army fled.",
+            "D": "The army fled and, therefore the General was killed."
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "chapter_name": "A Roadside Stand",
+        "question": "This is the book. He likes it most. (Choose the most suitable combination of sentences)",
+        "prashna": "यह वही किताब है। वह इसे सबसे ज्यादा पसंद करता है। (वाक्यों का सबसे उपयुक्त संयोजन चुनें)",
+        "options": {
+            "A": "This is the book, so he likes it most.",
+            "B": "This is the book, therefore he likes it most.",
+            "C": "This is the book, because he likes it most.",
+            "D": "This is the book which he likes most."
+        },
+        "vikalpa": {
+            "A": "This is the book, so he likes it most.",
+            "B": "This is the book, therefore he likes it most.",
+            "C": "This is the book, because he likes it most.",
+            "D": "This is the book which he likes most."
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "chapter_name": "A Thing of Beauty",
+        "question": "Choose the following word correctly spelt:",
+        "prashna": "निम्नलिखित में से सही वर्तनी वाला शब्द चुनें:",
+        "options": {
+            "A": "goverment",
+            "B": "government",
+            "C": "govarment",
+            "D": "govermant"
+        },
+        "vikalpa": {
+            "A": "goverment",
+            "B": "government",
+            "C": "govarment",
+            "D": "govermant"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "chapter_name": "On the Face of It",
+        "question": "They would succeed if they (try) (Choose the most suitable option)",
+        "prashna": "वे सफल होते यदि उन्होंने (प्रयास किया होता) (सबसे उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "They would succeed if they would try.",
+            "B": "They would succeed if they had tried.",
+            "C": "They would succeed if they were trying.",
+            "D": "They would succeed if they tried."
+        },
+        "vikalpa": {
+            "A": "They would succeed if they would try.",
+            "B": "They would succeed if they had tried.",
+            "C": "They would succeed if they were trying.",
+            "D": "They would succeed if they tried."
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "chapter_name": "A Roadside Stand",
+        "question": "This girl never (see) the Taj Mahal. (Choose the most suitable option)",
+        "prashna": "इस लड़की ने कभी ताज महल नहीं (देखा) है। (सबसे उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "This girl has never seen the Taj Mahal.",
+            "B": "This girl is never seen the Taj Mahal.",
+            "C": "This girl not see the Taj Mahal.",
+            "D": "This girl has seen the Taj Mahal never."
+        },
+        "vikalpa": {
+            "A": "This girl has never seen the Taj Mahal.",
+            "B": "This girl is never seen the Taj Mahal.",
+            "C": "This girl not see the Taj Mahal.",
+            "D": "This girl has seen the Taj Mahal never."
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "chapter_name": "The Enemy",
+        "question": "We .......................there a week ago. (Fill the blank with the most suitable option)",
+        "prashna": "हम एक हफ्ते पहले वहां .......................। (रिक्त स्थान को सबसे उपयुक्त विकल्प से भरें)",
+        "options": {
+            "A": "go",
+            "B": "had been gone",
+            "C": "went",
+            "D": "was going"
+        },
+        "vikalpa": {
+            "A": "go",
+            "B": "had been gone",
+            "C": "went",
+            "D": "was going"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "chapter_name": "Indigo",
+        "question": "The students ................. when the teacher came into the classroom (Choose the suitable option)",
+        "prashna": "जब शिक्षक कक्षा में आए तो छात्र ................. (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "sang",
+            "B": "had sung",
+            "C": "was sang",
+            "D": "were singing"
+        },
+        "vikalpa": {
+            "A": "sang",
+            "B": "had sung",
+            "C": "was sang",
+            "D": "were singing"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "chapter_name": "Deep Water",
+        "question": "He is vexed ........... his neighbour. (Choose the most suitable option)",
+        "prashna": "वह अपने पड़ोसी से ........... परेशान है। (सबसे उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "at",
+            "B": "with",
+            "C": "on",
+            "D": "for"
+        },
+        "vikalpa": {
+            "A": "at",
+            "B": "with",
+            "C": "on",
+            "D": "for"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "chapter_name": "The Last Lesson",
+        "question": "Yeats was ............ with great poetic talents. (Choose the most suitable option)",
+        "prashna": "येट्स महान काव्य प्रतिभा से ............ थे। (सबसे उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "granted",
+            "B": "given",
+            "C": "gifted",
+            "D": "acquired"
+        },
+        "vikalpa": {
+            "A": "granted",
+            "B": "given",
+            "C": "gifted",
+            "D": "acquired"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "chapter_name": "On the Face of It",
+        "question": "The writer of the piece 'On Letter Writing' is ................. (Choose the correct option)",
+        "prashna": "'On Letter Writing' लेख के लेखक ................. हैं (सही विकल्प चुनें)",
+        "options": {
+            "A": "A. G. Gardiner",
+            "B": "Robert Lynd",
+            "C": "J. C. Hill",
+            "D": "C. E. M. Joad"
+        },
+        "vikalpa": {
+            "A": "ए. जी. गार्डिनर",
+            "B": "रॉबर्ट लिंड",
+            "C": "जे. सी. हिल",
+            "D": "सी. ई. एम. जोड"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "chapter_name": "Indigo",
+        "question": "Who talks about 'the leafy boughs'? (Choose the suitable option)",
+        "prashna": "'The leafy boughs' के बारे में कौन बात करता है? (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "W. B. Yeats",
+            "B": "Walter de la Mare",
+            "C": "Rupert Brooke",
+            "D": "William Wordsworth"
+        },
+        "vikalpa": {
+            "A": "डब्ल्यू. बी. येट्स",
+            "B": "वाल्टर डे ला मारे",
+            "C": "रूपर्ट ब्रूक",
+            "D": "विलियम वर्ड्सवर्थ"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "chapter_name": "The Tiger King",
+        "question": "Letter writing was done more carefully in the ........ (Choose the most suitable option)",
+        "prashna": "........ में पत्र लेखन अधिक सावधानी से किया जाता था (सबसे उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "Present",
+            "B": "Pre-historic period",
+            "C": "past",
+            "D": "future"
+        },
+        "vikalpa": {
+            "A": "वर्तमान",
+            "B": "प्रागैतिहासिक काल",
+            "C": "अतीत",
+            "D": "भविष्य"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "chapter_name": "The Rattrap",
+        "question": "Wordsworth saw a host of daffodils beside the ........ (Choose the suitable option)",
+        "prashna": "वर्ड्सवर्थ ने ........ के पास डैफोडिल्स का एक झुंड देखा (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "river",
+            "B": "lake",
+            "C": "sea",
+            "D": "hill"
+        },
+        "vikalpa": {
+            "A": "नदी",
+            "B": "झील",
+            "C": "समुद्र",
+            "D": "पहाड़ी"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "chapter_name": "Keeping Quiet",
+        "question": "Who wrote the poem 'Everyone Sang'? (Choose the suitable option)",
+        "prashna": "'Everyone Sang' कविता किसने लिखी थी? (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "Siegfried Sassoon",
+            "B": "W. B. Yeats",
+            "C": "T. S. Eliot",
+            "D": "William Wordsworth"
+        },
+        "vikalpa": {
+            "A": "सिगफ्रीड सैसून",
+            "B": "डब्ल्यू. बी. येट्स",
+            "C": "टी. एस. एलियट",
+            "D": "विलियम वर्ड्सवर्थ"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "chapter_name": "The Last Lesson",
+        "question": "'David Copperfield' is a novel about .................. psychology. (Choose the suitable option)",
+        "prashna": "'डेविड कॉपरफील्ड' .................. मनोविज्ञान के बारे में एक उपन्यास है। (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "adult",
+            "B": "female",
+            "C": "child",
+            "D": "old"
+        },
+        "vikalpa": {
+            "A": "वयस्क",
+            "B": "महिला",
+            "C": "बच्चा",
+            "D": "वृद्ध"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "chapter_name": "Journey to the End of the Earth",
+        "question": "Who was David's early nurse? (Choose the suitable option)",
+        "prashna": "डेविड की शुरुआती नर्स कौन थी? (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "Agnes Wickfield",
+            "B": "Uriah Heep",
+            "C": "Micawber",
+            "D": "Clara Peggotty"
+        },
+        "vikalpa": {
+            "A": "एग्नेस विकफील्ड",
+            "B": "उरिया हीप",
+            "C": "मिकाबर",
+            "D": "क्लारा पेगोटी"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "chapter_name": "Journey to the End of the Earth",
+        "question": "Who wrote the piece 'Robin'? (Choose the suitable option)",
+        "prashna": "'Robin' रचना किसने लिखी थी? (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "Robert Lynd",
+            "B": "Jim Corbett",
+            "C": "A. G. Gardiner",
+            "D": "Pearl S. Buck"
+        },
+        "vikalpa": {
+            "A": "रॉबर्ट लिंड",
+            "B": "जिम कॉर्बेट",
+            "C": "ए. जी. गार्डिनर",
+            "D": "पर्ल एस. बक"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "chapter_name": "Journey to the End of the Earth",
+        "question": "The poet wants to go back to Innisfree because of .......... (Choose the suitable option)",
+        "prashna": "कवि .......... के कारण इनिसफ्री वापस जाना चाहता है (उपयुक्त विकल्प चुनें)",
+        "options": {
+            "A": "the fond memories of the place",
+            "B": "the charm of city life",
+            "C": "ugliness of the place",
+            "D": "beauty of cities"
+        },
+        "vikalpa": {
+            "A": "उस स्थान की प्यारी यादें",
+            "B": "शहरी जीवन का आकर्षण",
+            "C": "उस स्थान की कुरूपता",
+            "D": "शहरों की सुंदरता"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "chapter_name": "The Interview",
+        "question": "The poem 'If' is addressed to ............",
+        "prashna": "कविता 'If' ............ को संबोधित है",
+        "options": {
+            "A": "the poet's wife",
+            "B": "the poet's mistress",
+            "C": "the poet's father",
+            "D": "the poet's son."
+        },
+        "vikalpa": {
+            "A": "कवि की पत्नी",
+            "B": "कवि की प्रेमिका",
+            "C": "कवि के पिता",
+            "D": "कवि के पुत्र।"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "chapter_name": "On the Face of It",
+        "question": "Answer any two, each in about 75 words of the following:",
+        "prashna": "निम्नलिखित में से किन्हीं दो के उत्तर लगभग 75 शब्दों में दें:",
+        "sub_questions": {
+            "a": "Why are order and safety necessary for Civilization?",
+            "b": "Why was the writer angry with the Photographer?",
+            "c": "What does J. C. Hill say about truth?",
+            "d": "How did the dalesman avoid the postal charges?",
+            "e": "Why does the writer say that absent-mindedness may be a virtue?"
+        },
+        "anuprashna": {
+            "a": "सभ्यता के लिए व्यवस्था और सुरक्षा क्यों आवश्यक है?",
+            "b": "लेखक फोटोग्राफर से क्यों नाराज था?",
+            "c": "जे. सी. हिल सत्य के बारे में क्या कहते हैं?",
+            "d": "डेल्समैन ने डाक शुल्क से कैसे बचा?",
+            "e": "लेखक ऐसा क्यों कहता है कि भुलक्कड़पन एक गुण हो सकता है?"
+        }
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "chapter_name": "The Interview",
+        "question": "Show in about 75 words that you have read and understood one of the following poems:",
+        "prashna": "लगभग 75 शब्दों में दिखाएं कि आपने निम्नलिखित कविताओं में से एक को पढ़ा और समझा है:",
+        "sub_questions": {
+            "a": "Lake Isle of Innisfree",
+            "b": "The Daffodils",
+            "c": "The Soldier"
+        },
+        "anuprashna": {
+            "a": "लेक आइल ऑफ इनिसफ्री",
+            "b": "द डैफोडिल्स",
+            "c": "द सोल्जर"
+        }
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "chapter_name": "Journey to the End of the Earth",
+        "question": "Discuss in about 75 words the childhood of David Copperfield.",
+        "prashna": "लगभग 75 शब्दों में डेविड कॉपरफील्ड के बचपन की चर्चा करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "chapter_name": "Poets and Pancakes",
+        "question": "Discuss in about 75 words the character of Uriah Heep or Agnes Wickfield.",
+        "prashna": "लगभग 75 शब्दों में उरिया हीप या एग्नेस विकफील्ड के चरित्र की चर्चा करें।"
+    },
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "chapter_name": "Grammar",
+        "question": "Write a paragraph in about 75 words on one of the following:",
+        "prashna": "निम्नलिखित में से किसी एक पर लगभग 75 शब्दों में एक अनुच्छेद लिखें:",
+        "sub_questions": {
+            "a": "A Village Fair",
+            "b": "True Friend",
+            "c": "Pen is mightier than the sword."
+        },
+        "anuprashna": {
+            "a": "गाँव का मेला",
+            "b": "सच्चा मित्र",
+            "c": "कलम तलवार से अधिक शक्तिशाली है।"
+        }
+    }
+]
